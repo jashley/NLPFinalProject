@@ -3,16 +3,16 @@
 <name>Australian Competition and Consumer Commission v Qantas Airways Limited [2008] FCA 1976 (11 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1976.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">contravention of pt iv of trade practices act 1974 (cth), s 45(2)</catchphrase>
-<catchphrase "id=c1">arriving at and giving effect to understanding having purpose or likely effect of substantially lessening competition</catchphrase>
-<catchphrase "id=c2">understanding between respondent (qantas) and other international airlines as to surcharge to be imposed on international carriage of freight in consequence of increases in price of fuel</catchphrase>
-<catchphrase "id=c3">fuel surcharge understanding</catchphrase>
-<catchphrase "id=c4">agreed statement of facts and joint submissions</catchphrase>
-<catchphrase "id=c5">penalty of $20 million and injunction for three years sought by both parties</catchphrase>
-<catchphrase "id=c6">consideration of relevant factors and of role of court</catchphrase>
-<catchphrase "id=c7">relevant considerations</catchphrase>
-<catchphrase "id=c8">appropriateness of injunction of limited duration. held : pecuniary penalty and injunction in terms as agreed.</catchphrase>
-<catchphrase "id=c9">trade practices</catchphrase>
+<catchphrase id="c0">contravention of pt iv of trade practices act 1974 (cth), s 45(2)</catchphrase>
+<catchphrase id="c1">arriving at and giving effect to understanding having purpose or likely effect of substantially lessening competition</catchphrase>
+<catchphrase id="c2">understanding between respondent (qantas) and other international airlines as to surcharge to be imposed on international carriage of freight in consequence of increases in price of fuel</catchphrase>
+<catchphrase id="c3">fuel surcharge understanding</catchphrase>
+<catchphrase id="c4">agreed statement of facts and joint submissions</catchphrase>
+<catchphrase id="c5">penalty of $20 million and injunction for three years sought by both parties</catchphrase>
+<catchphrase id="c6">consideration of relevant factors and of role of court</catchphrase>
+<catchphrase id="c7">relevant considerations</catchphrase>
+<catchphrase id="c8">appropriateness of injunction of limited duration. held : pecuniary penalty and injunction in terms as agreed.</catchphrase>
+<catchphrase id="c9">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -151,7 +151,7 @@ THE CONDUCT AND BACKGROUND 9.</sentence>
 <sentence id="s106">Attachment "A" to Resolution 116ss set out the methods of charging and documenting the fuel surcharge, .... Attachment "A" also expressed the surcharge as amounts "not more than" the specified amounts.</sentence>
 <sentence id="s107">38.</sentence>
 <sentence id="s108">On 4 --- 8 May 1998, there was a Special Composite Meeting of Cargo Tariff Coordinating Conferences of IATA in Geneva, Switzerland.</sentence>
-<sentence id="s109">The meeting was chaired by ... Finemore, Manager, Freight Planning &amp; Pricing.</sentence>
+<sentence id="s109">The meeting was chaired by ... Finemore, Manager, Freight Planning &amp;amp; Pricing.</sentence>
 <sentence id="s110">Finemore was Qantas Freight's representative at IATA.</sentence>
 <sentence id="s111">The minutes record that Resolution 116ss was discussed and note the following: 
  
@@ -257,7 +257,7 @@ THE CONDUCT AND BACKGROUND 9.</sentence>
 <sentence id="s182">As a result of this disapproval, IATA's legal advisers had recommended that the publication of the index should be suspended.</sentence>
 <sentence id="s183">Members, however, felt that it was an extremely useful industry tool and requested that IATA Legal look into the matter further.</sentence>
 <sentence id="s184">
- Action: Secretary &amp; IATA Legal' 
+ Action: Secretary &amp;amp; IATA Legal' 
  
 53.</sentence>
 <sentence id="s185">Qantas was informed in August 2006 by Frampton that he left the meeting feeling there was a clear understanding among the airlines.</sentence>
@@ -516,9 +516,9 @@ it has contravened sections 45(2)(a)(ii) and (b)(ii) of the Act.</sentence>
 <sentence id="s343">The provision requires the Court to have regard to all relevant matters including: 
  
  
- &#8226; the nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission;
- &#8226; the circumstances in which the act or omission took place; and
- &#8226; whether the person has previously been found by the Court in proceedings under this Part or Part XIB to have engaged in any similar conduct.</sentence>
+ &amp;#8226; the nature and extent of the act or omission and of any loss or damage suffered as a result of the act or omission;
+ &amp;#8226; the circumstances in which the act or omission took place; and
+ &amp;#8226; whether the person has previously been found by the Court in proceedings under this Part or Part XIB to have engaged in any similar conduct.</sentence>
 <sentence id="s344">
  
  
@@ -542,7 +542,7 @@ it has contravened sections 45(2)(a)(ii) and (b)(ii) of the Act.</sentence>
  
 (i) whether the company has shown a disposition to co-operate with the authorities responsible for the enforcement of the Act in relation to the contravention.</sentence>
 <sentence id="s345">
- In NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission [1996] FCA 1134 ; (1996) 71 FCR 285 ( NW Frozen Foods ) and J McPhee &amp; Son (Aust) Pty Ltd v Australian Competition and Consumer Commission [2000] FCA 365 ; (2000) 172 ALR 532 (J McPhee &amp; Son ), Full Courts of this Court approved of French J's list and added: 
+ In NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission [1996] FCA 1134 ; (1996) 71 FCR 285 ( NW Frozen Foods ) and J McPhee &amp;amp; Son (Aust) Pty Ltd v Australian Competition and Consumer Commission [2000] FCA 365 ; (2000) 172 ALR 532 (J McPhee &amp;amp; Son ), Full Courts of this Court approved of French J's list and added: 
 
 (j) similar conduct in the past;
  
@@ -558,7 +558,7 @@ Once it is understood that deterrence, and particularly general deterrence, is t
 <sentence id="s350">This is, of course, reflected in the size of the maximum penalty upon corporations of $10 million.</sentence>
 <sentence id="s351">However, it also follows logically from the principle.</sentence>
 <sentence id="s352">Collusive price fixing, particularly between tenderers is difficult to detect.</sentence>
-<sentence id="s353">Public enforcement often only occurs with "a tip from an affected party or an insider" (see Marshall &amp; Meurer, "Bidder Collusion and Antitrust Law: Refining the Analysis of Price Fixing to Account for the Special Features of Auction Markets" (2004) 72 AntiTrust Law Journal 83 at 101).</sentence>
+<sentence id="s353">Public enforcement often only occurs with "a tip from an affected party or an insider" (see Marshall &amp;amp; Meurer, "Bidder Collusion and Antitrust Law: Refining the Analysis of Price Fixing to Account for the Special Features of Auction Markets" (2004) 72 AntiTrust Law Journal 83 at 101).</sentence>
 <sentence id="s354">Given these difficulties and the potential for large profits from such practices there is a chance that those in the market place might be prepared to factor the risk of a low penalty into its pricing structure as a 'business cost'.</sentence>
 <sentence id="s355">That would be inimical to the statutory purpose of ensuring that the practices do not occur.</sentence>
 <sentence id="s356">The penalty must be sufficiently high that a business, acting rationally and in its own best interest, will not be prepared to treat the risk of such a penalty as a business cost.</sentence>
@@ -570,14 +570,14 @@ Once it is understood that deterrence, and particularly general deterrence, is t
 There is a need for a significant level of penalty in the highest ranges of any quantum of penalties previously imposed in Australia in respect of cartel arrangements to deter multinational corporate groups carrying on business in Australia from engaging in similar conduct affecting Australia in the future.</sentence>
 <sentence id="s361">A high level of penalty is also required for general deterrence of price fixing conduct affecting Australia by other large multinational corporate groups.</sentence>
 <sentence id="s362">
- The difficulty of detection of collusive price fixing understandings was referred to by Heerey J in Australian Competition and Consumer Commission v McPhee &amp; Son (Australia) Pty Ltd (1998) ATPR 41-628 at 40,891-40,892: 
+ The difficulty of detection of collusive price fixing understandings was referred to by Heerey J in Australian Competition and Consumer Commission v McPhee &amp;amp; Son (Australia) Pty Ltd (1998) ATPR 41-628 at 40,891-40,892: 
 This form of contravention commonly occurs in secret and between parties who seek a mutual benefit.</sentence>
 <sentence id="s363">The risk of detection is often low and the potential gain to the contraveners, and damage to the community, large.</sentence>
 <sentence id="s364">Therefore the penalty needs to be correspondingly high.</sentence>
 <sentence id="s365">
- The principles governing the imposition of penalties for contraventions of Part IV must now be considered in the light of the most recent Full Court pronouncement on the matter in Minister for Industry, Tourism &amp; Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72 ; (2004) ATPR 41-993 ( Mobil Oil ).</sentence>
+ The principles governing the imposition of penalties for contraventions of Part IV must now be considered in the light of the most recent Full Court pronouncement on the matter in Minister for Industry, Tourism &amp;amp; Resources v Mobil Oil Australia Pty Ltd [2004] FCAFC 72 ; (2004) ATPR 41-993 ( Mobil Oil ).</sentence>
 <sentence id="s366">Mobil Oil was not a Part IV case.</sentence>
-<sentence id="s367">The Minister for Industry, Tourism &amp; Resources sought, among other relief, an order that the respondent (Mobil) pay to the Commonwealth a pecuniary penalty by reason of its contravention of s 10 of the Petroleum Retailing Marketing Sites Act 1980 (Cth).</sentence>
+<sentence id="s367">The Minister for Industry, Tourism &amp;amp; Resources sought, among other relief, an order that the respondent (Mobil) pay to the Commonwealth a pecuniary penalty by reason of its contravention of s 10 of the Petroleum Retailing Marketing Sites Act 1980 (Cth).</sentence>
 <sentence id="s368">The primary judge was Gyles J.</sentence>
 <sentence id="s369">On his recommendation the Chief Justice directed, pursuant to s 20(1A) of the Federal Court of Australia Act 1976 (Cth), that the jurisdiction of the Court should be exercised by a Full Court in respect of the following question: 
 Where the parties propose an agreed amount to be imposed as a penalty pursuant to s 13 of the Petroleum Retailing Marketing Sites Act 1980 (Cth), is the Court bound by the decision in [NW Frozen Foods] to consider whether the proposed amount is within the permissible range in all the circumstances and, if so, impose a penalty of that amount?</sentence>
@@ -603,11 +603,11 @@ Where the parties propose an agreed amount to be imposed as a penalty pursuant t
  The Full Court in Mobil Oil made the following further five points: 
  
  
- &#8226; First, the rationale for giving weight to a joint submission on penalty is the saving in resources for the regulator and the Court, which, in the case of the regulator, can be used to increase the likelihood that other contraveners will be detected and brought before the Court.</sentence>
-<sentence id="s373">&#8226; Second, the sixth proposition from NW Frozen Foods (see [26] above) does not mean that the Court must commence its reasoning with the level of penalty proposed and limit itself to considering whether that penalty is within the permissible range: the Court may, instead, address the question independently at the outset.</sentence>
-<sentence id="s374">&#8226; Third, there was no suggestion in NW Frozen Foods that the admissions or statement of agreed facts had been "tailored or modified to reflect the difficulties faced by the [Commission] in proving its case" (at [55]).</sentence>
-<sentence id="s375">&#8226; Fourth, the regulator should always explain to the Court the process of reasoning said to justify a discounted penalty (the Court referred to Australian Competition and Consumer Commission v Ithaca Ice Works Pty Ltd (2002) ATPR 41-851 at [56]).</sentence>
-<sentence id="s376">&#8226; Fifth, there is nothing in NW Frozen Foods inconsistent with any of the following propositions: 
+ &amp;#8226; First, the rationale for giving weight to a joint submission on penalty is the saving in resources for the regulator and the Court, which, in the case of the regulator, can be used to increase the likelihood that other contraveners will be detected and brought before the Court.</sentence>
+<sentence id="s373">&amp;#8226; Second, the sixth proposition from NW Frozen Foods (see [26] above) does not mean that the Court must commence its reasoning with the level of penalty proposed and limit itself to considering whether that penalty is within the permissible range: the Court may, instead, address the question independently at the outset.</sentence>
+<sentence id="s374">&amp;#8226; Third, there was no suggestion in NW Frozen Foods that the admissions or statement of agreed facts had been "tailored or modified to reflect the difficulties faced by the [Commission] in proving its case" (at [55]).</sentence>
+<sentence id="s375">&amp;#8226; Fourth, the regulator should always explain to the Court the process of reasoning said to justify a discounted penalty (the Court referred to Australian Competition and Consumer Commission v Ithaca Ice Works Pty Ltd (2002) ATPR 41-851 at [56]).</sentence>
+<sentence id="s376">&amp;#8226; Fifth, there is nothing in NW Frozen Foods inconsistent with any of the following propositions: 
  
  
  
@@ -780,9 +780,9 @@ Conclusion on appropriate penalty
 <sentence id="s483">My difficulties arose from the following considerations: 
  
  
- &#8226; The anti-competitive arrangement was a global one and this raised a question as to its territorial connection with Australia and the question of whether the same conduct contravened laws of other jurisdictions so that penalties imposed on Qantas in them should be taken into account;
- &#8226; Identification of the extent to which Qantas profited from the Fuel Surcharge Understanding; and
- &#8226; The extent of the discount for Qantas's early admission of contravention and cooperation with the Commission.</sentence>
+ &amp;#8226; The anti-competitive arrangement was a global one and this raised a question as to its territorial connection with Australia and the question of whether the same conduct contravened laws of other jurisdictions so that penalties imposed on Qantas in them should be taken into account;
+ &amp;#8226; Identification of the extent to which Qantas profited from the Fuel Surcharge Understanding; and
+ &amp;#8226; The extent of the discount for Qantas's early admission of contravention and cooperation with the Commission.</sentence>
 <sentence id="s484">
  
  Relevant territorial connection with Australia 
@@ -794,7 +794,7 @@ Conclusion on appropriate penalty
 <sentence id="s488">Qantas is incorporated in Australia.</sentence>
 <sentence id="s489">Section 45(3) provides, relevantly, that for the purposes of ss 45 and 45A "competition" means competition in any market in which a party to the contract, arrangement or understanding in question supplies or acquires goods or services.</sentence>
 <sentence id="s490">Section 4E provides, relevantly, that "market" means a market in Australia.</sentence>
-<sentence id="s491">Although the notion of a "market in Australia" in s 4E has been referred to in two cases ( Riverstone Computer Services Pty Ltd v IBM Global Financing Australia Ltd [2002] FCA 1608 at [21] per Hill J and Auskay International Manufacturing &amp; Trade Pty Ltd v Qantas Airways Ltd (2008) ATPR 42-256 at [19] per Tracey J), the concept has not been the subject of extensive judicial consideration.</sentence>
+<sentence id="s491">Although the notion of a "market in Australia" in s 4E has been referred to in two cases ( Riverstone Computer Services Pty Ltd v IBM Global Financing Australia Ltd [2002] FCA 1608 at [21] per Hill J and Auskay International Manufacturing &amp;amp; Trade Pty Ltd v Qantas Airways Ltd (2008) ATPR 42-256 at [19] per Tracey J), the concept has not been the subject of extensive judicial consideration.</sentence>
 <sentence id="s492">In Riverstone , Hill J rejected the proposition that in order to be a "market in Australia" a market must be wholly within Australia.</sentence>
 <sentence id="s493">His Honour said (at [21]) that the fact that a market was global did not signify that there could not be a market in Australia for the same products.</sentence>
 <sentence id="s494">As the Commission points out, a contrary view would considerably reduce the efficacy and utility of the competition law provisions of the Act, especially in the modern telecommunications era.</sentence>
@@ -885,7 +885,7 @@ That there is a "base" amount appropriate to a contravention, regardless of prof
 <sentence id="s561">This is reflected in the fact that the maximum penalty for merely making a contravening arrangement, or even attempting to do so, is the same as the maximum penalty for giving effect to it.</sentence>
 <sentence id="s562">Making an arrangement without giving effect to it could not confer a benefit.</sentence>
 <sentence id="s563">
- The Commission refers to J McPhee &amp; Son in which a pecuniary penalty of $2.5 million was ordered in relation to making and attempting to make price fixing arrangements.</sentence>
+ The Commission refers to J McPhee &amp;amp; Son in which a pecuniary penalty of $2.5 million was ordered in relation to making and attempting to make price fixing arrangements.</sentence>
 <sentence id="s564">As another illustration, the Commission refers to non-compete agreements in which one party might derive no direct benefit in a particular market or market segment because it has merely agreed to stay out of that market or segment.</sentence>
 <sentence id="s565">For airlines with a 2% or less share of the Australian segment of the Air Cargo Market, the Commission proposed no uplift or increase in the base penalty.</sentence>
 <sentence id="s566">The Commission did not propose to discriminate between those with 2% or less, but accepted that all would have been likely to derive a relatively minor benefit in the Australian segment, which would probably be less than the base penalty.</sentence>
@@ -933,7 +933,7 @@ It provides a limit to the remedy of contempt of Court for breach.</sentence>
 <sentence id="s601">It seems to me that the undertakings which have been obtained in relation to compliance programs are appropriate for that purpose.</sentence>
 <sentence id="s602">
  Young J and Stone J have also had occasion to consider the question of time limits on injunctions granted on the Commission's application.</sentence>
-<sentence id="s603">In Australian Competition and Consumer Commission v IPM Operation &amp; Maintenance Loy Yang Pty Ltd (2006) 157 FCR 162 ( IPM ), the Commission sought a final injunction against the respondent Union.</sentence>
+<sentence id="s603">In Australian Competition and Consumer Commission v IPM Operation &amp;amp; Maintenance Loy Yang Pty Ltd (2006) 157 FCR 162 ( IPM ), the Commission sought a final injunction against the respondent Union.</sentence>
 <sentence id="s604">Young J unequivocally rejected (at [233]) a final injunction as "plainly inappropriate" and would "not contemplate an injunction that operates indefinitely" in a case where the relevant conduct had come to an end.</sentence>
 <sentence id="s605">His Honour observed that in such a case, any injunction should be for only a limited period of time, and noted that this course was commonly taken in the authorities.</sentence>
 <sentence id="s606">For her part, Stone J, in Australian Competition and Consumer Commission v Signature Security Group Pty Ltd (2003) ATPR 41-942 , incorporated a two year time limit in the injunction that she granted, even though, as in IPM , the Commission sought a permanent injunction.</sentence>
@@ -978,7 +978,7 @@ Dated: 23 December 2008
  
  Counsel for the Respondent: Mr J R J Lockhart 
  
- Solicitors for the Respondent: Johnson Winter &amp; Slattery 
+ Solicitors for the Respondent: Johnson Winter &amp;amp; Slattery 
 
  Date of Hearing: 4 November, 2, 11 December 2008 
  

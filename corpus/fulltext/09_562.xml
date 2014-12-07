@@ -3,21 +3,21 @@
 <name>Davis v Insolvency and Trustee Service Australia (No 1) [2009] FCA 562 (29 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/562.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">claim for the issue of constitutional writs in order to restrain the child support registrar</catchphrase>
-<catchphrase "id=c1">whether the child support registrar impermissibly exercises the judicial power of the commonwealth when issuing a notice pursuant to s 72a of the child support (registration and collection) act 1988 (cth)</catchphrase>
-<catchphrase "id=c2">whether s 104(2) and s 105(2) of that act are invalid</catchphrase>
-<catchphrase "id=c3">constitutional challenges rejected</catchphrase>
-<catchphrase "id=c4">interlocutory injunctions</catchphrase>
-<catchphrase "id=c5">relevant principles</catchphrase>
-<catchphrase "id=c6">whether serious question to be tried as to the validity of a notice issued pursuant to s 72a of the chld support (registration and collection) act 1988 (cth) by the child support registrar</catchphrase>
-<catchphrase "id=c7">whether balance of convenience and justice favour the grant of an interlocutory injunction</catchphrase>
-<catchphrase "id=c8">application for leave to amend</catchphrase>
-<catchphrase "id=c9">some amendments allowed</catchphrase>
-<catchphrase "id=c10">others refused</catchphrase>
-<catchphrase "id=c11">interlocutory injunctions refused</catchphrase>
-<catchphrase "id=c12">administrative law</catchphrase>
-<catchphrase "id=c13">constitutional law</catchphrase>
-<catchphrase "id=c14">practice and procedure</catchphrase>
+<catchphrase id="c0">claim for the issue of constitutional writs in order to restrain the child support registrar</catchphrase>
+<catchphrase id="c1">whether the child support registrar impermissibly exercises the judicial power of the commonwealth when issuing a notice pursuant to s 72a of the child support (registration and collection) act 1988 (cth)</catchphrase>
+<catchphrase id="c2">whether s 104(2) and s 105(2) of that act are invalid</catchphrase>
+<catchphrase id="c3">constitutional challenges rejected</catchphrase>
+<catchphrase id="c4">interlocutory injunctions</catchphrase>
+<catchphrase id="c5">relevant principles</catchphrase>
+<catchphrase id="c6">whether serious question to be tried as to the validity of a notice issued pursuant to s 72a of the chld support (registration and collection) act 1988 (cth) by the child support registrar</catchphrase>
+<catchphrase id="c7">whether balance of convenience and justice favour the grant of an interlocutory injunction</catchphrase>
+<catchphrase id="c8">application for leave to amend</catchphrase>
+<catchphrase id="c9">some amendments allowed</catchphrase>
+<catchphrase id="c10">others refused</catchphrase>
+<catchphrase id="c11">interlocutory injunctions refused</catchphrase>
+<catchphrase id="c12">administrative law</catchphrase>
+<catchphrase id="c13">constitutional law</catchphrase>
+<catchphrase id="c14">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -472,7 +472,7 @@ the money is taken to be:
  
 (b) In a letter dated 24 March 2009 from the solicitors for the first respondent to the solicitors for Mr Davis, the solicitors for the first respondent said: 
  
- INSOLVENCY &amp; TRUSTEE SERVICE AUSTRALIA &amp; ORS ats PETER LEWIS DAVIS 
+ INSOLVENCY &amp;amp; TRUSTEE SERVICE AUSTRALIA &amp;amp; ORS ats PETER LEWIS DAVIS 
  
  NSD 52/2009 
  
@@ -484,7 +484,7 @@ We refer to our telephone conversation with your Counsel, Peter King on 23 March
 (d) The Estate's solicitors had informed Mr McKell that they consented to Order 1 in the Notice of Motion filed in Court on 24 April 2009 (the order sought in that paragraph is an interlocutory injunction restraining the Registrar from taking further steps to recover moneys from the estate of Dr Davis pending the final hearing of the proceedings).</sentence>
 <sentence id="s264">CONSIDERATION 
  The Relevant Principles (Interlocutory Injunctions)
- In Sebel Furniture Limited v Acoustic &amp; Felts Pty Limited [2009] FCA 6 I discussed the relevant principles to be applied by this Court in considering whether or not to grant an interlocutory injunction in aid of private rights.</sentence>
+ In Sebel Furniture Limited v Acoustic &amp;amp; Felts Pty Limited [2009] FCA 6 I discussed the relevant principles to be applied by this Court in considering whether or not to grant an interlocutory injunction in aid of private rights.</sentence>
 <sentence id="s265">At [19]---[31], I said: In Australian Broadcasting Corporation v Lenah Game Meats Pty Ltd [2001] HCA 63 ; (2001) 208 CLR 199 , a majority of the High Court held that, where an interlocutory injunction is sought (inter alia) in respect of private rights, it is necessary to identify the legal or equitable rights which are to be determined at the trial and in respect of which the final relief is sought.</sentence>
 <sentence id="s266">Their Honours who comprised the majority made clear that the final relief sought need not be injunctive in nature.</sentence>
 <sentence id="s267">See [8] to [21] (pp 216---220) (per Gleeson CJ); [59] to [61] (pp 231---232) (per Gaudron J); and [86] to [92] (pp 239---242); [98] to [100] (pp 244---246); and [105] (p 248) (per Gummow and Hayne JJ).</sentence>
@@ -573,7 +573,7 @@ Those statements do not accord with the doctrine in this Court as established by
 <sentence id="s331">"
  Mr Roberts, in his oral submissions, seemed to suggest that this doctrine renders the Commonwealth constitutionally incapable of altering the jurisdictional limits of a State court by investing that court with federal jurisdiction.</sentence>
 <sentence id="s332">This is not so.</sentence>
-<sentence id="s333">The position was explained by Latham CJ in Peacock v Newtown Marrickville &amp; General Co-operative Building Society No 4 Ltd (1943) 67 CLR 25 at 37: 
+<sentence id="s333">The position was explained by Latham CJ in Peacock v Newtown Marrickville &amp;amp; General Co-operative Building Society No 4 Ltd (1943) 67 CLR 25 at 37: 
 "This is a power to give new, additional, jurisdiction to State courts.</sentence>
 <sentence id="s334">The Parliament may select such State courts as it pleases.</sentence>
 <sentence id="s335">It may give them much or little new jurisdiction.</sentence>

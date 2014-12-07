@@ -3,14 +3,14 @@
 <name>KAP Motors Pty Ltd v Commissioner of Taxation [2008] FCA 159 (28 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/159.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">goods and services</catchphrase>
-<catchphrase "id=c1">refund of gst paid to commissioner under the mistaken belief that transaction involved a supply</catchphrase>
-<catchphrase "id=c2">whether section 105-65 of schedule 1 of the taxation administration act 1953 (cth) applies to transactions involving no supply</catchphrase>
-<catchphrase "id=c3">whether s 105-65 relevant only to transactions involving a supply</catchphrase>
-<catchphrase "id=c4">whether a common law action for money had and received can be resisted by a respondent on the basis that the applicant may be a constructive trustee of the funds for a third party</catchphrase>
-<catchphrase "id=c5">whether constructive trust relevant to the enforcement of common law claim</catchphrase>
-<catchphrase "id=c6">taxation</catchphrase>
-<catchphrase "id=c7">restitution</catchphrase>
+<catchphrase id="c0">goods and services</catchphrase>
+<catchphrase id="c1">refund of gst paid to commissioner under the mistaken belief that transaction involved a supply</catchphrase>
+<catchphrase id="c2">whether section 105-65 of schedule 1 of the taxation administration act 1953 (cth) applies to transactions involving no supply</catchphrase>
+<catchphrase id="c3">whether s 105-65 relevant only to transactions involving a supply</catchphrase>
+<catchphrase id="c4">whether a common law action for money had and received can be resisted by a respondent on the basis that the applicant may be a constructive trustee of the funds for a third party</catchphrase>
+<catchphrase id="c5">whether constructive trust relevant to the enforcement of common law claim</catchphrase>
+<catchphrase id="c6">taxation</catchphrase>
+<catchphrase id="c7">restitution</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -28,34 +28,34 @@
 <sentence id="s8">The net amount is ascertained by deducting the amount of input tax credits from the amount of GST.</sentence>
 <sentence id="s9">4 Under s 9-5, a person makes a taxable supply if:
  
-&#8226; the person makes the supply for consideration;
+&amp;#8226; the person makes the supply for consideration;
  
-&#8226; the supply is made in the course or furtherance of an enterprise carried on by the person;
+&amp;#8226; the supply is made in the course or furtherance of an enterprise carried on by the person;
  
-&#8226; the supply is connected with Australia; and
+&amp;#8226; the supply is connected with Australia; and
  
-&#8226; the person is registered or required to be registered.</sentence>
+&amp;#8226; the person is registered or required to be registered.</sentence>
 <sentence id="s10">However, a supply is not a taxable supply to the extent that it is GST free or input taxed .</sentence>
 <sentence id="s11">The GST Act thus expressly contemplates that there may be a supply that is not a taxable supply.</sentence>
 <sentence id="s12">The significance of that will become apparent.</sentence>
 <sentence id="s13">5 Accordingly, for there to be a taxable supply , there must first be a supply for consideration .</sentence>
 <sentence id="s14">Under s 9-10, a supply is ' any form of supply whatsoever ' and includes any of the following:
  
-&#8226; a supply of goods;
+&amp;#8226; a supply of goods;
  
-&#8226; a supply of services;
+&amp;#8226; a supply of services;
  
-&#8226; a provision of advice or information;
+&amp;#8226; a provision of advice or information;
  
-&#8226; a grant, assignment or surrender of real property;
+&amp;#8226; a grant, assignment or surrender of real property;
  
-&#8226; a creation, grant, transfer, assignment or surrender of any right;
+&amp;#8226; a creation, grant, transfer, assignment or surrender of any right;
  
-&#8226; a financial supply;
+&amp;#8226; a financial supply;
  
-&#8226; an entry into or release from an obligation;
+&amp;#8226; an entry into or release from an obligation;
  
-&#8226; any combination of any two or more of those matters.</sentence>
+&amp;#8226; any combination of any two or more of those matters.</sentence>
 <sentence id="s15">By reason of s 9-10(3), it does not matter whether it is lawful to do, to refrain from doing or to tolerate the act or situation constituting the supply.</sentence>
 <sentence id="s16">However by reason of s 9-10(4), a supply does not include a supply of money unless the money is provided as consideration for a supply that is a supply of money.</sentence>
 <sentence id="s17">6 Under s 9-15, consideration includes any payment or any act or forbearance in connection with a supply of anything and any payment or any act of forbearance in response to or for the inducement of a supply of anything.</sentence>
@@ -63,27 +63,27 @@
 <sentence id="s19">7 A person is entitled to an input tax credit for any creditable acquisition made by the person.</sentence>
 <sentence id="s20">Under s 11-5, a person makes a creditable acquisition if:
  
-&#8226; the person acquires anything solely or partly for a creditable purpose ;
+&amp;#8226; the person acquires anything solely or partly for a creditable purpose ;
  
-&#8226; the supply of the thing to the person is a taxable supply;
+&amp;#8226; the supply of the thing to the person is a taxable supply;
  
-&#8226; the person provides or is liable to provide consideration for the supply; and
+&amp;#8226; the person provides or is liable to provide consideration for the supply; and
  
-&#8226; the person is registered or required to be registered.</sentence>
+&amp;#8226; the person is registered or required to be registered.</sentence>
 <sentence id="s21">Thus, for an acquisition to be a creditable acquisition, the supply of the thing to the person must be a taxable supply and the acquisition must have been for a creditable purpose .</sentence>
 <sentence id="s22">Under s 11-15, a person acquires a thing for a creditable purpose to the extent that the person acquires the thing in carrying on an enterprise.</sentence>
 <sentence id="s23">8 If the net amount in respect of a taxpayer for a relevant tax period is greater than zero, the taxpayer is required to remit that amount to the Commissioner.</sentence>
 <sentence id="s24">If the net amount is less than zero, the Commissioner is required to pay a refund of that amount to the taxpayer.</sentence>
-<sentence id="s25">The net amount is determined under a self-assessment r&eacute;gime by a taxpayer lodging a GST return, referred to as a business activity statement.</sentence>
+<sentence id="s25">The net amount is determined under a self-assessment r&amp;eacute;gime by a taxpayer lodging a GST return, referred to as a business activity statement.</sentence>
 <sentence id="s26">9 Section 105-65 of Sch 1 to the Administration Act applies, relevantly, to so much of any net amount or amount of indirect tax as a person has overpaid.</sentence>
 <sentence id="s27">Indirect tax includes GST.</sentence>
 <sentence id="s28">Section 105-65(1) relevantly provides that the Commissioner need not give to a person a refund to which s 105-65 applies if:
  
-&#8226; the person overpaid the amount because a supply was treated as a taxable supply to an extent; 
+&amp;#8226; the person overpaid the amount because a supply was treated as a taxable supply to an extent; 
  
-&#8226; the supply was not a taxable supply to that extent; and 
+&amp;#8226; the supply was not a taxable supply to that extent; and 
  
-&#8226; the Commissioner is not satisfied that the person has reimbursed a corresponding amount to the recipient of the supply .</sentence>
+&amp;#8226; the Commissioner is not satisfied that the person has reimbursed a corresponding amount to the recipient of the supply .</sentence>
 <sentence id="s29">THE FACTS 
  
  
@@ -101,13 +101,13 @@
 <sentence id="s39">13 The agreements entered into by KAP Motors and GAP Motors with the finance companies were known as floor plan arrangements .</sentence>
 <sentence id="s40">KAP Motors and GAP Motors acquired possession of, and subsequently title to, motor vehicles for sale to retail customers in the following way:
  
-&#8226; KAP Motors or GAP Motors would order a motor vehicle from a motor vehicle distributor on behalf of a finance company.</sentence>
-<sentence id="s41">&#8226; The motor vehicle distributor would sell the motor vehicle to the finance company and would issue an invoice in relation to the sale of the motor vehicle to the finance company.</sentence>
-<sentence id="s42">&#8226; The finance company would bail the motor vehicle to KAP Motors or GAP Motors and the motor vehicle distributor would deliver the motor vehicle to KAP Motors or GAP Motors for display and sale.</sentence>
-<sentence id="s43">&#8226; KAP Motors or GAP Motors would negotiate the sale of the motor vehicle to the ultimate retail customer.</sentence>
+&amp;#8226; KAP Motors or GAP Motors would order a motor vehicle from a motor vehicle distributor on behalf of a finance company.</sentence>
+<sentence id="s41">&amp;#8226; The motor vehicle distributor would sell the motor vehicle to the finance company and would issue an invoice in relation to the sale of the motor vehicle to the finance company.</sentence>
+<sentence id="s42">&amp;#8226; The finance company would bail the motor vehicle to KAP Motors or GAP Motors and the motor vehicle distributor would deliver the motor vehicle to KAP Motors or GAP Motors for display and sale.</sentence>
+<sentence id="s43">&amp;#8226; KAP Motors or GAP Motors would negotiate the sale of the motor vehicle to the ultimate retail customer.</sentence>
 <sentence id="s44">Immediately prior to sale to the customer, KAP Motors or GAP Motors would purchase the motor vehicle from the finance company.</sentence>
 <sentence id="s45">Until that time, the motor vehicle would remain the property of the finance company.</sentence>
-<sentence id="s46">&#8226; The finance company would issue an invoice in relation to the sale of the motor vehicle to KAP Motors or GAP Motors.</sentence>
+<sentence id="s46">&amp;#8226; The finance company would issue an invoice in relation to the sale of the motor vehicle to KAP Motors or GAP Motors.</sentence>
 <sentence id="s47">14 At all material times there was in place between each motor vehicle distributor and KAP Motors or GAP Motors an arrangement pursuant to which the distributor, in relation to each new motor vehicle ordered from the distributor and acquired and sold pursuant to a floor plan arrangement, would pay a rebate to KAP Motors or GAP Motors, known as a holdback payment .</sentence>
 <sentence id="s48">The arrangement in relation to the payment of holdback payments did not form part of the dealership agreements between motor vehicle distributors, on the one hand, and KAP Motors or GAP Motors, on the other.</sentence>
 <sentence id="s49">15 When a motor vehicle was sold by the motor vehicle distributor to the finance company, the holdback payment to be made by the distributor to KAP Motors or GAP Motors was generally not referred to in the invoice issued by the distributor to the finance company.</sentence>
@@ -129,9 +129,9 @@
 <sentence id="s65">KAP Motors and GAP Motors have not agreed or undertaken to reimburse to the motor vehicle distributors amounts corresponding to the GST that they remitted to the Commissioner under that mistaken belief.</sentence>
 <sentence id="s66">22 The Commissioner has refused to refund to KAP Motors and GAP Motors the GST they remitted under that mistaken belief on the basis of the facts referred to above because, in the Commissioner's contention:
  
-&#8226; section 105-65 applies in the circumstances and the Commissioner accordingly need not refund those amounts;
+&amp;#8226; section 105-65 applies in the circumstances and the Commissioner accordingly need not refund those amounts;
  
-&#8226; additionally, or alternatively, the Commissioner should not be required to refund such amounts to KAP Motors and GAP Motors unless and until they either reimburse, or agree or undertake to reimburse, corresponding amounts to the relevant motor vehicle distributors.</sentence>
+&amp;#8226; additionally, or alternatively, the Commissioner should not be required to refund such amounts to KAP Motors and GAP Motors unless and until they either reimburse, or agree or undertake to reimburse, corresponding amounts to the relevant motor vehicle distributors.</sentence>
 <sentence id="s67">THE QUESTIONS 
  
 23 By consent, the Court directed, pursuant to Order 29 of the Federal Court Rules , that certain questions be determined separately from and prior to the determination of all other questions.</sentence>
@@ -147,11 +147,11 @@
 <sentence id="s73">In the event that either of the questions is answered "Yes", the proceeding will be dismissed by consent.</sentence>
 <sentence id="s74">In the event that both the questions are answered "No" and all avenues of appeal are exhausted, the Commissioner will:
  
- &#8226; amend the assessments issued by the Commissioner to KAP Motors and GAP Motors on 1 November 2006 to reduce the assessments of net amount in those assessments by the amount of GST paid by KAP Motors and GAP Motors in respect of the holdback payments;
- &#8226; credit to the respective Running Balance Accounts ( RBA ) of KAP Motors and GAP Motors in relation to the relevant tax periods the amounts of GST paid by the applicants after 1 July 2000 in respect of "holdback payments", (aside from GST paid by GAP Motors in respect of "holdback payments" in the tax periods July 2000 and August 2000) being a total of $312,531.72 in the case of KAP Motors and $91,187.27 in the case of GAP Motors;
- &#8226; refund to KAP Motors and GAP Motors any resulting surplus in the applicants' RBA ( RBA surplus ) arising following the allocation of the credits to their respective RBA;
- &#8226; reduce the General Interest Charge imposed on KAP Motors and GAP Motors by the Commissioner to the extent that the daily deficit debt balance of their RBA is reduced following the allocation of the credits to their respective RBA;
- &#8226; pay interest to KAP Motors and GAP Motors on any RBA surplus, calculated from the date 14 days after their original request for an amendment, on any interest on the RBA surplus in accordance with the terms of the Taxation (Interest on Overpayments and Early Payments) Act 1983 (Cth) .</sentence>
+ &amp;#8226; amend the assessments issued by the Commissioner to KAP Motors and GAP Motors on 1 November 2006 to reduce the assessments of net amount in those assessments by the amount of GST paid by KAP Motors and GAP Motors in respect of the holdback payments;
+ &amp;#8226; credit to the respective Running Balance Accounts ( RBA ) of KAP Motors and GAP Motors in relation to the relevant tax periods the amounts of GST paid by the applicants after 1 July 2000 in respect of "holdback payments", (aside from GST paid by GAP Motors in respect of "holdback payments" in the tax periods July 2000 and August 2000) being a total of $312,531.72 in the case of KAP Motors and $91,187.27 in the case of GAP Motors;
+ &amp;#8226; refund to KAP Motors and GAP Motors any resulting surplus in the applicants' RBA ( RBA surplus ) arising following the allocation of the credits to their respective RBA;
+ &amp;#8226; reduce the General Interest Charge imposed on KAP Motors and GAP Motors by the Commissioner to the extent that the daily deficit debt balance of their RBA is reduced following the allocation of the credits to their respective RBA;
+ &amp;#8226; pay interest to KAP Motors and GAP Motors on any RBA surplus, calculated from the date 14 days after their original request for an amendment, on any interest on the RBA surplus in accordance with the terms of the Taxation (Interest on Overpayments and Early Payments) Act 1983 (Cth) .</sentence>
 <sentence id="s75">
 
 25 On 29 June 2005 the Commissioner issued Goods and Services Tax Determination GSTD 2005/4 ( the Ruling ), which is a ruling for the purposes of s 37 of the Administration Act.</sentence>
@@ -176,11 +176,11 @@
 <sentence id="s92">The Commissioner contends that those principles justify a departure from a literal construction of s 105-65 of the Administration Act.</sentence>
 <sentence id="s93">29 The Commissioner contends that s 105-65(1) should be construed as though the word supply included a purported supply or a putative supply such that it refers non-technically to any transaction that was incorrectly treated as a taxable supply; the provision should relevantly be construed to provide that the Commissioner need not give to a taxpayer a refund of so much of any amount of any net amount as the taxpayer has overpaid if:
  
-&#8226; the taxpayer overpaid the amount because a transaction was treated as a taxable supply to any extent; 
+&amp;#8226; the taxpayer overpaid the amount because a transaction was treated as a taxable supply to any extent; 
  
-&#8226; the transaction was not a taxable supply to that extent; and 
+&amp;#8226; the transaction was not a taxable supply to that extent; and 
  
-&#8226; the Commissioner is not satisfied that the taxpayer has reimbursed a corresponding amount to the recipient of the transaction.</sentence>
+&amp;#8226; the Commissioner is not satisfied that the taxpayer has reimbursed a corresponding amount to the recipient of the transaction.</sentence>
 <sentence id="s94">The Commissioner contends that such a construction should be given to s 105-65 in order to achieve the purpose of the provision, as gleaned from the Explanatory Memorandum that was promulgated in connection with the Bill for the A New Tax System (Goods and Services Tax Administration) Act 1999 , which included s 39(3), the predecessor of s 105-65.</sentence>
 <sentence id="s95">30 The Explanatory Memorandum relevantly provided as follows:
  
@@ -270,7 +270,7 @@ Dated: 28 February 2008
  Counsel for the Applicant: Mr J. E. Marshall SC, Mr M. J.</sentence>
 <sentence id="s152">O'Meara 
  
- Solicitor for the Applicant: Heidtman &amp; Co, Lawyers 
+ Solicitor for the Applicant: Heidtman &amp;amp; Co, Lawyers 
  
  Counsel for the Respondent: Mr S. Gageler SC, Mr B. Kasep 
  

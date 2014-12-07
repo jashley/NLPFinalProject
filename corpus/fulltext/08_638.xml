@@ -3,11 +3,11 @@
 <name>Phisci Pty Ltd v Green Frog Nominees Pty Ltd [2008] FCA 638 (7 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/638.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory injunction</catchphrase>
-<catchphrase "id=c1">ownership of shares in dispute</catchphrase>
-<catchphrase "id=c2">application to restrain disposition</catchphrase>
-<catchphrase "id=c3">principles to be applied</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase id="c0">interlocutory injunction</catchphrase>
+<catchphrase id="c1">ownership of shares in dispute</catchphrase>
+<catchphrase id="c2">application to restrain disposition</catchphrase>
+<catchphrase id="c3">principles to be applied</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -166,7 +166,7 @@ Trading days to sell holding: Documentation Global Master Securities Lending Agr
 <sentence id="s121">22 Applying the logic of that decision to the case at bar I am bound to hold that the proceeding against Green Frog is caught by s 440D because it involves shares that OPS, a company in administration, claims is its property.</sentence>
 <sentence id="s122">I will nevertheless give leave to bring the proceeding against Green Frog because the plaintiff's claim is to recover from that company what it says is its own property.</sentence>
 <sentence id="s123">Neither s 440D nor Part 5.3A of the Corporations Act is designed to deprive a person of his property.</sentence>
-<sentence id="s124">In most cases it would be wrong to prevent an owner of property bringing a proceeding for its recovery simply because the defendant happens to be in administration: In re David Lloyd &amp; Co, Lloyd v David Lloyd &amp; Co (1877) 6 Ch D 339 , 344.</sentence>
+<sentence id="s124">In most cases it would be wrong to prevent an owner of property bringing a proceeding for its recovery simply because the defendant happens to be in administration: In re David Lloyd &amp;amp; Co, Lloyd v David Lloyd &amp;amp; Co (1877) 6 Ch D 339 , 344.</sentence>
 <sentence id="s125">By the same token, I would not allow the action to proceed against Green Frog until the administrators have completed their task of investigating the company's affairs and reporting the result of their investigation to the creditors.</sentence>
 <sentence id="s126">In my view the administrators should not be distracted from their task by this proceeding.</sentence>
 <sentence id="s127">Nor should they be required to incur any costs to fight the case, especially in circumstances where, by reason of the receivership, they presently have no funds from which to obtain reimbursement.</sentence>

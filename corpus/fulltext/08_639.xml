@@ -3,21 +3,21 @@
 <name>Ricegrowers Ltd v Real Foods Pty Ltd [2008] FCA 639 (12 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/639.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c1">consumer protection</catchphrase>
-<catchphrase "id=c2">trade practices act 1974 (cth), s 52</catchphrase>
-<catchphrase "id=c3">whether conduct in trade or commerce misleading or deceptive or likely to mislead or deceive</catchphrase>
-<catchphrase "id=c4">effect of representation considered by reference to reaction of ordinary reasonable consumer</catchphrase>
-<catchphrase "id=c5">significance of colour of packaging to convey flavour</catchphrase>
-<catchphrase "id=c6">whether packaging on two parties' products noticeably different</catchphrase>
-<catchphrase "id=c7">passing off</catchphrase>
-<catchphrase "id=c8">whether goodwill of applicant injured by conduct of respondent</catchphrase>
-<catchphrase "id=c9">whether respondent falsely represented that the goods were the applicant's or were associated with it</catchphrase>
-<catchphrase "id=c10">whether respondents intended to convey relevant representation</catchphrase>
-<catchphrase "id=c11">relevance of descriptive words in trade name</catchphrase>
-<catchphrase "id=c12">relevance of need for applicant to establish exclusive reputation</catchphrase>
-<catchphrase "id=c13">trade and commerce</catchphrase>
-<catchphrase "id=c14">intellectual property</catchphrase>
+<catchphrase id="c0">trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c1">consumer protection</catchphrase>
+<catchphrase id="c2">trade practices act 1974 (cth), s 52</catchphrase>
+<catchphrase id="c3">whether conduct in trade or commerce misleading or deceptive or likely to mislead or deceive</catchphrase>
+<catchphrase id="c4">effect of representation considered by reference to reaction of ordinary reasonable consumer</catchphrase>
+<catchphrase id="c5">significance of colour of packaging to convey flavour</catchphrase>
+<catchphrase id="c6">whether packaging on two parties' products noticeably different</catchphrase>
+<catchphrase id="c7">passing off</catchphrase>
+<catchphrase id="c8">whether goodwill of applicant injured by conduct of respondent</catchphrase>
+<catchphrase id="c9">whether respondent falsely represented that the goods were the applicant's or were associated with it</catchphrase>
+<catchphrase id="c10">whether respondents intended to convey relevant representation</catchphrase>
+<catchphrase id="c11">relevance of descriptive words in trade name</catchphrase>
+<catchphrase id="c12">relevance of need for applicant to establish exclusive reputation</catchphrase>
+<catchphrase id="c13">trade and commerce</catchphrase>
+<catchphrase id="c14">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -54,8 +54,8 @@
 5 Ricegrowers alleges that if Real Foods is found to have made each of those representations, its conduct in making them:
  
  
- &#8226; contravened s 52 of the Trade Practices Act 1974 (Cth) because each representation was misleading or deceptive or likely to mislead or deceive;
- &#8226; amounted to Real Foods passing off its flavoured corn cakes as products of Ricegrowers or as being, in some way, products associated with Ricegrowers.</sentence>
+ &amp;#8226; contravened s 52 of the Trade Practices Act 1974 (Cth) because each representation was misleading or deceptive or likely to mislead or deceive;
+ &amp;#8226; amounted to Real Foods passing off its flavoured corn cakes as products of Ricegrowers or as being, in some way, products associated with Ricegrowers.</sentence>
 <sentence id="s18">
  
  FALSE INGREDIENT CLAIM 
@@ -94,7 +94,7 @@
 <sentence id="s43">That logo had a red oval on the left hand side of which was a yellow circle (depicting the sun).</sentence>
 <sentence id="s44">Across the red oval in yellow writing, with black backing, was the word "Sun" and underneath in white writing, with black backing, was the word "Rice".</sentence>
 <sentence id="s45">The logo appeared at the top and superimposed on part of an illustration of a straw coloured rice cake.</sentence>
-<sentence id="s46">In the centre of the rice cake was a partial top-down view of a blue-rimmed bowl containing white sour cream and green chopped chives in the top half and the words "Sour Cream &amp; Chives" written across the centre of the bowl.</sentence>
+<sentence id="s46">In the centre of the rice cake was a partial top-down view of a blue-rimmed bowl containing white sour cream and green chopped chives in the top half and the words "Sour Cream &amp;amp; Chives" written across the centre of the bowl.</sentence>
 <sentence id="s47">Underneath these words were some long chive stalks.</sentence>
 <sentence id="s48">Beneath the bowl but on the rice cake and written to follow the circular shape of the cake was the word "FLAVOURED" (in blue) and below it "RICE CAKES" (in brown).</sentence>
 <sentence id="s49">Bordering the bottom of the rice cake, the number "12" appeared in white font on a small brown circle with a straw-coloured border, and underneath this number, in very small font the same colour as the border, appeared the word "SLICES".</sentence>
@@ -126,7 +126,7 @@
 16 SunRice introduced a new product in about May 2006.</sentence>
 <sentence id="s74">This was a "sea salt and balsamic vinegar" flavoured rice cake.</sentence>
 <sentence id="s75">Originally these were packed in a flow pack wrapper printed on white plastic and the backing pattern was similar to that of the August 2004 version of the sour cream and chives packaging, except the predominant colour of the background was royal purple in a darker and lighter shade.</sentence>
-<sentence id="s76">The same elements appeared in the surround of the rice cake, except that the contents were described as "Sea Salt &amp; BALSAMIC VINEGAR".</sentence>
+<sentence id="s76">The same elements appeared in the surround of the rice cake, except that the contents were described as "Sea Salt &amp;amp; BALSAMIC VINEGAR".</sentence>
 <sentence id="s77">Underneath that description was a purple semicircle and written across its right border was the word "FLAVOURED".</sentence>
 <sentence id="s78">In front of the semicircle was a half filled glass container which appeared to hold balsamic vinegar and behind it was a little clear bowl of salt.</sentence>
 <sentence id="s79">A maroon circle indicating "26 SLICES" appeared in the same style and position as on the March 2004 sour cream and chives packaging.</sentence>
@@ -235,7 +235,7 @@
 <sentence id="s174">REAL FOODS' INTENTIONS FOR ITS NEW PRODUCTS' PACKAGING 
  
 35 The design brief for a new flavoured corn thins packaging prepared by Ms Anderson stated its objective as:
- To develop a new packaging (bag) design and artwork for a new product range of flavoured Corn Thins that not only stands out from the existing (unflavoured) Real Foods Corn Thins range, but the entire crisp bread &amp; snacking category.</sentence>
+ To develop a new packaging (bag) design and artwork for a new product range of flavoured Corn Thins that not only stands out from the existing (unflavoured) Real Foods Corn Thins range, but the entire crisp bread &amp;amp; snacking category.</sentence>
 <sentence id="s175">36 Ms Bridger gave unchallenged evidence that when Blue Marlin prepared packaging designs for the sour cream and chives flavour she considered it was important to use the colour green.</sentence>
 <sentence id="s176">She understood from her experience that colour acted as "language" to identify the flavour of such products.</sentence>
 <sentence id="s177">She said that the packaging designs represented colours that consumers associated with particular flavour variants.</sentence>
@@ -289,7 +289,7 @@
  
  
 
-43 On the bottom part of the ribbon are the words "Sour Cream &amp; Chives" and in smaller letters the word "Flavour".</sentence>
+43 On the bottom part of the ribbon are the words "Sour Cream &amp;amp; Chives" and in smaller letters the word "Flavour".</sentence>
 <sentence id="s217">A copy of this is Annexure D to these reasons.</sentence>
 <sentence id="s218">"CORN THINS" --- SALT AND VINEGAR CORN CAKES 
  
@@ -301,7 +301,7 @@
 <sentence id="s223">A cob of corn appears at the top of the corn cake and below it on the left is a square glass vinegar bottle filled to the top.</sentence>
 <sentence id="s224">On its right, there is a terracotta-coloured bowl filled with salt crystals.</sentence>
 <sentence id="s225">The claims made at the top of the ribbon are "Less than 8% fat, more than 7% fibre, gluten free".</sentence>
-<sentence id="s226">At the bottom part of the ribbon the words "Sea Salt &amp; Vinegar Flavour" appear in white printing.</sentence>
+<sentence id="s226">At the bottom part of the ribbon the words "Sea Salt &amp;amp; Vinegar Flavour" appear in white printing.</sentence>
 <sentence id="s227">A copy of this is Annexure E to these reasons.</sentence>
 <sentence id="s228">"CORN THINS" --- TASTY CHEESE FLAVOUR CORN CAKES 
  
@@ -360,7 +360,7 @@
  But it is to be observed that the law of passing off contains sufficient nooks and crannies to make it difficult to formulate any satisfactory definition in short form.</sentence>
 <sentence id="s272">However, "the classical trinity" does serve to emphasise three core concepts in this area of the law.</sentence>
 <sentence id="s273">This appeal is concerned with all of them, namely, the geographical requirements for a sufficient reputation, the nature of the interest damaged, and the significance of fraud in the making of the misrepresentation.</sentence>
-<sentence id="s274">56 For over 150 years it has been the law that "nobody has any right to represent his goods as the goods of somebody else" per Turner LJ in Burgess v Burgess (1853) 22 LJ Ch 675 ; 3 De GM&amp;G 896 at 904; [43] ER 351 at 354: AG Spalding &amp; Bros v AW Gamage Ltd (1915) 84 LJ Ch 449 per Lord Parker of Waddington (with whom Viscount Haldane LC, Lord Atkinson and Lord Sumner concurred): Angelides 40 CLR at 81 per Rich and Starke JJ.</sentence>
+<sentence id="s274">56 For over 150 years it has been the law that "nobody has any right to represent his goods as the goods of somebody else" per Turner LJ in Burgess v Burgess (1853) 22 LJ Ch 675 ; 3 De GM&amp;amp;G 896 at 904; [43] ER 351 at 354: AG Spalding &amp;amp; Bros v AW Gamage Ltd (1915) 84 LJ Ch 449 per Lord Parker of Waddington (with whom Viscount Haldane LC, Lord Atkinson and Lord Sumner concurred): Angelides 40 CLR at 81 per Rich and Starke JJ.</sentence>
 <sentence id="s275">57 Lord Parker identified the basis of a passing off action as a false representation by the defendant that his goods were the plaintiff's.</sentence>
 <sentence id="s276">In Campomar 202 CLR at 88-89 at [109]-[110] the High Court recognised that the range of the defendant's conduct which could constitute passing off included inducing consumers to believe that the defendant's goods or services had an association, quality or endorsement which belonged, or would belong, to the goods or services of or associated with the plaintiff.</sentence>
 <sentence id="s277">As Lord Parker recognised, relevantly here, the point to be decided is whether, having regard to all the circumstances of the case, the use by the defendant in connection with the goods of the get-up in question, impliedly represents the defendant's goods to be goods of the plaintiff or associated with the plaintiff, whether generally or in respect of a particular class or quality.</sentence>
@@ -372,31 +372,31 @@
 <sentence id="s283">59 It is not necessary that the persons purchasing the goods should know of the manufacturer by name, and have in mind when they purchased the goods that they are made by that person (or the person they associate with having produced those goods, whether or not the name is known): Collitt 16 CLR at 351.</sentence>
 <sentence id="s284">Where a plaintiff's name or get-up acquires a secondary meaning, the defendant's use of the name or get-up conveys the misrepresentation that the goods are the plaintiff's.</sentence>
 <sentence id="s285">It is in this way that the plaintiff's goodwill will be injured: Collitt 16 CLR at 359, 361.</sentence>
-<sentence id="s286">60 A trader has a prima facie right to put his goods in any packages which he may think attractive and convenient and in any method which he may consider suitable for carrying on his trade provided that the form adopted is not likely to deceive the ordinary reasonable consumer into mistaking his goods for the goods known in the market as manufactured, put up or sold by another: Burford &amp; Sons Ltd v Mowling &amp; Son [1909] HCA 83 ; (1908) 8 CLR 212 at 216 per O'Connor J; affirmed at 8 CLR 222-224 per Griffith CJ, Isaacs and Higgins JJ.</sentence>
+<sentence id="s286">60 A trader has a prima facie right to put his goods in any packages which he may think attractive and convenient and in any method which he may consider suitable for carrying on his trade provided that the form adopted is not likely to deceive the ordinary reasonable consumer into mistaking his goods for the goods known in the market as manufactured, put up or sold by another: Burford &amp;amp; Sons Ltd v Mowling &amp;amp; Son [1909] HCA 83 ; (1908) 8 CLR 212 at 216 per O'Connor J; affirmed at 8 CLR 222-224 per Griffith CJ, Isaacs and Higgins JJ.</sentence>
 <sentence id="s287">O'Connor J said that there the plaintiffs had no monopoly in the particular kind of packing which they adopted, which was used in a large number of articles.</sentence>
 <sentence id="s288">Those included not only packed soap, but grocery items and a variety of other items.</sentence>
 <sentence id="s289">He also said that the plaintiffs could not acquire a monopoly of the form of package by adopting a particular form of packaging, because its use was open to anyone in the trade.</sentence>
 <sentence id="s290">But his Honour went on to say that:
  ... where, as in this case, a certain method of get up, though open to all traders, has been for many years solely identified with the plaintiffs' goods in a particular market, it is incumbent on a trader who adopts the same method of get up for the purpose of pushing his trade and a similar article in the same market, that he shall clearly differentiate his goods on the face of the package from those of the plaintiffs.</sentence>
-<sentence id="s291">(Burford &amp; Sons 8 CLR at 217) 
+<sentence id="s291">(Burford &amp;amp; Sons 8 CLR at 217) 
 61 O'Connor J found that the question for determination was whether the defendant had made the difference of manufacture and ownership clear on the face of the package when adopting cartons of the same material, colour, shape and size of the plaintiff's packaging.</sentence>
-<sentence id="s292">He applied what Lindley MR said in Payton &amp; Co Ltd v Snelling Lampard &amp; Co Ltd (1899) 17 RPC 48 at 52.</sentence>
+<sentence id="s292">He applied what Lindley MR said in Payton &amp;amp; Co Ltd v Snelling Lampard &amp;amp; Co Ltd (1899) 17 RPC 48 at 52.</sentence>
 <sentence id="s293">Lindley MR discussed the situation where goods themselves resembled one another, in that case coffee, and were packaged similarly.</sentence>
 <sentence id="s294">He said that the issue was not that the defendant's goods or get-up was like the plaintiff's by reason of the features common to them and others.</sentence>
-<sentence id="s295">Rather, in a passage cited with approval by O'Connor J in Burford &amp; Sons 8 CLR at 217, in order to succeed in a passing off action, the plaintiff:
+<sentence id="s295">Rather, in a passage cited with approval by O'Connor J in Burford &amp;amp; Sons 8 CLR at 217, in order to succeed in a passing off action, the plaintiff:
  ...must make out that the defendant's are like his by reason of something peculiar to him, and by reason of the defendant having adopted some mark, or device, or label, or something of that kind, which distinguishes the plaintiff's from other goods which have, like his, the features common to the trade.</sentence>
 <sentence id="s296">Unless the plaintiff can bring his case up to that, he fails.</sentence>
-<sentence id="s297">62 Much later the House of Lords held that a plaintiff who sold lemon juice in a container resembling a natural lemon with a green triangular label bearing the word "Jif" was entitled in an action for passing off to protect the get-up and packaging of the lemon shape because over the years a secondary meaning had been created associating the plaintiff's get-up with goods manufactured by it: Reckitt &amp; Colman Products Ltd v Borden Inc [1990] 1 WLR 491 at 506F-G per Lord Oliver of Aylmerton who said:
+<sentence id="s297">62 Much later the House of Lords held that a plaintiff who sold lemon juice in a container resembling a natural lemon with a green triangular label bearing the word "Jif" was entitled in an action for passing off to protect the get-up and packaging of the lemon shape because over the years a secondary meaning had been created associating the plaintiff's get-up with goods manufactured by it: Reckitt &amp;amp; Colman Products Ltd v Borden Inc [1990] 1 WLR 491 at 506F-G per Lord Oliver of Aylmerton who said:
  Here the mere fact that he has previously been the only trader dealing in goods of that type and so described may lead members of the public to believe that all such goods must emanate from him simply because they know of no other.</sentence>
 <sentence id="s298">To succeed in such a case he must demonstrate more than simply the sole use of the descriptive term.</sentence>
 <sentence id="s299">He must demonstrate that it has become so closely associated with his goods as to acquire the secondary meaning not simply of goods of that description but specifically of goods of which he and he alone is the source.</sentence>
-<sentence id="s300">63 Thus, the mere fact that a defendant makes some distinction on the packaging from similar packaging used by or copied from the plaintiff may or may not be sufficient to distinguish the goods from those of or associated with the plaintiff: Burford &amp; Sons [1909] HCA 83 ; 8 CLR 212 ; Payton 17 RPC at 56; affirmed [1901] AC 308 ; Borden [1990] 1 WLR at 507H-508B per Lord Oliver.</sentence>
+<sentence id="s300">63 Thus, the mere fact that a defendant makes some distinction on the packaging from similar packaging used by or copied from the plaintiff may or may not be sufficient to distinguish the goods from those of or associated with the plaintiff: Burford &amp;amp; Sons [1909] HCA 83 ; 8 CLR 212 ; Payton 17 RPC at 56; affirmed [1901] AC 308 ; Borden [1990] 1 WLR at 507H-508B per Lord Oliver.</sentence>
 <sentence id="s301">Lord Oliver said that it was important in such a case for the defendant to see that the goods could really be distinguished from those of or associated with the plaintiff.</sentence>
 <sentence id="s302">But, he said the question was how far the defendants' trademark bears such a resemblance to that of the plaintiff, as to be calculated to deceive incautious purchasers: Borden [1990] 1 WLR at 509B citing Lord Kingsdown in Leather Cloth Co Ltd v American Leather Cloth Co Ltd [1865] EngR 199 ; (1865) 11 H L Cas 523 at 539.</sentence>
 <sentence id="s303">64 In Borden [1990] 1 WLR at 514H-515C Lord Jauncey of Tullichettle said that a trader could only claim protection for such capricious additions to a commonly used container as distinguished his use of that container from the use of other traders.</sentence>
 <sentence id="s304">Thus, the trader may prevent a rival copying the label on boxes or perhaps the distinctive combination of colours on tins but cannot stop the rival using ordinary boxes or tins simply because they happen to be the same shape and size as his.</sentence>
 <sentence id="s305">He said that it was not the shape and size of the container which identified the product of a particular trader to the public, but the capricious additions to it by way of distinctive labelling or a combination of colour or graphic design.</sentence>
-<sentence id="s306">He referred to JB Williams Company v H Bronnley &amp; Co Limited (1909) 26 RPC 765 at 771 per Cozens-Hardy MR and at 774 per Farwell LJ.</sentence>
+<sentence id="s306">He referred to JB Williams Company v H Bronnley &amp;amp; Co Limited (1909) 26 RPC 765 at 771 per Cozens-Hardy MR and at 774 per Farwell LJ.</sentence>
 <sentence id="s307">In that case, at 773, Fletcher Moulton LJ had said there that the get-up of an article meant a capricious addition to the article itself, such as the colour or shape or wrapper or anything of that kind: see too Doctor Martens Australia Pty Ltd v Figgins Holdings Pty Ltd (1999) 44 IPR 281 at 369 [339] per Goldberg J; and Borden [1990] 1 WLR at 515C-D per Lord Jauncey.</sentence>
 <sentence id="s308">65 Representations are never made in a factual vacuum.</sentence>
 <sentence id="s309">They occur in a context which the court must ascertain before it can come to a conclusion about what they conveyed to the representee.</sentence>
@@ -413,7 +413,7 @@
 <sentence id="s319">In general, and more particularly in the case of an item likely to be purchased for a small price without long consideration, the comparison which must be made is between the impression of the applicant's goods retained in a customer's mind and the impression made by the sort of consideration he is likely to give to the respondent's product before purchasing it.</sentence>
 <sentence id="s320">68 In the law of passing off, the courts have treated evidence of the intentions of the defendant as relevant to the question of whether a representation is conveyed.</sentence>
 <sentence id="s321">SunRice argued that this evidence was determinative.</sentence>
-<sentence id="s322">It relied on remarks of Dixon and McTiernan JJ in Australian Woollen Mills Ltd v FS Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 657.</sentence>
+<sentence id="s322">It relied on remarks of Dixon and McTiernan JJ in Australian Woollen Mills Ltd v FS Walton &amp;amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 657.</sentence>
 <sentence id="s323">They said:
  The rule that if a mark or get-up for goods is adopted for the purpose of appropriating part of the trade or reputation of a rival, it should be presumed to be fitted for the purpose and therefore likely to deceive or confuse, no doubt, is as just in principle as it is wholesome in tendency.</sentence>
 <sentence id="s324">In a question how possible or prospective buyers will be impressed by a given picture, word or appearance, the instinct and judgment of traders is not to be lightly rejected, and when a dishonest trader fashions an implement or weapon for the purpose of misleading potential customers he at least provides a reliable and expert opinion on the question whether what he has done is in fact likely to deceive.</sentence>
@@ -422,7 +422,7 @@
 <sentence id="s327">(emphasis added) 
 69 However, their Honours concluded that in the end it was still a question of fact for the court to determine whether, indeed, there had been established a reasonable probability of deception or confusion from the use, in that case, of a trademark or device.</sentence>
 <sentence id="s328">They held that the main issue in the case was a question which was never susceptible of much discussion.</sentence>
-<sentence id="s329">They said ( Australian Woollen Mills 58 CLR at 659; see too Burford &amp; Sons 8 CLR at 220 per O'Connor J; Sydneywide Distributors Pty Ltd v Red Bull Australia Pty Ltd [2002] FCAFC 30 ; (2002) 55 IPR 354 at 389 [121] per Weinberg and Dowsett JJ, Branson J agreeing; Office Cleaning Services Ltd v Westminster Window &amp; General Cleaners Ltd (1946) 63 RPC 39 at 40 per Lord Simonds, with whom Lords Wright, Porter and Goddard agreed):
+<sentence id="s329">They said ( Australian Woollen Mills 58 CLR at 659; see too Burford &amp;amp; Sons 8 CLR at 220 per O'Connor J; Sydneywide Distributors Pty Ltd v Red Bull Australia Pty Ltd [2002] FCAFC 30 ; (2002) 55 IPR 354 at 389 [121] per Weinberg and Dowsett JJ, Branson J agreeing; Office Cleaning Services Ltd v Westminster Window &amp;amp; General Cleaners Ltd (1946) 63 RPC 39 at 40 per Lord Simonds, with whom Lords Wright, Porter and Goddard agreed):
  It depends on a combination of visual impression and judicial estimation of the effect likely to be produced in the course of the ordinary conduct of affairs.</sentence>
 <sentence id="s330">70 In Payton [1901] AC at 311 Lord Macnaghten said that the evidence of witnesses as to whether a customer would be likely to be deceived was, not a matter for the witnesses, but for the judge.</sentence>
 <sentence id="s331">He said, in a passage approved by Dixon CJ, Webb, Kitto and Taylor JJ in Scott v Numurkah Corporation [1954] HCA 14 ; (1954) 91 CLR 300 at 313:
@@ -464,21 +464,21 @@
 <sentence id="s362">79 Ricegrowers argued that the circumstances of the purchase of the competing products by the ordinary reasonable consumer included the following:
  
  
- &#8226; each of the products was low in price and a routine purchase likely to appear on the ordinary reasonable consumer's shopping list.</sentence>
+ &amp;#8226; each of the products was low in price and a routine purchase likely to appear on the ordinary reasonable consumer's shopping list.</sentence>
 <sentence id="s363">It was likely to be bought, along with many other items, whilst the weekly shopping was being done.</sentence>
 <sentence id="s364">For the ordinary reasonable consumer, looking to purchase this type of snack food, the shopping process is a "low involvement" one.</sentence>
 <sentence id="s365">Low involvement purchases are ones which are made frequently, or sometimes on impulse and typically do not involve a large price;
- &#8226; the ordinary reasonable shopper has a hierarchy of cues which she uses, even in low involvement purchases when shopping very fast, in order to identify the goods she is purchasing.</sentence>
+ &amp;#8226; the ordinary reasonable shopper has a hierarchy of cues which she uses, even in low involvement purchases when shopping very fast, in order to identify the goods she is purchasing.</sentence>
 <sentence id="s366">Ms Anderson said the cues provide shortcuts for the different categories.</sentence>
 <sentence id="s367">One such cue is the use of colour packaging of food stuffs such green for sour cream and chives;
- &#8226; Ricegrowers argued that when Ms Anderson prepared the marketing brief with The Leading Edge, she said that "Corn Thins" were a routine purchase, the shopping process was generally low involvement and there were shortcuts or cues which aided purchase such as familiar brands, colours, packaging, flavours and claims (e.g.</sentence>
+ &amp;#8226; Ricegrowers argued that when Ms Anderson prepared the marketing brief with The Leading Edge, she said that "Corn Thins" were a routine purchase, the shopping process was generally low involvement and there were shortcuts or cues which aided purchase such as familiar brands, colours, packaging, flavours and claims (e.g.</sentence>
 <sentence id="s368">the product was 97% fat free and the claims made in the nutritional information panel on the package); 
- &#8226; the packaging of the SunRice and Real Foods flavoured products had substantial similarities in the critical cues necessary to grab the attention of the ordinary reasonable consumer;
- &#8226; Ms Anderson said that a new product in a crowded category, that is one in which there were many products, had to jump out and attract the consumer to a point of difference.</sentence>
+ &amp;#8226; the packaging of the SunRice and Real Foods flavoured products had substantial similarities in the critical cues necessary to grab the attention of the ordinary reasonable consumer;
+ &amp;#8226; Ms Anderson said that a new product in a crowded category, that is one in which there were many products, had to jump out and attract the consumer to a point of difference.</sentence>
 <sentence id="s369">The way in which that was done was to use familiar brands, colouring, packaging, flavours and claims for products so that the product will "work hard", as packaged, to gain the attention of the ordinary reasonable shopper.</sentence>
 <sentence id="s370">Consumers rarely go into supermarkets looking for a new product.</sentence>
 <sentence id="s371">Generally they scan the shelves in the rice cake and corn cake category from a slight distance and are attracted quickly by the cues before making the decision to take the product;
- &#8226; Real Foods were using symbols or logos which were likely, despite differences of detail, to lead the ordinary reasonable consumer to form the impression of a common business or at least of an association, connection or affiliation.</sentence>
+ &amp;#8226; Real Foods were using symbols or logos which were likely, despite differences of detail, to lead the ordinary reasonable consumer to form the impression of a common business or at least of an association, connection or affiliation.</sentence>
 <sentence id="s372">Ricegrowers relied on what Burchett J had said in Kettle Chip 46 FCR at 176, and argued that: 
  
  
@@ -624,7 +624,7 @@
 <sentence id="s495">Indeed, the ordinary reasonable consumer could be expected to tell the difference between the products, just as Ricegrowers expected her to do with its two tomato flavoured ones.</sentence>
 <sentence id="s496">106 Ricegrowers has not demonstrated that Real Foods' use of its packaging was calculated or likely to lead the ordinary reasonable consumer to believe that any of the three corn thin flavoured corn cakes were made by or in some way associated with Ricegrowers or its SunRice products (the sour cream and chives, or sea salt and balsamic vinegar thin flavoured rice cakes or the nacho cheese flavoured corn cake): Darrell Lea 159 FCR at 418-419 [96]-[99]; Office Cleaning 63 RPC at 42.</sentence>
 <sentence id="s497">The ordinary reasonable consumer would not believe that, to the extent that the packaging of the flavoured Real Foods products was similar, any of those packages emanated from or were in any way associated with Ricegrowers or SunRice: Campomar 202 CLR at 88-89 [109]-[110]; Cadbury Schweppes [1980] 2 NSWLR at 858 [22]; Borden [1990] 1 WLR at 506F-G; Payton 17 RPC at 51; see too Cadbury Schweppes Pty Ltd v Darrell Lea Chocolate Shops Pty Ltd (No 9) [2008] FCA 470 at [88] per Heerey J.</sentence>
-<sentence id="s498">107 I am satisfied that Real Foods differentiated its products on the face of their packages from those of SunRice: Burford &amp; Sons 8 CLR at 21.</sentence>
+<sentence id="s498">107 I am satisfied that Real Foods differentiated its products on the face of their packages from those of SunRice: Burford &amp;amp; Sons 8 CLR at 21.</sentence>
 <sentence id="s499">108 There is no reason to conclude that Ricegrowers is entitled to a monopoly on colours and flow packs for the packaging of corn or rice cakes with the features of those on Real Foods' packaging complained of.</sentence>
 <sentence id="s500">Here, Real Foods adopted colours and printed flow pack packaging which were in common use in the savoury biscuits category.</sentence>
 <sentence id="s501">Just because Ricegrowers was first to use these in the corn cake and rice cake subcategories did not entitle it to a monopoly of their use.</sentence>

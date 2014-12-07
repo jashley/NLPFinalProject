@@ -3,12 +3,12 @@
 <name>Leonie's Travel Pty Limited v International Air Transport Association (No 2) [2009] FCA 646 (17 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/646.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether discretion to grant declaratory relief should be exercised</catchphrase>
-<catchphrase "id=c1">whether injunctive relief should be granted when no further contravening conduct.</catchphrase>
-<catchphrase "id=c2">exercise of discretion to award costs</catchphrase>
-<catchphrase "id=c3">apportionment.</catchphrase>
-<catchphrase "id=c4">practice and procedure:</catchphrase>
-<catchphrase "id=c5">costs:</catchphrase>
+<catchphrase id="c0">whether discretion to grant declaratory relief should be exercised</catchphrase>
+<catchphrase id="c1">whether injunctive relief should be granted when no further contravening conduct.</catchphrase>
+<catchphrase id="c2">exercise of discretion to award costs</catchphrase>
+<catchphrase id="c3">apportionment.</catchphrase>
+<catchphrase id="c4">practice and procedure:</catchphrase>
+<catchphrase id="c5">costs:</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -90,7 +90,7 @@ And see also the observations of Gaudron J in Truth About Motorways Pty Ltd v Ma
  In determining whether to grant injunctive relief, similar considerations arise as those discussed in relation to declaratory relief.</sentence>
 <sentence id="s48">A factor that tells against the granting of injunctive relief is that the impugned conduct has since passed, the evidence establishing that Qantas no longer engages (and has not done so for some time) in the contravening conduct.</sentence>
 <sentence id="s49">Related to this factor is the likelihood of repetition, given that injunctions are traditionally employed to restrain repetition of conduct: ICI Australia Operations Pty Ltd v Trade Practices Commission [1992] FCA 474 ; (1992) 38 FCR 248 at 256.</sentence>
-<sentence id="s50">As Goldberg J explained in Australian Competition &amp; Consumer Commission v Dermalogica Pty Ltd (ACN 067 065 105) [2005] FCA 152 at [110] : 
+<sentence id="s50">As Goldberg J explained in Australian Competition &amp;amp; Consumer Commission v Dermalogica Pty Ltd (ACN 067 065 105) [2005] FCA 152 at [110] : 
  In determining whether to grant an injunction proscribing future conduct, the court should consider whether all the circumstances of the case --- including the scale of the prior contravening conduct, any evidence as to the contravener's future intentions and the likelihood of damage to other persons as a result of further proscribed conduct --- call for the contravener being subject to the more onerous burdens, such as contempt of court, in relation to their future conduct.</sentence>
 <sentence id="s51">This consideration is required even though the power of the Court to grant an injunction under s 80 is not limited by the requirement of a threat of future contravening conduct.</sentence>
 <sentence id="s52">
@@ -186,7 +186,7 @@ Dated: 17 June 2009
  
  Counsel for the Applicant: B Coles QC with N Beaumont 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater &amp;amp; Gordon 
  
  Counsel for the Second Respondents: D Yates SC with J Lockhart 
  

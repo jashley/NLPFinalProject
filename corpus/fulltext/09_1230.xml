@@ -3,16 +3,16 @@
 <name>Weimann v Allphones Retail Pty Ltd (No 2) [2009] FCA 1230 (30 October 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1230.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">dismissal of proceeding sought on the basis of alleged oral acceptance of written offer at mediation</catchphrase>
-<catchphrase "id=c1">court's jurisdiction to enforce agreement</catchphrase>
-<catchphrase "id=c2">enforcement of settlement agreement</catchphrase>
-<catchphrase "id=c3">whether agreement sufficiently certain to be valid and enforceable</catchphrase>
-<catchphrase "id=c4">whether intention to be bound by any agreement</catchphrase>
-<catchphrase "id=c5">whether subjective intention relevant</catchphrase>
-<catchphrase "id=c6">whether solicitors had authority to settle the proceeding</catchphrase>
-<catchphrase "id=c7">whether certain parts of agreement could be severed from main agreement</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
-<catchphrase "id=c9">contract</catchphrase>
+<catchphrase id="c0">dismissal of proceeding sought on the basis of alleged oral acceptance of written offer at mediation</catchphrase>
+<catchphrase id="c1">court's jurisdiction to enforce agreement</catchphrase>
+<catchphrase id="c2">enforcement of settlement agreement</catchphrase>
+<catchphrase id="c3">whether agreement sufficiently certain to be valid and enforceable</catchphrase>
+<catchphrase id="c4">whether intention to be bound by any agreement</catchphrase>
+<catchphrase id="c5">whether subjective intention relevant</catchphrase>
+<catchphrase id="c6">whether solicitors had authority to settle the proceeding</catchphrase>
+<catchphrase id="c7">whether certain parts of agreement could be severed from main agreement</catchphrase>
+<catchphrase id="c8">practice and procedure</catchphrase>
+<catchphrase id="c9">contract</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -59,7 +59,7 @@
 <sentence id="s24">Such disclosure may be prejudicial within the meaning of s 50 FCA.</sentence>
 <sentence id="s25">The confidential annexures will be available to Judges of this Court and otherwise, only on a limited basis in accordance with specific orders.</sentence>
 <sentence id="s26">JURISDICTION 
- The Court has jurisdiction to enforce a settlement by way of its accrued jurisdiction ( Needlework Warehouse Pty Ltd v Chansonette Pty Ltd [2005] FCA 1525 ; (2005) 226 ALR 252 ; We Two Pty Ltd v Shorrock (No 2) [2005] FCA 934 ; (2005) 220 ALR 749 and Roberts v Gippsland Agricultural &amp; Earth Moving Contracting Co Pty Ltd [1956] VLR 555).</sentence>
+ The Court has jurisdiction to enforce a settlement by way of its accrued jurisdiction ( Needlework Warehouse Pty Ltd v Chansonette Pty Ltd [2005] FCA 1525 ; (2005) 226 ALR 252 ; We Two Pty Ltd v Shorrock (No 2) [2005] FCA 934 ; (2005) 220 ALR 749 and Roberts v Gippsland Agricultural &amp;amp; Earth Moving Contracting Co Pty Ltd [1956] VLR 555).</sentence>
 <sentence id="s27">In Roberts VLR 555, the view taken by the Full Court of the Supreme Court of Victoria was that in simple cases a compromise will be enforceable on a motion for judgment in the proceeding.</sentence>
 <sentence id="s28">In Cairns, Australian Civil Procedure , 7 th ed, the author summarises the conditions for enforcement in this manner as being: The proceeding must still be on foot;
  Any stay of the proceeding must be lifted;
@@ -67,7 +67,7 @@
  The compromise must also be on the terms that the defendant must pay the plaintiff an agreed amount on an agreed date;
  If those conditions are fulfilled the Court will enforce the compromise in the proceedings to which the compromise relates.</sentence>
 <sentence id="s29">It is when the compromise involves an issue going beyond the scope of the original proceedings that it cannot be enforced in those proceedings.</sentence>
-<sentence id="s30">In that situation, further proceedings are required ( Crisp &amp; Gunn Co-operative Ltd v Hobart Corporation [1963] HCA 55 ; (1963) 110 CLR 538).</sentence>
+<sentence id="s30">In that situation, further proceedings are required ( Crisp &amp;amp; Gunn Co-operative Ltd v Hobart Corporation [1963] HCA 55 ; (1963) 110 CLR 538).</sentence>
 <sentence id="s31">Perhaps of greater importance is the analysis in Roberts [1956] VLR 555 (at 564) in which Smith J said: 
  
  In deciding whether justice can be done under the summary procedure the Court, of course, needs to consider a variety of matters involving questions of degree.</sentence>
@@ -531,7 +531,7 @@
  
  
  
- " When valid promises supported by legal consideration are associated with, but separate in form from, invalid promises, the test of whether they are severable is whether they are in substance so connected with the others as to form an indivisible whole which cannot be taken to pieces without altering its nature: Harwood v Millar's Timber &amp; Trading Co Ltd [1917] 1 KB 305 , at p 315.</sentence>
+ " When valid promises supported by legal consideration are associated with, but separate in form from, invalid promises, the test of whether they are severable is whether they are in substance so connected with the others as to form an indivisible whole which cannot be taken to pieces without altering its nature: Harwood v Millar's Timber &amp;amp; Trading Co Ltd [1917] 1 KB 305 , at p 315.</sentence>
 <sentence id="s393">If the elimination of the invalid promises changes the extent only but not the kind of the contract, the valid promises are severable : Putsman v Taylor [1927] 1 KB 637 , at pp 640-1.</sentence>
 <sentence id="s394">" (emphasis added) 
  
@@ -557,7 +557,7 @@ Dated: 30 October 2009
  
  Counsel for the Respondent: BC Roberts 
  
- Solicitor for the Respondent: Kelly &amp; Co 
+ Solicitor for the Respondent: Kelly &amp;amp; Co 
  Date of Hearing: 26 October 2009 
  
  Date of Judgment: 30 October 2009 

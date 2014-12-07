@@ -3,20 +3,20 @@
 <name>Vopak Terminal Darwin Pty Limited v Natural Fuels Darwin Pty Limited (Subject to Deed of Company Arrangement) [2009] FCA 742 (10 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/742.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">tenants' fixtures</catchphrase>
-<catchphrase "id=c1">sublease</catchphrase>
-<catchphrase "id=c2">sublessee subject to deed of company arrangement (doca)</catchphrase>
-<catchphrase "id=c3">sublessor terminated sublease</catchphrase>
-<catchphrase "id=c4">provision of sublease entitling sublessor to remove and sell sublessee's fixtures</catchphrase>
-<catchphrase "id=c5">sublessor proposing to sell the fixtures to incoming new sublessee</catchphrase>
-<catchphrase "id=c6">claim by doca administrators of sublessee that sublessee had "intellectual property" which would be infringed by the sale</catchphrase>
-<catchphrase "id=c7">claim by the administrators to have equitable claim in respect of their work in attempting to find a buyer of the fixtures</catchphrase>
-<catchphrase "id=c8">in fact the entity with which they were negotiating was the entity to which sublessor ultimately agreed to sell the fixtures and to grant a sublease</catchphrase>
-<catchphrase "id=c9">position of head lessor. held : (1) the items in question were fixtures; (2) they were the sublessee's fixtures; (3) neither sublessee nor administrators entitled to prevent sale by sublessor.</catchphrase>
-<catchphrase "id=c10">jurisdiction of federal court to adjudicate upon dispute between lessor and administrators of lessee company (subject to deed of company arrangement) in relation to fixtures</catchphrase>
-<catchphrase "id=c11">ss 447a, 447e, 1337b of corporations act 2001 (cth).</catchphrase>
-<catchphrase "id=c12">property</catchphrase>
-<catchphrase "id=c13">courts</catchphrase>
+<catchphrase id="c0">tenants' fixtures</catchphrase>
+<catchphrase id="c1">sublease</catchphrase>
+<catchphrase id="c2">sublessee subject to deed of company arrangement (doca)</catchphrase>
+<catchphrase id="c3">sublessor terminated sublease</catchphrase>
+<catchphrase id="c4">provision of sublease entitling sublessor to remove and sell sublessee's fixtures</catchphrase>
+<catchphrase id="c5">sublessor proposing to sell the fixtures to incoming new sublessee</catchphrase>
+<catchphrase id="c6">claim by doca administrators of sublessee that sublessee had "intellectual property" which would be infringed by the sale</catchphrase>
+<catchphrase id="c7">claim by the administrators to have equitable claim in respect of their work in attempting to find a buyer of the fixtures</catchphrase>
+<catchphrase id="c8">in fact the entity with which they were negotiating was the entity to which sublessor ultimately agreed to sell the fixtures and to grant a sublease</catchphrase>
+<catchphrase id="c9">position of head lessor. held : (1) the items in question were fixtures; (2) they were the sublessee's fixtures; (3) neither sublessee nor administrators entitled to prevent sale by sublessor.</catchphrase>
+<catchphrase id="c10">jurisdiction of federal court to adjudicate upon dispute between lessor and administrators of lessee company (subject to deed of company arrangement) in relation to fixtures</catchphrase>
+<catchphrase id="c11">ss 447a, 447e, 1337b of corporations act 2001 (cth).</catchphrase>
+<catchphrase id="c12">property</catchphrase>
+<catchphrase id="c13">courts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -247,7 +247,7 @@ By "the Remaining Property", the solicitors were referring, in substance, to the
  
 (c) become part and parcel of the land itself.</sentence>
 <sentence id="s133">I am aware that the third category has not yet been authoritatively recognised in Australia.</sentence>
-<sentence id="s134">It was approved by the House of Lords in Elitestone Ltd v Morris [1997] 1 WLR 687 at 690-691 (noted at (1997) 71 ALJ 820 --- and see Wessex Reserve Forces &amp; Cadets Association v White [2005] 3 EGLR 127) and by the New Zealand Court of Appeal in Auckland City Council v Ports of Auckland Ltd [2000] 3 NZLR 614 at [74]---[75].</sentence>
+<sentence id="s134">It was approved by the House of Lords in Elitestone Ltd v Morris [1997] 1 WLR 687 at 690-691 (noted at (1997) 71 ALJ 820 --- and see Wessex Reserve Forces &amp;amp; Cadets Association v White [2005] 3 EGLR 127) and by the New Zealand Court of Appeal in Auckland City Council v Ports of Auckland Ltd [2000] 3 NZLR 614 at [74]---[75].</sentence>
 <sentence id="s135">Consider the bitumen, line paint and other materials that may be brought onto land and used in the construction of a road or carpark.</sentence>
 <sentence id="s136">They cannot be removed and converted back into worthwhile chattels.</sentence>
 <sentence id="s137">A similar observation may be applicable to a house that can be removed only by being destroyed.</sentence>
@@ -306,7 +306,7 @@ These features are shared by most cases of tenants' fixtures.</sentence>
 <sentence id="s177">Tenants' fixtures 
  The Sublease used the expression "Sublessee's Property" and one element of the Sublessee's Property was its "fixtures": see [18], [20], [21] above.</sentence>
 <sentence id="s178">The Sublessee's fixtures were not identified in the Sublease and at the time of its execution they did not yet exist.</sentence>
-<sentence id="s179">In Lees &amp; Leech Pty Ltd v Commissioner of Taxation (1997) 73 FCR 136 , Hill J said (at 149): 
+<sentence id="s179">In Lees &amp;amp; Leech Pty Ltd v Commissioner of Taxation (1997) 73 FCR 136 , Hill J said (at 149): 
  ...When it is said that an item is a "tenants' fixture", all that is meant is that the tenant has a right to remove the item at the expiration of the term of the lease or a reasonable time thereafter: cf D'Arcy v Burelli Investments Pty Ltd (1987) 8 NSWLR 317.</sentence>
 <sentence id="s180">If the item in question were not a fixture, a fortiori it would belong to the tenant and could be removed by the tenant at any time.</sentence>
 <sentence id="s181">Thus, the whole concept of tenants' fixtures assumes that the items in question have become fixtures but that the tenant has a right in equity in the land, co-extensive with the right of the tenant to come upon the land after the expiration of the lease and remove the fixture.</sentence>
@@ -333,8 +333,8 @@ These features are shared by most cases of tenants' fixtures.</sentence>
 <sentence id="s200">His Honour posed the question as being which of two theories is correct: the theory that tenants' fixtures never become part of the freehold (his Honour referred to Mowats v Hudson (1911) 105 LT 400) , and the theory that they do but are subject to the tenant's right to detach them and thereby make them chattels again (his Honour referred to Horwitch v Symond (1914) 110 LT 106 (affirmed by the Court of Appeal (1915) 84 LJKB 1083)).</sentence>
 <sentence id="s201">I do not propose to review the authorities, interesting though the issue is.</sentence>
 <sentence id="s202">The clear preponderance of authority favours the latter view.</sentence>
-<sentence id="s203">Woodfall's Law of Landlord and Tenant (Sweet &amp; Maxwell/Thomson Reuters, 2009, looseleaf) vol 1 at [13.148] addresses the present issue as follows: 
- Although it has been suggested that a tenant's fixture is an exception to the rule that anything affixed to the land becomes part of the land [ Re Hulse [1905] 1 Ch 406] , it is considered that the better view is that a tenant's fixture does become part of the land until severed, and that the tenant's right of severance is an exception to his obligation to deliver up that which has become part of the land [ Gibson v Hammersmith &amp; City Railway Co (1853) 2; Drew &amp; SM 603 ; 1 New Rep 305; Brain v Brand (1876) 1 Ap Cas 762.</sentence>
+<sentence id="s203">Woodfall's Law of Landlord and Tenant (Sweet &amp;amp; Maxwell/Thomson Reuters, 2009, looseleaf) vol 1 at [13.148] addresses the present issue as follows: 
+ Although it has been suggested that a tenant's fixture is an exception to the rule that anything affixed to the land becomes part of the land [ Re Hulse [1905] 1 Ch 406] , it is considered that the better view is that a tenant's fixture does become part of the land until severed, and that the tenant's right of severance is an exception to his obligation to deliver up that which has become part of the land [ Gibson v Hammersmith &amp;amp; City Railway Co (1853) 2; Drew &amp;amp; SM 603 ; 1 New Rep 305; Brain v Brand (1876) 1 Ap Cas 762.</sentence>
 <sentence id="s204">The rule that tenants' fixtures cannot be seized by way of distress is also consistent with the view that until severed, a tenant's fixture is part of the land].</sentence>
 <sentence id="s205">Thus it has been said that in the case of landlord and tenant "it is well settled that, in the absence of an agreement to the contrary, any building erected by the tenant upon the demise of the land immediately becomes part of the land itself and at the expiration of the lease reverts to the landlord.</sentence>
 <sentence id="s206">In such a case unless the building has been erected in contravention of some stipulation in the lease, the landlord obviously has a right to compel the tenant to take down and remove it.</sentence>
@@ -355,7 +355,7 @@ See also the discussion of the question by Professor Butt in Land Law (5 th ed, 
 <sentence id="s218">Moreover, a sale by Vopak to the Buyer will be subject to LDC's consenting to the proposed sublease from Vopak to the Buyer (see [39] (b) above).</sentence>
 <sentence id="s219">It may be that LDC will be estopped from denying Vopak's right to sell.</sentence>
 <sentence id="s220">It may be that there will be, vis-a-vis LDC, a deemed removal by Vopak, a sale, and a deemed reinstallation by Vopak or by the Buyer of NFD's fixtures.</sentence>
-<sentence id="s221">Deemed removal, or at least an ignoring of, tenants' fixtures is not unknown in the context of rent review clauses: see, for example, New Zealand Government Property Corporation v HM &amp; S Ltd [1982] QB 1145 ; Young v Dalgety [1987] 1 EGLR 116.</sentence>
+<sentence id="s221">Deemed removal, or at least an ignoring of, tenants' fixtures is not unknown in the context of rent review clauses: see, for example, New Zealand Government Property Corporation v HM &amp;amp; S Ltd [1982] QB 1145 ; Young v Dalgety [1987] 1 EGLR 116.</sentence>
 <sentence id="s222">LDC is not a party to this proceeding and I have not had the benefit of submissions from it, or indeed from the parties, on the difficult questions that arise.</sentence>
 <sentence id="s223">It may be that they will not arise because LDC, Vopak and the Buyer will deal with them in a tripartite agreement.</sentence>
 <sentence id="s224">The appropriate course for the Court to take is to resolve only those questions that need to be resolved as between the present parties in order to make it clear that Vopak is entitled, as in my opinion it is, as against the defendants to sell the fixtures.</sentence>
@@ -410,7 +410,7 @@ The Buyer undertakes not to operate or use the Plant or otherwise deal with the 
 (b) one of only two remaining creditors of NFAL and NFD; and
  
 (c) the beneficiary of a charge created by NFD in favour of the Commonwealth Bank of Australia (previously CBA).</sentence>
-<sentence id="s259">Mr Cussen's affidavit seems to be in error in stating that NFD has two shareholders, NFL and Babcock &amp; Brown Environmental Investment Ltd.</sentence>
+<sentence id="s259">Mr Cussen's affidavit seems to be in error in stating that NFD has two shareholders, NFL and Babcock &amp;amp; Brown Environmental Investment Ltd.</sentence>
 <sentence id="s260">According to Freehills' letter, NFD has but one shareholder, NFAL, and it is NFAL that has the two shareholders.</sentence>
 <sentence id="s261">Freehills' client, NFL, acting through its DOCA administrators, does not seek to prevent a sale of the Sale Assets but claims that Vopak is not entitled to retain the full proceeds of sale and is accountable NFL's DOCA administrators after deduction of the costs of the sale.</sentence>
 <sentence id="s262">In its capacity as a grandparent alone, NFL, together with its DOCA administrators, lack standing.</sentence>

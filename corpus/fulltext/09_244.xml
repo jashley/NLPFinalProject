@@ -3,10 +3,10 @@
 <name>Khadpekar v Official Trustee in Bankruptcy (No 2) [2009] FCA 244 (19 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/244.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether the discretion under s 178 of the bankruptcy act 1966 (cth) at large</catchphrase>
-<catchphrase "id=c1">whether the discretion under s 178 can only be exercised to require a trustee in bankruptcy to appeal a judgment against a bankrupt where the judgment is one which affects the bankrupt's personal or professional character</catchphrase>
-<catchphrase "id=c2">whether it is essential to the exercise of such discretion that a bankrupt provide security for a trustee in bankruptcy's costs of the appeal</catchphrase>
-<catchphrase "id=c3">bankruptcy</catchphrase>
+<catchphrase id="c0">whether the discretion under s 178 of the bankruptcy act 1966 (cth) at large</catchphrase>
+<catchphrase id="c1">whether the discretion under s 178 can only be exercised to require a trustee in bankruptcy to appeal a judgment against a bankrupt where the judgment is one which affects the bankrupt's personal or professional character</catchphrase>
+<catchphrase id="c2">whether it is essential to the exercise of such discretion that a bankrupt provide security for a trustee in bankruptcy's costs of the appeal</catchphrase>
+<catchphrase id="c3">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -289,7 +289,7 @@ Dated: 19 March 2009
  Counsel for the Appellant: The Appellant appeared in person.</sentence>
 <sentence id="s191">Counsel for the Respondent: Mr G Rodgers 
  
- Solicitor for the Respondent: Rodgers Barnes &amp; Green 
+ Solicitor for the Respondent: Rodgers Barnes &amp;amp; Green 
  Date of Hearing: 16 December 2008 
  
  Date of Judgment: 19 March 2009 

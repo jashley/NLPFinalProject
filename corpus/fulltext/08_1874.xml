@@ -3,13 +3,13 @@
 <name>Branson v Commissioner of Taxation [2008] FCA 1874 (1 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1874.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of administrative appeals tribunal reviewing decision of commissioner</catchphrase>
-<catchphrase "id=c1">appellant was made redundant while on secondment in japan</catchphrase>
-<catchphrase "id=c2">whether redundancy payment constituted exempt non-resident foreign termination payment</catchphrase>
-<catchphrase "id=c3">no error in tribunal's decision that redundancy payment was not solely referable to period of employment in foreign country</catchphrase>
-<catchphrase "id=c4">no error in tribunal's decision that redundancy payment could not in the circumstances be apportioned between employment in australia and employment in japan</catchphrase>
-<catchphrase "id=c5">appeal dismissed</catchphrase>
-<catchphrase "id=c6">taxation</catchphrase>
+<catchphrase id="c0">appeal from decision of administrative appeals tribunal reviewing decision of commissioner</catchphrase>
+<catchphrase id="c1">appellant was made redundant while on secondment in japan</catchphrase>
+<catchphrase id="c2">whether redundancy payment constituted exempt non-resident foreign termination payment</catchphrase>
+<catchphrase id="c3">no error in tribunal's decision that redundancy payment was not solely referable to period of employment in foreign country</catchphrase>
+<catchphrase id="c4">no error in tribunal's decision that redundancy payment could not in the circumstances be apportioned between employment in australia and employment in japan</catchphrase>
+<catchphrase id="c5">appeal dismissed</catchphrase>
+<catchphrase id="c6">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -122,13 +122,13 @@ At that stage, the Taxpayer was designated as a "Director".</sentence>
  
 23 The Tribunal relevantly formulated the issues before it as follows:
  
-&#8226; Was the whole of the Redundancy Payment of $497,068.83 an exempt non-resident foreign termination payment?</sentence>
-<sentence id="s73">&#8226; Was part of the Redundancy Payment of $497,068.83 an exempt non-resident foreign termination payment?</sentence>
+&amp;#8226; Was the whole of the Redundancy Payment of $497,068.83 an exempt non-resident foreign termination payment?</sentence>
+<sentence id="s73">&amp;#8226; Was part of the Redundancy Payment of $497,068.83 an exempt non-resident foreign termination payment?</sentence>
 <sentence id="s74">24 It was common ground before the Tribunal that those questions involved a determination as to:
  
-&#8226; whether the Taxpayer's employment was service in a foreign country within paragraph (iii) of the definition; and
+&amp;#8226; whether the Taxpayer's employment was service in a foreign country within paragraph (iii) of the definition; and
  
-&#8226; whether the Redundancy Payment related solely to a period of the employment during which the Taxpayer was not a resident of Australia within paragraph (iv) of the definition.</sentence>
+&amp;#8226; whether the Redundancy Payment related solely to a period of the employment during which the Taxpayer was not a resident of Australia within paragraph (iv) of the definition.</sentence>
 <sentence id="s75">25 It was common ground that the Redundancy Payment was made in consequence of the termination of the Taxpayer's employment and that the payment would be an eligible termination payment, such that paragraphs (i) and (ii) of the definition in s 27A(1) of the Assessment Act were satisfied.</sentence>
 <sentence id="s76">The grounds of appeal relate to the application of paragraphs (iii) and (iv).</sentence>
 <sentence id="s77">26 The Tribunal found that the Taxpayer's employment over the last two years had been performed in Japan but that he was still employed by Deutsche Australia throughout that period.</sentence>
@@ -255,9 +255,9 @@ Dated: 15 December 2008
 
  Counsel for the Applicant: M Robertson 
  
- Solicitor for the Applicant: Ernst &amp; Young Law 
+ Solicitor for the Applicant: Ernst &amp;amp; Young Law 
  
- Counsel for the Respondent: J Davies SC &amp; M T Flynn 
+ Counsel for the Respondent: J Davies SC &amp;amp; M T Flynn 
  
  Solicitor for the Respondent: Australian Government Solicitor 
 

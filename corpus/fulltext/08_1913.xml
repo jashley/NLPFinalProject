@@ -3,12 +3,12 @@
 <name>Kardas v Kalliakoudis [2008] FCA 1913 (16 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1913.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">breach of trademark</catchphrase>
-<catchphrase "id=c1">respondent agrees to permanent injunction but not an account of profits</catchphrase>
-<catchphrase "id=c2">costs not agreed</catchphrase>
-<catchphrase "id=c3">whether costs should be paid by respondent</catchphrase>
-<catchphrase "id=c4">factors to be taken into account</catchphrase>
-<catchphrase "id=c5">costs</catchphrase>
+<catchphrase id="c0">breach of trademark</catchphrase>
+<catchphrase id="c1">respondent agrees to permanent injunction but not an account of profits</catchphrase>
+<catchphrase id="c2">costs not agreed</catchphrase>
+<catchphrase id="c3">whether costs should be paid by respondent</catchphrase>
+<catchphrase id="c4">factors to be taken into account</catchphrase>
+<catchphrase id="c5">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -113,7 +113,7 @@ Dated: 16 December 2008
 
  Solicitor for the Applicant: Mills Oakley 
  
- Solicitor for the Second Respondent: Efron &amp; Associates 
+ Solicitor for the Second Respondent: Efron &amp;amp; Associates 
 
  Date of Written Submissions: 21 October 2008
 22 October 2008

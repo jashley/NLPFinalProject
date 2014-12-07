@@ -3,11 +3,11 @@
 <name>Australian Medic-Care Company Ltd v Hamilton Pharmaceutical Pty Limited (ACN 008 204 635) (No 4) [2008] FCA 1038 (10 July 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1038.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">hearsay rule</catchphrase>
-<catchphrase "id=c1">s 69 evidence act 1995 (cth) business records exception</catchphrase>
-<catchphrase "id=c2">s 69(3) qualification where documents prepared or obtained in contemplation of australian or overseas proceedings</catchphrase>
-<catchphrase "id=c3">application of s 69(3) to documents prepared or obtained in the context of distinct proceedings against a third party</catchphrase>
-<catchphrase "id=c4">evidence</catchphrase>
+<catchphrase id="c0">hearsay rule</catchphrase>
+<catchphrase id="c1">s 69 evidence act 1995 (cth) business records exception</catchphrase>
+<catchphrase id="c2">s 69(3) qualification where documents prepared or obtained in contemplation of australian or overseas proceedings</catchphrase>
+<catchphrase id="c3">application of s 69(3) to documents prepared or obtained in the context of distinct proceedings against a third party</catchphrase>
+<catchphrase id="c4">evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -138,7 +138,7 @@
 <sentence id="s67">I equally am satisfied from the communications and documents relied upon by the respondent that they had the contemplation envisaged by the subsection.</sentence>
 <sentence id="s68">17 Accordingly, I rule representations contained in pp 385-400 of the applicant's court book not to be admissible under s 69(2) of the Evidence Act .</sentence>
 <sentence id="s69">2.</sentence>
-<sentence id="s70">&amp; 3.</sentence>
+<sentence id="s70">&amp;amp; 3.</sentence>
 <sentence id="s71">The s 135 Objection and s 136 Submission 
  
 18 It is the case, as Hamilton contends, that the 16 documents suffer from clear and obvious inadequacies and their probative value is correspondingly qualified.</sentence>

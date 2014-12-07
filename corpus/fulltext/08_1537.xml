@@ -3,13 +3,13 @@
 <name>Goodin, in the matter of the Grand United Order of Free Gardeners Friendly Society Ltd (in liq) [2008] FCA 1537 (17 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1537.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">winding up</catchphrase>
-<catchphrase "id=c1">friendly society</catchphrase>
-<catchphrase "id=c2">registered as a corporation under the corporations law</catchphrase>
-<catchphrase "id=c3">fund held by liquidator</catchphrase>
-<catchphrase "id=c4">unclaimed moneys</catchphrase>
-<catchphrase "id=c5">how dealt with</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase id="c0">winding up</catchphrase>
+<catchphrase id="c1">friendly society</catchphrase>
+<catchphrase id="c2">registered as a corporation under the corporations law</catchphrase>
+<catchphrase id="c3">fund held by liquidator</catchphrase>
+<catchphrase id="c4">unclaimed moneys</catchphrase>
+<catchphrase id="c5">how dealt with</catchphrase>
+<catchphrase id="c6">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -101,7 +101,7 @@ Dated: 17 October 2008
 
  Counsel for the Applicant: E Porter 
  
- Solicitor for the Applicant: Slater &amp; Gordon Ltd 
+ Solicitor for the Applicant: Slater &amp;amp; Gordon Ltd 
 
  Date of Hearing: 13 March 2008
 (Further material filed on 4 July 2008) 

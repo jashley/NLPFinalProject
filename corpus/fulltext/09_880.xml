@@ -3,11 +3,11 @@
 <name>White v Commissioner of Taxation [2009] FCA 880 (18 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/880.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">capital gains</catchphrase>
-<catchphrase "id=c1">small business entity concession</catchphrase>
-<catchphrase "id=c2">limit on net value of assets of business and related entities</catchphrase>
-<catchphrase "id=c3">whether partnership a related entity of "individual" small business taxpayer</catchphrase>
-<catchphrase "id=c4">income tax</catchphrase>
+<catchphrase id="c0">capital gains</catchphrase>
+<catchphrase id="c1">small business entity concession</catchphrase>
+<catchphrase id="c2">limit on net value of assets of business and related entities</catchphrase>
+<catchphrase id="c3">whether partnership a related entity of "individual" small business taxpayer</catchphrase>
+<catchphrase id="c4">income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -393,7 +393,7 @@ Dated: 18 August 2009
  
  Counsel for the Applicant: F O'Loughlin 
  
- Solicitor for the Applicant: Hall &amp; Wilcox 
+ Solicitor for the Applicant: Hall &amp;amp; Wilcox 
  
  Counsel for the Respondent: A Broadfoot 
  

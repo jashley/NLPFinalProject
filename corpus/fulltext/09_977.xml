@@ -3,25 +3,25 @@
 <name>Lee v Minister for Immigration and Citizenship [2009] FCA 977 (28 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/977.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">applications made for business skills (residence) (class df) visas</catchphrase>
-<catchphrase "id=c1">applications refused on the grounds that the appellants had a history of involvement in business activities that are of a nature that is not generally acceptable in australia</catchphrase>
-<catchphrase "id=c2">whether cl 892.214 in schedule 2 of the migration regulations 1994 (cth) which proscribes such involvement is invalid because it is overly wide, vague and uncertain</catchphrase>
-<catchphrase "id=c3">held that cl 892.214 is capable of meaningful determination and a valid exercise of the delegated power in s 31(2) of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c4">whether the migration review tribunal misconstrued a test of "not generally accepted in australia" with a test of "unlawful in australia"</catchphrase>
-<catchphrase "id=c5">held that the tribunal characterised the activities as, first, being "likely to be offensive to a large section of the australian population", and secondly, as being "unlawful"</catchphrase>
-<catchphrase "id=c6">tribunal did not misapply cl 892.214</catchphrase>
-<catchphrase "id=c7">appeal dismissed</catchphrase>
-<catchphrase "id=c8">ss 31(2) , 476 migration regulations 1994 (cth)</catchphrase>
-<catchphrase "id=c9">cl 892.214 in schedule 2</catchphrase>
-<catchphrase "id=c10">cited evans v new south wales [2008] fcafc 130 ; (2008) 168 fcr 576</catchphrase>
-<catchphrase "id=c11">relied on ireland v wilson (1936) all er 358</catchphrase>
-<catchphrase "id=c12">discussed king gee clothing company pty ltd v commonwealth [1945] hca 23 ; (1945) 71 clr 184</catchphrase>
-<catchphrase "id=c13">referred to merrell v roberts (1909) 26 wn (nsw) 73</catchphrase>
-<catchphrase "id=c14">discussed r v goreng-goreng [2008] actsc 74 ; (2008) 220 flr 21</catchphrase>
-<catchphrase "id=c15">referred to</catchphrase>
-<catchphrase "id=c16">migration</catchphrase>
-<catchphrase "id=c17">migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c18">city of brunswick v stuart [1941] hca 7 ; (1941) 65 clr 88</catchphrase>
+<catchphrase id="c0">applications made for business skills (residence) (class df) visas</catchphrase>
+<catchphrase id="c1">applications refused on the grounds that the appellants had a history of involvement in business activities that are of a nature that is not generally acceptable in australia</catchphrase>
+<catchphrase id="c2">whether cl 892.214 in schedule 2 of the migration regulations 1994 (cth) which proscribes such involvement is invalid because it is overly wide, vague and uncertain</catchphrase>
+<catchphrase id="c3">held that cl 892.214 is capable of meaningful determination and a valid exercise of the delegated power in s 31(2) of the migration act 1958 (cth)</catchphrase>
+<catchphrase id="c4">whether the migration review tribunal misconstrued a test of "not generally accepted in australia" with a test of "unlawful in australia"</catchphrase>
+<catchphrase id="c5">held that the tribunal characterised the activities as, first, being "likely to be offensive to a large section of the australian population", and secondly, as being "unlawful"</catchphrase>
+<catchphrase id="c6">tribunal did not misapply cl 892.214</catchphrase>
+<catchphrase id="c7">appeal dismissed</catchphrase>
+<catchphrase id="c8">ss 31(2) , 476 migration regulations 1994 (cth)</catchphrase>
+<catchphrase id="c9">cl 892.214 in schedule 2</catchphrase>
+<catchphrase id="c10">cited evans v new south wales [2008] fcafc 130 ; (2008) 168 fcr 576</catchphrase>
+<catchphrase id="c11">relied on ireland v wilson (1936) all er 358</catchphrase>
+<catchphrase id="c12">discussed king gee clothing company pty ltd v commonwealth [1945] hca 23 ; (1945) 71 clr 184</catchphrase>
+<catchphrase id="c13">referred to merrell v roberts (1909) 26 wn (nsw) 73</catchphrase>
+<catchphrase id="c14">discussed r v goreng-goreng [2008] actsc 74 ; (2008) 220 flr 21</catchphrase>
+<catchphrase id="c15">referred to</catchphrase>
+<catchphrase id="c16">migration</catchphrase>
+<catchphrase id="c17">migration act 1958 (cth)</catchphrase>
+<catchphrase id="c18">city of brunswick v stuart [1941] hca 7 ; (1941) 65 clr 88</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -343,7 +343,7 @@ Dated: 28 August 2009
  
  Counsel for the Appellants: Mr N Poynder 
  
- Solicitor for the Appellants: Peter Bollard &amp; Associates 
+ Solicitor for the Appellants: Peter Bollard &amp;amp; Associates 
  
  Counsel for the Respondents: Mr S Lloyd SC 
  

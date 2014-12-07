@@ -3,14 +3,14 @@
 <name>SZJKU v Minister for Immigration and Citizenship [2008] FCA 308 (12 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/308.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for judicial review of decision of the refugee review tribunal</catchphrase>
-<catchphrase "id=c1">whether decision affected by actual bias</catchphrase>
-<catchphrase "id=c2">whether decision affected by apprehended bias</catchphrase>
-<catchphrase "id=c3">whether s 424a requires the provision of notice of particulars of information relied upon by the tribunal</catchphrase>
-<catchphrase "id=c4">whether decision affected by failure to comply with the natural justice hearing rule at common law</catchphrase>
-<catchphrase "id=c5">whether decision affected by failure to comply with div 4 of pt 7</catchphrase>
-<catchphrase "id=c6">whether div 4 of pt7 provides an exhaustive statement of the natural justice hearing rule</catchphrase>
-<catchphrase "id=c7">migration</catchphrase>
+<catchphrase id="c0">application for judicial review of decision of the refugee review tribunal</catchphrase>
+<catchphrase id="c1">whether decision affected by actual bias</catchphrase>
+<catchphrase id="c2">whether decision affected by apprehended bias</catchphrase>
+<catchphrase id="c3">whether s 424a requires the provision of notice of particulars of information relied upon by the tribunal</catchphrase>
+<catchphrase id="c4">whether decision affected by failure to comply with the natural justice hearing rule at common law</catchphrase>
+<catchphrase id="c5">whether decision affected by failure to comply with div 4 of pt 7</catchphrase>
+<catchphrase id="c6">whether div 4 of pt7 provides an exhaustive statement of the natural justice hearing rule</catchphrase>
+<catchphrase id="c7">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -149,18 +149,18 @@ The Tribunal characterised that letter as being expressed in such exaggerated te
 
  The appellant was denied procedural fairness in that the Tribunal did not put to the appellant that:
  
-&#8226; he was a Bihari who lived outside a camp and who was integrated into the local community and mainstream Bangladeshi society;
+&amp;#8226; he was a Bihari who lived outside a camp and who was integrated into the local community and mainstream Bangladeshi society;
  
-&#8226; the appellant's account of being beaten by Awami League thugs would not be believed unless he submitted physical evidence of being beaten.</sentence>
+&amp;#8226; the appellant's account of being beaten by Awami League thugs would not be believed unless he submitted physical evidence of being beaten.</sentence>
 <sentence id="s101">Ground 4:
  
  The Tribunal exhibited actual or apprehended bias in circumstances where:
  
-&#8226; the Tribunal attributed to the appellant a propensity to provide fake documents;
+&amp;#8226; the Tribunal attributed to the appellant a propensity to provide fake documents;
  
-&#8226; the Tribunal had a concluded view that all Bangladeshis who make applications to the Tribunal lie and tell fairy stories;
+&amp;#8226; the Tribunal had a concluded view that all Bangladeshis who make applications to the Tribunal lie and tell fairy stories;
  
-&#8226; the Tribunal prejudged the authenticity of the letter of 12 August 2006 based on the citizenship of the appellant.</sentence>
+&amp;#8226; the Tribunal prejudged the authenticity of the letter of 12 August 2006 based on the citizenship of the appellant.</sentence>
 <sentence id="s102">Ground 6:
  
  The Tribunal failed to comply with the requirements of s 424A of the Act by not providing particulars of the advice obtained by the Australian High Commission in relation to the letter of 10 July 2002.</sentence>

@@ -3,14 +3,14 @@
 <name>NBDV v Minister for Immigration and Citizenship [2008] FCA 778 (28 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/778.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">allegedly inconsistent findings</catchphrase>
-<catchphrase "id=c1">reasons of refugee review tribunal not to be read in an over-zealous manner</catchphrase>
-<catchphrase "id=c2">findings explained by context</catchphrase>
-<catchphrase "id=c3">no inconsistency</catchphrase>
-<catchphrase "id=c4">no need to afford opportunity to comment upon reasoning process of tribunal</catchphrase>
-<catchphrase "id=c5">appellant's written submissions raised new grounds</catchphrase>
-<catchphrase "id=c6">leave to amend refused</catchphrase>
-<catchphrase "id=c7">migration</catchphrase>
+<catchphrase id="c0">allegedly inconsistent findings</catchphrase>
+<catchphrase id="c1">reasons of refugee review tribunal not to be read in an over-zealous manner</catchphrase>
+<catchphrase id="c2">findings explained by context</catchphrase>
+<catchphrase id="c3">no inconsistency</catchphrase>
+<catchphrase id="c4">no need to afford opportunity to comment upon reasoning process of tribunal</catchphrase>
+<catchphrase id="c5">appellant's written submissions raised new grounds</catchphrase>
+<catchphrase id="c6">leave to amend refused</catchphrase>
+<catchphrase id="c7">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -20,7 +20,7 @@
 <sentence id="s2">A delegate refused that application on 25 February 2002 and an application for review was thereafter lodged with the Refugee Review Tribunal.</sentence>
 <sentence id="s3">3 The Tribunal affirmed the decision of the delegate but this decision of the Tribunal was set aside by a decision of the Federal Magistrate's Court on 12 May 2006.</sentence>
 <sentence id="s4">4 The present decision of the Tribunal, differently constituted, was signed on 25 October 2006 and again affirmed the delegate's decision.</sentence>
-<sentence id="s5">On 6 March 2008 the Federal Magistrates Court dismissed an application seeking review of the decision of the reconstituted Tribunal: NBDV v Minister for Immigration &amp; Citizenship [2008] FMCA 309.</sentence>
+<sentence id="s5">On 6 March 2008 the Federal Magistrates Court dismissed an application seeking review of the decision of the reconstituted Tribunal: NBDV v Minister for Immigration &amp;amp; Citizenship [2008] FMCA 309.</sentence>
 <sentence id="s6">5 The Appellant now appeals to this Court.</sentence>
 <sentence id="s7">His Notice of Appeal relies upon the same two grounds as were before the Federal Magistrates Court, namely:
  
@@ -42,8 +42,8 @@
 <sentence id="s16">The former finding is a conclusion as to the Appellant's involvement in " humanitarian work " and a conclusion as to the extent of his commitment to that work.</sentence>
 <sentence id="s17">The latter finding is a conclusion that the Appellant had not worked for " human rights " but that he " may have " provided assistance, and a conclusion as to the active work undertaken by the Appellant over a " period of 15 or more years ".</sentence>
 <sentence id="s18">9 There is not considered to be any necessary inconsistency or contradiction as between those two findings.</sentence>
-<sentence id="s19">10 When considering the decision of an administrative tribunal, including the Refugee Review Tribunal, considerable caution must be exercised in construing the findings and reasons set forth in that decision: Minister for Immigration &amp; Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at 272 per Brennan CJ, Toohey, McHugh and Gummow JJ.</sentence>
-<sentence id="s20">This approach has since been endorsed: SZBYR v Minister for Immigration &amp; Citizenship [2007] HCA 26 at [25] , [2007] FCA 26 ; 235 ALR 609 at 617 per Gleeson CJ, Gummow, Callinan, Heydon and Crennan JJ; Black v Minister for Immigration &amp; Citizenship [2007] FCAFC 189 at [36] , [2007] FCAFC 189 ; 99 ALD 1 at 9.</sentence>
+<sentence id="s19">10 When considering the decision of an administrative tribunal, including the Refugee Review Tribunal, considerable caution must be exercised in construing the findings and reasons set forth in that decision: Minister for Immigration &amp;amp; Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at 272 per Brennan CJ, Toohey, McHugh and Gummow JJ.</sentence>
+<sentence id="s20">This approach has since been endorsed: SZBYR v Minister for Immigration &amp;amp; Citizenship [2007] HCA 26 at [25] , [2007] FCA 26 ; 235 ALR 609 at 617 per Gleeson CJ, Gummow, Callinan, Heydon and Crennan JJ; Black v Minister for Immigration &amp;amp; Citizenship [2007] FCAFC 189 at [36] , [2007] FCAFC 189 ; 99 ALD 1 at 9.</sentence>
 <sentence id="s21">
  
 11 Not only is there no necessary inconsistency as between the two findings relied upon by the Appellant, it is further considered that the findings and reasons of the Tribunal -- when read in their entirety -- dispel any support for the asserted " inconsistency ".</sentence>
@@ -76,7 +76,7 @@
  (a) give to the applicant, in the way that the Tribunal considers appropriate in the circumstances, clear particulars of any information that the Tribunal considers would be the reason, or a part of the reason, for affirming the decision that is under review; ... 
  
  
-Compliance with this provision is mandatory: SAAP v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] HCA 24 , 215 ALR 162 ; SZBYR v Minister for Immigration &amp; Citizenship [2007] HCA 26 at [13] , [2007] FCA 26 ; 235 ALR 609 at 614 per Gleeson CJ, Gummow, Callinan, Heydon and Crennan JJ.</sentence>
+Compliance with this provision is mandatory: SAAP v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2005] HCA 24 , 215 ALR 162 ; SZBYR v Minister for Immigration &amp;amp; Citizenship [2007] HCA 26 at [13] , [2007] FCA 26 ; 235 ALR 609 at 614 per Gleeson CJ, Gummow, Callinan, Heydon and Crennan JJ.</sentence>
 <sentence id="s43">16 One difficulty confronting the Appellant is that the second Ground of Appeal does not identify any " information " which falls within the provisions of s 424A(1)(a).</sentence>
 <sentence id="s44">The ground only identifies what may properly be characterised as the factual findings made by the Tribunal.</sentence>
 <sentence id="s45">The ground, in its entirety, thus provides as follows:
@@ -87,10 +87,10 @@ Compliance with this provision is mandatory: SAAP v Minister for Immigration &am
 <sentence id="s49">However, in his Statement, the Applicant claimed it was early 1986, February, according to the evidence he provided to the first Tribunal and was detained for 4.5 days.</sentence>
 <sentence id="s50">The applicant submits that this was a serious error made by the Tribunal."...</sentence>
 <sentence id="s51">17 The findings as made by the Tribunal and extracted in the second Ground of Appeal are not " information " which could fall within s 424A(1)(a).</sentence>
-<sentence id="s52">This Ground of Appeal is more properly characterised as an impermissible challenge to the merits of the decision made by the Tribunal: NAHI v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCAFC 10 at [10] per Gray, Tamberlin and Lander JJ.</sentence>
+<sentence id="s52">This Ground of Appeal is more properly characterised as an impermissible challenge to the merits of the decision made by the Tribunal: NAHI v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2004] FCAFC 10 at [10] per Gray, Tamberlin and Lander JJ.</sentence>
 <sentence id="s53">18 At best, it is a contention that the Appellant was entitled to be informed of the findings as proposed to be made by the Tribunal and to be afforded a further opportunity to be heard.</sentence>
 <sentence id="s54">The Appellant was not entitled to any such further opportunity.</sentence>
-<sentence id="s55">Concurrence is expressed with the reliance by the Federal Magistrate upon SZBYR v Minister for Immigration &amp; Citizenship [2007] HCA 26 at [18] , [2007] FCA 26 ; 235 ALR 609 at 616 and his Honour's conclusion that such findings do not fall within s 424A(1)(a).</sentence>
+<sentence id="s55">Concurrence is expressed with the reliance by the Federal Magistrate upon SZBYR v Minister for Immigration &amp;amp; Citizenship [2007] HCA 26 at [18] , [2007] FCA 26 ; 235 ALR 609 at 616 and his Honour's conclusion that such findings do not fall within s 424A(1)(a).</sentence>
 <sentence id="s56">In SZBYR , Gleeson CJ, Gummow, Callinan, Heydon and Crennan JJ held:
  [18] ... if the reason why the Tribunal affirmed the decision under review was the Tribunal's disbelief of the appellants' evidence arising from inconsistencies therein, it is difficult to see how such disbelief could be characterised as constituting "information" within the meaning of para (a) of s 424A(1).</sentence>
 <sentence id="s57">Again, if the Tribunal affirmed the decision because even the best view of the appellants' evidence failed to disclose a Convention nexus, it is hard to see how such a failure can constitute "information".</sentence>
@@ -99,7 +99,7 @@ Compliance with this provision is mandatory: SAAP v Minister for Immigration &am
 <sentence id="s60">If the contrary were true, s 424A would in effect oblige the Tribunal to give advance written notice not merely of its reasons but of each step in its prospective reasoning process.</sentence>
 <sentence id="s61">However broadly "information" be defined, its meaning in this context is related to the existence of evidentiary material or documentation, not the existence of doubts, inconsistencies or the absence of evidence.</sentence>
 <sentence id="s62">The appellants were thus correct to concede that the relevant "information" was not to be found in inconsistencies or disbelief, as opposed to the text of the statutory declaration itself.</sentence>
-<sentence id="s63">See also: SZICU v Minister for Immigration &amp; Citizenship [2008] FCAFC 1 at [24] ---[25], 100 ALD 1 at 6---7 per Tamberlin, Finn and Besanko JJ; SZLBA v Minister for Immigration &amp; Citizenship [2008] FCA 484 at [23] ---[24] per Cowdroy J.</sentence>
+<sentence id="s63">See also: SZICU v Minister for Immigration &amp;amp; Citizenship [2008] FCAFC 1 at [24] ---[25], 100 ALD 1 at 6---7 per Tamberlin, Finn and Besanko JJ; SZLBA v Minister for Immigration &amp;amp; Citizenship [2008] FCA 484 at [23] ---[24] per Cowdroy J.</sentence>
 <sentence id="s64">19 The ground is further without merit for the simple reason that such " information " as is to be discerned from the findings relied upon by the Appellant were -- in any event -- identified in a letter sent to him pursuant to s 424A(1)(a) on 9 October 2006.</sentence>
 <sentence id="s65">That letter invited the now Appellant to comment upon a number of matters, including the following: 
  ...</sentence>
@@ -140,13 +140,13 @@ Compliance with this provision is mandatory: SAAP v Minister for Immigration &am
  
 (b) none of the grounds were formulated in such a manner as to be able to be properly understood.</sentence>
 <sentence id="s82">Further, and more specifically, submissions focussed upon the fact that s 91R initially had been raised as a ground before the Federal Magistrates Court and an alternative ground expressly " substituted " in lieu.</sentence>
-<sentence id="s83">A party, of course, is generally not entitled to raise new grounds which were deliberately or by inadvertence not put to the court from which an appeal is brought: SZIBR v Minister for Immigration &amp; Citizenship [2008] FCA 502 at [38] per Lander J.</sentence>
+<sentence id="s83">A party, of course, is generally not entitled to raise new grounds which were deliberately or by inadvertence not put to the court from which an appeal is brought: SZIBR v Minister for Immigration &amp;amp; Citizenship [2008] FCA 502 at [38] per Lander J.</sentence>
 <sentence id="s84">The contention that there was a failure to " assess information " is simply denied by the very task undertaken by the Tribunal.</sentence>
 <sentence id="s85">That, and other grounds, it was submitted were thus without substance, nor was there any specification as to which of the " findings " of the Tribunal were said to have been made without sufficient evidentiary foundation.</sentence>
 <sentence id="s86">26 To entertain the written submissions filed by the Appellant, leave to amend the Notice of Appeal would necessarily have been required.</sentence>
 <sentence id="s87">That leave was refused.</sentence>
 <sentence id="s88">The submissions as advanced on behalf of the Respondent Minister should be accepted.</sentence>
-<sentence id="s89">None of the grounds, it is considered, have merit: VUAX v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCAFC 158.</sentence>
+<sentence id="s89">None of the grounds, it is considered, have merit: VUAX v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2004] FCAFC 158.</sentence>
 <sentence id="s90">That, it should be noted, was the decision communicated to the Appellant during the course of the hearing of the appeal.</sentence>
 <sentence id="s91">ORDERS 
  

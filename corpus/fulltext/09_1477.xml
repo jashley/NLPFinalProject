@@ -3,13 +3,13 @@
 <name>Gyrro Pty Ltd v Deputy Commissioner of Taxation [2009] FCA 1477 (11 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1477.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">insolvency</catchphrase>
-<catchphrase "id=c1">winding up order made against the defendant in defendant's absence</catchphrase>
-<catchphrase "id=c2">application by defendant to have winding up order set aside pursuant to o 35, r 7(2)(a) federal court rules</catchphrase>
-<catchphrase "id=c3">alternatively, application by contributory to have the winding up terminated under s 482(1) corporations act 2001</catchphrase>
-<catchphrase "id=c4">whether court should exercise its discretion to set aside the winding up order</catchphrase>
-<catchphrase "id=c5">whether court should make order that the winding up order be terminated</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase id="c0">insolvency</catchphrase>
+<catchphrase id="c1">winding up order made against the defendant in defendant's absence</catchphrase>
+<catchphrase id="c2">application by defendant to have winding up order set aside pursuant to o 35, r 7(2)(a) federal court rules</catchphrase>
+<catchphrase id="c3">alternatively, application by contributory to have the winding up terminated under s 482(1) corporations act 2001</catchphrase>
+<catchphrase id="c4">whether court should exercise its discretion to set aside the winding up order</catchphrase>
+<catchphrase id="c5">whether court should make order that the winding up order be terminated</catchphrase>
+<catchphrase id="c6">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -92,7 +92,7 @@ His Honour was concerned with an application under Part 40 r 9(3) of the now sup
 <sentence id="s49">In the latter case Gyles J said (at [4]) that "Hodgson J's points are not, of course, a statutory formula but they are a useful checklist of things to at least take into account.</sentence>
 <sentence id="s50">" Gyles J set aside the winding up order in that case within a week of it being made.</sentence>
 <sentence id="s51">There are other decisions which might be understood to impose a higher burden on a party seeking to set aside an order pursuant to O 35, r 7(2).</sentence>
-<sentence id="s52">In Australian Competition &amp; Consumer Commission v Black on White Pty Ltd [2004] FCA 363 ; (2008) 138 FCR 314 Spender J said at [14]-[15]: 
+<sentence id="s52">In Australian Competition &amp;amp; Consumer Commission v Black on White Pty Ltd [2004] FCA 363 ; (2008) 138 FCR 314 Spender J said at [14]-[15]: 
  
  [14] In my opinion, the discretion to set aside an order pursuant to 0 35, r 7(2) of the Federal Court Rules is one that ought to be exercised only in exceptional circumstances, and that generally speaking, the jurisdiction is not to be exercised unless it can be shown that, without fault on the applicant's part, he or she had not been heard on the relevant question.</sentence>
 <sentence id="s53">
@@ -142,7 +142,7 @@ His Honour was concerned with an application under Part 40 r 9(3) of the now sup
 <sentence id="s77">The relevant principles governing the making of an order pursuant to s 482(1) are well settled and were summarised by Austin J in Re United Medical Protection Limited (2003) ACSR 705 at [30].</sentence>
 <sentence id="s78">His Honour said: 
  
- As to termination of a winding up, I was taken to Re Data Homes Pty Ltd (in liq) [1972] 2 NSWLR 22 at 26-7; Re Mascot Homes Furnishers Pty Ltd [1970] VR 593 at 598 and Mercy &amp; Sons Pty Ltd v Wanari Pty Ltd [2000] NSWSC 756 ; (2000) 35 ACSR 70 at [47] - [51] .</sentence>
+ As to termination of a winding up, I was taken to Re Data Homes Pty Ltd (in liq) [1972] 2 NSWLR 22 at 26-7; Re Mascot Homes Furnishers Pty Ltd [1970] VR 593 at 598 and Mercy &amp;amp; Sons Pty Ltd v Wanari Pty Ltd [2000] NSWSC 756 ; (2000) 35 ACSR 70 at [47] - [51] .</sentence>
 <sentence id="s79">Those cases show that in considering an application to terminate a court-ordered winding up under s 482 , the court has regard to the effect of the proposal on various categories of interests: the interests of creditors (including future creditors who might be prejudiced if the company is released from winding up in an encumbered state); the interests of the liquidator, particularly with respect costs; the interests of contributories; and the public interest (including the public interest in upholding commercial morality), the court taking the initial approach that insolvent companies should be wound up.</sentence>
 <sentence id="s80">
  

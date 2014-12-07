@@ -3,12 +3,12 @@
 <name>Keynes v Rural Directions Pty Ltd [2008] FCA 1964 (23 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1964.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pleadings</catchphrase>
-<catchphrase "id=c1">contract for sale and purchase of barley</catchphrase>
-<catchphrase "id=c2">second "washout" contract entered into</catchphrase>
-<catchphrase "id=c3">obligation sought to be avoided contained in washout contract</catchphrase>
-<catchphrase "id=c4">challenge to obligation pleaded in relation to contract for sale and purchase</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">pleadings</catchphrase>
+<catchphrase id="c1">contract for sale and purchase of barley</catchphrase>
+<catchphrase id="c2">second "washout" contract entered into</catchphrase>
+<catchphrase id="c3">obligation sought to be avoided contained in washout contract</catchphrase>
+<catchphrase id="c4">challenge to obligation pleaded in relation to contract for sale and purchase</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -170,7 +170,7 @@ Dated: 23 December 2008
 
  Counsel for the Plaintiffs: Mr B O'Brien 
  
- Solicitor for the Plaintiffs: Proud &amp; Company 
+ Solicitor for the Plaintiffs: Proud &amp;amp; Company 
  
  Counsel for the First Defendant: Mr J Bruun 
  

@@ -3,26 +3,26 @@
 <name>Weatherford Australia Pty Ltd v Screenex Pty Ltd [2009] FCA 331 (9 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/331.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patents</catchphrase>
-<catchphrase "id=c1">divisional application</catchphrase>
-<catchphrase "id=c2">error in request</catchphrase>
-<catchphrase "id=c3">wrong parent application cited</catchphrase>
-<catchphrase "id=c4">whether can be amended after lapse of correct application</catchphrase>
-<catchphrase "id=c5">whether should be amended</catchphrase>
-<catchphrase "id=c6">nature of error</catchphrase>
-<catchphrase "id=c7">undetected error in operation of computer database</catchphrase>
-<catchphrase "id=c8">whether akin to clerical error</catchphrase>
-<catchphrase "id=c9">whether error should have been picked up earlier</catchphrase>
-<catchphrase "id=c10">whether other party prejudiced by amendment.</catchphrase>
-<catchphrase "id=c11">patents</catchphrase>
-<catchphrase "id=c12">amendment of patent request</catchphrase>
-<catchphrase "id=c13">whether corresponding amendment on register should be made</catchphrase>
-<catchphrase "id=c14">whether entry is an "error or defect"</catchphrase>
-<catchphrase "id=c15">whether patentee has standing to apply.</catchphrase>
-<catchphrase "id=c16">"person aggrieved".</catchphrase>
-<catchphrase "id=c17">intellectual property</catchphrase>
-<catchphrase "id=c18">intellectual property</catchphrase>
-<catchphrase "id=c19">statutes</catchphrase>
+<catchphrase id="c0">patents</catchphrase>
+<catchphrase id="c1">divisional application</catchphrase>
+<catchphrase id="c2">error in request</catchphrase>
+<catchphrase id="c3">wrong parent application cited</catchphrase>
+<catchphrase id="c4">whether can be amended after lapse of correct application</catchphrase>
+<catchphrase id="c5">whether should be amended</catchphrase>
+<catchphrase id="c6">nature of error</catchphrase>
+<catchphrase id="c7">undetected error in operation of computer database</catchphrase>
+<catchphrase id="c8">whether akin to clerical error</catchphrase>
+<catchphrase id="c9">whether error should have been picked up earlier</catchphrase>
+<catchphrase id="c10">whether other party prejudiced by amendment.</catchphrase>
+<catchphrase id="c11">patents</catchphrase>
+<catchphrase id="c12">amendment of patent request</catchphrase>
+<catchphrase id="c13">whether corresponding amendment on register should be made</catchphrase>
+<catchphrase id="c14">whether entry is an "error or defect"</catchphrase>
+<catchphrase id="c15">whether patentee has standing to apply.</catchphrase>
+<catchphrase id="c16">"person aggrieved".</catchphrase>
+<catchphrase id="c17">intellectual property</catchphrase>
+<catchphrase id="c18">intellectual property</catchphrase>
+<catchphrase id="c19">statutes</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -38,7 +38,7 @@
 <sentence id="s9">The applicants refer to this as the "first divisional" application.</sentence>
 <sentence id="s10">These applications were formally in order, and no need to amend arises from them.</sentence>
 <sentence id="s11">The grandparent application was granted as the 919 patent on 25 June 1998.</sentence>
-<sentence id="s12">On 19 November 1998, Mr Christopher Owens, a partner in the firm of FB Rice &amp; Co, lodged the first request, namely, patent application No 93275/98 for an invention titled "Particle Screening System" in the name of USF Johnson Screens Pty Ltd.</sentence>
+<sentence id="s12">On 19 November 1998, Mr Christopher Owens, a partner in the firm of FB Rice &amp;amp; Co, lodged the first request, namely, patent application No 93275/98 for an invention titled "Particle Screening System" in the name of USF Johnson Screens Pty Ltd.</sentence>
 <sentence id="s13">This was also a divisional application made pursuant to s 39(1) of the Act, relying on the grandparent application.</sentence>
 <sentence id="s14">The applicants refer to this as the "second divisional" application.</sentence>
 <sentence id="s15">This application was not formally in order, in two respects.</sentence>
@@ -129,7 +129,7 @@
 <sentence id="s97">Indeed, counsel for Screenex were unable to point to any prejudice which their client would suffer if the amendment were to be allowed; that is to say, they were unable to point to any respect in which, as a result of the correction of the error, Screenex would now be in a worse position than it would have occupied if the error had never been made in the first place.</sentence>
 <sentence id="s98">It was not suggested, for example, that there was some point of objection which might have been taken to the second divisional application proceeding to grant in December 2000 if the first divisional application had been regularly referred to in the first and second requests.</sentence>
 <sentence id="s99">The considerations to which I have just referred would, of course, play out rather differently if there were evidence that the applicants had obtained an unfair advantage from the existence on the register, over a period of years, of a patent which they knew to be misleading in a material particular, such as in the identification of the parent application by reference to which it derived its priority date.</sentence>
-<sentence id="s100">In Smith Kline &amp; French Laboratories v Evans Medical Ltd [1989] 1 FSR 561 , 569, Aldous J said that "a patentee who seeks to obtain an unfair advantage from a patent, which he knows or should have known should be amended" would not be allowed to amend.</sentence>
+<sentence id="s100">In Smith Kline &amp;amp; French Laboratories v Evans Medical Ltd [1989] 1 FSR 561 , 569, Aldous J said that "a patentee who seeks to obtain an unfair advantage from a patent, which he knows or should have known should be amended" would not be allowed to amend.</sentence>
 <sentence id="s101">It is perhaps significant that his Lordship referred not to "a patent which was registered in error" but to "a patent, which ... should be amended", thereby implying that the vice, where there is one, is not the existence of the original error, but the passage of time between the discovery of the error and the steps taken by the patentee to correct it.</sentence>
 <sentence id="s102">Indeed, his Lordship's judgment implies that amendments should be made where appropriate, and made promptly.</sentence>
 <sentence id="s103">A patentee who, in the knowledge of an error which might affect the validity of the patent, the definition of the period of the monopoly granted by the patent, or some other aspect of the rights and obligations arising from registration, defers action to amend, thereby taking opportunistic advantage of the existence of the error, is unlikely to be in a strong position to call for the favourable exercise of the court's discretion under s 105.</sentence>

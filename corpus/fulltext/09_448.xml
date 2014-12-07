@@ -3,19 +3,19 @@
 <name>Harper v Reg-Air Pty Ltd [2009] FCA 448 (7 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/448.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">express representation</catchphrase>
-<catchphrase "id=c1">whether agreement to repair, maintain and service aircraft within certain timeframe</catchphrase>
-<catchphrase "id=c2">whether representation made</catchphrase>
-<catchphrase "id=c3">capacity in which representation made</catchphrase>
-<catchphrase "id=c4">whether reliance on the representation</catchphrase>
-<catchphrase "id=c5">implied representation</catchphrase>
-<catchphrase "id=c6">whether representation to repair, maintain and service aircraft in compliance with the civil aviation act 1988 (cth) and civil aviation regulations 1988 (cth)</catchphrase>
-<catchphrase "id=c7">whether implied that services would be rendered with due care and skill</catchphrase>
-<catchphrase "id=c8">whether trespass to or conversion of certain parts of aircraft</catchphrase>
-<catchphrase "id=c9">whether defence of consent made out</catchphrase>
-<catchphrase "id=c10">trade and commerce</catchphrase>
-<catchphrase "id=c11">trade and commerce</catchphrase>
-<catchphrase "id=c12">torts</catchphrase>
+<catchphrase id="c0">express representation</catchphrase>
+<catchphrase id="c1">whether agreement to repair, maintain and service aircraft within certain timeframe</catchphrase>
+<catchphrase id="c2">whether representation made</catchphrase>
+<catchphrase id="c3">capacity in which representation made</catchphrase>
+<catchphrase id="c4">whether reliance on the representation</catchphrase>
+<catchphrase id="c5">implied representation</catchphrase>
+<catchphrase id="c6">whether representation to repair, maintain and service aircraft in compliance with the civil aviation act 1988 (cth) and civil aviation regulations 1988 (cth)</catchphrase>
+<catchphrase id="c7">whether implied that services would be rendered with due care and skill</catchphrase>
+<catchphrase id="c8">whether trespass to or conversion of certain parts of aircraft</catchphrase>
+<catchphrase id="c9">whether defence of consent made out</catchphrase>
+<catchphrase id="c10">trade and commerce</catchphrase>
+<catchphrase id="c11">trade and commerce</catchphrase>
+<catchphrase id="c12">torts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -595,7 +595,7 @@ Now, there was a battery missing for a period of time and that was lent to a thi
 <sentence id="s533">Mr Hobson thus, by his mistake, converted trim servo motor 5096 to his own use.</sentence>
 <sentence id="s534">These facts do not constitute trespass to the trim servo motor because, at the time of the mistake of converting the motor to his own use, Mr Hobson in fact had possession of the part, not Mr Harper (see Penfolds Wines Pty Ltd v Elliott [1946] HCA 46 ; (1946) 74 CLR 204 at 226).</sentence>
 <sentence id="s535">Nevertheless, they do amount to conversion (because installing the trim servo motor from aircraft ONC into aircraft TSO was a serious interference to Mr Harper's right to possession of that part and, obviously, not authorised by the consent I have found Mr Harper to have given).</sentence>
-<sentence id="s536">In Butler v Egg &amp; Egg Pulp Marketing Board [1966] HCA 38 ; (1966) 114 CLR 185 at 191 Taylor and Owen JJ observed that the principle governing damages for conversion, in common with all torts, is that "the injured party should receive compensation in a sum which, so far as money can do so, will put him in the same position as he would have been in if the contract had been performed or the tort had not been committed".</sentence>
+<sentence id="s536">In Butler v Egg &amp;amp; Egg Pulp Marketing Board [1966] HCA 38 ; (1966) 114 CLR 185 at 191 Taylor and Owen JJ observed that the principle governing damages for conversion, in common with all torts, is that "the injured party should receive compensation in a sum which, so far as money can do so, will put him in the same position as he would have been in if the contract had been performed or the tort had not been committed".</sentence>
 <sentence id="s537">Further, (also at 191) that: 
  ...this principle is as much applicable to actions of conversion as it is to the case of other actionable wrongs.</sentence>
 <sentence id="s538">In most cases of conversion it is, of course, obvious that its application will result in the injured plaintiff recovering the full value of the property converted since that will usually represent the loss that he has sustained by the defendant's wrongful act.</sentence>
@@ -639,7 +639,7 @@ Dated: 7 May 2009
  
  Counsel for the First, Second and Third Respondents: Mr S W Cairns 
  
- Solicitor for the Applicant: Bertock &amp; Associates 
+ Solicitor for the Applicant: Bertock &amp;amp; Associates 
  
  Solicitor for the First, Second and Third Respondents: Peter Merity Solicitors Pty Ltd 
  Date of Hearing: 30-31 March, 1 and 14 April 2009 

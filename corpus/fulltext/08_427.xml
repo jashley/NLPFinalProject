@@ -3,14 +3,14 @@
 <name>Roskell v Snelgrove [2008] FCA 427 (2 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/427.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">ss 52(4) and (5) of bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c1">provision for lapsing of creditor's petition at expiration of period of 12 months commencing on date of presentation of petition or other period fixed by court order made within that period</catchphrase>
-<catchphrase "id=c2">solicitor for petitioning creditor and federal magistrate overlooking fact that petition about to lapse when directions made for filing and serving of further affidavits and submissions by a date later than date when petition would lapse</catchphrase>
-<catchphrase "id=c3">federal magistrate subsequently (after expiry of 12 months) made order under s 52(5) extending period with retrospective effect</catchphrase>
-<catchphrase "id=c4">whether federal magistrate had power to make that order</catchphrase>
-<catchphrase "id=c5">effect of last day of 12 month period being a bank holiday</catchphrase>
-<catchphrase "id=c6">calculation of period of 12 months "commencing on" date of presentation of petition.</catchphrase>
-<catchphrase "id=c7">bankruptcy</catchphrase>
+<catchphrase id="c0">ss 52(4) and (5) of bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c1">provision for lapsing of creditor's petition at expiration of period of 12 months commencing on date of presentation of petition or other period fixed by court order made within that period</catchphrase>
+<catchphrase id="c2">solicitor for petitioning creditor and federal magistrate overlooking fact that petition about to lapse when directions made for filing and serving of further affidavits and submissions by a date later than date when petition would lapse</catchphrase>
+<catchphrase id="c3">federal magistrate subsequently (after expiry of 12 months) made order under s 52(5) extending period with retrospective effect</catchphrase>
+<catchphrase id="c4">whether federal magistrate had power to make that order</catchphrase>
+<catchphrase id="c5">effect of last day of 12 month period being a bank holiday</catchphrase>
+<catchphrase id="c6">calculation of period of 12 months "commencing on" date of presentation of petition.</catchphrase>
+<catchphrase id="c7">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -19,9 +19,9 @@
 1 The appellant (Mr Roskell) appeals from a judgment of the Federal Magistrates Court of Australia given on 16 April 2007 ( Snelgrove v Roskell [2007] FMCA 567).</sentence>
 <sentence id="s1">That Court made two orders on that date of central concern on the appeal:
  
-&#8226; an order pursuant to s 52(5) of the Bankruptcy Act 1966 (Cth) (Bankruptcy Act) and O 35 r 7(3) of the Federal Court Rules (the FC Rules), that "the petition filed on 26 April 2005 be extended until 25 April 2007"; and
+&amp;#8226; an order pursuant to s 52(5) of the Bankruptcy Act 1966 (Cth) (Bankruptcy Act) and O 35 r 7(3) of the Federal Court Rules (the FC Rules), that "the petition filed on 26 April 2005 be extended until 25 April 2007"; and
  
-&#8226; that Mr Roskell's estate be sequestrated.</sentence>
+&amp;#8226; that Mr Roskell's estate be sequestrated.</sentence>
 <sentence id="s2">The respondent (Mr Snelgrove) was the petitioning creditor in the Federal Magistrates Court.</sentence>
 <sentence id="s3">2 The first order referred to in the preceding paragraph was an interlocutory order.</sentence>
 <sentence id="s4">The second order, the sequestration order, was a final order.</sentence>
@@ -134,7 +134,7 @@
 <sentence id="s74">His Honour stated (at [7]):
  
  I have previously declined to go behind the judgment supporting the bankruptcy notice and creditor's petition and I do not consider it is open to me to do so now.</sentence>
-<sentence id="s75">Even if it were open to me the most that could be said is that Mr Roskell has a claim against Mr Snelgrove for approximately $5,000 being moneys paid by R&amp;G Deli to Mr Snelgrove and not properly acquitted.</sentence>
+<sentence id="s75">Even if it were open to me the most that could be said is that Mr Roskell has a claim against Mr Snelgrove for approximately $5,000 being moneys paid by R&amp;amp;G Deli to Mr Snelgrove and not properly acquitted.</sentence>
 <sentence id="s76">That is a wholly insufficient reason to refrain from making a sequestration order and I reject it to the extent that it was advanced pursuant to s 52(2)(b) of the Bankruptcy Act .</sentence>
 <sentence id="s77">
 
@@ -282,7 +282,7 @@ Counsel for Mr Snelgrove replied "Yes" to this last question and the hearing was
 <sentence id="s173">I set out the two orders made on 11 April 2006 at [16] above.</sentence>
 <sentence id="s174">In my opinion there was "an error arising in ...[those orders] from an accidental slip or omission" [my emphasis].</sentence>
 <sentence id="s175">The error in the orders arose from the omission of an order under s 52(5) that would enable the two orders made to have their full intended effect and his Honour to deliver judgment before the petition lapsed.</sentence>
-<sentence id="s176">56 The approach that the Court has taken in similar circumstances is the subject of a consistent line of authority: see Elyard Corporation Pty Ltd v DDB Needham Sydney Pty Ltd (1995) 61 FCR 385 ; Re Howell; Ex parte Commissioner of Taxation (1996) 70 FCR 261 ; Komesaroff v Law Institute of Victoria [1997] FCA 965 ; Re Langridge; Ex parte Bennett , Carroll &amp; Gibbons [1998] FCA 879 ; Matthews v Collett [2000] FCA 224 ; Bankstown Grammar School Ltd v Park [2000] FCA 1205 ; Griffiths v Boral Resources (Qld) Pty Ltd (2006) FCR 554.</sentence>
+<sentence id="s176">56 The approach that the Court has taken in similar circumstances is the subject of a consistent line of authority: see Elyard Corporation Pty Ltd v DDB Needham Sydney Pty Ltd (1995) 61 FCR 385 ; Re Howell; Ex parte Commissioner of Taxation (1996) 70 FCR 261 ; Komesaroff v Law Institute of Victoria [1997] FCA 965 ; Re Langridge; Ex parte Bennett , Carroll &amp;amp; Gibbons [1998] FCA 879 ; Matthews v Collett [2000] FCA 224 ; Bankstown Grammar School Ltd v Park [2000] FCA 1205 ; Griffiths v Boral Resources (Qld) Pty Ltd (2006) FCR 554.</sentence>
 <sentence id="s177">In the present case, there is clear evidence that Ms Menassa intended to apply on 11 April 2006 for an order under s 52(5) of the Bankruptcy Act but forgot to do so and a clear statement by Driver FM in his Honour's reasons for judgment that he would have made such an order if he had appreciated that the creditor's petition was to lapse on 25 April 2006.</sentence>
 <sentence id="s178">57 In the circumstances, I think that there was an error (of omission) in his Honour's orders arising from an accidental slip or omission for the purposes of O 35 r 7(3).</sentence>
 <sentence id="s179">3.</sentence>

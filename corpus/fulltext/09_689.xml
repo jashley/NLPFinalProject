@@ -3,12 +3,12 @@
 <name>Varas v Fairfield City Council [2009] FCA 689 (25 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/689.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discrimination</catchphrase>
-<catchphrase "id=c1">imputed disability</catchphrase>
-<catchphrase "id=c2">appropriate comparator</catchphrase>
-<catchphrase "id=c3">reasonable imposition of requirement on an employee to attend a medical examination to determine fitness to perform duties</catchphrase>
-<catchphrase "id=c4">what constitutes subjecting an employee to 'any other detriment'</catchphrase>
-<catchphrase "id=c5">discrimination law</catchphrase>
+<catchphrase id="c0">discrimination</catchphrase>
+<catchphrase id="c1">imputed disability</catchphrase>
+<catchphrase id="c2">appropriate comparator</catchphrase>
+<catchphrase id="c3">reasonable imposition of requirement on an employee to attend a medical examination to determine fitness to perform duties</catchphrase>
+<catchphrase id="c4">what constitutes subjecting an employee to 'any other detriment'</catchphrase>
+<catchphrase id="c5">discrimination law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -461,7 +461,7 @@ On 3 December 1997 the school principal, after a meeting with Mr and Mrs Purvis,
 <sentence id="s158">There was no suggestion in any of the evidence to support an allegation that the University would in fact have treated another disruptive graduate student more favourably than it treated Ms Zhang.</sentence>
 <sentence id="s159">Their Honours then said at [68]: 
  '...</sentence>
-<sentence id="s160">Accordingly, it cannot be said in the circumstances that the trial judge was plainly wrong (and here it must be acknowledged the deference that is due to the trial judge in matters of fact, particularly where his Honour had the benefit of seeing the Appellant give evidence viva voce and assessing her demeanour ... Warren v Coombes [1979] HCA 9 ; (1978) 142 CLR 531 at 551; Annand &amp; Thompson Pty Ltd v Trade Practices Commission [1979] FCA 36 ; (1979) 25 ALR 91 at 97 and 110; Devries v Australian National Railways Commission (1993) 177 CLR 472 at 479-83; SS Hontestroom v SS Sagaporack [1927] AC 37 at 47) in accepting UTAS's evidence, which his Honour did implicitly in finding that there was no factual basis for a finding of discrimination: Zhang v University of Tasmania [2008] FCA 516 , [3], [52].</sentence>
+<sentence id="s160">Accordingly, it cannot be said in the circumstances that the trial judge was plainly wrong (and here it must be acknowledged the deference that is due to the trial judge in matters of fact, particularly where his Honour had the benefit of seeing the Appellant give evidence viva voce and assessing her demeanour ... Warren v Coombes [1979] HCA 9 ; (1978) 142 CLR 531 at 551; Annand &amp;amp; Thompson Pty Ltd v Trade Practices Commission [1979] FCA 36 ; (1979) 25 ALR 91 at 97 and 110; Devries v Australian National Railways Commission (1993) 177 CLR 472 at 479-83; SS Hontestroom v SS Sagaporack [1927] AC 37 at 47) in accepting UTAS's evidence, which his Honour did implicitly in finding that there was no factual basis for a finding of discrimination: Zhang v University of Tasmania [2008] FCA 516 , [3], [52].</sentence>
 <sentence id="s161">' 
 
  At [69] Jessup and Gordon JJ concluded their reasons by saying: 
@@ -549,7 +549,7 @@ On 3 December 1997 the school principal, after a meeting with Mr and Mrs Purvis,
 <sentence id="s187">As a result of a complaint and previous counseling and warning, you are given this second and final warning.</sentence>
 <sentence id="s188">...' 
 
- From a report of Pauline Nolan as 'Psychologist/Director' of 'PNA investigations &amp; solutions' ABN 94 379 158 650 of 30 April 2006 it is apparent that an investigation was conducted by Ms Nolan on 27 February 2006 in relation to the appellant at the request of Belinda Reardon as 'HR [presumably a reference to Human Resources] Business Partner' of the Council.</sentence>
+ From a report of Pauline Nolan as 'Psychologist/Director' of 'PNA investigations &amp;amp; solutions' ABN 94 379 158 650 of 30 April 2006 it is apparent that an investigation was conducted by Ms Nolan on 27 February 2006 in relation to the appellant at the request of Belinda Reardon as 'HR [presumably a reference to Human Resources] Business Partner' of the Council.</sentence>
 <sentence id="s189">Under the heading ' Overview of concerning behaviours ' Ms Nolan's report of 30 April 2006 included observations against 11 bullet points as follows: 
  ' Very difficult to manage Monica --- has worn out most supervisors 
  Manipulation: gossip, rosters, leave Fixation on male staff --- young males and new male staff have had to be moved for their own protection, constant accusations against male staff of sexual harassment, Monica openly reporting her fantasies about men to customers, managers and colleagues Tantrums --- screaming, melodrama (e.g.</sentence>
@@ -598,7 +598,7 @@ Ms Nolan's report contained four recommendations.</sentence>
 
  Annexure 'E' to Ms Hall's affidavit was a 'file note listing concerns about Monica's behaviour' which related to the two incidents on Friday 21 April 2006.</sentence>
 <sentence id="s216">The list of concerns included: 
- ' &#10146; Disturbing and harassing behaviors in the workplace (malicious gossip, threatening colleagues with disciplinary action, constantly reporting apparent work performance issues to management whilst not completing her own work, tantrums if challenged, very poor and hostile customer service' 
+ ' &amp;#10146; Disturbing and harassing behaviors in the workplace (malicious gossip, threatening colleagues with disciplinary action, constantly reporting apparent work performance issues to management whilst not completing her own work, tantrums if challenged, very poor and hostile customer service' 
 
  At the hearing before the learned Federal Magistrate an affidavit of the appellant sworn 28 June 2007 was read but, at the outset, paragraph 54 was not read.</sentence>
 <sentence id="s217">That paragraph picked up Ms Nolan's report which was part of Exhibit MV27 to the affidavit.</sentence>
@@ -714,13 +714,13 @@ Under the heading 'Causality' Mr Luiker said:
  By a letter dated 3 July 2006 the Council provided the appellant with a copy of the 'FEEDBACK RE: PSYCHOLOGICAL ASSESSMENT' which was produced after the feedback meeting with Mr Luiker on 31 May 2006 (also the fourth report within MV27).</sentence>
 <sentence id="s264">The Council's letter apparently signed by Ms Reardon referred to the meeting on 8 May 2006 which was called 'to discuss a number of concerning behaviours that you have been demonstrating in the workplace over a period of time', the request that the appellant attend Mr Luiker for assessment on 10 May 2006 and the Council's indication in its letter of 8 May 2006 that a summary report of the Council's concerns as discussed with the appellant on 9 May 2006 would be outlined in writing and mailed to her.</sentence>
 <sentence id="s265">The summary of the appellant's 'inappropriate behaviours being demonstrated in the workplace', contained in the letter of 3 July 2006, was as follows: 
- '&#9679; Inappropriate comments as outlined to you in our letter dated 21 February 2005; 
- &#9679; 2 incidents which occurred with different staff members on Friday, 21 April 2006; 
- &#9679; Consistently asking if people are talking about you; 
- &#9679; Disturbing and harassing behaviours in the work place (malicious gossip, threatening colleagues with disciplinary action, constantly reporting apparent work performance issues to management whilst not completing your own work); 
- &#9679; Complaining and verbal abuse to casuals staff members; 
- &#9679; Discussing your participation in homosexuality and Bi-sexual chat rooms which is offensive to staff; 
- &#9679; Sharing your writing material with your colleagues which some find offensive.</sentence>
+ '&amp;#9679; Inappropriate comments as outlined to you in our letter dated 21 February 2005; 
+ &amp;#9679; 2 incidents which occurred with different staff members on Friday, 21 April 2006; 
+ &amp;#9679; Consistently asking if people are talking about you; 
+ &amp;#9679; Disturbing and harassing behaviours in the work place (malicious gossip, threatening colleagues with disciplinary action, constantly reporting apparent work performance issues to management whilst not completing your own work); 
+ &amp;#9679; Complaining and verbal abuse to casuals staff members; 
+ &amp;#9679; Discussing your participation in homosexuality and Bi-sexual chat rooms which is offensive to staff; 
+ &amp;#9679; Sharing your writing material with your colleagues which some find offensive.</sentence>
 <sentence id="s266">' 
 
  The reference to 'inappropriate comments' as outlined in the Council's letter dated 21 February 2005 were recorded in that letter as follows: 
@@ -966,7 +966,7 @@ Dated: 25 June 2009
  
  Counsel for the Respondent: K L Eastman and E A Bishop 
  
- Solicitor for the Respondent: Leigh Virtue &amp; Associates 
+ Solicitor for the Respondent: Leigh Virtue &amp;amp; Associates 
  Date of Hearing: 11 and 12 June 2009 
  
  Date of Judgment: 25 June 2009 

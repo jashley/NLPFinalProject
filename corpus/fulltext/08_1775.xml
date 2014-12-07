@@ -3,15 +3,15 @@
 <name>Heritage Clothing Pty Ltd trading as Peter Jackson Australia v Mens Suit Warehouse Direct Pty Ltd trading as Walter Withers [2008] FCA 1775 (28 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1775.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">claim of misleading and deceptive conduct in advertising in retail market for men's suits</catchphrase>
-<catchphrase "id=c1">various false representations alleged, including representations that purchasers would receive a second suit free, such offer to be open for "a limited time"</catchphrase>
-<catchphrase "id=c2">claim that applicant's store forced to closed due to misleading and deceptive conduct of respondents</catchphrase>
-<catchphrase "id=c3">only "limited time" representation found to be contravening</catchphrase>
-<catchphrase "id=c4">no damage established</catchphrase>
-<catchphrase "id=c5">difficulty in framing injunction</catchphrase>
-<catchphrase "id=c6">trade practices</catchphrase>
-<catchphrase "id=c7">damages</catchphrase>
-<catchphrase "id=c8">injunction</catchphrase>
+<catchphrase id="c0">claim of misleading and deceptive conduct in advertising in retail market for men's suits</catchphrase>
+<catchphrase id="c1">various false representations alleged, including representations that purchasers would receive a second suit free, such offer to be open for "a limited time"</catchphrase>
+<catchphrase id="c2">claim that applicant's store forced to closed due to misleading and deceptive conduct of respondents</catchphrase>
+<catchphrase id="c3">only "limited time" representation found to be contravening</catchphrase>
+<catchphrase id="c4">no damage established</catchphrase>
+<catchphrase id="c5">difficulty in framing injunction</catchphrase>
+<catchphrase id="c6">trade practices</catchphrase>
+<catchphrase id="c7">damages</catchphrase>
+<catchphrase id="c8">injunction</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -58,17 +58,17 @@
 <sentence id="s26">The store has a substantial frontage to Victoria Street, a busy arterial road.</sentence>
 <sentence id="s27">The signs contained the following words:
  
-&#8226; Don't pay retail
+&amp;#8226; Don't pay retail
  
-&#8226; 50% off rec.</sentence>
+&amp;#8226; 50% off rec.</sentence>
 <sentence id="s28">retail
  
-&#8226; Australian made pure wool suits
+&amp;#8226; Australian made pure wool suits
  
-&#8226; Don't pay $699 $799 Pay no more than $399 for any suit!</sentence>
-<sentence id="s29">&#8226; Direct to public
+&amp;#8226; Don't pay $699 $799 Pay no more than $399 for any suit!</sentence>
+<sentence id="s29">&amp;#8226; Direct to public
  
-&#8226; Mens Suit Warehouse Direct
+&amp;#8226; Mens Suit Warehouse Direct
  
 12 The FASC does not plead separately what are said to be the representations conveyed by the Abbotsford store signage.</sentence>
 <sentence id="s30">The following allegations of representations are to be implied from the allegations of falsity in par 8 of the FASC.</sentence>
@@ -327,7 +327,7 @@ Mr Jackson asked when the promotion ended and the salesman told him "at the end 
 <sentence id="s239">DAMAGES 
  
 64 For the purposes of s 82 of the Trade Practices Act , Peter Jackson has to show that it has "suffer(ed) loss or damage by the conduct of" MSWD in respect of the Limited Time representation, that being the only representation which has been established as misleading or deceptive or being likely to mislead or deceive.</sentence>
-<sentence id="s240">It is sufficient that this conduct was a cause of the loss or damage; it does not have to be the sole, or even the dominant cause: Henville v Walker [2001] HCA 52 ; (2001) 206 CLR 459 ; I &amp; L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited [2002] HCA 41 ; (2002) 210 CLR 109.</sentence>
+<sentence id="s240">It is sufficient that this conduct was a cause of the loss or damage; it does not have to be the sole, or even the dominant cause: Henville v Walker [2001] HCA 52 ; (2001) 206 CLR 459 ; I &amp;amp; L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited [2002] HCA 41 ; (2002) 210 CLR 109.</sentence>
 <sentence id="s241">The proportionate liability provisions of Pt VIA of the Act, and in particular s 87CD , have no application because MSWD was not a "concurrent wrongdoer" within the meaning of s 87CB(3) ; no third party is suggested to have contributed to any relevant loss or damage suffered by Peter Jackson.</sentence>
 <sentence id="s242">Peter Jackson's case 
  
@@ -453,7 +453,7 @@ Dated: 28 November 2008
 
  Counsel for the Applicant: M S Goldblatt 
  
- Solicitors for the Applicant: Meerkin &amp; Apel 
+ Solicitors for the Applicant: Meerkin &amp;amp; Apel 
  
  Counsel for the Respondents: T R Messer 
  

@@ -3,12 +3,12 @@
 <name>Australian Communications and Media Authority v Atkinson [2009] FCA 1565 (22 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1565.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of a joint submission by the parties in relation to a contravention by the respondent of s 16 of the spam act 2003 (cth)</catchphrase>
-<catchphrase "id=c1">consideration of the principles to be applied in assessing a pecuniary penalty in the context of joint submissions as to the proposed penalty</catchphrase>
-<catchphrase "id=c2">consideration of the extent to which the principles governing assessment of a pecuniary penalty in the context of a joint submission derived from proceedings under the trade practices act 1974 (cth) might usefully apply in the assessment of a penalty under the spam act</catchphrase>
-<catchphrase "id=c3">consideration of the formulation of a declaration as to contravention and the framing of an injunction restraining threatened future contraventions</catchphrase>
-<catchphrase "id=c4">consideration of the particular vice the parliament of the commonwealth sought to address in enacting the spam act</catchphrase>
-<catchphrase "id=c5">communications law</catchphrase>
+<catchphrase id="c0">consideration of a joint submission by the parties in relation to a contravention by the respondent of s 16 of the spam act 2003 (cth)</catchphrase>
+<catchphrase id="c1">consideration of the principles to be applied in assessing a pecuniary penalty in the context of joint submissions as to the proposed penalty</catchphrase>
+<catchphrase id="c2">consideration of the extent to which the principles governing assessment of a pecuniary penalty in the context of a joint submission derived from proceedings under the trade practices act 1974 (cth) might usefully apply in the assessment of a penalty under the spam act</catchphrase>
+<catchphrase id="c3">consideration of the formulation of a declaration as to contravention and the framing of an injunction restraining threatened future contraventions</catchphrase>
+<catchphrase id="c4">consideration of the particular vice the parliament of the commonwealth sought to address in enacting the spam act</catchphrase>
+<catchphrase id="c5">communications law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -187,9 +187,9 @@
 
  
  
- A European Union study in 2001 estimates that the worldwide cost of spam to Internet subscribers could be in the vicinity of &#8364;10 billion (A$18.4bn) per year.</sentence>
+ A European Union study in 2001 estimates that the worldwide cost of spam to Internet subscribers could be in the vicinity of &amp;#8364;10 billion (A$18.4bn) per year.</sentence>
 <sentence id="s74">A recent study from Ferris Research estimates that US companies alone lost US$8.9 billion (A$15.2bn) in 2002 and estimate that the cost of spam in Europe was US$2.5 billion (A$4.3bn).</sentence>
-<sentence id="s75">According to figures from Star Internet, a large Internet service provider in the UK, the cost to business in lost productivity is estimated at &#163;326 (A$915) per employee each year.</sentence>
+<sentence id="s75">According to figures from Star Internet, a large Internet service provider in the UK, the cost to business in lost productivity is estimated at &amp;#163;326 (A$915) per employee each year.</sentence>
 <sentence id="s76">Surfcontrol recently estimated that spam cost employers approximately $1 per spam received.</sentence>
 <sentence id="s77">Erado's 2002 white paper on spam, viruses and other unwanted content estimates that annual cost of spam per employee is around US$1000 (A$1709).</sentence>
 <sentence id="s78">
@@ -214,12 +214,12 @@
 <sentence id="s84">Section 24(2)(e) addresses the question of whether Mr Atkinson has previously been found by a Court in a foreign country to have engaged in any similar conduct.</sentence>
 <sentence id="s85">As to that matter, the parties make this joint submission at para 53: 
  
- In December 2008, Mr Atkinson was found by the High Court of New Zealand to have engaged in similar conduct arising from the same underlying facts [ Chief Executive, Department of Internal Affairs v Atkinson &amp; Ors CIV-2008-409-002391, per French J, 19 December 2008].</sentence>
+ In December 2008, Mr Atkinson was found by the High Court of New Zealand to have engaged in similar conduct arising from the same underlying facts [ Chief Executive, Department of Internal Affairs v Atkinson &amp;amp; Ors CIV-2008-409-002391, per French J, 19 December 2008].</sentence>
 <sentence id="s86">Mr Atkinson cooperated with New Zealand authorities to resolve those proceedings, and paid a pecuniary penalty in the amount of NZ$100,000 in respect of contravening emails sent to recipients in New Zealand.</sentence>
 <sentence id="s87">
  
 
- Mr Atkinson was the subject of proceedings in the United States: Federal Trade Commission v Atkinson &amp; Ors , United States District Court for the Northern District of Illinois, Eastern Division, Case No.</sentence>
+ Mr Atkinson was the subject of proceedings in the United States: Federal Trade Commission v Atkinson &amp;amp; Ors , United States District Court for the Northern District of Illinois, Eastern Division, Case No.</sentence>
 <sentence id="s88">08CV5666.</sentence>
 <sentence id="s89">At para 6 of supplementary joint written submissions provided to the Court on the day of the hearing, the parties said this about the United States proceedings: 
  
@@ -227,7 +227,7 @@
  
 
  Paragraph 54 of the October submissions refers to proceedings on foot against Mr Atkinson in the United States, arising from the same conduct as is the subject of these proceedings.</sentence>
-<sentence id="s90">Default judgment has now been handed down in the United States proceedings, in the matter of Federal Trade Commission v Atkinson &amp; Ors , United States District Court for the Northern District of Illinois, Eastern Division, Case No.</sentence>
+<sentence id="s90">Default judgment has now been handed down in the United States proceedings, in the matter of Federal Trade Commission v Atkinson &amp;amp; Ors , United States District Court for the Northern District of Illinois, Eastern Division, Case No.</sentence>
 <sentence id="s91">08CV5666.</sentence>
 <sentence id="s92">An amount of US$15,151,029 was imposed jointly and severally upon Mr Atkinson and Inet Venture Pty Ltd, as equitable monetary relief for violations of the Federal Trade Commission Act ( FTC Act ) and the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 ( CAN-SPAM Act ).</sentence>
 <sentence id="s93">As set out at paragraphs 37 and 53- 55 of the October submissions, s.24(2) of the Spam Act provides that a relevant consideration for the Court is: 

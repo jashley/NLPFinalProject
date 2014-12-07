@@ -3,14 +3,14 @@
 <name>C Incorporated v Australian Crime Commission [2008] FCA 1806 (28 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1806.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">australian crime commission examiner issuing notice requiring production of medical records of aboriginal children</catchphrase>
-<catchphrase "id=c1">requirement of teoh that the best interests of the children be a primary consideration</catchphrase>
-<catchphrase "id=c2">whether proper consideration given by the examiner to the best interests of the children concerned in issuing the notice</catchphrase>
-<catchphrase "id=c3">whether legitimate expectation affords substantive or procedural rights</catchphrase>
-<catchphrase "id=c4">failure to afford procedural fairness and natural justice</catchphrase>
-<catchphrase "id=c5">s 29 of australian crime commission act 2002 (cth)</catchphrase>
-<catchphrase "id=c6">s 5 of administrative decisions (judicial review) act 1977(cth)</catchphrase>
-<catchphrase "id=c7">administrative law</catchphrase>
+<catchphrase id="c0">australian crime commission examiner issuing notice requiring production of medical records of aboriginal children</catchphrase>
+<catchphrase id="c1">requirement of teoh that the best interests of the children be a primary consideration</catchphrase>
+<catchphrase id="c2">whether proper consideration given by the examiner to the best interests of the children concerned in issuing the notice</catchphrase>
+<catchphrase id="c3">whether legitimate expectation affords substantive or procedural rights</catchphrase>
+<catchphrase id="c4">failure to afford procedural fairness and natural justice</catchphrase>
+<catchphrase id="c5">s 29 of australian crime commission act 2002 (cth)</catchphrase>
+<catchphrase id="c6">s 5 of administrative decisions (judicial review) act 1977(cth)</catchphrase>
+<catchphrase id="c7">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -109,14 +109,14 @@ Pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 , disc
  
 14 By comparison to the notice Mr Anderson issued in NTD8 , the notice in this matter includes the following distinguishing features:
  
-&#8226; Paragraphs 1 and 2 apply to patients of C Inc who are under the age of 18 years and, therefore, are children.</sentence>
+&amp;#8226; Paragraphs 1 and 2 apply to patients of C Inc who are under the age of 18 years and, therefore, are children.</sentence>
 <sentence id="s47">In this respect, these paragraphs are similar to the notice in NTD8 : see [2008] FCA 1551 at [12] .</sentence>
 <sentence id="s48">However, unlike in NTD8 , where eight teenage girls who had received contraceptive treatment were indirectly identified as the patients, these paragraphs do not identify (whether directly, or indirectly) any details of the child patients who may be affected by the notice.</sentence>
-<sentence id="s49">&#8226; Paragraph 1 applies to treatment for "sexually transmitted illnesses, pregnancies or ... services relating to contraception and terminations of pregnancies".</sentence>
+<sentence id="s49">&amp;#8226; Paragraph 1 applies to treatment for "sexually transmitted illnesses, pregnancies or ... services relating to contraception and terminations of pregnancies".</sentence>
 <sentence id="s50">This is similar to the notice in NTD8 , albeit it was limited to the latter aspect and that ultimately became the sole focus of those proceedings: see [2008] FCA 1551 at [12] and [14].</sentence>
-<sentence id="s51">&#8226; Paragraph 2 applies to treatment for "sexual and/or physical abuse".</sentence>
+<sentence id="s51">&amp;#8226; Paragraph 2 applies to treatment for "sexual and/or physical abuse".</sentence>
 <sentence id="s52">In NTD8 , the applicant elected not to pursue its challenge to the similar part of the notice in those proceedings: see [2008] FCA 1551 at [14] .</sentence>
-<sentence id="s53">&#8226; Given that paragraph 2 specifically applies to children who have been treated for sexual and/or physical abuse, while it is not expressed to be so limited, I consider it can be inferred that paragraph 3 is solely directed to adult patients of C Inc because it refers to almost the same causes for the treatment i.e.</sentence>
+<sentence id="s53">&amp;#8226; Given that paragraph 2 specifically applies to children who have been treated for sexual and/or physical abuse, while it is not expressed to be so limited, I consider it can be inferred that paragraph 3 is solely directed to adult patients of C Inc because it refers to almost the same causes for the treatment i.e.</sentence>
 <sentence id="s54">sexual assaults or domestic violence assaults.</sentence>
 <sentence id="s55">I will therefore proceed to consider this matter on that assumption.</sentence>
 <sentence id="s56">Again, in NTD8 the applicant elected not to pursue its challenge to the similar part of the notice in those proceedings: see [2008] FCA 1551 at [14] .</sentence>
@@ -147,14 +147,14 @@ Pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 , disc
 
 
  
-&#8226; 3(a) and (b) - the impracticability of compliance with the notice as deposed to in the affidavit of Ms Bell.</sentence>
-<sentence id="s65">&#8226; 3(c) - the best interests of the children concerned having regard to the possibility that the disclosure of their confidential medical information may discourage them from seeking advice and treatment in the future as deposed to by Dr Boffa.</sentence>
-<sentence id="s66">&#8226; 3(d) - the effect of the operation of s 12 of the ACC Act as deposed to in the affidavit of Dr Boffa.</sentence>
-<sentence id="s67">&#8226; 3(e) - the disclosure of their confidential medical information was likely to have adverse consequences for the primary health care of Aboriginal patients in Central Australia, as deposed to by Dr Boffa.</sentence>
-<sentence id="s68">&#8226; 3(f) - the adverse effect on young Aboriginal mothers seeking ante-natal care as deposed to in the affidavit of Dr Boffa.</sentence>
-<sentence id="s69">&#8226; 3(g) - the adverse effect on young people seeking treatment for sexually transmitted infections as deposed to in the affidavit of Dr Boffa.</sentence>
-<sentence id="s70">&#8226; 3(h) - whether young Aboriginal people under the age of 16 years were mature enough to consent to sexual intercourse as deposed to in the affidavit of Dr Boffa.</sentence>
-<sentence id="s71">&#8226; 3(i) - that the information sought could be obtained from another source as deposed to in the affidavit of Mr Mizow.</sentence>
+&amp;#8226; 3(a) and (b) - the impracticability of compliance with the notice as deposed to in the affidavit of Ms Bell.</sentence>
+<sentence id="s65">&amp;#8226; 3(c) - the best interests of the children concerned having regard to the possibility that the disclosure of their confidential medical information may discourage them from seeking advice and treatment in the future as deposed to by Dr Boffa.</sentence>
+<sentence id="s66">&amp;#8226; 3(d) - the effect of the operation of s 12 of the ACC Act as deposed to in the affidavit of Dr Boffa.</sentence>
+<sentence id="s67">&amp;#8226; 3(e) - the disclosure of their confidential medical information was likely to have adverse consequences for the primary health care of Aboriginal patients in Central Australia, as deposed to by Dr Boffa.</sentence>
+<sentence id="s68">&amp;#8226; 3(f) - the adverse effect on young Aboriginal mothers seeking ante-natal care as deposed to in the affidavit of Dr Boffa.</sentence>
+<sentence id="s69">&amp;#8226; 3(g) - the adverse effect on young people seeking treatment for sexually transmitted infections as deposed to in the affidavit of Dr Boffa.</sentence>
+<sentence id="s70">&amp;#8226; 3(h) - whether young Aboriginal people under the age of 16 years were mature enough to consent to sexual intercourse as deposed to in the affidavit of Dr Boffa.</sentence>
+<sentence id="s71">&amp;#8226; 3(i) - that the information sought could be obtained from another source as deposed to in the affidavit of Mr Mizow.</sentence>
 <sentence id="s72">
  
  4.</sentence>
@@ -165,7 +165,7 @@ Pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 , disc
  
  
  
- &#8226; There was no evidence before him to indicate that C Inc or its employees was engaged in the under reporting of Indigenous related child sexual abuse.</sentence>
+ &amp;#8226; There was no evidence before him to indicate that C Inc or its employees was engaged in the under reporting of Indigenous related child sexual abuse.</sentence>
 <sentence id="s74">
  
  
@@ -174,7 +174,7 @@ Pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 , disc
  
  
  
- &#8226; He made no proper consideration of the matters deposed to in the affidavit of Stephanie Bell sworn 8 May 2008.</sentence>
+ &amp;#8226; He made no proper consideration of the matters deposed to in the affidavit of Stephanie Bell sworn 8 May 2008.</sentence>
 <sentence id="s75">
  
  
@@ -183,7 +183,7 @@ Pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 , disc
  
  
  
- &#8226; He made no enquiry of C Inc or any other persons, which if he had done so, would have brought to his attention the public health consequences as deposed to in the affidavit of Dr Boffa of 10 June 2008.</sentence>
+ &amp;#8226; He made no enquiry of C Inc or any other persons, which if he had done so, would have brought to his attention the public health consequences as deposed to in the affidavit of Dr Boffa of 10 June 2008.</sentence>
 <sentence id="s76">
  
  
@@ -192,7 +192,7 @@ Pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 , disc
  
  
  
- &#8226; He made no enquiry of C Inc or any other persons, which if he had done so, would have brought to his attention the matters deposed to in the affidavit of Henry Mizow dated 10 July 2008, that the availability of the material sought in the Notice could readily [be] obtained by the ACC by other means.</sentence>
+ &amp;#8226; He made no enquiry of C Inc or any other persons, which if he had done so, would have brought to his attention the matters deposed to in the affidavit of Henry Mizow dated 10 July 2008, that the availability of the material sought in the Notice could readily [be] obtained by the ACC by other means.</sentence>
 <sentence id="s77">
  
  
@@ -316,11 +316,11 @@ Pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 , disc
 <sentence id="s124">Those amendments were enacted via by two pieces of legislation: the Families, Community Services and Indigenous Affairs and Other Legislation Amendment (Northern Territory Emergency Response and Other Measures) Act 2007 (Act number 128 of 2007) and the Australian Crime Commission Amendment Act 2007 (Cth) (Act number 168 of 2007).</sentence>
 <sentence id="s125">24 In summary, the former Act made the following amendments which are relevant to these proceedings:
  
-&#8226; New definitions were added to the interpretation section of the ACC Act (s 4(1)) to extend the ambit of the ACC's function to include intelligence operations in relation to indigenous violence or child abuse.</sentence>
+&amp;#8226; New definitions were added to the interpretation section of the ACC Act (s 4(1)) to extend the ambit of the ACC's function to include intelligence operations in relation to indigenous violence or child abuse.</sentence>
 <sentence id="s126">The new definitions applied to the following words or expressions: child, child abuse, Indigenous person, Indigenous violence or child abuse, relevant crime and serious violence.</sentence>
 <sentence id="s127">
  
-&#8226; 'Child' was defined to mean: "any person is under 18 years of age.</sentence>
+&amp;#8226; 'Child' was defined to mean: "any person is under 18 years of age.</sentence>
 <sentence id="s128">'Child abuse' was defined to mean: "an offence relating to the abuse or neglect of a child (including a sexual offence) that is punishable by imprisonment for a period of three years or more".</sentence>
 <sentence id="s129">'Serious violence' was likewise defined by a minimum penalty of three years.</sentence>
 <sentence id="s130">Most significantly, the expression 'relevant crime' replaced the expression 'serious and organised crime'.</sentence>
@@ -480,7 +480,7 @@ Adoption of the Convention does not, of itself, create an obligation on the seco
 <sentence id="s237">
  
 56 Secondly, if the effect of Lam is that Teoh did not lay down a universal requirement as to what is necessary to support a legitimate expectation, but adopted instead a requirement only for those cases in which the interests of children are in issue (see Lam at [97] per McHugh and Gummow JJ referring to Sanders v Snell [1998] HCA 64 ; (1998) 196 CLR 329 at [53] fn 65 per Callinan J), for the reasons I have given below, I consider that this case (and NTD8 for that matter), falls squarely within that more limited scope of Teoh .</sentence>
-<sentence id="s238">57 Thirdly, if the effect of Lam is that an applicant is required to demonstrate unfairness in the procedure followed, not just an un-met expectation (see Lam at [34] per Gleeson CJ and at [111] per Hayne J and Untan v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCAFC 69 at [99] ), for the reasons I have given below, I consider the necessary level of unfairness has been demonstrated in this case.</sentence>
+<sentence id="s238">57 Thirdly, if the effect of Lam is that an applicant is required to demonstrate unfairness in the procedure followed, not just an un-met expectation (see Lam at [34] per Gleeson CJ and at [111] per Hayne J and Untan v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2003] FCAFC 69 at [99] ), for the reasons I have given below, I consider the necessary level of unfairness has been demonstrated in this case.</sentence>
 <sentence id="s239">58 So, in summary, relevant to this case, I consider the authorities discussed above show that the expectation that an administrative decision-maker will treat the best interests of children as a primary consideration, arises from a combination of Australia's ratification of the Convention; the fact that the decision in question concerns children; and the fact that the decision-maker has not given notice that he or she intends to do otherwise than meet that expectation.</sentence>
 <sentence id="s240">Then, if it emerges that the administrative decision-maker has not treated the best interests of the children as a primary consideration, he or she will have failed to afford procedural fairness and the decision will be set aside on that ground.</sentence>
 <sentence id="s241">59 In this case the decision to issue the Notice clearly concerns children.</sentence>
@@ -516,7 +516,7 @@ Adoption of the Convention does not, of itself, create an obligation on the seco
 <sentence id="s271">We provide over 47,000 episodes of care to our current patients and over 5,000 episodes of care to the visitors.</sentence>
 <sentence id="s272">" Furthermore, by its terms, the Notice applies to both sexes and the age range specified is from zero to under 18 years.</sentence>
 <sentence id="s273">On the other hand, paragraphs 1 and 2 of the Notice only require the production of the medical records for C Inc's patients who had received treatment arising from specific circumstances, namely: "sexually transmitted illnesses, pregnancies or seeking services relating to contraception and termination of pregnancies", and "sexual and/or physical abuse".</sentence>
-<sentence id="s274">68 In the authorities on procedural fairness and the circumstances in which it is attracted, a clear distinction has been drawn between decisions affecting the rights, interests and expectations of a particular person or persons and those affecting the rights, interests and expectations of the public, or a section of the public, at large: see Haoucher v Minister for Immigration &amp; Ethnic Affairs [1990] HCA 22 ; (1990) 169 CLR 648 at 652 per Deane J; Customs v Kawasaki Motors (No 1) [1991] FCA 519 ; (1991) 32 FCR 219 , Hill and Heerey JJ at 238 --- 241; Queensland Medical Laboratory v Blewett (1988) 84 ALR 615 at 637 per Gummow J and Botany Bay City Council v Minister of State for Transport and Regional Development (1996) 66 FCR 537 at 553 --- 554 per Lehane J.</sentence>
+<sentence id="s274">68 In the authorities on procedural fairness and the circumstances in which it is attracted, a clear distinction has been drawn between decisions affecting the rights, interests and expectations of a particular person or persons and those affecting the rights, interests and expectations of the public, or a section of the public, at large: see Haoucher v Minister for Immigration &amp;amp; Ethnic Affairs [1990] HCA 22 ; (1990) 169 CLR 648 at 652 per Deane J; Customs v Kawasaki Motors (No 1) [1991] FCA 519 ; (1991) 32 FCR 219 , Hill and Heerey JJ at 238 --- 241; Queensland Medical Laboratory v Blewett (1988) 84 ALR 615 at 637 per Gummow J and Botany Bay City Council v Minister of State for Transport and Regional Development (1996) 66 FCR 537 at 553 --- 554 per Lehane J.</sentence>
 <sentence id="s275">69 In Kioa , discussing the circumstances in which the principles of natural justice were presumed to condition the exercise of a statutory power, Brennan J observed that it was not the kind of individual interest that is important, but the "manner in which it apt to be affected ... in determining whether the presumption is attracted" (at 619).</sentence>
 <sentence id="s276">His Honour went on to add that the presumption would be attracted: "if a power is apt to affect the interests of an individual in a way that is substantially different from the way in which it is apt to affect the interests of the public at large", or "which is apt to affect the interests of an individual alone or apt to affect his interests in a manner which is substantially different from the manner in which its exercise is apt to affect the interests of the public".</sentence>
 <sentence id="s277">70 In this case, the manner in which the individual interests of the Aboriginal children in this group is to be affected, is determined by the terms of the Notice.</sentence>
@@ -528,9 +528,9 @@ Adoption of the Convention does not, of itself, create an obligation on the seco
 <sentence id="s283">After all, medical records in general, let alone those dealing with a person's sexual health or activities, are generally regarded as being among the most personal information about an individual: see Carolyn Doyle and Mirko Bagaric Privacy Law in Australia The Federation Press 2005 at pages 46 - 48.</sentence>
 <sentence id="s284">Viewed in this way, I consider the Notice affects the interests of each and every individual member of this group of Aboriginal children in a direct and immediate way.</sentence>
 <sentence id="s285">Conversely, even though this group may be large it does not, in my view, constitute a section of the public as described in the authorities referred to above, such that the decision does not attract procedural fairness.</sentence>
-<sentence id="s286">72 The ACC relied upon a series of decisions of this, and other Courts, in the main dealing with the use of inquisitorial or coercive powers to submit that natural justice or procedural fairness does not apply to the exercise of what they submitted, is a similar power under s 29 of the ACC Act, including: May v Commissioner of Taxation [1999] FCA 287 ; (1999) 92 FCR 152 (a notice under section 261 of the Income Tax Assessment Act 1936 (Cth)); MM &amp; Anor v ACC [2007] FCA 2026 (a decision made by an examiner under section 29 of the Australian Crime Commission Act 2002 (Cth) in relation to a taxation avoidance investigation); Structureco Inc v Registrar of Trademarks [2003] FCA 1290 ; [2003] 132 FCR 558 (involving section 202 of the Trademarks Act 1995 (Cth)); Woodroffe v Deputy Commissioner of Taxation (2000) 179 ALR 750 (a notice given under s 218 of the Income Tax Assessment Act 1936 (Cth)); Johns v ASC [1993] HCA 56 ; (1993) 178 CLR 408 at 430 --- 431 (exercise of a power under section 127(4)(b) of the Australian Securities Commission Act 1989 (Cth)); Riverside Nursing Care Pty ltd v Bishop [2000] FCA 1147 ; (2000) 100 FCR 519 (a duty imposed under section 67 of the Aged Care Act 1997 (Cth)).</sentence>
+<sentence id="s286">72 The ACC relied upon a series of decisions of this, and other Courts, in the main dealing with the use of inquisitorial or coercive powers to submit that natural justice or procedural fairness does not apply to the exercise of what they submitted, is a similar power under s 29 of the ACC Act, including: May v Commissioner of Taxation [1999] FCA 287 ; (1999) 92 FCR 152 (a notice under section 261 of the Income Tax Assessment Act 1936 (Cth)); MM &amp;amp; Anor v ACC [2007] FCA 2026 (a decision made by an examiner under section 29 of the Australian Crime Commission Act 2002 (Cth) in relation to a taxation avoidance investigation); Structureco Inc v Registrar of Trademarks [2003] FCA 1290 ; [2003] 132 FCR 558 (involving section 202 of the Trademarks Act 1995 (Cth)); Woodroffe v Deputy Commissioner of Taxation (2000) 179 ALR 750 (a notice given under s 218 of the Income Tax Assessment Act 1936 (Cth)); Johns v ASC [1993] HCA 56 ; (1993) 178 CLR 408 at 430 --- 431 (exercise of a power under section 127(4)(b) of the Australian Securities Commission Act 1989 (Cth)); Riverside Nursing Care Pty ltd v Bishop [2000] FCA 1147 ; (2000) 100 FCR 519 (a duty imposed under section 67 of the Aged Care Act 1997 (Cth)).</sentence>
 <sentence id="s287">73 In the alternative, the ACC submitted that if the rules of the natural justice or procedural fairness applied in the circumstances of this case, they did not give rise to the requirements that Mr Anderson had to give a notice and an opportunity to be heard before he issued the Notice under s 29 of the ACC Act.</sentence>
-<sentence id="s288">It relied upon Kioa v West [1985] HCA 81 ; (1985) 159 CLR 550 ; Public Service Board v Osmond [1986] HCA 7 ; (1986) 159 CLR 656 ; Haoucher v Minister for Immigration &amp; Ethnic Affairs [1990] HCA 22 ; (1990) 169 CLR 648 ; and Saitta Pty Ltd v Commissioner of Taxation and Anor [2002] FCA 1105.</sentence>
+<sentence id="s288">It relied upon Kioa v West [1985] HCA 81 ; (1985) 159 CLR 550 ; Public Service Board v Osmond [1986] HCA 7 ; (1986) 159 CLR 656 ; Haoucher v Minister for Immigration &amp;amp; Ethnic Affairs [1990] HCA 22 ; (1990) 169 CLR 648 ; and Saitta Pty Ltd v Commissioner of Taxation and Anor [2002] FCA 1105.</sentence>
 <sentence id="s289">74 If these submissions are directed to paragraphs 1 and 2 of the Notice that concern children, I consider they should be rejected.</sentence>
 <sentence id="s290">If they are directed to paragraph 3 of the Notice, which I have assumed is solely directed to adult patients of C Inc, I have addressed that issue in [106] below.</sentence>
 <sentence id="s291">In relation to paragraphs 1 and 2, I consider these submissions should be rejected because the obligation to afford procedural fairness here arises from the peculiar combination of circumstances involving a group of children, Australia's ratification of the Convention, and the High Court's ruling in Teoh (see [58] above).</sentence>
@@ -539,12 +539,12 @@ Adoption of the Convention does not, of itself, create an obligation on the seco
 <sentence id="s294">Before examining the evidence in relation to this question, it is appropriate to reiterate some of the observations I made in NTD8 about how an administrative decision-maker would go about taking into account the best interests of children as a primary consideration.</sentence>
 <sentence id="s295">They were as follows (see [30], [31] and [40] --- [43] of NTD8 and the cases referred to):
  
-&#8226; In assessing the best interests of children the decision-maker has to identify what the best interests of those children are and what they call for in the circumstances.</sentence>
-<sentence id="s296">&#8226; It is not necessary for the decision-maker to expressly mention the expression 'best interests of the child' or 'primary consideration', provided that it appears from a fair consideration of the materials that he or she did in fact take them into account; and on that basis.</sentence>
-<sentence id="s297">&#8226; While the best interests of the children concerned have to be taken into account as a primary consideration that did not mean that other considerations have to be ignored.</sentence>
-<sentence id="s298">&#8226; Other considerations that were required by the circumstances of a particular case to be primary considerations could require equal, but not paramount, weight provided that those other primary considerations were not treated as inherently more significant than the best interests of the children as a primary consideration.</sentence>
-<sentence id="s299">&#8226; Moreover, those other primary considerations could be considered to be of such strength that they outweigh the best interests of the children concerned as a primary consideration.</sentence>
-<sentence id="s300">&#8226; The decision-maker is entitled to take into account the expectations of the Australian community as a primary consideration, provided he or she has considered the best interests of the children concerned as a primary consideration of equal, but not paramount, significance.</sentence>
+&amp;#8226; In assessing the best interests of children the decision-maker has to identify what the best interests of those children are and what they call for in the circumstances.</sentence>
+<sentence id="s296">&amp;#8226; It is not necessary for the decision-maker to expressly mention the expression 'best interests of the child' or 'primary consideration', provided that it appears from a fair consideration of the materials that he or she did in fact take them into account; and on that basis.</sentence>
+<sentence id="s297">&amp;#8226; While the best interests of the children concerned have to be taken into account as a primary consideration that did not mean that other considerations have to be ignored.</sentence>
+<sentence id="s298">&amp;#8226; Other considerations that were required by the circumstances of a particular case to be primary considerations could require equal, but not paramount, weight provided that those other primary considerations were not treated as inherently more significant than the best interests of the children as a primary consideration.</sentence>
+<sentence id="s299">&amp;#8226; Moreover, those other primary considerations could be considered to be of such strength that they outweigh the best interests of the children concerned as a primary consideration.</sentence>
+<sentence id="s300">&amp;#8226; The decision-maker is entitled to take into account the expectations of the Australian community as a primary consideration, provided he or she has considered the best interests of the children concerned as a primary consideration of equal, but not paramount, significance.</sentence>
 <sentence id="s301">76 In relation to the last few observations above, I would add this.</sentence>
 <sentence id="s302">In my view, the role of other primary considerations is much more limited in this case than in the migration cases from which those observations were distilled.</sentence>
 <sentence id="s303">In those migration cases, the other primary consideration was the public interest, most commonly in either deporting or refusing to grant citizenship to a person considered to be of bad character.</sentence>
@@ -564,8 +564,8 @@ Adoption of the Convention does not, of itself, create an obligation on the seco
 <sentence id="s317">In Teoh the decision-maker did mention in her decision that the children faced a "very difficult and bleak future".</sentence>
 <sentence id="s318">She then balanced that against the requirement of a Departmental policy and concluded that the policy prevailed.</sentence>
 <sentence id="s319">The defect identified by the Court was in treating the policy as a primary consideration not the children's best interests: see 292 per Mason CJ and Deane J.</sentence>
-<sentence id="s320">In Perez v Minister for Immigration &amp; Multicultural Affairs [2002] FCA 450 Allsop J concluded that "nowhere did the delegate identify for himself [the children's best interests] or what they called for" (at [118].</sentence>
-<sentence id="s321">In Wan v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2000] FCA 1822 the Tribunal did make some assessment of what the children's best interests were, however the Court found that it had failed to consider a number of significant matters (at [30]) and did not refer anywhere in it reasons to the best interests of the children as "a primary consideration" (at [31]).</sentence>
+<sentence id="s320">In Perez v Minister for Immigration &amp;amp; Multicultural Affairs [2002] FCA 450 Allsop J concluded that "nowhere did the delegate identify for himself [the children's best interests] or what they called for" (at [118].</sentence>
+<sentence id="s321">In Wan v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2000] FCA 1822 the Tribunal did make some assessment of what the children's best interests were, however the Court found that it had failed to consider a number of significant matters (at [30]) and did not refer anywhere in it reasons to the best interests of the children as "a primary consideration" (at [31]).</sentence>
 <sentence id="s322">On the other hand, in Sebastian the Court found that the Tribunal had properly considered the best interests of the child concerned because it began with the assumption that those interests would be best served by her remaining with her parents (at [13]- [15]).</sentence>
 <sentence id="s323">79 In NTD8, Mr Anderson frankly and specifically conceded, in cross-examination, that he had not taken the best interests of the children concerned into account as a primary consideration: see [37] of NTD8 .</sentence>
 <sentence id="s324">Because it was originally intended that these two matters be heard together, at the time I delivered my decision in NTD8, I gave some consideration to whether I could have regard to that evidence in deciding this matter.</sentence>
@@ -581,9 +581,9 @@ Adoption of the Convention does not, of itself, create an obligation on the seco
  Having: 
  
  
- &#8226; read the Statement of Facts and Circumstances (in its original form);
- &#8226; regard to my knowledge and experience of such matters including briefings by the ACC's anthropologist, NIITF [National Indigenous Violence and Child Abuse Intelligence Taskforce] staff and general knowledge collected from working as an Examiner with such matters;
- &#8226; taken into account he Applicant's objections to production regarding the task and costs associated with locating documents sought in the First notice an a perceived breach of patient confidentiality in revealing the names and details of clients (as deposed in the affidavit of Ms Stephanie Bell affirmed on 8 May 2008 (the Bell Affidavit)) and the claim that such disclosure may impact on clients attending the Applicant's clinic in the future, I was satisfied that it was reasonable in all the circumstances pursuant to subsection 29(1A) of the ACC Act, to issue the Notice.</sentence>
+ &amp;#8226; read the Statement of Facts and Circumstances (in its original form);
+ &amp;#8226; regard to my knowledge and experience of such matters including briefings by the ACC's anthropologist, NIITF [National Indigenous Violence and Child Abuse Intelligence Taskforce] staff and general knowledge collected from working as an Examiner with such matters;
+ &amp;#8226; taken into account he Applicant's objections to production regarding the task and costs associated with locating documents sought in the First notice an a perceived breach of patient confidentiality in revealing the names and details of clients (as deposed in the affidavit of Ms Stephanie Bell affirmed on 8 May 2008 (the Bell Affidavit)) and the claim that such disclosure may impact on clients attending the Applicant's clinic in the future, I was satisfied that it was reasonable in all the circumstances pursuant to subsection 29(1A) of the ACC Act, to issue the Notice.</sentence>
 <sentence id="s333">In accordance with that subsection I recorded my reasons for the issue of the Notice in writing (the Reasons).</sentence>
 <sentence id="s334">
  
@@ -601,12 +601,12 @@ Well, it was knowledge that related to supposed or alleged practices in relation
 <sentence id="s342">84 The written reasons Mr Anderson recorded for the purposes of s 29(1A), (referred to in the final sentence of paragraph 11 above), were as follows:
  
  
- &#8226; Based upon my consideration of the statement of facts and circumstances and the legal submissions which are referred to above:
- &#8226; I was satisfied that the operation was within the terms of the Determination and that the Determination was still operative.</sentence>
-<sentence id="s343">&#8226; I was satisfied that it was reasonable in all the circumstances that the Notice be issued to the party to whom it is directed.</sentence>
-<sentence id="s344">&#8226; I was satisfied that it was reasonable in all the circumstances that the Notice be issued in the terms approved by me.</sentence>
-<sentence id="s345">&#8226; I was satisfied that this was an appropriate Notice for the inclusion of a notation pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 because if such a notation were not included it would reasonably be expected to prejudice the effectiveness of the operation or investigation and that a failure to do so might be contrary to the public interest.</sentence>
-<sentence id="s346">&#8226; I was satisfied that it was also appropriate that the notation pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 be in the terms approved by me.</sentence>
+ &amp;#8226; Based upon my consideration of the statement of facts and circumstances and the legal submissions which are referred to above:
+ &amp;#8226; I was satisfied that the operation was within the terms of the Determination and that the Determination was still operative.</sentence>
+<sentence id="s343">&amp;#8226; I was satisfied that it was reasonable in all the circumstances that the Notice be issued to the party to whom it is directed.</sentence>
+<sentence id="s344">&amp;#8226; I was satisfied that it was reasonable in all the circumstances that the Notice be issued in the terms approved by me.</sentence>
+<sentence id="s345">&amp;#8226; I was satisfied that this was an appropriate Notice for the inclusion of a notation pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 because if such a notation were not included it would reasonably be expected to prejudice the effectiveness of the operation or investigation and that a failure to do so might be contrary to the public interest.</sentence>
+<sentence id="s346">&amp;#8226; I was satisfied that it was also appropriate that the notation pursuant to subsection 29A(1) of the Australian Crime Commission Act 2002 be in the terms approved by me.</sentence>
 <sentence id="s347">
  
 
@@ -732,12 +732,12 @@ the need for the Commonwealth and its partner agencies to understand and assess 
  
  
  
- &#8226; Nowhere does Mr Anderson embark upon any assessment of what the best interests of this particular group of children are, or what their best interests may call for in the circumstances.</sentence>
-<sentence id="s408">&#8226; While he does mention the expression the 'best interests of the children' once, he does not appear to be referring to the Aboriginal children affected by the Notice.</sentence>
+ &amp;#8226; Nowhere does Mr Anderson embark upon any assessment of what the best interests of this particular group of children are, or what their best interests may call for in the circumstances.</sentence>
+<sentence id="s408">&amp;#8226; While he does mention the expression the 'best interests of the children' once, he does not appear to be referring to the Aboriginal children affected by the Notice.</sentence>
 <sentence id="s409">He does not mention the expression 'primary consideration' anywhere.</sentence>
-<sentence id="s410">&#8226; There is extensive reference to other considerations Mr Anderson considered to be of importance including the objects of the ACC Act, the objects of the Determination, the issue of under-reporting of sexual abuse at some medical clinics in the Northern Territory and the objectives of the Special Intelligence Operation.</sentence>
-<sentence id="s411">&#8226; Nowhere is there any indication Mr Anderson engaged in any process of weighing those other considerations against the consideration of the best interests of this particular group of Aboriginal children as a primary consideration.</sentence>
-<sentence id="s412">&#8226; Instead, Mr Anderson appears to have had regard to those other considerations as the only considerations in coming to his decision.</sentence>
+<sentence id="s410">&amp;#8226; There is extensive reference to other considerations Mr Anderson considered to be of importance including the objects of the ACC Act, the objects of the Determination, the issue of under-reporting of sexual abuse at some medical clinics in the Northern Territory and the objectives of the Special Intelligence Operation.</sentence>
+<sentence id="s411">&amp;#8226; Nowhere is there any indication Mr Anderson engaged in any process of weighing those other considerations against the consideration of the best interests of this particular group of Aboriginal children as a primary consideration.</sentence>
+<sentence id="s412">&amp;#8226; Instead, Mr Anderson appears to have had regard to those other considerations as the only considerations in coming to his decision.</sentence>
 <sentence id="s413">
  
  
@@ -774,10 +774,10 @@ The first respondent failed to take into consideration a relevant consideration,
 <sentence id="s434">He said that in issuing the Notice, he took into account, among other things, the concerns expressed by Ms Bell about the impracticability of compliance with the original notice.</sentence>
 <sentence id="s435">As a result, he narrowed the scope of the Notice in the following four respects:
  
-&#8226; Whereas the original notice applied to all clinics operated by C Inc, the Notice only applied to its Alice Springs clinic.</sentence>
-<sentence id="s436">&#8226; Whereas the original notice applied to all programs operated by C Inc, the Notice did not apply to any of C Inc's programs.</sentence>
-<sentence id="s437">&#8226; The time frame was reduced from 1 January 2006 to 1 April 2008 for all three paragraphs of the original notice; to, from 1 January 2007 to 31 December 2007, in relation to paragraphs 1 and 2 of the Notice; and to, from 1 January 2008 to 31 March 2008, in relation to paragraph 3 of the Notice.</sentence>
-<sentence id="s438">&#8226; The requirement in the original notice to produce medical records in relation to Indigenous children being treated due to neglect and failure to thrive was not included in the Notice.</sentence>
+&amp;#8226; Whereas the original notice applied to all clinics operated by C Inc, the Notice only applied to its Alice Springs clinic.</sentence>
+<sentence id="s436">&amp;#8226; Whereas the original notice applied to all programs operated by C Inc, the Notice did not apply to any of C Inc's programs.</sentence>
+<sentence id="s437">&amp;#8226; The time frame was reduced from 1 January 2006 to 1 April 2008 for all three paragraphs of the original notice; to, from 1 January 2007 to 31 December 2007, in relation to paragraphs 1 and 2 of the Notice; and to, from 1 January 2008 to 31 March 2008, in relation to paragraph 3 of the Notice.</sentence>
+<sentence id="s438">&amp;#8226; The requirement in the original notice to produce medical records in relation to Indigenous children being treated due to neglect and failure to thrive was not included in the Notice.</sentence>
 <sentence id="s439">101 Whether or not Mr Anderson was required as a matter of law to take into account as a relevant consideration the difficulties of compliance with the original notice identified in Ms Bell's affidavit, the fact is he did.</sentence>
 <sentence id="s440">Since there is no evidence to suggest that there are any similar difficulties in complying with the Notice, I consider this claim must fail.</sentence>
 <sentence id="s441">(5) Was Mr Anderson required to take into account as a relevant consideration that the information sought could be obtained from another source as deposed to in the affidavit of Mr Mizow.</sentence>

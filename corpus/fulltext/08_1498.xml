@@ -3,43 +3,43 @@
 <name>Interpharma Pty Ltd v Commissioner of Patents [2008] FCA 1498 (10 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1498.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">infringement</catchphrase>
-<catchphrase "id=c1">pharmaceutical compound</catchphrase>
-<catchphrase "id=c2">no claim for particular stereochemistry</catchphrase>
-<catchphrase "id=c3">whether racemate only claimed</catchphrase>
-<catchphrase "id=c4">whether claims covered [beta] anomer.</catchphrase>
-<catchphrase "id=c5">validity</catchphrase>
-<catchphrase "id=c6">pharmaceutical compound</catchphrase>
-<catchphrase "id=c7">utility</catchphrase>
-<catchphrase "id=c8">whether invention useful according to promises in patent</catchphrase>
-<catchphrase "id=c9">whether toxicity compromises utility.</catchphrase>
-<catchphrase "id=c10">infringement</catchphrase>
-<catchphrase "id=c11">process for manufacture of chemical compound.</catchphrase>
-<catchphrase "id=c12">validity</catchphrase>
-<catchphrase "id=c13">process for manufacture of chemical compound</catchphrase>
-<catchphrase "id=c14">whether invention lacked inventive step</catchphrase>
-<catchphrase "id=c15">common general knowledge</catchphrase>
-<catchphrase "id=c16">whether lack of inventive step established an interlocutory application.</catchphrase>
-<catchphrase "id=c17">alleged infringement of patent</catchphrase>
-<catchphrase "id=c18">whether prima facie case made out</catchphrase>
-<catchphrase "id=c19">whether defences of invalidity made out</catchphrase>
-<catchphrase "id=c20">necessary strength of defences on interlocutory application</catchphrase>
-<catchphrase "id=c21">whether damages an adequate remedy</catchphrase>
-<catchphrase "id=c22">balance of convenience</catchphrase>
-<catchphrase "id=c23">alleged infringer entering established market</catchphrase>
-<catchphrase "id=c24">whether possible to restore applicant to present position</catchphrase>
-<catchphrase "id=c25">relevance of apparent strength of substantive cases.</catchphrase>
-<catchphrase "id=c26">patent</catchphrase>
-<catchphrase "id=c27">patent</catchphrase>
-<catchphrase "id=c28">patent</catchphrase>
-<catchphrase "id=c29">patent</catchphrase>
-<catchphrase "id=c30">interlocutory injunction</catchphrase>
+<catchphrase id="c0">infringement</catchphrase>
+<catchphrase id="c1">pharmaceutical compound</catchphrase>
+<catchphrase id="c2">no claim for particular stereochemistry</catchphrase>
+<catchphrase id="c3">whether racemate only claimed</catchphrase>
+<catchphrase id="c4">whether claims covered [beta] anomer.</catchphrase>
+<catchphrase id="c5">validity</catchphrase>
+<catchphrase id="c6">pharmaceutical compound</catchphrase>
+<catchphrase id="c7">utility</catchphrase>
+<catchphrase id="c8">whether invention useful according to promises in patent</catchphrase>
+<catchphrase id="c9">whether toxicity compromises utility.</catchphrase>
+<catchphrase id="c10">infringement</catchphrase>
+<catchphrase id="c11">process for manufacture of chemical compound.</catchphrase>
+<catchphrase id="c12">validity</catchphrase>
+<catchphrase id="c13">process for manufacture of chemical compound</catchphrase>
+<catchphrase id="c14">whether invention lacked inventive step</catchphrase>
+<catchphrase id="c15">common general knowledge</catchphrase>
+<catchphrase id="c16">whether lack of inventive step established an interlocutory application.</catchphrase>
+<catchphrase id="c17">alleged infringement of patent</catchphrase>
+<catchphrase id="c18">whether prima facie case made out</catchphrase>
+<catchphrase id="c19">whether defences of invalidity made out</catchphrase>
+<catchphrase id="c20">necessary strength of defences on interlocutory application</catchphrase>
+<catchphrase id="c21">whether damages an adequate remedy</catchphrase>
+<catchphrase id="c22">balance of convenience</catchphrase>
+<catchphrase id="c23">alleged infringer entering established market</catchphrase>
+<catchphrase id="c24">whether possible to restore applicant to present position</catchphrase>
+<catchphrase id="c25">relevance of apparent strength of substantive cases.</catchphrase>
+<catchphrase id="c26">patent</catchphrase>
+<catchphrase id="c27">patent</catchphrase>
+<catchphrase id="c28">patent</catchphrase>
+<catchphrase id="c29">patent</catchphrase>
+<catchphrase id="c30">interlocutory injunction</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
  INTRODUCTION 
  
-1 The cross-claimants, Eli Lilly &amp; Company and Eli Lilly Australia Pty Ltd seek interlocutory injunctions restraining the cross-respondent, Interpharma Pty Ltd, from engaging in certain conduct, to which I shall refer in more detail below, said to be in infringement of patents registered under the Patents Act 1990 (Cth) ("Patents Act") held by the first cross-claimant, and licensed to the second cross-claimant.</sentence>
+1 The cross-claimants, Eli Lilly &amp;amp; Company and Eli Lilly Australia Pty Ltd seek interlocutory injunctions restraining the cross-respondent, Interpharma Pty Ltd, from engaging in certain conduct, to which I shall refer in more detail below, said to be in infringement of patents registered under the Patents Act 1990 (Cth) ("Patents Act") held by the first cross-claimant, and licensed to the second cross-claimant.</sentence>
 <sentence id="s1">The cross-claimants also seek an interlocutory mandatory injunction requiring Interpharma to withdraw an application for its product to be included in the Commonwealth Pharmaceutical Benefits Scheme.</sentence>
 <sentence id="s2">2 The first cross-claimant is the proprietor of Australian Patent No.</sentence>
 <sentence id="s3">565856, for an invention entitled "difluoro nucleoside antivirals".</sentence>
@@ -131,7 +131,7 @@ I can recall discussing the patent position in relation to gemcitabine HCl compo
 (b) whether the cross-claimants will suffer irreparable harm, for which damages will not be adequate compensation, unless an injunction is granted; and
  
 (c) whether the balance of convenience favours the granting of an injunction.</sentence>
-<sentence id="s77">See Castlemaine Tooheys Ltd v South Australia [1986] HCA 58 ; (1986) 161 CLR 148 , 153; Aktiebologet Hassle v Biochemie Australia Pty Ltd (2003) 57 IPR 1 , 9 [29]; Hexal Australia Pty Ltd v Roche Therapeutics Inc (2005) 66 IPR 325 , 328 [17]; Pharmacia Italia SpA v Interpharma Pty Ltd (2005) 67 IPR 397 , 399 [9]-[10]; Merck &amp; Co Inc v GenRx Pty Ltd (2006) 70 IPR 286 , 291 [16].</sentence>
+<sentence id="s77">See Castlemaine Tooheys Ltd v South Australia [1986] HCA 58 ; (1986) 161 CLR 148 , 153; Aktiebologet Hassle v Biochemie Australia Pty Ltd (2003) 57 IPR 1 , 9 [29]; Hexal Australia Pty Ltd v Roche Therapeutics Inc (2005) 66 IPR 325 , 328 [17]; Pharmacia Italia SpA v Interpharma Pty Ltd (2005) 67 IPR 397 , 399 [9]-[10]; Merck &amp;amp; Co Inc v GenRx Pty Ltd (2006) 70 IPR 286 , 291 [16].</sentence>
 <sentence id="s78">16 With respect to the first question, in Australian Broadcasting Corporation v O'Neill [2006] HCA 46 ; (2006) 227 CLR 57 , 82-83, [65] and [70] Gummow and Hayne JJ (with the assent of Gleeson CJ and Crennan J --- at 68 [19]) pointed out that the requisite degree of seriousness of the question to be tried, or the strength of the probability of success at trial (which their Honours seemingly regarded as effectively two ways of saying the same thing) depended on "the nature of the rights [the plaintiff] asserts and the practical consequences likely to flow from the order he seeks" (227 CLR at 82 [65], quoting from Beecham Group Ltd v Bristol Laboratories Pty Ltd [1968] HCA 1 ; (1968) 118 CLR 618 , 622).</sentence>
 <sentence id="s79">Further, the issue whether there is a serious question (or a probability of success) should not be considered in isolation from the issue of the balance of convenience: Tidy Tea Ltd v Unilever Australia Ltd (1995) 32 IPR 405 , 416; Aktiebologet Hassle 57 IPR at 10 [31].</sentence>
 <sentence id="s80">At base, the decision whether to grant an interlocutory restraint is a discretionary one, and it is traditionally at the point of considering the balance of convenience that the court takes into account every circumstance that has the rational capacity to assist in answering the question whether it would be in the interests of justice to do so.</sentence>
@@ -205,11 +205,11 @@ There is no challenge to the validity of the Broader Patent.</sentence>
  
 
  
-&#183; the R-trans enantiomer, individually,
+&amp;#183; the R-trans enantiomer, individually,
  
-&#183; the S-trans enantiomer, individually, and
+&amp;#183; the S-trans enantiomer, individually, and
  
-&#183; unequal mixtures of the R-trans enantiomer and the S-trans enantiomer.</sentence>
+&amp;#183; unequal mixtures of the R-trans enantiomer and the S-trans enantiomer.</sentence>
 <sentence id="s130">Accordingly, his Honour concluded that Ranbaxy's intended importation and sale of its product would infringe Claim 1 and certain other Claims of the Broader Patent.</sentence>
 <sentence id="s131">In its appeal, Ranbaxy contends that the primary judge erred in rejecting its contention that the Broader Patent was restricted to the trans-racemates of the compounds disclosed.</sentence>
 <sentence id="s132">Their Honours in the Full Court upheld the primary Judge's conclusion that Structural Formula 1, as it was described, disclosed the two enantiomers mentioned, and was not confined to the racemate.</sentence>
@@ -253,7 +253,7 @@ The claims for the separate enantiomers could be described as bare claims for ef
 <sentence id="s162">28 In what Gyles J described as a digression, his Honour referred to the judgment of Lindgren J in Alphapharm , to the judgment of Young J [2006] FCA 1787 ; ((2006) 71 IPR 46) and of the Full Court in Ranbaxy , and to other authorities.</sentence>
 <sentence id="s163">In the course of that, his Honour referred to a text in the following terms (at [74]):
  
-In the Encyclopedia of United Kingdom and European Patent Law (Sweet &amp; Maxwell Limited, 1977---2007), footnote 3 on page 1109 includes the following: 
+In the Encyclopedia of United Kingdom and European Patent Law (Sweet &amp;amp; Maxwell Limited, 1977---2007), footnote 3 on page 1109 includes the following: 
  
  
  "It has, for instance, been held that publication of the existence of an "optically active" compound is not publication of the separated optically active forms, even though any chemist would appreciate that they must exist and could be prepared: I.C.I. (1971) unrep.</sentence>
@@ -399,7 +399,7 @@ Wherein T is either hydrogen or fluoro and R is a nucleobase selected from a gro
  
 
 The various options for R 1 and R 2 are mentioned.</sentence>
-<sentence id="s252">The claim continues that the process involves conducting the S N 2 displacement "optionally in a suitable solvent of a sulfonyloxy group (Y) from an &#945; anomer enriched carbohydrate of the formula":
+<sentence id="s252">The claim continues that the process involves conducting the S N 2 displacement "optionally in a suitable solvent of a sulfonyloxy group (Y) from an &amp;#945; anomer enriched carbohydrate of the formula":
  
  
 wherein X is "independently selected from hydroxyl protecting groups", and T is hydrogen or fluoro.</sentence>
@@ -449,7 +449,7 @@ The paper describes a glycosylation reaction which involves reaction of a bromo-
 <sentence id="s287">" 
  
 61 Reliance upon the opinions of Mr Kilborn or Professor Jackson in these respects was criticised by counsel for the cross-claimants because they had been given the patents before being asked to express their opinion as to common general knowledge as at the priority date.</sentence>
-<sentence id="s288">Counsel relied upon what was said by the Full Court in Minnesota Mining &amp; Manufacturing Co v Tyco Electronics Pty Ltd [2002] FCAFC 315 ; (2002) 56 IPR 248 , 258 [45], as follows:
+<sentence id="s288">Counsel relied upon what was said by the Full Court in Minnesota Mining &amp;amp; Manufacturing Co v Tyco Electronics Pty Ltd [2002] FCAFC 315 ; (2002) 56 IPR 248 , 258 [45], as follows:
  
 The manner in which the evidence of some of the experts in the present case was bought into existence suggests that relatively little weight should be given to certain of that evidence.</sentence>
 <sentence id="s289">For example, witnesses were provided with a copy of the patent.</sentence>
@@ -525,7 +525,7 @@ However, I am much influenced by the effects of disturbing the status quo, parti
 <sentence id="s350">There is also likely to be interference with the trade patterns of Sanofi with its customers, both wholesale and retail, that may not be detectable or measurable in money terms.</sentence>
 <sentence id="s351">Sanofi has built up a considerable trade since 2003, and the establishment to go with it, as GenRx looked on.</sentence>
 <sentence id="s352">Temporary disturbance of that status quo is not justified.</sentence>
-<sentence id="s353">My view is consistent with that of Moore J in Merck &amp; Co Inc v GenRx Pty Ltd (2006) 70 IPR 286.... 
+<sentence id="s353">My view is consistent with that of Moore J in Merck &amp;amp; Co Inc v GenRx Pty Ltd (2006) 70 IPR 286.... 
  
 73 The considerations to which I have just referred apply in the case of the process patent, which does not expire until 2013.</sentence>
 <sentence id="s354">However, I could not say the same about the compound patent.</sentence>
@@ -558,7 +558,7 @@ Well, now, if you assume that the defendant is in the right, there is no doubt t
 <sentence id="s377">That is to say, subject only to the loss of the preparatory and start-up expenses which the cross-respondent has incurred, and to the disruption of such supply contracts as it has in place, the cross-respondent does not appear to be able to say that its present position would be worsened if injunctions were granted.</sentence>
 <sentence id="s378">In that context, and in an environment of forensic disputation, there is, in my view, some merit in requiring the parties to hold to their present positions until the rights and wrongs of the matter can be established at trial.</sentence>
 <sentence id="s379">77 This brings me to the cross-claimants' second reason for contending that the balance of convenience favoured the grant of an injunction.</sentence>
-<sentence id="s380">They submitted that the cross-respondent had got itself into its present situation with "its eyes wide open": see Merck &amp; Co Inc v GenRx Pty Ltd (2006) 70 IPR 286 , 292 [19].</sentence>
+<sentence id="s380">They submitted that the cross-respondent had got itself into its present situation with "its eyes wide open": see Merck &amp;amp; Co Inc v GenRx Pty Ltd (2006) 70 IPR 286 , 292 [19].</sentence>
 <sentence id="s381">The cross-respondent has undertaken all its commercial preparations in the knowledge of one or both of the patents, or at least had been less than assiduous in its inquiries as to whether the marketing by it if Gemcitabine EBEWE or of EBEGEMCIT might have constituted an infringement.</sentence>
 <sentence id="s382">The cross-claimants relied upon the reasons of Sundberg J in his reasons of 21 August 2008 ([2008] FCA 1283 , [38]):
  

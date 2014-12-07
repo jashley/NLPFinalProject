@@ -3,13 +3,13 @@
 <name>Wide Bay Conservation Council Inc v Burnett Water Pty Ltd (corrigendum 15 December 2008) [2008] FCA 1900 (12 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1900.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">high court and federal court procedure</catchphrase>
-<catchphrase "id=c1">staying proceedings</catchphrase>
-<catchphrase "id=c2">application for stay of proceedings</catchphrase>
-<catchphrase "id=c3">where criminal or civil penalty proceedings against the respondent a contingency but not a real possibility</catchphrase>
-<catchphrase "id=c4">whether civil proceedings should be stayed temporarily</catchphrase>
-<catchphrase "id=c5">temporary stay refused</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
+<catchphrase id="c0">high court and federal court procedure</catchphrase>
+<catchphrase id="c1">staying proceedings</catchphrase>
+<catchphrase id="c2">application for stay of proceedings</catchphrase>
+<catchphrase id="c3">where criminal or civil penalty proceedings against the respondent a contingency but not a real possibility</catchphrase>
+<catchphrase id="c4">whether civil proceedings should be stayed temporarily</catchphrase>
+<catchphrase id="c5">temporary stay refused</catchphrase>
+<catchphrase id="c6">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -236,10 +236,10 @@ Mandatory injunctions
 <sentence id="s73">21 Against this background, Wootten J (at 206-207) made the following observations:
  I approach the decision of this matter with the following guidelines: 
  
- (a) Prima facie a plaintiff is entitled to have his action tried in the ordinary course of the procedure and business of the court ( Rochfort v John Fairfax &amp; Sons Ltd at 19);
+ (a) Prima facie a plaintiff is entitled to have his action tried in the ordinary course of the procedure and business of the court ( Rochfort v John Fairfax &amp;amp; Sons Ltd at 19);
  (b) It is a grave matter to interfere with this entitlement by a stay of proceedings, which requires justification on proper grounds (ibid);
  (c) The burden is on the defendant in a civil action to show that it is just and convenient that the plaintiff's ordinary rights should be interfered with ( Jefferson v Bhetcha at 905);
- (d) Neither an accused (ibid) nor the Crown ( Rochfort v John Fairfax &amp; Sons Ltd at 21) are entitled as of right to have a civil proceeding stayed because of a pending or possible criminal proceeding;
+ (d) Neither an accused (ibid) nor the Crown ( Rochfort v John Fairfax &amp;amp; Sons Ltd at 21) are entitled as of right to have a civil proceeding stayed because of a pending or possible criminal proceeding;
  (e) The court's task is one of "the balancing of justice between the parties" ( Jefferson Ltd v Bhetcha at 904), taking account of all relevant factors (ibid at 905);
  (f) Each case must be judged on its own merits, and it would be wrong and undesirable to attempt to define in the abstract what are the relevant factors (ibid at 905);
  (g) One factor to take into account where there are pending or possible criminal proceedings is what is sometimes referred to as the accused's "right of silence", and the reasons why that right, under the law as it stands, is a right of a defendant in a criminal proceeding (ibid at 904).</sentence>
@@ -268,7 +268,7 @@ Mandatory injunctions
 <sentence id="s77">
  
 (Citations of authorities mentioned omitted).</sentence>
-<sentence id="s78">22 The first reported consideration in Queensland of the discretion described by Megaw LJ in Jefferson Ltd v Bhetcha is the judgment of Connolly J in Black &amp; White Cab Co Limited v Kelk [1984] 2 Qd R 484.</sentence>
+<sentence id="s78">22 The first reported consideration in Queensland of the discretion described by Megaw LJ in Jefferson Ltd v Bhetcha is the judgment of Connolly J in Black &amp;amp; White Cab Co Limited v Kelk [1984] 2 Qd R 484.</sentence>
 <sentence id="s79">That case was a civil proceeding in which Mr Kelk was a defendant to a claim for an injunction to restrain the use of allegedly confidential knowledge and damages for an alleged breach of his duty of trust and confidence.</sentence>
 <sentence id="s80">Though he had entered an appearance, he had filed no defence.</sentence>
 <sentence id="s81">In the meantime an indictment had been presented against him alleging an offence of making improper use as an employee of corporate information to gain an advantage for himself or another person.</sentence>

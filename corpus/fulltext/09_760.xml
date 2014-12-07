@@ -3,16 +3,16 @@
 <name>SS v Australian Crime Commission (No 2) [2009] FCA 760 (17 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/760.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">which party should bear costs in relation to a withdrawn application to re-open</catchphrase>
-<catchphrase "id=c1">circumstances of the case</catchphrase>
-<catchphrase "id=c2">application to re-open based on first respondent's late production of relevant documents</catchphrase>
-<catchphrase "id=c3">decision to withdraw application based on objection by applicant</catchphrase>
-<catchphrase "id=c4">whether such circumstances warranted costs order in either party's favour</catchphrase>
-<catchphrase "id=c5">costs of applicant's notice of motion to be granted leave to make further submissions</catchphrase>
-<catchphrase "id=c6">circumstances of the case</catchphrase>
-<catchphrase "id=c7">whether costs order in applicant's favour appropriate</catchphrase>
-<catchphrase "id=c8">costs</catchphrase>
-<catchphrase "id=c9">costs</catchphrase>
+<catchphrase id="c0">which party should bear costs in relation to a withdrawn application to re-open</catchphrase>
+<catchphrase id="c1">circumstances of the case</catchphrase>
+<catchphrase id="c2">application to re-open based on first respondent's late production of relevant documents</catchphrase>
+<catchphrase id="c3">decision to withdraw application based on objection by applicant</catchphrase>
+<catchphrase id="c4">whether such circumstances warranted costs order in either party's favour</catchphrase>
+<catchphrase id="c5">costs of applicant's notice of motion to be granted leave to make further submissions</catchphrase>
+<catchphrase id="c6">circumstances of the case</catchphrase>
+<catchphrase id="c7">whether costs order in applicant's favour appropriate</catchphrase>
+<catchphrase id="c8">costs</catchphrase>
+<catchphrase id="c9">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -79,7 +79,7 @@ Dated: 17 July 2009
  
  Counsel for the Respondents: Ms S J Maharaj QC 
  
- Solicitor for the Applicant: Patsouris &amp; Associates 
+ Solicitor for the Applicant: Patsouris &amp;amp; Associates 
  
  Solicitor for the Respondents: Australian Crime Commission 
  Date of Hearing: Written submissions filed on 16 June 2009 and 8 July 2009 

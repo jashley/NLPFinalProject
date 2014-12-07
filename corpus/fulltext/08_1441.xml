@@ -3,14 +3,14 @@
 <name>Gilkinson v Repatriation Commission [2008] FCA 1441 (22 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1441.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">defence and war</catchphrase>
-<catchphrase "id=c2">veterans</catchphrase>
-<catchphrase "id=c3">whether tribunal committed errors of law</catchphrase>
-<catchphrase "id=c4">whether tribunal posed and answered wrong question</catchphrase>
-<catchphrase "id=c5">whether material before tribunal raised reasonable hypothesis that veteran's disease arose out of or was attributable to his operational service</catchphrase>
-<catchphrase "id=c6">whether tribunal's failure to address expressly this hypothesis resulted in its failure to comply with s 43(2b) of administrative appeals tribunal act 1975 (cth)</catchphrase>
-<catchphrase "id=c7">administrative law</catchphrase>
+<catchphrase id="c0">administrative appeals tribunal</catchphrase>
+<catchphrase id="c1">defence and war</catchphrase>
+<catchphrase id="c2">veterans</catchphrase>
+<catchphrase id="c3">whether tribunal committed errors of law</catchphrase>
+<catchphrase id="c4">whether tribunal posed and answered wrong question</catchphrase>
+<catchphrase id="c5">whether material before tribunal raised reasonable hypothesis that veteran's disease arose out of or was attributable to his operational service</catchphrase>
+<catchphrase id="c6">whether tribunal's failure to address expressly this hypothesis resulted in its failure to comply with s 43(2b) of administrative appeals tribunal act 1975 (cth)</catchphrase>
+<catchphrase id="c7">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -21,9 +21,9 @@
 <sentence id="s3">He claimed that the Administrative Appeals Tribunal committed errors of law when it held that it was satisfied beyond reasonable doubt that his operational service did not contribute to his being obese at the time of the clinical onset of his sleep apnoea.</sentence>
 <sentence id="s4">He argued that this was because the tribunal either:
  
-&#8226; failed to pose and answer the correct question in dealing with his hypothesis that shift work on operational service contributed to his obesity; or
+&amp;#8226; failed to pose and answer the correct question in dealing with his hypothesis that shift work on operational service contributed to his obesity; or
  
-&#8226; failed to ask whether there was a reasonable hypothesis that eating to excess and not exercising sufficiently on operational service was causally related to that service and, if so, whether those factors contributed to his obesity.</sentence>
+&amp;#8226; failed to ask whether there was a reasonable hypothesis that eating to excess and not exercising sufficiently on operational service was causally related to that service and, if so, whether those factors contributed to his obesity.</sentence>
 <sentence id="s5">THE STATUTORY FRAMEWORK 
  
 2 Under the Act, where a veteran is incapacitated from a war-caused disease, the Commonwealth is liable, subject to the Act, to pay a pension by way of compensation to him or her (s 13(1)).</sentence>
@@ -79,11 +79,11 @@ There is no onus of proof on the veteran or anyone else, including the Commissio
 <sentence id="s23">A statement of principles must set out, first, the factors that as a minimum must exist and, secondly, which of those factors must be related to service rendered by a person before it could be said that a reasonable hypothesis had been raised connecting a disease of that kind with the circumstances of that service (s 196B(2)(d) and (e)).</sentence>
 <sentence id="s24">And s 196B(14) provided that a factor causing or contributing to a disease was related to service (including operational service) rendered by a veteran if, relevantly:
  
-&#8226; it resulted from an occurrence that happened while he or she was rendering that service (s 196B(14))(a));
+&amp;#8226; it resulted from an occurrence that happened while he or she was rendering that service (s 196B(14))(a));
  
-&#8226; it arose out of, or was attributable to that service (s 196B(14)(b)); or
+&amp;#8226; it arose out of, or was attributable to that service (s 196B(14)(b)); or
  
-&#8226; it was contributed to in a material degree by, or was aggravated by, that service (s 196B(14)(d)).</sentence>
+&amp;#8226; it was contributed to in a material degree by, or was aggravated by, that service (s 196B(14)(d)).</sentence>
 <sentence id="s25">9 Here, the Repatriation Medical Authority's 2005 statement of principles concerning sleep apnoea specified in par 5(b) that "being obese at the time of the clinical onset of sleep apnoea" was one factor which had to exist as a minimum.</sentence>
 <sentence id="s26">And, par 4 of the statement of principles required that factor to be related to the operational service rendered by the veteran.</sentence>
 <sentence id="s27">The statement of principles defined "being obese" as meaning an increase in body weight by way of fat accumulation which resulted in a body mass index of 30 or more.</sentence>
@@ -111,7 +111,7 @@ There is no onus of proof on the veteran or anyone else, including the Commissio
 <sentence id="s41">The veteran was 57.2kg in May 1965 and 87.5 kg in March 1969.</sentence>
 <sentence id="s42">This represents a gain of 30.3kg in 55 months.</sentence>
 <sentence id="s43">This translates to a gain of over half kilo/month.</sentence>
-<sentence id="s44">The veteran was already over-weight and well on his way to being obese (BMI &gt;30 in 1969).</sentence>
+<sentence id="s44">The veteran was already over-weight and well on his way to being obese (BMI &amp;gt;30 in 1969).</sentence>
 <sentence id="s45">Obesity does not occur instantly, it takes time to accumulate excess energy storage.</sentence>
 <sentence id="s46">The adverse health effects of over-weight and obesity develop as gradually as the weight is gained.</sentence>
 <sentence id="s47">' 

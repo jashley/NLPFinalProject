@@ -3,22 +3,22 @@
 <name>Roadshow Films Pty Ltd v iiNet Limited [2009] FCA 332 (15 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/332.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pleadings</catchphrase>
-<catchphrase "id=c1">summary judgment and strike out</catchphrase>
-<catchphrase "id=c2">requirements of 'no reasonable prospect of success'</catchphrase>
-<catchphrase "id=c3">whether a strike out is more appropriate than summary judgment</catchphrase>
-<catchphrase "id=c4">s 31a federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c5">o 11 r 16 federal court rules (cth)</catchphrase>
-<catchphrase "id=c6">copyright</catchphrase>
-<catchphrase "id=c7">facts necessary to give rise to a claim of conversion</catchphrase>
-<catchphrase "id=c8">whether there is an 'infringing copy'</catchphrase>
-<catchphrase "id=c9">s 116 copyright act 1968 (cth)</catchphrase>
-<catchphrase "id=c10">costs</catchphrase>
-<catchphrase "id=c11">whether both parties were partially successful</catchphrase>
-<catchphrase "id=c12">whether costs should be awarded to a party</catchphrase>
-<catchphrase "id=c13">practice and procedure</catchphrase>
-<catchphrase "id=c14">intellectual property</catchphrase>
-<catchphrase "id=c15">practice and procedure</catchphrase>
+<catchphrase id="c0">pleadings</catchphrase>
+<catchphrase id="c1">summary judgment and strike out</catchphrase>
+<catchphrase id="c2">requirements of 'no reasonable prospect of success'</catchphrase>
+<catchphrase id="c3">whether a strike out is more appropriate than summary judgment</catchphrase>
+<catchphrase id="c4">s 31a federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c5">o 11 r 16 federal court rules (cth)</catchphrase>
+<catchphrase id="c6">copyright</catchphrase>
+<catchphrase id="c7">facts necessary to give rise to a claim of conversion</catchphrase>
+<catchphrase id="c8">whether there is an 'infringing copy'</catchphrase>
+<catchphrase id="c9">s 116 copyright act 1968 (cth)</catchphrase>
+<catchphrase id="c10">costs</catchphrase>
+<catchphrase id="c11">whether both parties were partially successful</catchphrase>
+<catchphrase id="c12">whether costs should be awarded to a party</catchphrase>
+<catchphrase id="c13">practice and procedure</catchphrase>
+<catchphrase id="c14">intellectual property</catchphrase>
+<catchphrase id="c15">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -39,7 +39,7 @@
 <sentence id="s12">Fourthly, Roadshow claims that iiNet has authorised each of such acts by its users.</sentence>
 <sentence id="s13">In support of its claims of copyright infringement, Roadshow relies upon evidence adduced by the Australian Federation Against Copyright Theft ('AFACT').</sentence>
 <sentence id="s14">The AFACT has retained the services of DtecNet Software APS ('DtecNet'), a company incorporated in Denmark, which undertakes the investigation of suspected unauthorised sharing and transfer of copyright files by users of peer to peer file sharing systems such as BitTorrent.</sentence>
-<sentence id="s15">An affidavit of Kristian L&oslash;kkegaard sworn on 25 February 2009 describes the DtecNet technology and its method of investigation.</sentence>
+<sentence id="s15">An affidavit of Kristian L&amp;oslash;kkegaard sworn on 25 February 2009 describes the DtecNet technology and its method of investigation.</sentence>
 <sentence id="s16">The affidavits of Aaron Guy Herps sworn on 9 December 2008 and 23 February 2009 and Gregory Donald Fraser sworn on 23 February 2009 explain the process that Mr Herps and Mr Fraser undertook to connect with BitTorrent users and to download copies of the films using iiNet's facilities.</sentence>
 <sentence id="s17">Roadshow claims that the evidence provided by DtecNet, which includes the dates and times of when the films were downloaded and the internet protocol addresses ('IP addresses') of the BitTorrent users from which those films are sourced, is sufficient to enable iiNet to identify which of their users are engaging in such conduct.</sentence>
 <sentence id="s18">Relevant Principles
@@ -84,7 +84,7 @@
 <sentence id="s35">Thus judgment should only be entered where no amendment of pleadings or particulars is possible, that is, where there is a defect in the pleadings which cannot be cured.</sentence>
 <sentence id="s36">Order 11 rule 16 of the Rules
  Order 11 rule 16 of the Rules provides: 
- Where a pleading&#8722;
+ Where a pleading&amp;#8722;
  (a) discloses no reasonable cause of action or defence or other case appropriate to the nature of the pleading;
  (b) has a tendency to cause, prejudice, embarrassment or delay in the proceeding; or
  (c) is otherwise an abuse of the process of the Court,
@@ -92,7 +92,7 @@
 <sentence id="s37">
  The application of O 11 r 16 should now be considered in the light of the principles discussed in relation to s 31A: see Commonwealth Bank of Australia (ACN 123 123 124) v ACN 000 247 601 Pty Ltd (in liq) (formerly Stanley Thompson Valuers) [2006] FCA 1416 at [11] , namely that a proceeding need not be hopeless or bound to fail before the Court can strike out a pleading or part of a pleading.</sentence>
 <sentence id="s38">In deciding whether to strike out, the Court must have regard to the adequacy of the pleading and must take the evidence at its highest.</sentence>
-<sentence id="s39">That is, the Court must assess the pleadings as if the facts alleged are true: see ACCC v Alice Car &amp; Truck Rentals Pty Ltd (unreported, O'Loughlin J, 5 March 1997).</sentence>
+<sentence id="s39">That is, the Court must assess the pleadings as if the facts alleged are true: see ACCC v Alice Car &amp;amp; Truck Rentals Pty Ltd (unreported, O'Loughlin J, 5 March 1997).</sentence>
 <sentence id="s40">The Court should err on the side of striking out rather than giving summary judgment where the underlying complaint of a pleading supports a reasonable cause of action, although the pleading itself has deficiencies: see Kowalski v MMAL Staff Superannuation Fund Pty Ltd (No 2) [2008] FCA 691 at [1] .</sentence>
 <sentence id="s41">ISSUES NOW AGREED 
  Quantum of Pecuniary relief
@@ -161,7 +161,7 @@
  The essence of conversion is interference with a right of possession.</sentence>
 <sentence id="s92">It is nevertheless properly described as a "varied and somewhat amorphous tort" serving two distinct functions.</sentence>
 <sentence id="s93">One function is tortious, whereby it compensates a person deprived of the use of goods.</sentence>
-<sentence id="s94">However it also acts as a "surrogate for the Roman vindicatio ; that is, in order to give a dispossessed owner the means to recover his goods in specie , or if that is not appropriate their market value" &#8722; Tettenborn, Wiley and Bennett; The Law of Damages (LexisNexis UK, 2003) p 294.</sentence>
+<sentence id="s94">However it also acts as a "surrogate for the Roman vindicatio ; that is, in order to give a dispossessed owner the means to recover his goods in specie , or if that is not appropriate their market value" &amp;#8722; Tettenborn, Wiley and Bennett; The Law of Damages (LexisNexis UK, 2003) p 294.</sentence>
 <sentence id="s95">The conduct which may constitute conversion is diverse.</sentence>
 <sentence id="s96">It has been said to include:
  (i) refusal to return;
@@ -171,7 +171,7 @@
  (v) destruction;
  (vi) loss as a bailee;
  (vii) keeping.</sentence>
-<sentence id="s97">The diversity of that list raises questions about the universal appropriateness of a "market value" approach to the assessment of damages &#8722; Tettenborn A, "Damages in Conversion: the Exception or the Anomaly" (1993) 52 CLJ 128.</sentence>
+<sentence id="s97">The diversity of that list raises questions about the universal appropriateness of a "market value" approach to the assessment of damages &amp;#8722; Tettenborn A, "Damages in Conversion: the Exception or the Anomaly" (1993) 52 CLJ 128.</sentence>
 <sentence id="s98">
  In International Writing Institute Inc v Rimala Pty Ltd and Another (1995) 57 FCR 135 the Full Court said (at 139): 
  Conversion occurs when goods are dealt with in a manner inconsistent with the rights of the owner, but this must be clear... Whilst it is possible that conversion occurs at some different point...the sale of the goods will, generally speaking, provide the necessary certainty.</sentence>
@@ -322,16 +322,16 @@ Thirteenth Applicant
  UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP 
 Fourteenth Applicant
  
- RINGERIKE GMBH &amp; CO KG 
+ RINGERIKE GMBH &amp;amp; CO KG 
 Fifteenth Applicant
  
- INTERNATIONALE FILMPRODUKTION BLACKBIRD VIERTE GMBH &amp; CO KG 
+ INTERNATIONALE FILMPRODUKTION BLACKBIRD VIERTE GMBH &amp;amp; CO KG 
 Sixteenth Applicant
  
- MDBF ZWEITE FILMGESELLSCHAFT MBH &amp; CO KG 
+ MDBF ZWEITE FILMGESELLSCHAFT MBH &amp;amp; CO KG 
 Seventeenth Applicant
  
- INTERNATIONALE FILM PRODUCKTION RICHTER GMBH &amp; CO KG 
+ INTERNATIONALE FILM PRODUCKTION RICHTER GMBH &amp;amp; CO KG 
 Eighteenth Applicant
  
  NBC STUDIOS, INC 
@@ -352,7 +352,7 @@ Twenty-Third Applicant
  PATALEX III PRODUCTIONS 
 Twenty-Fourth Applicant
  
- LONELY FILM PRODUCTIONS GMBH &amp; CO KG 
+ LONELY FILM PRODUCTIONS GMBH &amp;amp; CO KG 
 Twenty-Fifth Applicant
  
  SONY PICTURES ANIMATION INC 

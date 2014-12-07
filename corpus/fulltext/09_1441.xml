@@ -3,10 +3,10 @@
 <name>Australian Competition and Consumer Commission v Clarion Marketing Pty Ltd [2009] FCA 1441 (4 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1441.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trade promotion involving a scratch card competition promoting the respondent's mobile phone content service</catchphrase>
-<catchphrase "id=c1">whether respondent engaged in misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c2">whether the respondent contravened s 52, s 53(e) or s 53(g) of the trade practices act 1974 (cth).</catchphrase>
-<catchphrase "id=c3">trade practices</catchphrase>
+<catchphrase id="c0">trade promotion involving a scratch card competition promoting the respondent's mobile phone content service</catchphrase>
+<catchphrase id="c1">whether respondent engaged in misleading and deceptive conduct</catchphrase>
+<catchphrase id="c2">whether the respondent contravened s 52, s 53(e) or s 53(g) of the trade practices act 1974 (cth).</catchphrase>
+<catchphrase id="c3">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -168,14 +168,14 @@ In the case of the red card, these same words also appear but are followed by th
  The general principles to be applied in determining whether a corporation contravenes s 52 are well settled.</sentence>
 <sentence id="s88">I approach this case having regard to the following principles.</sentence>
 <sentence id="s89">A corporation may be found to have contravened s 52 even though it lacked any intention to mislead or deceive: Hornsby Building Information Centre Pty Ltd v Sydney Building Information Centre Ltd [1978] HCA 11 ; (1978) 140 CLR 216 at 228 per Stephen J.</sentence>
-<sentence id="s90">But if it is established that the corporation did intend to mislead, a Court may be more likely to find that the conduct complained of was misleading: Campomar Sociedad Limitada &amp; Anor v Nike International Limited &amp; Anor [2000] HCA 12 ; (2000) 202 CLR 45 at 63.</sentence>
+<sentence id="s90">But if it is established that the corporation did intend to mislead, a Court may be more likely to find that the conduct complained of was misleading: Campomar Sociedad Limitada &amp;amp; Anor v Nike International Limited &amp;amp; Anor [2000] HCA 12 ; (2000) 202 CLR 45 at 63.</sentence>
 <sentence id="s91">Conduct may be misleading or deceptive if it induces error but it is not sufficient merely to show that it may have led to confusion or caused people to wonder: Parkdale Custom Built Furniture Proprietary Limited v Puxu Proprietary Limited [1982] HCA 44 ; (1982) 149 CLR 191 at 198 per Gibbs CJ.</sentence>
 <sentence id="s92">In order to establish that conduct is misleading or likely to mislead it is usually necessary to show that it conveys, in all the circumstances of the case, a misrepresentation: cf.</sentence>
 <sentence id="s93">Taco Co of Australia Inc v Taco Bell Pty Ltd [1982] FCA 136 ; (1982) 42 ALR 177 at 202 per Deane and Fitzgerald JJ; Henjo Investments Pty Ltd v Collins Marrickville Pty Ltd (No.</sentence>
 <sentence id="s94">1) [1988] FCA 40 ; (1988) 39 FCR 546 at 555 per Lockhart J.</sentence>
 <sentence id="s95">Evidence that some people may have been misled is not essential but it is admissible and may be persuasive if given: Taco Co of Australia Inc v Taco Bell Pty Ltd [1982] FCA 136 ; (1982) 42 ALR 177 at 202 per Deane and Fitzgerald JJ.</sentence>
 <sentence id="s96">In the present case the representations complained of are alleged to have been made to the general public or a broad cross-section thereof.</sentence>
-<sentence id="s97">In Campomar Sociedad Limitada &amp; Anor v Nike International Limited &amp; Anor [2000] HCA 12 ; (2000) 202 CLR 45 , the High Court stated at 84-85: It is in these cases of representations to the public, of which the first appeal is one, that there enter the "ordinary" [the phrase "ordinary purchaser" was used by Mason J in Puxu [1982] HCA 44 ; (1982) 149 CLR 191 at 210] or "reasonable" [the term used by Gibbs CJ in Puxu [1982] HCA 44 ; (1982) 149 CLR 191 at 199] members of the class of prospective purchasers.</sentence>
+<sentence id="s97">In Campomar Sociedad Limitada &amp;amp; Anor v Nike International Limited &amp;amp; Anor [2000] HCA 12 ; (2000) 202 CLR 45 , the High Court stated at 84-85: It is in these cases of representations to the public, of which the first appeal is one, that there enter the "ordinary" [the phrase "ordinary purchaser" was used by Mason J in Puxu [1982] HCA 44 ; (1982) 149 CLR 191 at 210] or "reasonable" [the term used by Gibbs CJ in Puxu [1982] HCA 44 ; (1982) 149 CLR 191 at 199] members of the class of prospective purchasers.</sentence>
 <sentence id="s98">Although a class of consumers may be expected to include a wide range of persons, in isolating the "ordinary" or "reasonable" members of that class, there is an objective attribution of certain characteristics.</sentence>
 <sentence id="s99">Thus, in Puxu [(1982) [1982] HCA 44 ; 149 CLR 191 at 199], Gibbs CJ determined that the legislation did not impose burdens which operated for the benefit of persons "who fail[ed] to take reasonable care of their own interests".</sentence>
 <sentence id="s100">In the same case, Mason J concluded that, whilst it was unlikely that an ordinary purchaser would notice the very slight differences in the appearance of the two items of furniture in question, nevertheless such a prospective purchaser reasonably could be expected to attempt to ascertain the brand name of the particular type of furniture on offer [ Puxu [1982] HCA 44 ; (1982) 149 CLR 191 at 210-211].</sentence>
@@ -250,7 +250,7 @@ In the case of the red card, these same words also appear but are followed by th
 <sentence id="s167">It follows that most people who claimed their prize were required to incur subscription and other costs in order to do so which substantially exceeded the value of the prize they had won.</sentence>
 <sentence id="s168">QUALIFYING STATEMENTS 
  The various "MATCH 3 TO WIN" and similar statements appearing on the scratch cards must, of course, be read in the context of the other statements appearing on them including the qualifying statements to which I have referred.</sentence>
-<sentence id="s169">In Medical Benefits Funds of Australia Ltd &amp; Anor v Cassidy &amp; Anor [2003] FCAFC 289 ; (2003) 135 FCR 1 , Stone J (with whom Moore and Mansfield JJ agreed on this issue) rejected a submission by the Appellant in that case that various written disclosures appearing in billboard advertisements appropriately qualified more prominent statements appearing upon them which would otherwise convey a misleading representation.</sentence>
+<sentence id="s169">In Medical Benefits Funds of Australia Ltd &amp;amp; Anor v Cassidy &amp;amp; Anor [2003] FCAFC 289 ; (2003) 135 FCR 1 , Stone J (with whom Moore and Mansfield JJ agreed on this issue) rejected a submission by the Appellant in that case that various written disclosures appearing in billboard advertisements appropriately qualified more prominent statements appearing upon them which would otherwise convey a misleading representation.</sentence>
 <sentence id="s170">Her Honour said at [35]-[37]: 
  
  [35] MBF submits that irrespective of the impression conveyed by the main part of the advertisements the written disclaimers were sufficiently prominent to bring the obstetrics waiting period to the attention of a person viewing the advertisements.</sentence>
@@ -383,7 +383,7 @@ In the case of the red card, these same words also appear but are followed by th
 <sentence id="s270">The Applicant seeks orders under s 86C of the Act requiring the Respondent to publish, at the Respondent's expense, advertisements of two types.</sentence>
 <sentence id="s271">First, the Applicant says that the Respondent should be required to send a corrective advertisement via SMS to all current subscribers to the Moby Planet service who took up their initial subscription as a consequence of their participation in the competition.</sentence>
 <sentence id="s272">Secondly, the Applicant says that the Respondent should also be required to publish corrective advertisements in the newspapers and magazines in which the Respondent caused the scratch cards to be included in the first place.</sentence>
-<sentence id="s273">In deciding what relief, if any, should be granted under s 86C I am guided by the observations of the Full Court in Medical Benefits Funds of Australia Ltd &amp; Anor v Cassidy &amp; Anor [2003] FCAFC 289 ; (2003) 135 FCR 1.</sentence>
+<sentence id="s273">In deciding what relief, if any, should be granted under s 86C I am guided by the observations of the Full Court in Medical Benefits Funds of Australia Ltd &amp;amp; Anor v Cassidy &amp;amp; Anor [2003] FCAFC 289 ; (2003) 135 FCR 1.</sentence>
 <sentence id="s274">I refer in particular to the Reasons for Judgment of Stone J (with which Moore and Mansfield JJ agreed) at para [45]-[58] and the authorities referred to by her Honour in those paragraphs.</sentence>
 <sentence id="s275">As I have already found, as at 15 September 2009 a total of 114,418 people had subscribed to the Moby Planet service as a consequence of their participation in the competition.</sentence>
 <sentence id="s276">Only 3,561 people had continued with their subscriptions up to that date.</sentence>
@@ -393,7 +393,7 @@ In the case of the red card, these same words also appear but are followed by th
 <sentence id="s280">I am not satisfied this is correct.</sentence>
 <sentence id="s281">I think the more significant question is what to do in relation to the large number of people who opted out soon after taking out their initial subscription.</sentence>
 <sentence id="s282">In my view many of these people may be entitled to either a refund or compensation from the Respondent on the ground that they were induced to take out their initial subscription by the Respondent's misleading and deceptive conduct.</sentence>
-<sentence id="s283">As Stone J accepted in Medical Benefits Funds of Australia Ltd &amp; Anor v Cassidy &amp; Anor [2003] FCAFC 289 ; (2003) 135 FCR 1 at para [59] in the context of the orders for corrective advertising which had been sought in that case: 
+<sentence id="s283">As Stone J accepted in Medical Benefits Funds of Australia Ltd &amp;amp; Anor v Cassidy &amp;amp; Anor [2003] FCAFC 289 ; (2003) 135 FCR 1 at para [59] in the context of the orders for corrective advertising which had been sought in that case: 
  
  ... there is utility in informing those people who were misled (be the group large or small) of the true position and thus putting them in the position to assess any rights they may have as a result.</sentence>
 <sentence id="s284">

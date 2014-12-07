@@ -3,13 +3,13 @@
 <name>Pivotel Satellite Pty Limited v Optus Mobile Pty Limited [2009] FCA 1601 (23 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1601.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for an injunction</catchphrase>
-<catchphrase "id=c1">respondents blocked connectivity between the respondents' network and the applicant's network</catchphrase>
-<catchphrase "id=c2">alleged anti-competitive conduct</catchphrase>
-<catchphrase "id=c3">whether serious question to be tried</catchphrase>
-<catchphrase "id=c4">where balance of convenience lies</catchphrase>
-<catchphrase "id=c5">adequacy of undertaking as to damages</catchphrase>
-<catchphrase "id=c6">trade practices</catchphrase>
+<catchphrase id="c0">application for an injunction</catchphrase>
+<catchphrase id="c1">respondents blocked connectivity between the respondents' network and the applicant's network</catchphrase>
+<catchphrase id="c2">alleged anti-competitive conduct</catchphrase>
+<catchphrase id="c3">whether serious question to be tried</catchphrase>
+<catchphrase id="c4">where balance of convenience lies</catchphrase>
+<catchphrase id="c5">adequacy of undertaking as to damages</catchphrase>
+<catchphrase id="c6">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -201,7 +201,7 @@
  
 Dated: 23 December 2009
  
- Counsel for the Applicant: Mr F Kun&ccedil; SC with Mr C N Bova 
+ Counsel for the Applicant: Mr F Kun&amp;ccedil; SC with Mr C N Bova 
  
  Counsel for the Respondents: Mr J Stoljar SC with Mr J A C Potts 
  

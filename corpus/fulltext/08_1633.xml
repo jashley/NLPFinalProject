@@ -3,9 +3,9 @@
 <name>Bennell v State of Western Australia [2008] FCA 1633 (5 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1633.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">a new body was recognised as the representative body for an area</catchphrase>
-<catchphrase "id=c1">whether the former representative body for the area retained a sufficient interest to remain a party to the proceeding in respect of that area</catchphrase>
-<catchphrase "id=c2">native title</catchphrase>
+<catchphrase id="c0">a new body was recognised as the representative body for an area</catchphrase>
+<catchphrase id="c1">whether the former representative body for the area retained a sufficient interest to remain a party to the proceeding in respect of that area</catchphrase>
+<catchphrase id="c2">native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -179,7 +179,7 @@ Mr M McKenna
  
  Solicitor for Western Australian Fishing Industry Council: 
 
-Hunt &amp; Humphry 
+Hunt &amp;amp; Humphry 
  
  Counsel for Mining and Other Interests: 
 Mr S Hardcastle 

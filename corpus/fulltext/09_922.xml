@@ -3,12 +3,12 @@
 <name>Heng V (Australia) Pty Ltd v Wang [2009] FCA 922 (20 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/922.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">case-management</catchphrase>
-<catchphrase "id=c1">judgment in default of compliance with orders for discovery and inspection of documents</catchphrase>
-<catchphrase "id=c2">persistent refusal to make documents available for inspection</catchphrase>
-<catchphrase "id=c3">whether principle that a party should not be made to suffer a judgment for a large sum of money without being entitled to a trial and judgment of all of the issues in a proceeding to which that person is a party</catchphrase>
-<catchphrase "id=c4">relevance of case-management powers and principles</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">case-management</catchphrase>
+<catchphrase id="c1">judgment in default of compliance with orders for discovery and inspection of documents</catchphrase>
+<catchphrase id="c2">persistent refusal to make documents available for inspection</catchphrase>
+<catchphrase id="c3">whether principle that a party should not be made to suffer a judgment for a large sum of money without being entitled to a trial and judgment of all of the issues in a proceeding to which that person is a party</catchphrase>
+<catchphrase id="c4">relevance of case-management powers and principles</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -485,7 +485,7 @@ Dated: 20 August 2009
  
  Counsel for the Respondent: Mr M Harris 
  
- Solicitor for the Respondent: IMPEX Lawyers &amp; Advisors 
+ Solicitor for the Respondent: IMPEX Lawyers &amp;amp; Advisors 
  Date of Hearing: 16 April 2009 
  
  Date of Judgment: 20 August 2009 

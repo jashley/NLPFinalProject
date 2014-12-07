@@ -3,17 +3,17 @@
 <name>Australian Securities and Investments Commission, in the matter of Storm Financial Limited (Receivers and Managers Appointed) (Administrators Appointed) v Storm Financial Limited (Receivers and Managers Appointed) (Administrators Appointed) [2009] FCA 269 (26 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/269.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by asic to wind-up corporation either on just and equitable ground or in insolvency and appoint official liquidators</catchphrase>
-<catchphrase "id=c1">application to adjourn that application pending meeting of creditors</catchphrase>
-<catchphrase "id=c2">application to remove allegedly misleading memorandum to creditors on the deed of company arrangement proposal for that meeting on personal website of two directors</catchphrase>
-<catchphrase "id=c3">whether court satisfied that it was in the interests of creditors to continue in administration rather than to wind-up the corporation</catchphrase>
-<catchphrase "id=c4">whether deed of company arrangement should be proposed to creditors' meeting</catchphrase>
-<catchphrase "id=c5">court not satisfied adjournment of winding up application in the interests of creditors</catchphrase>
-<catchphrase "id=c6">order that company be wound up on just and equitable ground</catchphrase>
-<catchphrase "id=c7">determination of other applications in respect of administrators' reports to creditors unnecessary</catchphrase>
-<catchphrase "id=c8">corporations act 2001 (cth) ss 435a , 435c , 439a , 439c , 440a , 440d , 445d , 447a , 447b , 459a , 459p , 461 , 462 , 464 , 467 , 513</catchphrase>
-<catchphrase "id=c9">corporations</catchphrase>
-<catchphrase "id=c10">statutes</catchphrase>
+<catchphrase id="c0">application by asic to wind-up corporation either on just and equitable ground or in insolvency and appoint official liquidators</catchphrase>
+<catchphrase id="c1">application to adjourn that application pending meeting of creditors</catchphrase>
+<catchphrase id="c2">application to remove allegedly misleading memorandum to creditors on the deed of company arrangement proposal for that meeting on personal website of two directors</catchphrase>
+<catchphrase id="c3">whether court satisfied that it was in the interests of creditors to continue in administration rather than to wind-up the corporation</catchphrase>
+<catchphrase id="c4">whether deed of company arrangement should be proposed to creditors' meeting</catchphrase>
+<catchphrase id="c5">court not satisfied adjournment of winding up application in the interests of creditors</catchphrase>
+<catchphrase id="c6">order that company be wound up on just and equitable ground</catchphrase>
+<catchphrase id="c7">determination of other applications in respect of administrators' reports to creditors unnecessary</catchphrase>
+<catchphrase id="c8">corporations act 2001 (cth) ss 435a , 435c , 439a , 439c , 440a , 440d , 445d , 447a , 447b , 459a , 459p , 461 , 462 , 464 , 467 , 513</catchphrase>
+<catchphrase id="c9">corporations</catchphrase>
+<catchphrase id="c10">statutes</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -37,7 +37,7 @@
  Storm Financial was placed in administration under Pt 5.3A of the Act on 8 January 2009.</sentence>
 <sentence id="s11">Messrs I Worrell and R Khatri were appointed as administrators.</sentence>
 <sentence id="s12">A convenient background summary, which also details the opinions they have come to form, is offered by the administrators in the report which they prepared for the purposes of s 439A(4) of the Act.</sentence>
-<sentence id="s13">Though lengthy, it is desirable, including in light of the various applications made by Mr and Mrs Cassimatis, to set out the following excerpt from that report: Overview &amp; Statutory Information 
+<sentence id="s13">Though lengthy, it is desirable, including in light of the various applications made by Mr and Mrs Cassimatis, to set out the following excerpt from that report: Overview &amp;amp; Statutory Information 
  
 Storm was incorporated on 23 May 1994 and carried on the business of financial planning from its headquarters in Townsville and from other centres along the east coast of Australia.</sentence>
 <sentence id="s14">The company is the holder of an Australian Financial Services Licence.</sentence>
@@ -205,7 +205,7 @@ The debt claimed by the Australian Taxation Office comprises of income tax payab
 <sentence id="s101">On 11 February 2009 and at a time after the Australian Securities and Investments Commission (ASIC) had intervened in the proceeding, on the application of the administrators and for reasons which I then published ( Worrell; In the matter of Storm Financial Limited (Receivers and Managers Appointed) (Administrators Appointed) [2009] FCA 70) I ordered, inter alia : In the result, there was no application for any further extension of the convening period.</sentence>
 <sentence id="s102">As a result, the administrators came to give notice for the holding on 23 March 2009 of the creditors' meeting.</sentence>
 <sentence id="s103">Since the report was prepared and as foreshadowed in it, the administrators have made application for the winding up of Storm Financial's subsidiary, Victorian Families.</sentence>
-<sentence id="s104">On 18 March 2009 I appointed them as the provisional liquidators of that company ( Storm Financial Limited (Receivers and Managers Appointed) (Administrators Appointed) v Victorian Families Retirement &amp; Investment Group Pty Ltd QUD 73 of 2009).</sentence>
+<sentence id="s104">On 18 March 2009 I appointed them as the provisional liquidators of that company ( Storm Financial Limited (Receivers and Managers Appointed) (Administrators Appointed) v Victorian Families Retirement &amp;amp; Investment Group Pty Ltd QUD 73 of 2009).</sentence>
 <sentence id="s105">Having been provided, for its consideration, with a copy of the DOCA in the form reported on by the administrators, the ASIC was not initially disposed to seek the winding up of Storm Financial.</sentence>
 <sentence id="s106">It was offered an opportunity so to do by the Court prior to the dispatch by the administrators of notices calling the meeting of creditors for 23 March 2009.</sentence>
 <sentence id="s107">What avowedly caused ASIC later to change its mind and to seek the winding up of Storm Financial were a document entitled "A Simple English explanation of the DOCA" and "Storm Financial Limited --- The Simple Solution" (the Information Memorandum) and other commentary concerning the DOCA published by Mr Emmanuel Cassimatis and his wife Mrs Julie Cassimatis on a web site maintained by them.</sentence>
@@ -256,7 +256,7 @@ The relief sought by Mr and Mrs Cassimatis detailed in para 15(b) was predicated
 <sentence id="s144">No one sought to challenge that opinion.</sentence>
 <sentence id="s145">I am, to say the least, satisfied that there is a prima facie case that Storm Financial is presently insolvent.</sentence>
 <sentence id="s146">The impact, in part, of a requirement for leave notwithstanding, it remains the case that the Court at least has before it an application brought as of right for the winding up of the company on the just and equitable ground.</sentence>
-<sentence id="s147">Irrespective of the ground upon which it is brought, s 440D does not give rise to any separate requirement for a grant of leave to ASIC in order for it to bring the application: Australian Prudential Regulation Authority v Rural &amp; General Insurance Ltd [2004] FCA 185 ; (2004) 136 FCR 149.</sentence>
+<sentence id="s147">Irrespective of the ground upon which it is brought, s 440D does not give rise to any separate requirement for a grant of leave to ASIC in order for it to bring the application: Australian Prudential Regulation Authority v Rural &amp;amp; General Insurance Ltd [2004] FCA 185 ; (2004) 136 FCR 149.</sentence>
 <sentence id="s148">That being so, the first issue which necessarily arises is whether ASIC's winding up application should be adjourned?</sentence>
 <sentence id="s149">Should the winding up application be adjourned?</sentence>
 <sentence id="s150">Subsection 440A(2) of the Act provides: 
@@ -378,7 +378,7 @@ Again, I respectfully agree with his Honour.</sentence>
 <sentence id="s214">The condition precedent states, in effect, that the sum of $2 million to be paid in under the proposal will only be paid if the current injunction over those funds (which was obtained by the ASIC) expires or is removed and the CBA takes not step to prevent the monies being paid to the Deed Administrators.</sentence>
 <sentence id="s215">In the event that the condition precedent is fulfilled (within up to 120 days), that is the injunction expires or is removed and the CBA takes no action, again on the basis of legal advice received the Administrators believe that it is likely that a liquidator of storm would be able to recover the $2 million for the benefit of creditors, and to do so without agreeing to conditions such as are contained in the proposal.</sentence>
 <sentence id="s216">The proposal therefore provides no extra benefit in terms of the payment of the $2 million.</sentence>
-<sentence id="s217">In the event that the proposal is rejected and Storm is placed into liquidation priority employee entitlements will be paid by the Receivers or through the federal government funded General Employee Entitlement &amp; Redundancy Scheme (GEERS).</sentence>
+<sentence id="s217">In the event that the proposal is rejected and Storm is placed into liquidation priority employee entitlements will be paid by the Receivers or through the federal government funded General Employee Entitlement &amp;amp; Redundancy Scheme (GEERS).</sentence>
 <sentence id="s218">The proposal therefore provides no additional benefit to employees.</sentence>
 <sentence id="s219">Although the Administrators agree that a Public Examination of all relevant parties should be carried out, and agree that any decision to commence or continue litigation should be based primarily on evidence gathered at such Public Examination, they are of the view that such a process can be carried out, at least as efficiently, by a liquidator as a Deed Administrator.</sentence>
 <sentence id="s220">In the vent that Storm is placed into liquidation it is likely that the liquidators will be able to seek recovery for the payment of $444,711 paid on the 22 of December 2008 to the Westpac Bank, from Emmanuel and or Julie Cassimatis.</sentence>
@@ -472,7 +472,7 @@ There is, with respect, much force in this statement.</sentence>
 <sentence id="s257">The views expressed in the administrators' report under the heading "Dividend Possibilities" strike me as a fair assessment in the prevailing circumstances, which include a necessarily compressed timeframe for reporting.</sentence>
 <sentence id="s258">For just the reasons Mr Worrell expresses in the passage quoted, I doubt, for example, whether, had I had the benefit of Mr Hamilton's opinion at an earlier stage, I should have been disposed further to extend the convening period so as to allow the administrators to undertake the work he describes.</sentence>
 <sentence id="s259">One way of highlighting the difficulties faced by the administrators in assessing dividend possibilities under the DOCA and the weight one gives the DOCA proposal when considering whether it is in the interests of creditors to allow the administration to proceed is by a consideration of its centrepiece, "the DOCA sum".</sentence>
-<sentence id="s260">As defined, this is a sum of $2 million which is to be advanced by Emmanuel Cassimatis &amp; Associates Pty Ltd (ECA) to the deed administrators (to be the present administrators) from account no 35 - 0685 with Westpac Banking Corporation.</sentence>
+<sentence id="s260">As defined, this is a sum of $2 million which is to be advanced by Emmanuel Cassimatis &amp;amp; Associates Pty Ltd (ECA) to the deed administrators (to be the present administrators) from account no 35 - 0685 with Westpac Banking Corporation.</sentence>
 <sentence id="s261">ECA is a company controlled by Mr and Mrs Cassimatis.</sentence>
 <sentence id="s262">It is common ground that the DOCA sum is the subject of litigation in the Supreme Court of Queensland --- originating application No.</sentence>
 <sentence id="s263">1020 of 2009 (See Ex 3).</sentence>
@@ -758,7 +758,7 @@ Later in that judgement (at [49]), his Honour observed in relation to the questi
 <sentence id="s421">As to the foregoing identified features of the Information Memorandum, and as was submitted on behalf of ASIC, the following passage from the joint judgement of Jacobson and Bennett JJ in National Exchange [2004] FCAFC 90 ; (2004) 49 ACSR 369 at 381-382, [55] to [58] is relevant by analogy: Where the disparity between the primary statement and the true position is great it is necessary for the maker of the statement to draw the attention of the reader to the true position in the clearest possible way.</sentence>
 <sentence id="s422">
  An analogy is to be found in cases dealing with exemption clauses.</sentence>
-<sentence id="s423">In Curtis v Chemical Cleaning &amp; Dyeing Co [1951] 1 KB 805 at 809, Denning LJ said: 
+<sentence id="s423">In Curtis v Chemical Cleaning &amp;amp; Dyeing Co [1951] 1 KB 805 at 809, Denning LJ said: 
  "When one party puts forward a printed form for signature, failure by him to draw attention to the existence or extent of the exemption clause may in some circumstances convey the impression that there is no exemption at all, or at any rate not so wide an exemption as that which is in fact contained in the document.</sentence>
 <sentence id="s424">" 
  
@@ -829,7 +829,7 @@ Later in that judgement (at [49]), his Honour observed in relation to the questi
 <sentence id="s476">There is a public interest to consider in relation to that residual discretion.</sentence>
 <sentence id="s477">Mrs Cassimatis has deposed to the considerable publicity that has attended the cessation of Storm Financial's trading and its passage into and thus far through administration.</sentence>
 <sentence id="s478">Publicity examples are also evidence in the exhibits to Mr Russell's affidavit filed on 20 March 2009 (Exhibit SLR2, pp 527 and 528).</sentence>
-<sentence id="s479">Some of that publicity has, it seems, been generated by her and her husband, some by the Commonwealth Bank, some by another firm of solicitors, Messrs Slater &amp; Gordon (who apparently act for some investor creditors and seek to act for more of them), some by or on behalf of those appointed by the receivers and managers and yet further, some has been generated gratuitously by commentators and other third parties.</sentence>
+<sentence id="s479">Some of that publicity has, it seems, been generated by her and her husband, some by the Commonwealth Bank, some by another firm of solicitors, Messrs Slater &amp;amp; Gordon (who apparently act for some investor creditors and seek to act for more of them), some by or on behalf of those appointed by the receivers and managers and yet further, some has been generated gratuitously by commentators and other third parties.</sentence>
 <sentence id="s480">Of course, the interest of the public is not synonymous with the public interest.</sentence>
 <sentence id="s481">The administrators' report shows that there is a large body of creditors with an aggregate of proofs of debt received by them (as at 13 March 2009) being $88,320.369.62.</sentence>
 <sentence id="s482">As noted, it is accepted that Storm Financial is presently insolvent.</sentence>
@@ -908,7 +908,7 @@ Dated: 26 March 2009
  
  Counsel for the Receivers and Managers of the First Defendant: Mr GA Thompson SC 
  
- Solicitor for the Administrators of the First Defendant: Tucker &amp; Cowen Solicitors 
+ Solicitor for the Administrators of the First Defendant: Tucker &amp;amp; Cowen Solicitors 
  
  Counsel for the Second and Third Defendants: Mr P Dunning SC 
  

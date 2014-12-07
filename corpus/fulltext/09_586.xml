@@ -3,13 +3,13 @@
 <name>Cao v Minister for Immigration and Citizenship [2009] FCA 586 (18 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/586.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal</catchphrase>
-<catchphrase "id=c1">application for review lodged out of time in federal magistrates court</catchphrase>
-<catchphrase "id=c2">whether appellant properly notified of decision of refugee review tribunal</catchphrase>
-<catchphrase "id=c3">deemed receipt taken to have occurred seven days after date of letter</catchphrase>
-<catchphrase "id=c4">requirement for letter to be sent within three days of date of letter for time to run under migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c5">whether delegate must state in notification letter three day requirement</catchphrase>
-<catchphrase "id=c6">migration</catchphrase>
+<catchphrase id="c0">appeal</catchphrase>
+<catchphrase id="c1">application for review lodged out of time in federal magistrates court</catchphrase>
+<catchphrase id="c2">whether appellant properly notified of decision of refugee review tribunal</catchphrase>
+<catchphrase id="c3">deemed receipt taken to have occurred seven days after date of letter</catchphrase>
+<catchphrase id="c4">requirement for letter to be sent within three days of date of letter for time to run under migration act 1958 (cth)</catchphrase>
+<catchphrase id="c5">whether delegate must state in notification letter three day requirement</catchphrase>
+<catchphrase id="c6">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -103,7 +103,7 @@
 <sentence id="s54">Ground 2
  The appellant sought leave to argue the following ground which had not been raised before the Federal Magistrate.</sentence>
 <sentence id="s55">The second ground was that the decision of the Tribunal was attended by jurisdictional error as the delegate failed to comply with the requirements of s 66(2)(d)(ii) as the delegate's decision notice did not correctly state the time in which the application for review might be made by the appellant for the reason that the delegate's letter dated 6 October 2007 incorrectly referred to "receive this letter" and "notice is received" when the letter should have referred respectively to "taken to have received this letter" and "notice is taken to be received.</sentence>
-<sentence id="s56">" In Xie v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] FCAFC 172 , the Full Court held that the deemed receipt provisions in s 494C(4) apply to the notification referred to in s 347(1)(b) and reg 4.10(1)(a).</sentence>
+<sentence id="s56">" In Xie v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2005] FCAFC 172 , the Full Court held that the deemed receipt provisions in s 494C(4) apply to the notification referred to in s 347(1)(b) and reg 4.10(1)(a).</sentence>
 <sentence id="s57">The result is that reg 4.10(1)(a) operates so that the period starts when the applicant receives notice in the sense that the applicant is taken to have received notice by operation of s 494C(4).</sentence>
 <sentence id="s58">It follows, so the appellant sought to argue, that the letter dated 6 October 2007 was incorrect in stating: 
  If the applicant decides to lodge a review application, they must do so within 21 calendar days after you receive this letter.</sentence>

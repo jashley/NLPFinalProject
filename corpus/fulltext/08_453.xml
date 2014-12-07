@@ -3,11 +3,11 @@
 <name>St George Bank Limited v Commissioner of Taxation [2008] FCA 453 (11 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/453.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">income tax</catchphrase>
-<catchphrase "id=c1">deductibility of interest payments paid under a debenture in connection with a capital raising by a bank to improve its capital adequacy ratios</catchphrase>
-<catchphrase "id=c2">whether a valid election made under transitional provisions to invoke the debt/equity provisions of division 974 of the income tax assessment act 1997</catchphrase>
-<catchphrase "id=c3">consideration of the factors why the court would not engage in an expression of views about division 974 in the absence of the necessity to do so</catchphrase>
-<catchphrase "id=c4">taxation</catchphrase>
+<catchphrase id="c0">income tax</catchphrase>
+<catchphrase id="c1">deductibility of interest payments paid under a debenture in connection with a capital raising by a bank to improve its capital adequacy ratios</catchphrase>
+<catchphrase id="c2">whether a valid election made under transitional provisions to invoke the debt/equity provisions of division 974 of the income tax assessment act 1997</catchphrase>
+<catchphrase id="c3">consideration of the factors why the court would not engage in an expression of views about division 974 in the absence of the necessity to do so</catchphrase>
+<catchphrase id="c4">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -100,10 +100,10 @@
 <sentence id="s54">The essential characteristics of capital are that it should: 
  
  
- &#8226; represent a permanent and unrestricted commitment of funds; 
- &#8226; be freely available to absorb losses and thereby enable a bank to keep operating whilst any problems are resolved; 
- &#8226; not impose any unavoidable charge on the earnings of the bank; and 
- &#8226; rank below the claims of depositors and other creditors in the event of the winding-up of a bank.</sentence>
+ &amp;#8226; represent a permanent and unrestricted commitment of funds; 
+ &amp;#8226; be freely available to absorb losses and thereby enable a bank to keep operating whilst any problems are resolved; 
+ &amp;#8226; not impose any unavoidable charge on the earnings of the bank; and 
+ &amp;#8226; rank below the claims of depositors and other creditors in the event of the winding-up of a bank.</sentence>
 <sentence id="s55">
  
 
@@ -197,19 +197,19 @@
 <sentence id="s102">" He made this clear in a presentation to the Board of SGB on 24 March 1997.</sentence>
 <sentence id="s103">The presentation identified the objectives of the "Proposed Capital Raisings" as follows:
  
-&#8226; To restore capital adequacy to above 10% of risk weighted assets ("RWA") 
+&amp;#8226; To restore capital adequacy to above 10% of risk weighted assets ("RWA") 
  
-&#8226; To restore Tier One capital to above 7% with the remainder being Tier Two 
+&amp;#8226; To restore Tier One capital to above 7% with the remainder being Tier Two 
  
-&#8226; To minimise dilution of EPS [earnings per share] and ROE [return on equity]
+&amp;#8226; To minimise dilution of EPS [earnings per share] and ROE [return on equity]
  
-&#8226; To minimise usage of franking credits 
+&amp;#8226; To minimise usage of franking credits 
  
-&#8226; To minimise underwriting and issue costs 
+&amp;#8226; To minimise underwriting and issue costs 
  
-&#8226; To boost institutional and offshore investment 
+&amp;#8226; To boost institutional and offshore investment 
  
-&#8226; To avoid need for shareholder or ASX approval 
+&amp;#8226; To avoid need for shareholder or ASX approval 
  
 
  
@@ -385,9 +385,9 @@ The fifth issue relevant here was the debt to be issued if the Series C Capital 
  
 38 On 30 May 1997, the RBA gave approval, conditional upon RBA receiving:
  
-&#8226; an opinion from a US legal firm of standing that the arrangements whereby redeemed funds will flow into the next issue of securities will stand up in all circumstances, including the bankruptcy of the depositary; and 
+&amp;#8226; an opinion from a US legal firm of standing that the arrangements whereby redeemed funds will flow into the next issue of securities will stand up in all circumstances, including the bankruptcy of the depositary; and 
  
-&#8226; an assurance that the directors of St. George Bank have discretionary power to issue a blocking notice.</sentence>
+&amp;#8226; an assurance that the directors of St. George Bank have discretionary power to issue a blocking notice.</sentence>
 <sentence id="s165">
  
 
@@ -536,7 +536,7 @@ These obligations reflected the limited and confined role of LLC --- to be the v
 53 There was no issue about s 8-1(1).</sentence>
 <sentence id="s259">It should be noted at the outset that this concession by the Commissioner did not provoke an argument on behalf of SGB that this led to the satisfaction of s 8-1(2).</sentence>
 <sentence id="s260">There was no debate or discussion as to the true nature of the "negative limbs" of s 8-1(2) and whether they operate only by way of contradistinction to illustrate what is not included, from the outset, in the "positive limbs" of s 8-1(1), or as true exceptions: Macquarie Finance Ltd v Commissioner of Taxation [2005] FCAFC 205 ; (2005) 146 FCR 77 at [104] : SA Battery Makers Pty Limited v Commissioner of Taxation (1976) 28 FLR 451 at 463; and Parsons, RW Income Tax in Australia (1985, Law Book Co Sydney) at [5.12].</sentence>
-<sentence id="s261">The argument proceeded, in substance, on the basis that s 8-1(2) was a true exception, an approach which has judicial support: Steele v Deputy Commissioner of Taxation (1999) 197 CLR 459 at 468 [24] and John Fairfax &amp; Sons Pty Limited v Commissioner of Taxation [1959] HCA 4 ; (1959) 101 CLR 30 at 34, and which accords more with a plain reading of the text of the statute.</sentence>
+<sentence id="s261">The argument proceeded, in substance, on the basis that s 8-1(2) was a true exception, an approach which has judicial support: Steele v Deputy Commissioner of Taxation (1999) 197 CLR 459 at 468 [24] and John Fairfax &amp;amp; Sons Pty Limited v Commissioner of Taxation [1959] HCA 4 ; (1959) 101 CLR 30 at 34, and which accords more with a plain reading of the text of the statute.</sentence>
 <sentence id="s262">54 By and large, the parties were not in disagreement about the governing legal principles.</sentence>
 <sentence id="s263">The disagreement, however, came in the characterisation called for by those principles.</sentence>
 <sentence id="s264">At times, there appeared to be a difference between the parties based on the posited distinctions, first, between legal form and business substance, and secondly, between the loan or non-loan character of the Debenture.</sentence>
@@ -611,7 +611,7 @@ These obligations reflected the limited and confined role of LLC --- to be the v
 <sentence id="s301">59 That the process of characterisation is approached from a practical and business point of view does not provide licence to ignore the legal relationship actually formed by the terms of the transaction.</sentence>
 <sentence id="s302">Subject to considerations of sham (not relevant here) and to considerations that the legal form agreed on may have been varied or may be incomplete (also not relevant here), the process of characterisation, from a practical and business point of view, is one that is directed to the legal rights and obligations created by the parties in their transaction (here, in the constituent documents).</sentence>
 <sentence id="s303">This was made clear in the judgments of Gibbs ACJ and Stephen and Aickin JJ in Federal Commissioner of Taxation v South Australia Battery Makers Pty Ltd [1978] HCA 32 ; (1978) 140 CLR 645 at 659-660 and 662, respectively.</sentence>
-<sentence id="s304">It is also made clear in the reasons of the Full Court in CityLink Melbourne Limited v Commissioner of Taxation [2004] FCAFC 272 ; (2004) 141 FCR 69 at [40] - [45] ; and in the reasons of Hill J (with whom Davies and Heerey JJ agreed) in Australia &amp; New Zealand Savings Bank v Commissioner of Taxation [1992] FCA 493 ; (1993) 42 FCR 535 at 560.</sentence>
+<sentence id="s304">It is also made clear in the reasons of the Full Court in CityLink Melbourne Limited v Commissioner of Taxation [2004] FCAFC 272 ; (2004) 141 FCR 69 at [40] - [45] ; and in the reasons of Hill J (with whom Davies and Heerey JJ agreed) in Australia &amp;amp; New Zealand Savings Bank v Commissioner of Taxation [1992] FCA 493 ; (1993) 42 FCR 535 at 560.</sentence>
 <sentence id="s305">60 Thus, it is not helpful to ascertain the subject matter for characterisation otherwise than by (subject to sham etc) straightforward analysis of the legal relationship of the parties and the ascertainment from that analysis of the legal context and character of the payment.</sentence>
 <sentence id="s306">The conclusions drawn from that analysis will, of course, be relevant to the central task --- assessing, from a practical business point of view, the true business character of the outgoing by reference to the notions of capital and revenue illuminated by Dixon J in Sun Newspapers and Hallstroms Case.</sentence>
 <sentence id="s307">

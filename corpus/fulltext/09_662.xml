@@ -3,14 +3,14 @@
 <name>Inspector-General in Bankruptcy v McGushin [2009] FCA 662 (18 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/662.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal by inspector-general in bankruptcy from decision of tribunal</catchphrase>
-<catchphrase "id=c1">surgeon employed by company</catchphrase>
-<catchphrase "id=c2">tribunal found net income of company was distinct from income paid to respondent</catchphrase>
-<catchphrase "id=c3">held net income of company not income 'derived by the bankrupt' for the purposes of s 139w of the bankruptcy act 1966 (ba)</catchphrase>
-<catchphrase "id=c4">whether tribunal correctly interpreted operation of s 139(l)(a)(vii) ba</catchphrase>
-<catchphrase "id=c5">whether income received by company was income 'derived by' the respondent</catchphrase>
-<catchphrase "id=c6">whether income derived by company could be deemed as being income derived by employee by virtue of s 139m ba</catchphrase>
-<catchphrase "id=c7">bankruptcy</catchphrase>
+<catchphrase id="c0">appeal by inspector-general in bankruptcy from decision of tribunal</catchphrase>
+<catchphrase id="c1">surgeon employed by company</catchphrase>
+<catchphrase id="c2">tribunal found net income of company was distinct from income paid to respondent</catchphrase>
+<catchphrase id="c3">held net income of company not income 'derived by the bankrupt' for the purposes of s 139w of the bankruptcy act 1966 (ba)</catchphrase>
+<catchphrase id="c4">whether tribunal correctly interpreted operation of s 139(l)(a)(vii) ba</catchphrase>
+<catchphrase id="c5">whether income received by company was income 'derived by' the respondent</catchphrase>
+<catchphrase id="c6">whether income derived by company could be deemed as being income derived by employee by virtue of s 139m ba</catchphrase>
+<catchphrase id="c7">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -212,7 +212,7 @@ Whether the income of the Company during the CAP was income that is likely to be
 <sentence id="s105">Section 139L BA in its original form (as considered by the Tribunal in Re Stevenson and Inspector-General in Bankruptcy (1996) 45 ALD 775) was subsequently repealed and substituted by the amendment act.</sentence>
 <sentence id="s106">The new s 139L omitted the phrase 'amount derived by the bankrupt' and in effect replaced it with 'in relation to the bankrupt'.</sentence>
 <sentence id="s107">It was contended that the change in the definition manifested an intention to broaden its application by avoiding the provision being restricted by notions of whether income in the expanded sense was derived or not.</sentence>
-<sentence id="s108">This approach, it was said, was applied in Robbins and Insolvency &amp; Trustee Service Australia, Re; AAT Case 13,585 [1998] 43 ATR 1262.</sentence>
+<sentence id="s108">This approach, it was said, was applied in Robbins and Insolvency &amp;amp; Trustee Service Australia, Re; AAT Case 13,585 [1998] 43 ATR 1262.</sentence>
 <sentence id="s109">However, the decision made by the Tribunal, correctly in my view, was not made in the context of applying s 139L(1)(a)(vii) alone but was made in the context of deciding whether the 'income' within the expanded definition of that term was 'likely to be derived or was derived by the bankrupt' for the purposes of s 139W(1).</sentence>
 <sentence id="s110">In order for 'income' to be assessable within the parameters set down in s 139W(1) BA it must satisfy two tests.</sentence>
 <sentence id="s111">The first is that the income must fall within the broad definition of income as expanded by s 139L BA.</sentence>

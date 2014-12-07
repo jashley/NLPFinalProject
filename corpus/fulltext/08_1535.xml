@@ -3,16 +3,16 @@
 <name>Masliczek v Repatriation Commission [2008] FCA 1535 (22 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1535.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">veterans' entitlements</catchphrase>
-<catchphrase "id=c1">disability pension</catchphrase>
-<catchphrase "id=c2">whether appeal raised a question of law</catchphrase>
-<catchphrase "id=c3">post-traumatic stress disorder</catchphrase>
-<catchphrase "id=c4">question whether veteran experienced a severe traumatic event</catchphrase>
-<catchphrase "id=c5">osteoarthrosis</catchphrase>
-<catchphrase "id=c6">whether disease war-caused</catchphrase>
-<catchphrase "id=c7">statements of principles</catchphrase>
-<catchphrase "id=c8">whether administrative appeals tribunal failed to provide adequate reasons</catchphrase>
-<catchphrase "id=c9">defence and war</catchphrase>
+<catchphrase id="c0">veterans' entitlements</catchphrase>
+<catchphrase id="c1">disability pension</catchphrase>
+<catchphrase id="c2">whether appeal raised a question of law</catchphrase>
+<catchphrase id="c3">post-traumatic stress disorder</catchphrase>
+<catchphrase id="c4">question whether veteran experienced a severe traumatic event</catchphrase>
+<catchphrase id="c5">osteoarthrosis</catchphrase>
+<catchphrase id="c6">whether disease war-caused</catchphrase>
+<catchphrase id="c7">statements of principles</catchphrase>
+<catchphrase id="c8">whether administrative appeals tribunal failed to provide adequate reasons</catchphrase>
+<catchphrase id="c9">defence and war</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,9 +30,9 @@
 <sentence id="s10">Mr Masliczek now purports to appeal to this Court.</sentence>
 <sentence id="s11">3 The issues raised by the appeal are:
  
-&#8226; Whether the Court has jurisdiction to entertain the appeal.</sentence>
-<sentence id="s12">&#8226; If so, whether the Tribunal has erred in law in applying various provisions of the Veterans' Entitlements Act 1986 (Cth) ("the Act ").</sentence>
-<sentence id="s13">&#8226; Whether the Tribunal failed to meet its obligations, under the Administrative Appeals Tribunal Act 1975 (Cth) ("the AAT Act "), to provide reasons for its decision.</sentence>
+&amp;#8226; Whether the Court has jurisdiction to entertain the appeal.</sentence>
+<sentence id="s12">&amp;#8226; If so, whether the Tribunal has erred in law in applying various provisions of the Veterans' Entitlements Act 1986 (Cth) ("the Act ").</sentence>
+<sentence id="s13">&amp;#8226; Whether the Tribunal failed to meet its obligations, under the Administrative Appeals Tribunal Act 1975 (Cth) ("the AAT Act "), to provide reasons for its decision.</sentence>
 <sentence id="s14">THE TRIBUNAL'S DECISION 
  
 4 The Tribunal determined that Mr Masliczek did not suffer from the claimed PTSD or hearing loss.</sentence>

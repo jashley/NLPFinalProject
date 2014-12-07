@@ -3,9 +3,9 @@
 <name>Richards, in the matter of Mount Richon Investments Pty Ltd, v Arnold [2008] FCA 509 (17 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/509.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">error made in respect of the register of members</catchphrase>
-<catchphrase "id=c1">whether necessary for an application for correction of the register of members to have been made</catchphrase>
-<catchphrase "id=c2">corporations</catchphrase>
+<catchphrase id="c0">error made in respect of the register of members</catchphrase>
+<catchphrase id="c1">whether necessary for an application for correction of the register of members to have been made</catchphrase>
+<catchphrase id="c2">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -77,7 +77,7 @@ Dated: 17 April 2008
  
  Counsel for the First Defendant: Mr MJ Bateman 
  
- Solicitor for the First Defendant: Batemans Barristers &amp; Solicitors 
+ Solicitor for the First Defendant: Batemans Barristers &amp;amp; Solicitors 
  
  
  The Second Defendant did not appear.</sentence>

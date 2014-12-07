@@ -3,23 +3,23 @@
 <name>Ann Street Mezzanine Pty Ltd (in liq) v Beck [2009] FCA 333 (9 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/333.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">winding up</catchphrase>
-<catchphrase "id=c1">proof of insolvency</catchphrase>
-<catchphrase "id=c2">necessary to establish insolvency both when application is filed and at the date of hearing</catchphrase>
-<catchphrase "id=c3">cross-claim alleging that a company was solvent</catchphrase>
-<catchphrase "id=c4">company previously wound up in insolvency</catchphrase>
-<catchphrase "id=c5">application to strike out cross-claim</catchphrase>
-<catchphrase "id=c6">issue estoppel</catchphrase>
-<catchphrase "id=c7">whether prior finding of insolvency creates issue estoppel</catchphrase>
-<catchphrase "id=c8">parties to proceedings</catchphrase>
-<catchphrase "id=c9">deemed parties</catchphrase>
-<catchphrase "id=c10">meaning of privity in interest</catchphrase>
-<catchphrase "id=c11">whether a shareholder is in privity with his corporation</catchphrase>
-<catchphrase "id=c12">abuse of process</catchphrase>
-<catchphrase "id=c13">when an attempt to re-litigate or collaterally attack a finding is an abuse</catchphrase>
-<catchphrase "id=c14">whether special reasons required</catchphrase>
-<catchphrase "id=c15">corporations</catchphrase>
-<catchphrase "id=c16">practice and procedure</catchphrase>
+<catchphrase id="c0">winding up</catchphrase>
+<catchphrase id="c1">proof of insolvency</catchphrase>
+<catchphrase id="c2">necessary to establish insolvency both when application is filed and at the date of hearing</catchphrase>
+<catchphrase id="c3">cross-claim alleging that a company was solvent</catchphrase>
+<catchphrase id="c4">company previously wound up in insolvency</catchphrase>
+<catchphrase id="c5">application to strike out cross-claim</catchphrase>
+<catchphrase id="c6">issue estoppel</catchphrase>
+<catchphrase id="c7">whether prior finding of insolvency creates issue estoppel</catchphrase>
+<catchphrase id="c8">parties to proceedings</catchphrase>
+<catchphrase id="c9">deemed parties</catchphrase>
+<catchphrase id="c10">meaning of privity in interest</catchphrase>
+<catchphrase id="c11">whether a shareholder is in privity with his corporation</catchphrase>
+<catchphrase id="c12">abuse of process</catchphrase>
+<catchphrase id="c13">when an attempt to re-litigate or collaterally attack a finding is an abuse</catchphrase>
+<catchphrase id="c14">whether special reasons required</catchphrase>
+<catchphrase id="c15">corporations</catchphrase>
+<catchphrase id="c16">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -61,8 +61,8 @@
 <sentence id="s35">The argument is that by reason of the doctrine of issue estoppel the cross-claimants are not permitted to contest the judge's findings.</sentence>
 <sentence id="s36">This submission gives rise to the following issues: (a) what must a court decide on a winding up application based on insolvency; (b) what did the judge in fact decide for purposes of making the orders to wind up Ann Street and York Street; and (c) in what circumstances, if at all, is a person entitled to attack findings in proceedings otherwise than by way of appeal?</sentence>
 <sentence id="s37">To deal with the first issue it is necessary to make some reference to the procedure for the winding up of a company.</sentence>
-<sentence id="s38">It has been possible to compulsorily wind up (initially to bankrupt) a company since the Winding Up the Affairs of Joint Stock Companies Act (1844) (7 &amp; 8 Vict c 111).</sentence>
-<sentence id="s39">With the passage of the Winding-Up of Joint Stock Companies Act (1848) (11 &amp; 12 Vict c 45) and the Joint Stock Companies Act (1856) (19 &amp; 20 Vict c 47) the modern procedure was established.</sentence>
+<sentence id="s38">It has been possible to compulsorily wind up (initially to bankrupt) a company since the Winding Up the Affairs of Joint Stock Companies Act (1844) (7 &amp;amp; 8 Vict c 111).</sentence>
+<sentence id="s39">With the passage of the Winding-Up of Joint Stock Companies Act (1848) (11 &amp;amp; 12 Vict c 45) and the Joint Stock Companies Act (1856) (19 &amp;amp; 20 Vict c 47) the modern procedure was established.</sentence>
 <sentence id="s40">A creditor could petition the court (initially the Chancery Court) for a winding up order on several grounds including the inability of the company to pay its debts.</sentence>
 <sentence id="s41">The petition had to allege facts which justified a winding up order: In re Wear Engine Works Company (1874-75) LR 10 Ch App 188, 191.</sentence>
 <sentence id="s42">In the case of a creditors petition this meant the petition was required to state the petitioner was a creditor ( Re Palais Cinema Limited [1918] VLR 113, 117-118) and give particulars of his debt ( In re Wear Engine Works ).</sentence>
@@ -82,13 +82,13 @@
 <sentence id="s56">In Syd Mannix Jacobs JA (with whom Holmes and Moffitt JJA agreed) said (at 790): "It seems to me that, particularly when the winding up commences from the presentation of the petition, if a winding-up order be subsequently made, it is necessary that ... [the] ground for winding-up ... be in existence at the time of presentation".</sentence>
 <sentence id="s57">I accept this to be one reason for the rule.</sentence>
 <sentence id="s58">But, in any event, the rule is the necessary consequence of the requirement that the creditor is required to verify his application, that is, tender evidence of the company's inability to pay its debts, at the time the application is filed.</sentence>
-<sentence id="s59">Comalco Aluminium Ltd v Ohtsu Tyre &amp; Rubber Company (Aust) Pty Ltd (1983) 8 ACLR 330 is an interesting case.</sentence>
+<sentence id="s59">Comalco Aluminium Ltd v Ohtsu Tyre &amp;amp; Rubber Company (Aust) Pty Ltd (1983) 8 ACLR 330 is an interesting case.</sentence>
 <sentence id="s60">The creditor sought to establish proof of the company's insolvency by the company's failure to comply with a statutory demand.</sentence>
 <sentence id="s61">Then, as now, the relevant legislation provided that if a company failed to comply with the demand within three weeks it was deemed to be unable to pay its debts.</sentence>
 <sentence id="s62">But, the relevant three week period had not expired at the time the petition was presented.</sentence>
 <sentence id="s63">McLelland J said (at 331): "[T]he fact of failure to comply with a statutory demand within the three week period may be an evidentiary circumstance, relevant to the question of insolvency at a date prior to the expiration of that period [namely, the date of filing]".</sentence>
 <sentence id="s64">My attention has been drawn by Mr Peters SC, counsel for the cross-claimants, to authorities which, on one view, support the proposition that the only point at which insolvency must be established is at the time of the hearing.</sentence>
-<sentence id="s65">The cases are Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC 459 , 466 ("The question of solvency must be assessed, as the parties agreed, at the date of the hearing"); Ace Contractors &amp; Staff Pty Ltd v Westgarth Development Pty Ltd [1999] FCA 728 at [44] ("The question of solvency must be assessed at the date of the hearing", citing Leslie v Howship Holdings ); Switz Pty Ltd v Glowbind Pty Ltd [2000] NSWSC 222 ; (2000) 18 ACLC 343 at [6] ("It is common ground between the parties that the relevant date at which the question of solvency should be determined is the date of the hearing", also citing Leslie v Howship Holdings Pty Ltd ); Australian Beverage Distributors Pty Ltd v The Redrock Co [2008] NSWSC 3 ; (2008) 26 ACLC 74 at [146] ("The question for the court [on a winding up application] is whether, at the time of the hearing, Redrock was insolvent").</sentence>
+<sentence id="s65">The cases are Leslie v Howship Holdings Pty Ltd (1997) 15 ACLC 459 , 466 ("The question of solvency must be assessed, as the parties agreed, at the date of the hearing"); Ace Contractors &amp;amp; Staff Pty Ltd v Westgarth Development Pty Ltd [1999] FCA 728 at [44] ("The question of solvency must be assessed at the date of the hearing", citing Leslie v Howship Holdings ); Switz Pty Ltd v Glowbind Pty Ltd [2000] NSWSC 222 ; (2000) 18 ACLC 343 at [6] ("It is common ground between the parties that the relevant date at which the question of solvency should be determined is the date of the hearing", also citing Leslie v Howship Holdings Pty Ltd ); Australian Beverage Distributors Pty Ltd v The Redrock Co [2008] NSWSC 3 ; (2008) 26 ACLC 74 at [146] ("The question for the court [on a winding up application] is whether, at the time of the hearing, Redrock was insolvent").</sentence>
 <sentence id="s66">I think Mr Peters makes too much of these cases.</sentence>
 <sentence id="s67">They show that before the discretion to wind up a company will be exercised the creditor must show that the company is insolvent.</sentence>
 <sentence id="s68">I do not, however, read the cases as standing for the additional proposition that that is the only time at which insolvency must be established.</sentence>
@@ -157,7 +157,7 @@
 <sentence id="s131">But the binding effect of the adjudication on the world at large is limited to status.</sentence>
 <sentence id="s132">The judgment is not, special circumstances apart, binding as to the facts upon which it is based, except as between the parties to the winding up proceedings and their privies: Myers v International Trust Co 236 US 64, 73 (1923).</sentence>
 <sentence id="s133">The principle that parties and their privies cannot call into question an issue of fact or law that has been resolved between them in litigation is referred to as estoppel by record or issue estoppel.</sentence>
-<sentence id="s134">In Blair &amp; Perpetual Trustee Co Ltd v Curran (Adams' Will) [1939] HCA 23 ; (1939) 62 CLR 464 , 532 Dixon J explained that issue estoppel as to facts is confined to "those ultimate facts which form the ingredients of the cause of action" and "the actual ground upon which the existence of the right was negatived".</sentence>
+<sentence id="s134">In Blair &amp;amp; Perpetual Trustee Co Ltd v Curran (Adams' Will) [1939] HCA 23 ; (1939) 62 CLR 464 , 532 Dixon J explained that issue estoppel as to facts is confined to "those ultimate facts which form the ingredients of the cause of action" and "the actual ground upon which the existence of the right was negatived".</sentence>
 <sentence id="s135">He went on to say that subsidiary or collateral findings are not covered by the estoppel.</sentence>
 <sentence id="s136">The question here is not whether the findings of insolvency are ultimate findings, for they plainly are.</sentence>
 <sentence id="s137">Rather, the question is who is bound by them.</sentence>
@@ -188,10 +188,10 @@
 <sentence id="s162">Courts in that jurisdiction have not adopted a unified definition of "privity".</sentence>
 <sentence id="s163">Rather, reliance is placed on specific relationships that justify preclusion.</sentence>
 <sentence id="s164">For the most part, the underlying theory is that for a non-party to be precluded he must have had adequate notice of the proceedings, the opportunity to be heard, his rights and interests must have been protected and he must in fact be adequately represented by the parties: Pennington v Snow 471 P 2d 370 , 375-376 (Alaska, 1970).</sentence>
-<sentence id="s165">In other words, a person who is not a party to an action but is so connected with a party by his interest in that litigation, and by his right to participate therein or control the litigation, will be bound by the judgment: 47 American Jurisprudence 2d Judgments, &#167; 593 (2006).</sentence>
+<sentence id="s165">In other words, a person who is not a party to an action but is so connected with a party by his interest in that litigation, and by his right to participate therein or control the litigation, will be bound by the judgment: 47 American Jurisprudence 2d Judgments, &amp;#167; 593 (2006).</sentence>
 <sentence id="s166">The United States courts have developed specific rules governing the preclusion of officers and shareholders of companies that are a party to litigation.</sentence>
 <sentence id="s167">For example, where a closely held corporation (i.e.</sentence>
-<sentence id="s168">a corporation in which one or a few persons hold substantially the entire ownership) is a party to litigation, its shareholders and directors may be in privy with the corporation and, accordingly, bound by the determination of issues as against the corporation: see Restatement (Second) Judgments &#167; 59 (1982); Jordache Enterprises Inc v National Union Fire Insurance Company of Pittsburgh 513 SE 2d 692, 707 (WVa 1998) ("[P]rivity ... is a broad concept requiring courts to carefully consider all the circumstances of a given case in order to determine whether a nonparty actively participated in or controlled the first litigation or had such an identity of interest with a party to the first litigation that his interests were adequately represented"); North Atlantic Distribution Inc v Teamsters Local Union 497 F Supp 2d 315, 321 (DRI 2007) ("[A]s a rule, privity 'exists ... if a nonparty either substantially controlled a party's involvement in the initial litigation or, conversely, permitted a party to the initial litigation to function as his de facto representative'" citing Gonzalez v Banco Cent Corp [1994] USCA1 342 ; 27 F3d 751 , 758 (1st Cir 1994)); Kreager v General Electric Company [1974] USCA2 672 ; 497 F 2d 468 , 471 (2nd Cir 1974) ("[T]he court correctly concluded that Kreager, as the sole shareholder of Mercu-Ray, was bound by the dismissal of the first action brought in the name of his corporation"); Marine Midland Bank v Slyman [1993] USCA2 638 ; 995 F 2d 362 , 365 (2nd Cir 1993) ("Privity requires 'identity of interest through succession to the same property rights involved in the prior litigation' ... As officers, directors, sole shareholders, and guarantors of Accurate, the Slymans' interests in litigating Accurate's indebtedness in the Ohio action were sufficiently identical to establish privity").</sentence>
+<sentence id="s168">a corporation in which one or a few persons hold substantially the entire ownership) is a party to litigation, its shareholders and directors may be in privy with the corporation and, accordingly, bound by the determination of issues as against the corporation: see Restatement (Second) Judgments &amp;#167; 59 (1982); Jordache Enterprises Inc v National Union Fire Insurance Company of Pittsburgh 513 SE 2d 692, 707 (WVa 1998) ("[P]rivity ... is a broad concept requiring courts to carefully consider all the circumstances of a given case in order to determine whether a nonparty actively participated in or controlled the first litigation or had such an identity of interest with a party to the first litigation that his interests were adequately represented"); North Atlantic Distribution Inc v Teamsters Local Union 497 F Supp 2d 315, 321 (DRI 2007) ("[A]s a rule, privity 'exists ... if a nonparty either substantially controlled a party's involvement in the initial litigation or, conversely, permitted a party to the initial litigation to function as his de facto representative'" citing Gonzalez v Banco Cent Corp [1994] USCA1 342 ; 27 F3d 751 , 758 (1st Cir 1994)); Kreager v General Electric Company [1974] USCA2 672 ; 497 F 2d 468 , 471 (2nd Cir 1974) ("[T]he court correctly concluded that Kreager, as the sole shareholder of Mercu-Ray, was bound by the dismissal of the first action brought in the name of his corporation"); Marine Midland Bank v Slyman [1993] USCA2 638 ; 995 F 2d 362 , 365 (2nd Cir 1993) ("Privity requires 'identity of interest through succession to the same property rights involved in the prior litigation' ... As officers, directors, sole shareholders, and guarantors of Accurate, the Slymans' interests in litigating Accurate's indebtedness in the Ohio action were sufficiently identical to establish privity").</sentence>
 <sentence id="s169">The United States approach is attractive, it being based on notions of practicality as well as on fundamental fairness: Bismarck Public School District Number One of Burleigh County v Hirsch 136 NW 2d 449, 453 (ND 1965).</sentence>
 <sentence id="s170">It is not, however, an approach that can be applied in this jurisdiction.</sentence>
 <sentence id="s171">In Trawl Industries of Australia Pty Limited (In liquidation) v Effem Foods Pty Limited (1992) 36 FCR 406 Gummow J referred to similar United States authorities but observed they were inconsistent with Ramsey v Pigram .</sentence>
@@ -216,10 +216,10 @@
 <sentence id="s190">The cross-claimants intend to challenge that finding on substantially different evidence.</sentence>
 <sentence id="s191">Although Hunter cannot be called in aid, it may still be an abuse of process to mount the cross-claim.</sentence>
 <sentence id="s192">For example, if a person stands by and waits to see the outcome of a case in which he has a distinct interest without making himself a party, he is be bound by the result and is not allowed to re-open the issue in another piece of litigation.</sentence>
-<sentence id="s193">This principal is derived from the speech of Lord Penzance in Wytcherley v Andrews (1871) LR 2 P&amp;M 327, 328; cited with approval in Nana Ofori Atta II v Nana Abu Bonsra II [1958] AC 95 , 102.</sentence>
+<sentence id="s193">This principal is derived from the speech of Lord Penzance in Wytcherley v Andrews (1871) LR 2 P&amp;amp;M 327, 328; cited with approval in Nana Ofori Atta II v Nana Abu Bonsra II [1958] AC 95 , 102.</sentence>
 <sentence id="s194">More generally, it may be accepted that any attempt to re-litigate an issue may be an abuse.</sentence>
-<sentence id="s195">But there must be some "special reason" that prevents a person raising an issue that has been decided by another court but by which he is not strictly bound: Bragg v Oceanus Mutual Underwriting Association (Bermuda) Ltd and CE Health &amp; Co (Marine) Ltd [1982] 2 Lloyd's Rep 132, 138.</sentence>
-<sentence id="s196">Hence, in Bradford &amp; Bingley Building Society v Seddon Hancock [1999] EWCA Civ 944 ; [1999] 1 WLR 1482 , 1492 Auld LJ said the mere attempt to re-litigate does not necessarily give rise to an abuse of process.</sentence>
+<sentence id="s195">But there must be some "special reason" that prevents a person raising an issue that has been decided by another court but by which he is not strictly bound: Bragg v Oceanus Mutual Underwriting Association (Bermuda) Ltd and CE Health &amp;amp; Co (Marine) Ltd [1982] 2 Lloyd's Rep 132, 138.</sentence>
+<sentence id="s196">Hence, in Bradford &amp;amp; Bingley Building Society v Seddon Hancock [1999] EWCA Civ 944 ; [1999] 1 WLR 1482 , 1492 Auld LJ said the mere attempt to re-litigate does not necessarily give rise to an abuse of process.</sentence>
 <sentence id="s197">Some additional element is required, such as a collateral attack on a previous decision as in Hunter , some dishonesty, or successive actions amounting into unjust harassment: Bradford at 1493.</sentence>
 <sentence id="s198">Here there is no special reason.</sentence>
 <sentence id="s199">From the perspective of the cross-claimants, assuming they were accorded standing in the winding up applications to oppose the order sought (a matter of some doubt), nothing was to be gained by challenging insolvency at the date of filing.</sentence>
@@ -280,7 +280,7 @@ Dated: 9 April 2009
  Counsel for the Plaintiff: Mr P B Murdoch QC
 Mr C M Archibald 
  
- Solicitor for the Plaintiff: Johnson Winter &amp; Slattery 
+ Solicitor for the Plaintiff: Johnson Winter &amp;amp; Slattery 
  
  Counsel for the 1 st and 2 nd Defendants: Mr S Rubenstein 
  
@@ -300,7 +300,7 @@ Mr E Wheelahan
  Counsel for the 2 nd Cross-Respondent: Mr J Karkar QC
 Dr A Dinelli 
  
- Solicitor for the 2 nd Cross-Respondent: Johnson Winter &amp; Slattery 
+ Solicitor for the 2 nd Cross-Respondent: Johnson Winter &amp;amp; Slattery 
  
  Counsel for the 3 rd Cross-Respondent: Ms E Strong SC
 Mr P Ginnane 
@@ -326,15 +326,15 @@ Mr P Ginnane
  
  NORMAN PHILLIP CAREY First Cross-Claimant QUARTZ NOMINEES PTY LTD (ACN 008 859 103) ATF THE QUARTZ TRUST Second Cross-Claimant HECA NOMINEES PTY LTD (ACN 053 581 874) Third Cross-Claimant ACEBID PTY LTD (ACN 074 566 046) Fourth Cross-Claimant ADUS PTY LTD (ACN 009 366 205) AS TRUSTEE FOR ("ATF") THE ADUS FAMILY TRUST Fifth Cross-Claimant ANDRIANNI PTY LTD (ACN 005 458 720) 
 ATF THE ANDRIANNI TRUST Sixth Cross-Claimant ANN STREET BRISBANE PTY LTD (ACN 101 943 711) ATF THE ANN STREET BRISBANE TRUST Seventh-Cross-Claimant BENNALONG HOLDINGS PTY LTD
-(ACN 008 741 008) Eighth Cross-Claimant DOSIUS PTY LTD (ACN 009 449 450) Ninth Cross-Claimant EARLMIST PTY LTD (RECEIVER &amp; MANAGER APPOINTED) (CONTROLLER APPOINTED) (ACN 069 056 926) ATF THE EARLMIST UNIT TRUST Tenth Cross-Claimant ETNAS PTY LTD (ACN 056 599 350) ATF THE ETNAS TRUST Eleventh Cross-Claimant FOYL PTY LTD (ACN 009 365 388) Twelfth Cross-Claimant GRENICH PTY LTD (ACN 009 453 552) Thirteenth Cross-Claimant HEALTHCARE PROPERTIES PTY LTD (ACN 074 501 955) ATF THE HEALTHCARE PROPERTIES TRUST Fourteenth Cross-Claimant HUNTINGDALE VILLAGE PTY LTD (RECEIVER &amp; MANAGER APPOINTED) (ACN 085 048 531) ATF THE HUNTINGDALE VILLAGE UNIT TRUST Fifteenth Cross-Claimant JEVWOOD PTY LTD (ACN 074 525 321) Sixteenth Cross-Claimant K.I.S.</sentence>
+(ACN 008 741 008) Eighth Cross-Claimant DOSIUS PTY LTD (ACN 009 449 450) Ninth Cross-Claimant EARLMIST PTY LTD (RECEIVER &amp;amp; MANAGER APPOINTED) (CONTROLLER APPOINTED) (ACN 069 056 926) ATF THE EARLMIST UNIT TRUST Tenth Cross-Claimant ETNAS PTY LTD (ACN 056 599 350) ATF THE ETNAS TRUST Eleventh Cross-Claimant FOYL PTY LTD (ACN 009 365 388) Twelfth Cross-Claimant GRENICH PTY LTD (ACN 009 453 552) Thirteenth Cross-Claimant HEALTHCARE PROPERTIES PTY LTD (ACN 074 501 955) ATF THE HEALTHCARE PROPERTIES TRUST Fourteenth Cross-Claimant HUNTINGDALE VILLAGE PTY LTD (RECEIVER &amp;amp; MANAGER APPOINTED) (ACN 085 048 531) ATF THE HUNTINGDALE VILLAGE UNIT TRUST Fifteenth Cross-Claimant JEVWOOD PTY LTD (ACN 074 525 321) Sixteenth Cross-Claimant K.I.S.</sentence>
 <sentence id="s248">REALTY PTY LTD (ACN 100 871 314) Seventeenth Cross-Claimant KEEP IT SIMPLE INVESTMENTS (GLOBAL) PTY LTD (ACN 100 871 270) Eighteenth Cross-Claimant MATHESON HOLDINGS PTY LTD
 (ACN 009 236 177) Nineteenth Cross-Claimant MIDPRIDE PTY LTD (ACN 072 674 296) ATF THE MIDPRIDE TRUST Twentieth Cross-Claimant MOSSREGAL PTY LTD (ACN 069 056 793) ATF THE MOSSREGAL UNIT TRUST Twenty-first Cross-Claimant NORTH SYDNEY DEVELOPMENT PTY LTD (CONTROLLER APPOINTED) (ACN 107 037 838) ATF THE NORTH SYDNEY DEVELOPMENT TRUST Twenty-second Cross-
-Claimant PAQUERO PTY LTD (ACN 003 540 556) Twenty-third Cross-Claimant PARAGON APARTMENTS LTD (RECEIVER &amp; MANAGER APPOINTED) (ACN 087 200 413) Twenty-fourth Cross-
+Claimant PAQUERO PTY LTD (ACN 003 540 556) Twenty-third Cross-Claimant PARAGON APARTMENTS LTD (RECEIVER &amp;amp; MANAGER APPOINTED) (ACN 087 200 413) Twenty-fourth Cross-
 Claimant RENAISSANCE MEZZANINE PTY LTD (ACN 110 978 491) 
  Twenty-fifth Cross-Claimant ROMPRIDE PTY LTD (ACN 074 524 824) ATF THE ERLEY UNIT TRUST Twenty-sixth Cross-Claimant SCOTS CHURCH DEVELOPMENT LTD
-(RECEIVER &amp; MANAGER APPOINTED) (ACN 091 686 323) Twenty-seventh Cross-
-Claimant SILKCHIME PTY LTD (RECEIVER &amp; MANAGER APPOINTED) (ACN 066 849 429) ATF THE SILKCHIME UNIT TRUST Twenty-eighth Cross-
-Claimant SWANPORT NOMINEES PTY LTD (ACN 107 680 482) Twenty-ninth Cross-Claimant VANNIN PTY LTD (RECEIVER &amp; MANAGER APPOINTED) (ACN 067 610 271) ATF THE HAY FAMILY TRUST Thirtieth Cross-Claimant WARWICK ENTERTAINMENT CENTRE PTY LTD (RECEIVER &amp; MANAGER APPOINTED) (ACN 054 246 918) ATF THE WARWICK ENTERTAINMENT CENTRE UNIT TRUST Thirty-first Cross-Claimant WESTPOINT CENTREWAYS PTY LTD (ACN 082 348 981) Thirty-second Cross-
+(RECEIVER &amp;amp; MANAGER APPOINTED) (ACN 091 686 323) Twenty-seventh Cross-
+Claimant SILKCHIME PTY LTD (RECEIVER &amp;amp; MANAGER APPOINTED) (ACN 066 849 429) ATF THE SILKCHIME UNIT TRUST Twenty-eighth Cross-
+Claimant SWANPORT NOMINEES PTY LTD (ACN 107 680 482) Twenty-ninth Cross-Claimant VANNIN PTY LTD (RECEIVER &amp;amp; MANAGER APPOINTED) (ACN 067 610 271) ATF THE HAY FAMILY TRUST Thirtieth Cross-Claimant WARWICK ENTERTAINMENT CENTRE PTY LTD (RECEIVER &amp;amp; MANAGER APPOINTED) (ACN 054 246 918) ATF THE WARWICK ENTERTAINMENT CENTRE UNIT TRUST Thirty-first Cross-Claimant WESTPOINT CENTREWAYS PTY LTD (ACN 082 348 981) Thirty-second Cross-
 Claimant WESTPOINT FINANCIAL SERVICES PTY LTD (ACN 074 148 324) Thirty-third Cross-Claimant WESTPOINT MANAGEMENT (CENTREWAYS) PTY LTD (ACN 082 349 068) ATF THE CENTREWAYS REFURBISHMENT
 SYNDICATION TRUST Thirty-fourth Cross-Claimant FREEHILLS First Cross-Respondent AUSTRALIAN SECURITIES AND INVESTMENTS COMMISSION Second Cross-Respondent COMMONWEALTH OF AUSTRALIA Third Cross-Respondent 
  

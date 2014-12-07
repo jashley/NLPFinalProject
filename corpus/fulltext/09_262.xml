@@ -3,11 +3,11 @@
 <name>Republic of Poland v Ginter [2009] FCA 262 (24 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/262.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">bail</catchphrase>
-<catchphrase "id=c1">extraditee granted bail pursuant to s 15(6) of the extradition act 1988 (cth)</catchphrase>
-<catchphrase "id=c2">poland sought judicial review</catchphrase>
-<catchphrase "id=c3">whether reviewable error in respect to existence of "special circumstances" and the absence of flight risk.</catchphrase>
-<catchphrase "id=c4">extradition</catchphrase>
+<catchphrase id="c0">bail</catchphrase>
+<catchphrase id="c1">extraditee granted bail pursuant to s 15(6) of the extradition act 1988 (cth)</catchphrase>
+<catchphrase id="c2">poland sought judicial review</catchphrase>
+<catchphrase id="c3">whether reviewable error in respect to existence of "special circumstances" and the absence of flight risk.</catchphrase>
+<catchphrase id="c4">extradition</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -172,7 +172,7 @@ Dated: 24 March 2009
  
  Counsel for the First Respondent: Mr A Maughan 
  
- Solicitor for the First Respondent: Andrew Maughan &amp; Associates 
+ Solicitor for the First Respondent: Andrew Maughan &amp;amp; Associates 
  
  
  Date of Hearing: 19, 20 March 2009 

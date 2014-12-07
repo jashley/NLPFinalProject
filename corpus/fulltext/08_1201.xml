@@ -3,12 +3,12 @@
 <name>Metso Minerals (Australia) Ltd v Kalra (No 3) [2008] FCA 1201 (13 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1201.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">anton piller order</catchphrase>
-<catchphrase "id=c1">grant of leave to applicants to inspect documents</catchphrase>
-<catchphrase "id=c2">no discretion to permit inspection to facilitate discovery or provision of particulars</catchphrase>
-<catchphrase "id=c3">adverse exercise of discretion</catchphrase>
-<catchphrase "id=c4">general discovery</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">anton piller order</catchphrase>
+<catchphrase id="c1">grant of leave to applicants to inspect documents</catchphrase>
+<catchphrase id="c2">no discretion to permit inspection to facilitate discovery or provision of particulars</catchphrase>
+<catchphrase id="c3">adverse exercise of discretion</catchphrase>
+<catchphrase id="c4">general discovery</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -241,11 +241,11 @@
 <sentence id="s173">43 But that, it is respectfully considered, is all that His Honour decided.</sentence>
 <sentence id="s174">The decision does not stand as authority for the proposition that seized documents (in the absence of consent) may be inspected as an adjunct to the discovery process or to facilitate the provision of particulars.</sentence>
 <sentence id="s175">It is simply a decision as to what may be seized and, once seized, what may be looked for when inspecting those documents.</sentence>
-<sentence id="s176">Neither of the other decisions cited by the Respondents in this proceeding -- Remath Investments No 6 Pty Ltd v Savi World Transport Pty Ltd &amp; Fraser (Unreported, VSC, Byrne J, 12 November 1997) and Liberty Financial Pty Ltd v Scott [2004] VSC 414 -- provide further assistance.</sentence>
+<sentence id="s176">Neither of the other decisions cited by the Respondents in this proceeding -- Remath Investments No 6 Pty Ltd v Savi World Transport Pty Ltd &amp;amp; Fraser (Unreported, VSC, Byrne J, 12 November 1997) and Liberty Financial Pty Ltd v Scott [2004] VSC 414 -- provide further assistance.</sentence>
 <sentence id="s177">No decision other than that of Jacobson J was able to be identified by any of the parties, or Citic Pacific, which provided any further guidance on the issues now to be decided.</sentence>
 <sentence id="s178">44 In addition to considering that the course now being urged by the Applicants is inconsistent with principle and not endorsed by the decision of Jacobson J, it is further considered that that course (if accepted) would erode the constraints otherwise imposed by the Federal Court Rules in respect to discovery.</sentence>
 <sentence id="s179">45 The regime for discovery is that set forth in O 15 and O 15A of the Federal Court Rules .</sentence>
-<sentence id="s180">46 The traditional test for discovery, it will be recalled, was expressed in part in terms of whether a document would lead to a " train of enquiry " which could advance a party's case or damage that of his opponent: Mulley &amp; Marney v Manifold [1959] HCA 23 ; (1959) 103 CLR 341.</sentence>
+<sentence id="s180">46 The traditional test for discovery, it will be recalled, was expressed in part in terms of whether a document would lead to a " train of enquiry " which could advance a party's case or damage that of his opponent: Mulley &amp;amp; Marney v Manifold [1959] HCA 23 ; (1959) 103 CLR 341.</sentence>
 <sentence id="s181">Menzies J there observed at 345:
  I now turn to the pleadings to determine what are the matters at issue between the parties, because discovery is a procedure directed towards obtaining a proper examination and determination of these issues--not towards assisting a party upon a fishing expedition.</sentence>
 <sentence id="s182">Only a document which relates in some way to a matter in issue is discoverable, but it is sufficient if it would, or would lead to a train of enquiry which would, either advance a party's own case or damage that of his adversary.</sentence>
@@ -260,7 +260,7 @@
 <sentence id="s190">Similarly, in Aveling v UBS Capital Markets Australia Holdings Ltd [2005] FCA 415 Lindgren J observed: 
  [10] The question arises: what are the principles which should guide the parties in identifying categories?</sentence>
 <sentence id="s191">They are the principles which guide the Court when ordering discovery.</sentence>
-<sentence id="s192">In ACCC v Advanced Medical Institute [[2005] FCA 366] , I attempted to explain (at [19] -- [21]) that rule amendments and Practice Note 14 (Discovery) of 1999 were intended to establish a r&eacute;gime under which discovery is more confined than it was under the former Peruvian Guano test (cf The Compagnie Financi&egrave;re et Commerciale du Pacifique v The Peruvian Guano Co (1882) 11 QBD 55).</sentence>
+<sentence id="s192">In ACCC v Advanced Medical Institute [[2005] FCA 366] , I attempted to explain (at [19] -- [21]) that rule amendments and Practice Note 14 (Discovery) of 1999 were intended to establish a r&amp;eacute;gime under which discovery is more confined than it was under the former Peruvian Guano test (cf The Compagnie Financi&amp;egrave;re et Commerciale du Pacifique v The Peruvian Guano Co (1882) 11 QBD 55).</sentence>
 <sentence id="s193">Practice Note 14 para 3 states: 
  
  To prevent orders for discovery requiring production of more documents than are necessary for the fair conduct of the case, orders for discovery will ordinarily be limited to the documents required to be disclosed by Order 15 rule 2(3).</sentence>
@@ -323,15 +323,15 @@ Leave to appeal was granted and the appeal dismissed: Hooper v Kirella Pty Ltd [
 <sentence id="s243">61 But it is not considered that such difficulties as may emerge are not satisfactorily resolved by an order for general discovery.</sentence>
 <sentence id="s244">It is understood that Senior Counsel for the Respondents accepts that an order for general discovery would extend to an obligation to discover any such document.</sentence>
 <sentence id="s245">62 In consenting to an order requiring general discovery, it is not understood that the parties are merely consenting to an order requiring the discovery of only those documents as are contemplated by O 15 r 2(3): Citrus Queensland Pty Ltd v Sunstate Orchards Pty Ltd (No 2) [2006] FCA 1001 at [153] , [2006] FCA 1001 ; 155 FCR 1 at 22---3 per Collier J.</sentence>
-<sentence id="s246">It is understood that the parties are consenting to what was described by Beaumont J as an order in the " traditional form " requiring discovery of those documents which " may " -- not " must " -- either directly or indirectly enable a party to advance its own case or damage that of his adversary: Reading Entertainment Australia Pty Ltd v Birch Carroll &amp; Coyle Ltd [2002] FCAFC 109.</sentence>
+<sentence id="s246">It is understood that the parties are consenting to what was described by Beaumont J as an order in the " traditional form " requiring discovery of those documents which " may " -- not " must " -- either directly or indirectly enable a party to advance its own case or damage that of his adversary: Reading Entertainment Australia Pty Ltd v Birch Carroll &amp;amp; Coyle Ltd [2002] FCAFC 109.</sentence>
 <sentence id="s247">Beaumont J there observed:
- [64] In their traditional form, rules of court required, under a general discovery order, that the party disclose any document in its possession, custody or control "relating to any matter in question" in the proceeding; that is to say, any document which may -- not which must -- either directly, or indirectly, enable the party requiring the discovery either to advance its own case, or to damage the case of its adversary, or which may fairly lead to a train of inquiry which may have either of those two consequences (see, eg Compagnie Financi&egrave;re et Commerciale du Pacifique v The Peruvian Guano Co (1882) 11 QBD 55 at 62---63).</sentence>
+ [64] In their traditional form, rules of court required, under a general discovery order, that the party disclose any document in its possession, custody or control "relating to any matter in question" in the proceeding; that is to say, any document which may -- not which must -- either directly, or indirectly, enable the party requiring the discovery either to advance its own case, or to damage the case of its adversary, or which may fairly lead to a train of inquiry which may have either of those two consequences (see, eg Compagnie Financi&amp;egrave;re et Commerciale du Pacifique v The Peruvian Guano Co (1882) 11 QBD 55 at 62---63).</sentence>
 <sentence id="s248">[65] The nature and extent of disclosure, in terms of the adjectival "relevance" of documents for the purposes of a general order for discovery in its traditional form is explained in Halsbury's Laws of England 4th ed, Vol 13 at [38] to the following effect: 
 
- &#8226; So long as they are likely to throw light on the case, documents "relate to a matter in question", whether or not admissible in evidence.</sentence>
-<sentence id="s249">&#8226; A document may be "relevant" for discovery purposes by reason of its character (ie it is a document of a particular type); or by reason of its contents.</sentence>
-<sentence id="s250">&#8226; Discovery will not be ordered in respect of an allegation not made in the pleadings or particulars, nor will discovery be allowed to enable a party to "fish" for witnesses, or for a new case, ie to enable the party to frame a new case.</sentence>
-<sentence id="s251">&#8226; Each case must be considered according to the issues raised; but where there are numerous documents of slight relevance and it would be oppressive to produce them all, some limitations may be imposed.</sentence>
+ &amp;#8226; So long as they are likely to throw light on the case, documents "relate to a matter in question", whether or not admissible in evidence.</sentence>
+<sentence id="s249">&amp;#8226; A document may be "relevant" for discovery purposes by reason of its character (ie it is a document of a particular type); or by reason of its contents.</sentence>
+<sentence id="s250">&amp;#8226; Discovery will not be ordered in respect of an allegation not made in the pleadings or particulars, nor will discovery be allowed to enable a party to "fish" for witnesses, or for a new case, ie to enable the party to frame a new case.</sentence>
+<sentence id="s251">&amp;#8226; Each case must be considered according to the issues raised; but where there are numerous documents of slight relevance and it would be oppressive to produce them all, some limitations may be imposed.</sentence>
 <sentence id="s252">[66] The foregoing is also an accurate description of Australian practice and procedure (see, generally, Commonwealth of Australia v Northern Land Council (1991) 30 FCR 1 at 23 --- 24).</sentence>
 <sentence id="s253">[67] Under a traditional general discovery order, the following methods are available to obtain further disclosure where a party seeks to show that "relevant" documents have been omitted from the list: (1) It may require verification of the list; (2) It may apply for a further and better list, whether verified or not, either in general terms, or limited to certain classes of documents.</sentence>
 <sentence id="s254">(The power to order a further and better list is parallel with, and may be combined with, the court's power, on application, to order the disclosure of particulars of specific documents.</sentence>

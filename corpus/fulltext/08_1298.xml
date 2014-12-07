@@ -3,10 +3,10 @@
 <name>Australian Competition and Consumer Commission v Trading Post Australia Pty Limited [2008] FCA 1298 (21 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1298.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">production of documents under s 157 of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c1">relationship with principles of legal professional privilege</catchphrase>
-<catchphrase "id=c2">whether court should exercise discretion under s 157(3) to refuse to order production.</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase id="c0">production of documents under s 157 of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c1">relationship with principles of legal professional privilege</catchphrase>
+<catchphrase id="c2">whether court should exercise discretion under s 157(3) to refuse to order production.</catchphrase>
+<catchphrase id="c3">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -53,7 +53,7 @@
 <sentence id="s35">The Full Court further observed that a document which might merely suggest some line of enquiry which could be of assistance to the respondent in conducting its case, was not a document which "tends to establish" that case.</sentence>
 <sentence id="s36">The Full Court observed that it could require the documents to be produced for inspection and, having inspected them, make an order for disclosure subject to conditions.</sentence>
 <sentence id="s37">The Full Court considered that, by on the one hand qualifying the scope of the ACCC's common law privilege, but on the other hand affording the ACCC an opportunity to demonstrate prejudice (or some other reason for non-disclosure) in a particular case, the legislative scheme contained in s 157 of the TPA achieved an appropriate balance of the respective interests involved.</sentence>
-<sentence id="s38">13 In Australian Competition &amp; Consumer Commission v FFE Building Services Limited (2003) ATPR 41-967 at [59], Wilcox J summarised, in a manner accepted by the parties, the position in relation to s 157 of the TPA and legal professional privilege, in these terms:
+<sentence id="s38">13 In Australian Competition &amp;amp; Consumer Commission v FFE Building Services Limited (2003) ATPR 41-967 at [59], Wilcox J summarised, in a manner accepted by the parties, the position in relation to s 157 of the TPA and legal professional privilege, in these terms:
  It follows that I should be guided by the following principles: 
  
  (a) the Court has a discretionary power, under s 157(2) of the [TPA], to order production of documents notwithstanding that they ordinarily would be protected by legal professional privilege; 
@@ -69,7 +69,7 @@
 <sentence id="s40">) 
  
  
-14 In FFE Building Services (2003) ATPR 41-967 at [50], Wilcox J referred to the decision in the House of Lords in Rush &amp; Tompkins Ltd v Greater London County Council [1989] 1 AC 1280, where the House of Lords considered the principles relating to the privilege attaching to documents which came into existence for the purpose of negotiating settlement.</sentence>
+14 In FFE Building Services (2003) ATPR 41-967 at [50], Wilcox J referred to the decision in the House of Lords in Rush &amp;amp; Tompkins Ltd v Greater London County Council [1989] 1 AC 1280, where the House of Lords considered the principles relating to the privilege attaching to documents which came into existence for the purpose of negotiating settlement.</sentence>
 <sentence id="s41">Lord Griffiths, with whom the other members agreed, said at 1301:
  It seems to me that if those admissions made to achieve settlement of a piece of minor litigation could be held against [a litigant] in a subsequent major litigation it would actively discourage settlement of the minor litigation and run counter to the whole underlying purpose of the "without prejudice" rule.</sentence>
 <sentence id="s42">I would therefore hold that as a general rule the "without prejudice" rule renders inadmissible in any subsequent litigation connected with the same subject matter proof of any admissions made in a genuine attempt to reach a settlement.</sentence>
@@ -96,7 +96,7 @@ In the present case it is not disputed that the relevant correspondence was in t
 <sentence id="s61">In my view, the documents do not tend to establish the case of Google.</sentence>
 <sentence id="s62">They are rather directed to putting forward Trading Post's own substantive case, and are designed to obtain the best outcome for Trading Post.</sentence>
 <sentence id="s63">Accordingly, so far as the position of Google is concerned, the documents do not carry the matter further than what is disclosed in Trading Post's undertaking.</sentence>
-<sentence id="s64">18 In any event, I consider that in this case there are cogent underlying reasons of principle, similar to those set out in Rush &amp; Tompkins Ltd [1989] 1 AC 1280, to weigh the balance in favour of non-disclosure.</sentence>
+<sentence id="s64">18 In any event, I consider that in this case there are cogent underlying reasons of principle, similar to those set out in Rush &amp;amp; Tompkins Ltd [1989] 1 AC 1280, to weigh the balance in favour of non-disclosure.</sentence>
 <sentence id="s65">This approach protects the important interests in encouraging negotiated settlements of disputes, ensuring that parties in such negotiations are frank and open with each other, and ensuring that parties communicate without apprehension that confidential (and potentially prejudicial) material may later be made public at the behest of a third party.</sentence>
 <sentence id="s66">19 Accordingly, because inspection of the documents in question leads me to conclude that nothing contained therein "tends to establish" Google's case, and having regard to the above authorities, the application by Google is refused with costs.</sentence>
 <sentence id="s67">20 I now turn to the next issue, namely, whether the ACCC should be given leave to file and serve a Second Further Amended Statement of Claim and a Second Further Amended Application.</sentence>

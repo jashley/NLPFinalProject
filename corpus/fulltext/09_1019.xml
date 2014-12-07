@@ -3,15 +3,15 @@
 <name>Apotex Pty Ltd v Les Laboratoires Servier (No 2) [2009] FCA 1019 (11 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1019.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to amend patent</catchphrase>
-<catchphrase "id=c1">whether amendments allowable under s 102(1) and s 102(2) of the patents act 1990 (cth)</catchphrase>
-<catchphrase "id=c2">claimed invention relates to the form of the compound</catchphrase>
-<catchphrase "id=c3">whether a real and reasonably clear disclosure of the feature of "individual needles" in the patent specification</catchphrase>
-<catchphrase "id=c4">discretion under s 105 of the act</catchphrase>
-<catchphrase "id=c5">whether court should exercise discretion to refuse amendments</catchphrase>
-<catchphrase "id=c6">whether full and frank disclosure of reasons for amendment</catchphrase>
-<catchphrase "id=c7">amendments add new claims but do not delete existing claims</catchphrase>
-<catchphrase "id=c8">patents</catchphrase>
+<catchphrase id="c0">application to amend patent</catchphrase>
+<catchphrase id="c1">whether amendments allowable under s 102(1) and s 102(2) of the patents act 1990 (cth)</catchphrase>
+<catchphrase id="c2">claimed invention relates to the form of the compound</catchphrase>
+<catchphrase id="c3">whether a real and reasonably clear disclosure of the feature of "individual needles" in the patent specification</catchphrase>
+<catchphrase id="c4">discretion under s 105 of the act</catchphrase>
+<catchphrase id="c5">whether court should exercise discretion to refuse amendments</catchphrase>
+<catchphrase id="c6">whether full and frank disclosure of reasons for amendment</catchphrase>
+<catchphrase id="c7">amendments add new claims but do not delete existing claims</catchphrase>
+<catchphrase id="c8">patents</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -19,7 +19,7 @@
 <sentence id="s1">Servier seeks to amend the AC Patent under s 105(1) of the Patents Act 1990 (Cth) ('the Act') to add an additional set of claims.</sentence>
 <sentence id="s2">Apotex opposes the application.</sentence>
 <sentence id="s3">THE AC PATENT 
- The AC Patent is entitled: "New &#945; crystalline form of perindopril tert-butylamine salt, a process for its preparation and pharmaceutical compositions containing it".</sentence>
+ The AC Patent is entitled: "New &amp;#945; crystalline form of perindopril tert-butylamine salt, a process for its preparation and pharmaceutical compositions containing it".</sentence>
 <sentence id="s4">The specification states that: ' Perindopril and its pharmaceutically acceptable salts, and more especially its tert-butylamine salt, have valuable pharmacological properties '.</sentence>
 <sentence id="s5">The specification describes two actions of perindopril which ' contribute to the beneficial effects of perindopril in cardiovascular diseases, more especially in arterial hypertension and heart failure '.</sentence>
 <sentence id="s6">The specification also states: 
@@ -34,24 +34,24 @@
  
 
  The AC Patent describes the invention.</sentence>
-<sentence id="s8">The emphasis is mine: The invention relates to a new &#945; crystalline form of the perindopril salt.</sentence>
-<sentence id="s9">The invention relates to a new &#945; crystalline form of the perindopril salt, characterised by a specific X-ray diffraction diagram.</sentence>
+<sentence id="s8">The emphasis is mine: The invention relates to a new &amp;#945; crystalline form of the perindopril salt.</sentence>
+<sentence id="s9">The invention relates to a new &amp;#945; crystalline form of the perindopril salt, characterised by a specific X-ray diffraction diagram.</sentence>
 <sentence id="s10">The invention relates to a process for the preparation of that salt and to pharmaceutical compositions comprising the salt together with one or more appropriate, inert, non-toxic excipients.</sentence>
 <sentence id="s11">It is of prime importance to obtain perindopril with excellent purity.</sentence>
 <sentence id="s12">It is important to be able to synthesise it in a form that allows rapid filtration and drying.</sentence>
 <sentence id="s13">That form has to be perfectly reproducible, easily formulated and sufficiently stable.</sentence>
 <sentence id="s14">The prior art does not specify the conditions for obtaining perindopril in a form that exhibits those characteristics in a reproducible manner.</sentence>
 <sentence id="s15">Servier has now found that a particular salt of perindopril can be obtained in a well defined, perfectly reproducible crystalline form that especially exhibits valuable characteristics of filtration, drying and ease of formulation.</sentence>
-<sentence id="s16">The process for the preparation of the &#945; crystalline form of the compound is characterised in that a solution of perindopril tert-butylamine salt in ethyl acetate is heated at reflux and is cooled gradually until crystallisation is complete.</sentence>
+<sentence id="s16">The process for the preparation of the &amp;#945; crystalline form of the compound is characterised in that a solution of perindopril tert-butylamine salt in ethyl acetate is heated at reflux and is cooled gradually until crystallisation is complete.</sentence>
 <sentence id="s17">The salt that is thereby obtained is in the form of individual needles about 0.2mm long.</sentence>
 <sentence id="s18">That homogeneous distribution has the advantage of allowing especially rapid and efficient filtration and drying, as well as allowing the preparation of pharmaceutical formulations having a uniform and reproducible composition, which is especially advantageous when those formulations are intended for oral administration.</sentence>
 <sentence id="s19">The form thereby obtained is sufficiently stable to allow its storage for long periods without particular requirements for temperature, light, humidity and oxygen level.</sentence>
-<sentence id="s20">Claim 1 is to the &#945; crystalline form of the compound of formula (I) (ie.</sentence>
+<sentence id="s20">Claim 1 is to the &amp;#945; crystalline form of the compound of formula (I) (ie.</sentence>
 <sentence id="s21">the perindopril tert-butylamine salt) characterised by a particular X-ray diffraction diagram.</sentence>
-<sentence id="s22">Claim 2 is to the process for the preparation of the &#945; crystalline form of the compound of formula (I).</sentence>
+<sentence id="s22">Claim 2 is to the process for the preparation of the &amp;#945; crystalline form of the compound of formula (I).</sentence>
 <sentence id="s23">Claim 7 of the specification as accepted (claim 8 of the specification as filed) is the process according to claims including claim 2, characterised in that the perindopril salt that is thereby obtained is in the form of readily filterable individual needles.</sentence>
 <sentence id="s24">References to individual needles in the AC Patent
- The specification as filed and as accepted refers to "individual needles" in two places: Page 3, in the body of the specification, describes the process for the preparation of the &#945; crystalline form of the compound of formula (I) and includes: 
+ The specification as filed and as accepted refers to "individual needles" in two places: Page 3, in the body of the specification, describes the process for the preparation of the &amp;#945; crystalline form of the compound of formula (I) and includes: 
  
  The perindopril tert-butylamine salt that is thereby obtained is in the form of individual needles about 0.2 mm long.</sentence>
 <sentence id="s25">That homogeneous distribution has the advantage of allowing especially rapid and efficient filtration and drying, as well as allowing the preparation of pharmaceutical formulations having a uniform and reproducible composition, which is especially advantageous when those formulations are intended for oral administration.</sentence>
@@ -68,8 +68,8 @@
  Servier filed an application for the AC Patent on 6 July 2001.</sentence>
 <sentence id="s28">The application was published in November 2001.</sentence>
 <sentence id="s29">The Examiner rejected the original set of claims on the basis that they lacked an inventive step in light of European Patent No 0308341 ('EP 0308341').</sentence>
-<sentence id="s30">Of these claims, claim 2 was to a process for the preparation of the &#945; crystalline form of the perindopril tert-butylamine salt, characterised in that a solution of the salt in ethyl acetate is heated at reflux and then cooled gradually until crystallisation is complete.</sentence>
-<sentence id="s31">Claim 5 was to a process according to any one of claims 2 to 4, characterised in that the solution of the salt in ethyl acetate at reflux is first cooled to a temperature of from 55 to 65&#176;C at a rate of from 5 to 10&#176;C/hour, and then to ambient temperature.</sentence>
+<sentence id="s30">Of these claims, claim 2 was to a process for the preparation of the &amp;#945; crystalline form of the perindopril tert-butylamine salt, characterised in that a solution of the salt in ethyl acetate is heated at reflux and then cooled gradually until crystallisation is complete.</sentence>
+<sentence id="s31">Claim 5 was to a process according to any one of claims 2 to 4, characterised in that the solution of the salt in ethyl acetate at reflux is first cooled to a temperature of from 55 to 65&amp;#176;C at a rate of from 5 to 10&amp;#176;C/hour, and then to ambient temperature.</sentence>
 <sentence id="s32">On 24 January 2005, Servier sought to amend the AC Patent application to incorporate the feature of (then) claim 5 into claim 2.</sentence>
 <sentence id="s33">Servier submitted that the specific crystallisation steps produced an unexpected result and would not have been obvious to a person skilled in the relevant art in light of EP 0308341.</sentence>
 <sentence id="s34">The Examiner initially rejected the proposed amended claims on the basis that the ' invention as claimed lacks an inventive step in light of US 4914214 (family equivalent of EP 308341) '.</sentence>
@@ -91,11 +91,11 @@
 <sentence id="s50">On 9 May 2008 Apotex commenced proceedings to revoke the AC Patent and on 26 May 2008 Servier filed its notice of motion to amend the AC Patent under s 105 of the Act.</sentence>
 <sentence id="s51">The proposed amendments are in the same terms as the s 104 amendments sought and abandoned and are the subject of this application.</sentence>
 <sentence id="s52">The proposed amendments under s 105 of the Act
- In essence, the amendments which Servier seeks to make to the AC Patent introduce a specific characteristic of the &#945; crystalline form of the perindopril tert-butylamine salt into the claims, namely, the compound in the form of "individual needles".</sentence>
+ In essence, the amendments which Servier seeks to make to the AC Patent introduce a specific characteristic of the &amp;#945; crystalline form of the perindopril tert-butylamine salt into the claims, namely, the compound in the form of "individual needles".</sentence>
 <sentence id="s53">The proposed amendments seek to introduce an additional set of claims (set out in Annexure A to these reasons).</sentence>
 <sentence id="s54">Claim 1 of the existing specification is: 
  
- &#945; crystalline form of the compound of formula (I): 
+ &amp;#945; crystalline form of the compound of formula (I): 
  
 
  
@@ -117,7 +117,7 @@
 <sentence id="s57">In particular, it argues that all of the proposed claims are different in scope from the only existing needle claim, namely, claim 7.</sentence>
 <sentence id="s58">The form of the compound of the invention
  A question that arises is: what is the form of the compound that constitutes the invention?</sentence>
-<sentence id="s59">Is it the perindopril tert-butylamine salt in the &#945; crystalline form, so that any crystals of the perindopril salt will infringe claim 1 if in the &#945; crystalline form, or must the crystals be in the form of individual needles?</sentence>
+<sentence id="s59">Is it the perindopril tert-butylamine salt in the &amp;#945; crystalline form, so that any crystals of the perindopril salt will infringe claim 1 if in the &amp;#945; crystalline form, or must the crystals be in the form of individual needles?</sentence>
 <sentence id="s60">This is considered below.</sentence>
 <sentence id="s61">THE LEGISLATION 
  Servier is seeking to amend the AC Patent pursuant to s 105 of the Act.</sentence>
@@ -263,19 +263,19 @@
 <sentence id="s113">It is common ground that s 102(1) and s 102(2)(b) (coupled with s 40(3)) require that the specification provide "a real and reasonably clear disclosure" of that which is claimed.</sentence>
 <sentence id="s114">It is common ground that the tests for substantial disclosure and fair basis are similar ( Gambro Pty Ltd v Fresenius Medical Care South East Asia Pty Ltd (2000) 49 IPR 321 (' Gambro ') at [18]).</sentence>
 <sentence id="s115">The Full Court in Gambro said that there must be ' a real and reasonably clear disclosure '.</sentence>
-<sentence id="s116">Similarly, in ICI Chemicals &amp; Polymers Ltd v Lubrizol Corporation Inc [2000] FCA 1349 ; (2000) 106 FCR 214 at [118] , the Full Court observed, in obiter dicta , that it would be a rare case where satisfaction of the test for substantial disclosure would not also satisfy the test for fair basis.</sentence>
+<sentence id="s116">Similarly, in ICI Chemicals &amp;amp; Polymers Ltd v Lubrizol Corporation Inc [2000] FCA 1349 ; (2000) 106 FCR 214 at [118] , the Full Court observed, in obiter dicta , that it would be a rare case where satisfaction of the test for substantial disclosure would not also satisfy the test for fair basis.</sentence>
 <sentence id="s117">If there is a difference, the requirement for "in substance" disclosure is a lesser requirement than for a "real and reasonably clear disclosure" or description; "in substance disclosure" does not require express disclosure ( Pfizer Inc v Commissioner of Patents [2005] FCA 137 ; (2005) 141 FCR 413 at [75] ).</sentence>
 <sentence id="s118">Apotex's submissions
- The proposed new claims, claims 19 to 39, claim a product, the &#945; crystalline form of the perindopril tert-butylamine salt, a process for the preparation of that product and pharmaceutical compositions containing it.</sentence>
+ The proposed new claims, claims 19 to 39, claim a product, the &amp;#945; crystalline form of the perindopril tert-butylamine salt, a process for the preparation of that product and pharmaceutical compositions containing it.</sentence>
 <sentence id="s119">The product is characterised by reference to an X-ray diffraction table of values and further defined as being in the form of "individual needles".</sentence>
 <sentence id="s120">Apotex submits that there is no real and reasonably clear disclosure of individual needles as part of the invention .</sentence>
 <sentence id="s121">Apotex submits that the patent specification does not disclose the purported limitation of the crystals being in the form of "individual needles" as part of the invention and that claims 19 to 39 are not fairly based on the matter described in the body of the specification.</sentence>
 <sentence id="s122">Apotex relies on the evidence of Dr Brendan Kennedy, Associate Professor in Inorganic Chemistry at the School of Chemistry, University of Sydney, to support its contention that a skilled addressee reading the AC Patent would not understand from the patent specification that the presence of "individual needles" formed part of the invention.</sentence>
-<sentence id="s123">Dr Kennedy's evidence is that it is essentially inevitable that any sample of the &#945; crystalline form of perindopril tert-butylamine will contain at least some individual needles.</sentence>
+<sentence id="s123">Dr Kennedy's evidence is that it is essentially inevitable that any sample of the &amp;#945; crystalline form of perindopril tert-butylamine will contain at least some individual needles.</sentence>
 <sentence id="s124">Apotex emphasises that the only reference to needles in the body of the specification of the AC Patent connects the ' especially rapid and efficient filtration and drying ' and a homogeneous distribution of individual needles about 0.2mm long.</sentence>
 <sentence id="s125">Apotex contends that the skilled addressee would understand that it is the homogeneous distribution of crystals of about 0.2mm in size, and not their shape, that gives good filtration characteristics.</sentence>
 <sentence id="s126">The reference to needles in existing claim 7 refers not to "individual needles" but to "readily filterable individual needles" thereby, Apotex says, attempting to link that claim with the passage in the body of the specification.</sentence>
-<sentence id="s127">Apotex submits that the product of the invention is the &#945; crystalline form of the perindopril tert-butylamine salt and that nowhere in the specification are "individual needles" described or disclosed as part of the invention, nor do they define the process of the invention.</sentence>
+<sentence id="s127">Apotex submits that the product of the invention is the &amp;#945; crystalline form of the perindopril tert-butylamine salt and that nowhere in the specification are "individual needles" described or disclosed as part of the invention, nor do they define the process of the invention.</sentence>
 <sentence id="s128">Apotex points out that the consistory clause relating to the product of the invention on pages 2-3 of the specification makes no reference to needles.</sentence>
 <sentence id="s129">Claim 7, a process claim, refers to needles but, Apotex submits, that cannot be relevant to whether the proposed new claims are fairly based as required by s 102(2)(b) read with s 40(3); those sections require a comparison between the claims added by the amendment and the body of the specification.</sentence>
 <sentence id="s130">In addition, Apotex argues that, when assessing "in substance disclosure" for the purposes of s 102(1), claim 7 does not assist Servier because, on an intelligent reading of that claim, needles do not characterise the process and because, in any event, the claim highlights " readily filterable individual needles".</sentence>
@@ -288,11 +288,11 @@
 <sentence id="s136">It contends that Apotex's approach requires more than "a real and reasonably clear disclosure" and involves isolating in the body of the specification "essential integers" of the alleged invention and then asking whether they correspond to integers of the claims in question.</sentence>
 <sentence id="s137">The High Court has stated that s 40(3) does not require an over meticulous verbal analysis, nor specific disclosure of features as "essential" ( Lockwood at [68]-[69]).</sentence>
 <sentence id="s138">While Servier rejects the need for a real and reasonably clear disclosure as part of the invention it submits that, even if there were such a requirement, there is a real and reasonably clear disclosure of individual needles as part of the invention.</sentence>
-<sentence id="s139">Put simply, Servier argues that the feature of individual needles is disclosed in the body of the specification as filed and accepted and in existing claim 7 of the AC Patent and that the needle habit of the &#945; crystalline form of the compound of formula (I) is part of the invention described and expressly disclosed.</sentence>
+<sentence id="s139">Put simply, Servier argues that the feature of individual needles is disclosed in the body of the specification as filed and accepted and in existing claim 7 of the AC Patent and that the needle habit of the &amp;#945; crystalline form of the compound of formula (I) is part of the invention described and expressly disclosed.</sentence>
 <sentence id="s140">Servier argues that the ' valuable characteristics of filtration, drying and ease of formulation ' is a consequence of the needle habit of the salt and that existing claim 7 confirms that needles form part of the invention.</sentence>
-<sentence id="s141">Servier concedes that, at its broadest, the invention is for the &#945; crystalline form of the compound of formula (I) but says that a patentee is not confined to the broadest form of the invention and that one form of its invention involves individual needles.</sentence>
+<sentence id="s141">Servier concedes that, at its broadest, the invention is for the &amp;#945; crystalline form of the compound of formula (I) but says that a patentee is not confined to the broadest form of the invention and that one form of its invention involves individual needles.</sentence>
 <sentence id="s142">Servier disputes Apotex's contention that the evidence of Dr Kennedy ' shows that a skilled addressee reading the AC Patent would not understand from the patent specification that the mere presence of "individual needles" formed part of the invention '.</sentence>
-<sentence id="s143">Servier submits that Dr Kennedy's evidence, taken as a whole, does not suggest that it is inevitable that any sample of the &#945; crystalline form of the compound of formula (I) will contain at least some needles, as crystal habits can be altered by the addition of a surface modifying substance.</sentence>
+<sentence id="s143">Servier submits that Dr Kennedy's evidence, taken as a whole, does not suggest that it is inevitable that any sample of the &amp;#945; crystalline form of the compound of formula (I) will contain at least some needles, as crystal habits can be altered by the addition of a surface modifying substance.</sentence>
 <sentence id="s144">Servier also disputes Apotex's contention that, unless the individual needle claims are limited by size and homogeneity or by the requirement that the individual needles be readily filterable, they are not "in substance disclosed" or fairly based.</sentence>
 <sentence id="s145">Servier points to the evidence of Professor Christopher Easton of the Research School of Chemistry, Australian National University, who says that the characteristics of size and shape are separately and independently advantageous and that there are particular ways in which shape, and not size, is beneficial in a pharmaceutical context.</sentence>
 <sentence id="s146">Consideration of grounds 1 and 2
@@ -305,17 +305,17 @@
 <sentence id="s150">
  
  The reference to ' rapid and efficient filtration and drying ', which is said to result from the ' homogeneous distribution ' of individual needles about 0.2mm long, links back to the previous statement in the body of the specification that it ' has been important to be able to synthesise [perindopril] by means of a process that can readily be converted to the industrial scale, especially in a form that allows rapid filtration and drying ' (emphasis added).</sentence>
-<sentence id="s151">That form is not simply the &#945; crystalline form of the perindopril salt, but rather, the &#945; crystalline compound in the form of individual needles.</sentence>
+<sentence id="s151">That form is not simply the &amp;#945; crystalline form of the perindopril salt, but rather, the &amp;#945; crystalline compound in the form of individual needles.</sentence>
 <sentence id="s152">In addition, existing claim 7 (claim 8 in the specification as filed) claims a process according to any one of claims 2 to 6, characterised in that the perindopril tert-butylamine salt that is thereby obtained is in the form of readily filterable individual needles.</sentence>
 <sentence id="s153">This strengthens the conclusion that there is a real and reasonably clear disclosure of the feature of individual needles and this is relevant to the consideration under s 102(1), where the whole of the specification is to be taken into account.</sentence>
 <sentence id="s154">It is not necessary for me to decide whether or not there must be a real and reasonably clear disclosure of individual needles as part of the invention, the approach for which Apotex contends.</sentence>
-<sentence id="s155">The specification provides that the &#945; crystalline form of the perindopril salt obtained by the process of the invention is in the form of individual needles.</sentence>
-<sentence id="s156">The whole of the specification indicates that the invention is the &#945; crystalline form of the perindopril salt that exists in the form of individual needles, characterised by an X-ray diffraction diagram and obtained through carrying out the process of the invention.</sentence>
+<sentence id="s155">The specification provides that the &amp;#945; crystalline form of the perindopril salt obtained by the process of the invention is in the form of individual needles.</sentence>
+<sentence id="s156">The whole of the specification indicates that the invention is the &amp;#945; crystalline form of the perindopril salt that exists in the form of individual needles, characterised by an X-ray diffraction diagram and obtained through carrying out the process of the invention.</sentence>
 <sentence id="s157">"Not in substance disclosed" (s 102(1)) and "fair basis" (s 102(2)(b) and s 40(3)) --- grounds 3, 4 and 5
  In addition to its primary submission that none of the proposed new claims are in substance disclosed in the specification as filed and are not fairly based, Apotex contends that the same can be said in respect of certain specific claims.</sentence>
 <sentence id="s158">In that regard, Apotex raises further specific complaints.</sentence>
 <sentence id="s159">Claims 27 and 28
- Apotex contends that claims 27 and 28 claim a pharmaceutical composition comprising &#945; crystalline perindopril tert-butylamine according to claim 25 and further limited to particular dosage forms such as tablets and lozenges.</sentence>
+ Apotex contends that claims 27 and 28 claim a pharmaceutical composition comprising &amp;#945; crystalline perindopril tert-butylamine according to claim 25 and further limited to particular dosage forms such as tablets and lozenges.</sentence>
 <sentence id="s160">It says that the specification as filed does not disclose the particular dosage form as being part of the invention and that claims 27 and 28 are not fairly based.</sentence>
 <sentence id="s161">The specification states that formulations are intended for oral administration.</sentence>
 <sentence id="s162">Among the pharmaceutical compositions specified are those suitable for oral, parenteral (intravenous or subcutaneous) or nasal administration and each of the forms specified in proposed claim 27.</sentence>
@@ -324,7 +324,7 @@
 <sentence id="s165">Example 2 is to the formulation for a tablet.</sentence>
 <sentence id="s166">The invention in claims 27 and 28 is in substance disclosed and the claims are fairly based.</sentence>
 <sentence id="s167">Claims 29 and 30
- Apotex says that claims 29 and 30 claim a pharmaceutical composition comprising a particular dosage of &#945; crystalline perindopril tert-butylamine but that the specification as filed does not disclose the particular dosage as being part of the invention and that claims 29 and 30 are not fairly based.</sentence>
+ Apotex says that claims 29 and 30 claim a pharmaceutical composition comprising a particular dosage of &amp;#945; crystalline perindopril tert-butylamine but that the specification as filed does not disclose the particular dosage as being part of the invention and that claims 29 and 30 are not fairly based.</sentence>
 <sentence id="s168">The dosage range of 1 to 500mg per day in one or more administrations is described in the body of the specification.</sentence>
 <sentence id="s169">Example 2 is for tablets containing 4mg of active ingredient.</sentence>
 <sentence id="s170">The invention in claims 29 and 30 is in substance disclosed and the claims are fairly based.</sentence>
@@ -363,7 +363,7 @@
 <sentence id="s198">Servier contends that the evidence of Dr Kennedy and Professor Easton does not support any lack of clarity in relation to the phrase "rapid and efficient filtration and drying" and that their evidence indicates that the phrase is clear without a specific reference point.</sentence>
 <sentence id="s199">I am not satisfied that the phrase lacks clarity, in context, to the skilled reader.</sentence>
 <sentence id="s200">Isolated in the form of individual needles
- In respect of claims 25, 35 and 38, Apotex says that they are not clear because, for each of these claims, it is a requirement that the &#945; crystalline form of perindopril tert-butylamine "has been isolated in the form of individual needles" and that this term does not have a sufficiently clear meaning in the context of the claims.</sentence>
+ In respect of claims 25, 35 and 38, Apotex says that they are not clear because, for each of these claims, it is a requirement that the &amp;#945; crystalline form of perindopril tert-butylamine "has been isolated in the form of individual needles" and that this term does not have a sufficiently clear meaning in the context of the claims.</sentence>
 <sentence id="s201">Apotex submits that the skilled addressee would not know what is being claimed by these claims.</sentence>
 <sentence id="s202">For example, it says that, with respect to claim 25, it is unclear whether the pharmaceutical composition must contain the compound in the form of individual needles or whether it is sufficient for the compound to have been in the form of individual needles at some point during the manufacturing process.</sentence>
 <sentence id="s203">Apotex also submits that claims 26, 36 and 39, which are dependent on claims 25, 35 and 38, are not clear because for each of these claims it is a requirement that the "individual needles allow rapid and efficient filtration and drying".</sentence>
@@ -381,7 +381,7 @@
 <sentence id="s213">That is, even if proposed amendments are otherwise allowable under s 102 of the Act, the Court may still refuse to direct the amendments on discretionary grounds.</sentence>
 <sentence id="s214">The Court should consider all relevant factors in deciding the exercise of that discretion.</sentence>
 <sentence id="s215">The considerations adverted to in other cases may be of assistance as guidelines but they are not to be elevated to principles or fixed rules to be applied inexorably to every case ( Wimmera Industrial Minerals Pty Ltd v RGC Mineral Sands Ltd (No 3) (1997) AIPC p91-366 (' Wimmera (No 3) ') at 39,790 per Sundberg J).</sentence>
-<sentence id="s216">Bodkin, Patent Law in Australia (Lawbook Co, 2008) at [13510] summarises the guidelines identified in Smith Kline &amp; French Laboratories Limited v Evans Medical Limited [1989] 1 FSR 561 (' Smith Kline ') and cited with approval by Sundberg J in Wimmera Industrial Minerals Pty Ltd v RGC Mineral Sands Ltd (No 2) (1997) 40 IPR 110 (' Wimmera (No 2) ') (and also in Wimmera (No 3) ), as relevant to the exercise of discretion: The Court does not approach the exercise of its discretion in a manner hostile or antipathetic to amendment.</sentence>
+<sentence id="s216">Bodkin, Patent Law in Australia (Lawbook Co, 2008) at [13510] summarises the guidelines identified in Smith Kline &amp;amp; French Laboratories Limited v Evans Medical Limited [1989] 1 FSR 561 (' Smith Kline ') and cited with approval by Sundberg J in Wimmera Industrial Minerals Pty Ltd v RGC Mineral Sands Ltd (No 2) (1997) 40 IPR 110 (' Wimmera (No 2) ') (and also in Wimmera (No 3) ), as relevant to the exercise of discretion: The Court does not approach the exercise of its discretion in a manner hostile or antipathetic to amendment.</sentence>
 <sentence id="s217">However, the onus is on the patentee to satisfy the Court that the amendments should be allowed.</sentence>
 <sentence id="s218">The Court is concerned with the conduct of the patentee and not with the merit of the invention ( Smith Kline at 569).</sentence>
 <sentence id="s219">Bodkin at [13520]ff conveniently summarises some of the matters that have been considered relevant.</sentence>
@@ -497,7 +497,7 @@
 <sentence id="s283">In particular, Apotex points to correspondence between Servier and AAR in 2007 in which AAR states that the amendments to the AC Patent were designed to overcome potential validity issues raised by the UK proceedings.</sentence>
 <sentence id="s284">I note that the content of that correspondence was confidential, but this aspect was discussed in open Court.</sentence>
 <sentence id="s285">Delay
- Servier submits that delay is only relevant to the exercise of the Court's discretion under s 105 of the Act in cases where the delay has been unreasonable (citing ICI Chemicals &amp; Polymers Ltd v Lubrizol Corp (1999) AIPC p91-521).</sentence>
+ Servier submits that delay is only relevant to the exercise of the Court's discretion under s 105 of the Act in cases where the delay has been unreasonable (citing ICI Chemicals &amp;amp; Polymers Ltd v Lubrizol Corp (1999) AIPC p91-521).</sentence>
 <sentence id="s286">Mr Hamer's evidence is that he first thought of the amendments in January to February 2007.</sentence>
 <sentence id="s287">An application to amend the AC Patent was made to IP Australia under s 104 of the Act on 2 March 2007.</sentence>
 <sentence id="s288">Servier contends that any delay which has occurred is the result of Apotex's actions, first in unsuccessfully seeking to oppose the patent application out of time, then reviewing the decision to refuse the extension of time and lastly seeking a review of the decision to dismiss Apotex's opposition to the s 104 amendments.</sentence>
@@ -507,7 +507,7 @@
 <sentence id="s291">Servier was clearly aware of the contents of the specification of the AC Patent, its own prior patent (held to anticipate the equivalent patent in the UK and in the Netherlands), the Coquerel reports written by the inventor of the AC Patent and its own prior product.</sentence>
 <sentence id="s292">Servier submits that these matters formed no part of its reasons to amend or to pursue amendment.</sentence>
 <sentence id="s293">I find that difficult to accept.</sentence>
-<sentence id="s294">Even if the relevant period is from the time when the patentee knows or ought to know of the need to amend the patent until the time when the application for amendment is made ( Novartis AG v Bausch &amp; Lomb (Australia) Pty Ltd [2004] FCA 835 ; (2004) 62 IPR 71) , Servier must have been aware of the issues surrounding needles, crystal size, filtration and drying for some time prior to the application to amend.</sentence>
+<sentence id="s294">Even if the relevant period is from the time when the patentee knows or ought to know of the need to amend the patent until the time when the application for amendment is made ( Novartis AG v Bausch &amp;amp; Lomb (Australia) Pty Ltd [2004] FCA 835 ; (2004) 62 IPR 71) , Servier must have been aware of the issues surrounding needles, crystal size, filtration and drying for some time prior to the application to amend.</sentence>
 <sentence id="s295">The time at which Mr Hamer became aware of these matters cannot explain Servier's delay in seeking the amendments.</sentence>
 <sentence id="s296">Mr Hamer's first affidavit did not clearly state that Servier was seeking to amend the AC Patent to address the validity issues raised in the UK proceedings.</sentence>
 <sentence id="s297">AAR's letter of 5 September 2008 stated that invalidity risks referred to in Mr Hamer's second affidavit were "general" and did not relate particularly to the AC Patent.</sentence>
@@ -535,7 +535,7 @@
 <sentence id="s315">Servier proposes to maintain the existing claims and to add a new set of claims with a purportedly narrowing element.</sentence>
 <sentence id="s316">From the information ultimately provided by Servier, the purpose of the proposed amendments seems to be to validate the claims in case none of the corresponding existing claims are valid or are infringed by Apotex.</sentence>
 <sentence id="s317">Courts have traditionally refused amendment if it was considered that the patentee's conduct had been such that, as a matter of discretion, the amendment should be refused.</sentence>
-<sentence id="s318">Following a period of strictness, this rule was relaxed so that it was not applied adversely unless the patentee had deliberately elected to maintain invalid claims which he or she knew or ought to have known required amendment (Thorley et al, Terrell on the Law of Patents (16 th ed, Sweet &amp; Maxwell, 2006) at 9-37).</sentence>
+<sentence id="s318">Following a period of strictness, this rule was relaxed so that it was not applied adversely unless the patentee had deliberately elected to maintain invalid claims which he or she knew or ought to have known required amendment (Thorley et al, Terrell on the Law of Patents (16 th ed, Sweet &amp;amp; Maxwell, 2006) at 9-37).</sentence>
 <sentence id="s319">Delay likely to be of some detriment to respondents or to the general public was also considered a factor, although mere delay was not ( Terrell at 9-38).</sentence>
 <sentence id="s320">There is no obligation on a patentee to disclose privileged documents, although there may be a need to do so to satisfy the obligation for full and frank disclosure.</sentence>
 <sentence id="s321">Failure to disclose documents in those circumstances may result in the exercise of discretion to refuse the amendments unless a reasonable explanation is given ( Wimmera (No 2) at 115).</sentence>
@@ -616,61 +616,61 @@ Dated: 11 September 2009
  
  
 19.</sentence>
-<sentence id="s379">&#945; crystalline form of the compound of formula (I):
+<sentence id="s379">&amp;#945; crystalline form of the compound of formula (I):
  
  
 characterised by having the following powder X-ray diffraction diagram, measured using a diffractometer (copper anticathode) and expressed in terms of inter-planar distance d, Bragg's angle 2 theta, intensity and relative intensity (expressed as a percentage with respect to the most intense ray)
  Angle 2 theta 
- (&#176;) Inter-planar 
- distance d (&Aring;) Intensity Relative intensity 
+ (&amp;#176;) Inter-planar 
+ distance d (&amp;Aring;) Intensity Relative intensity 
  (%) 7.680 11.50 390 8.8 8.144 10.85 230 5.2 9.037 9.78 4410 100 10.947 8.08 182 4.1 13.150 6.73 82 1.9 13.687 6.46 83 1.9 14.627 6.05 582 13.2 15.412 5.74 770 17.5 16.573 5.34 1115 25.3 17.357 5.10 340 7.7 18.109 4.89 193 4.4 19.922 4.45 306 6.9 20.609 4.31 375 8.5 21.412 4.15 226 5.1 21.832 4.07 217 4.9 22.158 4.01 483 11 22.588 3.93 386 8.8 23.323 3.81 107 2.4 24.200 3.67 448 10.2 24.727 3.60 137 3.1 25.957 3.43 125 2.8 26.932 3.31 75 1.7 27.836 3.20 197 4.5 28.966 3.08 129 2.9 29.213 3.05 117 2.7 
 
 and further characterized by being in the form of individual needles.</sentence>
-<sentence id="s380">The &#945; crystalline form of the compound according to claim 19, wherein the individual needles allow rapid and efficient filtration and drying of the compound.</sentence>
-<sentence id="s381">A process for preparation of the &#945; crystalline form of the compound of formula (I) according to claim 19 or 20, comprising heating a solution of perindopril tert-butylamine salt in ethyl acetate at reflux and gradually cooling the solution until crystallisation is complete forming individual needles, wherein the solution at reflux is first cooled to a temperature of from 55 to 65&#176;C at a rate of from 5 to 10&#176;C/hour, and then cooled to ambient temperature.</sentence>
+<sentence id="s380">The &amp;#945; crystalline form of the compound according to claim 19, wherein the individual needles allow rapid and efficient filtration and drying of the compound.</sentence>
+<sentence id="s381">A process for preparation of the &amp;#945; crystalline form of the compound of formula (I) according to claim 19 or 20, comprising heating a solution of perindopril tert-butylamine salt in ethyl acetate at reflux and gradually cooling the solution until crystallisation is complete forming individual needles, wherein the solution at reflux is first cooled to a temperature of from 55 to 65&amp;#176;C at a rate of from 5 to 10&amp;#176;C/hour, and then cooled to ambient temperature.</sentence>
 <sentence id="s382">The process according to claim 21, wherein the concentration of the perindopril tert-butylamine salt in the ethyl acetate is from 70 to 90 g/litre.</sentence>
-<sentence id="s383">The process according to claim 22, wherein the solution of perindopril tert-butylamine salt in ethyl acetate is seeded during the cooling step at a temperature of from 76 to 65&#176;C.
- The process according to claim 22 or 23, wherein the solution of the perindopril tert-butylamine salt in ethyl acetate at reflux is first cooled to a temperature of from 55 to 65&#176;C at a rate of from 6 to 8&#176;C/hour, and then to ambient temperature.</sentence>
-<sentence id="s384">A pharmaceutical composition comprising, as active ingredient, &#945; crystalline form of the compound of formula (I): 
+<sentence id="s383">The process according to claim 22, wherein the solution of perindopril tert-butylamine salt in ethyl acetate is seeded during the cooling step at a temperature of from 76 to 65&amp;#176;C.
+ The process according to claim 22 or 23, wherein the solution of the perindopril tert-butylamine salt in ethyl acetate at reflux is first cooled to a temperature of from 55 to 65&amp;#176;C at a rate of from 6 to 8&amp;#176;C/hour, and then to ambient temperature.</sentence>
+<sentence id="s384">A pharmaceutical composition comprising, as active ingredient, &amp;#945; crystalline form of the compound of formula (I): 
  
-in combination with one or more pharmaceutically acceptable, inert, non-toxic carriers; wherein the &#945; crystalline form of the compound of formula (I) being characterised by having the following powder X-ray diffraction diagram, measured using a diffractometer (copper anticathode) and expressed in terms of inter-planar distance d, Bragg's angle 2 theta, intensity and relative intensity (expressed as a percentage with respect to the most intense ray)
+in combination with one or more pharmaceutically acceptable, inert, non-toxic carriers; wherein the &amp;#945; crystalline form of the compound of formula (I) being characterised by having the following powder X-ray diffraction diagram, measured using a diffractometer (copper anticathode) and expressed in terms of inter-planar distance d, Bragg's angle 2 theta, intensity and relative intensity (expressed as a percentage with respect to the most intense ray)
  Angle 2 theta 
- (&#176;) Inter-planar 
- distance d (&Aring;) Intensity Relative intensity 
+ (&amp;#176;) Inter-planar 
+ distance d (&amp;Aring;) Intensity Relative intensity 
  (%) 7.680 11.50 390 8.8 8.144 10.85 230 5.2 9.037 9.78 4410 100 10.947 8.08 182 4.1 13.150 6.73 82 1.9 13.687 6.46 83 1.9 14.627 6.05 582 13.2 15.412 5.74 770 17.5 16.573 5.34 1115 25.3 17.357 5.10 340 7.7 18.109 4.89 193 4.4 19.922 4.45 306 6.9 20.609 4.31 375 8.5 21.412 4.15 226 5.1 21.832 4.07 217 4.9 22.158 4.01 483 11 22.588 3.93 386 8.8 23.323 3.81 107 2.4 24.200 3.67 448 10.2 24.727 3.60 137 3.1 25.957 3.43 125 2.8 26.932 3.31 75 1.7 27.836 3.20 197 4.5 28.966 3.08 129 2.9 29.213 3.05 117 2.7 
  
- and wherein the &#945; crystalline form of compound of formula (I) has been isolated in the form of individual needles.</sentence>
+ and wherein the &amp;#945; crystalline form of compound of formula (I) has been isolated in the form of individual needles.</sentence>
 <sentence id="s385">The pharmaceutical composition according to claim 25, wherein the individual needles allow rapid and efficient filtration and drying.</sentence>
-<sentence id="s386">The pharmaceutical composition according to claim 25 or 26 in the form of tablets or drag&eacute;es, sublingual tablets, gelatin capsules, lozenges, suppositories, creams, ointments, dermal gels, injectable preparations, or drinkable suspensions.</sentence>
+<sentence id="s386">The pharmaceutical composition according to claim 25 or 26 in the form of tablets or drag&amp;eacute;es, sublingual tablets, gelatin capsules, lozenges, suppositories, creams, ointments, dermal gels, injectable preparations, or drinkable suspensions.</sentence>
 <sentence id="s387">The pharmaceutical composition according to claim 27 in the form of a tablet.</sentence>
-<sentence id="s388">The pharmaceutical composition according to any one of claims 25 to 28 comprising from 1 to 500 mg of the &#945; crystalline form of the compound of formula (I).</sentence>
-<sentence id="s389">The pharmaceutical composition according to claim 29 comprising 4 mg of the &#945; crystalline form of the compound of formula (I).</sentence>
+<sentence id="s388">The pharmaceutical composition according to any one of claims 25 to 28 comprising from 1 to 500 mg of the &amp;#945; crystalline form of the compound of formula (I).</sentence>
+<sentence id="s389">The pharmaceutical composition according to claim 29 comprising 4 mg of the &amp;#945; crystalline form of the compound of formula (I).</sentence>
 <sentence id="s390">The pharmaceutical composition according to any one of claims 25 to 30, further comprising a diuretic.</sentence>
 <sentence id="s391">The pharmaceutical composition according to claim 31, wherein the diuretic is indapamide.</sentence>
 <sentence id="s392">Use of the pharmaceutical composition according to any one of claims 25 to 32 as an inhibitor of angiotensin I converting enzyme.</sentence>
 <sentence id="s393">The use according to claim 33 for treatment of cardiovascular disease.</sentence>
-<sentence id="s394">A method of treatment of cardiovascular disease comprising administering to a patient in need of such treatment an efficacious amount of &#945; crystalline form of the compound of formula (I): 
+<sentence id="s394">A method of treatment of cardiovascular disease comprising administering to a patient in need of such treatment an efficacious amount of &amp;#945; crystalline form of the compound of formula (I): 
  
 characterised by having the following powder X-ray diffraction diagram, measured using a diffractometer (copper anticathode) and expressed in terms of inter-planar distance d, Bragg's angle 2 theta, intensity and relative intensity (expressed as a percentage with respect to the most intense ray)
  Angle 2 theta 
- (&#176;) Inter-planar 
- distance d (&Aring;) Intensity Relative intensity 
+ (&amp;#176;) Inter-planar 
+ distance d (&amp;Aring;) Intensity Relative intensity 
  (%) 7.680 11.50 390 8.8 8.144 10.85 230 5.2 9.037 9.78 4410 100 10.947 8.08 182 4.1 13.150 6.73 82 1.9 13.687 6.46 83 1.9 14.627 6.05 582 13.2 15.412 5.74 770 17.5 16.573 5.34 1115 25.3 17.357 5.10 340 7.7 18.109 4.89 193 4.4 19.922 4.45 306 6.9 20.609 4.31 375 8.5 21.412 4.15 226 5.1 21.832 4.07 217 4.9 22.158 4.01 483 11 22.588 3.93 386 8.8 23.323 3.81 107 2.4 24.200 3.67 448 10.2 24.727 3.60 137 3.1 25.957 3.43 125 2.8 26.932 3.31 75 1.7 27.836 3.20 197 4.5 28.966 3.08 129 2.9 29.213 3.05 117 2.7 
 
-wherein the &#945; crystalline form of the compound of formula (I) has been isolated in the form of individual needles.</sentence>
+wherein the &amp;#945; crystalline form of the compound of formula (I) has been isolated in the form of individual needles.</sentence>
 <sentence id="s395">The method of treatment according to claim 35, wherein the individual needles allow rapid and efficient filtration and drying of the compound.</sentence>
 <sentence id="s396">A method of treatment of cardiovascular disease comprising administering to a patient in need of such treatment an efficacious amount of a pharmaceutical composition according to any one of claims 25 to 32.</sentence>
-<sentence id="s397">Use of the &#945; crystalline form of the compound of formula (I): 
+<sentence id="s397">Use of the &amp;#945; crystalline form of the compound of formula (I): 
  
 for the manufacture of a medicament for treatment of cardiovascular disease, 
  
-wherein the &#945; crystalline form of the compound of formula (I) being characterised by having the following powder X-ray diffraction diagram, measured using a diffractometer (copper anticathode) and expressed in terms of inter-planar distance d, Bragg's angle 2 theta, intensity and relative intensity (expressed as a percentage with respect to the most intense ray)
+wherein the &amp;#945; crystalline form of the compound of formula (I) being characterised by having the following powder X-ray diffraction diagram, measured using a diffractometer (copper anticathode) and expressed in terms of inter-planar distance d, Bragg's angle 2 theta, intensity and relative intensity (expressed as a percentage with respect to the most intense ray)
  Angle 2 theta 
- (&#176;) Inter-planar 
- distance d (&Aring;) Intensity Relative intensity 
+ (&amp;#176;) Inter-planar 
+ distance d (&amp;Aring;) Intensity Relative intensity 
  (%) 7.680 11.50 390 8.8 8.144 10.85 230 5.2 9.037 9.78 4410 100 10.947 8.08 182 4.1 13.150 6.73 82 1.9 13.687 6.46 83 1.9 14.627 6.05 582 13.2 15.412 5.74 770 17.5 16.573 5.34 1115 25.3 17.357 5.10 340 7.7 18.109 4.89 193 4.4 19.922 4.45 306 6.9 20.609 4.31 375 8.5 21.412 4.15 226 5.1 21.832 4.07 217 4.9 22.158 4.01 483 11 22.588 3.93 386 8.8 23.323 3.81 107 2.4 24.200 3.67 448 10.2 24.727 3.60 137 3.1 25.957 3.43 125 2.8 26.932 3.31 75 1.7 27.836 3.20 197 4.5 28.966 3.08 129 2.9 29.213 3.05 117 2.7 
 
-and wherein the &#945; crystalline form of the compound of formula (I) has been isolated in the form of individual needles.</sentence>
+and wherein the &amp;#945; crystalline form of the compound of formula (I) has been isolated in the form of individual needles.</sentence>
 <sentence id="s398">The use according to claim 38, wherein the individual needles allow rapid and efficient filtration and drying of the compound.</sentence>
 <sentence id="s399">
 

@@ -3,11 +3,11 @@
 <name>Australian Competition and Consumer Commission v Bill Express Limited (ACN 090 059 564) (In Liq) [2009] FCA 1022 (14 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1022.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">third line forcing</catchphrase>
-<catchphrase "id=c1">meaning of "on the condition"</catchphrase>
-<catchphrase "id=c2">misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c3">false and misleading representations</catchphrase>
-<catchphrase "id=c4">trade practices</catchphrase>
+<catchphrase id="c0">third line forcing</catchphrase>
+<catchphrase id="c1">meaning of "on the condition"</catchphrase>
+<catchphrase id="c2">misleading and deceptive conduct</catchphrase>
+<catchphrase id="c3">false and misleading representations</catchphrase>
+<catchphrase id="c4">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -312,7 +312,7 @@
 <sentence id="s101">The packages and their respective monthly costs were described in the following terms: 
  
  1.</sentence>
-<sentence id="s102">Package 1 --- PBE (Prepaid, Bill Payment &amp; EFTPOS) $160 
+<sentence id="s102">Package 1 --- PBE (Prepaid, Bill Payment &amp;amp; EFTPOS) $160 
  
 
  
@@ -342,7 +342,7 @@
 
  
 Most merchants selected Package 3 which obliged the merchant to pay TBI a rental fee of $495 plus stamp duty, plus GST per month, which was collected from the merchant by direct debit.</sentence>
-<sentence id="s108">Under "Packages 2 and 3", prospective merchants would "enjoy first 3 month 25% rental rebate off $385 &amp; $495 while cards &amp; advertising systems [were] installed, account card details loaded etc".</sentence>
+<sentence id="s108">Under "Packages 2 and 3", prospective merchants would "enjoy first 3 month 25% rental rebate off $385 &amp;amp; $495 while cards &amp;amp; advertising systems [were] installed, account card details loaded etc".</sentence>
 <sentence id="s109">The presentation reviewed the financial business case for each package.</sentence>
 <sentence id="s110">For example, the "business case" for "Hi Volume Pack 3" described the "Summary Estimated Totals" to be (I have adopted the format used elsewhere in the presentation): ESTIMATE Allow 50%
 Error Factor Gross Profit Per Month $3377 $1689 Less Opt 3 PBECA Cost ($495) ($495) Net Gain $2882 $1194 
@@ -351,13 +351,13 @@ Each business case suggested that a merchant would not be out of pocket even all
 <sentence id="s112">The steps were said to be: 
  
  
- &#8226; Fill Out an Expression of Interest today indicate preferred package
- &#8226; DialTime sales person will visit
- &#8226; Complete DialTime application kit
- o Merchant Application &amp; Rental Agreement
+ &amp;#8226; Fill Out an Expression of Interest today indicate preferred package
+ &amp;#8226; DialTime sales person will visit
+ &amp;#8226; Complete DialTime application kit
+ o Merchant Application &amp;amp; Rental Agreement
  o ANZ Eftpos Application
- &#8226; Hardware installed (approx 37 days)
- &#8226; Start processing bill payments (approx 7 days) 
+ &amp;#8226; Hardware installed (approx 37 days)
+ &amp;#8226; Start processing bill payments (approx 7 days) 
  
  
 
@@ -420,7 +420,7 @@ Each business case suggested that a merchant would not be out of pocket even all
  
  
 
- Package 2 &amp; 3 
+ Package 2 &amp;amp; 3 
  
  
  o $1.00 + GST for the first 250 trans per month
@@ -504,7 +504,7 @@ Rebates and a marketing subsidy were provided by BXP to merchants to cover the c
 <sentence id="s134">Each merchant was required to complete the "next steps" (see [37] above).</sentence>
 <sentence id="s135">First, complete an application form.</sentence>
 <sentence id="s136">The form directed merchants to use the checklist to assist them in completing the documents successfully.</sentence>
-<sentence id="s137">The "documents" were the Merchant Contract (Schedule A &amp; B), the Rental Contract (Documents 1-4) and "Package Options &amp; Rebates" (Schedule D &amp; E).</sentence>
+<sentence id="s137">The "documents" were the Merchant Contract (Schedule A &amp;amp; B), the Rental Contract (Documents 1-4) and "Package Options &amp;amp; Rebates" (Schedule D &amp;amp; E).</sentence>
 <sentence id="s138">In the 4 June 2008 letter, BXP's solicitors emphasised that "each Presentation clearly state[d] that [BXP] was only going to meet 25% of the Equipment rental costs for the first [three] months of the term" and that, in relation to rebates: 
  
  
@@ -630,7 +630,7 @@ Rebates and a marketing subsidy were provided by BXP to merchants to cover the c
  
  
 
- Third line forcing has been considered by a number of Australian Courts: see for example Castlemaine Tooheys Ltd v Williams and Hodgson Transport Pty Ltd [1986] HCA 72 ; (1986) 162 CLR 395 ; The Paul Dainty Corporation Pty Ltd v The National Tennis Centre Trust [1990] FCA 163 ; (1990) 22 FCR 495 ; Australian Competition &amp; Consumer Commission v IMB Group Pty Ltd (ACN 050 411 946) (in liq) [2002] FCA 402.</sentence>
+ Third line forcing has been considered by a number of Australian Courts: see for example Castlemaine Tooheys Ltd v Williams and Hodgson Transport Pty Ltd [1986] HCA 72 ; (1986) 162 CLR 395 ; The Paul Dainty Corporation Pty Ltd v The National Tennis Centre Trust [1990] FCA 163 ; (1990) 22 FCR 495 ; Australian Competition &amp;amp; Consumer Commission v IMB Group Pty Ltd (ACN 050 411 946) (in liq) [2002] FCA 402.</sentence>
 <sentence id="s177">The applicable principles may be summarised as follows: third line forcing has been the subject of per se prohibition since its enactment.</sentence>
 <sentence id="s178">There is no requirement that the conduct complained of be done for the purpose or effect or likely effect of substantially lessening competition: IMB Group [2002] FCA 402 at [56] ; third line forcing requires two discrete products or services with the supply of the first being conditional on the purchaser acquiring another product or service directly or indirectly from a third person: IMB Group [2002] FCA 402 at [72] ; however, where two products or services manufactured or supplied by different entities, are bundled and supplied as a bundled package by the lead supplier, exclusive dealing is not made out because the purchaser could have made separate arrangements for the acquisition of the different components of the package: IMB Group [2002] FCA 402 at [72] .</sentence>
 <sentence id="s179">As the second principle provides, the supply of the first must be conditional on the purchaser acquiring another product or service directly or indirectly from a third person.</sentence>
@@ -835,8 +835,8 @@ co-operative society and its members contravened s 47(6) of the TPA.</sentence>
  
  
 
- Of course, the "condition" need not be legally enforceable or direct (see s 47(13)(a)) and the imposition of the "condition" may, for example, be a conclusion the Court inferentially draws from "the entire factual matrix": Australian Competition &amp; Consumer Commission v IMB Group Pty Ltd (ACN 050 411 946) (in liq) [2002] FCA 402 at [79] .</sentence>
-<sentence id="s262">It is therefore unsurprising that Courts have rejected the contention that infringement of s 47(6) of the TPA was determined by whether or not the supplier offered to enter into a single packaged contract with the purchaser or whether the arrangements involved the purchaser entering into separate contracts with the tying supplier and the tied supplier: IMB Group [2002] FCA 402 at [79] , [84] and [95]; Castlemaine Tooheys Ltd v Williams &amp; Hodgson Transport Pty Ltd [1986] HCA 72 ; (1986) 162 CLR 395 at 403; The Paul Dainty Corporation Pty Ltd v The National Tennis Centre Trust [1990] FCA 163 ; (1990) 22 FCR 495 at 515.</sentence>
+ Of course, the "condition" need not be legally enforceable or direct (see s 47(13)(a)) and the imposition of the "condition" may, for example, be a conclusion the Court inferentially draws from "the entire factual matrix": Australian Competition &amp;amp; Consumer Commission v IMB Group Pty Ltd (ACN 050 411 946) (in liq) [2002] FCA 402 at [79] .</sentence>
+<sentence id="s262">It is therefore unsurprising that Courts have rejected the contention that infringement of s 47(6) of the TPA was determined by whether or not the supplier offered to enter into a single packaged contract with the purchaser or whether the arrangements involved the purchaser entering into separate contracts with the tying supplier and the tied supplier: IMB Group [2002] FCA 402 at [79] , [84] and [95]; Castlemaine Tooheys Ltd v Williams &amp;amp; Hodgson Transport Pty Ltd [1986] HCA 72 ; (1986) 162 CLR 395 at 403; The Paul Dainty Corporation Pty Ltd v The National Tennis Centre Trust [1990] FCA 163 ; (1990) 22 FCR 495 at 515.</sentence>
 <sentence id="s263">Whether in the present case the "the entire factual matrix" establishes the supply of goods or services to a purchaser "on the condition" that the purchaser acquire goods from another is an issue to which I shall now turn.</sentence>
 <sentence id="s264">Application of law to the facts
  The ACCC submitted that there was "an abundance of evidence" that a "condition" within the meaning of s 47(13)(a) of the TPA was imposed on merchants.</sentence>

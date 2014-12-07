@@ -3,15 +3,15 @@
 <name>Alstom Power Limited v Eraring Energy [2009] FCA 681 (23 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/681.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for pre-action discovery</catchphrase>
-<catchphrase "id=c1">respondent objected on basis that documents sought already discovered in separate arbitration proceedings and that any claims should be pursued in arbitration</catchphrase>
-<catchphrase "id=c2">application successful</catchphrase>
-<catchphrase "id=c3">costs reserved</catchphrase>
-<catchphrase "id=c4">discovery made</catchphrase>
-<catchphrase "id=c5">no proceedings subsequently pursued in the federal court</catchphrase>
-<catchphrase "id=c6">claims unsuccessfully pursued in arbitration</catchphrase>
-<catchphrase "id=c7">on balance, no order as to costs</catchphrase>
-<catchphrase "id=c8">costs</catchphrase>
+<catchphrase id="c0">application for pre-action discovery</catchphrase>
+<catchphrase id="c1">respondent objected on basis that documents sought already discovered in separate arbitration proceedings and that any claims should be pursued in arbitration</catchphrase>
+<catchphrase id="c2">application successful</catchphrase>
+<catchphrase id="c3">costs reserved</catchphrase>
+<catchphrase id="c4">discovery made</catchphrase>
+<catchphrase id="c5">no proceedings subsequently pursued in the federal court</catchphrase>
+<catchphrase id="c6">claims unsuccessfully pursued in arbitration</catchphrase>
+<catchphrase id="c7">on balance, no order as to costs</catchphrase>
+<catchphrase id="c8">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -304,7 +304,7 @@ After some clarification of the above proposition, Mr Nosworthy stated the first
 <sentence id="s155">It was not submitted to Selway J that the application was not brought in good faith.</sentence>
 <sentence id="s156">The fact that, having had the benefit of a pre-action discovery order, the applicant then decided to make a claim under the TP Act against the first respondent, but to bring that claim in the arbitration, does not in my view really weigh against the making of some costs order in favour of the applicant on the application.</sentence>
 <sentence id="s157">The choice of forum in the first place was for the applicant.</sentence>
-<sentence id="s158">The authorities, however, clearly consider the outcome of any subsequent substantive proceedings that an applicant may bring against a respondent in the light of any order for pre-action discovery as a very relevant issue: Cappuccio v Australia &amp; New Zealand Banking Group Ltd [1999] FCA 1188.</sentence>
+<sentence id="s158">The authorities, however, clearly consider the outcome of any subsequent substantive proceedings that an applicant may bring against a respondent in the light of any order for pre-action discovery as a very relevant issue: Cappuccio v Australia &amp;amp; New Zealand Banking Group Ltd [1999] FCA 1188.</sentence>
 <sentence id="s159">Normally, the costs of a pre-action discovery order followed by a proceeding would follow the event when the proceeding was resolved.</sentence>
 <sentence id="s160">I see no reason why that starting point should not be adopted when the proceeding is by way of arbitration, rather than in the Court in which the order for pre-action discovery was made.</sentence>
 <sentence id="s161">The applicant put no submission to suggest that such a circumstance provided a distinguishing element.</sentence>

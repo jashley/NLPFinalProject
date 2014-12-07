@@ -3,25 +3,25 @@
 <name>Primelife Corporation Limited v Bufalo [2008] FCA 1742 (20 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1742.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">property of bankrupt estate included choses in action</catchphrase>
-<catchphrase "id=c1">whether proceedings on choses in action would inevitably fail</catchphrase>
-<catchphrase "id=c2">whether choses in action "hopeless"</catchphrase>
-<catchphrase "id=c3">whether trustee wrong to contemplate assignment of choses in action.</catchphrase>
-<catchphrase "id=c4">decision by trustee in bankruptcy not to assign choses in action</catchphrase>
-<catchphrase "id=c5">judgment of federal magistrates court of australia with respect to such decision under s 178 of bankruptcy act 1966</catchphrase>
-<catchphrase "id=c6">decision allowed to stand</catchphrase>
-<catchphrase "id=c7">whether right of appeal to federal court of australia from judgment</catchphrase>
-<catchphrase "id=c8">whether leave to appeal required</catchphrase>
-<catchphrase "id=c9">whether judgment finally disposed of rights of parties.</catchphrase>
-<catchphrase "id=c10">costs</catchphrase>
-<catchphrase "id=c11">interlocutory applications disposed of favourably to party which was ultimately unsuccessful</catchphrase>
-<catchphrase "id=c12">final hearing concerned with various issues</catchphrase>
-<catchphrase "id=c13">party partly successful and partly unsuccessful</catchphrase>
-<catchphrase "id=c14">apportionment of costs</catchphrase>
-<catchphrase "id=c15">whether magistrate's discretion miscarried.</catchphrase>
-<catchphrase "id=c16">bankruptcy and insolvency</catchphrase>
-<catchphrase "id=c17">practice and procedure</catchphrase>
-<catchphrase "id=c18">practice and procedure</catchphrase>
+<catchphrase id="c0">property of bankrupt estate included choses in action</catchphrase>
+<catchphrase id="c1">whether proceedings on choses in action would inevitably fail</catchphrase>
+<catchphrase id="c2">whether choses in action "hopeless"</catchphrase>
+<catchphrase id="c3">whether trustee wrong to contemplate assignment of choses in action.</catchphrase>
+<catchphrase id="c4">decision by trustee in bankruptcy not to assign choses in action</catchphrase>
+<catchphrase id="c5">judgment of federal magistrates court of australia with respect to such decision under s 178 of bankruptcy act 1966</catchphrase>
+<catchphrase id="c6">decision allowed to stand</catchphrase>
+<catchphrase id="c7">whether right of appeal to federal court of australia from judgment</catchphrase>
+<catchphrase id="c8">whether leave to appeal required</catchphrase>
+<catchphrase id="c9">whether judgment finally disposed of rights of parties.</catchphrase>
+<catchphrase id="c10">costs</catchphrase>
+<catchphrase id="c11">interlocutory applications disposed of favourably to party which was ultimately unsuccessful</catchphrase>
+<catchphrase id="c12">final hearing concerned with various issues</catchphrase>
+<catchphrase id="c13">party partly successful and partly unsuccessful</catchphrase>
+<catchphrase id="c14">apportionment of costs</catchphrase>
+<catchphrase id="c15">whether magistrate's discretion miscarried.</catchphrase>
+<catchphrase id="c16">bankruptcy and insolvency</catchphrase>
+<catchphrase id="c17">practice and procedure</catchphrase>
+<catchphrase id="c18">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -293,7 +293,7 @@ Although not concerned with subs (3) as such, and although concerned with appeal
 <sentence id="s229">His Honour noted that it had long been the law that --- 
  ... this deemed abandonment of an action by the trustee is no bar to him commencing a fresh action on the same cause of action the subject of the abandoned proceedings.</sentence>
 <sentence id="s230">That is to say, the cause of action survives the abandonment of the action.</sentence>
-<sentence id="s231">Drummond J was unable to accept as a true statement of the law an obiter dictum by Pincus JA and White J in Theissbacher v MacGregor Garrick &amp; Co [1993] 2 Qd R 223, 230 to the effect that an abandonment under s 60(3) of the Bankruptcy Act "[destroyed] the trustee's right to pursue the action absolutely".</sentence>
+<sentence id="s231">Drummond J was unable to accept as a true statement of the law an obiter dictum by Pincus JA and White J in Theissbacher v MacGregor Garrick &amp;amp; Co [1993] 2 Qd R 223, 230 to the effect that an abandonment under s 60(3) of the Bankruptcy Act "[destroyed] the trustee's right to pursue the action absolutely".</sentence>
 <sentence id="s232">Counsel for the appellants in the present case submitted that Drummond J had failed to appreciate the distinction between the action to which s 60(3) refers (ie the proceeding) and the underlying cause of action.</sentence>
 <sentence id="s233">It was only the former, according to counsel, that Pincus JA and White J were referring to when they said that the right to pursue the action was destroyed absolutely.</sentence>
 <sentence id="s234">I accept that submission, and note that it finds support in the judgment of Katz J in Campbell v Metway Leasing Ltd (2001) 188 ALR 100.</sentence>

@@ -3,13 +3,13 @@
 <name>Ex parte McGrath; in the matter of Pan Pharmaceuticals Limited (in Liq) [2008] FCA 563 (23 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/563.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for court directions in winding up</catchphrase>
-<catchphrase "id=c1">proceedings involving former chief executive officer, company in liquidation and officers of the commonwealth</catchphrase>
-<catchphrase "id=c2">court's power to give directions</catchphrase>
-<catchphrase "id=c3">within power for liquidators to direct assignment of causes of action as part of terms of settlement</catchphrase>
-<catchphrase "id=c4">assignment justified</catchphrase>
-<catchphrase "id=c5">claims for confidentiality upheld</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase id="c0">application for court directions in winding up</catchphrase>
+<catchphrase id="c1">proceedings involving former chief executive officer, company in liquidation and officers of the commonwealth</catchphrase>
+<catchphrase id="c2">court's power to give directions</catchphrase>
+<catchphrase id="c3">within power for liquidators to direct assignment of causes of action as part of terms of settlement</catchphrase>
+<catchphrase id="c4">assignment justified</catchphrase>
+<catchphrase id="c5">claims for confidentiality upheld</catchphrase>
+<catchphrase id="c6">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -120,7 +120,7 @@
 <sentence id="s82">37 In the present case the agreement in cl 10.1 of the Deed is that the liquidators will cause Pan to assign the causes of action against the Commonwealth.</sentence>
 <sentence id="s83">The assignment is an absolute one.</sentence>
 <sentence id="s84">38 It seems to me to follow from what was said by Lee J and from the various authorities to which his Honour referred that in the present case the proposed assignment of the causes of action is within the power of the liquidator.</sentence>
-<sentence id="s85">See also the comparatively recent decision of the High Court in Campbells Cash &amp; Carry Pty Ltd v Fostif Pty Ltd [2006] HCA 41 ; (2006) 229 CLR 386.</sentence>
+<sentence id="s85">See also the comparatively recent decision of the High Court in Campbells Cash &amp;amp; Carry Pty Ltd v Fostif Pty Ltd [2006] HCA 41 ; (2006) 229 CLR 386.</sentence>
 <sentence id="s86">Whether the assignment is justified 
  
 39 The second question is whether the liquidators are justified in entering into the assignment.</sentence>

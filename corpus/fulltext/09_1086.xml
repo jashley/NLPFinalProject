@@ -3,10 +3,10 @@
 <name>Wenkart v Pantzer [2009] FCA 1086 (25 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1086.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">order that an inquiry be conducted</catchphrase>
-<catchphrase "id=c1">objection to certificate</catchphrase>
-<catchphrase "id=c2">nature of the hearing to be undertaken by the court</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase id="c0">order that an inquiry be conducted</catchphrase>
+<catchphrase id="c1">objection to certificate</catchphrase>
+<catchphrase id="c2">nature of the hearing to be undertaken by the court</catchphrase>
+<catchphrase id="c3">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -347,9 +347,9 @@ In including the sum of $105,000 in her table, the sum identified in paragraph 3
 <sentence id="s194">Her Honour there stated: 
  
  [71] Schedule A of the Certificate of Taxation allowed $88,042.24 in respect of paid costs and Schedule B allowed $180,435.40 in respect of unpaid costs.</sentence>
-<sentence id="s195">Ms Sexton's evidence, as given before Beaumont J and accepted before me to reflect the truth, was that she was appointed to tax the solicitor-client bills of costs of Cutler Hughes &amp; Harris but that she did not receive bills of costs; rather she received computer print-outs of the work done on a daily basis by various members of the firm.</sentence>
+<sentence id="s195">Ms Sexton's evidence, as given before Beaumont J and accepted before me to reflect the truth, was that she was appointed to tax the solicitor-client bills of costs of Cutler Hughes &amp;amp; Harris but that she did not receive bills of costs; rather she received computer print-outs of the work done on a daily basis by various members of the firm.</sentence>
 <sentence id="s196">She understood that bills of costs had not been drawn because funding was not available to pay someone to draw proper bills of costs.</sentence>
-<sentence id="s197">As I understand Ms Sexton's evidence, she had access to Cutler Hughes &amp; Harris' files and she checked each item on the computer print out against the files and allowed the item only if she could find material on the files that supported the item.</sentence>
+<sentence id="s197">As I understand Ms Sexton's evidence, she had access to Cutler Hughes &amp;amp; Harris' files and she checked each item on the computer print out against the files and allowed the item only if she could find material on the files that supported the item.</sentence>
 <sentence id="s198">
  
 

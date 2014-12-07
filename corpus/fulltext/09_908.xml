@@ -3,13 +3,13 @@
 <name>SZMPF v Minister for Immigration and Citizenship [2009] FCA 908 (21 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/908.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">review of reasons of refugee review tribunal</catchphrase>
-<catchphrase "id=c1">jurisdictional error</catchphrase>
-<catchphrase "id=c2">no failure to consider a contention</catchphrase>
-<catchphrase "id=c3">resolution of claim as advanced</catchphrase>
-<catchphrase "id=c4">no requirement to resolve an alternative claim not squarely raised</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
+<catchphrase id="c0">review of reasons of refugee review tribunal</catchphrase>
+<catchphrase id="c1">jurisdictional error</catchphrase>
+<catchphrase id="c2">no failure to consider a contention</catchphrase>
+<catchphrase id="c3">resolution of claim as advanced</catchphrase>
+<catchphrase id="c4">no requirement to resolve an alternative claim not squarely raised</catchphrase>
+<catchphrase id="c5">migration</catchphrase>
+<catchphrase id="c6">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -301,7 +301,7 @@ Their Honours thereafter went on to refer to the decision in SGBB v Minister for
  
 But this does not mean the application is to be treated as an exercise in 19th Century pleading.</sentence>
 <sentence id="s137">
- His Honour noted that the Full Court in Dranichnikov v Minister for Immigration &amp; Multicultural Affairs [2000] FCA 1801 at [49] had said: 
+ His Honour noted that the Full Court in Dranichnikov v Minister for Immigration &amp;amp; Multicultural Affairs [2000] FCA 1801 at [49] had said: 
 
  
 The Tribunal must, of course, deal with the case raised by the material and evidence before it.</sentence>

@@ -3,14 +3,14 @@
 <name>Espasia Pty Ltd (ABN 74 057 517 825), In the matter of Farm By Nature Pty Ltd (ABN 13 107 299 730) [2009] FCA 1559 (22 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1559.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">shares</catchphrase>
-<catchphrase "id=c1">convertible notes</catchphrase>
-<catchphrase "id=c2">compulsory acquisition of</catchphrase>
-<catchphrase "id=c3">application for approval of compulsory acquisition</catchphrase>
-<catchphrase "id=c4">whether applicant satisfied relevant statutory provisions</catchphrase>
-<catchphrase "id=c5">whether expert's report satisfied relevant statutory provisions</catchphrase>
-<catchphrase "id=c6">whether fair value was given for shares and notes</catchphrase>
-<catchphrase "id=c7">corporations</catchphrase>
+<catchphrase id="c0">shares</catchphrase>
+<catchphrase id="c1">convertible notes</catchphrase>
+<catchphrase id="c2">compulsory acquisition of</catchphrase>
+<catchphrase id="c3">application for approval of compulsory acquisition</catchphrase>
+<catchphrase id="c4">whether applicant satisfied relevant statutory provisions</catchphrase>
+<catchphrase id="c5">whether expert's report satisfied relevant statutory provisions</catchphrase>
+<catchphrase id="c6">whether fair value was given for shares and notes</catchphrase>
+<catchphrase id="c7">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -224,7 +224,7 @@ The other item of clarification identified is not relevant to the issues in disp
  
 
  STATUTORY FRAMEWORK 
- The relevant statutory framework, including its history, has been the subject of previous decisions: see eg Capricorn Diamonds Investments Pty Ltd v Catto [2002] VSC 105 ; (2002) 5 VR 61 at [21] - [29] ; Austrim Nylex Ltd v Kroll (No 2) [2002] VSC 193 ; (2002) 42 ACSR 18 at [6] ; Resource Surveys Pty Ltd v Harmony Gold (Australia) Pty Ltd [2002] FCA 391 ; (2002) 121 FCR 452 ; ConocoPhillips WA --- 248 Pty Ltd v Batoka Pty Ltd [2005] WASC 184 ; (2005) 54 ACSR 646 ; Regional Publishers Pty Ltd v Elkington [2006] FCA 1017 ; (2006) 154 FCR 218 at [2] - [8] and Mitsui &amp; Company Ltd v Hanwha (HK) Company Ltd [2007] FCA 2070 ; (2007) 166 FCR 187 at [22] - [27] .</sentence>
+ The relevant statutory framework, including its history, has been the subject of previous decisions: see eg Capricorn Diamonds Investments Pty Ltd v Catto [2002] VSC 105 ; (2002) 5 VR 61 at [21] - [29] ; Austrim Nylex Ltd v Kroll (No 2) [2002] VSC 193 ; (2002) 42 ACSR 18 at [6] ; Resource Surveys Pty Ltd v Harmony Gold (Australia) Pty Ltd [2002] FCA 391 ; (2002) 121 FCR 452 ; ConocoPhillips WA --- 248 Pty Ltd v Batoka Pty Ltd [2005] WASC 184 ; (2005) 54 ACSR 646 ; Regional Publishers Pty Ltd v Elkington [2006] FCA 1017 ; (2006) 154 FCR 218 at [2] - [8] and Mitsui &amp;amp; Company Ltd v Hanwha (HK) Company Ltd [2007] FCA 2070 ; (2007) 166 FCR 187 at [22] - [27] .</sentence>
 <sentence id="s64">For present purposes, some aspects of the statutory framework and the legislative history are worth restating.</sentence>
 <sentence id="s65">First, Pt 6A.2 of the Act is "intended to balance the interests of facilitating changes in corporate ownership with the need to protect the rights of minority shareholders": Explanatory Memorandum, Corporate Law Economic Reform Program Bill 1998 (Cth), (the EM ) para 7.1.</sentence>
 <sentence id="s66">Secondly, Pt 6A.2 permits all securities (not just shares) to be compulsorily acquired.</sentence>
@@ -618,7 +618,7 @@ Dated: 22 December 2009
  
  Counsel for the Defendants: J Simpson 
  
- Solicitor for the Defendants: Balfe &amp; Webb 
+ Solicitor for the Defendants: Balfe &amp;amp; Webb 
  Date of Hearing: 8 December 2009 
  
  Date of Judgment: 22 December 2009 

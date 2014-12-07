@@ -3,9 +3,9 @@
 <name>Ferguson Corporation Pty Ltd ACN 008 943 646 v Kowalewski [2008] FCA 593 (2 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/593.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">particular discovery</catchphrase>
-<catchphrase "id=c1">whether fishing expedition</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase id="c0">particular discovery</catchphrase>
+<catchphrase id="c1">whether fishing expedition</catchphrase>
+<catchphrase id="c2">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -103,7 +103,7 @@
 10 Order 15 r 8 of the Federal Court Rules empowers the Court to order a party to provide discovery of documents 'relating to any matter in question in the proceeding'.</sentence>
 <sentence id="s26">It is clear that r 8 provides a right of a different and additional kind from that right available by way of general discovery as it is now understood under the Federal Court Rules .</sentence>
 <sentence id="s27">11 In Seven Network Ltd v New Ltd (No 5) (2005) 216 ALR 147 Sackville J held that the test to be applied in determining whether r 8 particular discovery should be ordered was whether the documents sought were 'reasonably likely to add, in the end, in some way or other, to the relevant evidence in the case'.</sentence>
-<sentence id="s28">However it is also then stressed by Gray J in Independent Cement &amp; Lime Pty Ltd v Australian Cement Ltd &amp; Ors [1988] FCA 749 that pure speculation that the documents might exist is not a sufficient ground for the making of an order of the kind contemplated by r 8.</sentence>
+<sentence id="s28">However it is also then stressed by Gray J in Independent Cement &amp;amp; Lime Pty Ltd v Australian Cement Ltd &amp;amp; Ors [1988] FCA 749 that pure speculation that the documents might exist is not a sufficient ground for the making of an order of the kind contemplated by r 8.</sentence>
 <sentence id="s29">12 In Spyer v Cuddles 'N' Mum (Franchise) Pty Ltd (No 3) [2002] FCA 1563 , Lindgren J outlined the developments which have occurred in the Federal Court Rules providing a more restricted ambit of discovery in relation to a notice of discovery required by O 15 r 2.</sentence>
 <sentence id="s30">However, he then pointed to the fact that the expression 'relating to any matter in question in the proceeding' under r 8 did, import the Peruvian Guano test.</sentence>
 <sentence id="s31">It followed that there was a disconformity between the narrower and more demanding test of discoverability under O 15 r 2(3) and the Peruvian Guano test.</sentence>
@@ -114,10 +114,10 @@
 <sentence id="s36">Ferguson Corporation contends that as Mr Kowalewski has already attempted but failed on a motion to strike out the Ferguson Corporation pleadings, there is a strong indication that Ferguson Corporation has established sufficient a case on its pleading (and which is supplemented by affidavit material supporting the pleading) that it would be difficult to conclude that the documents it seeks are within the category of documents which are necessary to establish a case in the first place.</sentence>
 <sentence id="s37">14 Lindgren J, in Trade Practices Commission v CC (NSW) Pty Ltd (No 4) (1995) 58 FCR 426 at 437-438 said:
  It remains to consider the submission that discovery should not be ordered because the Commission seeks to use it as a "fishing expedition".</sentence>
-<sentence id="s38">It has often been said to be a ground on which discovery (and interrogatories) will not be ordered, that the purpose is to carry out a "fishing expedition": see, for example, Hennessy v Wright (No 2) (1890) 24 QBD 445n at 448n; Russell v Stubbs Ltd [1913] 2 KB 200n at 204n; Rofe v Kevorkian [1936] 2 All ER 1334 at 1337-1338; Associated Dominions Assurance Society Pty Ltd v John Fairfax &amp; Sons Pty Ltd (1952) 72 WN (NSW) 250 at 254; Latec Finance Pty Ltd v Jury [1960] NSWR 321 at 323; Melbourne Home of Ford Pty Ltd v Trade Practices Commission (1979) 36 FLR 450 at 459-460; WA Pines Pty Ltd v Bannerman (1980) 41 FLR 175 at 181-182, 190-191; Lloyd v Costigan (1983) 62 ALR 284 at 292; Australian Securities Commission v Dalleagles Pty Ltd (unreported, Federal Court, French J, 27 February 1992) at p 14; and cf E Bray, The Principles and Practice of Discovery (1885), p 13.</sentence>
+<sentence id="s38">It has often been said to be a ground on which discovery (and interrogatories) will not be ordered, that the purpose is to carry out a "fishing expedition": see, for example, Hennessy v Wright (No 2) (1890) 24 QBD 445n at 448n; Russell v Stubbs Ltd [1913] 2 KB 200n at 204n; Rofe v Kevorkian [1936] 2 All ER 1334 at 1337-1338; Associated Dominions Assurance Society Pty Ltd v John Fairfax &amp;amp; Sons Pty Ltd (1952) 72 WN (NSW) 250 at 254; Latec Finance Pty Ltd v Jury [1960] NSWR 321 at 323; Melbourne Home of Ford Pty Ltd v Trade Practices Commission (1979) 36 FLR 450 at 459-460; WA Pines Pty Ltd v Bannerman (1980) 41 FLR 175 at 181-182, 190-191; Lloyd v Costigan (1983) 62 ALR 284 at 292; Australian Securities Commission v Dalleagles Pty Ltd (unreported, Federal Court, French J, 27 February 1992) at p 14; and cf E Bray, The Principles and Practice of Discovery (1885), p 13.</sentence>
 <sentence id="s39">What does the reference to a "fishing expedition" mean?</sentence>
 <sentence id="s40">After all, ex hypothesi, the giving of discovery will often, if not always, reveal documents of which the other party was not previously aware (similarly, the administering of interrogatories will often, if not always, reveal information of which the other party was not previously aware).</sentence>
-<sentence id="s41">What is meant is that discovery must not be used for the purpose of ascertaining whether a case exists, as distinct from the purpose of compelling the production of documents where there is already some evidence that a case exists: see, for example, Commissioner for Railways v Small (1938) 38 SR (NSW) 564 at 575; Associated Dominions Assurance Society Pty Ltd v John Fairfax &amp; Sons Pty Ltd; WA Pines Pty Ltd v Bannerman; Barbarian Motor Cycle Club Inc v Koithan (1984) 35 SASR 481 at 486; Nestle Australia Ltd v Commissioner of Taxation (1986) 10 FCR 78 at 82-83; Mobex Pty Ltd v Comptroller-General of Customs (unreported, Federal Court, Foster J, 18 May 1994), at p 18.</sentence>
+<sentence id="s41">What is meant is that discovery must not be used for the purpose of ascertaining whether a case exists, as distinct from the purpose of compelling the production of documents where there is already some evidence that a case exists: see, for example, Commissioner for Railways v Small (1938) 38 SR (NSW) 564 at 575; Associated Dominions Assurance Society Pty Ltd v John Fairfax &amp;amp; Sons Pty Ltd; WA Pines Pty Ltd v Bannerman; Barbarian Motor Cycle Club Inc v Koithan (1984) 35 SASR 481 at 486; Nestle Australia Ltd v Commissioner of Taxation (1986) 10 FCR 78 at 82-83; Mobex Pty Ltd v Comptroller-General of Customs (unreported, Federal Court, Foster J, 18 May 1994), at p 18.</sentence>
 <sentence id="s42">In WA Pines Pty Ltd v Bannerman at 181, Brennan J said that what is required is that "sufficient is shown to ground a suspicion that the party applying for discovery has a good case proof of which is likely to be aided by discovery".</sentence>
 <sentence id="s43">On the facts of particular cases, the application of the distinction between "fishing" and "non-fishing" may well be difficult.</sentence>
 <sentence id="s44">15 Similar concepts were canvassed in WA Pines Pty Ltd v Bannerman (1980) 41 FLR 175 at 190-191per Lockhart J:
@@ -140,7 +140,7 @@
 <sentence id="s60">It appears that discovery was refused because all that the plaintiff had done at that stage of the case was to allege that she was next of kin of the intestate and there was no evidence to support her assertion.</sentence>
 <sentence id="s61">The estate of intestates were frequently claimed by persons of whom many had no foundation for their claims; but by obtaining on discovery production of documents belonging to the intestate they obtained information by means of which fresh fictitious cases were in many instances manufactured.</sentence>
 <sentence id="s62">In Associated Dominions Assurance Society Pty.</sentence>
-<sentence id="s63">Ltd. v. John Fairfax &amp; Sons Pty.</sentence>
+<sentence id="s63">Ltd. v. John Fairfax &amp;amp; Sons Pty.</sentence>
 <sentence id="s64">Ltd. (1952) 72 W.N.</sentence>
 <sentence id="s65">(N.S.W.</sentence>
 <sentence id="s66">) 250 , Owen J. said: "A 'fishing expedition', in the sense in which the phrase has been used in the law, means, as I understand it, that a person who has no evidence that fish of a particular kind are in a pool desires to be at liberty to drag it for the purpose of finding out whether there are any there or not" [(1952) 72 W.N.</sentence>
@@ -166,7 +166,7 @@
  16 It is appropriate to identify the relevant principles with respect to the pleading of confidential information and competition cases.</sentence>
 <sentence id="s83">First, as a general proposition the courts are reluctant to permit a previous employer to use a generally worded claim to stifle the right of an employee to use the skill and experience of that employee sometimes called "know-how" as distinct from an ex-employer's "secrets".</sentence>
 <sentence id="s84">Second, confidential information and competition cases call for specificity in the pleading of material facts to overcome the bringing of actions that are speculative in character.</sentence>
-<sentence id="s85">The latter view was expressed by Templeman J in John Zinc &amp; Co Limited v Lloyds Bank Limited (1975) RPC 385 ; also, by Whitford J in Reinforced Plastics Applications (Swansea) Limited v Swanswea Plastics &amp; Engineering Co Limited (1979) FSR 182 ; and by Mummery J in Ixora Trading Incorporated and anor v Jones and anor (1990) FSR 251.</sentence>
+<sentence id="s85">The latter view was expressed by Templeman J in John Zinc &amp;amp; Co Limited v Lloyds Bank Limited (1975) RPC 385 ; also, by Whitford J in Reinforced Plastics Applications (Swansea) Limited v Swanswea Plastics &amp;amp; Engineering Co Limited (1979) FSR 182 ; and by Mummery J in Ixora Trading Incorporated and anor v Jones and anor (1990) FSR 251.</sentence>
 <sentence id="s86">17 In Ixora Trading Mummery J cited the remarks of Whitford J in Reinforced Plastics .</sentence>
 <sentence id="s87">The remarks of Whitford J are instructive:
  "It is, I think, a matter of great concern in relation to confidential information cases that actions should not be brought which are no more than speculative in character.</sentence>
@@ -399,7 +399,7 @@ Dated: 2 May 2008
 
  Counsel for the Applicant/Cross-Respondent: TJ Carmady 
  
- Solicitor for the Applicant/Cross-Respondent: Williams &amp; Hughes 
+ Solicitor for the Applicant/Cross-Respondent: Williams &amp;amp; Hughes 
  
  Counsel for the Respondents/Cross-Claimant: MN Solomon 
  

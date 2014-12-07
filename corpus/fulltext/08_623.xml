@@ -3,12 +3,12 @@
 <name>In the Matter of HIH Insurance Limited (In Liquidation) ACN 008 636 575; McGrath and Honey as the joint liquidators of HIH Insurance Limited (In Liquidation) ACN 008 636 575 v Perpetual Trustee Company Limited ACN 000 001 007 [2008] FCA 623 (8 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/623.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">frustration</catchphrase>
-<catchphrase "id=c1">termination following repudiation</catchphrase>
-<catchphrase "id=c2">'redemption' and 'conversion'</catchphrase>
-<catchphrase "id=c3">whether notes redeemable otherwise than by payment in full of the face value thereof</catchphrase>
-<catchphrase "id=c4">contract</catchphrase>
-<catchphrase "id=c5">words and phrases</catchphrase>
+<catchphrase id="c0">frustration</catchphrase>
+<catchphrase id="c1">termination following repudiation</catchphrase>
+<catchphrase id="c2">'redemption' and 'conversion'</catchphrase>
+<catchphrase id="c3">whether notes redeemable otherwise than by payment in full of the face value thereof</catchphrase>
+<catchphrase id="c4">contract</catchphrase>
+<catchphrase id="c5">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -192,7 +192,7 @@
 <sentence id="s105">Tricontinental Corporation Ltd agreed to one quarter of those shares being cancelled and to the conversion of the balance of its shares to converting preference shares.</sentence>
 <sentence id="s106">The matter which came before Cohen J was an application by Arrowfield Group Limited for confirmation of resolutions for reduction of capital and the issue of converting preference shares.</sentence>
 <sentence id="s107">An issue raised by an objector was to the effect that s 198 of the Corporations Law, which allowed a company to vary rights in its shares, including dividing shares into classes on the passing of a special resolution, did not apply to redeemable preference shares.</sentence>
-<sentence id="s108">In that context Cohen J said, at 654-655, after referring to Ford &amp; Austin's Principles of Corporations Law , 7 th ed., p747:
+<sentence id="s108">In that context Cohen J said, at 654-655, after referring to Ford &amp;amp; Austin's Principles of Corporations Law , 7 th ed., p747:
  '...</sentence>
 <sentence id="s109">It is said by those authors that redeemable preference shares are a form of temporary shareholding, which is like debt finance, because the amount invested may have to be repaid before liquidation.</sentence>
 <sentence id="s110">The definition of redeemable preference shares in s 9 of the Corporations Law is that a redeemable preference share is a preference share liable to be redeemed.</sentence>
@@ -785,9 +785,9 @@ Clause 1.1 of the Trust Deed itself contained a number of definitions including 
 <sentence id="s254">Once again there was no definition of 'Redemption' or 'Redeem'.</sentence>
 <sentence id="s255">52 The definition of 'Conversion' or 'Convert' departed from that contained in the Trust Deed and that contained in the Deed Poll.</sentence>
 <sentence id="s256">In the prospectus 'Conversion' or 'Convert' were defined to mean:
- 'the process by which a Noteholder: &#8722; elects to redeem Notes for their Face Value; and 
+ 'the process by which a Noteholder: &amp;#8722; elects to redeem Notes for their Face Value; and 
  
- &#8722; irrevocably instructs the Company [NZ] to use the redemption proceeds to subscribe for the Shares which the Noteholder is entitled to have allotted to it under the terms of this Issue.</sentence>
+ &amp;#8722; irrevocably instructs the Company [NZ] to use the redemption proceeds to subscribe for the Shares which the Noteholder is entitled to have allotted to it under the terms of this Issue.</sentence>
 <sentence id="s257">' 
  
 

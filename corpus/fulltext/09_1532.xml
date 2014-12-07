@@ -3,30 +3,30 @@
 <name>Edwards v Santos Limited [2009] FCA 1532 (18 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1532.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application</catchphrase>
-<catchphrase "id=c1">declarations</catchphrase>
-<catchphrase "id=c2">injunction</catchphrase>
-<catchphrase "id=c3">whether grant of a petroleum lease under the petroleum act 1923 (qld) in respect of land claimed by "registered native title claimants" under the native title act 1993 (cth) is not a pre-existing rights based act within the meaning of the native title act</catchphrase>
-<catchphrase "id=c4">applicant the registered native title claimant</catchphrase>
-<catchphrase "id=c5">whether court has jurisdiction to entertain the application</catchphrase>
-<catchphrase "id=c6">whether the application should be dismissed for want of reasonable prospects of success</catchphrase>
-<catchphrase "id=c7">whether present proceeding would necessitate the determination of the existence or otherwise of native title rights of the applicant in respect of the claimed land in the proceeding</catchphrase>
-<catchphrase "id=c8">no application for determination of native title in the proceeding</catchphrase>
-<catchphrase "id=c9">whether the applicants had standing to seek any of the relief claimed</catchphrase>
-<catchphrase "id=c10">held no reasonable cause of action</catchphrase>
-<catchphrase "id=c11">held application doomed to fail</catchphrase>
-<catchphrase "id=c12">held proceeding did not relate to a "matter"</catchphrase>
-<catchphrase "id=c13">held application merely a colourable attempt to invoke federal jurisdiction</catchphrase>
-<catchphrase "id=c14">held applicants lacked standing</catchphrase>
-<catchphrase "id=c15">held in any event, declaratory relief sought merely a "staging post" such that it was inappropriate to grant relief as a matter of discretion</catchphrase>
-<catchphrase "id=c16">application dismissed</catchphrase>
-<catchphrase "id=c17">jurisdiction</catchphrase>
-<catchphrase "id=c18">whether there is a "matter" before the court</catchphrase>
-<catchphrase "id=c19">declarations sought</catchphrase>
-<catchphrase "id=c20">no immediate legal or practical consequences</catchphrase>
-<catchphrase "id=c21">judiciary act 1903 (cth), s 39b(1a)(c)</catchphrase>
-<catchphrase "id=c22">aborigines</catchphrase>
-<catchphrase "id=c23">federal court</catchphrase>
+<catchphrase id="c0">application</catchphrase>
+<catchphrase id="c1">declarations</catchphrase>
+<catchphrase id="c2">injunction</catchphrase>
+<catchphrase id="c3">whether grant of a petroleum lease under the petroleum act 1923 (qld) in respect of land claimed by "registered native title claimants" under the native title act 1993 (cth) is not a pre-existing rights based act within the meaning of the native title act</catchphrase>
+<catchphrase id="c4">applicant the registered native title claimant</catchphrase>
+<catchphrase id="c5">whether court has jurisdiction to entertain the application</catchphrase>
+<catchphrase id="c6">whether the application should be dismissed for want of reasonable prospects of success</catchphrase>
+<catchphrase id="c7">whether present proceeding would necessitate the determination of the existence or otherwise of native title rights of the applicant in respect of the claimed land in the proceeding</catchphrase>
+<catchphrase id="c8">no application for determination of native title in the proceeding</catchphrase>
+<catchphrase id="c9">whether the applicants had standing to seek any of the relief claimed</catchphrase>
+<catchphrase id="c10">held no reasonable cause of action</catchphrase>
+<catchphrase id="c11">held application doomed to fail</catchphrase>
+<catchphrase id="c12">held proceeding did not relate to a "matter"</catchphrase>
+<catchphrase id="c13">held application merely a colourable attempt to invoke federal jurisdiction</catchphrase>
+<catchphrase id="c14">held applicants lacked standing</catchphrase>
+<catchphrase id="c15">held in any event, declaratory relief sought merely a "staging post" such that it was inappropriate to grant relief as a matter of discretion</catchphrase>
+<catchphrase id="c16">application dismissed</catchphrase>
+<catchphrase id="c17">jurisdiction</catchphrase>
+<catchphrase id="c18">whether there is a "matter" before the court</catchphrase>
+<catchphrase id="c19">declarations sought</catchphrase>
+<catchphrase id="c20">no immediate legal or practical consequences</catchphrase>
+<catchphrase id="c21">judiciary act 1903 (cth), s 39b(1a)(c)</catchphrase>
+<catchphrase id="c22">aborigines</catchphrase>
+<catchphrase id="c23">federal court</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -150,7 +150,7 @@ Section 24IC details the elements which constitute particular future acts as "pe
 <sentence id="s74">Yet the advancing and successful vindication of a native title claim, not status as the "registered native title claimant", is, given the definition of "future act", just as central to the application of provisions upon which the Applicants rely as it was to those under consideration in Lardil .</sentence>
 <sentence id="s75">To seek to distinguish Lardil on the basis that the rights within Div 3 of Pt 2 with which that case was concerned were "procedural rights" ignores this centrality.</sentence>
 <sentence id="s76">For the purposes of s 31A of the FCA Act the Respondents have established that the Applicants have no reasonable prospect of securing any of the declaratory and injunctive relief which they seek, insofar as they rely on other than State law for any part of that relief.</sentence>
-<sentence id="s77">Jurisdiction &amp; Standing
+<sentence id="s77">Jurisdiction &amp;amp; Standing
  Section 81 of the NTA confers on the Court jurisdiction to hear and determine applications that "relate to native title".</sentence>
 <sentence id="s78">Read in isolation and as a matter of first impression and language, the jurisdiction conferred by this section appears to require nothing more or less than a relevant connection between the subject matter of an application and native title.</sentence>
 <sentence id="s79">In Lardil though (108 FCR at [156] and [68]), the conclusion was reached, after a consideration of the context in which s 81 appears in the NTA, that the section confers jurisdiction only in respect of applications under Pt 3 of that Act.</sentence>
@@ -371,7 +371,7 @@ The conclusion which his Honour reached as a result of that analysis (at 402, [3
 <sentence id="s182">Here, the Applicants have commenced an application not materially distinguishable from Lardil which, in light of that case, is doomed to fail with respect to its Federal aspects.</sentence>
 <sentence id="s183">The essential connection with the Federal question provides the only jurisdiction which the Court could have to decide the State law question.</sentence>
 <sentence id="s184">In those circumstances, if there were jurisdiction to entertain the Federal question, the deciding of the State law question would be a matter of accrued jurisdiction in respect of which s 23 of the FCA Act would operate so as to confer jurisdiction.</sentence>
-<sentence id="s185">However, the mere assertion of a cause of action under the NTA would not sufficient to bring the State law causes of action sought to be raised in the amended statement of claim within the "accrued jurisdiction" of the Court if the NTA claim were "colourable" and "not genuine": Philip Morris Inc v Adam P Brown Male Fashions Pty Ltd [1981] HCA 7 ; (1981) 148 CLR 457 at 498-499; Burgundy Royale Investments Pty Ltd v Westpac Banking Corporation (1987) 18 FCR 212 at 219; Fitzroy Motors Pty Ltd v Hyundai Automotive Distributors Australia Pty Ltd (1995) 133 ALR 445 at 450; WG &amp; B Manufacturing Pty Ltd v Tesla Farad Pty Ltd [1999] FCA 1776 ; (1999) 48 IPR 111 at [11] ; Cook v Pasminco Ltd [2000] FCA 677 ; (2000) 99 FCR 548 at 550; and see Lane's Commentary on the Australian Constitution (1997), pp 516-517.</sentence>
+<sentence id="s185">However, the mere assertion of a cause of action under the NTA would not sufficient to bring the State law causes of action sought to be raised in the amended statement of claim within the "accrued jurisdiction" of the Court if the NTA claim were "colourable" and "not genuine": Philip Morris Inc v Adam P Brown Male Fashions Pty Ltd [1981] HCA 7 ; (1981) 148 CLR 457 at 498-499; Burgundy Royale Investments Pty Ltd v Westpac Banking Corporation (1987) 18 FCR 212 at 219; Fitzroy Motors Pty Ltd v Hyundai Automotive Distributors Australia Pty Ltd (1995) 133 ALR 445 at 450; WG &amp;amp; B Manufacturing Pty Ltd v Tesla Farad Pty Ltd [1999] FCA 1776 ; (1999) 48 IPR 111 at [11] ; Cook v Pasminco Ltd [2000] FCA 677 ; (2000) 99 FCR 548 at 550; and see Lane's Commentary on the Australian Constitution (1997), pp 516-517.</sentence>
 <sentence id="s186">Claims purporting to give the Court jurisdiction are "colourable" and "not genuine" if they are obviously doomed to fail: Cook v Pasminco Ltd [2000] FCA 677 ; (2000) 99 FCR 548 at 550.</sentence>
 <sentence id="s187">To invoke the Court's jurisdiction, claims must be "real and not mere pleading allegations" Hopper v Egg and Egg Pulp Marketing Board of Victoria [1939] HCA 24 ; (1939) 61 CLR 665 at 677 (Starke J).</sentence>
 <sentence id="s188">In light of Lardil and the fact that the present case is not materially distinguishable from that authority, the present case was doomed to fail.</sentence>

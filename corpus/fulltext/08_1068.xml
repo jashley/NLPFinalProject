@@ -3,11 +3,11 @@
 <name>Perpetual Trustees WA Limited v Elderslie Finance Corporation Limited [2008] FCA 1068 (2 July 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1068.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by trustee for debenture holders under s 283hb of corporations act 2001 (cth) for an order that security (floating charge) for the debentures be enforceable immediately</catchphrase>
-<catchphrase "id=c1">borrower corporation insolvent</catchphrase>
-<catchphrase "id=c2">some doubt or question whether trustee entitled under terms of debenture trust deed to appoint receiver or receiver and manager immediately</catchphrase>
-<catchphrase "id=c3">consideration of circumstances relevant to exercise of court's discretion whether to make order. held : order made as sought.</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase id="c0">application by trustee for debenture holders under s 283hb of corporations act 2001 (cth) for an order that security (floating charge) for the debentures be enforceable immediately</catchphrase>
+<catchphrase id="c1">borrower corporation insolvent</catchphrase>
+<catchphrase id="c2">some doubt or question whether trustee entitled under terms of debenture trust deed to appoint receiver or receiver and manager immediately</catchphrase>
+<catchphrase id="c3">consideration of circumstances relevant to exercise of court's discretion whether to make order. held : order made as sought.</catchphrase>
+<catchphrase id="c4">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -136,9 +136,9 @@
 <sentence id="s100">34 In relation to s 283HB(2) of the Act, I record that:
  
  
- &#8226; I am satisfied that there is not an ability on the part of the defendant and its guarantors to repay the amounts lent by the debenture holders as and when they become due;
- &#8226; It has not been suggested that the defendant has contravened s 283GA of the Act; and
- &#8226; I have taken into account the interests of the defendant's members and creditors and of the member of the guarantors in the ways referred to above (it will be recalled that the guarantors are wholly owned subsidiaries of the defendant).</sentence>
+ &amp;#8226; I am satisfied that there is not an ability on the part of the defendant and its guarantors to repay the amounts lent by the debenture holders as and when they become due;
+ &amp;#8226; It has not been suggested that the defendant has contravened s 283GA of the Act; and
+ &amp;#8226; I have taken into account the interests of the defendant's members and creditors and of the member of the guarantors in the ways referred to above (it will be recalled that the guarantors are wholly owned subsidiaries of the defendant).</sentence>
 <sentence id="s101">
  
  CONCLUSION 

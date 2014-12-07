@@ -3,26 +3,26 @@
 <name>SS v Australian Crime Commission [2009] FCA 580 (29 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/580.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">validity of determination by board of the australian crime commission</catchphrase>
-<catchphrase "id=c1">whether within ambit of the australian crime commission act 2002 (cth)</catchphrase>
-<catchphrase "id=c2">whether determination exceeded powers of the board of the australian crime commission</catchphrase>
-<catchphrase "id=c3">validity of summons issued by the australian crime commission</catchphrase>
-<catchphrase "id=c4">whether examiner satisfied it was reasonable to issue the summons</catchphrase>
-<catchphrase "id=c5">whether failure to record in writing the reasons for the issue of the summons a breach of s 25d of the acts interpretation act 1901 (cth)</catchphrase>
-<catchphrase "id=c6">whether examiner's reasons a recent invention</catchphrase>
-<catchphrase "id=c7">whether summons issued in accordance with the australian crime commission act 2002 (cth)</catchphrase>
-<catchphrase "id=c8">whether summons otherwise defective</catchphrase>
-<catchphrase "id=c9">public interest immunity</catchphrase>
-<catchphrase "id=c10">redaction of documents</catchphrase>
-<catchphrase "id=c11">effect on burden of proof</catchphrase>
-<catchphrase "id=c12">consequences of allegedly unjustifiable failure to discover relevant documents</catchphrase>
-<catchphrase "id=c13">whether defence should be struck out</catchphrase>
-<catchphrase "id=c14">further submissions after close of oral argument</catchphrase>
-<catchphrase "id=c15">requirement for leave</catchphrase>
-<catchphrase "id=c16">administrative law</catchphrase>
-<catchphrase "id=c17">administrative law</catchphrase>
-<catchphrase "id=c18">practice and procedure</catchphrase>
-<catchphrase "id=c19">practice and procedure</catchphrase>
+<catchphrase id="c0">validity of determination by board of the australian crime commission</catchphrase>
+<catchphrase id="c1">whether within ambit of the australian crime commission act 2002 (cth)</catchphrase>
+<catchphrase id="c2">whether determination exceeded powers of the board of the australian crime commission</catchphrase>
+<catchphrase id="c3">validity of summons issued by the australian crime commission</catchphrase>
+<catchphrase id="c4">whether examiner satisfied it was reasonable to issue the summons</catchphrase>
+<catchphrase id="c5">whether failure to record in writing the reasons for the issue of the summons a breach of s 25d of the acts interpretation act 1901 (cth)</catchphrase>
+<catchphrase id="c6">whether examiner's reasons a recent invention</catchphrase>
+<catchphrase id="c7">whether summons issued in accordance with the australian crime commission act 2002 (cth)</catchphrase>
+<catchphrase id="c8">whether summons otherwise defective</catchphrase>
+<catchphrase id="c9">public interest immunity</catchphrase>
+<catchphrase id="c10">redaction of documents</catchphrase>
+<catchphrase id="c11">effect on burden of proof</catchphrase>
+<catchphrase id="c12">consequences of allegedly unjustifiable failure to discover relevant documents</catchphrase>
+<catchphrase id="c13">whether defence should be struck out</catchphrase>
+<catchphrase id="c14">further submissions after close of oral argument</catchphrase>
+<catchphrase id="c15">requirement for leave</catchphrase>
+<catchphrase id="c16">administrative law</catchphrase>
+<catchphrase id="c17">administrative law</catchphrase>
+<catchphrase id="c18">practice and procedure</catchphrase>
+<catchphrase id="c19">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -1035,8 +1035,8 @@ on the CEO or examiners of the ACC by a law of a State, in relation to this inte
 <sentence id="s555">SS's submissions also did not deal with the presumption of regularity on which the ACC relied at least insofar as the Board's compliance with s 7C of the ACC Act is concerned.</sentence>
 <sentence id="s556">I have not dealt with the presumption in the above discussion because my conclusions make it unnecessary to do so.</sentence>
 <sentence id="s557">Nevertheless, it seems to me that the presumption would operate with respect to all "necessary conditions and formalities" of the making of the ATS determination and amendment ( Industrial Equity Ltd v Deputy Commissioner of Taxation [1990] HCA 46 ; (1990) 170 CLR 649 at 671-672).</sentence>
-<sentence id="s558">As the New South Wales Court of Appeal observed in Hill v Woollahra Municipal Council &amp; Ors (2003) 127 LGERA 7 ; [2003] NSWCA 106 at [52] : 
- The presumption is a presumption of fact, associated with a reasonable inference based on what ordinarily happens in the ordinary course of human affairs: see McLean Brothers &amp; Rigg Ltd v Grice [1906] HCA 1 ; (1906) 4 CLR 835 at 849-51 per Griffiths CJ.</sentence>
+<sentence id="s558">As the New South Wales Court of Appeal observed in Hill v Woollahra Municipal Council &amp;amp; Ors (2003) 127 LGERA 7 ; [2003] NSWCA 106 at [52] : 
+ The presumption is a presumption of fact, associated with a reasonable inference based on what ordinarily happens in the ordinary course of human affairs: see McLean Brothers &amp;amp; Rigg Ltd v Grice [1906] HCA 1 ; (1906) 4 CLR 835 at 849-51 per Griffiths CJ.</sentence>
 <sentence id="s559">In deciding whether the presumption of regularity is rebutted, this inference from the ordinary course of human affairs carries some weight, which may vary according to the proved circumstances.</sentence>
 <sentence id="s560">
 
@@ -1109,7 +1109,7 @@ Dated: 29 May 2009
  
  Counsel for the First Respondent: Ms S J Maharaj QC 
  
- Solicitor for the Applicant: Patsouris &amp; Associates 
+ Solicitor for the Applicant: Patsouris &amp;amp; Associates 
  
  Solicitor for the First Respondent: Australian Crime Commission 
  Date of Hearing: 27 March, 24 April and 29 May 2009 

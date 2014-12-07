@@ -3,12 +3,12 @@
 <name>Temple v Powell [2008] FCA 714 (23 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/714.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">unauthorized industrial action</catchphrase>
-<catchphrase "id=c1">breach of dispute resolution agreement</catchphrase>
-<catchphrase "id=c2">appropriate penalties</catchphrase>
-<catchphrase "id=c3">declaratory relief</catchphrase>
-<catchphrase "id=c4">retrospective application of the building and construction industry improvement act 2005 (cth)</catchphrase>
-<catchphrase "id=c5">industrial relations</catchphrase>
+<catchphrase id="c0">unauthorized industrial action</catchphrase>
+<catchphrase id="c1">breach of dispute resolution agreement</catchphrase>
+<catchphrase id="c2">appropriate penalties</catchphrase>
+<catchphrase id="c3">declaratory relief</catchphrase>
+<catchphrase id="c4">retrospective application of the building and construction industry improvement act 2005 (cth)</catchphrase>
+<catchphrase id="c5">industrial relations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -104,19 +104,19 @@
 <sentence id="s29">Mr McDonald was a member and an employed officer and agent of both organizations.</sentence>
 <sentence id="s30">At all material times members of both organizations were working at the Ravensthorpe site, being employees of one or other of the following corporations (the "employers"):
  
-&#8226; Broadway Pty Ltd trading as Decmil Australia;
+&amp;#8226; Broadway Pty Ltd trading as Decmil Australia;
  
-&#8226; Alljay Contracting Pty Ltd trading as Alljay Construction and Plant Hire;
+&amp;#8226; Alljay Contracting Pty Ltd trading as Alljay Construction and Plant Hire;
  
-&#8226; Nino Constructions Pty Ltd; 
+&amp;#8226; Nino Constructions Pty Ltd; 
  
-&#8226; CBI Constructors Pty Ltd;
+&amp;#8226; CBI Constructors Pty Ltd;
  
-&#8226; Thiess Pty Ltd;
+&amp;#8226; Thiess Pty Ltd;
  
-&#8226; AGC Industries Pty Ltd; and
+&amp;#8226; AGC Industries Pty Ltd; and
  
-&#8226; Formation Concrete Civils Pty Ltd.
+&amp;#8226; Formation Concrete Civils Pty Ltd.
  
 12 AGC Industries Pty Ltd ("AGC") has a particular significance in the case.</sentence>
 <sentence id="s31">13 The CFMEU and the CFMEUW were, at all material times, parties to certified agreements which prescribed the terms and conditions of employment for their members working at the Ravensthorpe site.</sentence>
@@ -170,23 +170,23 @@
 <sentence id="s64">He also said that he had heard that there were "issues" at the site, and that those issues could only be discussed if they were raised by employees.</sentence>
 <sentence id="s65">A number of issues (the "claims") were raised, including:
  
-&#8226; the provision of a shed for union delegates at the site;
+&amp;#8226; the provision of a shed for union delegates at the site;
  
-&#8226; dust;
+&amp;#8226; dust;
  
-&#8226; withdrawal of overtime during inclement weather;
+&amp;#8226; withdrawal of overtime during inclement weather;
  
-&#8226; choice of superannuation funds;
+&amp;#8226; choice of superannuation funds;
  
-&#8226; non-payment of superannuation;
+&amp;#8226; non-payment of superannuation;
  
-&#8226; the shop;
+&amp;#8226; the shop;
  
-&#8226; security staff;
+&amp;#8226; security staff;
  
-&#8226; reinstatement of two AGC employees who had been recently terminated; and
+&amp;#8226; reinstatement of two AGC employees who had been recently terminated; and
  
-&#8226; payment of incorrect wages and penalty rates.</sentence>
+&amp;#8226; payment of incorrect wages and penalty rates.</sentence>
 <sentence id="s66">17 Those attending the meeting then discussed the claims amongst themselves, but in the presence of Messrs Powell and McDonald.</sentence>
 <sentence id="s67">In particular, they discussed the possibility of industrial action and the length of any such action.</sentence>
 <sentence id="s68">Somebody moved that they strike for 48 hours.</sentence>
@@ -414,11 +414,11 @@ shall be taken, for the purposes of this Act or the BCII Act (as the case requir
 <sentence id="s232">Hobhouse LJ identified three categories of conduct by a person other than the actual perpetrator which might attract criminal liability.</sentence>
 <sentence id="s233">They were:
  
-&#8226; those who solicit or incite another to commit a crime or conspire with another to commit a crime;
+&amp;#8226; those who solicit or incite another to commit a crime or conspire with another to commit a crime;
  
-&#8226; those who aid another in the commission of a crime, often known as "aiding, abetting, counselling and procuring"; and
+&amp;#8226; those who aid another in the commission of a crime, often known as "aiding, abetting, counselling and procuring"; and
  
-&#8226; principals whose agents commit offences.</sentence>
+&amp;#8226; principals whose agents commit offences.</sentence>
 <sentence id="s234">40 His Lordship concluded, at 46, that only conduct which fell into either the first or the third category would constitute a tort at common law.</sentence>
 <sentence id="s235">In other words, at common law, aiding, abetting, counselling and procuring was not a basis for tortious liability.</sentence>
 <sentence id="s236">On appeal to the House of Lords (reported at [2000] 1 AC 486) the decision of the Court of Appeal was upheld, although on slightly different grounds.</sentence>
@@ -795,7 +795,7 @@ Dated: 23 May 2008
  
  Counsel for the First and Third Respondents: Mr K J Bonomelli 
  
- Solicitor for the First and Third Respondents: Jeremy Noble Barristers &amp; Solicitors 
+ Solicitor for the First and Third Respondents: Jeremy Noble Barristers &amp;amp; Solicitors 
  
  Counsel for the Second and Fourth Respondents: Mr T J Dixon 
  

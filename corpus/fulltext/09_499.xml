@@ -3,15 +3,15 @@
 <name>Adnunat Pty Ltd (ACN 005 816 268) v ITW Construction Systems Australia Pty Ltd (ACN 004 297 009) [2009] FCA 499 (14 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/499.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">formation</catchphrase>
-<catchphrase "id=c1">approach where no discernable offer and acceptance</catchphrase>
-<catchphrase "id=c2">where party to existing contract with supplier sold entire business to a related third party</catchphrase>
-<catchphrase "id=c3">whether contract between third party and supplier to be inferred from conduct.</catchphrase>
-<catchphrase "id=c4">summary judgment</catchphrase>
-<catchphrase "id=c5">whether no reasonable prospect of successfully denying the existence of alleged contract</catchphrase>
-<catchphrase "id=c6">federal court of australia act 1976 (cth) s 31a.</catchphrase>
-<catchphrase "id=c7">contracts</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
+<catchphrase id="c0">formation</catchphrase>
+<catchphrase id="c1">approach where no discernable offer and acceptance</catchphrase>
+<catchphrase id="c2">where party to existing contract with supplier sold entire business to a related third party</catchphrase>
+<catchphrase id="c3">whether contract between third party and supplier to be inferred from conduct.</catchphrase>
+<catchphrase id="c4">summary judgment</catchphrase>
+<catchphrase id="c5">whether no reasonable prospect of successfully denying the existence of alleged contract</catchphrase>
+<catchphrase id="c6">federal court of australia act 1976 (cth) s 31a.</catchphrase>
+<catchphrase id="c7">contracts</catchphrase>
+<catchphrase id="c8">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -249,7 +249,7 @@ Please email the royalty amount and your bank details so that we can process the
 <sentence id="s125">It is not to the point that the original parties to the Settlement Deed included an enurement clause in the terms of cl 17, purporting to bind any future "successors".</sentence>
 <sentence id="s126">The doctrine of privity mandates that a new party will only be bound by a contract if it intends to be bound or is otherwise bound by operation of law (for example, by way of a corporate merger).</sentence>
 <sentence id="s127">The relevant question here therefore is not whether ITW is properly described as a "successor" of Reid, but whether ITW in fact bound itself to a new contract with Adnunat.</sentence>
-<sentence id="s128">Relying on South Australia v Peat Marwick Mitchell &amp; Co (unreported, Supreme Court of South Australia, Olsson J, 15 May 1997) at [158], ITW submitted that the concept of liability independently attaching to a "successor" of a business --- without its agreement in contract --- is not recognised in Australia, except to a limited extent where a corporate merger is undertaken (usually accompanied by court orders effecting the transfer of rights and liabilities to the merged entity).</sentence>
+<sentence id="s128">Relying on South Australia v Peat Marwick Mitchell &amp;amp; Co (unreported, Supreme Court of South Australia, Olsson J, 15 May 1997) at [158], ITW submitted that the concept of liability independently attaching to a "successor" of a business --- without its agreement in contract --- is not recognised in Australia, except to a limited extent where a corporate merger is undertaken (usually accompanied by court orders effecting the transfer of rights and liabilities to the merged entity).</sentence>
 <sentence id="s129">Instead, when a corporation acquires the assets (and thereby, the business) of another corporation, the general rule of separate legal personality applies and the acquiring corporation does not, by operation of law, take on the obligations of the transferring corporation.</sentence>
 <sentence id="s130">The acquiring corporation will only take on liabilities and obligations to third parties if it decides to contract itself with them, either directly or through novation of an existing agreement.</sentence>
 <sentence id="s131">(The passage relied on by ITW in Peat Marwick at [158] is not reproduced in the report of the decision at (1997) 24 ACSR 231.</sentence>
@@ -284,10 +284,10 @@ Please email the royalty amount and your bank details so that we can process the
 <sentence id="s158">Consideration
  Despite the lack of any direct written evidence of an agreement between Adnunat and ITW, Adnunat contends that one must be inferred from their conduct.</sentence>
 <sentence id="s159">A contract may in certain circumstances be inferred from conduct, even where no offer and acceptance can be identified: see Integrated Computer Services Pty Ltd v Digital Equipment Corp (Aust) Pty Ltd (1988) 5 BPR 97326 ; Vroon BV v Foster's Brewing Group Ltd [1994] 2 VR 32 ( Vroon ); Industrial Rollformers [2001] NSWCA 111 ; (2001) Aust Contract R 90-129.</sentence>
-<sentence id="s160">However the existence or otherwise of an enforceable agreement depends ultimately on the manifest intention of the parties, objectively ascertained: see Australian Broadcasting Corporation v XIVth Commonwealth Games Ltd (1988) 18 NSWLR 540 at 548-50 (Gleeson CJ) and his Honour's reference to Gissing v Gissing [1970] UKHL 3 ; [1971] AC 886 ; see also Cheshire &amp; Fifoot's Law of Contract (9 th ed, LexisNexis, 2008) at [3.5] and [3.9].</sentence>
+<sentence id="s160">However the existence or otherwise of an enforceable agreement depends ultimately on the manifest intention of the parties, objectively ascertained: see Australian Broadcasting Corporation v XIVth Commonwealth Games Ltd (1988) 18 NSWLR 540 at 548-50 (Gleeson CJ) and his Honour's reference to Gissing v Gissing [1970] UKHL 3 ; [1971] AC 886 ; see also Cheshire &amp;amp; Fifoot's Law of Contract (9 th ed, LexisNexis, 2008) at [3.5] and [3.9].</sentence>
 <sentence id="s161">Where mutual promises are sought to be inferred, the conduct relied upon must, on an objective assessment, evince a tacit agreement with sufficiently clear terms.</sentence>
 <sentence id="s162">It is not enough that the conduct is consistent with what are alleged to be the terms of a binding agreement.</sentence>
-<sentence id="s163">The evidence must positively indicate that both parties considered themselves bound by that agreement: Industrial Rollformers [2001] NSWCA 111 ; (2001) Aust Contract R 90-129 at [137] - [138] and [142]; Pacific Brands Sport &amp; Leisure Pty Ltd v Underworks Pty Ltd [2005] FCA 288 ( Pacific Brands ) at [47].</sentence>
+<sentence id="s163">The evidence must positively indicate that both parties considered themselves bound by that agreement: Industrial Rollformers [2001] NSWCA 111 ; (2001) Aust Contract R 90-129 at [137] - [138] and [142]; Pacific Brands Sport &amp;amp; Leisure Pty Ltd v Underworks Pty Ltd [2005] FCA 288 ( Pacific Brands ) at [47].</sentence>
 <sentence id="s164">As Finkelstein J observed in Pacific Brands [2005] FCA 288 , it will only be in very clear cases that the courts will infer a contract from conduct in the absence of written or oral communications that evidence the exchange of mutual promises: see [2005] FCA 288 at [45] and the cases there referred to.</sentence>
 <sentence id="s165">In most instances, contract by conduct cases will involve a complex set of facts and require evidence from those who have played a role in the relationship between the parties.</sentence>
 <sentence id="s166">Necessarily, where a contract is denied, the credibility of those involved on both sides may be crucial.</sentence>

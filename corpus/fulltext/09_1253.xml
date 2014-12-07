@@ -3,12 +3,12 @@
 <name>Smart Company Pty Ltd v Clipsal Australia Pty Ltd [2009] FCA 1253 (9 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1253.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for further security for costs</catchphrase>
-<catchphrase "id=c1">s 1335 corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c2">threshold to be met for an award of security to be granted</catchphrase>
-<catchphrase "id=c3">words of statute must govern the exercise of the power</catchphrase>
-<catchphrase "id=c4">application dismissed.</catchphrase>
-<catchphrase "id=c5">costs</catchphrase>
+<catchphrase id="c0">application for further security for costs</catchphrase>
+<catchphrase id="c1">s 1335 corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c2">threshold to be met for an award of security to be granted</catchphrase>
+<catchphrase id="c3">words of statute must govern the exercise of the power</catchphrase>
+<catchphrase id="c4">application dismissed.</catchphrase>
+<catchphrase id="c5">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -420,7 +420,7 @@ Receivables $249,012
  
  
  Non-Current Assets 
- Property Plant &amp; Equipment $2,277
+ Property Plant &amp;amp; Equipment $2,277
  Receivables
  Loans Unsecured $1,694,084
  Intangible Assets
@@ -567,7 +567,7 @@ Dated: 9 November 2009
  
  Counsel for the Respondents: Mr R Cobden SC with Mr B Doyle 
  
- Solicitor for the Respondents: Kelly &amp; Co 
+ Solicitor for the Respondents: Kelly &amp;amp; Co 
  Date of Hearing: 23 June 2009 
  
  Date of Judgment: 9 November 2009 

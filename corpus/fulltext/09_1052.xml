@@ -3,32 +3,32 @@
 <name>West v TWG Services Limited [2009] FCA 1052 (18 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1052.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">service outside australia</catchphrase>
-<catchphrase "id=c1">proceeding including claims for misleading and deceptive conduct, statutory entitlements to accrued annual leave and breaches of contract</catchphrase>
-<catchphrase "id=c2">whether court has jurisdiction in the proceeding</catchphrase>
-<catchphrase "id=c3">whether proceeding consists of or includes any one or more of the kinds of proceeding required</catchphrase>
-<catchphrase "id=c4">whether prima facie case for relief sought</catchphrase>
-<catchphrase "id=c5">prima facie case for only a small part of relief sought</catchphrase>
-<catchphrase "id=c6">whether discretion to allow whole of amended application and amended statement of claim to be served outside australia should be exercised</catchphrase>
-<catchphrase "id=c7">annual leave</catchphrase>
-<catchphrase "id=c8">whether statutory regime binds foreign employer of employee performing contract of employment in australia</catchphrase>
-<catchphrase "id=c9">misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c10">representations as to ongoing employment</catchphrase>
-<catchphrase "id=c11">whether binding</catchphrase>
-<catchphrase "id=c12">whether absolute</catchphrase>
-<catchphrase "id=c13">whether subject to implied term as to termination on reasonable notice</catchphrase>
-<catchphrase "id=c14">whether prima facie case of reliance on representations</catchphrase>
-<catchphrase "id=c15">employment</catchphrase>
-<catchphrase "id=c16">terms</catchphrase>
-<catchphrase "id=c17">whether implied term of termination on reasonable notice</catchphrase>
-<catchphrase "id=c18">whether 24 months' notice reasonable</catchphrase>
-<catchphrase "id=c19">whether contract terminated</catchphrase>
-<catchphrase "id=c20">employee given 4 months' notice that his assignment to work in australia would be terminated</catchphrase>
-<catchphrase "id=c21">whether prima facie case of breach by employer in failing to comply with obligations on termination of assignment to australia</catchphrase>
-<catchphrase "id=c22">civil procedure</catchphrase>
-<catchphrase "id=c23">workplace relations</catchphrase>
-<catchphrase "id=c24">trade practices</catchphrase>
-<catchphrase "id=c25">contract</catchphrase>
+<catchphrase id="c0">service outside australia</catchphrase>
+<catchphrase id="c1">proceeding including claims for misleading and deceptive conduct, statutory entitlements to accrued annual leave and breaches of contract</catchphrase>
+<catchphrase id="c2">whether court has jurisdiction in the proceeding</catchphrase>
+<catchphrase id="c3">whether proceeding consists of or includes any one or more of the kinds of proceeding required</catchphrase>
+<catchphrase id="c4">whether prima facie case for relief sought</catchphrase>
+<catchphrase id="c5">prima facie case for only a small part of relief sought</catchphrase>
+<catchphrase id="c6">whether discretion to allow whole of amended application and amended statement of claim to be served outside australia should be exercised</catchphrase>
+<catchphrase id="c7">annual leave</catchphrase>
+<catchphrase id="c8">whether statutory regime binds foreign employer of employee performing contract of employment in australia</catchphrase>
+<catchphrase id="c9">misleading and deceptive conduct</catchphrase>
+<catchphrase id="c10">representations as to ongoing employment</catchphrase>
+<catchphrase id="c11">whether binding</catchphrase>
+<catchphrase id="c12">whether absolute</catchphrase>
+<catchphrase id="c13">whether subject to implied term as to termination on reasonable notice</catchphrase>
+<catchphrase id="c14">whether prima facie case of reliance on representations</catchphrase>
+<catchphrase id="c15">employment</catchphrase>
+<catchphrase id="c16">terms</catchphrase>
+<catchphrase id="c17">whether implied term of termination on reasonable notice</catchphrase>
+<catchphrase id="c18">whether 24 months' notice reasonable</catchphrase>
+<catchphrase id="c19">whether contract terminated</catchphrase>
+<catchphrase id="c20">employee given 4 months' notice that his assignment to work in australia would be terminated</catchphrase>
+<catchphrase id="c21">whether prima facie case of breach by employer in failing to comply with obligations on termination of assignment to australia</catchphrase>
+<catchphrase id="c22">civil procedure</catchphrase>
+<catchphrase id="c23">workplace relations</catchphrase>
+<catchphrase id="c24">trade practices</catchphrase>
+<catchphrase id="c25">contract</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -691,7 +691,7 @@ There is no specification in this letter of the contractual obligations that the
 <sentence id="s299">That is the period particularised as the basis for calculation of the applicant's alleged loss and damage.</sentence>
 <sentence id="s300">For the reasons I have already given in [43]-[45] and [47], the applicant has not established a prima facie case that a reasonable period of notice for the termination of the Australian assignment was 24 months, or that the notice actually given to him of more than four months was less than what was reasonable in the circumstances.</sentence>
 <sentence id="s301">The applicant has failed to establish a prima facie case for the relief sought in para 4(b) of the amended application.</sentence>
-<sentence id="s302">In para 4(c) and para 5(a) of the amended application, there are alternative claims for the same sums of $269,013 and &#163;79,523.</sentence>
+<sentence id="s302">In para 4(c) and para 5(a) of the amended application, there are alternative claims for the same sums of $269,013 and &amp;#163;79,523.</sentence>
 <sentence id="s303">The claim in para 4(c) is said to be pursuant to para 46 of the amended statement of claim and is a claim for damages for breach of contract in those sums.</sentence>
 <sentence id="s304">The claim in para 5(a) is said to be pursuant to para 45 of the amended statement of claim and is a claim for those two sums as debts.</sentence>
 <sentence id="s305">Paragraph 45 of the amended statement of claim refers to the matters pleaded in paras 43 and 44, and alleges that the respondent is indebted to the applicant in the sums specified.</sentence>
@@ -788,14 +788,14 @@ There was also an attachment headed " REDUNDANCY PACKAGE - none of this in the o
 
  
  
- LGH has retained Ernst &amp; Young to facilitate this process, both in the UK and Australia.</sentence>
-<sentence id="s343">Ernst &amp; Young will provide you with a departure briefing and take responsibility for all UK and Australian tax returns to include the year of your departure from the UK, and return.</sentence>
+ LGH has retained Ernst &amp;amp; Young to facilitate this process, both in the UK and Australia.</sentence>
+<sentence id="s343">Ernst &amp;amp; Young will provide you with a departure briefing and take responsibility for all UK and Australian tax returns to include the year of your departure from the UK, and return.</sentence>
 <sentence id="s344">
  
 
  
  
- You are obliged to provide all necessary data and comply with both UK and Australian tax law, as advised by Ernst &amp; Young.</sentence>
+ You are obliged to provide all necessary data and comply with both UK and Australian tax law, as advised by Ernst &amp;amp; Young.</sentence>
 <sentence id="s345">
  
 
@@ -818,12 +818,12 @@ There was also an attachment headed " REDUNDANCY PACKAGE - none of this in the o
 
  
  
- (i) retain Ernst &amp; Young to facilitate the hypothetical tax arrangement and take responsibility for all UK and Australian tax returns ("the Ernst &amp; Young agreement"); 
+ (i) retain Ernst &amp;amp; Young to facilitate the hypothetical tax arrangement and take responsibility for all UK and Australian tax returns ("the Ernst &amp;amp; Young agreement"); 
  
 
  
  
- (ii) indemnify the Applicant and his family in respect of any conduct or advice (or advice not given) by the Respondent or its advisers, including Ernst &amp; Young, in relation to the hypothetical tax arrangement giving rise to any obligation or penalties in respect of taxation obligations (or penalties) relating to the assignment; 
+ (ii) indemnify the Applicant and his family in respect of any conduct or advice (or advice not given) by the Respondent or its advisers, including Ernst &amp;amp; Young, in relation to the hypothetical tax arrangement giving rise to any obligation or penalties in respect of taxation obligations (or penalties) relating to the assignment; 
  
 
  

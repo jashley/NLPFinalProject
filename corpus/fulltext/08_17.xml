@@ -3,30 +3,30 @@
 <name>GS Technology Pty Ltd v Elster Metering Pty Ltd [2008] FCA 17 (18 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/17.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patents</catchphrase>
-<catchphrase "id=c1">petty patent</catchphrase>
-<catchphrase "id=c2">entitlement</catchphrase>
-<catchphrase "id=c3">divisional applications</catchphrase>
-<catchphrase "id=c4">assignment of patent</catchphrase>
-<catchphrase "id=c5">consideration of successor in title of patent and original grantee</catchphrase>
-<catchphrase "id=c6">where applicant not entitled to any benefit of patent due to title defect</catchphrase>
-<catchphrase "id=c7">where patent revoked</catchphrase>
-<catchphrase "id=c8">whether amendment of patent request pursuant to s 105 patents act appropriate</catchphrase>
-<catchphrase "id=c9">where amendment of patent request can not remedy lack of entitlement</catchphrase>
-<catchphrase "id=c10">applicant otherwise not entitled to exercise of court's discretion</catchphrase>
-<catchphrase "id=c11">issue estoppel</catchphrase>
-<catchphrase "id=c12">whether present matters raised cardinal to earlier determined matters</catchphrase>
-<catchphrase "id=c13">where present matters so cardinal</catchphrase>
-<catchphrase "id=c14">intellectual property</catchphrase>
-<catchphrase "id=c15">intellectual property</catchphrase>
-<catchphrase "id=c16">practice and procedure</catchphrase>
+<catchphrase id="c0">patents</catchphrase>
+<catchphrase id="c1">petty patent</catchphrase>
+<catchphrase id="c2">entitlement</catchphrase>
+<catchphrase id="c3">divisional applications</catchphrase>
+<catchphrase id="c4">assignment of patent</catchphrase>
+<catchphrase id="c5">consideration of successor in title of patent and original grantee</catchphrase>
+<catchphrase id="c6">where applicant not entitled to any benefit of patent due to title defect</catchphrase>
+<catchphrase id="c7">where patent revoked</catchphrase>
+<catchphrase id="c8">whether amendment of patent request pursuant to s 105 patents act appropriate</catchphrase>
+<catchphrase id="c9">where amendment of patent request can not remedy lack of entitlement</catchphrase>
+<catchphrase id="c10">applicant otherwise not entitled to exercise of court's discretion</catchphrase>
+<catchphrase id="c11">issue estoppel</catchphrase>
+<catchphrase id="c12">whether present matters raised cardinal to earlier determined matters</catchphrase>
+<catchphrase id="c13">where present matters so cardinal</catchphrase>
+<catchphrase id="c14">intellectual property</catchphrase>
+<catchphrase id="c15">intellectual property</catchphrase>
+<catchphrase id="c16">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
  
 1 QUD 46 of 2000 is an appeal pursuant to s 69(7) of the Patents Act 1990 (Cth) (the Old Act) from the decision of a delegate of the Commissioner of Patents (the Commissioner) delivered on 19 May 2000.</sentence>
 <sentence id="s1">Delegate Bruhn refused to grant an extension of Petty Patent No 662284 (PP2) on the grounds that the applicant was not entitled to the grant of PP2.</sentence>
-<sentence id="s2">The decision is reported: GS Technology Pty Ltd v Davies Shephard Pty Ltd &amp; Another (2000) 50 IPR 202.</sentence>
+<sentence id="s2">The decision is reported: GS Technology Pty Ltd v Davies Shephard Pty Ltd &amp;amp; Another (2000) 50 IPR 202.</sentence>
 <sentence id="s3">The decision of Delegate Bruhn largely followed the reasoning of Cooper J in proceedings which related to an earlier provisional patent, Petty Patent No 645740 (PP1).</sentence>
 <sentence id="s4">Both PP1 and PP2 are divisionals of Application No 85236/91.</sentence>
 <sentence id="s5">2 These reasons are concerned with three Notices of Motion filed in the appeal from Delegate Bruhn's decision.</sentence>
@@ -39,7 +39,7 @@
 <sentence id="s12">6 On 13 December 2005, Elster Metering Pty Ltd, formerly Davies Shephard Pty Ltd, (the first respondent) filed an Amended Notice of Motion seeking the same relief as was sought by the second respondent in its Notice of Motion.</sentence>
 <sentence id="s13">7 Both respondents seek summary dismissal of the proceeding on the basis that the proceeding is an abuse of process of the Court: O 20 r 2(1)(c) of the Federal Court Rules .</sentence>
 <sentence id="s14">Each respondent claims that there is an issue estoppel binding the applicant which is a complete bar to the proceeding.</sentence>
-<sentence id="s15">8 In Wong v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCAFC 242 ; (2004) 146 FCR 10, the Full Court (Emmett, Conti and Selway JJ) said at [36].</sentence>
+<sentence id="s15">8 In Wong v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2004] FCAFC 242 ; (2004) 146 FCR 10, the Full Court (Emmett, Conti and Selway JJ) said at [36].</sentence>
 <sentence id="s16">
  The doctrines of res judicata and issue estoppel are founded on the broad rules of public policy expressed in the maxims nemo debet bis vexari pro una et eadem causa ('a person ought not to be vexed twice for one and the same cause') and interest reipublicae ut sit finis litium ('it is in the interests of the State that there be an end to litigation').</sentence>
 <sentence id="s17">It would be an abuse of process to allow parties to litigate repeatedly matters that have been finally determined by the Court.</sentence>
@@ -608,7 +608,7 @@ And further at [14]:
 65 Even if the applicant were not estopped from adducing evidence as to the entitlement of GST to PP2, it has not been established that Stack was entitled to the Parent Patent the subject of Application No 85236/91 pursuant to s 15(1)(b) or s 15(1)(c) of the Old Act on the evidence presently before this Court.</sentence>
 <sentence id="s226">However, this is a strike-out application, and I am not concerned to reach a final determination on this question on such an application.</sentence>
 <sentence id="s227">66 Finally, the applicant contends that it is able to rely on the provision of s 105 , in that there is power to amend in s 105 , which can be used in a situation such as the present, and that the exercise of the Court's discretion to so amend would be proper.</sentence>
-<sentence id="s228">67 Aldous J summarised the factors relevant to the exercise of the Court's discretion under s 105 in Smith Kline &amp; French Laboratories Ltd v Evans Medical Ltd [1989] 1 FSR 561 at 566:
+<sentence id="s228">67 Aldous J summarised the factors relevant to the exercise of the Court's discretion under s 105 in Smith Kline &amp;amp; French Laboratories Ltd v Evans Medical Ltd [1989] 1 FSR 561 at 566:
  
  First, the onus to establish that amendment should be allowed is upon the patentee and full disclosure must be made of all relevant matters.</sentence>
 <sentence id="s229">If there is a failure to disclose all relevant matters, amendment will be refused.</sentence>
@@ -635,7 +635,7 @@ And further at [14]:
 <sentence id="s245">" However, this was no contradictor, nor any consideration to the question of power to make that change.</sentence>
 <sentence id="s246">73 Amendment has been held capable of curing or avoiding invalidity on other grounds.</sentence>
 <sentence id="s247">For example, where the invention is not a patentable invention because it does not comply with s 18(1)(a) or (b) or that the specification does not comply with s 40(2) or (3).</sentence>
-<sentence id="s248">Examples of amendment cases in this Court are: JMVB Enterprises Pty Ltd v Camoflag Pty Ltd [2005] FCA 1474 at [26] (Crennan J), Neurizon Pty Ltd v Jupiters Ltd [2005] FCA 1177 at [13] (Kiefel J); Novartis AG v Bausch &amp; Lomb (Australia) Pty Ltd (2004) 62 IPR 71 at [67] and [68] (Merkel J); Gambro Pty Ltd v Fresenius Medical Care South East Asia Pty Ltd (1999) 48 IPR 625 at [69] (Tamberlin J) and Wimmera Industrial Minerals Pty Ltd v RGC Minerals Sands Ltd (No 3) (1997) AIPC 91-366 at 39,789 (Sundberg J).</sentence>
+<sentence id="s248">Examples of amendment cases in this Court are: JMVB Enterprises Pty Ltd v Camoflag Pty Ltd [2005] FCA 1474 at [26] (Crennan J), Neurizon Pty Ltd v Jupiters Ltd [2005] FCA 1177 at [13] (Kiefel J); Novartis AG v Bausch &amp;amp; Lomb (Australia) Pty Ltd (2004) 62 IPR 71 at [67] and [68] (Merkel J); Gambro Pty Ltd v Fresenius Medical Care South East Asia Pty Ltd (1999) 48 IPR 625 at [69] (Tamberlin J) and Wimmera Industrial Minerals Pty Ltd v RGC Minerals Sands Ltd (No 3) (1997) AIPC 91-366 at 39,789 (Sundberg J).</sentence>
 <sentence id="s249">None of these supports amendment in circumstances such as those of the applicant here.</sentence>
 <sentence id="s250">74 Relevant to this argument, is the distinction in tense in s 28(1)(a) of the Old Act with the tense in s 28(1)(b) and (c) of the Old Act .</sentence>
 <sentence id="s251">Subsection 28(1)(a) is concerned with the question of whether the patentee, being the person to whom the patent was granted, was entitled to be granted the petty patent at the time when it was granted.</sentence>
@@ -713,7 +713,7 @@ Dated: 18 January 2008
  
  Counsel for the Second Respondent: Mr S O'Bryan SC 
  
- Solicitor for the Second Respondent: Peter Black &amp; Associates 
+ Solicitor for the Second Respondent: Peter Black &amp;amp; Associates 
  
  Date of Hearing: 9 February 2006 
  

@@ -3,10 +3,10 @@
 <name>Lawrance v Commonwealth [2008] FCA 417 (4 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/417.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">security for costs of an appeal</catchphrase>
-<catchphrase "id=c1">real risk that security may stifle the appeal</catchphrase>
-<catchphrase "id=c2">security ordered</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase id="c0">security for costs of an appeal</catchphrase>
+<catchphrase id="c1">real risk that security may stifle the appeal</catchphrase>
+<catchphrase id="c2">security ordered</catchphrase>
+<catchphrase id="c3">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -50,12 +50,12 @@
 <sentence id="s25">The general principles relevant to the exercise of the discretion are not in dispute and have been conveniently set out by Beazley J in KP Cable Investments Pty Ltd v Meltglow Pty Ltd (1995) 56 FCR 189 and summarised by Bennett J in Croker v Sydney Institute of TAFE (New South Wales) [2003] FCA 942.</sentence>
 <sentence id="s26">In Croker , Bennett J at [26] listed the considerations to be taken into account as follows:
  
- &#8226; The prospects of success;
- &#8226; The quantum of risk that a costs order will not be satisfied;
- &#8226; Whether the making of an order would be oppressive in that it would stifle a reasonable arguable claim;
- &#8226; Whether any impecuniosity of the appellants arises out of the conduct complained of;
- &#8226; Whether there are aspects of public interest which weigh in the balance against such an order;
- &#8226; Whether there are any particular discretionary matters peculiar to the circumstances of the case.</sentence>
+ &amp;#8226; The prospects of success;
+ &amp;#8226; The quantum of risk that a costs order will not be satisfied;
+ &amp;#8226; Whether the making of an order would be oppressive in that it would stifle a reasonable arguable claim;
+ &amp;#8226; Whether any impecuniosity of the appellants arises out of the conduct complained of;
+ &amp;#8226; Whether there are aspects of public interest which weigh in the balance against such an order;
+ &amp;#8226; Whether there are any particular discretionary matters peculiar to the circumstances of the case.</sentence>
 <sentence id="s27">
 
 A determination as to whether security should be awarded and, if so, the quantum of such security, is essentially one of risk management between the parties having regard to their legitimate interests: East Grace Corp v Xing [2005] FCA 219 at [5] per French J.</sentence>
@@ -119,7 +119,7 @@ A determination as to whether security should be awarded and, if so, the quantum
 <sentence id="s66">Her desire to seek any relief against the Guardianship Tribunal, or in relation to its orders, must be seen as speculative and clearly outside the scope of her terminated complaint.</sentence>
 <sentence id="s67">There is no prospect an appeal in relation to this issue could succeed.</sentence>
 <sentence id="s68">...
- [63] The Federal Magistrate also excluded details of the conduct of numerous persons other than the personal respondents relating to matters which he had earlier ruled, on 17 November 2006 ( Lawrance v Commonwealth of Australia &amp; Ors [2006] FMCA 1792) , were outside the scope of the matters before him and outside the scope of the FMCA's jurisdiction as granted by s 46PO of the HREOC Act.</sentence>
+ [63] The Federal Magistrate also excluded details of the conduct of numerous persons other than the personal respondents relating to matters which he had earlier ruled, on 17 November 2006 ( Lawrance v Commonwealth of Australia &amp;amp; Ors [2006] FMCA 1792) , were outside the scope of the matters before him and outside the scope of the FMCA's jurisdiction as granted by s 46PO of the HREOC Act.</sentence>
 <sentence id="s69">He stated that '[t]he applicant's evidence of these matters is therefore irrelevant and inadmissible insofar as she continues to pursue complaints which I had found not to be within jurisdiction'.</sentence>
 <sentence id="s70">He indicated that he would have excluded the evidence upon discretionary grounds in any event.</sentence>
 <sentence id="s71">[64] No matter of any substance has been advanced in support of the application for leave to appeal so far as those rulings are concerned.</sentence>
@@ -240,7 +240,7 @@ One Ground of Appeal seeks to contend that "nowhere is such prejudice identified
 <sentence id="s134">Ms Lawrance has not paid the costs ordered to be paid by the Federal Magistrate, including not only the orders as to costs in favour of the present Respondents, but also orders as to costs made by the Federal Magistrate against Ms Lawrance in favour of persons not parties to the proceedings before that Court.</sentence>
 <sentence id="s135">Those costs orders included, for example, an order that Ms Lawrance pay the costs incurred by the Chief Executive Officer of Phillips Fox in relation to the unsuccessful application for their joinder as parties to the Federal Magistrates Court proceedings.</sentence>
 <sentence id="s136">A like order for costs was made against Ms Lawrance in favour of Dr Margaret Pickles in relation to an unsuccessful application for joinder.</sentence>
-<sentence id="s137">46 Any order for security, even in a quantum less than that which is sought, it is recognised, has a real likelihood of stifling the appeal now before this Court: Cameron's Unit Services Pty Ltd v Kevin R Whelpton &amp; Associates Pty Ltd (1986) 13 FCR 46 at 52---3.</sentence>
+<sentence id="s137">46 Any order for security, even in a quantum less than that which is sought, it is recognised, has a real likelihood of stifling the appeal now before this Court: Cameron's Unit Services Pty Ltd v Kevin R Whelpton &amp;amp; Associates Pty Ltd (1986) 13 FCR 46 at 52---3.</sentence>
 <sentence id="s138">47 Ms Lawrance, however, has already had the opportunity to have her claims litigated and has lost.</sentence>
 <sentence id="s139">Although she is entitled to prosecute her appeal in this Court, different considerations apply when security for costs is ordered in respect to an appeal: Tait v Bindal People [2002] FCA 322.</sentence>
 <sentence id="s140">Spender J there outlined the principles to be applied as follows:

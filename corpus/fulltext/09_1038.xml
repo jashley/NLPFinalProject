@@ -3,13 +3,13 @@
 <name>OK v Australian Crime Commission [2009] FCA 1038 (16 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1038.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">summons issued under australian crime commission act 2002 (cth) (the acc act)</catchphrase>
-<catchphrase "id=c1">applicant attended for examination</catchphrase>
-<catchphrase "id=c2">examiner asked questions directly relevant to charges laid against applicant in state court</catchphrase>
-<catchphrase "id=c3">whether examiner can require applicant to answer questions that directly relate to subject matter of charges</catchphrase>
-<catchphrase "id=c4">whether would involve a real risk of interference with the administration of justice</catchphrase>
-<catchphrase "id=c5">whether the acc act, by necessary implication, has provided that there should be no constraint on the examiner's questions</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
+<catchphrase id="c0">summons issued under australian crime commission act 2002 (cth) (the acc act)</catchphrase>
+<catchphrase id="c1">applicant attended for examination</catchphrase>
+<catchphrase id="c2">examiner asked questions directly relevant to charges laid against applicant in state court</catchphrase>
+<catchphrase id="c3">whether examiner can require applicant to answer questions that directly relate to subject matter of charges</catchphrase>
+<catchphrase id="c4">whether would involve a real risk of interference with the administration of justice</catchphrase>
+<catchphrase id="c5">whether the acc act, by necessary implication, has provided that there should be no constraint on the examiner's questions</catchphrase>
+<catchphrase id="c6">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -515,7 +515,7 @@ Dated: 16 September 2009
  
  Counsel for the Applicant: Dr J Bleechmore 
  
- Solicitor for the Applicant: R Bleechmore &amp; Associates 
+ Solicitor for the Applicant: R Bleechmore &amp;amp; Associates 
  
  Counsel for the Respondent: S Maharaj QC 
  

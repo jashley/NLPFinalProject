@@ -3,16 +3,16 @@
 <name>Lodge Partners Pty Ltd v Pegum [2009] FCA 519 (20 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/519.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to set aside statutory demand</catchphrase>
-<catchphrase "id=c1">whether a "genuine dispute" as to existence of debt</catchphrase>
-<catchphrase "id=c2">where only on question of construction of written contract</catchphrase>
-<catchphrase "id=c3">no factual investigation called for, no conflict in the evidence to be resolved, no question of credit, no oral evidence. held: appropriate to decide the question of construction.</catchphrase>
-<catchphrase "id=c4">construction</catchphrase>
-<catchphrase "id=c5">pre-contract negotiations</catchphrase>
-<catchphrase "id=c6">contractual provision ambiguous</catchphrase>
-<catchphrase "id=c7">one of the two competing constructions rejected in antecedent draft of the contract. held : evidence of rejection of draft admissible as showing the subjective intention of both parties as to the meaning of particular word or expression used in contract.</catchphrase>
-<catchphrase "id=c8">corporations</catchphrase>
-<catchphrase "id=c9">contract</catchphrase>
+<catchphrase id="c0">application to set aside statutory demand</catchphrase>
+<catchphrase id="c1">whether a "genuine dispute" as to existence of debt</catchphrase>
+<catchphrase id="c2">where only on question of construction of written contract</catchphrase>
+<catchphrase id="c3">no factual investigation called for, no conflict in the evidence to be resolved, no question of credit, no oral evidence. held: appropriate to decide the question of construction.</catchphrase>
+<catchphrase id="c4">construction</catchphrase>
+<catchphrase id="c5">pre-contract negotiations</catchphrase>
+<catchphrase id="c6">contractual provision ambiguous</catchphrase>
+<catchphrase id="c7">one of the two competing constructions rejected in antecedent draft of the contract. held : evidence of rejection of draft admissible as showing the subjective intention of both parties as to the meaning of particular word or expression used in contract.</catchphrase>
+<catchphrase id="c8">corporations</catchphrase>
+<catchphrase id="c9">contract</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -23,7 +23,7 @@
 <sentence id="s3">Shortly after they became employees of Lodge, the defendants requested Lodge to create a joint "adviser code" called "TAM" on the basis that, relevantly, Introduction Fees earned by either one of them would be paid to the credit of that code and that they would be entitled to it in equal shares.</sentence>
 <sentence id="s4">The parties treated the TAM arrangement as binding.</sentence>
 <sentence id="s5">Like them, I will refer to "the defendants" and, relevantly, Mr Pegum, without discrimination.</sentence>
-<sentence id="s6">Mr Pegum introduced to Lodge a new client named Entertainment Media &amp; Telecoms Corporation Limited (ETC) which wished to raise capital.</sentence>
+<sentence id="s6">Mr Pegum introduced to Lodge a new client named Entertainment Media &amp;amp; Telecoms Corporation Limited (ETC) which wished to raise capital.</sentence>
 <sentence id="s7">In May 2008 Lodge raised $9,398,232 by placing 234,955,800 shares in ETC at $0.04 a share.</sentence>
 <sentence id="s8">In September 2008 Lodge raised a further $22 million by placing 55 million shares in ETC at $0.40 per share.</sentence>
 <sentence id="s9">Lodge was paid a success fee of $422,920.44 in respect of the first tranche and $784,430.70 in respect of the second tranche.</sentence>
@@ -52,7 +52,7 @@
 <sentence id="s27">Section 459H provides that the Court must, by order, set aside the statutory demand in certain circumstances.</sentence>
 <sentence id="s28">The circumstance relevant to the present case is that the Court is satisfied that there is a genuine dispute between the company and the defendants about the existence of the debt to which the demand relates.</sentence>
 <sentence id="s29">The concept of a "genuine dispute" has been discussed in the cases.</sentence>
-<sentence id="s30">The dispute must be bona fide and must truly exist in fact, and the grounds for alleging the existence of the dispute must be real and not spurious, hypothetical, illusory or misconceived: see, for example, Spencer Constructions Pty Ltd v G &amp; M Aldridge Pty Ltd [1997] FCA 681 ; (1997) 76 FCR 452 at 464.</sentence>
+<sentence id="s30">The dispute must be bona fide and must truly exist in fact, and the grounds for alleging the existence of the dispute must be real and not spurious, hypothetical, illusory or misconceived: see, for example, Spencer Constructions Pty Ltd v G &amp;amp; M Aldridge Pty Ltd [1997] FCA 681 ; (1997) 76 FCR 452 at 464.</sentence>
 <sentence id="s31">In Solarite Air Conditioning Pty Ltd v York International Australia Pty Ltd [2002] NSWSC 411 , Barrett J said (at [23]), after reviewing the authorities, that the task faced by a company challenging a statutory demand on the "genuine dispute" ground is not a difficult or demanding one.</sentence>
 <sentence id="s32">His Honour added: 
  The company will fail in that task only if it is found upon the hearing of its s 459G application that the contentions upon which it seeks to rely in mounting its challenge are so devoid of substance that no further investigation is warranted.</sentence>
@@ -116,7 +116,7 @@
 <sentence id="s82">The change from "the first" to "each" at Mr Pegum's request, agreed to by Lodge, clearly shows that the parties did not intend the word "each" to mean "the first".</sentence>
 <sentence id="s83">Rather, they intended it to mean "the first and each subsequent".</sentence>
 <sentence id="s84">Generally speaking, it is not permissible to take pre-contract negotiations into account in the construction of contracts: see, for example, Prenn v Simmonds [1971] 1 WLR 1381.</sentence>
-<sentence id="s85">However, there are exceptions to the general rule, one of which is that evidence is admissible to show what both parties intended a particular ambiguous term used in the contract to mean: see, for example, Codelfa Construction Pty Ltd v State Rail Authority (NSW) [1982] HCA 24 ; (1982) 149 CLR 337 at 348-350, 352-353 per Mason J; ProForce Recruit Ltd v Rugby Group Ltd [2008] 1 All ER 569 (Comm) at [83], [86], [88]; Yoshimoto v Canterbury Golf International Ltd [2001] 1 NZLR 523 ; and see Corbin on Contracts (rev'd ed, 1998) vol 5 &#167; 24.8.</sentence>
+<sentence id="s85">However, there are exceptions to the general rule, one of which is that evidence is admissible to show what both parties intended a particular ambiguous term used in the contract to mean: see, for example, Codelfa Construction Pty Ltd v State Rail Authority (NSW) [1982] HCA 24 ; (1982) 149 CLR 337 at 348-350, 352-353 per Mason J; ProForce Recruit Ltd v Rugby Group Ltd [2008] 1 All ER 569 (Comm) at [83], [86], [88]; Yoshimoto v Canterbury Golf International Ltd [2001] 1 NZLR 523 ; and see Corbin on Contracts (rev'd ed, 1998) vol 5 &amp;#167; 24.8.</sentence>
 <sentence id="s86">Sometimes cases of this kind are called "private dictionary" cases: the parties have agreed that a word or expression in the express terms of their contract is to have (or not to have) a certain meaning.</sentence>
 <sentence id="s87">The reasons that support the general rule excluding evidence of antecedent negotiations (see, for example, Prenn v Simmonds , above, at 1384-1385; and Carter, Peden and Tolhurst, Contract Law in Australia (5 th ed, 2007) at [12-11]) do not apply here.</sentence>
 <sentence id="s88">The evidence of the change made to the draft on 24 November 2006 at Mr Pegum's request and agreed to by Lodge was clear, undisputed, and admitted without objection.</sentence>
@@ -139,7 +139,7 @@ Dated: 20 May 2009
  
  Counsel for the Plaintiff: Mr S C Ipp 
  
- Solicitor for the Plaintiff: Church &amp; Grace 
+ Solicitor for the Plaintiff: Church &amp;amp; Grace 
  
  Counsel for the Defendant: Mr A C Casselden 
  

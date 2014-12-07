@@ -3,13 +3,13 @@
 <name>Unilever Australia Ltd v Goodman Fielder Consumer Foods Pty Ltd [2009] FCA 1305 (13 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1305.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">false and misleading conduct</catchphrase>
-<catchphrase "id=c1">false representation about standard</catchphrase>
-<catchphrase "id=c2">whether a representation is likely to mislead or deceive</catchphrase>
-<catchphrase "id=c3">representation that a product was recommended no 1 when where was no objective support for the representation</catchphrase>
-<catchphrase "id=c4">whether the representation should be treated as having no content</catchphrase>
-<catchphrase "id=c5">whether there was a sufficiently well-founded basis for an apprehension that further contravening conduct might occur if injunctive relief was not granted.</catchphrase>
-<catchphrase "id=c6">trade practices</catchphrase>
+<catchphrase id="c0">false and misleading conduct</catchphrase>
+<catchphrase id="c1">false representation about standard</catchphrase>
+<catchphrase id="c2">whether a representation is likely to mislead or deceive</catchphrase>
+<catchphrase id="c3">representation that a product was recommended no 1 when where was no objective support for the representation</catchphrase>
+<catchphrase id="c4">whether the representation should be treated as having no content</catchphrase>
+<catchphrase id="c5">whether there was a sufficiently well-founded basis for an apprehension that further contravening conduct might occur if injunctive relief was not granted.</catchphrase>
+<catchphrase id="c6">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -53,10 +53,10 @@
 <sentence id="s26">The word "Original" (where used) appeared against a mid-green background and the word "Light" (where used) appeared against a blue background slightly lighter than the logo.</sentence>
 <sentence id="s27">The words "Lowers Cholesterol absorption" appeared against a green background.</sentence>
 <sentence id="s28">In both cases the brand name "Logicol" was strongly contrasted with the background and, as may be seen, closely associated in terms of position with the new logo.</sentence>
-<sentence id="s29">As may also be seen, the Heart Foundation &#10003; (which was in red) appeared in the bottom left quadrant.</sentence>
+<sentence id="s29">As may also be seen, the Heart Foundation &amp;#10003; (which was in red) appeared in the bottom left quadrant.</sentence>
 <sentence id="s30">The new logo appeared twice on the side of the container in company with features relevantly identical to those on the lid.</sentence>
-<sentence id="s31">Against the words "for dietary change" at the bottom of the logo there appeared a "&#8224;".</sentence>
-<sentence id="s32">On the side of each container in a position lacking any prominence, and amongst other additional notations, appeared "&#8224; (Research Survey, 2007 &amp; 2008)".</sentence>
+<sentence id="s31">Against the words "for dietary change" at the bottom of the logo there appeared a "&amp;#8224;".</sentence>
+<sentence id="s32">On the side of each container in a position lacking any prominence, and amongst other additional notations, appeared "&amp;#8224; (Research Survey, 2007 &amp;amp; 2008)".</sentence>
 <sentence id="s33">According to the evidence, the new Logicol containers were displayed in supermarkets in close proximity to other table spreads, including Pro-Activ.</sentence>
 <sentence id="s34">Sometimes the two were displayed side by side.</sentence>
 <sentence id="s35">Such arrangements were consistent with supermarket plans of arrangement for the display of cholesterol lowering table spreads which were also in evidence.</sentence>
@@ -241,7 +241,7 @@ The effective limitation upon reducing levels of LDL cholesterol (as a result of
 <sentence id="s112">Even if other possibilities are open that does not exclude the irresistible conclusion that the logo, in its context and setting, had a real, or not remote, chance or possibility of being understood by a representative member of the relevant class in that way.</sentence>
 <sentence id="s113">In light of the pleadings, and other concessions which were made inevitable by the evidence, that representation was plainly contrary to the facts.</sentence>
 <sentence id="s114">There was no such recommendation and if there was, it would be contrary to the existing state of scientific knowledge.</sentence>
-<sentence id="s115">In addition, the close proximity of the new logo to the Heart Foundation &#10003;, and the relative prominence of each, created a real chance that potential purchasers would think that the recommendation came from the Heart Foundation.</sentence>
+<sentence id="s115">In addition, the close proximity of the new logo to the Heart Foundation &amp;#10003;, and the relative prominence of each, created a real chance that potential purchasers would think that the recommendation came from the Heart Foundation.</sentence>
 <sentence id="s116">A representation to that effect was also contrary to the facts.</sentence>
 <sentence id="s117">Part of Goodman Fielder's answer to the charge of misleading and deceptive conduct was to suggest that any representation made by the logo conveyed nothing of any significance to potential purchasers, that meaning could not be found even upon close examination (the reference to the surveys being likewise unhelpful and uninformative) and that the logo was therefore not misleading or deceptive.</sentence>
 <sentence id="s118">I do not accept either the contention or the premises from which it proceeds.</sentence>
@@ -273,7 +273,7 @@ The effective limitation upon reducing levels of LDL cholesterol (as a result of
 <sentence id="s131">
  
 
- In Gardam v George Wills &amp; Co Ltd [1988] FCA 194 ; (1988) 82 ALR 415 French J (at 422-4) discussed what is meant by the concept that a representation be one about a "particular" standard, quality, value, grade etc. His Honour suggested that the term "particular" should be given a consistent meaning with respect to all the possible attributes to which it refers and that it meant, consistent with ordinary usage, an "indicated" or "certain" standard, quality, value, grade etc.</sentence>
+ In Gardam v George Wills &amp;amp; Co Ltd [1988] FCA 194 ; (1988) 82 ALR 415 French J (at 422-4) discussed what is meant by the concept that a representation be one about a "particular" standard, quality, value, grade etc. His Honour suggested that the term "particular" should be given a consistent meaning with respect to all the possible attributes to which it refers and that it meant, consistent with ordinary usage, an "indicated" or "certain" standard, quality, value, grade etc.</sentence>
 <sentence id="s132">It is not necessary that each attribute be engaged for an infringement to result.</sentence>
 <sentence id="s133">It is sufficient if any of the listed attributes is falsely represented.</sentence>
 <sentence id="s134">In the present case it is sufficient to consider whether the new logo represented that Logicol was of a "particular standard" and, if so, whether the representation was "falsely" made.</sentence>
@@ -288,7 +288,7 @@ The effective limitation upon reducing levels of LDL cholesterol (as a result of
 <sentence id="s143">I am satisfied, therefore, that Goodman Fielder committed a breach of s 53(a) of the Act.</sentence>
 <sentence id="s144">The surveys
  As earlier indicated, the containers which carried the new logo made reference, on the side of the container, to surveys in 2007 and 2008.</sentence>
-<sentence id="s145">Attention was directed, although not very effectively, to the reference to the surveys by the "&#8224;" appearing just after the last (and smallest) line on the logo.</sentence>
+<sentence id="s145">Attention was directed, although not very effectively, to the reference to the surveys by the "&amp;#8224;" appearing just after the last (and smallest) line on the logo.</sentence>
 <sentence id="s146">The conclusions I have so far explained have the consequence that I do not accept that the representations made were confined in the way suggested by Goodman Fielder which I earlier set out.</sentence>
 <sentence id="s147">As a result it is not strictly necessary to examine the surveys carried out in 2007 and 2008.</sentence>
 <sentence id="s148">The content of the surveys, the persons surveyed and the nature and general impact of responses were all unavailable to potential consumers.</sentence>
@@ -318,7 +318,7 @@ The effective limitation upon reducing levels of LDL cholesterol (as a result of
 <sentence id="s172">The representation made was one of superiority.</sentence>
 <sentence id="s173">The oblique reference to surveys did nothing to alleviate the impression conveyed.</sentence>
 <sentence id="s174">The second problem is that, on the evidence, the relevant officers and employees of Goodman Fielder had no such balanced presentation in mind when they chose the course which was followed; quite the contrary.</sentence>
-<sentence id="s175">There is no reason to assume an impact on consumers contrary to the intended effect of the marketing device which they selected (see eg Australian Woollen Mills Ltd v F S Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 (" Australian Woollen Mills ") at 657).</sentence>
+<sentence id="s175">There is no reason to assume an impact on consumers contrary to the intended effect of the marketing device which they selected (see eg Australian Woollen Mills Ltd v F S Walton &amp;amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 (" Australian Woollen Mills ") at 657).</sentence>
 <sentence id="s176">The internal documents
  Evidence of the intentions of those within Goodman Fielder was available from documents which were revealed during the discovery process.</sentence>
 <sentence id="s177">Unilever tendered in the proceedings a significant bundle of internal documents which had been obtained from Goodman Fielder.</sentence>
@@ -408,7 +408,7 @@ Dated: 13 November 2009
  
  Counsel for the Applicant: J R Sackar QC with D F C Thomas 
  
- Solicitor for the Applicant: Baker &amp; McKenzie 
+ Solicitor for the Applicant: Baker &amp;amp; McKenzie 
  
  Counsel for the First and Third Respondents: D M Yates SC with I S Wylie 
  

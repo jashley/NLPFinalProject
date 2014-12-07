@@ -3,16 +3,16 @@
 <name>Gordon v Commonwealth of Australia [2008] FCA 603 (6 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/603.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">disability discrimination</catchphrase>
-<catchphrase "id=c1">applicant offered employment by australian tax office as gst field officer based in launceston on condition that should he be found unfit for employment the offer would be withdrawn</catchphrase>
-<catchphrase "id=c2">applicant commenced duties and embarked on training program</catchphrase>
-<catchphrase "id=c3">respondent subsequently advised of applicant's high blood pressure reading (hypertension) at medical examination</catchphrase>
-<catchphrase "id=c4">respondent withdrew offer of employment</catchphrase>
-<catchphrase "id=c5">later testing showed applicant affected by "white coat syndrome" (elevated blood pressure reading caused by anxiety reaction to testing)</catchphrase>
-<catchphrase "id=c6">respondent relied on defence under s 15(4) of disability discrimination act 1992 (cth)</catchphrase>
-<catchphrase "id=c7">claim for reinstatement</catchphrase>
-<catchphrase "id=c8">claim for damages included (i) difference between earnings from termination to date and hypothetical earnings at ato (ii) difference between anticipated future earnings and hypothetical earnings at ato (iii) expense incurred on house purchase and loss of capital appreciation</catchphrase>
-<catchphrase "id=c9">discrimination</catchphrase>
+<catchphrase id="c0">disability discrimination</catchphrase>
+<catchphrase id="c1">applicant offered employment by australian tax office as gst field officer based in launceston on condition that should he be found unfit for employment the offer would be withdrawn</catchphrase>
+<catchphrase id="c2">applicant commenced duties and embarked on training program</catchphrase>
+<catchphrase id="c3">respondent subsequently advised of applicant's high blood pressure reading (hypertension) at medical examination</catchphrase>
+<catchphrase id="c4">respondent withdrew offer of employment</catchphrase>
+<catchphrase id="c5">later testing showed applicant affected by "white coat syndrome" (elevated blood pressure reading caused by anxiety reaction to testing)</catchphrase>
+<catchphrase id="c6">respondent relied on defence under s 15(4) of disability discrimination act 1992 (cth)</catchphrase>
+<catchphrase id="c7">claim for reinstatement</catchphrase>
+<catchphrase id="c8">claim for damages included (i) difference between earnings from termination to date and hypothetical earnings at ato (ii) difference between anticipated future earnings and hypothetical earnings at ato (iii) expense incurred on house purchase and loss of capital appreciation</catchphrase>
+<catchphrase id="c9">discrimination</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -162,21 +162,21 @@ CONTENTS
 <sentence id="s47">However, there are certain GST Field Officer tasks such as driving in which conditions pre-disposing to sudden loss of consciousness, poor vision or hearing could pose a health risk; ...</sentence>
 <sentence id="s48">The following procedure is suggested for borderline cases: 
  
- &#8226; Discuss the case with an Occupational Physician in order to further clarify the fitness for work issues;
- &#8226; Discuss the case with the referring ATO officer.</sentence>
+ &amp;#8226; Discuss the case with an Occupational Physician in order to further clarify the fitness for work issues;
+ &amp;#8226; Discuss the case with the referring ATO officer.</sentence>
 <sentence id="s49">ATO have indicated they will provide the doctor with guidance as to criteria against which an applicant is to be assessed if they do not meet the recommendation ie whether reasonable adjustments can be made.</sentence>
 <sentence id="s50">A work performance can be requested;
- &#8226; The applicant's treating doctor may clarify health issues;
- &#8226; Referral for assessment with an Occupational Physician if approved by ATO.</sentence>
+ &amp;#8226; The applicant's treating doctor may clarify health issues;
+ &amp;#8226; Referral for assessment with an Occupational Physician if approved by ATO.</sentence>
 <sentence id="s51">
  
  
 19 General Information enclosed with the Offer included as requirements of the position:
  
  
- &#8226; Concentrate for prolonged periods in order to drive safely and perform client interviews in country and metropolitan regions...
- &#8226; Transport computer, printer and printed literature to/from ATO regional office, vehicle and client premises with the use of carrying aids such as a trolley...
- &#8226; Physically enter client premises which may involve walking up steps, stairs, ramps or uneven terrain which could be slippery.</sentence>
+ &amp;#8226; Concentrate for prolonged periods in order to drive safely and perform client interviews in country and metropolitan regions...
+ &amp;#8226; Transport computer, printer and printed literature to/from ATO regional office, vehicle and client premises with the use of carrying aids such as a trolley...
+ &amp;#8226; Physically enter client premises which may involve walking up steps, stairs, ramps or uneven terrain which could be slippery.</sentence>
 <sentence id="s52">
  
 
@@ -309,7 +309,7 @@ CONTENTS
 <sentence id="s154">They should be reviewed by their treating doctor periodically regarding progression of the illness.</sentence>
 <sentence id="s155">The criteria for an unconditional licence are NOT met 
  
- &#8226; If the person's sitting blood pressure is consistently 200/110 or greater (treated or untreated)... 
+ &amp;#8226; If the person's sitting blood pressure is consistently 200/110 or greater (treated or untreated)... 
  
  
 46 In Dr Bishop's view several measurements of a high blood pressure would be needed to ensure that one was not dealing with simply a white coat phenomenon.</sentence>
@@ -481,10 +481,10 @@ CONTENTS
 <sentence id="s304">79 Dr Bishop expressed the following opinions: 
  
  
- &#8226; Up to 30 per cent of elevated clinical blood pressure measurements are attributable to white coat syndrome;
- &#8226; Mr Gordon suffered significant white coat effect;
- &#8226; An ambulatory test in May 2003 would have resulted in a white coat diagnosis and Mr Gordon would have been assessed as fit for driving;
- &#8226; It would be "extremely uncommon for people not to be able to drive or continue with their job due to medication issues".</sentence>
+ &amp;#8226; Up to 30 per cent of elevated clinical blood pressure measurements are attributable to white coat syndrome;
+ &amp;#8226; Mr Gordon suffered significant white coat effect;
+ &amp;#8226; An ambulatory test in May 2003 would have resulted in a white coat diagnosis and Mr Gordon would have been assessed as fit for driving;
+ &amp;#8226; It would be "extremely uncommon for people not to be able to drive or continue with their job due to medication issues".</sentence>
 <sentence id="s305">
  
 
@@ -494,11 +494,11 @@ CONTENTS
 <sentence id="s307">To that end, one would normally hope to get at least moderate control of the blood pressure within a matter of weeks and then finer control of blood pressure beyond that.</sentence>
 <sentence id="s308">81 Objectively considered, as at May 2003 the circumstances reasonably apparent were:
  
-&#8226; It was at least possible Mr Gordon was affected by white coat syndrome and might have had a significantly lower underlying blood pressure than that found by Dr Payne;
+&amp;#8226; It was at least possible Mr Gordon was affected by white coat syndrome and might have had a significantly lower underlying blood pressure than that found by Dr Payne;
  
-&#8226; It was likely that ambulatory testing would have revealed a lower blood pressure;
+&amp;#8226; It was likely that ambulatory testing would have revealed a lower blood pressure;
  
-&#8226; In any event, any elevated blood pressure which Mr Gordon suffered could have been brought under satisfactory control well before the time he would have been required to engage in extensive driving alone in his ATO work.</sentence>
+&amp;#8226; In any event, any elevated blood pressure which Mr Gordon suffered could have been brought under satisfactory control well before the time he would have been required to engage in extensive driving alone in his ATO work.</sentence>
 <sentence id="s309">82 The respondent has not established that Mr Gordon, by reason of his imputed (or indeed actual) hypertension would be unable to carry out the inherent requirements of the particular employment.</sentence>
 <sentence id="s310">It is therefore not necessary to consider questions under s 15(4)(b) as to the "services or facilities" that would be required and any "unjustifiable hardship" on the respondent.</sentence>
 <sentence id="s311">It can be said, however, that during the training period organising a lift for Mr Gordon to Hobart and return on 22 May 2003 and ensuring that his "buddies" would drive on subsequent training trips would not have imposed any unjustifiable hardship.</sentence>
@@ -576,7 +576,7 @@ CONTENTS
  Legal fees $476.52 Surveying fees $250.00 Building Inspection $330.00 Credit Card Fee $62.56 Total $1,089.08 
 
 In addition he claims a loss of value.</sentence>
-<sentence id="s361">The property was valued by Brothers &amp; Newton Pty Ltd of Launceston in May 2007, as at May 2003, at $250,000.</sentence>
+<sentence id="s361">The property was valued by Brothers &amp;amp; Newton Pty Ltd of Launceston in May 2007, as at May 2003, at $250,000.</sentence>
 <sentence id="s362">Apparently there was a real estate boom in Launceston.</sentence>
 <sentence id="s363">96 Mr Gordon said he bought the house because he "felt it was an essential part of making a full commitment to the job".</sentence>
 <sentence id="s364">He was also spending money to stay in a hotel without any support from the ATO and returned to Hobart (where he owned another house) at weekends.</sentence>
@@ -585,7 +585,7 @@ In addition he claims a loss of value.</sentence>
 <sentence id="s367">97 There was a considerable amount of cross-examination about the financial viability of the purchase, given Mr Gordon's existing mortgage over his Hobart property, and whether it was feasible to let part of the Launceston property.</sentence>
 <sentence id="s368">98 However, I do not think any amount in relation to the house purchase is properly allowable as damages by way of compensation for any loss or damage suffered because of the conduct of the respondent: s 46PO(4)(d) of the HREOC Act.</sentence>
 <sentence id="s369">There is no suggestion that the ATO was aware of, let alone encouraged, this purchase.</sentence>
-<sentence id="s370">Any loss, either by way of out of pocket expenses or loss of a chance to make a profitable investment, arose from Mr Gordon's rather precipitate decision to purchase and cannot, as a matter of commonsense, be attributed to the discriminatory conduct of the ATO: cf March v Stramare (E &amp; MH) Pty Ltd [1991] HCA 12 ; (1991) 171 CLR 506.</sentence>
+<sentence id="s370">Any loss, either by way of out of pocket expenses or loss of a chance to make a profitable investment, arose from Mr Gordon's rather precipitate decision to purchase and cannot, as a matter of commonsense, be attributed to the discriminatory conduct of the ATO: cf March v Stramare (E &amp;amp; MH) Pty Ltd [1991] HCA 12 ; (1991) 171 CLR 506.</sentence>
 <sentence id="s371">Salary and superannuation 
  
 99 At the time of his termination Mr Gordon's ATO gross salary was $42,351.</sentence>

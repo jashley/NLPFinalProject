@@ -3,9 +3,9 @@
 <name>Deputy Commissioner of Taxation v QBridge Pty Ltd ACN 010 542 793 [2008] FCA 1300 (14 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1300.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an application under s 440a(2) of the corporations act 2001 (cth) to adjourn an application for a winding-up order</catchphrase>
-<catchphrase "id=c1">consideration of whether the interests of creditors are properly served by adjourning the application for a limited time</catchphrase>
-<catchphrase "id=c2">insolvency</catchphrase>
+<catchphrase id="c0">consideration of an application under s 440a(2) of the corporations act 2001 (cth) to adjourn an application for a winding-up order</catchphrase>
+<catchphrase id="c1">consideration of whether the interests of creditors are properly served by adjourning the application for a limited time</catchphrase>
+<catchphrase id="c2">insolvency</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -114,7 +114,7 @@
 <sentence id="s93">The third question is whether there are creditors who have taken positions which are contrary to an adjournment or whose interests might be otherwise affected or prejudiced.</sentence>
 <sentence id="s94">A further question involves whether there is conduct on the part of the defendant company or its officers which might reflect breaches of the Corporations Act and whether those rights and remedies might be addressed more appropriately by a liquidator rather than voluntary administrators.</sentence>
 <sentence id="s95">22 In this particular case, there is no persuasive conduct on the part of the officers of the company which would suggest that there has been insolvent trading although, of course, there simply is no evidence of any of these conduct questions because the voluntary administrators have not had sufficient time to examine the various matters.</sentence>
-<sentence id="s96">Although the observations in the authorities to which I have been referred, including Creevy &amp; Anor v Deputy Commissioner of Taxation (1996) 19 ACSR 456 ; First Netcom Pty Ltd v Deputy Commissioner of Taxation (2000) 35 ACSR 615 ; and Lemery Holdings Pty Ltd v Reliance Financial Services BC200804142 , emphasise the importance of probative and persuasive evidence that the interests of creditors will be served by enabling the company to continue in voluntary administration, it seems to me that the circumstance that the voluntary administrators have been in office for merely a day (notwithstanding inferences which might arise from the appointment of administrators the day before the return date for the hearing) emphasises that the question to be addressed is whether, in the limited time available to the voluntary administrators to forensically examine the affairs of the company, the interests of the company's creditors are better served by enabling the company to continue in voluntary administration during the period of the adjournment, so that all relevant matters identified by the administrators might be examined.</sentence>
+<sentence id="s96">Although the observations in the authorities to which I have been referred, including Creevy &amp;amp; Anor v Deputy Commissioner of Taxation (1996) 19 ACSR 456 ; First Netcom Pty Ltd v Deputy Commissioner of Taxation (2000) 35 ACSR 615 ; and Lemery Holdings Pty Ltd v Reliance Financial Services BC200804142 , emphasise the importance of probative and persuasive evidence that the interests of creditors will be served by enabling the company to continue in voluntary administration, it seems to me that the circumstance that the voluntary administrators have been in office for merely a day (notwithstanding inferences which might arise from the appointment of administrators the day before the return date for the hearing) emphasises that the question to be addressed is whether, in the limited time available to the voluntary administrators to forensically examine the affairs of the company, the interests of the company's creditors are better served by enabling the company to continue in voluntary administration during the period of the adjournment, so that all relevant matters identified by the administrators might be examined.</sentence>
 <sentence id="s97">It seems to me that it is in the interests of creditors to enable some forensic assessment to be made by professional voluntary administrators, of facts and circumstances which might demonstrate that the entity can continue to trade as a going concern and is capable of being sold.</sentence>
 <sentence id="s98">23 However, the question of the long delay between the identification of the plaintiff's claims by the defendant and the questions that directors would necessarily confront in dealing with the consequences for the company of that claim and the claims of other creditors, need to be considered in dealing with a reasonable adjournment period.</sentence>
 <sentence id="s99">I say reasonable because the question of whether the interests of the creditors are served is influenced, of course, by the period of the adjournment itself.</sentence>
@@ -138,7 +138,7 @@ Dated: 14 August 2008
  
  Solicitor for the Defendant: Mr P Mills, Mills Oakley Lawyers 
  
- Solicitor for the Intervening Creditor, WorkCover Queensland: Ms E Anderson, Solicitor, Tucker &amp; Cowen, Solicitors 
+ Solicitor for the Intervening Creditor, WorkCover Queensland: Ms E Anderson, Solicitor, Tucker &amp;amp; Cowen, Solicitors 
  
  Date of Hearing: 14 August 2008 
  

@@ -3,13 +3,13 @@
 <name>Motor Trades Association of Australia Superannuation Fund Pty Limited v Australian Prudential Regulation Authority [2008] FCA 828 (5 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/828.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">australian prudential regulation authority notice requiring production of books</catchphrase>
-<catchphrase "id=c1">review sought of decision not to return documents</catchphrase>
-<catchphrase "id=c2">no decision under an enactment</catchphrase>
-<catchphrase "id=c3">no matter arising under a law made by parliament</catchphrase>
-<catchphrase "id=c4">no jurisdiction</catchphrase>
-<catchphrase "id=c5">no unreasonableness</catchphrase>
-<catchphrase "id=c6">judicial review</catchphrase>
+<catchphrase id="c0">australian prudential regulation authority notice requiring production of books</catchphrase>
+<catchphrase id="c1">review sought of decision not to return documents</catchphrase>
+<catchphrase id="c2">no decision under an enactment</catchphrase>
+<catchphrase id="c3">no matter arising under a law made by parliament</catchphrase>
+<catchphrase id="c4">no jurisdiction</catchphrase>
+<catchphrase id="c5">no unreasonableness</catchphrase>
+<catchphrase id="c6">judicial review</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -175,7 +175,7 @@ Of this provision Hardie J concluded at 780:
 <sentence id="s85">24 In summary, the decision of the Authority not to return the documents in the manner sought by the Applicant is not a decision made under, or pursuant, to s 255.</sentence>
 <sentence id="s86">The decision of Hardie J in Collier Garland Properties is no authority to the contrary.</sentence>
 <sentence id="s87">25 The decision of the Authority did not " alter or otherwise affect legal rights or obligations ".</sentence>
-<sentence id="s88">Whatever legal rights that the Authority may have as against Mr Rickus in respect of the documents produced by him pursuant to the s 255 notice, and whatever may be his obligations vis &agrave; vis the Motor Trades Association, they remain.</sentence>
+<sentence id="s88">Whatever legal rights that the Authority may have as against Mr Rickus in respect of the documents produced by him pursuant to the s 255 notice, and whatever may be his obligations vis &amp;agrave; vis the Motor Trades Association, they remain.</sentence>
 <sentence id="s89">If the documents are the documents of the Trustee, any decision of the Authority has not affected that position.</sentence>
 <sentence id="s90">SECTION 56 
  

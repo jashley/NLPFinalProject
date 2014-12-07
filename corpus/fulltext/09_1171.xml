@@ -3,15 +3,15 @@
 <name>Satchithanantham v National Australia Bank Limited (includes corrigendum dated 5 November 2009) [2009] FCA 1171 (14 October 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1171.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether decision by a deputy district registrar of the federal court of australia made pursuant to o 46 r 7a(1) of the federal court rules to reject a notice of appeal submitted for filing within time on the ground that it constituted an abuse of the process of the court is a decision of an administrative character</catchphrase>
-<catchphrase "id=c1">decision held to be a decision of an administrative character</catchphrase>
-<catchphrase "id=c2">decision susceptible to review under the administrative decisions (judicial review) act 1977 (cth)</catchphrase>
-<catchphrase "id=c3">applicant failed to specify or make out any ground of review</catchphrase>
-<catchphrase "id=c4">application dismissed</catchphrase>
-<catchphrase "id=c5">whether decision of a registrar of the federal court of australia made pursuant to o 46 r 7a(1) of the federal court rules to refuse to accept a notice of appeal for filing is reviewable under s 35a(5) or s 35a(6) of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c6">decision held not to be reviewable under s 35a</catchphrase>
-<catchphrase "id=c7">administrative law</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
+<catchphrase id="c0">whether decision by a deputy district registrar of the federal court of australia made pursuant to o 46 r 7a(1) of the federal court rules to reject a notice of appeal submitted for filing within time on the ground that it constituted an abuse of the process of the court is a decision of an administrative character</catchphrase>
+<catchphrase id="c1">decision held to be a decision of an administrative character</catchphrase>
+<catchphrase id="c2">decision susceptible to review under the administrative decisions (judicial review) act 1977 (cth)</catchphrase>
+<catchphrase id="c3">applicant failed to specify or make out any ground of review</catchphrase>
+<catchphrase id="c4">application dismissed</catchphrase>
+<catchphrase id="c5">whether decision of a registrar of the federal court of australia made pursuant to o 46 r 7a(1) of the federal court rules to refuse to accept a notice of appeal for filing is reviewable under s 35a(5) or s 35a(6) of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c6">decision held not to be reviewable under s 35a</catchphrase>
+<catchphrase id="c7">administrative law</catchphrase>
+<catchphrase id="c8">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -59,9 +59,9 @@
  Applicant claims: 
  
  Set aside the decision made by the registrar P Hannigan on 7/7/09.</sentence>
-<sentence id="s23">Applicant be granted leave to file &amp; serve "notice of appeal" as to the refusal made by the registrar P Hannigan on 7/7/09.</sentence>
+<sentence id="s23">Applicant be granted leave to file &amp;amp; serve "notice of appeal" as to the refusal made by the registrar P Hannigan on 7/7/09.</sentence>
 <sentence id="s24">The registry of this court to make arrangement to transfer the file : SYG 786/2009 from the court below to this court, prior to the hearing of this application.</sentence>
-<sentence id="s25">Applicant be granted leave that the registry of this court to make arrangement to provide transcripts to the applicant in the court below matter SYG 786/09, before the Registrar Hedge on 12/5/09 &amp; 16/6/09 [Verbal submissions by the parties on the directions dates] and before His honour Driver FM on 16/6/09, in consideration with the order- 2 above.</sentence>
+<sentence id="s25">Applicant be granted leave that the registry of this court to make arrangement to provide transcripts to the applicant in the court below matter SYG 786/09, before the Registrar Hedge on 12/5/09 &amp;amp; 16/6/09 [Verbal submissions by the parties on the directions dates] and before His honour Driver FM on 16/6/09, in consideration with the order- 2 above.</sentence>
 <sentence id="s26">It is extremely difficult to discern in the Application any intelligible grounds upon which the applicant relies in support of the relief which he seeks.</sentence>
 <sentence id="s27">It is also somewhat difficult to grasp the substance of some of the relief which he seeks.</sentence>
 <sentence id="s28">As far as the grounds relied upon are concerned, he seems to want to assert that the Registrar's decision was equivalent to a decision in his appeal on the merits and was therefore a decision which could only be made by a Full Court of this Court comprising a bench of three Judges.</sentence>
@@ -251,7 +251,7 @@ I have reproduced the Grounds of Appeal in the precise terms in which they appea
 <sentence id="s161">It would seem to follow that if an applicant can establish that a Registrar who sought the direction of a Judge in relation to a document presented to the Registry: 
  
  
- &#8226; did not form the requisite opinion; or 
+ &amp;#8226; did not form the requisite opinion; or 
  
  
  although forming an opinion that the document was an abuse of process, did so after taking into account matters other than the contents of the document itself, 

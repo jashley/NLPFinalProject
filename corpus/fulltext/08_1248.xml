@@ -3,19 +3,19 @@
 <name>Protectavale Pty Ltd v K2K Pty Ltd [2008] FCA 1248 (19 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1248.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">building and construction industry security of payment act 2002 (vic)</catchphrase>
-<catchphrase "id=c1">payment claim</catchphrase>
-<catchphrase "id=c2">whether construction work sufficiently identified</catchphrase>
-<catchphrase "id=c3">whether claim was for progress payment or final payment</catchphrase>
-<catchphrase "id=c4">payment schedule</catchphrase>
-<catchphrase "id=c5">whether several documents in aggregate can satisfy the requirement when not intended to be schedule</catchphrase>
-<catchphrase "id=c6">summary judgment</catchphrase>
-<catchphrase "id=c7">whether disputed points of law may be finally resolved on motion for summary judgment</catchphrase>
-<catchphrase "id=c8">payment of retention moneys into separate account</catchphrase>
-<catchphrase "id=c9">conditional trust</catchphrase>
-<catchphrase "id=c10">building and construction</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
-<catchphrase "id=c12">trusts</catchphrase>
+<catchphrase id="c0">building and construction industry security of payment act 2002 (vic)</catchphrase>
+<catchphrase id="c1">payment claim</catchphrase>
+<catchphrase id="c2">whether construction work sufficiently identified</catchphrase>
+<catchphrase id="c3">whether claim was for progress payment or final payment</catchphrase>
+<catchphrase id="c4">payment schedule</catchphrase>
+<catchphrase id="c5">whether several documents in aggregate can satisfy the requirement when not intended to be schedule</catchphrase>
+<catchphrase id="c6">summary judgment</catchphrase>
+<catchphrase id="c7">whether disputed points of law may be finally resolved on motion for summary judgment</catchphrase>
+<catchphrase id="c8">payment of retention moneys into separate account</catchphrase>
+<catchphrase id="c9">conditional trust</catchphrase>
+<catchphrase id="c10">building and construction</catchphrase>
+<catchphrase id="c11">practice and procedure</catchphrase>
+<catchphrase id="c12">trusts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -63,7 +63,7 @@ for the construction work done or related goods and services supplied to which t
 <sentence id="s30">8 With this background in mind I now turn to the facts.</sentence>
 <sentence id="s31">A certificate of practical completion for the Chadstone Gate development was issued on 9 April 2008.</sentence>
 <sentence id="s32">On 14 April 2008 Lorne Bay sent Protectavale a tax invoice dated 21 March.</sentence>
-<sentence id="s33">The invoice was for the "[f]inal payment of Poath Road Contract" and the "[b]alance of Contract Amount &amp; Variations".</sentence>
+<sentence id="s33">The invoice was for the "[f]inal payment of Poath Road Contract" and the "[b]alance of Contract Amount &amp;amp; Variations".</sentence>
 <sentence id="s34">The amounts claimed totalled $582,243.</sentence>
 <sentence id="s35">Protectavale's solicitor responded on 16 April 2008.</sentence>
 <sentence id="s36">He said that Lorne Bay owed his client damages for breach of contract which were far in excess of the amount claimed in the invoice and that proceedings would shortly be commenced.</sentence>
@@ -132,7 +132,7 @@ The two schedules give details of the variations and prolongation claims.</sente
 <sentence id="s75">Without it, Protectavale could not value the work (if any) to which the amount relates, make its own assessment of the amount payable and provide a payment schedule which, if the matter were to be disputed, would enable the dispute to be properly resolved by an adjudicator.</sentence>
 <sentence id="s76">In my view the invoice does not meet the requirement in s 14(3)(a).</sentence>
 <sentence id="s77">16 Although it is not necessary to go any further, it is, I think, helpful to consider whether the May invoice was, in any event, a claim for a "progress payment".</sentence>
-<sentence id="s78">In its pre-amendment form, the Payment Act only conferred an entitlement to recover for a progress payment: Jemzone (2002) 42 ACSR at 49; De Martin &amp; Gasparini (2002) 55 NSWLR at 590-591.</sentence>
+<sentence id="s78">In its pre-amendment form, the Payment Act only conferred an entitlement to recover for a progress payment: Jemzone (2002) 42 ACSR at 49; De Martin &amp;amp; Gasparini (2002) 55 NSWLR at 590-591.</sentence>
 <sentence id="s79">Section 4 defines "progress payment" to mean "a payment to which a person is entitled under section 9".</sentence>
 <sentence id="s80">Section 9 creates the right to progress payments at particular points in time but does not provide a definition of the expression.</sentence>
 <sentence id="s81">Following the amendments brought about by Act No 42 of 2006, which apply to contracts made on or after 30 March 2007, the definition of "progress payment" was extended to include a "final payment", a "single or one-off payment" and a "milestone payment".</sentence>
@@ -143,7 +143,7 @@ The two schedules give details of the variations and prolongation claims.</sente
 <sentence id="s86">18 The May invoice was served after practical completion but before final completion of the works.</sentence>
 <sentence id="s87">"Practical completion" is the stage at which works are handed over to the principal and are reasonably fit for the use for which they were designed.</sentence>
 <sentence id="s88">"Final completion" is the stage at which everything required of the contractor under a construction contract has been fulfilled and he is discharged from all contractual obligations.</sentence>
-<sentence id="s89">19 The cases say that recourse may be had to the construction contract for purposes of determining what is meant by the expression "progress payments" and whether the principal is liable to make them: see eg Jemzone (2002) 42 ACSR at 49; De Martin &amp; Gasparini Pty Ltd v Energy Australia (2002) 55 NSWLR 577, 590-591.</sentence>
+<sentence id="s89">19 The cases say that recourse may be had to the construction contract for purposes of determining what is meant by the expression "progress payments" and whether the principal is liable to make them: see eg Jemzone (2002) 42 ACSR at 49; De Martin &amp;amp; Gasparini Pty Ltd v Energy Australia (2002) 55 NSWLR 577, 590-591.</sentence>
 <sentence id="s90">Clause 42.1 provides that the contractor shall deliver to the superintendent claims for payment supported by evidence.</sentence>
 <sentence id="s91">The superintendent must assess the claim within 14 days of receipt and issue a "payment certificate" that sets out the payment to be made by the principal to the contractor.</sentence>
 <sentence id="s92">A payment claim may be delivered "[a]t the times for payment claims or upon completion of the stages of the work under the Contract stated in Annexure Part A and upon the issue of a Certificate of Practical Completion and within the time prescribed by Clause 42.5".</sentence>

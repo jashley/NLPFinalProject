@@ -3,16 +3,16 @@
 <name>Lim v Secretary, Department of Education, Employment and Workplace Relations (No 2) [2008] FCA 1752 (21 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1752.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">applicant challenges validity of newstart activity agreements under the social security act 1991 (cth)</catchphrase>
-<catchphrase "id=c1">agreements required by the act to be "between the person and the secretary"</catchphrase>
-<catchphrase "id=c2">agreements signed by employees of workdirections australia pty ltd</catchphrase>
-<catchphrase "id=c3">delegations</catchphrase>
-<catchphrase "id=c4">agreements between the applicant and the secretary for the purposes of the act</catchphrase>
-<catchphrase "id=c5">agreements valid even though employees of workdirections australia did not identify source of power to enter agreements</catchphrase>
-<catchphrase "id=c6">agreements valid despite change of government since agreements entered into</catchphrase>
-<catchphrase "id=c7">agreements valid despite mistake in agreements as to the name of the employment services provider</catchphrase>
-<catchphrase "id=c8">agreements in a form approved by the secretary</catchphrase>
-<catchphrase "id=c9">administrative law</catchphrase>
+<catchphrase id="c0">applicant challenges validity of newstart activity agreements under the social security act 1991 (cth)</catchphrase>
+<catchphrase id="c1">agreements required by the act to be "between the person and the secretary"</catchphrase>
+<catchphrase id="c2">agreements signed by employees of workdirections australia pty ltd</catchphrase>
+<catchphrase id="c3">delegations</catchphrase>
+<catchphrase id="c4">agreements between the applicant and the secretary for the purposes of the act</catchphrase>
+<catchphrase id="c5">agreements valid even though employees of workdirections australia did not identify source of power to enter agreements</catchphrase>
+<catchphrase id="c6">agreements valid despite change of government since agreements entered into</catchphrase>
+<catchphrase id="c7">agreements valid despite mistake in agreements as to the name of the employment services provider</catchphrase>
+<catchphrase id="c8">agreements in a form approved by the secretary</catchphrase>
+<catchphrase id="c9">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -132,9 +132,9 @@
  ... an organisation that performs functions or provides services for the purposes of the social security law under one or more of the following arrangements with the Commonwealth ("relevant arrangement"): ... (b) Employment Services Contract 2006-2009; ... [original emphasis] 
 19 The respondent has established that:
  
-&#8226; Pursuant to an Employment Services Contract 2006-2009 between WorkDirections Australia Pty Ltd ('WorkDirections Australia') and DEWR (for the Commonwealth), WorkDirections Australia was an Employment Services Provider during the relevant period (between December 2006 and April 2007).</sentence>
-<sentence id="s64">&#8226; Gregor Ptok (who signed the first Lim Activity Agreement) was employed by WorkDirections Australia as an Employment Advisor Intensive Support from January 2006 until August 2007 and was a person engaged by the Employment Services Provider, WorkDirections Australia, to perform functions and to provide services under the Employment Services Contract 2006-2009 .</sentence>
-<sentence id="s65">&#8226; Rebecca Dean (who signed the second and third Lim Activity Agreements) was employed by WorkDirections Australia as an Employment Advisor Intensive Support from August 2006 until July 2007 and was a person engaged by the Employment Services Provider, WorkDirections Australia, to perform functions and to provide services under the Employment Services Contract 2006-2009 .</sentence>
+&amp;#8226; Pursuant to an Employment Services Contract 2006-2009 between WorkDirections Australia Pty Ltd ('WorkDirections Australia') and DEWR (for the Commonwealth), WorkDirections Australia was an Employment Services Provider during the relevant period (between December 2006 and April 2007).</sentence>
+<sentence id="s64">&amp;#8226; Gregor Ptok (who signed the first Lim Activity Agreement) was employed by WorkDirections Australia as an Employment Advisor Intensive Support from January 2006 until August 2007 and was a person engaged by the Employment Services Provider, WorkDirections Australia, to perform functions and to provide services under the Employment Services Contract 2006-2009 .</sentence>
+<sentence id="s65">&amp;#8226; Rebecca Dean (who signed the second and third Lim Activity Agreements) was employed by WorkDirections Australia as an Employment Advisor Intensive Support from August 2006 until July 2007 and was a person engaged by the Employment Services Provider, WorkDirections Australia, to perform functions and to provide services under the Employment Services Contract 2006-2009 .</sentence>
 <sentence id="s66">20 WorkDirections Australia was contracted to provide job network services and, as part of that contractual obligation, was required to enter into Activity Agreements with job seekers.</sentence>
 <sentence id="s67">Mr Ptok and Ms Dean were, in accordance with their Employment Advisor position descriptions, required to perform functions and to provide services under the Employment Services Contract 2006-2009 between WorkDirections Australia and DEWR.</sentence>
 <sentence id="s68">21 There is no basis for Mr Lim's assertion that Mr Ptok and Ms Dean were not so engaged.</sentence>
@@ -143,19 +143,19 @@
 22 Mr Lim raises a number of issues in relation to the Lim Activity Agreements.</sentence>
 <sentence id="s70">He contends that:
  
-&#8226; the Lim Activity Agreements are not in a form approved by the Secretary;
+&amp;#8226; the Lim Activity Agreements are not in a form approved by the Secretary;
  
-&#8226; the Lim Activity Agreements are not between him and the Secretary but between him and WorkDirections and signed by a person on behalf of that company;
+&amp;#8226; the Lim Activity Agreements are not between him and the Secretary but between him and WorkDirections and signed by a person on behalf of that company;
  
-&#8226; the Lim Activity Agreements were signed on behalf of WorkDirections without reference to the Secretary or a delegation from the Secretary;
+&amp;#8226; the Lim Activity Agreements were signed on behalf of WorkDirections without reference to the Secretary or a delegation from the Secretary;
  
-&#8226; delegates must reveal the source of their power when entering into agreements;
+&amp;#8226; delegates must reveal the source of their power when entering into agreements;
  
-&#8226; the Lim Activity Agreements were signed by individuals, not by WorkDirections; 
+&amp;#8226; the Lim Activity Agreements were signed by individuals, not by WorkDirections; 
  
-&#8226; the Employment Services Contract 2006-2009 is with WorkDirections Australia, not WorkDirections; and
+&amp;#8226; the Employment Services Contract 2006-2009 is with WorkDirections Australia, not WorkDirections; and
  
-&#8226; to the extent that the Secretary delegated matters arising under s 605 of the Act, the delegation does not operate after the change of Government, Department and Secretary following the election of the Labor government in 2007.</sentence>
+&amp;#8226; to the extent that the Secretary delegated matters arising under s 605 of the Act, the delegation does not operate after the change of Government, Department and Secretary following the election of the Labor government in 2007.</sentence>
 <sentence id="s71">THE LIM ACTIVITY AGREEMENTS 
  The form of the Lim Activity Agreements 
  
@@ -174,7 +174,7 @@
 <sentence id="s82">Is each Lim Activity Agreement between the person and the Secretary within the meaning of ss 605 and 624 of the Act?</sentence>
 <sentence id="s83">
  
-30 With respect to the execution of the Approved Activity Agreement, the Approved Activity Agreement specifically provides for the "&lt;Employment Service Provider's/Customer Service Adviser's&gt; signature and date" and for that of the job seeker.</sentence>
+30 With respect to the execution of the Approved Activity Agreement, the Approved Activity Agreement specifically provides for the "&amp;lt;Employment Service Provider's/Customer Service Adviser's&amp;gt; signature and date" and for that of the job seeker.</sentence>
 <sentence id="s84">On Mr Lim's Activity Agreements, that heading was "WORKDIRECTIONS PTY LTD (JNM)'s signature and date".</sentence>
 <sentence id="s85">Under "Contact Details" on the Approved Activity Agreement, the form provides: "Contact details of Centrelink and/or Employment Service Provider(s) inserted here".</sentence>
 <sentence id="s86">On the Lim Activity Agreements, the contact details provided were:
@@ -204,7 +204,7 @@
 <sentence id="s108">Each states that it refers to activities necessary to receive income support payments from Centrelink.</sentence>
 <sentence id="s109">Mr Lim could not have believed that the Lim Activity Agreements were private arrangements.</sentence>
 <sentence id="s110">He could have been under no misapprehension that the agreements were under the Act and had consequences under the Act.</sentence>
-<sentence id="s111">40 As was the case for the Departmental Officer in Luan v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCA 72 , an employee of WorkDirections Australia could only exercise the power to sign an agreement that resulted in Centrelink payments if delegated by the Secretary to do so.</sentence>
+<sentence id="s111">40 As was the case for the Departmental Officer in Luan v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2004] FCA 72 , an employee of WorkDirections Australia could only exercise the power to sign an agreement that resulted in Centrelink payments if delegated by the Secretary to do so.</sentence>
 <sentence id="s112">The Lim Activity Agreements are written agreements in a form approved by the Secretary.</sentence>
 <sentence id="s113">That approved form provides not for the signature of the Secretary but for the signature of the Employment Service Provider/Customer Service Adviser.</sentence>
 <sentence id="s114">This was the format of the Lim Activity Agreements.</sentence>
@@ -216,9 +216,9 @@
 43 Mr Lim appears to contend that the change of the party in government, the change in the name and portfolio responsibilities of the Department and the change in the Secretary require fresh delegations.</sentence>
 <sentence id="s119">44 Despite the fact that this was not raised as a question of law or as a ground in the further amended notice of appeal, I note the following:
  
-&#8226; The Lim Activity Agreements were executed before the change of Government.</sentence>
-<sentence id="s120">&#8226; Mr Lim's participation and lack thereof in the activities the subject of the agreements and the subject of the Tribunal decision relate to a period of time prior to the change of Government.</sentence>
-<sentence id="s121">&#8226; The respondent is "the Secretary" as opposed to any personal reference to the present incumbent.</sentence>
+&amp;#8226; The Lim Activity Agreements were executed before the change of Government.</sentence>
+<sentence id="s120">&amp;#8226; Mr Lim's participation and lack thereof in the activities the subject of the agreements and the subject of the Tribunal decision relate to a period of time prior to the change of Government.</sentence>
+<sentence id="s121">&amp;#8226; The respondent is "the Secretary" as opposed to any personal reference to the present incumbent.</sentence>
 <sentence id="s122">Section 20 of the Acts Interpretation Act 1901 (Cth) ('the Acts Interpretation Act ') provides:
  
  
@@ -227,9 +227,9 @@
  
  
  There is no contrary intention apparent in the Act, nor is one suggested by Mr Lim.</sentence>
-<sentence id="s124">&#8226; Section 19A(3) of the Acts Interpretation Act provides that, where an Act refers to a Department, unless the contrary intention appears, the expression means, inter alia , the Department of State of the Commonwealth that deals with the matters to which the provision relates.</sentence>
+<sentence id="s124">&amp;#8226; Section 19A(3) of the Acts Interpretation Act provides that, where an Act refers to a Department, unless the contrary intention appears, the expression means, inter alia , the Department of State of the Commonwealth that deals with the matters to which the provision relates.</sentence>
 <sentence id="s125">The respondent has established that at all material times the relevant department was DEWR and that the reference to "the Secretary" in s 605(4) of the Act was a reference to the Secretary of DEWR who delegated his powers to enter into Newstart Activity Agreements.</sentence>
-<sentence id="s126">&#8226; The Employment Services Contract 2006-2009 between WorkDirections Australia and DEWR defines "DEWR" as ' the Commonwealth Department of Employment and Workplace Relations or such other agency or Department as may administer this Contract on behalf of the Commonwealth and, where the context so admits, includes the relevant Commonwealth's officers, delegates, employees and agents '.</sentence>
+<sentence id="s126">&amp;#8226; The Employment Services Contract 2006-2009 between WorkDirections Australia and DEWR defines "DEWR" as ' the Commonwealth Department of Employment and Workplace Relations or such other agency or Department as may administer this Contract on behalf of the Commonwealth and, where the context so admits, includes the relevant Commonwealth's officers, delegates, employees and agents '.</sentence>
 <sentence id="s127">In any event, s 19C of the Acts Interpretation Act provides for continuity of agreements entered into by or on behalf of the Commonwealth when there is a change in the administration of matters to which the agreement relates.</sentence>
 <sentence id="s128">45 A delegation is not revoked when the office of the delegator passes to a new holder ( Aban v Minister for Immigration, Local Government and Ethnic Affairs [1991] FCA 385 ; (1991) 31 FCR 93 at 98 per Morling, Jenkinson and Heerey JJ).</sentence>
 <sentence id="s129">The effect of a delegation is to confer upon the delegate an authority which he or she must exercise in accordance with the requirement of the statute but with his or her own independent discretion.</sentence>

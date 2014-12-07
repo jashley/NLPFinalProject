@@ -3,10 +3,10 @@
 <name>Crvenkovic v La Trobe University [2009] FCA 374 (24 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/374.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">disability discrimination</catchphrase>
-<catchphrase "id=c1">complaint to human rights and equal opportunity commission</catchphrase>
-<catchphrase "id=c2">whether applicant can allege acts of discrimination which post-dated the complaint to the commission</catchphrase>
-<catchphrase "id=c3">discrimination law</catchphrase>
+<catchphrase id="c0">disability discrimination</catchphrase>
+<catchphrase id="c1">complaint to human rights and equal opportunity commission</catchphrase>
+<catchphrase id="c2">whether applicant can allege acts of discrimination which post-dated the complaint to the commission</catchphrase>
+<catchphrase id="c3">discrimination law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -82,7 +82,7 @@ Dated: 24 April 2009
  
  Counsel for the Respondent: Mr S Moore 
  
- Solicitor for the Respondent: Trindade Farr &amp; Pill 
+ Solicitor for the Respondent: Trindade Farr &amp;amp; Pill 
  Date of Hearing: 17 April 2009 
  
  Date of Judgment: 24 April 2009 

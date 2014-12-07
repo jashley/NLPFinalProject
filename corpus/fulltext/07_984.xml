@@ -3,14 +3,14 @@
 <name>Carrick v Health Insurance Commission [2007] FCA 984 (3 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/984.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">health insurance act 1973 (cth)</catchphrase>
-<catchphrase "id=c1">statutory scheme for examination of conduct of medical practitioner to ascertain whether practitioner engaged in inappropriate practice</catchphrase>
-<catchphrase "id=c2">commission's decision to make investigative referral challenged</catchphrase>
-<catchphrase "id=c3">director's decision to make adjudicative referral to a professional services review committee challenged</catchphrase>
-<catchphrase "id=c4">final report of committee challenged</catchphrase>
-<catchphrase "id=c5">sampling methodology used by committee challenged</catchphrase>
-<catchphrase "id=c6">held: application dismissed</catchphrase>
-<catchphrase "id=c7">administrative law</catchphrase>
+<catchphrase id="c0">health insurance act 1973 (cth)</catchphrase>
+<catchphrase id="c1">statutory scheme for examination of conduct of medical practitioner to ascertain whether practitioner engaged in inappropriate practice</catchphrase>
+<catchphrase id="c2">commission's decision to make investigative referral challenged</catchphrase>
+<catchphrase id="c3">director's decision to make adjudicative referral to a professional services review committee challenged</catchphrase>
+<catchphrase id="c4">final report of committee challenged</catchphrase>
+<catchphrase id="c5">sampling methodology used by committee challenged</catchphrase>
+<catchphrase id="c6">held: application dismissed</catchphrase>
+<catchphrase id="c7">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -31,7 +31,7 @@
 <sentence id="s8">
 
 5 Grounds 1 --- 5 of Dr Carrick's further amended application challenged the constitutional validity of Part VAA of the Act.</sentence>
-<sentence id="s9">On 7 September 2006 Sackville J ordered that those grounds (which he called 'the constitutional grounds') be decided separately from the other grounds of the application ('the judicial review grounds') and after publication of the judgment of the High Court in Dimian &amp; Wong v Commonwealth of Australia.</sentence>
+<sentence id="s9">On 7 September 2006 Sackville J ordered that those grounds (which he called 'the constitutional grounds') be decided separately from the other grounds of the application ('the judicial review grounds') and after publication of the judgment of the High Court in Dimian &amp;amp; Wong v Commonwealth of Australia.</sentence>
 <sentence id="s10">That judgment has not as yet been published.</sentence>
 <sentence id="s11">These reasons for judgment concern only the judicial review grounds.</sentence>
 <sentence id="s12">6 For the reasons set out below I have concluded that each of the grounds of application with which these reasons for judgment are concerned is without merit.</sentence>
@@ -90,10 +90,10 @@
  
  
  
- &#8226; rendered or initiated services that were not necessary; 
- &#8226; not provided an appropriate level of clinical input to the services; 
- &#8226; not provided appropriate 'professional services' to her patients, or 
- &#8226; not satisfied the requirements of the relevant items in the Medicare Benefits Schedule Book and the Schedule of Pharmaceutical Benefits.</sentence>
+ &amp;#8226; rendered or initiated services that were not necessary; 
+ &amp;#8226; not provided an appropriate level of clinical input to the services; 
+ &amp;#8226; not provided appropriate 'professional services' to her patients, or 
+ &amp;#8226; not satisfied the requirements of the relevant items in the Medicare Benefits Schedule Book and the Schedule of Pharmaceutical Benefits.</sentence>
 <sentence id="s46">
  
  
@@ -103,11 +103,11 @@
  
  
  
- &#8226; a review of Dr Carrick's practice statistics; 
- &#8226; a comparison of those statistics with the data concerning the practice of all active medical practitioners and surgery non-specialists in Australia; 
- &#8226; a counselling meeting between a HIC Medical Adviser and Dr Carrick where the above referred conduct was discussed; 
- &#8226; a report of that meeting between the HIC Medical Adviser and Dr Carrick ... ; and 
- &#8226; a review of Dr Carrick's practice statistics since counselling.</sentence>
+ &amp;#8226; a review of Dr Carrick's practice statistics; 
+ &amp;#8226; a comparison of those statistics with the data concerning the practice of all active medical practitioners and surgery non-specialists in Australia; 
+ &amp;#8226; a counselling meeting between a HIC Medical Adviser and Dr Carrick where the above referred conduct was discussed; 
+ &amp;#8226; a report of that meeting between the HIC Medical Adviser and Dr Carrick ... ; and 
+ &amp;#8226; a review of Dr Carrick's practice statistics since counselling.</sentence>
 <sentence id="s47">
  
  
@@ -195,9 +195,9 @@ By contrast, the written communications between Dr Carrick and officers of the C
  
  
  
- &#8226; the number of services provided on a daily basis, including endoscopies, and the ability to provide standard and long consultations in the time allocated by her 
- &#8226; the frequency of performing small bowel intubation and biopsy, and the subsequent histopathology and chemical pathology generated on her profile 
- &#8226; whether medications are within PBS parameters of prescribing' .</sentence>
+ &amp;#8226; the number of services provided on a daily basis, including endoscopies, and the ability to provide standard and long consultations in the time allocated by her 
+ &amp;#8226; the frequency of performing small bowel intubation and biopsy, and the subsequent histopathology and chemical pathology generated on her profile 
+ &amp;#8226; whether medications are within PBS parameters of prescribing' .</sentence>
 <sentence id="s68">
  
  
@@ -474,7 +474,7 @@ Understandably in the circumstances, no request was made by Dr Carrick, or by Mr
 Again, as I understand it, this is a re-run of an argument unsuccessfully advanced before Tamberlin J in Phan [2007] FCA 269.</sentence>
 <sentence id="s190">67 The evidence demonstrates that on 2 July 2002 the Director requested the Commission to select a random sample of 98 patient services from the total population of MBS item 30487 services rendered by Dr Carrick for the period 1 July 2000 - 30 June 2001.</sentence>
 <sentence id="s191">It is accepted that the Commission used a computer program to create a report which listed the names of 98 patients who had received a MBS item 30487 service from Dr Carrick randomly selected from the total population as required.</sentence>
-<sentence id="s192">The report discloses that it was produced on 29 July 2002 by the Analysis &amp; Evaluation Section of the Program Review Division of the Commission.</sentence>
+<sentence id="s192">The report discloses that it was produced on 29 July 2002 by the Analysis &amp;amp; Evaluation Section of the Program Review Division of the Commission.</sentence>
 <sentence id="s193">68 It is not disputed that the preliminary sample size of 98 patient services met the requirements of s 7 of the Determination.</sentence>
 <sentence id="s194">Nor is it disputed that before providing the list of randomly selected patient services to the Director, the Commission used the same computer program to randomly assign a new random number to each of the services in the preliminary random sample.</sentence>
 <sentence id="s195">It then re-sorted the services in the order corresponding to the new random numbers assigned to each service.</sentence>

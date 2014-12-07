@@ -3,13 +3,13 @@
 <name>Excell v Comcare [2008] FCA 757 (27 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/757.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">commonwealth employee</catchphrase>
-<catchphrase "id=c2">psychological condition</catchphrase>
-<catchphrase "id=c3">initial diagnosis then improvement followed by deterioration</catchphrase>
-<catchphrase "id=c4">whether permanent impairment became permanent prior to or after commencement of safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
-<catchphrase "id=c5">whether question of law</catchphrase>
-<catchphrase "id=c6">workers' compensation</catchphrase>
+<catchphrase id="c0">appeal from administrative appeals tribunal</catchphrase>
+<catchphrase id="c1">commonwealth employee</catchphrase>
+<catchphrase id="c2">psychological condition</catchphrase>
+<catchphrase id="c3">initial diagnosis then improvement followed by deterioration</catchphrase>
+<catchphrase id="c4">whether permanent impairment became permanent prior to or after commencement of safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
+<catchphrase id="c5">whether question of law</catchphrase>
+<catchphrase id="c6">workers' compensation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -203,7 +203,7 @@ Dated: 27 May 2008
  
  Solicitor for the Applicant: John Green 
  
- Counsel for the Respondent: B Dub&eacute; 
+ Counsel for the Respondent: B Dub&amp;eacute; 
  
  Solicitor for the Respondent: Australian Government Solicitor 
 

@@ -3,11 +3,11 @@
 <name>Mineo v Etna [2009] FCA 337 (9 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/337.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">bankruptcy notice</catchphrase>
-<catchphrase "id=c1">whether valid service by a photocopy of a bankruptcy notice</catchphrase>
-<catchphrase "id=c2">ss 40 , 41 and 306 of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c3">regs 4.01, 4.02 and 16.01 of the bankruptcy regulations 1996 (cth)</catchphrase>
-<catchphrase "id=c4">bankruptcy and insolvency</catchphrase>
+<catchphrase id="c0">bankruptcy notice</catchphrase>
+<catchphrase id="c1">whether valid service by a photocopy of a bankruptcy notice</catchphrase>
+<catchphrase id="c2">ss 40 , 41 and 306 of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c3">regs 4.01, 4.02 and 16.01 of the bankruptcy regulations 1996 (cth)</catchphrase>
+<catchphrase id="c4">bankruptcy and insolvency</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -91,7 +91,7 @@ The form requires the amount of the debt claimed to be stated, and a copy of the
  
  
 (b) in the case of service in accordance with paragraph (1) (c), (d) or (e) --- when the document is left, delivered or transmitted, as the case requires.</sentence>
-<sentence id="s41">A bankruptcy notice is a proceeding under the Bankruptcy Act : Adams at [17] and the authorities cited and Re Wheeler &amp; Reynolds; Ex parte Kerr v Crowe [1988] FCA 381 ; (1988) 20 FCR 185 , 190 (cf T and S Recoveries Pty Ltd v Skalkos in the matter of Skalkos [2004] FCA 816 at [26] ).</sentence>
+<sentence id="s41">A bankruptcy notice is a proceeding under the Bankruptcy Act : Adams at [17] and the authorities cited and Re Wheeler &amp;amp; Reynolds; Ex parte Kerr v Crowe [1988] FCA 381 ; (1988) 20 FCR 185 , 190 (cf T and S Recoveries Pty Ltd v Skalkos in the matter of Skalkos [2004] FCA 816 at [26] ).</sentence>
 <sentence id="s42">Section 306(1) of the Bankruptcy Act provides that: 
 (1) Proceedings under this Act are not invalidated by a formal defect or an irregularity , unless the court before which the objection on that ground is made is of opinion that substantial injustice has been caused by the defect or irregularity and that the injustice cannot be remedied by an order of that court.</sentence>
 <sentence id="s43">(emphasis added).</sentence>

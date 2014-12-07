@@ -3,14 +3,14 @@
 <name>Comcare v Davies [2008] FCA 393 (27 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/393.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">no question of law arises where tribunal does not resolve a contention not advanced before it</catchphrase>
-<catchphrase "id=c1">suitable employment</catchphrase>
-<catchphrase "id=c2">the significance of a statement of facts and contentions</catchphrase>
-<catchphrase "id=c3">a contention not raised for resolution</catchphrase>
-<catchphrase "id=c4">equating of " net loss " with " ability to earn "</catchphrase>
-<catchphrase "id=c5">inadequacy of tribunal's reasons</catchphrase>
-<catchphrase "id=c6">an absence of findings or reasons</catchphrase>
-<catchphrase "id=c7">compensation</catchphrase>
+<catchphrase id="c0">no question of law arises where tribunal does not resolve a contention not advanced before it</catchphrase>
+<catchphrase id="c1">suitable employment</catchphrase>
+<catchphrase id="c2">the significance of a statement of facts and contentions</catchphrase>
+<catchphrase id="c3">a contention not raised for resolution</catchphrase>
+<catchphrase id="c4">equating of " net loss " with " ability to earn "</catchphrase>
+<catchphrase id="c5">inadequacy of tribunal's reasons</catchphrase>
+<catchphrase id="c6">an absence of findings or reasons</catchphrase>
+<catchphrase id="c7">compensation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -49,7 +49,7 @@ Paragraph 71(5) of the Tribunal's decision concluded that:
  
 That provision, by its terms, requires a calculation to be undertaken whereby there is deducted from an employee's normal weekly earnings an amount which is the greater of either the weekly amount that an employee is " able to earn in suitable employment " or the amount which an employee earns from " any employment (including self-employment) that is undertaken by the employee during that week ".</sentence>
 <sentence id="s8">The legislative intention of this provision is presumably to ensure that an employee is not entitled to retain the whole of his actual earnings and also to retain 100% of his normal weekly earnings: Comcare v Line [2002] FCA 553 at [60] per Carr J.</sentence>
-<sentence id="s9">And, the amount that an employee may be " able to earn " is not to be equated with profit: J &amp; H Timbers Pty Ltd v Nelson [1972] HCA 12 ; (1972) 126 CLR 625.</sentence>
+<sentence id="s9">And, the amount that an employee may be " able to earn " is not to be equated with profit: J &amp;amp; H Timbers Pty Ltd v Nelson [1972] HCA 12 ; (1972) 126 CLR 625.</sentence>
 <sentence id="s10">Windeyer J there observed at 643:
  
  ...</sentence>
@@ -212,13 +212,13 @@ The same report went on to set forth her average weekly earnings as follows:
 <sentence id="s79">18 It is not considered that any such contention was raised, or at least adequately raised, in Comcare's Statement of Facts and Contentions .</sentence>
 <sentence id="s80">Contention 1(b) may have obliquely raised the submission -- but not in any manner in which it is considered that Ms Davies should have addressed the issue further in her evidence or in submissions.</sentence>
 <sentence id="s81">19 Even where one or other or both parties are represented before the Tribunal, a party may depart from the contentions it has identified in its written Statement .</sentence>
-<sentence id="s82">Indeed, to conclude otherwise may confine the ability of the Tribunal to discharge its principal function of making the " correct or preferable decision ": Drake v Minister for Immigration &amp; Ethnic Affairs (1979) 46 FLR 409 at 419.</sentence>
+<sentence id="s82">Indeed, to conclude otherwise may confine the ability of the Tribunal to discharge its principal function of making the " correct or preferable decision ": Drake v Minister for Immigration &amp;amp; Ethnic Affairs (1979) 46 FLR 409 at 419.</sentence>
 <sentence id="s83">Factual or legal contentions or issues different to those raised in a Statement of Facts and Contentions may emerge in any one of a number of ways, including from questions asked by the Tribunal or that arise from evidence given and subsequent cross-examination.</sentence>
 <sentence id="s84">Facts or contentions different to those raised in a Statement of Facts and Contentions may also arise from the manner in which a case is opened or even, although far from desirable, in closing submissions.</sentence>
 <sentence id="s85">20 In the present proceedings before the Tribunal, however, such questions as were asked of Ms Davies in cross-examination, it is considered, could not fairly be construed as raising for resolution the potential for Ms Davies to engage in other forms of suitable employment.</sentence>
 <sentence id="s86">Neither the invoices disclosing monies charged for lecturing or the questions asked of her during cross-examination would have alerted her to the possibility that Comcare could be suggesting the development of that part of her abilities as other " suitable employment ".</sentence>
 <sentence id="s87">21 No " question of law ", it is considered, arises in circumstances of the present appeal where the Tribunal did not resolve an issue or did not make findings of fact in respect to other forms of " suitable employment " where no such contention was advanced before it.</sentence>
-<sentence id="s88">" Some difficulty ", it has been said, must arise " in finding as 'error of law'... the failure in the Tribunal to make a finding first urged in this court ": Federal Commissioner of Taxation v Raptis (1989) 19 ALD 726 at 728 per Gummow J. Appl'd: Chen v Minister for Immigration &amp; Multicultural Affairs [2000] FCA 1901 at [88] ---[89], [2000] FCA 1901 ; 106 FCR 157 at 175---6 per Carr J.</sentence>
+<sentence id="s88">" Some difficulty ", it has been said, must arise " in finding as 'error of law'... the failure in the Tribunal to make a finding first urged in this court ": Federal Commissioner of Taxation v Raptis (1989) 19 ALD 726 at 728 per Gummow J. Appl'd: Chen v Minister for Immigration &amp;amp; Multicultural Affairs [2000] FCA 1901 at [88] ---[89], [2000] FCA 1901 ; 106 FCR 157 at 175---6 per Carr J.</sentence>
 <sentence id="s89">22 A Statement of Facts and Contentions should obviously not be construed with the constraints appropriate to a pleading in a Superior Court.</sentence>
 <sentence id="s90">Nor should a Statement of Facts and Contentions be filed with such generality that all issues which potentially may emerge will be held subsequently to fall within one or other of the matters set forth.</sentence>
 <sentence id="s91">But it should be drafted with a sufficient level of precision to enable both an opponent and the Tribunal to know the facts and contentions being raised for consideration.</sentence>
@@ -246,8 +246,8 @@ The same report went on to set forth her average weekly earnings as follows:
 <sentence id="s109">
 
 The nature and extent of this obligation has been extensively canvassed.</sentence>
-<sentence id="s110">For the purposes of the resolution of the present appeal it is sufficient to note that the reasons of the Tribunal are " meant to inform and not to be scrutinised upon over-zealous judicial review by seeking to discern whether some inadequacy may be gleaned from the way in which the reasons are expressed ": Minister for Immigration &amp; Ethnic Affairs v Liang [1996] HCA 6 , 185 CLR 259 at 272.</sentence>
-<sentence id="s111">But it is equally important " to review the Tribunal's reasons to be satisfied that the Tribunal has in fact had regard to the matters which it must address ": Zhang v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] FCAFC 30 at [14] .</sentence>
+<sentence id="s110">For the purposes of the resolution of the present appeal it is sufficient to note that the reasons of the Tribunal are " meant to inform and not to be scrutinised upon over-zealous judicial review by seeking to discern whether some inadequacy may be gleaned from the way in which the reasons are expressed ": Minister for Immigration &amp;amp; Ethnic Affairs v Liang [1996] HCA 6 , 185 CLR 259 at 272.</sentence>
+<sentence id="s111">But it is equally important " to review the Tribunal's reasons to be satisfied that the Tribunal has in fact had regard to the matters which it must address ": Zhang v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2005] FCAFC 30 at [14] .</sentence>
 <sentence id="s112">32 The extent of the reasoning provided in accordance with s 43(2B) must also be considered against the backdrop of the contentions advanced for resolution and the evidence presented.</sentence>
 <sentence id="s113">The Tribunal is exhorted by s 2A of the 1975 Act to " pursue the objective of providing a mechanism of review that is fair, just, economical, informal and quick ".</sentence>
 <sentence id="s114">When carrying out its functions the Tribunal is also obliged to " ensure that every party to a proceeding ... is given a reasonable opportunity to present his or her case ": s 39(1).</sentence>
@@ -269,7 +269,7 @@ The nature and extent of this obligation has been extensively canvassed.</senten
 <sentence id="s126">The requirement to provide " reasons " in the present context is equally as important as its obligation to set forth " its findings on material questions of fact " and the requirement to refer to " the evidence or other material on which those findings were based ".</sentence>
 <sentence id="s127">35 If the Tribunal was to reach a conclusion that Ms Davies' ability to earn was in fact " nil ", and that such a conclusion was to be reached upon the basis of the evidence before it, it is considered imperative that the Tribunal set forth its findings of fact referring to the evidence it had in mind.</sentence>
 <sentence id="s128">Such evidence as was before the Tribunal, in the absence of explanation, would seem to dictate a contrary conclusion -- but what particular finding of fact should be made is a matter for the Tribunal.</sentence>
-<sentence id="s129">36 It is not the fact that the Tribunal has not referred to such evidence as that set forth (for example) in the Walter Turnbull report which exposes a " question of law " ( SZEHN v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] FCA 1389 at [58] per Lindgren J; SZHPI v Minister for Immigration &amp; Citizenship [2008] FCA 306 at [15] ).</sentence>
+<sentence id="s129">36 It is not the fact that the Tribunal has not referred to such evidence as that set forth (for example) in the Walter Turnbull report which exposes a " question of law " ( SZEHN v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2005] FCA 1389 at [58] per Lindgren J; SZHPI v Minister for Immigration &amp;amp; Citizenship [2008] FCA 306 at [15] ).</sentence>
 <sentence id="s130">The question arises by reason of the Tribunal not making necessary findings of fact and referring to the evidence upon which it makes such findings.</sentence>
 <sentence id="s131">Its failure to do so is a departure from the requirements imposed by s 43(2B) and renders " ineffective " the appeal process to this Court.</sentence>
 <sentence id="s132">In the absence of explanation, neither Ms Davies nor this Court knows how the Tribunal reached the conclusion that it did.</sentence>
@@ -281,7 +281,7 @@ The nature and extent of this obligation has been extensively canvassed.</senten
 <sentence id="s136">.</sentence>
 <sentence id="s137">.</sentence>
 <sentence id="s138">there may well be cases in which the actual earnings of a business either represent the actual or potential earnings of a former worker during a period of partial incapacity.</sentence>
-<sentence id="s139">Where, for example, a business consists essentially of the provision of personal services by the former worker (eg a business of a sole plumber or casual gardener) and no significant investment of capital is involved, the actual net earnings of the business might properly be seen as representing the actual "reward for [the] labour" of the former worker (see J &amp; H Timbers Pty Ltd v Nelson, at 652) during a period of partial incapacity.</sentence>
+<sentence id="s139">Where, for example, a business consists essentially of the provision of personal services by the former worker (eg a business of a sole plumber or casual gardener) and no significant investment of capital is involved, the actual net earnings of the business might properly be seen as representing the actual "reward for [the] labour" of the former worker (see J &amp;amp; H Timbers Pty Ltd v Nelson, at 652) during a period of partial incapacity.</sentence>
 <sentence id="s140">In such a case, if the former worker is carrying on business solely on his own account, the net earnings of the business might properly be seen as representing the "amount he is earning" in a business; if he is carrying on business in partnership or as an employee of a family company, the net earnings might properly be seen as representing the "amount he ... is able to earn" either in employment or in a business.</sentence>
 <sentence id="s141">
 
@@ -310,9 +310,9 @@ The nature and extent of this obligation has been extensively canvassed.</senten
 <sentence id="s160">44 Order 5, far from being a clerical error, is considered to be an order intentionally confined to a period ending on 30 June 2004.</sentence>
 <sentence id="s161">Order 5 stands in contrast to Orders 3 and 4 of the Tribunal's orders which do refer to 19 April 2006.</sentence>
 <sentence id="s162">45 As it has been concluded that the appeal should be allowed, the further question as to how the Tribunal should proceed to quantify Ms Davies' ability to earn for the period ending on 19 April 2006 is a question which should be pursued with the Tribunal.</sentence>
-<sentence id="s163">ORDERS &amp; COSTS 
+<sentence id="s163">ORDERS &amp;amp; COSTS 
  
-46 In some circumstances this Court may proceed to resolve a submission which has not previously been raised before the Tribunal: Kuswardana v Minister for Immigration &amp; Ethnic Affairs (1981) 54 FLR 334.</sentence>
+46 In some circumstances this Court may proceed to resolve a submission which has not previously been raised before the Tribunal: Kuswardana v Minister for Immigration &amp;amp; Ethnic Affairs (1981) 54 FLR 334.</sentence>
 <sentence id="s164">Bowen CJ there observed at 343:
  
  ...</sentence>
@@ -357,7 +357,7 @@ Dated: 27 March 2008
  
  Counsel for the Respondent: A Anforth 
  
- Solicitor for the Respondent: Lander &amp; Co 
+ Solicitor for the Respondent: Lander &amp;amp; Co 
  
  Date of Hearing: 14 March 2008 
  

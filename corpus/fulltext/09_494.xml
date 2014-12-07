@@ -3,21 +3,21 @@
 <name>Lin v Minister for Immigration and Citizenship [2009] FCA 494 (14 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/494.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal pursuant to s 44 of the administrative appeals tribunal act (cth) on questions of law</catchphrase>
-<catchphrase "id=c1">applicant successful on some questions of law but not others</catchphrase>
-<catchphrase "id=c2">administrative appeals tribunal adopted incorrect interpretation of s 22 of the australian citizenship act 2007 (cth) and transitional provisions relating thereto</catchphrase>
-<catchphrase "id=c3">ultimate conclusions unaffected</catchphrase>
-<catchphrase "id=c4">no point raised by the applicant concerning the wrong approach adopted by the tribunal</catchphrase>
-<catchphrase "id=c5">relief refused on discretionary grounds</catchphrase>
-<catchphrase "id=c6">correct interpretation of s 21 and s 22 of the australian citizenship act 2007 (cth)</catchphrase>
-<catchphrase "id=c7">correct interpretation of transitional provisions contained in item 7 of pt 1 sch 3 to the australian citizenship (transitionals and consequentials) act 2007</catchphrase>
-<catchphrase "id=c8">meaning of phrase "present in australia as a permanent resident" for purposes of item 7</catchphrase>
-<catchphrase "id=c9">meaning of clause "engaged in activities during that period that the minister considers to be beneficial to australia" in subitem (4)(a) of item 7</catchphrase>
-<catchphrase "id=c10">consideration of whether may means must in subitem (4) of item 7</catchphrase>
-<catchphrase "id=c11">"period", "present in australia as a permanent resident", "engaged in activities during that period that the minister considers to be beneficial to australia"</catchphrase>
-<catchphrase "id=c12">administrative law</catchphrase>
-<catchphrase "id=c13">statutes</catchphrase>
-<catchphrase "id=c14">words and phrases</catchphrase>
+<catchphrase id="c0">appeal pursuant to s 44 of the administrative appeals tribunal act (cth) on questions of law</catchphrase>
+<catchphrase id="c1">applicant successful on some questions of law but not others</catchphrase>
+<catchphrase id="c2">administrative appeals tribunal adopted incorrect interpretation of s 22 of the australian citizenship act 2007 (cth) and transitional provisions relating thereto</catchphrase>
+<catchphrase id="c3">ultimate conclusions unaffected</catchphrase>
+<catchphrase id="c4">no point raised by the applicant concerning the wrong approach adopted by the tribunal</catchphrase>
+<catchphrase id="c5">relief refused on discretionary grounds</catchphrase>
+<catchphrase id="c6">correct interpretation of s 21 and s 22 of the australian citizenship act 2007 (cth)</catchphrase>
+<catchphrase id="c7">correct interpretation of transitional provisions contained in item 7 of pt 1 sch 3 to the australian citizenship (transitionals and consequentials) act 2007</catchphrase>
+<catchphrase id="c8">meaning of phrase "present in australia as a permanent resident" for purposes of item 7</catchphrase>
+<catchphrase id="c9">meaning of clause "engaged in activities during that period that the minister considers to be beneficial to australia" in subitem (4)(a) of item 7</catchphrase>
+<catchphrase id="c10">consideration of whether may means must in subitem (4) of item 7</catchphrase>
+<catchphrase id="c11">"period", "present in australia as a permanent resident", "engaged in activities during that period that the minister considers to be beneficial to australia"</catchphrase>
+<catchphrase id="c12">administrative law</catchphrase>
+<catchphrase id="c13">statutes</catchphrase>
+<catchphrase id="c14">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,7 +27,7 @@
 <sentence id="s2">On 19 April 2004, the Minister granted to the applicant a Class AD Resident, subclass 127 Permanent Residence visa.</sentence>
 <sentence id="s3">This visa is a permanent visa within the meaning of that expression when used in the Migration Act 1958 (Cth) ( the Migration Act ).</sentence>
 <sentence id="s4">The applicant first arrived in Australia on 2 May 2004.</sentence>
-<sentence id="s5">In a letter dated 29 June 2007 from Johninfo &amp; Associates, Migration Consultants, who were then acting on behalf of the applicant, to the Department of Immigration and Citizenship, the applicant applied for Australian citizenship.</sentence>
+<sentence id="s5">In a letter dated 29 June 2007 from Johninfo &amp;amp; Associates, Migration Consultants, who were then acting on behalf of the applicant, to the Department of Immigration and Citizenship, the applicant applied for Australian citizenship.</sentence>
 <sentence id="s6">In his application, the applicant invoked s 13(4)(b) of the Australian Citizenship Act 1948 (Cth) ( the old Act ).</sentence>
 <sentence id="s7">On 1 March 2008, the applicant's application for Australian citizenship was refused by a delegate of the first respondent ( the Minister ).</sentence>
 <sentence id="s8">On 31 March 2008, the applicant applied to the Administrative Appeals Tribunal ( the Tribunal ) for a review of the delegate's decision.</sentence>
@@ -613,7 +613,7 @@ Dated: 14 May 2009
  
  Counsel for the Applicant: Mr L Karp 
  
- Solicitor for the Applicant: Christopher Levingston &amp; Associates 
+ Solicitor for the Applicant: Christopher Levingston &amp;amp; Associates 
  
  Counsel for the First Respondent: Mr JAC Potts 
  

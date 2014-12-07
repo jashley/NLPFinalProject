@@ -3,17 +3,17 @@
 <name>Timbercorp Securities Limited (in liq) v Plantation Land Limited [2009] FCA 741 (10 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/741.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">insolvency</catchphrase>
-<catchphrase "id=c1">winding up</catchphrase>
-<catchphrase "id=c2">liquidator</catchphrase>
-<catchphrase "id=c3">expenses incurred in winding up</catchphrase>
-<catchphrase "id=c4">priority of payment</catchphrase>
-<catchphrase "id=c5">leases</catchphrase>
-<catchphrase "id=c6">rent accruing before and after winding up order</catchphrase>
-<catchphrase "id=c7">whether liquidator has retained possession of land for the purposes of liquidation</catchphrase>
-<catchphrase "id=c8">whether rent should be treated as an expense incurred by the liquidator</catchphrase>
-<catchphrase "id=c9">scope of the liquidation expenses principle</catchphrase>
-<catchphrase "id=c10">corporations</catchphrase>
+<catchphrase id="c0">insolvency</catchphrase>
+<catchphrase id="c1">winding up</catchphrase>
+<catchphrase id="c2">liquidator</catchphrase>
+<catchphrase id="c3">expenses incurred in winding up</catchphrase>
+<catchphrase id="c4">priority of payment</catchphrase>
+<catchphrase id="c5">leases</catchphrase>
+<catchphrase id="c6">rent accruing before and after winding up order</catchphrase>
+<catchphrase id="c7">whether liquidator has retained possession of land for the purposes of liquidation</catchphrase>
+<catchphrase id="c8">whether rent should be treated as an expense incurred by the liquidator</catchphrase>
+<catchphrase id="c9">scope of the liquidation expenses principle</catchphrase>
+<catchphrase id="c10">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -159,7 +159,7 @@
 <sentence id="s84">There he said: "1.</sentence>
 <sentence id="s85">If the liquidator has retained possession for the purposes of the winding-up, or if he has used the property for carrying on the company's business, or has kept the property in order to sell it or to do the best he can with it, the landlord will be allowed to distrain for rent which has become due since the winding up ...</sentence>
 <sentence id="s86">But if he has kept possession by arrangement with the landlord and for his benefit as well as for the benefit of the company, and there is no agreement with the liquidator that he shall pay the rent, the landlord is not allowed to distrain ..." [citations omitted].</sentence>
-<sentence id="s87">The point of these cases is that distress for rent is allowed when the liquidator has "elected" to retain possession of the leased land: In re Silkstone &amp; Dodworth Coal and Iron Company (1881) 19 Ch D 158 at 161 per Fry J; see also In re ABC Coupler and Engineering Co Ltd (No 3) [1970] 1 WLR 702 per Plowman J.</sentence>
+<sentence id="s87">The point of these cases is that distress for rent is allowed when the liquidator has "elected" to retain possession of the leased land: In re Silkstone &amp;amp; Dodworth Coal and Iron Company (1881) 19 Ch D 158 at 161 per Fry J; see also In re ABC Coupler and Engineering Co Ltd (No 3) [1970] 1 WLR 702 per Plowman J.</sentence>
 <sentence id="s88">Whether or not the liquidator has elected to retain possession (ie whether or not he has decided to do so) may involve a subjective assessment of the state of mind of the liquidator but, more usually, will be determined objectively based on what the liquidator has said and done: In re Downer Enterprises Ltd [1974] 1 WLR 1460 , 1466.</sentence>
 <sentence id="s89">The principle (no longer confined to distress) was discussed at length by the House of Lords in In re Toshoku Finance UK plc [2002] 1 WLR 671.</sentence>
 <sentence id="s90">Lord Hoffman, with whom the other Law Lords agreed, said that the early cases establish that debts arising out of pre-liquidation contracts, such as leases, whether they accrue before or after the liquidation, should prima facie be proved in the liquidation.</sentence>
@@ -176,7 +176,7 @@
 <sentence id="s101">But at this point the liquidators' inquiries are incomplete and they are not in a position to make, and have not made, a decision.</sentence>
 <sentence id="s102">If so minded, PLL could force the liquidators to hurry up.</sentence>
 <sentence id="s103">It could do that by serving a notice under s 568(8) requiring the liquidators to elect within 28 days (or any longer period allowed by the Court) whether or not to disclaim the leases.</sentence>
-<sentence id="s104">If they elect not to disclaim it is likely that the rent accruing thereafter will be an expense of the liquidation: see Re HH Realisations Ltd (1975) 31 P&amp;CR 249.</sentence>
+<sentence id="s104">If they elect not to disclaim it is likely that the rent accruing thereafter will be an expense of the liquidation: see Re HH Realisations Ltd (1975) 31 P&amp;amp;CR 249.</sentence>
 <sentence id="s105">In the meantime there will be a declaration that the rent that fell due for payment under the PLL leases on 1 July 2009 is not an expense incurred in the liquidation, or by the liquidators, of Timbercorp.</sentence>
 <sentence id="s106">I certify that the preceding twenty-three (23) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finkelstein.</sentence>
 <sentence id="s107">Associate:
@@ -193,10 +193,10 @@ L Zwier
  
  Solicitor for the Defendant Maddocks 
  
- Counsel for the Australian Securities &amp; Investments Commission: J Peters SC
+ Counsel for the Australian Securities &amp;amp; Investments Commission: J Peters SC
 S Hibble 
  
- Solicitor for the Australian Securities &amp; Investments Commission: Australian Securities &amp; Investments Commission 
+ Solicitor for the Australian Securities &amp;amp; Investments Commission: Australian Securities &amp;amp; Investments Commission 
  Date of Hearing: 6 July 2009 
  
  Date of Judgment: 10 July 2009 

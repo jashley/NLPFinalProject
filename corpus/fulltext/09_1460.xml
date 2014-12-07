@@ -3,11 +3,11 @@
 <name>Bitech Engineering v Garth Living Pty Ltd (No 2) [2009] FCA 1460 (9 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1460.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether the circumstances of the cases justified any issues-based costs orders</catchphrase>
-<catchphrase "id=c1">in one case, one issues-based costs order made</catchphrase>
-<catchphrase "id=c2">whether any of the respondent parties entitled to indemnity costs</catchphrase>
-<catchphrase "id=c3">indemnity costs refused</catchphrase>
-<catchphrase "id=c4">costs</catchphrase>
+<catchphrase id="c0">whether the circumstances of the cases justified any issues-based costs orders</catchphrase>
+<catchphrase id="c1">in one case, one issues-based costs order made</catchphrase>
+<catchphrase id="c2">whether any of the respondent parties entitled to indemnity costs</catchphrase>
+<catchphrase id="c3">indemnity costs refused</catchphrase>
+<catchphrase id="c4">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -53,7 +53,7 @@
 <sentence id="s38">The notion that Bitech should pay Garth Living's costs on an indemnity basis is based upon Garth Living's contention that Bitech unreasonably rejected a settlement offer made by Garth Living.</sentence>
 <sentence id="s39">The relevant principles are to be found in Colgate-Palmolive Company v Cussons Pty Ltd [1993] FCA 536 ; (1993) 46 FCR 225 at 233---234; Re Wilcox; Ex parte Venture Industries Pty Ltd (No 2) (1996) 72 FCR 151 at 152---153 (per Black CJ) and at 156---158 (per Cooper and Merkel JJ); and in University of Western Australia v Gray (No 21) [2008] FCA 1056 ; (2008) 249 ALR 360 at [32] ---[33] (p 368).</sentence>
 <sentence id="s40">In order to justify an order for indemnity costs by reason of the rejection of a settlement offer, the claimant must show that the refusal to accept the offer was unreasonable in all the circumstances at the time when the offer was rejected.</sentence>
-<sentence id="s41">The settlement offer relied upon by Garth Living in the present case was made on 11 July 2008 in a letter from Garth Living's lawyers (Eales &amp; Mackenzie) to DLA Phillips Fox dated that day.</sentence>
+<sentence id="s41">The settlement offer relied upon by Garth Living in the present case was made on 11 July 2008 in a letter from Garth Living's lawyers (Eales &amp;amp; Mackenzie) to DLA Phillips Fox dated that day.</sentence>
 <sentence id="s42">Omitting formal parts, that letter was in the following terms: 
  Without Prejudice Save as to the Question of Costs 
  Dear Sirs,
@@ -109,7 +109,7 @@
 <sentence id="s82">That offer was in the following terms, omitting formal parts: 
  WITHOUT PREJUDICE SAVE AS TO COSTS 
  Dear Sirs
- Cohen Nominees Pty Ltd &amp; Garth Living Pty Ltd ats Bitech Engineering Pty Ltd --- Federal Court No.</sentence>
+ Cohen Nominees Pty Ltd &amp;amp; Garth Living Pty Ltd ats Bitech Engineering Pty Ltd --- Federal Court No.</sentence>
 <sentence id="s83">NSD 1681 of 2006 
  Our client is willing to settle the above proceedings on the basis that the proceedings be discontinued with no order as to costs.</sentence>
 <sentence id="s84">This offer is put on a Calderbank basis which would be used on the question of costs if not accepted and a judgment is ultimately handed down which is on less favourable terms to your client than this offer.</sentence>
@@ -299,7 +299,7 @@ Dated: 9 December 2009
  
  Counsel for Garth Living Pty Ltd, Cohen Nominees Pty Limited and Bunnings Group Limited: Ms J Rawlings 
  
- Solicitor for Garth Living Pty Ltd and Bunnings Group Limited: Eales &amp; Mackenzie Melbourne 
+ Solicitor for Garth Living Pty Ltd and Bunnings Group Limited: Eales &amp;amp; Mackenzie Melbourne 
  
  Solicitor for Cohen Nominees Pty Limited: Bradley Allen Lawyers 
  

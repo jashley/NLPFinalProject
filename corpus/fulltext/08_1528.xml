@@ -3,10 +3,10 @@
 <name>Smith v Superannuation Complaints Tribunal [2008] FCA 1528 (15 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1528.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of superannuation complaints tribunal</catchphrase>
-<catchphrase "id=c1">tribunal denied jurisdiction to hear complaint</catchphrase>
-<catchphrase "id=c2">procedural fairness</catchphrase>
-<catchphrase "id=c3">superannuation</catchphrase>
+<catchphrase id="c0">appeal from decision of superannuation complaints tribunal</catchphrase>
+<catchphrase id="c1">tribunal denied jurisdiction to hear complaint</catchphrase>
+<catchphrase id="c2">procedural fairness</catchphrase>
+<catchphrase id="c3">superannuation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -29,46 +29,46 @@
 4 The background facts to this matter can be found in the Tribunal's "Review Determination and Reasons" (the Determination and Reasons) and the applicant's Chronology of Events.</sentence>
 <sentence id="s11">They may be summarised as follows:
  
-&#8226; in May 1994 the applicant was employed by Penrith City Council (employer) as a labourer and became a member of the First State Superannuation Scheme (the former fund);
+&amp;#8226; in May 1994 the applicant was employed by Penrith City Council (employer) as a labourer and became a member of the First State Superannuation Scheme (the former fund);
  
-&#8226; in January 1995 the applicant was injured at work;
+&amp;#8226; in January 1995 the applicant was injured at work;
  
-&#8226; in early 1996 the applicant returned to work on light duties;
+&amp;#8226; in early 1996 the applicant returned to work on light duties;
  
-&#8226; in July 1996 the applicant injured his back at work;
+&amp;#8226; in July 1996 the applicant injured his back at work;
  
-&#8226; in October 1996 the applicant received a letter from his employer stating that his employment would be terminated on 1 November 1996 due to a lack of medical evidence as to when he could return to his pre-injury employment;
+&amp;#8226; in October 1996 the applicant received a letter from his employer stating that his employment would be terminated on 1 November 1996 due to a lack of medical evidence as to when he could return to his pre-injury employment;
  
-&#8226; in early 1997 the applicant purportedly telephoned an officer of the former fund enquiring about payment of benefit application;
+&amp;#8226; in early 1997 the applicant purportedly telephoned an officer of the former fund enquiring about payment of benefit application;
  
-&#8226; on 1 July 1997 liability for the applicant was transferred from the former fund to the second respondent;
+&amp;#8226; on 1 July 1997 liability for the applicant was transferred from the former fund to the second respondent;
  
-&#8226; in late 1999 the applicant settled a workers' compensation claim;
+&amp;#8226; in late 1999 the applicant settled a workers' compensation claim;
  
-&#8226; on 6 November 2003 the applicant applied to the former fund for payment of a benefit on the basis that he was permanently incapacitated.</sentence>
+&amp;#8226; on 6 November 2003 the applicant applied to the former fund for payment of a benefit on the basis that he was permanently incapacitated.</sentence>
 <sentence id="s12">The application was accompanied by two incapacity certificates by medical practitioners;
  
-&#8226; on 18 November 2003 the applicant's payment of his account balance was approved by the former fund on the basis the applicant was totally and permanently incapacitated.</sentence>
+&amp;#8226; on 18 November 2003 the applicant's payment of his account balance was approved by the former fund on the basis the applicant was totally and permanently incapacitated.</sentence>
 <sentence id="s13">The balance was paid on 21 November 2003;
  
-&#8226; on 20 January 2005 the applicant was informed by the former fund that the second respondent should be contacted regarding total and permanent disability insurance;
+&amp;#8226; on 20 January 2005 the applicant was informed by the former fund that the second respondent should be contacted regarding total and permanent disability insurance;
  
-&#8226; in February 2005 the applicant received and completed a statement of claim from the second respondent;
+&amp;#8226; in February 2005 the applicant received and completed a statement of claim from the second respondent;
  
-&#8226; in April 2005 the second respondent drew the applicant's attention to time limits in making a claim and invited him to provide the second respondent with information why the statement of claim was outside the proscribed time.</sentence>
+&amp;#8226; in April 2005 the second respondent drew the applicant's attention to time limits in making a claim and invited him to provide the second respondent with information why the statement of claim was outside the proscribed time.</sentence>
 <sentence id="s14">The applicant provided information;
  
-&#8226; in July 2005 the applicant completed a statement of claim;
+&amp;#8226; in July 2005 the applicant completed a statement of claim;
  
-&#8226; on 1 May 2006 the applicant was informed by the second respondent that his application for benefit was refused;
+&amp;#8226; on 1 May 2006 the applicant was informed by the second respondent that his application for benefit was refused;
  
-&#8226; on 10 December 2006 the applicant lodged a complaint with the first respondent;
+&amp;#8226; on 10 December 2006 the applicant lodged a complaint with the first respondent;
  
-&#8226; on 15 February 2007 the first respondent wrote to the applicant stating that it had "established its jurisdiction to deal with your complaint";
+&amp;#8226; on 15 February 2007 the first respondent wrote to the applicant stating that it had "established its jurisdiction to deal with your complaint";
  
-&#8226; in its determination and reasons handed down on 7 December 2007 the Tribunal found that it did not have jurisdiction to deal with the applicant's complaint because the complaint was out of time;
+&amp;#8226; in its determination and reasons handed down on 7 December 2007 the Tribunal found that it did not have jurisdiction to deal with the applicant's complaint because the complaint was out of time;
  
-&#8226; the applicant appealed the Tribunal's decision by application to the Federal Court filed on 7 January 2008.</sentence>
+&amp;#8226; the applicant appealed the Tribunal's decision by application to the Federal Court filed on 7 January 2008.</sentence>
 <sentence id="s15">The decision of the Tribunal 
  
 5 In its written determination of 7 December 2007 the only substantive issue identified by the Tribunal in its determination and reasons was whether it had jurisdiction to determine the complaint of the applicant.</sentence>
@@ -111,18 +111,18 @@
 13 In support of the oral application, Mr Scott-Mackenzie submitted that the respondents would not suffer any prejudice if the amended application for order of review was amended further.</sentence>
 <sentence id="s35">I agreed with the applicant and granted leave for two reasons:
  
-&#8226; First, the applicant's outline of argument, which had been served on both respondents and filed on 24 September 2008, raised all of the issues contemplated by the further amendment.</sentence>
+&amp;#8226; First, the applicant's outline of argument, which had been served on both respondents and filed on 24 September 2008, raised all of the issues contemplated by the further amendment.</sentence>
 <sentence id="s36">Accordingly any prejudice to either respondent was minimised.</sentence>
-<sentence id="s37">&#8226; Second the respondents had not entered any appearance throughout these proceedings, and the second respondent had in correspondence with the Court submitted itself to the orders of the Court save as to costs.</sentence>
+<sentence id="s37">&amp;#8226; Second the respondents had not entered any appearance throughout these proceedings, and the second respondent had in correspondence with the Court submitted itself to the orders of the Court save as to costs.</sentence>
 <sentence id="s38">14 Following the grant of leave to further amend the amended application, Mr Scott-Mackenzie stated the applicant would only rely upon the ground added at the hearing in support of his claim.</sentence>
 <sentence id="s39">Submissions of the applicant 
  
 15 The submissions of the applicant may be summarised as follows:
  
-&#8226; There is a common law duty to observe procedural fairness where the exercise of power is liable to affect a person's rights, status, interests or legitimate expectations ( Kioa v West [1985] HCA 81 ; (1985) 159 CLR 550 at 584).</sentence>
+&amp;#8226; There is a common law duty to observe procedural fairness where the exercise of power is liable to affect a person's rights, status, interests or legitimate expectations ( Kioa v West [1985] HCA 81 ; (1985) 159 CLR 550 at 584).</sentence>
 <sentence id="s40">The applicant in this case was not afforded procedural fairness in relation to the question of whether the Tribunal had jurisdiction to hear the complaint.</sentence>
 <sentence id="s41">This is a question of law and may be appealed to this Court pursuant to s 46 of the Act .</sentence>
-<sentence id="s42">&#8226; The applicant must be given an opportunity to address issues that are troubling the Tribunal ( Cole v Cunningham (1983) 49 ALR 123 at 128).</sentence>
+<sentence id="s42">&amp;#8226; The applicant must be given an opportunity to address issues that are troubling the Tribunal ( Cole v Cunningham (1983) 49 ALR 123 at 128).</sentence>
 <sentence id="s43">At the time of its hearing the Tribunal failed to inform the applicant that the question of jurisdiction was a live issue.</sentence>
 <sentence id="s44">In fact, the Tribunal had conceded in correspondence that it did have jurisdiction as follows:
  
@@ -145,8 +145,8 @@ I wish to confirm that the Tribunal has established its jurisdiction to deal wit
 <sentence id="s51">
  
 
-&#8226; The applicant submitted that for the Tribunal to have acted fairly in the circumstances in this case, the Tribunal would have been required, at the least, to have notified the applicant that jurisdiction was a live issue and afforded the applicant the opportunity to make submissions on the jurisdiction question.</sentence>
-<sentence id="s52">&#8226; Finally, the applicant acknowledged that whether relief was granted to the applicant was at the discretion of the Court, and if the return of a matter to the Tribunal would be futile or where the error relied upon by the Tribunal could not have made a difference to the outcome of the case, the court should refuse to grant relief ( Nguyen v Minister for Immigration and Multicultural Affairs (1998) 88 FCR 206).</sentence>
+&amp;#8226; The applicant submitted that for the Tribunal to have acted fairly in the circumstances in this case, the Tribunal would have been required, at the least, to have notified the applicant that jurisdiction was a live issue and afforded the applicant the opportunity to make submissions on the jurisdiction question.</sentence>
+<sentence id="s52">&amp;#8226; Finally, the applicant acknowledged that whether relief was granted to the applicant was at the discretion of the Court, and if the return of a matter to the Tribunal would be futile or where the error relied upon by the Tribunal could not have made a difference to the outcome of the case, the court should refuse to grant relief ( Nguyen v Minister for Immigration and Multicultural Affairs (1998) 88 FCR 206).</sentence>
 <sentence id="s53">In this case however the applicant submitted that the Court should exercise its discretion in favour of the applicant because:
  
  
@@ -171,9 +171,9 @@ I wish to confirm that the Tribunal has established its jurisdiction to deal wit
 <sentence id="s63">There can be no doubt that this is a finding adverse to the interests of the applicant.</sentence>
 <sentence id="s64">As such, the Tribunal had an obligation to ensure the applicant:
  
-&#8226; was aware the question of jurisdiction was a live issue; and
+&amp;#8226; was aware the question of jurisdiction was a live issue; and
  
-&#8226; had a reasonable opportunity to make submissions regarding jurisdiction.</sentence>
+&amp;#8226; had a reasonable opportunity to make submissions regarding jurisdiction.</sentence>
 <sentence id="s65">21 In my view the Tribunal failed in its obligation.</sentence>
 <sentence id="s66">I accept the applicant's submissions that the Tribunal denied the applicant procedural fairness by not making him aware the jurisdiction question was a live issue at the hearing, and by not giving him an opportunity to deal with that issue at the hearing.</sentence>
 <sentence id="s67">Although the Tribunal raised the question of jurisdiction in its letter dated 16 November 2006 and gave the applicant an opportunity to respond (which he did through the letter dated 24 November 2006), the next correspondence received by the applicant with relation to jurisdiction was the letter from the Tribunal dated 15 February 2007.</sentence>

@@ -3,38 +3,38 @@
 <name>Esco Corporation v PAC Mining Pty Ltd [2008] FCA 640 (12 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/640.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">infringement</catchphrase>
-<catchphrase "id=c1">construction</catchphrase>
-<catchphrase "id=c2">wear assemblies attaching to excavator buckets</catchphrase>
-<catchphrase "id=c3">meaning of "opening extending therethrough"</catchphrase>
-<catchphrase "id=c4">meaning of "digging edge"</catchphrase>
-<catchphrase "id=c5">meaning of "rigid lock".</catchphrase>
-<catchphrase "id=c6">invalidity</catchphrase>
-<catchphrase "id=c7">novelty</catchphrase>
-<catchphrase "id=c8">meaning of "shoulders"</catchphrase>
-<catchphrase "id=c9">whether prior patent had "shoulders".</catchphrase>
-<catchphrase "id=c10">invalidity</catchphrase>
-<catchphrase "id=c11">obviousness</catchphrase>
-<catchphrase "id=c12">use of screw to eliminate looseness in earlier wear assemblies</catchphrase>
-<catchphrase "id=c13">person skilled in the art</catchphrase>
-<catchphrase "id=c14">common general knowledge</catchphrase>
-<catchphrase "id=c15">whether starting point of invention obvious</catchphrase>
-<catchphrase "id=c16">whether looseness in earlier wear assemblies a design flaw</catchphrase>
-<catchphrase "id=c17">evidence of obviousness given in hindsight</catchphrase>
-<catchphrase "id=c18">whether evidence should be accepted.</catchphrase>
-<catchphrase "id=c19">invalidity</catchphrase>
-<catchphrase "id=c20">fair basis</catchphrase>
-<catchphrase "id=c21">real and reasonably clear disclosure of the invention</catchphrase>
-<catchphrase "id=c22">lock with adjustment assembly disclosed.</catchphrase>
-<catchphrase "id=c23">"opening extending therethrough"</catchphrase>
-<catchphrase "id=c24">"digging edge"</catchphrase>
-<catchphrase "id=c25">"rigid lock"</catchphrase>
-<catchphrase "id=c26">"shoulders"</catchphrase>
-<catchphrase "id=c27">patents</catchphrase>
-<catchphrase "id=c28">patents</catchphrase>
-<catchphrase "id=c29">patents</catchphrase>
-<catchphrase "id=c30">patents</catchphrase>
-<catchphrase "id=c31">words and phrases</catchphrase>
+<catchphrase id="c0">infringement</catchphrase>
+<catchphrase id="c1">construction</catchphrase>
+<catchphrase id="c2">wear assemblies attaching to excavator buckets</catchphrase>
+<catchphrase id="c3">meaning of "opening extending therethrough"</catchphrase>
+<catchphrase id="c4">meaning of "digging edge"</catchphrase>
+<catchphrase id="c5">meaning of "rigid lock".</catchphrase>
+<catchphrase id="c6">invalidity</catchphrase>
+<catchphrase id="c7">novelty</catchphrase>
+<catchphrase id="c8">meaning of "shoulders"</catchphrase>
+<catchphrase id="c9">whether prior patent had "shoulders".</catchphrase>
+<catchphrase id="c10">invalidity</catchphrase>
+<catchphrase id="c11">obviousness</catchphrase>
+<catchphrase id="c12">use of screw to eliminate looseness in earlier wear assemblies</catchphrase>
+<catchphrase id="c13">person skilled in the art</catchphrase>
+<catchphrase id="c14">common general knowledge</catchphrase>
+<catchphrase id="c15">whether starting point of invention obvious</catchphrase>
+<catchphrase id="c16">whether looseness in earlier wear assemblies a design flaw</catchphrase>
+<catchphrase id="c17">evidence of obviousness given in hindsight</catchphrase>
+<catchphrase id="c18">whether evidence should be accepted.</catchphrase>
+<catchphrase id="c19">invalidity</catchphrase>
+<catchphrase id="c20">fair basis</catchphrase>
+<catchphrase id="c21">real and reasonably clear disclosure of the invention</catchphrase>
+<catchphrase id="c22">lock with adjustment assembly disclosed.</catchphrase>
+<catchphrase id="c23">"opening extending therethrough"</catchphrase>
+<catchphrase id="c24">"digging edge"</catchphrase>
+<catchphrase id="c25">"rigid lock"</catchphrase>
+<catchphrase id="c26">"shoulders"</catchphrase>
+<catchphrase id="c27">patents</catchphrase>
+<catchphrase id="c28">patents</catchphrase>
+<catchphrase id="c29">patents</catchphrase>
+<catchphrase id="c30">patents</catchphrase>
+<catchphrase id="c31">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -51,11 +51,11 @@
 <sentence id="s9">The wear assemblies produced by the respondents which are said to infringe the applicants' patents are known as the Hensley System, the PAC System and CQMS System.</sentence>
 <sentence id="s10">5 The applicants' allegations of infringement turn on three questions of construction relating to the meaning of certain expressions in the patents' specifications, namely:
  
-&#8226; "opening extending therethough"; 
+&amp;#8226; "opening extending therethough"; 
  
-&#8226; "digging edge"; and
+&amp;#8226; "digging edge"; and
  
-&#8226; "a rigid lock received into said opening".</sentence>
+&amp;#8226; "a rigid lock received into said opening".</sentence>
 <sentence id="s11">6 The respondents' Defence and Cross-Claim responds to the applicants' allegations of infringement, and pleads that the relevant claims of the applicants' patents are invalid on the grounds that they are not novel, do not involve an inventive step and are not fairly based on the descriptions in the patents' specifications.</sentence>
 <sentence id="s12">The respondents seek appropriate declarations of invalidity.</sentence>
 <sentence id="s13">BACKGROUND 
@@ -223,7 +223,7 @@
 <sentence id="s119">33 Mr Meyers was cross-examined by counsel for the applicants in relation to the records he kept in order to track the performance of certain wear assemblies, the conclusions he drew in relation to the areas in which the designs could be improved, and the reasons for which the wear assemblies regularly failed.</sentence>
 <sentence id="s120">The cross-examination clarified, by reference to diagrams already in evidence, what Mr Meyers regarded as the invention in this case, which, in broad terms, was the advantage gained from only requiring a bolt or screw to secure the teeth of the wear assembly to their mounts, without also requiring special tools to achieve the same result.</sentence>
 <sentence id="s121">34 Mr Ashworth, who was called for the respondents, swore one affidavit.</sentence>
-<sentence id="s122">At the relevant time, he was an engineer employed by Mason &amp; Cox.</sentence>
+<sentence id="s122">At the relevant time, he was an engineer employed by Mason &amp;amp; Cox.</sentence>
 <sentence id="s123">His evidence related to the usage and functionality of several different types of locks used in ground engaging tools, such as J-bolts, straight bolts and Toplok.</sentence>
 <sentence id="s124">In addition, Mr Ashworth gave evidence of what he considered to be the common general knowledge about the design and manufacture of wear assemblies in Australia at 6 November 1995.</sentence>
 <sentence id="s125">While cross-examination of Mr Ashworth elicited some further information about the disadvantages of certain bolts used in wear assemblies and the way in which he became aware of the Toplok product, it did not materially undermine his evidence.</sentence>
@@ -391,11 +391,11 @@ Professor Wightley replied:
 <sentence id="s262">In simpler terms, the new combination achieved by the patents in this case provided a new benefit beyond what had previously been provided, and was therefore inventive.</sentence>
 <sentence id="s263">73 The applicants submit that the invention the subject of Jones II and Jones III was based on perceptions that:
  
-&#8226; the Toplok shroud provided a good foundation upon which to develop an improved wear assembly that could serve not only as a shroud but also as an adapter;
+&amp;#8226; the Toplok shroud provided a good foundation upon which to develop an improved wear assembly that could serve not only as a shroud but also as an adapter;
  
-&#8226; the forces to which an adapter may be exposed could produce looseness in mounting of the wear assembly to a Toplok style of mounting; and
+&amp;#8226; the forces to which an adapter may be exposed could produce looseness in mounting of the wear assembly to a Toplok style of mounting; and
  
-&#8226; this looseness could be overcome by an adjustment assembly that moved the relative positions of the bearing surfaces of the Toplok style lock so as to pull the wear assembly over the mount.</sentence>
+&amp;#8226; this looseness could be overcome by an adjustment assembly that moved the relative positions of the bearing surfaces of the Toplok style lock so as to pull the wear assembly over the mount.</sentence>
 <sentence id="s264">74 The applicants' argument is that the use of this type of adapter with a Toplok style of mounting was not part of the common general knowledge at the relevant date.</sentence>
 <sentence id="s265">Furthermore, the applicants say that, since there were at the relevant date many wear assemblies available to be used as the starting point to develop an improved assembly which overcame looseness between the wear member and the boss, the use of Toplok as the starting point was not required by any design principle, and was therefore not obvious.</sentence>
 <sentence id="s266">Indeed, as Professor Wightley acknowledged in cross-examination, even if an inventor were confined to the Toplok shroud as a starting point, there were several other locking methods known which may have been used instead of the method ultimately used in the invention.</sentence>
@@ -443,7 +443,7 @@ Professor Wightley replied:
 <sentence id="s306">' 
  
 
-82 The danger of hindsight was also referred to by Lord Diplock in Technograph Printed Circuits Ltd v Mills-Rockley (Electronics) Ltd [1972] RPC 346 at 362 (and approved by the High Court in Aktiebolaget H&auml;ssle v Alphapharm Pty Ltd [2002] HCA 59 ; (2002) 194 ALR 485 at 491) in these terms:
+82 The danger of hindsight was also referred to by Lord Diplock in Technograph Printed Circuits Ltd v Mills-Rockley (Electronics) Ltd [1972] RPC 346 at 362 (and approved by the High Court in Aktiebolaget H&amp;auml;ssle v Alphapharm Pty Ltd [2002] HCA 59 ; (2002) 194 ALR 485 at 491) in these terms:
  
  'Once an invention has been made it is generally possible to postulate a combination of steps by which the inventor might have arrived at the invention that he claims in his specification if he started from something that was already known.</sentence>
 <sentence id="s307">But it is only because the invention has been made and has proved successful that it is possible to postulate from what starting point and by what particular combination of steps the inventor could have arrived at his invention.</sentence>

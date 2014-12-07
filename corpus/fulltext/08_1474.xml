@@ -3,11 +3,11 @@
 <name>SZEQH v Minister for Immigration and Citizenship [2008] FCA 1474 (2 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1474.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for a protection (class xa) visa pursuant to the migration act 1958 (cth) (the "act")</catchphrase>
-<catchphrase "id=c1">giving evidence to the refugee review tribunal in support of such an application</catchphrase>
-<catchphrase "id=c2">whether the refugee review tribunal has a discretion to permit cross-examination of persons appearing to give evidence under s 427(6) of the act</catchphrase>
-<catchphrase "id=c3">whether that discretion was exercised</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase id="c0">application for a protection (class xa) visa pursuant to the migration act 1958 (cth) (the "act")</catchphrase>
+<catchphrase id="c1">giving evidence to the refugee review tribunal in support of such an application</catchphrase>
+<catchphrase id="c2">whether the refugee review tribunal has a discretion to permit cross-examination of persons appearing to give evidence under s 427(6) of the act</catchphrase>
+<catchphrase id="c3">whether that discretion was exercised</catchphrase>
+<catchphrase id="c4">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -171,8 +171,8 @@
 <sentence id="s134">In any event, the notice of appeal was amended on 10 April 2008, pursuant to order made on 7 April 2008, to include a further ground of appeal as follows:
  The learned Federal Magistrate erred in upholding the Tribunal's error in treating s 427(6) of the Migration Act 1958 ("the Act ") as being determinative of the Appellant's application to cross-examine Mrs Sun and as a consequence: 
  
- &#8226; failing to consider the merits of the Appellant's application to cross-examine Ms Sun; 
- &#8226; failing to permit the Appellant to cross-examine Mrs Sun 
+ &amp;#8226; failing to consider the merits of the Appellant's application to cross-examine Ms Sun; 
+ &amp;#8226; failing to permit the Appellant to cross-examine Mrs Sun 
  
  (the "Alleged Errors").</sentence>
 <sentence id="s135">

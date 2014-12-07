@@ -3,20 +3,20 @@
 <name>Tervonen v Finland [2008] FCA 781 (29 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/781.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">review of surrender determination of magistrate in respect of applicant</catchphrase>
-<catchphrase "id=c1">challenge to sufficiency of "supporting documents" under s 19 extradition act 1988 (cth)</catchphrase>
-<catchphrase "id=c2">whether certain arrest warrants validly authenticated</catchphrase>
-<catchphrase "id=c3">whether arrest warrant backing for certain extradition offences</catchphrase>
-<catchphrase "id=c4">whether certain arrest warrants were for the arrest of the applicant for an extradition offence or for coercive investigation only</catchphrase>
-<catchphrase "id=c5">whether determination of latter issue foreclosed by high court authority</catchphrase>
-<catchphrase "id=c6">whether dual criminality established for certain extradition offences</catchphrase>
-<catchphrase "id=c7">whether certain extradition offences barred by time limitation in finland</catchphrase>
-<catchphrase "id=c8">whether applicant on remand for purposes of s 19 extradition act</catchphrase>
-<catchphrase "id=c9">whether notice of extradition request issued out of time for purposes of s 16 extradition act</catchphrase>
-<catchphrase "id=c10">whether applicant afforded reasonable time before magistrate</catchphrase>
-<catchphrase "id=c11">grounds of review not made out</catchphrase>
-<catchphrase "id=c12">orders of magistrate confirmed</catchphrase>
-<catchphrase "id=c13">extradition</catchphrase>
+<catchphrase id="c0">review of surrender determination of magistrate in respect of applicant</catchphrase>
+<catchphrase id="c1">challenge to sufficiency of "supporting documents" under s 19 extradition act 1988 (cth)</catchphrase>
+<catchphrase id="c2">whether certain arrest warrants validly authenticated</catchphrase>
+<catchphrase id="c3">whether arrest warrant backing for certain extradition offences</catchphrase>
+<catchphrase id="c4">whether certain arrest warrants were for the arrest of the applicant for an extradition offence or for coercive investigation only</catchphrase>
+<catchphrase id="c5">whether determination of latter issue foreclosed by high court authority</catchphrase>
+<catchphrase id="c6">whether dual criminality established for certain extradition offences</catchphrase>
+<catchphrase id="c7">whether certain extradition offences barred by time limitation in finland</catchphrase>
+<catchphrase id="c8">whether applicant on remand for purposes of s 19 extradition act</catchphrase>
+<catchphrase id="c9">whether notice of extradition request issued out of time for purposes of s 16 extradition act</catchphrase>
+<catchphrase id="c10">whether applicant afforded reasonable time before magistrate</catchphrase>
+<catchphrase id="c11">grounds of review not made out</catchphrase>
+<catchphrase id="c12">orders of magistrate confirmed</catchphrase>
+<catchphrase id="c13">extradition</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -229,7 +229,7 @@ Tervonen has cross-referenced all of those charges to the first three warrants.<
 <sentence id="s74">" 
 11 The following paragraphs appear under the heading "Background on case".</sentence>
 <sentence id="s75">"The person claimed to be arrested, Jan Tervonen, is suspected of having been involved, as one of the central background figures, in the carrying out of the criminal activity.</sentence>
-<sentence id="s76">His identity was unknown to Raappana and S&ouml;derqvist who acted as dummies.</sentence>
+<sentence id="s76">His identity was unknown to Raappana and S&amp;ouml;derqvist who acted as dummies.</sentence>
 <sentence id="s77">Jan Tervonen served a sentence of imprisonment between April and August 2004.</sentence>
 <sentence id="s78">In spite of this, he is suspected with probable cause of having been involved in the case at hand.</sentence>
 <sentence id="s79">Information on Tervonen's suspected involvement in the present case was gathered mainly through coercive measures related to pre-trial investigations of different cases.</sentence>

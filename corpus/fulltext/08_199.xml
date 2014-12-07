@@ -3,10 +3,10 @@
 <name>Nguyen v Minister for Immigration and Citizenship [2008] FCA 199 (6 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/199.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">cancellation of visa</catchphrase>
-<catchphrase "id=c1">decision by minister personally</catchphrase>
-<catchphrase "id=c2">whether minister obliged to afford visa holder an oral hearing</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase id="c0">cancellation of visa</catchphrase>
+<catchphrase id="c1">decision by minister personally</catchphrase>
+<catchphrase id="c2">whether minister obliged to afford visa holder an oral hearing</catchphrase>
+<catchphrase id="c3">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -212,7 +212,7 @@
 <sentence id="s125">43 Section 501(2) of the Migration Act does not impose any express obligation on the Minister to afford a visa holder an oral hearing.</sentence>
 <sentence id="s126">By contrast, other provisions in the Migration Act do impose such an express obligation on a decision-maker: see, for example, s 425(1).</sentence>
 <sentence id="s127">Although not determinative, the contrast suggests that an oral hearing is not required before the Minister can exercise the power to cancel a visa under s 501(2) of the Migration Act .</sentence>
-<sentence id="s128">44 In M238/2002 v Minister for Immigration, Multicultural &amp; Indigenous Affairs [2003] FCA 936 , Kenny J made some helpful observations on the requirements of procedural fairness in relation to a Ministerial visa cancellation decision under s 501(2).</sentence>
+<sentence id="s128">44 In M238/2002 v Minister for Immigration, Multicultural &amp;amp; Indigenous Affairs [2003] FCA 936 , Kenny J made some helpful observations on the requirements of procedural fairness in relation to a Ministerial visa cancellation decision under s 501(2).</sentence>
 <sentence id="s129">Her Honour noted (at [41]) that:
  
  'Procedural fairness required that, before any decision was made, the Minister afford the applicant a fair opportunity to present information and argument against the cancellation of his visa.</sentence>

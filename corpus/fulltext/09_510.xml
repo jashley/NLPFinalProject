@@ -3,16 +3,16 @@
 <name>Australian Competition and Consumer Commission v Singapore Airlines Cargo Pte Ltd (corrigendum 27 May 2009) [2009] FCA 510 (20 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/510.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to strike out statement of claim</catchphrase>
-<catchphrase "id=c1">whether statement of claim discloses reasonable cause of action</catchphrase>
-<catchphrase "id=c2">whether statement of claim fails to identify a market in australian within the meaning of s 4e of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c3">whether statement of claim fails to plead material facts and alleges contraventions with such generality that they cannot amount to contraventions of the trade practices act</catchphrase>
-<catchphrase "id=c4">global market is capable of constituting a market in australia</catchphrase>
-<catchphrase "id=c5">market in australia within the meaning of the trade practices act sufficiently identified in pleading</catchphrase>
-<catchphrase "id=c6">pleadings failed to establish how alleged understandings have the proscribed effect on competition in a market in australia</catchphrase>
-<catchphrase "id=c7">failure to state material facts</catchphrase>
-<catchphrase "id=c8">statement of claim struck out.</catchphrase>
-<catchphrase "id=c9">trade practices</catchphrase>
+<catchphrase id="c0">application to strike out statement of claim</catchphrase>
+<catchphrase id="c1">whether statement of claim discloses reasonable cause of action</catchphrase>
+<catchphrase id="c2">whether statement of claim fails to identify a market in australian within the meaning of s 4e of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c3">whether statement of claim fails to plead material facts and alleges contraventions with such generality that they cannot amount to contraventions of the trade practices act</catchphrase>
+<catchphrase id="c4">global market is capable of constituting a market in australia</catchphrase>
+<catchphrase id="c5">market in australia within the meaning of the trade practices act sufficiently identified in pleading</catchphrase>
+<catchphrase id="c6">pleadings failed to establish how alleged understandings have the proscribed effect on competition in a market in australia</catchphrase>
+<catchphrase id="c7">failure to state material facts</catchphrase>
+<catchphrase id="c8">statement of claim struck out.</catchphrase>
+<catchphrase id="c9">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -275,7 +275,7 @@ by all or any of the parties to the contract, arrangement or understanding or of
 <sentence id="s132">Mr O'Bryan argued that in determining the geographic location of the market, the emphasis should not be on the place of the contract, and is not restricted to the sphere of activity of a corporation or the limit of its actual sales.</sentence>
 <sentence id="s133">Rather, a conventional analysis will focus on factors including the location of the actual and potential buyers and sellers, and the location of the relevant competitive activities.</sentence>
 <sentence id="s134">Further, Mr O'Bryan argued that the minimum required nexus with Australia is either that the arrangement has or is likely to have an anti-competitive purpose or effect in a market in Australia, or that any of the parties to the arrangement has fixed or controlled prices in relation to services in respect of which they are in competition in a market in Australia.</sentence>
-<sentence id="s135">It is true that the authorities, including three recent cases that have considered the question in relation to international air freight services, accept the proposition (either expressly or impliedly) that a global market is capable of constituting a market in Australia: Riverstone Computer Services Pty Limited v IBM Global Financing Australia Limited [2002] FCA 1608 at [21] , Auskay International Manufacturing &amp; Trade Pty Ltd v Qantas Airways Ltd [2008] FCA 1458 ; (2009) 251 ALR 166 at [21] ; Australian Competition and Consumer Commission v Qantas Airways Ltd (2009) 253 ALR 89 at [35]; Emirates v Australian Competition and Consumer Commission [2009] FCA 312 at [70] .</sentence>
+<sentence id="s135">It is true that the authorities, including three recent cases that have considered the question in relation to international air freight services, accept the proposition (either expressly or impliedly) that a global market is capable of constituting a market in Australia: Riverstone Computer Services Pty Limited v IBM Global Financing Australia Limited [2002] FCA 1608 at [21] , Auskay International Manufacturing &amp;amp; Trade Pty Ltd v Qantas Airways Ltd [2008] FCA 1458 ; (2009) 251 ALR 166 at [21] ; Australian Competition and Consumer Commission v Qantas Airways Ltd (2009) 253 ALR 89 at [35]; Emirates v Australian Competition and Consumer Commission [2009] FCA 312 at [70] .</sentence>
 <sentence id="s136">Also, in Emirates , Middleton J accepted that inbound and outbound air freight services are capable of being part of the Australian market: Emirates at [62], [63].</sentence>
 <sentence id="s137">It follows in my view that Singapore Airlines cannot succeed on its first objection to the Statement of Claim because the pleaded markets are at least capable of amounting to markets in Australia.</sentence>
 <sentence id="s138">But it does not follow that this provides an answer to the second ground of attack on the pleading.</sentence>

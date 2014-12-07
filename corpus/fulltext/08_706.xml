@@ -3,12 +3,12 @@
 <name>Woodward v Australian Super Pty Ltd (formerly STA) [2008] FCA 706 (22 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/706.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from a determination of the superannuation complaints tribunal</catchphrase>
-<catchphrase "id=c1">where the sct affirmed decisions of the first and second respondent that the applicant was not totally and permanently disabled</catchphrase>
-<catchphrase "id=c2">whether any questions of law raised on appeal</catchphrase>
-<catchphrase "id=c3">whether the sct considered the relevant time in determining whether the applicant was totally and permanently disabled</catchphrase>
-<catchphrase "id=c4">appeal allowed.</catchphrase>
-<catchphrase "id=c5">superannuation</catchphrase>
+<catchphrase id="c0">appeal from a determination of the superannuation complaints tribunal</catchphrase>
+<catchphrase id="c1">where the sct affirmed decisions of the first and second respondent that the applicant was not totally and permanently disabled</catchphrase>
+<catchphrase id="c2">whether any questions of law raised on appeal</catchphrase>
+<catchphrase id="c3">whether the sct considered the relevant time in determining whether the applicant was totally and permanently disabled</catchphrase>
+<catchphrase id="c4">appeal allowed.</catchphrase>
+<catchphrase id="c5">superannuation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -154,12 +154,12 @@ The waiting period was defined as six months.</sentence>
  
  
  
- &#9679; 2 hands; or
- &#9679; 2 feet; or
- &#9679; 1 hand and 1 foot; or
- &#9679; the sight in both eyes; or
- &#9679; 1 hand and the sight in 1 eye; or
- &#9679; 1 foot and the sight in 1 eye,
+ &amp;#9679; 2 hands; or
+ &amp;#9679; 2 feet; or
+ &amp;#9679; 1 hand and 1 foot; or
+ &amp;#9679; the sight in both eyes; or
+ &amp;#9679; 1 hand and the sight in 1 eye; or
+ &amp;#9679; 1 foot and the sight in 1 eye,
  
  where "hand" means whole hand below the wrist and "foot" means the whole foot below the ankle.</sentence>
 <sentence id="s72">
@@ -245,8 +245,8 @@ It is in that regard, like s 44(1) of the Administrative Appeals Tribunal Act 19
 <sentence id="s133">The existence of a question of law is now not merely a qualifying condition to ground the appeal, but also the subject matter of the appeal itself.</sentence>
 <sentence id="s134">(Footnotes omitted.</sentence>
 <sentence id="s135">) 
-That statement was approved by the Full Court in Birdseye v Australian Securities &amp; Investments Commission [2003] FCAFC 232 ; (2003) 76 ALD 321.</sentence>
-<sentence id="s136">43 The questions of law must be stated with precision: Australian Securities &amp; Investments Commission v Saxby Bridge Financial Planning Pty Ltd [2003] FCAFC 244 ; (2003) 133 FCR 290.</sentence>
+That statement was approved by the Full Court in Birdseye v Australian Securities &amp;amp; Investments Commission [2003] FCAFC 232 ; (2003) 76 ALD 321.</sentence>
+<sentence id="s136">43 The questions of law must be stated with precision: Australian Securities &amp;amp; Investments Commission v Saxby Bridge Financial Planning Pty Ltd [2003] FCAFC 244 ; (2003) 133 FCR 290.</sentence>
 <sentence id="s137">Order 53B rule 2 of the Federal Court of Australia Rules 1979 (Cth) provides that O 53, with any necessary changes, applies for appeals from the SCT. Order 53 relates to appeals from the Administrative Appeals Tribunal (the Tribunal).</sentence>
 <sentence id="s138">In particular, O 53 r 3(2)(b) provides that the notice of appeal shall state the question or questions of law to be raised on the appeal.</sentence>
 <sentence id="s139">44 It is the respondent's contention that this notice of appeal does not comply with O 53 r 3(2)(b) but, more particularly, does not raise any question of law.</sentence>

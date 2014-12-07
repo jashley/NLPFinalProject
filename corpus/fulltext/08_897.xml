@@ -3,24 +3,24 @@
 <name>Stoyef v Masu Financial Management Pty Ltd [2008] FCA 897 (13 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/897.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pleading</catchphrase>
-<catchphrase "id=c1">managed investment scheme</catchphrase>
-<catchphrase "id=c2">class action against financial services licensee which advised applicant and group members to invest in promissory notes without giving them a product disclosure statement (pds) as (allegedly) required by s 1012a(1) of corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c3">financial collapse</catchphrase>
-<catchphrase "id=c4">investors suffered loss</catchphrase>
-<catchphrase "id=c5">whether applicant required to plead knowledge that scheme was required to be registered but was not registered and was therefore liable to be wound up so as to displace s 1013c(2) of the act</catchphrase>
-<catchphrase "id=c6">whether, on the other hand, respondent required to plead lack of such knowledge by way of defence</catchphrase>
-<catchphrase "id=c7">whether pleading of what pds would have stated amounted to a pleading of actual knowledge. held: pleading did, properly construed, plead actual knowledge on part of issuer, and was not required to plead actual knowledge in express terms.</catchphrase>
-<catchphrase "id=c8">pleading</catchphrase>
-<catchphrase "id=c9">managed investment scheme</catchphrase>
-<catchphrase "id=c10">class action against financial services licensee which advised applicant and group members to invest in promissory notes without giving them a product disclosure statement (pds) as (allegedly) required by s 1012a (1) of corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c11">financial collapse</catchphrase>
-<catchphrase "id=c12">investors suffered loss</catchphrase>
-<catchphrase "id=c13">whether applicant required to plead knowledge that scheme was required to be registered but was not registered and was therefore liable to be wound up so as to displace s 1013c(2) of the act</catchphrase>
-<catchphrase "id=c14">whether, on the other hand, respondent required to plead lack of such knowledge by way of defence</catchphrase>
-<catchphrase "id=c15">whether pleading of what pds would have stated amounted to a pleading of actual knowledge. held: pleading did, properly construed, plead actual knowledge on part of issuer, and was not required to plead actual knowledge in express terms.</catchphrase>
-<catchphrase "id=c16">corporations</catchphrase>
-<catchphrase "id=c17">practice and procedure</catchphrase>
+<catchphrase id="c0">pleading</catchphrase>
+<catchphrase id="c1">managed investment scheme</catchphrase>
+<catchphrase id="c2">class action against financial services licensee which advised applicant and group members to invest in promissory notes without giving them a product disclosure statement (pds) as (allegedly) required by s 1012a(1) of corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c3">financial collapse</catchphrase>
+<catchphrase id="c4">investors suffered loss</catchphrase>
+<catchphrase id="c5">whether applicant required to plead knowledge that scheme was required to be registered but was not registered and was therefore liable to be wound up so as to displace s 1013c(2) of the act</catchphrase>
+<catchphrase id="c6">whether, on the other hand, respondent required to plead lack of such knowledge by way of defence</catchphrase>
+<catchphrase id="c7">whether pleading of what pds would have stated amounted to a pleading of actual knowledge. held: pleading did, properly construed, plead actual knowledge on part of issuer, and was not required to plead actual knowledge in express terms.</catchphrase>
+<catchphrase id="c8">pleading</catchphrase>
+<catchphrase id="c9">managed investment scheme</catchphrase>
+<catchphrase id="c10">class action against financial services licensee which advised applicant and group members to invest in promissory notes without giving them a product disclosure statement (pds) as (allegedly) required by s 1012a (1) of corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c11">financial collapse</catchphrase>
+<catchphrase id="c12">investors suffered loss</catchphrase>
+<catchphrase id="c13">whether applicant required to plead knowledge that scheme was required to be registered but was not registered and was therefore liable to be wound up so as to displace s 1013c(2) of the act</catchphrase>
+<catchphrase id="c14">whether, on the other hand, respondent required to plead lack of such knowledge by way of defence</catchphrase>
+<catchphrase id="c15">whether pleading of what pds would have stated amounted to a pleading of actual knowledge. held: pleading did, properly construed, plead actual knowledge on part of issuer, and was not required to plead actual knowledge in express terms.</catchphrase>
+<catchphrase id="c16">corporations</catchphrase>
+<catchphrase id="c17">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -221,8 +221,8 @@ the person may recover the amount of the loss or damage by action against the, o
 48 For the above reasons:
  
  
- &#8226; Mr Stoyef should have leave to file and serve the proposed further amended application and the proposed further amended statement of claim (subject to his making the amendments referred to above); and
- &#8226; Masu's motion should be dismissed.</sentence>
+ &amp;#8226; Mr Stoyef should have leave to file and serve the proposed further amended application and the proposed further amended statement of claim (subject to his making the amendments referred to above); and
+ &amp;#8226; Masu's motion should be dismissed.</sentence>
 <sentence id="s123">
  
 

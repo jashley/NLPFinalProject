@@ -3,12 +3,12 @@
 <name>Massih v Esber [2008] FCA 1452 (24 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1452.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to set aside bankruptcy notice</catchphrase>
-<catchphrase "id=c1">need for court to be " satisfied "</catchphrase>
-<catchphrase "id=c2">counter-claim, set-off or cross demand</catchphrase>
-<catchphrase "id=c3">could not have been set up as a matter of law in the action or proceeding in which judgment or order obtained</catchphrase>
-<catchphrase "id=c4">application allowed</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
+<catchphrase id="c0">application to set aside bankruptcy notice</catchphrase>
+<catchphrase id="c1">need for court to be " satisfied "</catchphrase>
+<catchphrase id="c2">counter-claim, set-off or cross demand</catchphrase>
+<catchphrase id="c3">could not have been set up as a matter of law in the action or proceeding in which judgment or order obtained</catchphrase>
+<catchphrase id="c4">application allowed</catchphrase>
+<catchphrase id="c5">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -43,7 +43,7 @@
 <sentence id="s24">... [6] An order for an account of profits, including the order made on 8 March 2007 which used "such profits" to refer back to the declaration previously made, on its ordinary and natural meaning and without any further exposition is an order for an account of losses if matter accounted for should have generated losses.</sentence>
 <sentence id="s25">If the Court had intended anything so strange as an account or enquiry limited only to profits, and to leave ascertainment of losses, if there should be any, to be neglected and not dealt with, there would have been a marked departure from the Court's statutory duty to resolve the whole controversy.</sentence>
 <sentence id="s26">If the order of 8 March 2007 had been intended to effect any [sic] so strange a result I am confident that it would say so in a highly explicit manner.</sentence>
-<sentence id="s27">SECTIONS 40(1)(G) &amp; 41(7) 
+<sentence id="s27">SECTIONS 40(1)(G) &amp;amp; 41(7) 
  
 13 Those provisions of the Bankruptcy Act of immediate relevance to the Application now before this Court are ss 40(1)(g) and 41 (7).</sentence>
 <sentence id="s28">14 Section 40(1)(g) of the 1966 Act provides as follows: 
@@ -54,7 +54,7 @@
 <sentence id="s30">17 To " satisfy " the Court it is not necessary for the debtor to prove, as on a final hearing, the asserted entitlement to recover as against the creditor.</sentence>
 <sentence id="s31">That which is to be established is whether the Court is " satisfied " that the debtor " has a claim deserving to be finally determined ": Re Glew; Glew v Harrowell [2003] FCA 373 at [11] , [2003] FCA 373 ; 198 ALR 331 at 334.</sentence>
 <sentence id="s32">Lindgren J there observed:
- [9] There are authorities suggesting that Glew and Tresidder must satisfy me of the following interrelated and sometimes overlapping matters: &#8226; that they have a "prima facie case", even if they do not adduce evidence which would be admissible on a final hearing making out that case... &#8226; that they have "a fair chance of success" or are "fairly entitled to litigate" the claim... and &#8226; that they are advancing a "genuine" or "bona fide" claim...</sentence>
+ [9] There are authorities suggesting that Glew and Tresidder must satisfy me of the following interrelated and sometimes overlapping matters: &amp;#8226; that they have a "prima facie case", even if they do not adduce evidence which would be admissible on a final hearing making out that case... &amp;#8226; that they have "a fair chance of success" or are "fairly entitled to litigate" the claim... and &amp;#8226; that they are advancing a "genuine" or "bona fide" claim...</sentence>
 <sentence id="s33">It may be that the first and second formulations are intended to cover the same ground.</sentence>
 <sentence id="s34">In [Re Brink; Ex parte Commercial Banking Co of Sydney Ltd (1980) 44 FLR 135] Lockhart J treated (at ALR 438---9; FLR 141) the reference to a "prima facie case" ... as a reference to "a fair chance of success".</sentence>
 <sentence id="s35">This was subsequently characterised by His Honour as a " relatively low threshold ": at [64].</sentence>
@@ -105,7 +105,7 @@
 <sentence id="s72">The statutory phrase " must not be narrowed ".</sentence>
 <sentence id="s73">A judgment debtor is " not to lie by with his cross-demand, but must prosecute it with due diligence ": Re Brown, Ex parte Peisley Brothers (1892) 3 BC (NSW) 13 at 14 per Manning J.</sentence>
 <sentence id="s74">" A debtor having a claim against his or her creditor can not just stand by while judgment is obtained and later seek to use that claim to set aside a bankruptcy notice founded upon that judgment ": Re Ling; Ex parte Ling v Commonwealth [1995] FCA 1410 ; (1995) 58 FCR 129 at 137 per Hill J.</sentence>
-<sentence id="s75">28 Consistent with the legislative objective sought to be achieved by s 40(1)(g) , it has been held that the phrase " could not have been set up " refers to a " cross-claim, set-off or cross demand " which could not have been set up as a matter of law; a mere failure to take advantage of an opportunity to do so does not fall within s 40(1)(g): Re Vicini; Ex parte E A Sealey &amp; Co (1982) 64 FLR 323.</sentence>
+<sentence id="s75">28 Consistent with the legislative objective sought to be achieved by s 40(1)(g) , it has been held that the phrase " could not have been set up " refers to a " cross-claim, set-off or cross demand " which could not have been set up as a matter of law; a mere failure to take advantage of an opportunity to do so does not fall within s 40(1)(g): Re Vicini; Ex parte E A Sealey &amp;amp; Co (1982) 64 FLR 323.</sentence>
 <sentence id="s76">Fisher J there usefully summarised as follows some of the relevant authorities (at 326):
  The relevant words of the Act were considered by Lockhart J in Re Brink; Ex parte The Commercial Banking Company of Sydney Ltd. (1980) 44 FLR 135, at p 139, when he said: "The words 'that he could not have set up in the action or proceeding in which the judgment or order was obtained' mean 'which he could not by law set up in the action': see Re Jocumsen (1929) 1 ABC 82 , at p 85; Re A Debtor [1914] 3 KB 726, at p 730 per Avory J.; Re Stockvis (1934) 7 ABC 53 , at p 57, especially per Lukin J where his Honour said: 'I take as a counterclaim, set off or cross demand which could not be set up as one which, from point of time, or from its nature, or from absence of empowering provisions, or from positive inhibition so to do, could not be set up in the particular case in which judgment was obtained ... .</sentence>
 <sentence id="s77">Mere failure to take advantage of the opportunity can hardly be said to be inability.</sentence>

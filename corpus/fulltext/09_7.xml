@@ -3,10 +3,10 @@
 <name>Overseas Aircrew Basing Limited v Commissioner of Taxation [2009] FCA 7 (15 January 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/7.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">exemption from tax of foreign earnings derived by residents of australia engaged in service in a foreign country</catchphrase>
-<catchphrase "id=c1">whether australian based aircrew flying aircraft for an international airline are engaged in foreign service within the meaning of s. 23ag of the income tax assessment act 1936</catchphrase>
-<catchphrase "id=c2">consequential implications for the employer under the fringe benefits tax assessment act 1986</catchphrase>
-<catchphrase "id=c3">taxation</catchphrase>
+<catchphrase id="c0">exemption from tax of foreign earnings derived by residents of australia engaged in service in a foreign country</catchphrase>
+<catchphrase id="c1">whether australian based aircrew flying aircraft for an international airline are engaged in foreign service within the meaning of s. 23ag of the income tax assessment act 1936</catchphrase>
+<catchphrase id="c2">consequential implications for the employer under the fringe benefits tax assessment act 1986</catchphrase>
+<catchphrase id="c3">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -224,7 +224,7 @@ The taxpayer relies upon the following grounds (none of which are to be taken as
  ... 
  
  3.4.</sentence>
-<sentence id="s60">In addition to the duties defined in 3.1, 3.2 &amp; 3.3, an Officer, subject to mutual agreement between the Company and the Officer, will perform such other duties in the air and/or on the ground that the Company may require.</sentence>
+<sentence id="s60">In addition to the duties defined in 3.1, 3.2 &amp;amp; 3.3, an Officer, subject to mutual agreement between the Company and the Officer, will perform such other duties in the air and/or on the ground that the Company may require.</sentence>
 <sentence id="s61">
  
  3.5.</sentence>
@@ -468,17 +468,17 @@ Division 950 of the 1997 Act contained 'Rules for interpreting this Act' [where 
  
  
  
-&#9679; the headings of the Chapters, Parts, Divisions and Subdivisions of this Act; 
+&amp;#9679; the headings of the Chapters, Parts, Divisions and Subdivisions of this Act; 
  
  
  
- &#9679; Guides; 
+ &amp;#9679; Guides; 
  
- &#9679; the headings of the sections and subsections of this Act; 
+ &amp;#9679; the headings of the sections and subsections of this Act; 
  
  
  
-&#9679; the headings for groups of sections of this Act (group headings); &#9679; the notes and examples (however described) that follow provisions of this Act.</sentence>
+&amp;#9679; the headings for groups of sections of this Act (group headings); &amp;#9679; the notes and examples (however described) that follow provisions of this Act.</sentence>
 <sentence id="s114">... 
  
  
@@ -489,7 +489,7 @@ Division 950 of the 1997 Act contained 'Rules for interpreting this Act' [where 
  
  
  
-&#9679; footnotes and endnotes; &#9679; Tables of Subdivisions; &#9679; Tables of sections.</sentence>
+&amp;#9679; footnotes and endnotes; &amp;#9679; Tables of Subdivisions; &amp;#9679; Tables of sections.</sentence>
 <sentence id="s115">' 
 (k) The next step along the way is to determine whether amounts of ordinary income were exempt from income tax by a provision of, relevantly for present purposes, the 1936 Act.</sentence>
 <sentence id="s116">(l) Section 23AG of the 1936 Act dealt with the exemption of income earned in overseas employment.</sentence>
@@ -974,13 +974,13 @@ Division 950 of the 1997 Act contained 'Rules for interpreting this Act' [where 
  Income Tax Assessment Act 1936 
  ... 
  
-&#8226; Paragraph 23(q) exempts foreign source income not otherwise mentioned above or hereunder (including salary and wages) from Australian income tax if tax on it is paid in the country of source; 
+&amp;#8226; Paragraph 23(q) exempts foreign source income not otherwise mentioned above or hereunder (including salary and wages) from Australian income tax if tax on it is paid in the country of source; 
  
  
  Income Tax (International Agreements) Act 1953 
  
  
-&#8226; Section 14 of the Income Tax (International Agreements) Act 1953 - dividends, interest and royalties from other countries on which foreign tax is limited in terms of comprehensive taxation agreements that Australia has with those countries - these are subject to Australian tax and a credit is given for the foreign tax.</sentence>
+&amp;#8226; Section 14 of the Income Tax (International Agreements) Act 1953 - dividends, interest and royalties from other countries on which foreign tax is limited in terms of comprehensive taxation agreements that Australia has with those countries - these are subject to Australian tax and a credit is given for the foreign tax.</sentence>
 <sentence id="s221">...</sentence>
 <sentence id="s222">The Bill will not effect (sic) the existing provisions of the income tax law that exempts, in certain circumstances, remuneration derived by persons working overseas on approved projects.</sentence>
 <sentence id="s223">The Bill will also exempt salary or wages earned overseas that is subject to tax in the country of source, where derived by an Australian resident in performing services overseas for a continuous period of at least 12 months - a proportionate exemption will apply where the period is from 3 to 12 months with a credit being allowed for foreign tax paid on any amount not exempted.</sentence>
@@ -997,11 +997,11 @@ Division 950 of the 1997 Act contained 'Rules for interpreting this Act' [where 
 <sentence id="s234">... Sub-section 23AG(6) in effect specifies that, for the purpose of determining the length of a period of foreign service on which entitlement to exemption under the section is based, various periods when the person is not actually on the job are to be taken into account.</sentence>
 <sentence id="s235">The periods so specified are those during which the person, as authorised - 
  
- &#8226; is absent on recreation leave, ... 
+ &amp;#8226; is absent on recreation leave, ... 
  
  ...; or 
  
- &#8226; is absent from work because of accident or illness... 
+ &amp;#8226; is absent from work because of accident or illness... 
  
 ...' 
 57 In the Minister's Second Reading Speech in respect of the Bill which became the Taxation Laws Amendment (Foreign Tax Credits) Act 1986 (Cth) (Act No.</sentence>
@@ -1039,15 +1039,15 @@ Division 950 of the 1997 Act contained 'Rules for interpreting this Act' [where 
 <sentence id="s260">It aims to reduce compliance costs for taxpayers, and to address some specific issues that have arisen.</sentence>
 <sentence id="s261">The amendments: 
  
- &#8226; provide that a period of foreign service will not end until absences exceed one-sixth of the days of foreign service 
+ &amp;#8226; provide that a period of foreign service will not end until absences exceed one-sixth of the days of foreign service 
  
  
  
- &#8226; allow the exemption to potentially apply where a taxpayer dies during a period of foreign service before reaching the requisite 91 days 
+ &amp;#8226; allow the exemption to potentially apply where a taxpayer dies during a period of foreign service before reaching the requisite 91 days 
  
  
  
- &#8226; reinstate eligibility for the exemption where a taxpayer was employed in Iraq during the suspension of Iraq's income tax system from 1 January 2003 to 30 April 2004.</sentence>
+ &amp;#8226; reinstate eligibility for the exemption where a taxpayer was employed in Iraq during the suspension of Iraq's income tax system from 1 January 2003 to 30 April 2004.</sentence>
 <sentence id="s262">
  
 ...</sentence>
@@ -1063,7 +1063,7 @@ Division 950 of the 1997 Act contained 'Rules for interpreting this Act' [where 
 <sentence id="s270">1.4 One area of complexity this measure addresses is the 'credits and debits' rule used to allow an individual to be considered to have a continuous period of foreign service despite short absences.</sentence>
 <sentence id="s271">This test will be replaced with a simpler and generally more generous rule that allows different foreign service periods to be aggregated, unless the period of absence that separates them exceeds one-sixth of the total number of days of foreign service at any time.</sentence>
 <sentence id="s272">1.5 These amendments also modify section 23AG in two specific situations: where a taxpayer was employed in Iraq during the suspension of the income tax system, and where a taxpayer dies before reaching 91 days of continuous service.</sentence>
-<sentence id="s273">Summary of new law 1.6 These amendments have three components: &#8226; Individuals will not break a period of foreign service until the time that absences exceed one-sixth of the days in foreign service.</sentence>
+<sentence id="s273">Summary of new law 1.6 These amendments have three components: &amp;#8226; Individuals will not break a period of foreign service until the time that absences exceed one-sixth of the days in foreign service.</sentence>
 <sentence id="s274">... ...</sentence>
 <sentence id="s275">Comparison of key features of new law and current law New law Current Law Time away from foreign service that does not constitute foreign service, will not break the period of foreign service provided the time away from foreign service is not greater than one-sixth of the number of days of foreign service at any time.</sentence>
 <sentence id="s276">Time away from foreign service that does not constitute foreign service will not break the period of foreign service if the individual's absentee credit balance is greater than nil.</sentence>
@@ -1400,7 +1400,7 @@ Any time during which a crew member operates in an aircraft as a member of its F
 <sentence id="s401">... 7.30 Sector/Sector Time The time between when an aircraft first moves from its parking position until it next comes to rest, after landing, on the designated parking position.</sentence>
 <sentence id="s402">... 7.38 Ultra Long Range Operation An operation by a Two Crew Aircraft requiring three or more pilots involving a time difference of six hours or more between the places where the Duty Period starts and finishes.</sentence>
 <sentence id="s403">... 8.</sentence>
-<sentence id="s404">REPORTING &amp; FINISHING TIMES 
+<sentence id="s404">REPORTING &amp;amp; FINISHING TIMES 
  
  8.1 For the purpose of calculating a Scheduled FDP or Duty Period, the following Scheduled Reporting Times and Scheduled Finishing Times will be used.</sentence>
 <sentence id="s405">
@@ -1547,7 +1547,7 @@ b.</sentence>
 <sentence id="s459">However, subject to the agreement of the Flight Crew member, the duty may be extended to seven consecutive days; and B.</sentence>
 <sentence id="s460">Notwithstanding 28.1.A, on occasion may be Positioned to their Home Base on the seventh consecutive day (eighth consecutive day if the duty is extended to seven days), provided they are then allocated at least two consecutive DDOs; and C. Will have a minimum of two consecutive DDOs in any period of fourteen consecutive days following the previous two consecutive DDOs; and D. Will have a minimum of seven DDOs in any period of four consecutive weeks; and E. Will have an average of at least eight DDOs in each period of four consecutive weeks averaged over three such periods.</sentence>
 <sentence id="s461">29.</sentence>
-<sentence id="s462">COURSES OF INSTRUCTION &amp; GROUND DUTIES 
+<sentence id="s462">COURSES OF INSTRUCTION &amp;amp; GROUND DUTIES 
  
  29.1 The provisions of this Scheme with respect to Domestic Days Off and Recovery Periods may be varied without reference to CAD [Civil Aviation Department] to the extent necessary to facilitate crew members in attending extended ground courses, or undertaking other duties, away from Home Base.</sentence>
 <sentence id="s463">

@@ -3,11 +3,11 @@
 <name>Asciak v Australian Secured and Managed Mortgages Pty Ltd (ACN 112 603 219) [2008] FCA 753 (23 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/753.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by former director of family company to inspect company's books for purposes of proposed proceedings in family court to set aside property settlement consent orders</catchphrase>
-<catchphrase "id=c1">evidence of communications during the course of family court settlement negotiations inadmissible</catchphrase>
-<catchphrase "id=c2">factual foundation for the proposed claim inadmissible</catchphrase>
-<catchphrase "id=c3">proposed proceedings not brought in good faith.</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase id="c0">application by former director of family company to inspect company's books for purposes of proposed proceedings in family court to set aside property settlement consent orders</catchphrase>
+<catchphrase id="c1">evidence of communications during the course of family court settlement negotiations inadmissible</catchphrase>
+<catchphrase id="c2">factual foundation for the proposed claim inadmissible</catchphrase>
+<catchphrase id="c3">proposed proceedings not brought in good faith.</catchphrase>
+<catchphrase id="c4">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -483,7 +483,7 @@ Dated: 23 May 2008
 
  Counsel for the Plaintiff: T McLean 
  
- Solicitor for the Plaintiff Slater &amp; Gordon Limited 
+ Solicitor for the Plaintiff Slater &amp;amp; Gordon Limited 
  
  Counsel for the Defendants: R Spicer 
  

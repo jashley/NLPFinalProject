@@ -3,32 +3,32 @@
 <name>Australian Securities and Investments Commission v Citigroup Global Markets Australia Pty Limited (ACN 113 114832) (No. 4) [2007] FCA 963 (28 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/963.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">conflict of interest and of duty and interest</catchphrase>
-<catchphrase "id=c1">asic asserted contravention of s 912a(1)(aa) of the corporations act</catchphrase>
-<catchphrase "id=c2">whether respondent and client were in a fiduciary relationship</catchphrase>
-<catchphrase "id=c3">construction of engagement letter</catchphrase>
-<catchphrase "id=c4">effect of exclusion clause</catchphrase>
-<catchphrase "id=c5">whether full disclosure and express consent is required to waive fiduciary obligations</catchphrase>
-<catchphrase "id=c6">specific claims of conflict of interest alleged</catchphrase>
-<catchphrase "id=c7">applicable principles</catchphrase>
-<catchphrase "id=c8">interpretation of s 912a(1)(aa) of the corporations act</catchphrase>
-<catchphrase "id=c9">whether respondent provided "financial services" under s 766a(1)(a) of the corporations act</catchphrase>
-<catchphrase "id=c10">whether services were an "exempt service" under regulation 7.1.29(3) of the corporations regulations</catchphrase>
-<catchphrase "id=c11">consideration of the requirements for adequate arrangements for management of conflicts of interest pursuant to s 912a(1)(aa) of the corporations act</catchphrase>
-<catchphrase "id=c12">insider trading</catchphrase>
-<catchphrase "id=c13">asic asserted contravention of s 1043a of the corporations act</catchphrase>
-<catchphrase "id=c14">meaning of "information" within s 1042a of the corporations act</catchphrase>
-<catchphrase "id=c15">whether relevant person was an "officer"</catchphrase>
-<catchphrase "id=c16">whether a mere supposition, uncommunicated, may amount to "information"</catchphrase>
-<catchphrase "id=c17">applicable principles</catchphrase>
-<catchphrase "id=c18">consideration of whether information was generally available and/or was materially price sensitive</catchphrase>
-<catchphrase "id=c19">adequacy of respondent's chinese walls arrangements for purposes of s 1043f of the corporations act</catchphrase>
-<catchphrase "id=c20">ss 12ca(1) , 12da (1) corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c21">ss 9 , 20 , 764a (1)(a), 766a (1)(a), 766a (2)(b), 766b (1), 912a (1)(aa), 1041h (1), 1042a , 1042c , 1042d , 1043a (1), 1043f corporations regulations 2001 (cth)</catchphrase>
-<catchphrase "id=c22">7.1.29(1), 7.1.29(3)</catchphrase>
-<catchphrase "id=c23">corporations</catchphrase>
-<catchphrase "id=c24">corporations</catchphrase>
-<catchphrase "id=c25">australian securities and investments commission act 2001 (cth)</catchphrase>
+<catchphrase id="c0">conflict of interest and of duty and interest</catchphrase>
+<catchphrase id="c1">asic asserted contravention of s 912a(1)(aa) of the corporations act</catchphrase>
+<catchphrase id="c2">whether respondent and client were in a fiduciary relationship</catchphrase>
+<catchphrase id="c3">construction of engagement letter</catchphrase>
+<catchphrase id="c4">effect of exclusion clause</catchphrase>
+<catchphrase id="c5">whether full disclosure and express consent is required to waive fiduciary obligations</catchphrase>
+<catchphrase id="c6">specific claims of conflict of interest alleged</catchphrase>
+<catchphrase id="c7">applicable principles</catchphrase>
+<catchphrase id="c8">interpretation of s 912a(1)(aa) of the corporations act</catchphrase>
+<catchphrase id="c9">whether respondent provided "financial services" under s 766a(1)(a) of the corporations act</catchphrase>
+<catchphrase id="c10">whether services were an "exempt service" under regulation 7.1.29(3) of the corporations regulations</catchphrase>
+<catchphrase id="c11">consideration of the requirements for adequate arrangements for management of conflicts of interest pursuant to s 912a(1)(aa) of the corporations act</catchphrase>
+<catchphrase id="c12">insider trading</catchphrase>
+<catchphrase id="c13">asic asserted contravention of s 1043a of the corporations act</catchphrase>
+<catchphrase id="c14">meaning of "information" within s 1042a of the corporations act</catchphrase>
+<catchphrase id="c15">whether relevant person was an "officer"</catchphrase>
+<catchphrase id="c16">whether a mere supposition, uncommunicated, may amount to "information"</catchphrase>
+<catchphrase id="c17">applicable principles</catchphrase>
+<catchphrase id="c18">consideration of whether information was generally available and/or was materially price sensitive</catchphrase>
+<catchphrase id="c19">adequacy of respondent's chinese walls arrangements for purposes of s 1043f of the corporations act</catchphrase>
+<catchphrase id="c20">ss 12ca(1) , 12da (1) corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c21">ss 9 , 20 , 764a (1)(a), 766a (1)(a), 766a (2)(b), 766b (1), 912a (1)(aa), 1041h (1), 1042a , 1042c , 1042d , 1043a (1), 1043f corporations regulations 2001 (cth)</catchphrase>
+<catchphrase id="c22">7.1.29(1), 7.1.29(3)</catchphrase>
+<catchphrase id="c23">corporations</catchphrase>
+<catchphrase id="c24">corporations</catchphrase>
+<catchphrase id="c25">australian securities and investments commission act 2001 (cth)</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -95,7 +95,7 @@
 <sentence id="s49">22 The substance of Citigroup's answer to the claim is that the duty of a fiduciary to obtain the informed consent of a client has no application here because it presupposes the existence of an antecedent fiduciary relationship.</sentence>
 <sentence id="s50">No such pre-existing relation is claimed to have been created.</sentence>
 <sentence id="s51">23 Citigroup also relies, to the extent necessary, upon events preceding (and post-dating) the execution of the mandate letter, as demonstrating Toll's knowledge of, and informed consent to, Citigroup's proprietary trading in Patrick shares.</sentence>
-<sentence id="s52">These events include the submission by Citigroup to one of the Toll companies, Toll Transport Pty Limited ('Toll Transport'), and subsequent execution, of a Custodian &amp; Nominee Appointment Agreement dated 23 June 2005.</sentence>
+<sentence id="s52">These events include the submission by Citigroup to one of the Toll companies, Toll Transport Pty Limited ('Toll Transport'), and subsequent execution, of a Custodian &amp;amp; Nominee Appointment Agreement dated 23 June 2005.</sentence>
 <sentence id="s53">That contract deals with the acquisition by Citigroup of a discreet pre-bid stake in Patrick for and on behalf of Toll.</sentence>
 <sentence id="s54">This contract contained express disclosure of Citigroup's right to trade as principal in Patrick shares.</sentence>
 <sentence id="s55">24 ASIC also points to events pre-dating the execution of the mandate letter as part of its case.</sentence>
@@ -398,7 +398,7 @@
 <sentence id="s263">97 On 13 May 2005, Mr Dempsey sent an email to Mr Stanley of Toll.</sentence>
 <sentence id="s264">The email attached an analysis showing the projected premium on Patrick's share price based on the VWAP over various periods.</sentence>
 <sentence id="s265">98 Mr Dempsey sent another email to Mr Chatfield on 18 May 2005 pitching yet again for the mandate and attaching a confidential letter to this effect from himself and Jason McLeod, also Co-Head of IBD Coverage, Melbourne.</sentence>
-<sentence id="s266">It is apparent from the email and letter that by this date, another company, Carnegie Wylie &amp; Company Pty Limited ('Carnegie Wylie'), had been named by Toll as a possible adviser.</sentence>
+<sentence id="s266">It is apparent from the email and letter that by this date, another company, Carnegie Wylie &amp;amp; Company Pty Limited ('Carnegie Wylie'), had been named by Toll as a possible adviser.</sentence>
 <sentence id="s267">99 The email of 18 May 2005 included the following:
  "The only thing we will continue to emphasis [sic] as we work the scope out is our ability to add significant value on the advisory side of the business as well.</sentence>
 <sentence id="s268">As the letter says, we respect the capabilities in this area of Toll and the position Wylie has but we also think we have exhibited our strong capabilities in this area.</sentence>
@@ -415,32 +415,32 @@
 <sentence id="s277">101 Mr Dempsey and Mr McLeod stated in the letter that they supported the possible role for Mr John Wylie of Carnegie Wylie.</sentence>
 <sentence id="s278">They also said they would "work with you to ensure a working relationship to the benefit of Toll".</sentence>
 <sentence id="s279">102 The letter of 18 May 2005 continued as follows:
- "We also appreciate the in-house capabilities Toll has in merger &amp; acquisitions and look forward to defining the scope parties may play in this transaction and to demonstrate the value Citigroup will deliver in a broad advisory leadership role.</sentence>
+ "We also appreciate the in-house capabilities Toll has in merger &amp;amp; acquisitions and look forward to defining the scope parties may play in this transaction and to demonstrate the value Citigroup will deliver in a broad advisory leadership role.</sentence>
 <sentence id="s280">
- We strongly believe Citigroup's ability to bring a complete advisory and funding package (equity &amp; debt) will be crucial to the success of the proposed transaction.</sentence>
+ We strongly believe Citigroup's ability to bring a complete advisory and funding package (equity &amp;amp; debt) will be crucial to the success of the proposed transaction.</sentence>
 <sentence id="s281">Driving the advisory effort is important to us and we believe we will add as much in that area as we will in funding support.</sentence>
 <sentence id="s282">In particular, we trust that Citigroup has already demonstrated some of the key requirements needed as financial adviser.</sentence>
 <sentence id="s283">" 
- June 2005: Citigroup Requires Execution of Custodian &amp; Nominee Appointment 
+ June 2005: Citigroup Requires Execution of Custodian &amp;amp; Nominee Appointment 
  
  103 Although Citigroup had commenced purchasing a stake in Patrick on Toll's behalf in January 2005, no formal documentation was prepared until mid-June of that year.</sentence>
 <sentence id="s284">104 On 15 June 2005, Mr Bartels sent an email to Mr Chatfield stating that, as previously discussed, Citigroup had purchased shares in the name of Citigroup nominees and another nominee company.</sentence>
-<sentence id="s285">He forwarded a form of Custodian &amp; Nominee Appointment for execution by Toll.</sentence>
-<sentence id="s286">105 The form of Custodian &amp; Nominee Appointment provided for Toll Transport to appoint Citigroup (or its authorised representative) as its custodian and nominee for the financial products designated by it.</sentence>
-<sentence id="s287">106 The proposed terms of the Custodian &amp; Nominee Appointment incorporated certain standard Citigroup Terms of Business.</sentence>
+<sentence id="s285">He forwarded a form of Custodian &amp;amp; Nominee Appointment for execution by Toll.</sentence>
+<sentence id="s286">105 The form of Custodian &amp;amp; Nominee Appointment provided for Toll Transport to appoint Citigroup (or its authorised representative) as its custodian and nominee for the financial products designated by it.</sentence>
+<sentence id="s287">106 The proposed terms of the Custodian &amp;amp; Nominee Appointment incorporated certain standard Citigroup Terms of Business.</sentence>
 <sentence id="s288">The standard terms included the following under the subheading "Disclosure of Interest":
  "You acknowledge that we may execute Orders for you and charge you commission in circumstances where we or our associates: 
  
- &#8722; hold a principal position or deals in the Securities (Wholesale Clients who are not Financial Services Licensees may opt out of this clause by informing your CGM Account Manager prior to trading; or otherwise notifying us); 
- &#8722; provide similar services to other persons in relation to the Securities; 
- &#8722; are allocated a sale or purchase of Securities when we have an unexecuted Order on the same terms from you; 
- &#8722; take the opposite position in a Transaction (including a crossing) either acting for another client or on our own account; 
- &#8722; sponsor or underwrite a new issue involving the Securities; 
- &#8722; have material price sensitive information relating to Securities where the individuals processing your Order are prevented from knowing or taking into account such information by reason of Chinese Walls; or 
- &#8722; have a potential conflict of interest of which you are not aware and which we are unable to disclose to you.</sentence>
+ &amp;#8722; hold a principal position or deals in the Securities (Wholesale Clients who are not Financial Services Licensees may opt out of this clause by informing your CGM Account Manager prior to trading; or otherwise notifying us); 
+ &amp;#8722; provide similar services to other persons in relation to the Securities; 
+ &amp;#8722; are allocated a sale or purchase of Securities when we have an unexecuted Order on the same terms from you; 
+ &amp;#8722; take the opposite position in a Transaction (including a crossing) either acting for another client or on our own account; 
+ &amp;#8722; sponsor or underwrite a new issue involving the Securities; 
+ &amp;#8722; have material price sensitive information relating to Securities where the individuals processing your Order are prevented from knowing or taking into account such information by reason of Chinese Walls; or 
+ &amp;#8722; have a potential conflict of interest of which you are not aware and which we are unable to disclose to you.</sentence>
 <sentence id="s289">" 
  
- 107 The Custodian &amp; Nominee Appointment was executed by Toll Transport, without alteration of the abovementioned standard terms, on 17 June 2005.</sentence>
+ 107 The Custodian &amp;amp; Nominee Appointment was executed by Toll Transport, without alteration of the abovementioned standard terms, on 17 June 2005.</sentence>
 <sentence id="s290">
  June 2005: Citigroup Continues to Press for Mandate 
  
@@ -452,7 +452,7 @@
  "However, recent deals (wmc) have shown the value of 2 opinions for the client to work their way through.</sentence>
 <sentence id="s295">In fact encouraging open debate and contrary views is healthy in front of client to get best results.</sentence>
 <sentence id="s296">So just want to make sure that we don't get boxed into lesser advisory role.</sentence>
-<sentence id="s297">We have a lot to add on this side not least of which is the grunt to do an enormous amount of work but also the experience (I have done m&amp;a for over a decade also).</sentence>
+<sentence id="s297">We have a lot to add on this side not least of which is the grunt to do an enormous amount of work but also the experience (I have done m&amp;amp;a for over a decade also).</sentence>
 <sentence id="s298">We can figure out scope, protocals [sic] etc later but want the starting point to be joint advisors.</sentence>
 <sentence id="s299">Toll always has the right to listen and agree with whoever they want but joint advisors should be involved in all things together to get best results.</sentence>
 <sentence id="s300">
@@ -603,7 +603,7 @@
  
  $7.90 
  
- &gt;90% 
+ &amp;gt;90% 
  
  $18m 
  
@@ -611,7 +611,7 @@
  
  $10m 
  
- &lt;90% 
+ &amp;lt;90% 
  
  $9m 
  
@@ -728,12 +728,12 @@
 <sentence id="s466">173 Trading in Patrick shares had opened strongly on 18 August 2005 reaching an intra-day high of AUD$6.13 following the publication of the Sydney Morning Herald and Age articles.</sentence>
 <sentence id="s467">The price of Patrick shares fell after the announcement of Patrick's profit downgrade to close at AUD$5.70.</sentence>
 <sentence id="s468">
- 18 August 2005: Re-execution of Custodian &amp; Nominee Appointment 
+ 18 August 2005: Re-execution of Custodian &amp;amp; Nominee Appointment 
  
- 174 On 18 August 2005, Mr Bartels sent an email to Mr Chatfield about the Custodian &amp; Nominee Appointment.</sentence>
+ 174 On 18 August 2005, Mr Bartels sent an email to Mr Chatfield about the Custodian &amp;amp; Nominee Appointment.</sentence>
 <sentence id="s469">He said it had originally been executed by Toll Transport but that the purchaser of the pre-bid stake was Toll Holdings.</sentence>
 <sentence id="s470">He asked Mr Chatfield to re-execute the document on behalf of Toll Holdings.</sentence>
-<sentence id="s471">175 The Custodian &amp; Nominee Appointment was re-executed by Toll Holdings and Citigroup on 18 August 2005.</sentence>
+<sentence id="s471">175 The Custodian &amp;amp; Nominee Appointment was re-executed by Toll Holdings and Citigroup on 18 August 2005.</sentence>
 <sentence id="s472">The document was executed in the same terms as that which had been signed by Toll Transport.</sentence>
 <sentence id="s473">It incorporated Citigroup's standard Terms of Business, which included the terms that I have set out at [106] above.</sentence>
 <sentence id="s474">
@@ -882,7 +882,7 @@
 <sentence id="s571">218 That was the precursor to Mr Chatfield's instruction to Mr Bartels in January 2005 to acquire, discreetly, a stake of up to 4.9% in Patrick.</sentence>
 <sentence id="s572">Mr Chatfield put a limit of AUD$6.25 per share on the purchase of that parcel.</sentence>
 <sentence id="s573">219 Mr Chatfield attended the presentations made by Citigroup's IBD to Toll in which Citigroup 'pitched' for the mandate.</sentence>
-<sentence id="s574">Mr Chatfield was not involved in the negotiation of the terms of the Custodian &amp; Nominee Appointment but he was involved in the negotiation of fees.</sentence>
+<sentence id="s574">Mr Chatfield was not involved in the negotiation of the terms of the Custodian &amp;amp; Nominee Appointment but he was involved in the negotiation of fees.</sentence>
 <sentence id="s575">220 Nor was Mr Chatfield involved in the actual negotiation of the wording of the mandate letter.</sentence>
 <sentence id="s576">He was engaged in the negotiation of the fees but it was Toll's internal lawyers who assisted Toll's Company Secretary, Mr Bernard McInerney, in the settlement of the written terms of the document.</sentence>
 <sentence id="s577">221 Mr Chatfield did not pay any "particular attention" to the wording of the mandate letter that stated that the fee structure had been agreed to ensure that the interests of Toll and Citigroup were well aligned.</sentence>
@@ -1173,7 +1173,7 @@
  PART IV --- THE CONFLICTS CLAIMS: THE ROLE OF INVESTMENTS BANKS AND A CONSIDERATION OF LEGAL PRINCIPLES 
  The Role of Investment Banks in the Financial System 
  
- 254 The role and importance of investment banks in the efficient operation of the financial system has been reviewed in two recent articles: see Tuch A, "Investment Banks as Fiduciaries: Implications for Conflicts of Interest" (2005) 29 MULR 478 ; Tuch A, "Obligations of Financial Advisers in Change-of-Control Transactions: Fiduciary and Other Questions" (2006) 24 C&amp;SLJ 488.</sentence>
+ 254 The role and importance of investment banks in the efficient operation of the financial system has been reviewed in two recent articles: see Tuch A, "Investment Banks as Fiduciaries: Implications for Conflicts of Interest" (2005) 29 MULR 478 ; Tuch A, "Obligations of Financial Advisers in Change-of-Control Transactions: Fiduciary and Other Questions" (2006) 24 C&amp;amp;SLJ 488.</sentence>
 <sentence id="s704">255 As Mr Tuch observes, the term "investment bank" is not capable of precise definition but the influence and importance of investment banks in the financial system is vast; they are integral to the efficient operation of the system: see 29 MULR at 484.</sentence>
 <sentence id="s705">256 Major investment banks are listed public companies which operate internationally.</sentence>
 <sentence id="s706">They describe themselves, and are referred to, as global financial services firms and financial services conglomerates.</sentence>
@@ -1286,7 +1286,7 @@
  
  297 The authorities which deal with time charging by solicitors reveal a special instance where a solicitor has a conflict between his or her own interest in earning fees, and the duty to the client.</sentence>
 <sentence id="s792">A central question in these proceedings is whether the principles stated in the authorities on solicitors apply where the alleged fiduciary relationship is not one of the established categories.</sentence>
-<sentence id="s793">298 A solicitor who wishes to enter into a time charging costs agreement with the client must make full disclosure to the client of all the implications of such an agreement: see Foreman at 435-437 per Mahoney JA; Re Morris Fletcher v Cross' Bill of Costs [1997] 2 Qd R 228 at 243 per Fryberg J; McNamara Business &amp; Property Law v Kasmeridis [2007] SASC 90 at [28] --- [31] per Doyle CJ.</sentence>
+<sentence id="s793">298 A solicitor who wishes to enter into a time charging costs agreement with the client must make full disclosure to the client of all the implications of such an agreement: see Foreman at 435-437 per Mahoney JA; Re Morris Fletcher v Cross' Bill of Costs [1997] 2 Qd R 228 at 243 per Fryberg J; McNamara Business &amp;amp; Property Law v Kasmeridis [2007] SASC 90 at [28] --- [31] per Doyle CJ.</sentence>
 <sentence id="s794">299 This principle applies whether or not the costs agreement is made before the solicitor is instructed: see Symonds v Raphael [1998] FamCA 165 ; (1998) 148 FLR 171 at 186-187 per Baker and Burton JJ; see also McNamara at [38] per Doyle CJ.</sentence>
 <sentence id="s795">The reason given in those authorities for the proposition that the solicitor must make full disclosure even before the contract of retainer is that the fiduciary relationship may arise before the solicitor is actually retained: see United Dominions v Brian at 11-12 per Mason, Brennan and Deane JJ.</sentence>
 <sentence id="s796">300 In Foreman , Mahoney JA said at 435 that fiduciary obligations, including full disclosure, exist not only in the carrying out of an agreement already made between a solicitor and client "but also in respect of the making of it.</sentence>
@@ -1295,7 +1295,7 @@
 <sentence id="s798">302 However, I do not consider that this submission provides an answer to the conundrum presented by the apparent exclusion of the fiduciary relationship in the present case.</sentence>
 <sentence id="s799">There are two reasons for this.</sentence>
 <sentence id="s800">303 First, the authorities dealing with solicitors' costs agreements have, as their foundation, the Court's inherent jurisdiction over solicitors and the fiduciary nature of the solicitor and client relationship as an established fiduciary category: see McNamara at [29] per Doyle CJ.</sentence>
-<sentence id="s801">304 Indeed, in Foreman at 435, Mahoney JA specifically pointed out that a solicitor is in a fiduciary position vis-&agrave;-vis the client and/or in a position of influence.</sentence>
+<sentence id="s801">304 Indeed, in Foreman at 435, Mahoney JA specifically pointed out that a solicitor is in a fiduciary position vis-&amp;agrave;-vis the client and/or in a position of influence.</sentence>
 <sentence id="s802">Hence the need for the solicitor to give the client advice that would enable a proper understanding of the operation and effect of a time based costs agreement: see McNamara at [28] per Doyle CJ.</sentence>
 <sentence id="s803">305 This points to a limitation of the principle to those who fall within an established category of fiduciary relationship or, at very least, to those who carry fiduciary obligations before the execution of the contract, as in United Dominions v Brian.</sentence>
 <sentence id="s804">
@@ -1335,16 +1335,16 @@
 <sentence id="s833">These are: 
  
  
- &#8722; the physical separation of departments to insulate them from each other;
- &#8722; an educational programme, normally recurring, to emphasise the importance of not improperly or inadvertently divulging confidential information;
- &#8722; strict and carefully defined procedures for dealing with situations where it is thought the wall should be crossed, and the maintaining of proper records where this occurs;
- &#8722; monitoring by compliance officers of the effectiveness of the Chinese wall;
- &#8722; disciplinary sanctions where there has been a breach of the wall.</sentence>
+ &amp;#8722; the physical separation of departments to insulate them from each other;
+ &amp;#8722; an educational programme, normally recurring, to emphasise the importance of not improperly or inadvertently divulging confidential information;
+ &amp;#8722; strict and carefully defined procedures for dealing with situations where it is thought the wall should be crossed, and the maintaining of proper records where this occurs;
+ &amp;#8722; monitoring by compliance officers of the effectiveness of the Chinese wall;
+ &amp;#8722; disciplinary sanctions where there has been a breach of the wall.</sentence>
 <sentence id="s834">
  
  
  320 Nevertheless, warnings have been sounded in other authorities about the risk of leakage through Chinese walls.</sentence>
-<sentence id="s835">Thus, for example, Bryson J said in D &amp; J Constructions Pty Limited v Head &amp; ors trading as Clayton Utz (1987) 9 NSWLR 118 at 123:
+<sentence id="s835">Thus, for example, Bryson J said in D &amp;amp; J Constructions Pty Limited v Head &amp;amp; ors trading as Clayton Utz (1987) 9 NSWLR 118 at 123:
  " ...it is not realistic to place reliance on such arrangements in relation to people with opportunities for daily contact over long periods, as wordless communication can take place inadvertently and without explicit expression, by attitudes, facial expression or even by avoiding people one is accustomed to see, even by people who sincerely intend to conform to control.</sentence>
 <sentence id="s836">" 
  321 A reminder that Chinese walls may sometimes be porous is to be found in the recent decision of Bergin J in Asia Pacific v Optus.</sentence>
@@ -1386,7 +1386,7 @@
 <sentence id="s868">There was of course no allegation of mistake or misrepresentation.</sentence>
 <sentence id="s869">Nor did ASIC argue that the exclusion of a fiduciary relationship was contrary to the regulatory obligations imposed on Citigroup by s 912A(1)(aa) of the Corporations Act to have in place adequate arrangements for the management of conflicts of interest.</sentence>
 <sentence id="s870">337 It seems to me to follow that the exclusion of the fiduciary relationship was effective, notwithstanding the fact that Citigroup undertook to provide financial advisory services to Toll and that both parties' interests were "well aligned" in the fee structure set out in the mandate letter.</sentence>
-<sentence id="s871">338 The exclusion of the fiduciary relationship in the mandate letter is to be contrasted with the more extensive acknowledgments contained in the Custodian &amp; Nominee Appointment.</sentence>
+<sentence id="s871">338 The exclusion of the fiduciary relationship in the mandate letter is to be contrasted with the more extensive acknowledgments contained in the Custodian &amp;amp; Nominee Appointment.</sentence>
 <sentence id="s872">There, the form of appointment authorised Citigroup to have a variety of specified conflicts and to carry on business through the operation of Chinese walls: see [106] above.</sentence>
 <sentence id="s873">See also the form of mandate letter entered into between Toll and Citigroup in an earlier transaction: see [77] above.</sentence>
 <sentence id="s874">339 However, those documents cannot bear upon the proper construction of the mandate letter itself.</sentence>
@@ -1418,14 +1418,14 @@
  
  349 I do not need to deal with this issue because I have found that Citigroup was not obliged to obtain Toll's informed consent to the insertion in the mandate letter of the clause excluding a fiduciary relationship.</sentence>
 <sentence id="s896">Nevertheless, I will consider the issue briefly.</sentence>
-<sentence id="s897">350 Citigroup relied on the Custodian &amp; Nominee Appointments which were executed before and after the execution of the mandate letter on 8 August 2005.</sentence>
+<sentence id="s897">350 Citigroup relied on the Custodian &amp;amp; Nominee Appointments which were executed before and after the execution of the mandate letter on 8 August 2005.</sentence>
 <sentence id="s898">A form of appointment was executed by Toll Transport on 17 June 2005.</sentence>
 <sentence id="s899">It was re-executed by Toll Holdings, in the same terms, on 18 August 2005.</sentence>
 <sentence id="s900">Both of these forms of appointment contained express disclosures permitting Citigroup to trade on its own account in securities which it had been instructed to acquire on behalf of Toll.</sentence>
-<sentence id="s901">351 It is true that the Custodian &amp; Nominee Appointment and the mandate letter formed integral parts of the overall contractual relationship between Toll and Citigroup.</sentence>
+<sentence id="s901">351 It is true that the Custodian &amp;amp; Nominee Appointment and the mandate letter formed integral parts of the overall contractual relationship between Toll and Citigroup.</sentence>
 <sentence id="s902">However, it seems to me that the mandate letter expanded Citigroup's retainer and laid down the contractual terms which applied to Citigroup's particular role as an adviser on the Patrick takeover.</sentence>
 <sentence id="s903">352 I accept, as ASIC submitted, that informed consent may be express or implied.</sentence>
-<sentence id="s904">But I do not consider, as Citigroup submitted, that if consent was necessary for the exclusion of the fiduciary relationship in the mandate letter, it was to be found in the Custodian &amp; Nominee Appointment.</sentence>
+<sentence id="s904">But I do not consider, as Citigroup submitted, that if consent was necessary for the exclusion of the fiduciary relationship in the mandate letter, it was to be found in the Custodian &amp;amp; Nominee Appointment.</sentence>
 <sentence id="s905">In my view, the consent which was given to the principal trading and conflicts of interest in relation to the more limited retainer did not amount to an implied consent to an exclusion of the fiduciary relationship in the expanded retainer of the mandate letter.</sentence>
 <sentence id="s906">353 This seems to me to follow from the approach taken in ABCOS v Jones , although that case turned on its own facts.</sentence>
 <sentence id="s907">Of course, all the facts and circumstances must be considered to see whether fully informed consent is to be implied.</sentence>
@@ -1446,7 +1446,7 @@
  
  362 Citigroup relied upon the concession made by Mr Chatfield in cross-examination that if on 19 August 2005 Citigroup had told him it had engaged in proprietary trading "it wouldn't have made any difference" to the decisions which Toll made: see [232] above.</sentence>
 <sentence id="s921">363 ASIC sought to meet this by submitting that a fiduciary who has not obtained informed consent does not escape the consequences of that failure by showing that the information which was not disclosed would not, as a matter of fact, and with hindsight, have affected the client's decision.</sentence>
-<sentence id="s922">364 This submission was said to be supported by the decision of the Privy Council in Brickenden v London Loan &amp; Savings Co [1934] 3 DLR 465 at 469 per Lord Thankerton.</sentence>
+<sentence id="s922">364 This submission was said to be supported by the decision of the Privy Council in Brickenden v London Loan &amp;amp; Savings Co [1934] 3 DLR 465 at 469 per Lord Thankerton.</sentence>
 <sentence id="s923">His Lordship there said that once the court has determined that the non-disclosed facts are material, speculation as to what course the beneficiary would have taken, if disclosure had been made, is not relevant.</sentence>
 <sentence id="s924">365 Brickenden has been followed in this Court in CBA v Smith at 394 per Davies, Sheppard and Gummow JJ.</sentence>
 <sentence id="s925">It has also been followed and explained by the New South Wales Court of Appeal in Beach Petroleum at [435] --- [450] per Spigelman CJ, Sheller JA and Stein JA.</sentence>
@@ -1475,7 +1475,7 @@
 <sentence id="s944">373 It is then said that it was relevant for Toll, when making a decision as to how to market the bid, to know that the market activity in Patrick shares on 19 August 2005 "had been materially contributed to by Citigroup's own actions" in acquiring its stake in Patrick for the purpose of making profits for itself: see Further Amended Statement of Claim [60].</sentence>
 <sentence id="s945">374 Citigroup is said to have preferred its own interests in maintaining its relationship with Toll, free from a perception by Toll that Citigroup's Chinese walls had failed, to its duty to inform Toll of its purchase of Patrick shares on 19 August 2005; "such information being relevant to Toll's decision as to how to market the bid in light of the market activity on Friday 19 August 2005": see Further Amended Statement of Claim [62].</sentence>
 <sentence id="s946">375 There is force in Citigroup's submission that Australian law does not recognise a fiduciary duty to make full disclosure.</sentence>
-<sentence id="s947">The strong weight of judicial authority is that fiduciary duties are proscriptive rather than prescriptive; accordingly, a fiduciary does not have a positive duty to disclose information: see Breen v Williams at 113 per Gaudron and McHugh JJ, 137-138 per Gummow J; Pilmer at [74] per McHugh, Gummow, Hayne and Callinan JJ; Aequitas at [283] --- [287] per Austin J; Dresna Pty Limited v Linknarf Management Services Pty Limited (In Liq) [2006] FCAFC 193 at [132] per Gyles J; P &amp; V Industries Pty Limited v Porto (No 2) [2007] VSC 64 at [29] per Hollingworth J.</sentence>
+<sentence id="s947">The strong weight of judicial authority is that fiduciary duties are proscriptive rather than prescriptive; accordingly, a fiduciary does not have a positive duty to disclose information: see Breen v Williams at 113 per Gaudron and McHugh JJ, 137-138 per Gummow J; Pilmer at [74] per McHugh, Gummow, Hayne and Callinan JJ; Aequitas at [283] --- [287] per Austin J; Dresna Pty Limited v Linknarf Management Services Pty Limited (In Liq) [2006] FCAFC 193 at [132] per Gyles J; P &amp;amp; V Industries Pty Limited v Porto (No 2) [2007] VSC 64 at [29] per Hollingworth J.</sentence>
 <sentence id="s948">376 It may follow that Brennan J's observations in Daly are to be confined in the manner discussed by Austin J in Aequitas at [287].</sentence>
 <sentence id="s949">ASIC asserted that Daly was referred to by the High Court in Pilmer without disapproval at [70]; but I do not consider that their Honours' remarks amounted to a clear acceptance of the reasoning of Brennan J.</sentence>
 <sentence id="s950">However I do not need to consider this question because in my view the claim fails at a factual level.</sentence>
@@ -1487,10 +1487,10 @@
 <sentence id="s955">380 The second conflict is said to arise from the following knowledge, as at about 7pm on 19 August 2005, on the part of Messrs Roberts, Sinclair, Monaci and Scott: 
  
  
- &#8722; that Mr Dempsey and the private side employees of Citigroup in the IBD who were assisting him, were advising Toll on the bid;
- &#8722; that Citigroup had acquired a substantial shareholding in Patrick on its own account on 19 August 2005;
- &#8722; that they were concerned about how the acquisition of Citigroup's stake would be perceived by Toll and by the market;
- &#8722; that there was a perception that Toll and the market might infer that Citigroup's Chinese walls had failed.</sentence>
+ &amp;#8722; that Mr Dempsey and the private side employees of Citigroup in the IBD who were assisting him, were advising Toll on the bid;
+ &amp;#8722; that Citigroup had acquired a substantial shareholding in Patrick on its own account on 19 August 2005;
+ &amp;#8722; that they were concerned about how the acquisition of Citigroup's stake would be perceived by Toll and by the market;
+ &amp;#8722; that there was a perception that Toll and the market might infer that Citigroup's Chinese walls had failed.</sentence>
 <sentence id="s956">
  
  
@@ -1500,9 +1500,9 @@
 <sentence id="s959">The relevance of the information about Citigroup's trading in Patrick shares is said to be so that Toll could give consideration as to whether: 
  
  
- &#8722; it wished to terminate Citigroup's retainer;
- &#8722; to seek independent legal advice as to its rights against Citigroup;
- &#8722; to seek to renegotiate Citigroup's fees in light of its trading.</sentence>
+ &amp;#8722; it wished to terminate Citigroup's retainer;
+ &amp;#8722; to seek independent legal advice as to its rights against Citigroup;
+ &amp;#8722; to seek to renegotiate Citigroup's fees in light of its trading.</sentence>
 <sentence id="s960">
  
  
@@ -1550,7 +1550,7 @@
 <sentence id="s995">Toll had, by then, reached the view that 26 July 2005 was the more relevant date.</sentence>
 <sentence id="s996">That was the date which was featured in the ASX announcement on 22 August 2005, although a number of other reference dates were used which reflected the discussion at the planning session over the weekend prior to the announcement.</sentence>
 <sentence id="s997">401 Moreover, I do not consider that the evidence establishes that the selection of 18 August 2005 as one of the reference dates for calculation of the premium reduced the credibility of the bid.</sentence>
-<sentence id="s998">In the independent expert's report prepared for Patrick by Lonergan Edwards &amp; Associates Limited and included in Patrick's Target's Statement, the independent experts made their own calculation of the implied premium.</sentence>
+<sentence id="s998">In the independent expert's report prepared for Patrick by Lonergan Edwards &amp;amp; Associates Limited and included in Patrick's Target's Statement, the independent experts made their own calculation of the implied premium.</sentence>
 <sentence id="s999">In doing so, they excluded the price on 19 August 2005 because it appeared to have reflected speculation of the bid.</sentence>
 <sentence id="s1000">402 This approach is supported by the evidence of ASIC's expert, Mr Andrew Sisson.</sentence>
 <sentence id="s1001">He conceded in cross-examination that one of the factors that investors consider in calculating the premium is the share price of the target prior to speculative price increases.</sentence>
@@ -1608,9 +1608,9 @@
 <sentence id="s1048">This is because: 
  
  
- &#8722; Patrick shares are a security and hence a financial product within s 764A(1) of the Corporations Act ; 
- &#8722; during the relevant period Mr Dempsey and his team made statements of opinion and provided reports to Toll which were intended to influence Toll in making decisions in relation to the acquisition of a financial product, namely Patrick shares;
- &#8722; it follows that the provision of those opinions and reports constituted financial product advice within the meaning of s 766B(1)(a) of the Corporations Act .</sentence>
+ &amp;#8722; Patrick shares are a security and hence a financial product within s 764A(1) of the Corporations Act ; 
+ &amp;#8722; during the relevant period Mr Dempsey and his team made statements of opinion and provided reports to Toll which were intended to influence Toll in making decisions in relation to the acquisition of a financial product, namely Patrick shares;
+ &amp;#8722; it follows that the provision of those opinions and reports constituted financial product advice within the meaning of s 766B(1)(a) of the Corporations Act .</sentence>
 <sentence id="s1049">Hence, they amounted to the provision of financial services under s 766A(1)(a) of the Corporations Act ; 
  
  
@@ -1666,11 +1666,11 @@
 <sentence id="s1088">I will not repeat the evidence but the paragraph numbers of Mr Monaci's statement which describe the arrangements are as follows: 
  
  
- &#8722; physical separation by departments, [85] --- [94];
- &#8722; educational programmes, [95] --- [106], especially [103] and [105];
- &#8722; procedures for dealing with crossing the wall, [109] --- [116];
- &#8722; monitoring by compliance officers, [117] --- [123] and [131] --- [144];
- &#8722; disciplinary sanctions, [100].</sentence>
+ &amp;#8722; physical separation by departments, [85] --- [94];
+ &amp;#8722; educational programmes, [95] --- [106], especially [103] and [105];
+ &amp;#8722; procedures for dealing with crossing the wall, [109] --- [116];
+ &amp;#8722; monitoring by compliance officers, [117] --- [123] and [131] --- [144];
+ &amp;#8722; disciplinary sanctions, [100].</sentence>
 <sentence id="s1089">
  
  
@@ -1682,7 +1682,7 @@
 <sentence id="s1094">"
  452 Mr Monaci was not challenged on his evidence as to the adequacy of the arrangements.</sentence>
 <sentence id="s1095">I have therefore come to the view that they would have been adequate for the purposes of s 912A(1)(aa) of the Corporations Act .</sentence>
-<sentence id="s1096">453 Nevertheless, having seen Mr Monaci in the witness box, it seems to me that the warning sounded by Bryson J in D &amp; J Constructions is apt.</sentence>
+<sentence id="s1096">453 Nevertheless, having seen Mr Monaci in the witness box, it seems to me that the warning sounded by Bryson J in D &amp;amp; J Constructions is apt.</sentence>
 <sentence id="s1097">That is to say, it is not always realistic to place reliance on arrangements comprising Chinese walls: see [320] above.</sentence>
 <sentence id="s1098">454 Adequate arrangements require more than a raft of written policies and procedures.</sentence>
 <sentence id="s1099">They require a thorough understanding of the procedures by all employees and a willingness and ability to apply them to a host of possible conflicts.</sentence>
@@ -1763,9 +1763,9 @@
 <sentence id="s1152">The question of whether he was an officer therefore turns on whether he was a person: 
  
  
- &#8722; who made, or participated in making, decisions that affected the whole, or a substantial part, of the business of Citigroup;
- &#8722; who had the capacity to affect significantly the financial standing of Citigroup;
- &#8722; in accordance with whose instructions or wishes the directors of Citigroup were accustomed to act.</sentence>
+ &amp;#8722; who made, or participated in making, decisions that affected the whole, or a substantial part, of the business of Citigroup;
+ &amp;#8722; who had the capacity to affect significantly the financial standing of Citigroup;
+ &amp;#8722; in accordance with whose instructions or wishes the directors of Citigroup were accustomed to act.</sentence>
 <sentence id="s1153">
  
  
@@ -1913,7 +1913,7 @@
  533 Thus, it can be seen that the purpose of the extended definition was to make it plain that the term was not to be confined to "specific information" consisting of an existing fact that was capable of being expressed unequivocally, as stated by Lee J in Ryan v Triguboff.</sentence>
 <sentence id="s1276">
  534 It is also apparent that the new definition was to include in the concept of information, factual knowledge obtained by means of a hint or veiled suggestion from which the receiver of it can impute other knowledge: see Commissioner for Corporate Affairs v Green [1978] VR 505 at 511.</sentence>
-<sentence id="s1277">535 This approach to construction has been adopted in relation to s 128 of the Securities Industry Act 1980 (NSW), the successor to s 75A of the Securities Industry Act and precursor to s 1002A of the Corporations Act 1989 : see Hooker Investments Pty Limited v Baring Bros Halkertson &amp; Partners Securities Limited (1986) 10 ACLR 462 at 467-468 per Young J; R v Rivkin [2004] NSWCCA 7 ; (2004) 184 FLR 365 at [126] --- [127] per Mason P, Wood CJ at CL and Sully J.</sentence>
+<sentence id="s1277">535 This approach to construction has been adopted in relation to s 128 of the Securities Industry Act 1980 (NSW), the successor to s 75A of the Securities Industry Act and precursor to s 1002A of the Corporations Act 1989 : see Hooker Investments Pty Limited v Baring Bros Halkertson &amp;amp; Partners Securities Limited (1986) 10 ACLR 462 at 467-468 per Young J; R v Rivkin [2004] NSWCCA 7 ; (2004) 184 FLR 365 at [126] --- [127] per Mason P, Wood CJ at CL and Sully J.</sentence>
 <sentence id="s1278">As Young J said in Hooker Investments v Baring Bros, at 468, information goes further than knowledge and:
  "may include a rumour that something has happened with respect to a company which a person neither believes nor disbelieves".</sentence>
 <sentence id="s1279">
@@ -1945,8 +1945,8 @@ s 1042A of the Corporations Act .</sentence>
 <sentence id="s1300">These are: 
  
  
- &#8722; that it consists of readily observable matter: s 1042C(1)(a); or
- &#8722; that: 
+ &amp;#8722; that it consists of readily observable matter: s 1042C(1)(a); or
+ &amp;#8722; that: 
  
  
  
@@ -1983,12 +1983,12 @@ s 1042A of the Corporations Act .</sentence>
 <sentence id="s1322">This information included: 
  
  
- &#8722; substantial media commentary and speculation as to the likelihood of a takeover bid by Toll for Patrick;
- &#8722; Toll's repeated unwillingness to give a direct answer to questions about the rumours;
- &#8722; the profit downgrade of Patrick published the previous day;
- &#8722; Citigroup's role as the dominant broker in Patrick's stock;
- &#8722; the accumulation of a substantial number of Patrick shares by Citicorp Nominees Pty Limited; and
- &#8722; the absence of any report from Citigroup's respected transport analyst, Mr Jason Smith, following Patrick's profit downgrade.</sentence>
+ &amp;#8722; substantial media commentary and speculation as to the likelihood of a takeover bid by Toll for Patrick;
+ &amp;#8722; Toll's repeated unwillingness to give a direct answer to questions about the rumours;
+ &amp;#8722; the profit downgrade of Patrick published the previous day;
+ &amp;#8722; Citigroup's role as the dominant broker in Patrick's stock;
+ &amp;#8722; the accumulation of a substantial number of Patrick shares by Citicorp Nominees Pty Limited; and
+ &amp;#8722; the absence of any report from Citigroup's respected transport analyst, Mr Jason Smith, following Patrick's profit downgrade.</sentence>
 <sentence id="s1323">
  
  
@@ -2138,7 +2138,7 @@ Dated: 28 June 2007
  
  Solicitor for the Defendant: Freehills 
  
- Dates of Hearing: 26 --- 29 March &amp; 11 April 2007 
+ Dates of Hearing: 26 --- 29 March &amp;amp; 11 April 2007 
  
  Date of Judgment: 28 June 2007 
 
@@ -2151,7 +2151,7 @@ Dated: 28 June 2007
  SCHEDULE II --- DRAMATIS PERSONAE 
  
 
- Bartels, Mark Citigroup, Head of ECM Chatfield, Neil Toll, CFO Darwell, Paul Citigroup, Head of Equity Derivatives Dempsey, Grant Citigroup, Co-Head, Melbourne Coverage, Investment Banking Hanson, John Citigroup, IBD Financial Advisory Deal Team Member Harvey, Darryl ASX, Analyst in the Surveillance Division Little, Paul Toll, CEO Lunny, Christian Citigroup, IBD Financial Advisory Deal Team Member Manchee, Andrew Citigroup, Proprietary Trader, Equities Matheson, Les Citigroup, Country Officer for Citigroup in Australia McLeod, Jason Citigroup, Co-Head of IBD Coverage, Melbourne McInerney, Bernard Toll, Company Secretary Mews, Richard Citigroup's expert Monaci, Peter Citigroup, Managing Director, Head of Capital Markets and Global Banking &amp; Compliance for Asia Pacific CIB Roberts, Stephen Citigroup, CIB CIO Scott, Warren Citigroup's General Counsel, Australia and New Zealand Sinclair, Malcolm Citigroup, Head of Equities Sisson, Andrew ASIC's expert Smith, Jason Citigroup, Transport Analyst Stanley, Stephen Toll, Senior Executive White, David ASX officer Wylie, John Carnegie Wylie &amp; Company Pty Limited 
+ Bartels, Mark Citigroup, Head of ECM Chatfield, Neil Toll, CFO Darwell, Paul Citigroup, Head of Equity Derivatives Dempsey, Grant Citigroup, Co-Head, Melbourne Coverage, Investment Banking Hanson, John Citigroup, IBD Financial Advisory Deal Team Member Harvey, Darryl ASX, Analyst in the Surveillance Division Little, Paul Toll, CEO Lunny, Christian Citigroup, IBD Financial Advisory Deal Team Member Manchee, Andrew Citigroup, Proprietary Trader, Equities Matheson, Les Citigroup, Country Officer for Citigroup in Australia McLeod, Jason Citigroup, Co-Head of IBD Coverage, Melbourne McInerney, Bernard Toll, Company Secretary Mews, Richard Citigroup's expert Monaci, Peter Citigroup, Managing Director, Head of Capital Markets and Global Banking &amp;amp; Compliance for Asia Pacific CIB Roberts, Stephen Citigroup, CIB CIO Scott, Warren Citigroup's General Counsel, Australia and New Zealand Sinclair, Malcolm Citigroup, Head of Equities Sisson, Andrew ASIC's expert Smith, Jason Citigroup, Transport Analyst Stanley, Stephen Toll, Senior Executive White, David ASX officer Wylie, John Carnegie Wylie &amp;amp; Company Pty Limited 
 
  
 

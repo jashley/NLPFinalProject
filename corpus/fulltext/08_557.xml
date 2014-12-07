@@ -3,10 +3,10 @@
 <name>ConnectEast Management Ltd v Commissioner of Taxation [2008] FCA 557 (29 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/557.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">classification of trust for purpose of determining tax liability</catchphrase>
-<catchphrase "id=c1">where a trust wholly owned by a trust of a higher level deemed to be of the same level as the owner trust</catchphrase>
-<catchphrase "id=c2">whether trust owned by two trusts of the same higher level could be deemed to be of that level on the basis of collective ownership</catchphrase>
-<catchphrase "id=c3">income tax</catchphrase>
+<catchphrase id="c0">classification of trust for purpose of determining tax liability</catchphrase>
+<catchphrase id="c1">where a trust wholly owned by a trust of a higher level deemed to be of the same level as the owner trust</catchphrase>
+<catchphrase id="c2">whether trust owned by two trusts of the same higher level could be deemed to be of that level on the basis of collective ownership</catchphrase>
+<catchphrase id="c3">income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -21,10 +21,10 @@ The trusts mentioned, together with other trusts and companies, form the Connect
 <sentence id="s4">In order of desirability for tax purposes they are (least desirable first):
  
  
- &#8226; unlisted widely held trust;
- &#8226; unlisted very widely held trust;
- &#8226; wholesale widely held trust; 
- &#8226; listed widely held trust.</sentence>
+ &amp;#8226; unlisted widely held trust;
+ &amp;#8226; unlisted very widely held trust;
+ &amp;#8226; wholesale widely held trust; 
+ &amp;#8226; listed widely held trust.</sentence>
 <sentence id="s5">
  
  
@@ -56,9 +56,9 @@ The trusts mentioned, together with other trusts and companies, form the Connect
 <sentence id="s12">The applicant now appeals to this Court.</sentence>
 <sentence id="s13">6 The applicant's construction is that, in the case where the status of more than one trust is sought, the words in subs (1)(b) "each of one or more trusts of a higher level" should be read as referring to:
  
-&#8226; trusts of a particular (ie the same) higher level 
+&amp;#8226; trusts of a particular (ie the same) higher level 
  
-&#8226; which collectively own fixed entitlements to all of the income and capital of the status-seeking trust.</sentence>
+&amp;#8226; which collectively own fixed entitlements to all of the income and capital of the status-seeking trust.</sentence>
 <sentence id="s14">The applicant submits that "each of one or more trusts of a higher level" is a composite phrase which describes a particular subject.</sentence>
 <sentence id="s15">The subject can be comprised of one trust; it can also be comprised of a group of two or more trusts.</sentence>
 <sentence id="s16">7 The applicant's construction immediately confronts the problem that the section does not mention collectivity or groups.</sentence>
@@ -85,10 +85,10 @@ The trusts mentioned, together with other trusts and companies, form the Connect
 <sentence id="s36">The parent trust must be of a higher level so that the subsidiary trust will not be worse off.</sentence>
 <sentence id="s37">The level of trust is determined in the following order (from lowest to highest): 
  
- &#8226; unlisted widely held trust;
- &#8226; unlisted very widely held trust;
- &#8226; wholesale widely held trust;
- &#8226; listed widely held trust.</sentence>
+ &amp;#8226; unlisted widely held trust;
+ &amp;#8226; unlisted very widely held trust;
+ &amp;#8226; wholesale widely held trust;
+ &amp;#8226; listed widely held trust.</sentence>
 <sentence id="s38">[Section 272-127] 
  
  Example 13.92 In the above ownership structure, the classification of the B Unit Trust remains as listed widely held since its parent (the A Unit Trust) is not of a higher level.</sentence>

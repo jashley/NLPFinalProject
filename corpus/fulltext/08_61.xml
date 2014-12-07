@@ -3,16 +3,16 @@
 <name>In the matter of Ox Operations Pty Ltd (ACN 119 184 431) [2008] FCA 61 (11 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/61.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">review of registrar's decision dismissing application to set aside statutory demand under s 459h of the corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c1">whether review of no utility on basis of deemed insolvency arising from non-compliance with demand within statutory time limit</catchphrase>
-<catchphrase "id=c2">consideration of alternative bases for review</catchphrase>
-<catchphrase "id=c3">whether there was a genuine dispute about the existence of the debt</catchphrase>
-<catchphrase "id=c4">whether monies the subject of transfer held on trust</catchphrase>
-<catchphrase "id=c5">whether company accounts otherwise sufficient to establish existence of a plausible claim</catchphrase>
-<catchphrase "id=c6">whether notice to produce should be set aside under order 33 r 12(1) of the federal court rules</catchphrase>
-<catchphrase "id=c7">where documents called upon relate to a ground of review which is not available.</catchphrase>
-<catchphrase "id=c8">statutory demand</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase id="c0">review of registrar's decision dismissing application to set aside statutory demand under s 459h of the corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c1">whether review of no utility on basis of deemed insolvency arising from non-compliance with demand within statutory time limit</catchphrase>
+<catchphrase id="c2">consideration of alternative bases for review</catchphrase>
+<catchphrase id="c3">whether there was a genuine dispute about the existence of the debt</catchphrase>
+<catchphrase id="c4">whether monies the subject of transfer held on trust</catchphrase>
+<catchphrase id="c5">whether company accounts otherwise sufficient to establish existence of a plausible claim</catchphrase>
+<catchphrase id="c6">whether notice to produce should be set aside under order 33 r 12(1) of the federal court rules</catchphrase>
+<catchphrase id="c7">where documents called upon relate to a ground of review which is not available.</catchphrase>
+<catchphrase id="c8">statutory demand</catchphrase>
+<catchphrase id="c9">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,7 +30,7 @@
 <sentence id="s7">Its deemed insolvency arises because it failed to comply with the statutory demand within the time required, as extended by the Registrar.</sentence>
 <sentence id="s8">The time for compliance with the statutory demand expired at 4.00pm on 13 December 2007.</sentence>
 <sentence id="s9">An application to extend the time for compliance until after 4.00pm on 13 December 2007 was not made and determined prior to that time.</sentence>
-<sentence id="s10">4 There is a substantial body of authority in the Federal Court and other Australian Courts that the Court has no power to extend the time for compliance after it has expired: Aussie Vic Plant Hire Pty Ltd v Esanda Finance Corporation Ltd (2007) 63 ACSR 300 and G&amp;J Gears Australia Pty Ltd v Brobo Group Pty Ltd (2006) 229 ALR 638 at [46] to [52] and the authorities referred to therein.</sentence>
+<sentence id="s10">4 There is a substantial body of authority in the Federal Court and other Australian Courts that the Court has no power to extend the time for compliance after it has expired: Aussie Vic Plant Hire Pty Ltd v Esanda Finance Corporation Ltd (2007) 63 ACSR 300 and G&amp;amp;J Gears Australia Pty Ltd v Brobo Group Pty Ltd (2006) 229 ALR 638 at [46] to [52] and the authorities referred to therein.</sentence>
 <sentence id="s11">5 In Aussie Vic Plant Hire , the Court of Appeal of the Supreme Court of Victoria considered that body of authority.</sentence>
 <sentence id="s12">Chernov JA considered that the policy of Pt 5.4 of the Act and the mischief which s 459F(2)(a)(i) seeks to abrogate makes it implicit that the Court is not empowered to extend the time for compliance with a statutory demand after the period has expired.</sentence>
 <sentence id="s13">His Honour considered that Pt 5.4 of the Act is a code which provides a strict and self executing regime: [84]-[97].</sentence>
@@ -52,7 +52,7 @@
 9 The principles to be applied by the Court in determining an application to set aside a statutory demand are not in dispute.</sentence>
 <sentence id="s26">In the present case, the Court must be satisfied that there is a genuine dispute between Ox Operations and LMPD about the existence or amount of the debt to which the demand relates: s 459H(1)(a) of the Act .</sentence>
 <sentence id="s27">For a genuine dispute to exist, the dispute must "be bona fide and truly exist in fact".</sentence>
-<sentence id="s28">The grounds for alleging the existence of a dispute must be "real and not spurious, hypothetical, illusory or misconceived": Spencer Constructions Pty Ltd v G&amp;M Aldridge Pty Ltd [1997] FCA 681 ; (1997) 76 FCR 452 at 464.</sentence>
+<sentence id="s28">The grounds for alleging the existence of a dispute must be "real and not spurious, hypothetical, illusory or misconceived": Spencer Constructions Pty Ltd v G&amp;amp;M Aldridge Pty Ltd [1997] FCA 681 ; (1997) 76 FCR 452 at 464.</sentence>
 <sentence id="s29">10 The Court's role is to determine whether a genuine dispute exists.</sentence>
 <sentence id="s30">That issue is determined at the time the Court hears the application: Andi-Co Australia Pty Ltd v Meyers [2004] FCA 1358 at [16] .</sentence>
 <sentence id="s31">The manner in which the Court approaches the task is also not in dispute.</sentence>
@@ -210,7 +210,7 @@
 <sentence id="s97">The balance of $256,409.28 ($521,548.23 less $265,138.95) was directly sourced not from another entity or individual but from funds received by LMPD on a monthly basis and deposited directly into LMPD's bank account from a source outside the Landmark Group.</sentence>
 <sentence id="s98">The funds were monthly GST refunds from the Australian Taxation Office.</sentence>
 <sentence id="s99">The refunds were the result of GST paid by LMPD to Crema (Vic) Pty Ltd which had been contracted by LMPD to construct a building in Lonsdale Street, Melbourne.</sentence>
-<sentence id="s100">26 Fourthly, the evidence of Mr Tolya Rayzman, an employee of Harold Sztainbok &amp; Co Pty Ltd Mr Wallace's firm, was that monies were advanced to Ox Operations by LMPD and that he instructed the bookkeeper to place all of the intra group transactions into " appropriate loan accounts" .</sentence>
+<sentence id="s100">26 Fourthly, the evidence of Mr Tolya Rayzman, an employee of Harold Sztainbok &amp;amp; Co Pty Ltd Mr Wallace's firm, was that monies were advanced to Ox Operations by LMPD and that he instructed the bookkeeper to place all of the intra group transactions into " appropriate loan accounts" .</sentence>
 <sentence id="s101">Mr Rayzman's evidence was not that the loan accounts did not exist but that he would use the entries in the loan accounts to determine who would be repaid when " Ox [Operations] refinanced its activities" .</sentence>
 <sentence id="s102">The only entity listed in the general ledger as requiring " repayment" when Ox [Operations] refinanced its activities" was LMPD.</sentence>
 <sentence id="s103">27 Finally, in response to a notice to produce " [t]he documents evidencing payments to [LMPD] between 1 February 2004 to 13 September 2006 ", Ox Operations produced to LMPD an incomplete ledger for LMPD.</sentence>
@@ -224,7 +224,7 @@
 <sentence id="s111">SECOND GROUND OF CHALLENGE 
  
 30 On review, Ox Operations also sought to set aside the statutory demand on a second basis: that Ox Operations was not indebted to LMPD and that the general ledger did not and could not reflect the true position.</sentence>
-<sentence id="s112">31 LMPD submitted that the Second Ground of Challenge was not available to Ox Operations by reason of the principles in Graywinter Properties Pty Ltd v Gas &amp; Fuel Corporation Superannuation Fund (1996) 70 FCR 452 at 459-460 as explained in Hansmar Investments Pty Ltd v Perpetual Trustee Co Ltd (2007) 61 ACSR 321 at 326.</sentence>
+<sentence id="s112">31 LMPD submitted that the Second Ground of Challenge was not available to Ox Operations by reason of the principles in Graywinter Properties Pty Ltd v Gas &amp;amp; Fuel Corporation Superannuation Fund (1996) 70 FCR 452 at 459-460 as explained in Hansmar Investments Pty Ltd v Perpetual Trustee Co Ltd (2007) 61 ACSR 321 at 326.</sentence>
 <sentence id="s113">LMPD submitted that the second ground of challenge was not " raised expressly, by necessary inference, or by a reasonably available inference " in the affidavit of Mr Grezos sworn on 16 June 2007 ("the First Grezos Affidavit") and filed in support of the application to set aside the statutory demand: Hansmar at [28].</sentence>
 <sentence id="s114">32 In my view, the Second Ground of Challenge was not " raised expressly, by necessary inference, or by a reasonably available inference " in the First Grezos Affidavit.</sentence>
 <sentence id="s115">The basis of the First Grezos Affidavit was that (1) monies were transferred and or paid into the LMPD bank account; (2) for the sole purpose to on-lend to other companies and persons who are involved in the Landmark Group and (3) included in those payments was the moneys paid to LMPD for the benefit of Ox Operations in the sum of $554,575.60.</sentence>
@@ -241,7 +241,7 @@
 <sentence id="s126">Mr Grezos, the principal of Ox Operations and the Landmark Group, informed the Court that he was not responsible for the making of entries in LMPD's books of account, he had little independent recollection about what the individual payments recorded in the general ledger relate [par 5 of 01.02.08] and that he could not say with any certainty which of Ox Operations, Ox Administration and Ox Group Pty Ltd received the benefit of the payments.</sentence>
 <sentence id="s127">Even if Mr Grezos had little independent recollection of those matters, he could have at least explained the role played by each of the Ox entities or instructed an accountant to undertake the task of identifying that the beneficiary of one or more of the payments was not Ox Operations.</sentence>
 <sentence id="s128">And to the extent that there was evidence filed about the entries in the general ledger, that evidence does not assist Ox Operations.</sentence>
-<sentence id="s129">As noted earlier, the evidence of Mr Tolya Rayzman, an employee of Harold Sztainbok &amp; Co Pty Ltd, was that he instructed the bookkeeper to place all of the intra group transactions into " appropriate loan accounts" .</sentence>
+<sentence id="s129">As noted earlier, the evidence of Mr Tolya Rayzman, an employee of Harold Sztainbok &amp;amp; Co Pty Ltd, was that he instructed the bookkeeper to place all of the intra group transactions into " appropriate loan accounts" .</sentence>
 <sentence id="s130">Other than mere assertion or speculation, there is nothing to suggest that transactions placed into the loan account in the name of Ox Operations in LMPD's general ledger was anything other than appropriate.</sentence>
 <sentence id="s131">35 The second category of payments are those dated prior to incorporation of Ox Operations on 7 April 2006.</sentence>
 <sentence id="s132">Pre-incorporation expenses are common.</sentence>
@@ -285,9 +285,9 @@
  
  
  
- (a) email correspondence from Comlaw Barristers &amp; Solicitors to bmcmalson@lawyer.com dated 27 March 2006 11.39am and attachments thereto; and
+ (a) email correspondence from Comlaw Barristers &amp;amp; Solicitors to bmcmalson@lawyer.com dated 27 March 2006 11.39am and attachments thereto; and
  
- (b) email correspondence from Comlaw Barristers [&amp;] Solicitors to jordon.ross@minterellison.com dated 27 March 2006 at 11.31 am and attached thereto.</sentence>
+ (b) email correspondence from Comlaw Barristers [&amp;amp;] Solicitors to jordon.ross@minterellison.com dated 27 March 2006 at 11.31 am and attached thereto.</sentence>
 <sentence id="s150">
  
  
@@ -317,7 +317,7 @@ Ox Operations did not persist with the request in para [1] of the Notice.</sente
 <sentence id="s154">What follows are my reasons for doing so.</sentence>
 <sentence id="s155">41 Order 33 r 12(1) of the Federal Court Rules provides that where a party to a proceeding serves on another party a notice requiring the party served to produce at any trial or hearing in the proceedings, any document for the purpose of evidence and the document is in the possession, custody or power of the party served, the party served shall, unless the Court otherwise orders, produce the document without the need for any subpoena for production.</sentence>
 <sentence id="s156">42 As has been said many times, a notice under O 33 r 12 has the same coercive effect as a subpoena for production.</sentence>
-<sentence id="s157">Compliance is mandatory unless the Court otherwise orders: Potts v Dennis Jones &amp; Co Pty Ltd (No.</sentence>
+<sentence id="s157">Compliance is mandatory unless the Court otherwise orders: Potts v Dennis Jones &amp;amp; Co Pty Ltd (No.</sentence>
 <sentence id="s158">2) (1995) 58 FCR 61 at 70.</sentence>
 <sentence id="s159">Similarly, the considerations which apply to the setting aside of a subpoena are equally applicable to a notice to produce: Jefferson Ford Pty Ltd v Ford Motor Company of Australia Pty Ltd [2007] VSC 450 and Crown Joinery Pty Ltd v Lyleho Pty Ltd [2007] VSC 214.</sentence>
 <sentence id="s160">The grounds on which a notice to produce may be set include that it is too wide, oppressive or fishing.</sentence>
@@ -338,7 +338,7 @@ Dated: 11 February 2008
 
  Counsel for the Plaintiff: Mr HA Aizen with Mr TJ Sowden 
  
- Solicitor for the Plaintiff: Paul Egan &amp; Associates 
+ Solicitor for the Plaintiff: Paul Egan &amp;amp; Associates 
  
  Counsel for the Defendant: Mr JL Evans 
  

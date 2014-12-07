@@ -3,13 +3,13 @@
 <name>Samootin v Wagner [2008] FCA 1066 (21 July 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1066.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to annul</catchphrase>
-<catchphrase "id=c1">order that " ought not to have been made "</catchphrase>
-<catchphrase "id=c2">a " heavy burden "</catchphrase>
-<catchphrase "id=c3">previous applications refused</catchphrase>
-<catchphrase "id=c4">exercise of discretion</catchphrase>
-<catchphrase "id=c5">previous proceedings in other courts</catchphrase>
-<catchphrase "id=c6">bankruptcy</catchphrase>
+<catchphrase id="c0">application to annul</catchphrase>
+<catchphrase id="c1">order that " ought not to have been made "</catchphrase>
+<catchphrase id="c2">a " heavy burden "</catchphrase>
+<catchphrase id="c3">previous applications refused</catchphrase>
+<catchphrase id="c4">exercise of discretion</catchphrase>
+<catchphrase id="c5">previous proceedings in other courts</catchphrase>
+<catchphrase id="c6">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -89,7 +89,7 @@
 <sentence id="s65">21 Thereafter an application was filed by Ms Samootin with the Federal Magistrates Court on 14 March 2007 seeking the annulment of the sequestration order made on 24 May 2006.</sentence>
 <sentence id="s66">That application was dismissed: Samootin v Wagner [2007] FMCA 1100.</sentence>
 <sentence id="s67">An application for an extension of time within which to appeal against the dismissal was also dismissed: Samootin v Wagner [2007] FCA 1366.</sentence>
-<sentence id="s68">22 Separate proceedings have also been pursued in this Court by Ms Samootin claiming relief that Ms Sally Nash, a solicitor, be " estopped from entering into contract negotiations " on Ms Samootin's behalf: Samootin v Insolvency &amp; Trustee Service Australia [2007] FCA 1596.</sentence>
+<sentence id="s68">22 Separate proceedings have also been pursued in this Court by Ms Samootin claiming relief that Ms Sally Nash, a solicitor, be " estopped from entering into contract negotiations " on Ms Samootin's behalf: Samootin v Insolvency &amp;amp; Trustee Service Australia [2007] FCA 1596.</sentence>
 <sentence id="s69">The involvement of Ms Nash arose out of a judgment previously given by Hammerschlag J of the Supreme Court of New South Wales.</sentence>
 <sentence id="s70">The relief claimed in this Court was refused: Samootin v Official Trustee in Bankruptcy [2007] FCA 1618.</sentence>
 <sentence id="s71">In dismissing the application, Jacobson J observed:
@@ -197,7 +197,7 @@
 <sentence id="s138">[21] All of this "fresh evidence" appears to have been previously presented by Ms Samootin in one form or another, both to the Supreme Court and to this Court in the previous bankruptcy proceedings.</sentence>
 <sentence id="s139">As I have indicated, she also sought to present it to the High Court in support of special leave applications.</sentence>
 <sentence id="s140">Although this is not clear on the material before me, in the Supreme Court it appears that it was addressed in two judgments of the Court of Appeal, which took the view that it would not significantly advance the applicant's case on appeal nor in any proceedings to set aside Palmer J's orders for fraud (see the judgment of Bryson JA given on 16 May 2005 in matter 40603/04, particularly at [15] and following, and also Giles JA at [28] referring to additional material sought to be presented.</sentence>
-<sentence id="s141">See also the judgment of the same two judges on 17 November 2005 in Samootin v Shea &amp; Ors [2005] NSWCA 398).</sentence>
+<sentence id="s141">See also the judgment of the same two judges on 17 November 2005 in Samootin v Shea &amp;amp; Ors [2005] NSWCA 398).</sentence>
 <sentence id="s142">It appears to me also that this material was presented to McInnis FM and to Lloyd-Jones FM in Ms Samootin's previous bankruptcy proceedings.</sentence>
 <sentence id="s143">They both took the view that it did not justify the Court setting aside the bankruptcy notice in the first case, and declining to make a sequestration order in the second.</sentence>
 <sentence id="s144">[22] I have endeavoured to understand the applicant's fresh evidence and her explanations as to its relevance and cogency, and I find myself in agreement with previous judges who have considered this material.</sentence>
@@ -230,7 +230,7 @@
  
 44 The contention that Ms Wagner has been guilty of professional negligence, is also an issue which previously has been pursued by Ms Samootin: Samootin v Shea (No 2) [2003] NSWSC 695.</sentence>
 <sentence id="s169">In outlining the " essence " of her claims as advanced in the Supreme Court, Palmer J thus observed in relevant part as follows:
- [9] The essence of Ms Samootin's allegations is as follows: ... &#8226; the Fifth Defendant ("Ms Wagner") who acted as the solicitor for Mr Shea and Ms Samootin on the sale of the Mona Vale Property and for Mr Shea and Loan Design on the purchase of No 24 and No 26 was negligent and in breach of her fiduciary duties in failing to account to Ms Samootin for her share of the proceeds of sale and in permitting those proceeds of sale to be used in the purchase of No 24 and No 26 in the name of Loan Design alone... 
+ [9] The essence of Ms Samootin's allegations is as follows: ... &amp;#8226; the Fifth Defendant ("Ms Wagner") who acted as the solicitor for Mr Shea and Ms Samootin on the sale of the Mona Vale Property and for Mr Shea and Loan Design on the purchase of No 24 and No 26 was negligent and in breach of her fiduciary duties in failing to account to Ms Samootin for her share of the proceeds of sale and in permitting those proceeds of sale to be used in the purchase of No 24 and No 26 in the name of Loan Design alone... 
 His Honour went on to observe, both in respect to the role played by Ms Wagner and Mr Holmes:
  [17] Nevertheless, I concluded that I was obliged to hear the whole of these proceedings for two reasons.</sentence>
 <sentence id="s170">First, if Ms Samootin's account of the facts was correct, a finding was possible that Ms Wagner had acted negligently or in breach of fiduciary duty.</sentence>
@@ -305,7 +305,7 @@ Dated: 21 July 2008
  
  Counsel for the Third Respondent: S Golledge 
  
- Solicitor for the Third Respondent: Sally Nash &amp; Co 
+ Solicitor for the Third Respondent: Sally Nash &amp;amp; Co 
 
  Dates of Hearing: 24 June 2008, 4 July 2008 
  

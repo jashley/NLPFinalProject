@@ -3,11 +3,11 @@
 <name>Rossmick No. 1 Pty Ltd v Bank of Queensland Ltd [2008] FCA 1632 (5 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1632.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for transfer of federal court proceedings to the supreme court of new south wales pursuant to s 5(4) of the jurisdiction of courts (cross-vesting) act 1987 (cth)</catchphrase>
-<catchphrase "id=c1">proceedings related to other proceedings residing in the supreme court both conditionally and unconditionally</catchphrase>
-<catchphrase "id=c2">consideration of inherent potential advantages in transferring proceedings</catchphrase>
-<catchphrase "id=c3">whether appropriate and in the interests of justice that proceedings be transferred to the supreme court</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase id="c0">application for transfer of federal court proceedings to the supreme court of new south wales pursuant to s 5(4) of the jurisdiction of courts (cross-vesting) act 1987 (cth)</catchphrase>
+<catchphrase id="c1">proceedings related to other proceedings residing in the supreme court both conditionally and unconditionally</catchphrase>
+<catchphrase id="c2">consideration of inherent potential advantages in transferring proceedings</catchphrase>
+<catchphrase id="c3">whether appropriate and in the interests of justice that proceedings be transferred to the supreme court</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -407,7 +407,7 @@ Post commencement of business:
  
  (b) where the Court gives leave so to do ...' 
 100 It is clear from a review of these provisions, the rules as they are to be applied by the Supreme Court express the court's discretion to order the consolidation or case management of proceedings more broadly than the counterpart rules in this Court.</sentence>
-<sentence id="s208">As r 28.5(a) and (b) combine to make clear, there is no specific principle requiring consolidation, nor any specific limitation against ordering it: A Goninan &amp; Co Ltd v Atlas Steel (Aust) Pty Ltd [2003] NSWSC 956.</sentence>
+<sentence id="s208">As r 28.5(a) and (b) combine to make clear, there is no specific principle requiring consolidation, nor any specific limitation against ordering it: A Goninan &amp;amp; Co Ltd v Atlas Steel (Aust) Pty Ltd [2003] NSWSC 956.</sentence>
 <sentence id="s209">101 If any of the conditions in r 28.5(a), (b) or (c) are met, proceedings may be consolidated (or dealt with in any way outlined in the rules) despite the fact that they have completely different parties.</sentence>
 <sentence id="s210">102 The conditions for the making of an order for consolidation imply that the principal purpose of such an order is to minimise cost and delay in the determination of the proceedings.</sentence>
 <sentence id="s211">That conclusion is reinforced by s 56 of the Civil Procedure Act 2005 (NSW).</sentence>

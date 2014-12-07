@@ -3,33 +3,33 @@
 <name>Australian Capital Territory Commissioner for Revenue v Slaven [2009] FCA 744 (10 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/744.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">powers of the court in a winding up</catchphrase>
-<catchphrase "id=c1">creditor's voluntary winding up</catchphrase>
-<catchphrase "id=c2">application by creditor for order authorising it to commence and prosecute proceedings in the name of insolvent company as co-plaintiff</catchphrase>
-<catchphrase "id=c3">creditor also bringing claims in own right</catchphrase>
-<catchphrase "id=c4">source of court's power to make order</catchphrase>
-<catchphrase "id=c5">corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c6">statutory grants of jurisdiction must be construed broadly</catchphrase>
-<catchphrase "id=c7">ss 511 and 477 (6) of the corporations act give the court jurisdiction over matters arising from the exercise of liquidator's powers in a winding up</catchphrase>
-<catchphrase "id=c8">whether power is an incident of inherent or implied jurisdiction of superior court of record</catchphrase>
-<catchphrase "id=c9">ss 511 and 477 (6) give court power to authorise third party to use name of company being wound up to commence and prosecute proceedings</catchphrase>
-<catchphrase "id=c10">order authorising creditor to commence and prosecute proceedings in company's name</catchphrase>
-<catchphrase "id=c11">appropriate terms of order</catchphrase>
-<catchphrase "id=c12">whether creditor/plaintiff should be permitted to amend pleadings, add or remove parties and causes of action</catchphrase>
-<catchphrase "id=c13">order limited to authorise commencement and conduct of the proceedings identified in the evidence</catchphrase>
-<catchphrase "id=c14">entitlement of liquidator to be properly informed of nature and basis of proceedings sought to be brought by creditor in company's name prior to application to the court</catchphrase>
-<catchphrase "id=c15">federal jurisdiction</catchphrase>
-<catchphrase "id=c16">federal court's jurisdiction to make order authorising creditor to commence and prosecute proceedings in name of company being wound up</catchphrase>
-<catchphrase "id=c17">creditor's right to apply to court for order in winding up under ss 511 and 477 (6)</catchphrase>
-<catchphrase "id=c18">right exists by virtue of federal law</catchphrase>
-<catchphrase "id=c19">trading trust</catchphrase>
-<catchphrase "id=c20">entitlement of trustee or corporate trustee of trading trust who has incurred liabilities in performance of duties to indemnification out of trust property</catchphrase>
-<catchphrase "id=c21">enforcement of entitlement of trustee to proprietary interest in trust property against beneficiaries or directors of trading trust who caused payments to be made before trustee or corporation had paid likely or known debts</catchphrase>
-<catchphrase "id=c22">corporations</catchphrase>
-<catchphrase "id=c23">corporations</catchphrase>
-<catchphrase "id=c24">corporations</catchphrase>
-<catchphrase "id=c25">high court and federal court</catchphrase>
-<catchphrase "id=c26">equity</catchphrase>
+<catchphrase id="c0">powers of the court in a winding up</catchphrase>
+<catchphrase id="c1">creditor's voluntary winding up</catchphrase>
+<catchphrase id="c2">application by creditor for order authorising it to commence and prosecute proceedings in the name of insolvent company as co-plaintiff</catchphrase>
+<catchphrase id="c3">creditor also bringing claims in own right</catchphrase>
+<catchphrase id="c4">source of court's power to make order</catchphrase>
+<catchphrase id="c5">corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c6">statutory grants of jurisdiction must be construed broadly</catchphrase>
+<catchphrase id="c7">ss 511 and 477 (6) of the corporations act give the court jurisdiction over matters arising from the exercise of liquidator's powers in a winding up</catchphrase>
+<catchphrase id="c8">whether power is an incident of inherent or implied jurisdiction of superior court of record</catchphrase>
+<catchphrase id="c9">ss 511 and 477 (6) give court power to authorise third party to use name of company being wound up to commence and prosecute proceedings</catchphrase>
+<catchphrase id="c10">order authorising creditor to commence and prosecute proceedings in company's name</catchphrase>
+<catchphrase id="c11">appropriate terms of order</catchphrase>
+<catchphrase id="c12">whether creditor/plaintiff should be permitted to amend pleadings, add or remove parties and causes of action</catchphrase>
+<catchphrase id="c13">order limited to authorise commencement and conduct of the proceedings identified in the evidence</catchphrase>
+<catchphrase id="c14">entitlement of liquidator to be properly informed of nature and basis of proceedings sought to be brought by creditor in company's name prior to application to the court</catchphrase>
+<catchphrase id="c15">federal jurisdiction</catchphrase>
+<catchphrase id="c16">federal court's jurisdiction to make order authorising creditor to commence and prosecute proceedings in name of company being wound up</catchphrase>
+<catchphrase id="c17">creditor's right to apply to court for order in winding up under ss 511 and 477 (6)</catchphrase>
+<catchphrase id="c18">right exists by virtue of federal law</catchphrase>
+<catchphrase id="c19">trading trust</catchphrase>
+<catchphrase id="c20">entitlement of trustee or corporate trustee of trading trust who has incurred liabilities in performance of duties to indemnification out of trust property</catchphrase>
+<catchphrase id="c21">enforcement of entitlement of trustee to proprietary interest in trust property against beneficiaries or directors of trading trust who caused payments to be made before trustee or corporation had paid likely or known debts</catchphrase>
+<catchphrase id="c22">corporations</catchphrase>
+<catchphrase id="c23">corporations</catchphrase>
+<catchphrase id="c24">corporations</catchphrase>
+<catchphrase id="c25">high court and federal court</catchphrase>
+<catchphrase id="c26">equity</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -45,7 +45,7 @@
 <sentence id="s9">This application raises the following issues: 
  (1) Whether this Court has jurisdiction to make an order that a person other than the liquidator be authorised to bring proceedings in the name of a company in liquidation under s 511 of the Act or has an inherent or implied power to make orders ancillary to the conduct of a winding up.</sentence>
 <sentence id="s10">(2) Whether the Commissioner has established that it is appropriate for the Court to grant the relief so as to displace the liquidator in discharge of his functions.</sentence>
-<sentence id="s11">(3) Whether the Commissioner has established that the action proposed to be taken by him in the company's name has some arguable foundation: Magarditch v Australian &amp; New Zealand Bank Group Limited (1999) 32 ACSR 367 at 384 [70]-[71] per Spender, French and Kenny JJ.</sentence>
+<sentence id="s11">(3) Whether the Commissioner has established that the action proposed to be taken by him in the company's name has some arguable foundation: Magarditch v Australian &amp;amp; New Zealand Bank Group Limited (1999) 32 ACSR 367 at 384 [70]-[71] per Spender, French and Kenny JJ.</sentence>
 <sentence id="s12">THE CONDUCT OF PAAN'S BUSINESS AND HOW IT INCURRED THE PAYROLL TAX LIABILITY 
  The Commissioner relied in support of his application on evidence given by his solicitor, Russell Bayliss.</sentence>
 <sentence id="s13">I was taken to only a few of over 850 pages of the transcripts of the public examinations in the course of the hearing.</sentence>

@@ -3,18 +3,18 @@
 <name>NAOX v Minister for Immigration and Citizenship [2009] FCA 1056 (18 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1056.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether the decision of the refugee review tribunal was made in bad faith and breached procedural fairness</catchphrase>
-<catchphrase "id=c1">appellants had been through lengthy litigation</catchphrase>
-<catchphrase "id=c2">original tribunal had made a finding of fact that appellants were in a homosexual relationship</catchphrase>
-<catchphrase "id=c3">relationship was not disputed in federal court and high court proceedings</catchphrase>
-<catchphrase "id=c4">third tribunal found that appellants were not in a homosexual relationship</catchphrase>
-<catchphrase "id=c5">tribunal made findings seeking to give effect to preordained result</catchphrase>
-<catchphrase "id=c6">decision of the tribunal manifests "an apprehension of predisposition, tendency or propensity towards a given result"</catchphrase>
-<catchphrase "id=c7">tribunal's decision was not made in good faith and was unreasonable</catchphrase>
-<catchphrase "id=c8">appeal allowed.</catchphrase>
-<catchphrase "id=c9">ss 424a , 476 (1)</catchphrase>
-<catchphrase "id=c10">migration</catchphrase>
-<catchphrase "id=c11">migration act 1958 (cth)</catchphrase>
+<catchphrase id="c0">whether the decision of the refugee review tribunal was made in bad faith and breached procedural fairness</catchphrase>
+<catchphrase id="c1">appellants had been through lengthy litigation</catchphrase>
+<catchphrase id="c2">original tribunal had made a finding of fact that appellants were in a homosexual relationship</catchphrase>
+<catchphrase id="c3">relationship was not disputed in federal court and high court proceedings</catchphrase>
+<catchphrase id="c4">third tribunal found that appellants were not in a homosexual relationship</catchphrase>
+<catchphrase id="c5">tribunal made findings seeking to give effect to preordained result</catchphrase>
+<catchphrase id="c6">decision of the tribunal manifests "an apprehension of predisposition, tendency or propensity towards a given result"</catchphrase>
+<catchphrase id="c7">tribunal's decision was not made in good faith and was unreasonable</catchphrase>
+<catchphrase id="c8">appeal allowed.</catchphrase>
+<catchphrase id="c9">ss 424a , 476 (1)</catchphrase>
+<catchphrase id="c10">migration</catchphrase>
+<catchphrase id="c11">migration act 1958 (cth)</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -272,7 +272,7 @@
  In my judgment, the decision of the third Tribunal was made in the teeth of the evidence.</sentence>
 <sentence id="s100">Having regard to the legality/merits dichotomy of judicial review, this may, arguably, not be a sufficient basis for the Court to interfere.</sentence>
 <sentence id="s101">However, I find that the decision was perverse to such an extent as to exhibit a serious failure in the decision making process, with the consequences that the decision was so unreasonable that it was beyond power: see TCN Channel Nine Pty Ltd v Australian Broadcasting Tribunal (1992) 28 ALD 829 at 861.</sentence>
-<sentence id="s102">The decision of the third Tribunal manifests "an apprehension of predisposition, tendency or propensity towards a given result": NADH v Minister for Immigration &amp; Multicultural and Indigenous Affairs [2004] FCAFC 328 ; (2004) 214 ALR 264 at [16] .</sentence>
+<sentence id="s102">The decision of the third Tribunal manifests "an apprehension of predisposition, tendency or propensity towards a given result": NADH v Minister for Immigration &amp;amp; Multicultural and Indigenous Affairs [2004] FCAFC 328 ; (2004) 214 ALR 264 at [16] .</sentence>
 <sentence id="s103">That apprehension is, in my judgment, well founded.</sentence>
 <sentence id="s104">In NADH , Allsop J, with whom Moore and Tamberlin JJ agreed, said, at [16]: 
  
@@ -295,7 +295,7 @@
  
 
  It is a temptation, into which, in my opinion, the third Tribunal fell, to state a finding (however improbable or extraordinary) as based on an assessment of credibility, as a means of attempting to "bullet proof" the administrative decision from judicial review.</sentence>
-<sentence id="s113">McHugh J in Re Minister for Immigration &amp; Multicultural Affairs; Ex parte Durairajasingham [2000] HCA 1 ; (2000) 168 ALR 407 said, at [67]: 
+<sentence id="s113">McHugh J in Re Minister for Immigration &amp;amp; Multicultural Affairs; Ex parte Durairajasingham [2000] HCA 1 ; (2000) 168 ALR 407 said, at [67]: 
  
  ... a finding as to whether the prosecutor should be believed in his claim --- a finding on credibility ... [is] the function of the primary decision-maker par excellence.</sentence>
 <sentence id="s114">If the primary decision-maker has stated that he or she does not believe a particular witness, no detailed reasons need to be given as to why that particular witness was not believed.</sentence>

@@ -3,13 +3,13 @@
 <name>Australian Securities and Investments Commission v Fuelbanc Australia Limited [2007] FCA 960 (29 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/960.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">managed investment schemes</catchphrase>
-<catchphrase "id=c1">financial services business</catchphrase>
-<catchphrase "id=c2">scheme in which participants subscribe barter units and australian currency in return for debit card providing weekly credits for fuel purchase at service stations</catchphrase>
-<catchphrase "id=c3">defendant smcd formulated and managed scheme</catchphrase>
-<catchphrase "id=c4">scheme not registered</catchphrase>
-<catchphrase "id=c5">no australian financial services licence</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase id="c0">managed investment schemes</catchphrase>
+<catchphrase id="c1">financial services business</catchphrase>
+<catchphrase id="c2">scheme in which participants subscribe barter units and australian currency in return for debit card providing weekly credits for fuel purchase at service stations</catchphrase>
+<catchphrase id="c3">defendant smcd formulated and managed scheme</catchphrase>
+<catchphrase id="c4">scheme not registered</catchphrase>
+<catchphrase id="c5">no australian financial services licence</catchphrase>
+<catchphrase id="c6">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -44,31 +44,31 @@
 <sentence id="s21">This would require a return of more than 100 per cent.</sentence>
 <sentence id="s22">15 Investigations by Ms Sonia Kohary, a Financial Investigator employed by ASIC, revealed the following as at 14 July 2006:
  
-&#8226; Of $640,000 received by FUELbanc from participants, 46 per cent ($310,000) has been transferred to PayCards Global of which only $11,000 has been identified as being repaid; 38 per cent ($243,000) has been paid directly to E-Merchants.</sentence>
+&amp;#8226; Of $640,000 received by FUELbanc from participants, 46 per cent ($310,000) has been transferred to PayCards Global of which only $11,000 has been identified as being repaid; 38 per cent ($243,000) has been paid directly to E-Merchants.</sentence>
 <sentence id="s23">Therefore FUELbanc has been relying on the ongoing deposit of new participants' funds to meet its obligations to existing participants;
  
-&#8226; PayCards Global received approximately $439,000 (including the transfer of $310,600 from FUELbanc).</sentence>
+&amp;#8226; PayCards Global received approximately $439,000 (including the transfer of $310,600 from FUELbanc).</sentence>
 <sentence id="s24">Over 58 per cent of funds disbursed ($257,000) are part of 317 transactions of less than $6000 each to unidentified accounts.</sentence>
 <sentence id="s25">The books of PayCards Global indicate that some of these funds totalling approximately $133,000 have been distributed for the benefit of the directors or their related parties;
  
-&#8226; PayCards Global has only transferred some $80,000 to Paycards Investments.</sentence>
+&amp;#8226; PayCards Global has only transferred some $80,000 to Paycards Investments.</sentence>
 <sentence id="s26">Of this $80,000, approximately $63,000 has been transferred offshore for investment in gold coin bullion.</sentence>
 <sentence id="s27">Paycards Investments have only returned $36,700 to PayCards Global;
  
-&#8226; As at 31 May 2006 there was less than $45,000 in total in the bank accounts of FUELbanc, Paycards Investments, PayCards Global and PC Property Group.</sentence>
+&amp;#8226; As at 31 May 2006 there was less than $45,000 in total in the bank accounts of FUELbanc, Paycards Investments, PayCards Global and PC Property Group.</sentence>
 <sentence id="s28">16 Some "trade dollars" have been used to pay part of the purchase price of real estate brought by Stephen McDougall.</sentence>
 <sentence id="s29">He claims that this purchase was for Paycards Investments but the transaction appears to play no part in funding debit cards.</sentence>
 <sentence id="s30">17 In substance the credits available to participants on their debit cards were funded from participants' contributions.</sentence>
 <sentence id="s31">18 Scheme funds have been used for the McDougalls' own purposes such as the leasing of motor vehicles for themselves and friends.</sentence>
 <sentence id="s32">19 As at 14 July 2006, according to Mr Andrew Price, an ASIC Senior Investigator holding delegated functions and powers under Pt 3 of the Australian Securities and Investments Commission Act 2001 (Cth):
  
-&#8226; Since its launch in early 2006 the FUELbanc scheme had attracted some 720 participants and continues to draw about 20 new participants each week;
+&amp;#8226; Since its launch in early 2006 the FUELbanc scheme had attracted some 720 participants and continues to draw about 20 new participants each week;
  
-&#8226; Participants had contributed $650,000 and 700,000 "trade dollars";
+&amp;#8226; Participants had contributed $650,000 and 700,000 "trade dollars";
  
-&#8226; FUELbanc's weekly commitments to participants was $59,000 and that figure was growing each week;
+&amp;#8226; FUELbanc's weekly commitments to participants was $59,000 and that figure was growing each week;
  
-&#8226; PayCards Global's costs were $5,000 to $6,000 per week.</sentence>
+&amp;#8226; PayCards Global's costs were $5,000 to $6,000 per week.</sentence>
 <sentence id="s33">20 The McDougalls could not tell ASIC where most of the FUELbanc money had gone, except that Stephen McDougall said it was invested offshore in unspecified high yield programs on the internet.</sentence>
 <sentence id="s34">He estimated that there was approximately just under $1 million invested generating returns of 5 to 20 per cent per month.</sentence>
 <sentence id="s35">He said that information as to theses investments had been kept from other directors as it was his responsibility to protect what he described as his "intellectual property".</sentence>
@@ -189,7 +189,7 @@ In the present case ASIC does not rule out the possibility of future criminal pr
 As a superior court, the Federal Court would also have inherent power to grant declaratory relief: Ainsworth v Criminal Justice Commission [1992] HCA 10 ; (1992) 175 CLR 564 at 581.</sentence>
 <sentence id="s92">49 Section 21(1) has as its ancestor O XXV r 5 of the Rules of the Supreme Court 1883 (Eng) which developed from the first English legislative provision, s 50 of the Chancery Procedure Act 1852 (UK): see Tobacco Institute of Australia Limited v Australian Federation of Consumer Organisations Inc (No 2) (1993) 41 FCR 89 at 108-109 per Hill J.</sentence>
 <sentence id="s93">Although prior to the English legislation mentioned courts of that country had a "deep suspicion" of the declaration of right (Zamir and Woolf The Declaratory Judgment , second edition, 1993, at 11), it seems as though this reluctance only extended to the grant of "pure" declaratory relief.</sentence>
-<sentence id="s94">Thus in Clough v Ratcliff (1847) 1 De G &amp; Sm 164 at 178 Knight Bruce V-C said:
+<sentence id="s94">Thus in Clough v Ratcliff (1847) 1 De G &amp;amp; Sm 164 at 178 Knight Bruce V-C said:
  
  "Nakedly to declare a right, without doing or directing anything else relating to the right, does not, I conceive, belong to the functions of this Court [of Chancery].</sentence>
 <sentence id="s95">" 
@@ -286,7 +286,7 @@ In the present case the legislation contravened protects public rights by regula
 <sentence id="s154">62 Two final points.</sentence>
 <sentence id="s155">First, declarations will not usually be made when the only material before the Court is the consent of the parties: BMI Limited v Federated Clerks Union of Australia (1983) 51 ALR 401 at 412.</sentence>
 <sentence id="s156">As will have been apparent, in the present case ASIC has presented evidence and submissions.</sentence>
-<sentence id="s157">63 Secondly, it is said there must be "a proper contradictor, that is to say, some one presently existing who has a true interest to oppose the declaration sought": Russian Commercial &amp; Industrial Bank v British Bank for Foreign Trade Ltd [1921] 2 AC 438 at 448, Forster v Jododex Australia Pty Limited [1972] HCA 61 ; (1972) 127 CLR 421 at 437, Transphere at 605.</sentence>
+<sentence id="s157">63 Secondly, it is said there must be "a proper contradictor, that is to say, some one presently existing who has a true interest to oppose the declaration sought": Russian Commercial &amp;amp; Industrial Bank v British Bank for Foreign Trade Ltd [1921] 2 AC 438 at 448, Forster v Jododex Australia Pty Limited [1972] HCA 61 ; (1972) 127 CLR 421 at 437, Transphere at 605.</sentence>
 <sentence id="s158">64 In the present case the defendants were represented but did not oppose the making of the declarations sought, or indeed any orders sought.</sentence>
 <sentence id="s159">Transphere is to an extent comparable in that the defendant in that case appeared and did not oppose the declaration.</sentence>
 <sentence id="s160">However, he we not legally represented.</sentence>
@@ -378,7 +378,7 @@ Dated:
  
  Counsel for the Sixth and Seventh Defendants N Evans 
  
- Solicitor the Sixth and Seventh Defendants Baker &amp; McKenzie 
+ Solicitor the Sixth and Seventh Defendants Baker &amp;amp; McKenzie 
  
  Date of Hearing: 20 June 2007 
  
@@ -398,7 +398,7 @@ The "scheme" is the "FUELbanc" scheme pursuant to which:
 .</sentence>
 <sentence id="s213">SCHEDULE OF PARTIES 
 
- AUSTRALIAN SECURITIES &amp; INVESTMENTS COMMISSION 
+ AUSTRALIAN SECURITIES &amp;amp; INVESTMENTS COMMISSION 
  Plaintiff 
  
  - and - 

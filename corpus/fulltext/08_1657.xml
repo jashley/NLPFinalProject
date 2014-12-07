@@ -3,18 +3,18 @@
 <name>Kirby v Centro Properties Limited (No 2) [2008] FCA 1657 (14 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1657.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">bias</catchphrase>
-<catchphrase "id=c1">reasonable apprehension of bias</catchphrase>
-<catchphrase "id=c2">judge's pecuniary interest in a party due to ownership of shares in corporate class action defendant</catchphrase>
-<catchphrase "id=c3">judge's pecuniary interest in the litigation due to membership in plaintiff class</catchphrase>
-<catchphrase "id=c4">whether fair-minded lay observer would reasonably apprehend that judge's loss of $19,000 in trading of defendant's shares, said to be caused by the same fraudulent conduct alleged by plaintiff, would prevent the judge from bringing an impartial mind to the proceedings</catchphrase>
-<catchphrase "id=c5">disclosure</catchphrase>
-<catchphrase "id=c6">inadvertent failure by judge to disclose financial interest in the litigation</catchphrase>
-<catchphrase "id=c7">whether judge's prompt divestiture of financial interest and waiver of all claims arising out of or relating to the facts alleged in the pleadings is sufficient to cure apprehension of bias</catchphrase>
-<catchphrase "id=c8">whether application for recusal may be brought by notice of motion</catchphrase>
-<catchphrase "id=c9">precedent</catchphrase>
-<catchphrase "id=c10">whether trial judge should follow appellate decision of another australian jurisdiction where that decision has been both criticised and approved in appellate dicta of judge's own jurisdiction</catchphrase>
-<catchphrase "id=c11">courts and judges</catchphrase>
+<catchphrase id="c0">bias</catchphrase>
+<catchphrase id="c1">reasonable apprehension of bias</catchphrase>
+<catchphrase id="c2">judge's pecuniary interest in a party due to ownership of shares in corporate class action defendant</catchphrase>
+<catchphrase id="c3">judge's pecuniary interest in the litigation due to membership in plaintiff class</catchphrase>
+<catchphrase id="c4">whether fair-minded lay observer would reasonably apprehend that judge's loss of $19,000 in trading of defendant's shares, said to be caused by the same fraudulent conduct alleged by plaintiff, would prevent the judge from bringing an impartial mind to the proceedings</catchphrase>
+<catchphrase id="c5">disclosure</catchphrase>
+<catchphrase id="c6">inadvertent failure by judge to disclose financial interest in the litigation</catchphrase>
+<catchphrase id="c7">whether judge's prompt divestiture of financial interest and waiver of all claims arising out of or relating to the facts alleged in the pleadings is sufficient to cure apprehension of bias</catchphrase>
+<catchphrase id="c8">whether application for recusal may be brought by notice of motion</catchphrase>
+<catchphrase id="c9">precedent</catchphrase>
+<catchphrase id="c10">whether trial judge should follow appellate decision of another australian jurisdiction where that decision has been both criticised and approved in appellate dicta of judge's own jurisdiction</catchphrase>
+<catchphrase id="c11">courts and judges</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -65,7 +65,7 @@
 <sentence id="s42">There is also a practice in the US Supreme Court for justices to recuse themselves without regard to the size of their financial interest and even if it results in the court being unable to hear a case for lack of a quorum or unable to decide a case for lack of a majority: see eg American Isuzu Motors Inc v Ntsebeza 128 SCt 2424 (2008) (affirming the judgment below where four judges were recused and the Court lacked a quorum); Warner-Lambert v Kent 128 SCt 1168 (2008) (affirming the judgment below where the chief justice was recused and the remaining eight justices were equally divided).</sentence>
 <sentence id="s43">9 There is an exception to this recusal rule both in statute, in the case law and according to recent US Supreme Court practice.</sentence>
 <sentence id="s44">On occasion, a justice has divested himself of the stock prior to oral argument in the case, and returned to participate in the hearing and decision of the case: see Tony Mauro, Roberts' Recusal Is Poison Pill for Drug Case Before Supreme Court (Legal Times, 4 March 2008), available at http://www.law.com/jsp/article.jsp?id= 1204544937246.</sentence>
-<sentence id="s45">This practice is authorised by statute: see 28 USC s 455(f) (which provides that where substantial judicial time has been expended on the matter, a judge need not recuse based on the discovery of a financial interest if he or she divests himself or herself of the interest); see also Kidder Peabody &amp; Co v Maxus Energy Corp 925 F2d 556 (2d Cir 1991) (where it was held that s 455(f) obviated the need for recusal even where the judge held a large share of the stock of one of the parties where he promptly divested his interest upon learning of it and three years of the parties' and court's time and resources had already gone into the litigation).</sentence>
+<sentence id="s45">This practice is authorised by statute: see 28 USC s 455(f) (which provides that where substantial judicial time has been expended on the matter, a judge need not recuse based on the discovery of a financial interest if he or she divests himself or herself of the interest); see also Kidder Peabody &amp;amp; Co v Maxus Energy Corp 925 F2d 556 (2d Cir 1991) (where it was held that s 455(f) obviated the need for recusal even where the judge held a large share of the stock of one of the parties where he promptly divested his interest upon learning of it and three years of the parties' and court's time and resources had already gone into the litigation).</sentence>
 <sentence id="s46">While there is some criticism of this approach in the cases, the majority view is that divestiture cures any appearance of impropriety: compare In re Initial Public Offering Securities Litigation 174 FSupp2d 70, 80-81 (SDNY 2001) (declining to recuse based on s 455(f) and criticizing Tramonte ); Key Pharmaceutical Inc v Mylan Labs Inc 24 FSupp2d 480 (WDPa 1998) (using s 455(f) curative divestiture as a basis for declining to recuse) with Gordon v Reliant Energy Inc 141 FSupp2d 1041 (SDCal 2001) (relying on Tramonte and holding that the conflict was incurable).</sentence>
 <sentence id="s47">10 I came across two decisions that were particularly important.</sentence>
 <sentence id="s48">In re Certain Underwriter [2002] USCA2 92 ; 294 F3d 297 (2d Cir 2002), the appellate decision in the IPO case just referred to, was a securities class action in which investors in an initial public offering during the stock market boom of the late 1990s sued to recover losses against the issuers, underwriters and brokers, alleging widespread manipulation in the IPO market.</sentence>
@@ -122,13 +122,13 @@
 <sentence id="s99">There is authority for the view that a judge ordinarily "must not" entertain formally a motion for disqualification on the grounds of bias: see eg Idoport Pty Limited v National Australia Bank Ltd [2004] NSWSC 270 at [8] - [9] (citing, among other cases, Barton v Walker (1979) 2 NSWLR 740 , 748; Australian National Industries Ltd v Spedley Securities Ltd (in liq) (1992) 26 NSWLR 411, 436; and Rajski v Wood (1989) 18 NSWLR 512, 518).</sentence>
 <sentence id="s100">This line of authority (the most recent of which is Lee v Cha [2008] NSWCA 13) has been taken to support the view that although a judge may publish reasons for refusing to recuse, no independent appeal will lie nor is any prerogative writ available; rather, a party must wait until a subsequent appealable order is made, at which time the failure to recuse can be raised as a point of error underlying that subsequent order.</sentence>
 <sentence id="s101">19 Whether the Barton line of cases is binding on me is a question I shall come to in a moment.</sentence>
-<sentence id="s102">I should start, however, by saying that the reasoning in those cases is not without its problems, notwithstanding that I was a member of a full bench of the Federal Court which approved Barton : see Parramatta Design &amp; Developments Pty Ltd v Concrete Pty Ltd (2005) 144 FCR 244 at [36]-[37], reversed on other grounds [2006] HCA 55 ; (2006) 229 CLR 577.</sentence>
+<sentence id="s102">I should start, however, by saying that the reasoning in those cases is not without its problems, notwithstanding that I was a member of a full bench of the Federal Court which approved Barton : see Parramatta Design &amp;amp; Developments Pty Ltd v Concrete Pty Ltd (2005) 144 FCR 244 at [36]-[37], reversed on other grounds [2006] HCA 55 ; (2006) 229 CLR 577.</sentence>
 <sentence id="s103">For one thing, the reasoning is circular --- the primary reason given for there being no order to appeal from is because the party seeking disqualification is not allowed to bring a motion.</sentence>
 <sentence id="s104">To say, as was said in Idoport (at [8] quoting Barton ), that formal application for disqualification must not be entertained because it "is beyond doubt that a judge of any court who might reasonably be suspected of bias should not hear the cause" is not a justification for the rule but rather a restatement of the problem.</sentence>
 <sentence id="s105">The question, as it is here, is always whether and when the suspicion of bias is reasonable, not what should be done if it is.</sentence>
 <sentence id="s106">In my view, the public interest in seeing justice done openly is best served by allowing (but not always mandating) recusal applications to be brought in public by motion and whatever process is required to see that the allegations are fully ventilated.</sentence>
 <sentence id="s107">20 The solution offered in Idoport to allow an indirect appeal against a refusal to recuse by having the judge simply make whatever order might be convenient so that the parties may take an appeal from that order is not attractive.</sentence>
-<sentence id="s108">Once the concession is made (as numerous courts have, see Idoport at [9]; Gas &amp; Fuel Corporation Superannuation Fund v Saunders (1994) 52 FCR 48 ; Parramatta 144 FCR 244 at [37]) that there will be circumstances where an interlocutory appeal based on refusal to recuse is desirable, why should the court be forced to make a pretextual order in order to facilitate appellate review?</sentence>
+<sentence id="s108">Once the concession is made (as numerous courts have, see Idoport at [9]; Gas &amp;amp; Fuel Corporation Superannuation Fund v Saunders (1994) 52 FCR 48 ; Parramatta 144 FCR 244 at [37]) that there will be circumstances where an interlocutory appeal based on refusal to recuse is desirable, why should the court be forced to make a pretextual order in order to facilitate appellate review?</sentence>
 <sentence id="s109">It is much cleaner simply to allow an appeal from what everyone knows is the actual decision being challenged.</sentence>
 <sentence id="s110">This would also make it unnecessary for a party to apply to the High Court for prohibition.</sentence>
 <sentence id="s111">21 It seems, in any event, that Barton is of doubtful authority.</sentence>
@@ -164,7 +164,7 @@ P Wallis
  Counsel for the Applicants in VID 366 of 2008: J Burnside QC
 L Armstrong 
  
- Solicitor for the Applicants in VID 366 of 2008: Slater &amp; Gordon 
+ Solicitor for the Applicants in VID 366 of 2008: Slater &amp;amp; Gordon 
  
  Counsel for the First and Second Respondents in VID 366 of 2008: G Uren QC 
 M Garner 

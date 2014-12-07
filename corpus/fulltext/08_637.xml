@@ -3,16 +3,16 @@
 <name>Lovell v Penkin, in the matter of the bankrupt estate of Kevin Michael Penkin [2008] FCA 637 (9 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/637.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">stay of claim in supreme court in negligence alone against a solicitor</catchphrase>
-<catchphrase "id=c1">application for leave to take a fresh step in the proceeding</catchphrase>
-<catchphrase "id=c2">granting of leave</catchphrase>
-<catchphrase "id=c3">imposing of conditions</catchphrase>
-<catchphrase "id=c4">whether leave is required in a claim in negligence alone against a solicitor</catchphrase>
-<catchphrase "id=c5">whether such a claim is provable in the bankruptcy</catchphrase>
-<catchphrase "id=c6">other considerations such as set-off</catchphrase>
-<catchphrase "id=c7">bilateral relationship</catchphrase>
-<catchphrase "id=c8">s 117 of the bankruptcy act 1966 (cth) and the availability of insurance</catchphrase>
-<catchphrase "id=c9">bankruptcy and insolvency</catchphrase>
+<catchphrase id="c0">stay of claim in supreme court in negligence alone against a solicitor</catchphrase>
+<catchphrase id="c1">application for leave to take a fresh step in the proceeding</catchphrase>
+<catchphrase id="c2">granting of leave</catchphrase>
+<catchphrase id="c3">imposing of conditions</catchphrase>
+<catchphrase id="c4">whether leave is required in a claim in negligence alone against a solicitor</catchphrase>
+<catchphrase id="c5">whether such a claim is provable in the bankruptcy</catchphrase>
+<catchphrase id="c6">other considerations such as set-off</catchphrase>
+<catchphrase id="c7">bilateral relationship</catchphrase>
+<catchphrase id="c8">s 117 of the bankruptcy act 1966 (cth) and the availability of insurance</catchphrase>
+<catchphrase id="c9">bankruptcy and insolvency</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -117,7 +117,7 @@
 <sentence id="s59">As such, the claim would be provable despite being for unliquidated damages.</sentence>
 <sentence id="s60">This is on the basis that the claim would not have arisen but for the contract of retainer between the professional and the client.</sentence>
 <sentence id="s61">In the present circumstances there is a costs agreement constituting the retainer so that clearly the relationship was established at least in part by virtue of the contractual retainer.</sentence>
-<sentence id="s62">This approach stems from cases such as Chittick 118 ALR 728 at 736 and 739; and Re Sharp, Peter Lyle &amp; Ex Parte: Tietyens Investments Pty Ltd (in liq) &amp; Anor v Official Trustee [1998] FCA 1367.</sentence>
+<sentence id="s62">This approach stems from cases such as Chittick 118 ALR 728 at 736 and 739; and Re Sharp, Peter Lyle &amp;amp; Ex Parte: Tietyens Investments Pty Ltd (in liq) &amp;amp; Anor v Official Trustee [1998] FCA 1367.</sentence>
 <sentence id="s63">18 In Chittick 118 ALR 728 at 738-739 Young J said:
  Dr Bennett QC submits that the causes of action in negligence and breach of fiduciary duty resulting in equitable compensation are released because they fall within the words "by reason of a contract, promise or breach of trust" in s 82(2).</sentence>
 <sentence id="s64">He puts that in considering whether the claim is one for unliquidated damages arising by reason of a contract, promise or breach of trust one looks to the underlying transaction rather than to the form of action.</sentence>
@@ -128,7 +128,7 @@
 <sentence id="s69">Mr Hely QC, on the other hand, puts that s 82 is not concerned with making unliquidated damages for a personal fault provable in the bankruptcy.</sentence>
 <sentence id="s70">He points out that s 82 does not talk about breach of fiduciary duty, and that there is a very real distinction between a breach of trust and a breach of fiduciary duty; in particular the solicitor who commits a breach of fiduciary duty does not have property vested in him.</sentence>
 <sentence id="s71">Again, equitable compensation can under no stretch of the imagination be classed as unliquidated damages but, even if it could be so classed, then the claim did not arise by reason of contract, promise or breach of trust.</sentence>
-<sentence id="s72">Dr Bennett QC commenced with the words of James LJ in Ex parte Llynvi Coal &amp; Iron Co; Re Hide (1871) LR 7 Ch App 28 at 31---2, where his Lordship said on the Bankruptcy Act 1869 (Imp): 
+<sentence id="s72">Dr Bennett QC commenced with the words of James LJ in Ex parte Llynvi Coal &amp;amp; Iron Co; Re Hide (1871) LR 7 Ch App 28 at 31---2, where his Lordship said on the Bankruptcy Act 1869 (Imp): 
  
  A great number of cases occurred, before the passing of the late Act, in which the bankrupt was left liable to several claims of various kinds, and the persons who had those claims were entirely excluded from any participation in the general division of the assets.</sentence>
 <sentence id="s73">Then came the Act of parliament, which -- dealing in express terms with almost every one of the cases which had ever previously occurred, and excluding nothing but demands for damages for personal torts -- provided that there should be nothing whatever for which a right of proof should not be given.</sentence>
@@ -248,7 +248,7 @@
  Set-off in bankruptcy 30 The history of the balancing accounts in bankruptcy and the development of the rights of set off in bankruptcy, together with the competing theories respecting their origins, were considered by Powell JA in Gye v Davies.</sentence>
 <sentence id="s160">For a very long time, the right of set off in bankruptcy has not rested on the same principles as the right of set off between solvent parties.</sentence>
 <sentence id="s161">The latter right was given by the Statutes of Set off of 1729 and 1735 (2 Geo II c 22 s 13 and 8 Geo II c 24 s 4) to prevent cross action.</sentence>
-<sentence id="s162">Separate provision was made for set off in bankruptcy, first in 1705 (4 &amp; 5 Ann c 17), continued in 1732 (5 Geo II c 30), and re enacted in 1825 (6 Geo IV c 16).</sentence>
+<sentence id="s162">Separate provision was made for set off in bankruptcy, first in 1705 (4 &amp;amp; 5 Ann c 17), continued in 1732 (5 Geo II c 30), and re enacted in 1825 (6 Geo IV c 16).</sentence>
 <sentence id="s163">31 In Forster v Wilson, Parke B remarked that the right of set off given by the Georgian statutes of set off was to prevent cross actions between solvent parties in respect of legal debts due to each in his own right.</sentence>
 <sentence id="s164">His Lordship contrasted the statutory set off in bankruptcy as given "not to avoid cross actions, for none would lie against assignees [in bankruptcy], and one against the bankrupt would be unavailing, but to do substantial justice between the parties, where a debt is really due from the bankrupt to the debtor to his estate".</sentence>
 <sentence id="s165">The 1825 statute (6 Geo IV c 16) was a consolidating statute which replaced the various statutes which until then had set out the law of bankruptcy.</sentence>

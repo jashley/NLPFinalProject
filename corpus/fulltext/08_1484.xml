@@ -3,31 +3,31 @@
 <name>Automotive, Foods, Metals, Engineering, Printing and Kindred Industries Union v Thornton Engineering Australia Pty Ltd [2008] FCA 1484 (6 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1484.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether employer dismissed employees for a prohibited reason or for reasons which included a prohibited reason</catchphrase>
-<catchphrase "id=c1">whether employer dismissed employees because of union membership</catchphrase>
-<catchphrase "id=c2">operation of reverse onus in workplace relations act 1996 (cth) s 298v</catchphrase>
-<catchphrase "id=c3">whether applicants bore onus to prove respondent knew applicants were union members</catchphrase>
-<catchphrase "id=c4">respondent argued positive reasons for dismissal</catchphrase>
-<catchphrase "id=c5">alternative argument that reasons did not include prohibited reasons</catchphrase>
-<catchphrase "id=c6">evidence of hostile attitude to union</catchphrase>
-<catchphrase "id=c7">attempt to thwart increased union activity in workplace</catchphrase>
-<catchphrase "id=c8">whether employer dismissed employees for a prohibited reason or for reasons which included a prohibited reason</catchphrase>
-<catchphrase "id=c9">whether employer dismissed employees because there were members of union seeking better industrial conditions and were dissatisfied with conditions</catchphrase>
-<catchphrase "id=c10">respondent argued positive reasons for dismissal</catchphrase>
-<catchphrase "id=c11">alternative argument that reasons did not include prohibited reasons</catchphrase>
-<catchphrase "id=c12">argument that conditions must be same</catchphrase>
-<catchphrase "id=c13">evidence that union and employees attempted to have union representation in the negotiation of a collective agreement</catchphrase>
-<catchphrase "id=c14">whether representation by a union in collective agreement negotiations is an industrial condition</catchphrase>
-<catchphrase "id=c15">whether subjective knowledge of dissatisfaction required</catchphrase>
-<catchphrase "id=c16">whether subjective knowledge condition precedent to operation of reverse onus in workplace relations act 1996 (cth) s 298v</catchphrase>
-<catchphrase "id=c17">onus of proof</catchphrase>
-<catchphrase "id=c18">workplace relations act 1996 (cth) s 298v</catchphrase>
-<catchphrase "id=c19">whether factual foundation must be established by applicants prior to operation</catchphrase>
-<catchphrase "id=c20">"industrial conditions"</catchphrase>
-<catchphrase "id=c21">industrial law</catchphrase>
-<catchphrase "id=c22">industrial law</catchphrase>
-<catchphrase "id=c23">practice and procedure</catchphrase>
-<catchphrase "id=c24">words and phrases</catchphrase>
+<catchphrase id="c0">whether employer dismissed employees for a prohibited reason or for reasons which included a prohibited reason</catchphrase>
+<catchphrase id="c1">whether employer dismissed employees because of union membership</catchphrase>
+<catchphrase id="c2">operation of reverse onus in workplace relations act 1996 (cth) s 298v</catchphrase>
+<catchphrase id="c3">whether applicants bore onus to prove respondent knew applicants were union members</catchphrase>
+<catchphrase id="c4">respondent argued positive reasons for dismissal</catchphrase>
+<catchphrase id="c5">alternative argument that reasons did not include prohibited reasons</catchphrase>
+<catchphrase id="c6">evidence of hostile attitude to union</catchphrase>
+<catchphrase id="c7">attempt to thwart increased union activity in workplace</catchphrase>
+<catchphrase id="c8">whether employer dismissed employees for a prohibited reason or for reasons which included a prohibited reason</catchphrase>
+<catchphrase id="c9">whether employer dismissed employees because there were members of union seeking better industrial conditions and were dissatisfied with conditions</catchphrase>
+<catchphrase id="c10">respondent argued positive reasons for dismissal</catchphrase>
+<catchphrase id="c11">alternative argument that reasons did not include prohibited reasons</catchphrase>
+<catchphrase id="c12">argument that conditions must be same</catchphrase>
+<catchphrase id="c13">evidence that union and employees attempted to have union representation in the negotiation of a collective agreement</catchphrase>
+<catchphrase id="c14">whether representation by a union in collective agreement negotiations is an industrial condition</catchphrase>
+<catchphrase id="c15">whether subjective knowledge of dissatisfaction required</catchphrase>
+<catchphrase id="c16">whether subjective knowledge condition precedent to operation of reverse onus in workplace relations act 1996 (cth) s 298v</catchphrase>
+<catchphrase id="c17">onus of proof</catchphrase>
+<catchphrase id="c18">workplace relations act 1996 (cth) s 298v</catchphrase>
+<catchphrase id="c19">whether factual foundation must be established by applicants prior to operation</catchphrase>
+<catchphrase id="c20">"industrial conditions"</catchphrase>
+<catchphrase id="c21">industrial law</catchphrase>
+<catchphrase id="c22">industrial law</catchphrase>
+<catchphrase id="c23">practice and procedure</catchphrase>
+<catchphrase id="c24">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -407,17 +407,17 @@
 <sentence id="s319">The form included the following: 
  Candidate Questions ... 
  
- &#8226; Are you a member of a union?</sentence>
-<sentence id="s320">&#8226; Would you wish to remain a member if working at a non-union factory?</sentence>
-<sentence id="s321">&#8226; Would you be happy working with a non-union agreement?</sentence>
-<sentence id="s322">&#8226; If we ever had a picket would you be prepared to continue coming to work (cross a picket line)?</sentence>
+ &amp;#8226; Are you a member of a union?</sentence>
+<sentence id="s320">&amp;#8226; Would you wish to remain a member if working at a non-union factory?</sentence>
+<sentence id="s321">&amp;#8226; Would you be happy working with a non-union agreement?</sentence>
+<sentence id="s322">&amp;#8226; If we ever had a picket would you be prepared to continue coming to work (cross a picket line)?</sentence>
 <sentence id="s323">
  
  ...</sentence>
 <sentence id="s324">Questions for past employers ... 
  
  
- &#8226; Were they involved with any union activity during their employment?</sentence>
+ &amp;#8226; Were they involved with any union activity during their employment?</sentence>
 <sentence id="s325">(eg shop steward or organizing [sic] strikes etc?</sentence>
 <sentence id="s326">) 
  
@@ -708,7 +708,7 @@ Dated: 6 October 2008
  
  Counsel for the Respondent: Mr M Rinaldi 
  
- Solicitor for the Respondent: Mitchell Burke &amp; Co 
+ Solicitor for the Respondent: Mitchell Burke &amp;amp; Co 
 
  Date of Hearing: 2 October 2007, 27 November 2007, 18 December 2007, 29 January 2008 and 8 August 2008 
  

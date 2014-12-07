@@ -3,15 +3,15 @@
 <name>Ambrose (Trustee), in the matter of Peter Athanasas (Bankrupt) (No 2) [2008] FCA 1016 (1 July 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1016.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">where bankrupt did not produce documents pursuant to a summons issued by the court</catchphrase>
-<catchphrase "id=c1">where bankrupt failed to comply with undertaking</catchphrase>
-<catchphrase "id=c2">where bankrupt failed to comply with statutory obligations under ss 81 and 264c (1)(c) of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c3">whether his contempt was wilful and contumacious</catchphrase>
-<catchphrase "id=c4">penalty</catchphrase>
-<catchphrase "id=c5">whether sentence of imprisonment was appropriate where such a sentence is a punishment of last resort</catchphrase>
-<catchphrase "id=c6">whether that sentence ought to be suspended</catchphrase>
-<catchphrase "id=c7">sentenced to three months' imprisonment.</catchphrase>
-<catchphrase "id=c8">contempt</catchphrase>
+<catchphrase id="c0">where bankrupt did not produce documents pursuant to a summons issued by the court</catchphrase>
+<catchphrase id="c1">where bankrupt failed to comply with undertaking</catchphrase>
+<catchphrase id="c2">where bankrupt failed to comply with statutory obligations under ss 81 and 264c (1)(c) of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c3">whether his contempt was wilful and contumacious</catchphrase>
+<catchphrase id="c4">penalty</catchphrase>
+<catchphrase id="c5">whether sentence of imprisonment was appropriate where such a sentence is a punishment of last resort</catchphrase>
+<catchphrase id="c6">whether that sentence ought to be suspended</catchphrase>
+<catchphrase id="c7">sentenced to three months' imprisonment.</catchphrase>
+<catchphrase id="c8">contempt</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -284,7 +284,7 @@ Dated: 4 July 2008
 
  Counsel for the Applicant: Mr G Gretsas 
  
- Solicitor for the Applicant: Robert Chrzaszcz &amp; Associates 
+ Solicitor for the Applicant: Robert Chrzaszcz &amp;amp; Associates 
  
  Counsel for Mr Peter Athanasas: Mr J Telfer 
  

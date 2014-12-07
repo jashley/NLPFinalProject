@@ -3,13 +3,13 @@
 <name>Style Limited, in the matter of; Merim Pty Ltd v Style Limited [2009] FCA 314 (2 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/314.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">section 247a</catchphrase>
-<catchphrase "id=c1">application to inspect the books of a company</catchphrase>
-<catchphrase "id=c2">good faith and proper purpose</catchphrase>
-<catchphrase "id=c3">dual purposes</catchphrase>
-<catchphrase "id=c4">dominant purpose</catchphrase>
-<catchphrase "id=c5">access to director and officer insurance policies</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase id="c0">section 247a</catchphrase>
+<catchphrase id="c1">application to inspect the books of a company</catchphrase>
+<catchphrase id="c2">good faith and proper purpose</catchphrase>
+<catchphrase id="c3">dual purposes</catchphrase>
+<catchphrase id="c4">dominant purpose</catchphrase>
+<catchphrase id="c5">access to director and officer insurance policies</catchphrase>
+<catchphrase id="c6">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -306,18 +306,18 @@ On 4 July 2008, Mr Yunghanns also wrote to Mr Torreele seeking permission to ins
 
  On 9 July 2008, Mr Yunghanns sent another email to Mr Roux (copied to Mr Johnson and Mr Torreele) setting out some of the statements Style had made previously to shareholders.</sentence>
 <sentence id="s111">Mr Yunghanns then asked the following questions: 
- "&#9679; What information did you have to enable you to make the profit statement of 31 st October?</sentence>
+ "&amp;#9679; What information did you have to enable you to make the profit statement of 31 st October?</sentence>
 <sentence id="s112">When was the 1 st revenue range guidance given?</sentence>
 <sentence id="s113">
 
  
- &#9679; What material or information was before you to make the expectation about a 30% improvement in total cost of goods as released on 23 rd November?</sentence>
+ &amp;#9679; What material or information was before you to make the expectation about a 30% improvement in total cost of goods as released on 23 rd November?</sentence>
 <sentence id="s114">
 
  
- &#9679; What material or information was before you to make the revenue and earnings forecast released on the 31 st January 
+ &amp;#9679; What material or information was before you to make the revenue and earnings forecast released on the 31 st January 
  ... 
- I again ask you to please explain the material or information before you that enabled you to make the statements of the 31 st October 2007, 23 rd November 2007 and 31 st January 2008, bearing in mind that the &#189; year results, at least in management form, should have been available to you at the time of making the January statement.</sentence>
+ I again ask you to please explain the material or information before you that enabled you to make the statements of the 31 st October 2007, 23 rd November 2007 and 31 st January 2008, bearing in mind that the &amp;#189; year results, at least in management form, should have been available to you at the time of making the January statement.</sentence>
 <sentence id="s115">
 
  
@@ -418,7 +418,7 @@ On 4 July 2008, Mr Yunghanns also wrote to Mr Torreele seeking permission to ins
  "What an amazing performance to turn a $60,000 asset into a $675,000 liability ... 
  I require you to outline full details of how you achieved this both in the preliminary results and the annual report so all shareholders can be appraised of your remarkable ability ... 
  ... 
- Please give shareholders a detailed explanation in the annual report together with a pr&eacute;cis of the legal advice.</sentence>
+ Please give shareholders a detailed explanation in the annual report together with a pr&amp;eacute;cis of the legal advice.</sentence>
 <sentence id="s152">" 
 
  On 25 July 2008, under cover of an email from Mr Ritchie, Style responded formally in a letter to Mr Yunghanns' letter dated 4 July 2008.</sentence>
@@ -762,7 +762,7 @@ For present purposes I accept that "books" in s 247A includes any directors and 
  During or since the end of the financial year the company has given an indemnity or entered an agreement to indemnify, or paid or agreed to pay insurance premiums as follows: 
 
  
- The company has procured Directors &amp; Officers insurance to insure each of the following directors against liabilities for costs and expenses incurred by them in defending any legal proceedings arising out of their conduct while acting in the capacity of director of the company, other than conduct involving a wilful breach of duty in relation to the company.</sentence>
+ The company has procured Directors &amp;amp; Officers insurance to insure each of the following directors against liabilities for costs and expenses incurred by them in defending any legal proceedings arising out of their conduct while acting in the capacity of director of the company, other than conduct involving a wilful breach of duty in relation to the company.</sentence>
 <sentence id="s348">The amount of the premium is estimated to be $12,636.</sentence>
 <sentence id="s349">
 

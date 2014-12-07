@@ -3,11 +3,11 @@
 <name>Polaris Communications Pty Ltd (ACN 006 102 601) v Dynamic Hearing Pty Ltd (ACN 098 876 212) [2009] FCA 890 (18 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/890.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">misleading or deceptive conduct</catchphrase>
-<catchphrase "id=c1">comparative advertising</catchphrase>
-<catchphrase "id=c2">acoustic protection devices</catchphrase>
-<catchphrase "id=c3">whether report on comparative merits of devices contained misleading representations</catchphrase>
-<catchphrase "id=c4">trade practices</catchphrase>
+<catchphrase id="c0">misleading or deceptive conduct</catchphrase>
+<catchphrase id="c1">comparative advertising</catchphrase>
+<catchphrase id="c2">acoustic protection devices</catchphrase>
+<catchphrase id="c3">whether report on comparative merits of devices contained misleading representations</catchphrase>
+<catchphrase id="c4">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -20,9 +20,9 @@
 <sentence id="s5">Since about September 2006 the second respondent (Plantronics) has sold a competing limiting amplifier called M15D, which is designed solely for use with Plantronics equipment.</sentence>
 <sentence id="s6">M15D was developed as the result of collaboration between Plantronics and the first respondent (Dynamic) which commenced in early 2005.</sentence>
 <sentence id="s7">The aim of the collaboration, called the Tecate project, was to produce a limiting amplifier to compete with SoundShield, in particular in relation to Telstra, a major customer for such devices, which had its own particular requirements with respect to limiting amplifiers.</sentence>
-<sentence id="s8">These requirements were contained in Telstra's specification TP TT404B51 called "Specification --- Headset &amp; Limiting Amplifier, Acoustic Protection" (TT4).</sentence>
+<sentence id="s8">These requirements were contained in Telstra's specification TP TT404B51 called "Specification --- Headset &amp;amp; Limiting Amplifier, Acoustic Protection" (TT4).</sentence>
 <sentence id="s9">Polaris was at the time a supplier of devices to Telstra.</sentence>
-<sentence id="s10">In mid-2005 Dynamic distributed a report entitled "Comparisons of Acoustic Protection Devices --- Plantronics ADRO&reg; M15D versus the Polaris SoundShield&reg;".</sentence>
+<sentence id="s10">In mid-2005 Dynamic distributed a report entitled "Comparisons of Acoustic Protection Devices --- Plantronics ADRO&amp;reg; M15D versus the Polaris SoundShield&amp;reg;".</sentence>
 <sentence id="s11">The report was provided to Telstra, which gave a copy to Polaris on a confidential basis.</sentence>
 <sentence id="s12">Plantronics provided a copy to Siemens, which was then its exclusive distributor in Australia of acoustic shock protection devices and telephone headsets, for the purpose of distribution.</sentence>
 <sentence id="s13">Plantronics also gave a copy to Westpac.</sentence>
@@ -60,14 +60,14 @@
 <sentence id="s32">
  
 
- The next heading is "ADRO&reg;".</sentence>
-<sentence id="s33">It will be recalled that the title of the report includes the words "Plantronics ADRO&reg; M15D".</sentence>
+ The next heading is "ADRO&amp;reg;".</sentence>
+<sentence id="s33">It will be recalled that the title of the report includes the words "Plantronics ADRO&amp;reg; M15D".</sentence>
 <sentence id="s34">The Plantronics device was referred to by the parties and by witnesses as both ADRO and M15D interchangeably.</sentence>
 <sentence id="s35">I will refer to it as M15D.</sentence>
 <sentence id="s36">Under the ADRO heading the report states: 
  
- The ADRO&reg; processing scheme developed by Dynamic Hearing Pty Ltd is designed to deal with these difficult listening situations without degrading or distorting the sound.</sentence>
-<sentence id="s37">ADRO&reg; was developed to meet specifications for acoustic shock protection whilst also providing superior sound quality and intelligibility in comparison to existing products.</sentence>
+ The ADRO&amp;reg; processing scheme developed by Dynamic Hearing Pty Ltd is designed to deal with these difficult listening situations without degrading or distorting the sound.</sentence>
+<sentence id="s37">ADRO&amp;reg; was developed to meet specifications for acoustic shock protection whilst also providing superior sound quality and intelligibility in comparison to existing products.</sentence>
 <sentence id="s38">It uses a set of fuzzy logic rules to adjust gain so that the output signal is always within the comfortable and audible range of the listener.</sentence>
 <sentence id="s39">The system produces a high level of speech understanding, while also maintaining a comfortable loudness level and a high sound quality.</sentence>
 <sentence id="s40">
@@ -75,15 +75,15 @@
 
  The report then describes the test that was carried out: 
  
- To demonstrate its superior abilities, ADRO&reg; was compared with SOUNDSHIELD&reg; in a simulated call centre environment.</sentence>
-<sentence id="s41">The SOUNDSHIELD&reg; is a handset amplifier commonly used in Australian call centres to provide protection from acoustic shock.</sentence>
-<sentence id="s42">The Plantronics Supra Monaural H51-TT3 headset was used with both ADRO&reg; and SOUNDSHIELD&reg;.</sentence>
+ To demonstrate its superior abilities, ADRO&amp;reg; was compared with SOUNDSHIELD&amp;reg; in a simulated call centre environment.</sentence>
+<sentence id="s41">The SOUNDSHIELD&amp;reg; is a handset amplifier commonly used in Australian call centres to provide protection from acoustic shock.</sentence>
+<sentence id="s42">The Plantronics Supra Monaural H51-TT3 headset was used with both ADRO&amp;reg; and SOUNDSHIELD&amp;reg;.</sentence>
 <sentence id="s43">Both headset amplifiers were adjusted to the lowest limiting setting and the maximum volume setting, as is typically done by phone operators to provide maximum intelligibility in quiet and in noise.</sentence>
 <sentence id="s44">The receive signal level was the same for both devices.</sentence>
 <sentence id="s45">
  
 
- Under the heading "ADRO&reg; improves the intelligibility of speech", the report states: 
+ Under the heading "ADRO&amp;reg; improves the intelligibility of speech", the report states: 
  
  The Phonetically Balanced Monosyllable (PBM) word test was presented in typical call centre background noise levels (55-66dBA) to eight adults with normal hearing who were asked to repeat all the words that they heard.</sentence>
 <sentence id="s46">
@@ -91,16 +91,16 @@
 
  
  
- In low level ambient noise (55dBA), the error rate for SOUNDSHIELD&reg; (18%) was double that of ADRO&reg; (9%).</sentence>
-<sentence id="s47">In moderate level background noise (65dBA), the error rate for SOUNDSHIELD&reg; increased to 26%, whilst the error rate for ADRO&reg; only increased to 12%.</sentence>
+ In low level ambient noise (55dBA), the error rate for SOUNDSHIELD&amp;reg; (18%) was double that of ADRO&amp;reg; (9%).</sentence>
+<sentence id="s47">In moderate level background noise (65dBA), the error rate for SOUNDSHIELD&amp;reg; increased to 26%, whilst the error rate for ADRO&amp;reg; only increased to 12%.</sentence>
 <sentence id="s48">
  
 
  
  
  Extrapolation of the PBM results for different background noise levels are shown in Figure 1.</sentence>
-<sentence id="s49">To achieve an intelligibility score of 90% with the SOUNDSHIELD&reg;, the background noise level of the call centres would have to be reduced to an unrealistic level of about 40dBA.</sentence>
-<sentence id="s50">ADRO&reg; on the other hand, easily achieved 90% intelligibility with call centre background noise at a level of 55dBA.</sentence>
+<sentence id="s49">To achieve an intelligibility score of 90% with the SOUNDSHIELD&amp;reg;, the background noise level of the call centres would have to be reduced to an unrealistic level of about 40dBA.</sentence>
+<sentence id="s50">ADRO&amp;reg; on the other hand, easily achieved 90% intelligibility with call centre background noise at a level of 55dBA.</sentence>
 <sentence id="s51">
  
 
@@ -109,10 +109,10 @@ Page 3 of the report contains Figure 1 referred to above.</sentence>
 <sentence id="s52">The graph is described as "Percentage Correct on PBM Word Lists as a Function of Background Noise".</sentence>
 <sentence id="s53">The expression "dBA" in the Figure and in the report is a specific variety of decibel (dB), described in the Australian Communications Industry Forum (ACIF) Guidelines referred to at [14] as "Logarithmic measurement of sound pressure level measured through an 'A' curve filter".</sentence>
 <sentence id="s54">A more readily understood description is that "dBA" is used for measuring sound in the environment, often called "in free field".</sentence>
-<sentence id="s55">Under the heading "ADRO&reg; was preferred by listeners" the report states: 
+<sentence id="s55">Under the heading "ADRO&amp;reg; was preferred by listeners" the report states: 
  
  Without knowing which headset amplifier they were listening to, the eight normally hearing adults were asked to rate their impressions of loudness, sound quality, and overall impression for two levels of background noise (55 and 65dBA).</sentence>
-<sentence id="s56">Figure 2 illustrates that 95 to 100% of the responses were in favour of ADRO&reg; in background noise at a level of 65dBA.</sentence>
+<sentence id="s56">Figure 2 illustrates that 95 to 100% of the responses were in favour of ADRO&amp;reg; in background noise at a level of 65dBA.</sentence>
 <sentence id="s57">
  
 
@@ -125,16 +125,16 @@ Then appears Figure 2 which is described as "Preferences in 65dBA of noise in pe
 <sentence id="s59">
  
 
- The material under the next heading, "ADRO&reg; will increase the efficiency of phone operators", is: 
+ The material under the next heading, "ADRO&amp;reg; will increase the efficiency of phone operators", is: 
  
- This data demonstrates that the use of ADRO&reg; in call centre environments allows for typical call centre background noise levels whilst maintaining good speech intelligibility and superior sound quality.</sentence>
+ This data demonstrates that the use of ADRO&amp;reg; in call centre environments allows for typical call centre background noise levels whilst maintaining good speech intelligibility and superior sound quality.</sentence>
 <sentence id="s60">Being able to hear well under such challenging conditions, will result in: 
  
 
  reduced stress, fatigue and anxiety of phone operators fewer mistakes by phone operators reduced call costs due to less repetition better customer service leading to higher levels of customer satisfaction
  
  
- ADRO&reg; is G616 compliant and suitable for TT4 compliant operation.</sentence>
+ ADRO&amp;reg; is G616 compliant and suitable for TT4 compliant operation.</sentence>
 <sentence id="s61">
  
 
@@ -150,7 +150,7 @@ TT4 is referred to at [3] above.</sentence>
  
 
  Page 4 of the report contains a list of reference works linked by number to various parts of the report set out above.</sentence>
-<sentence id="s67">Underneath the references are statements that ADRO&reg; is a registered trade mark of Dynamic and SOUNDSHIELD&reg; is a registered trade mark of Polaris Acoustics Pty Ltd. At the foot of the page is the copyright note that also appears at the bottom of page 1.</sentence>
+<sentence id="s67">Underneath the references are statements that ADRO&amp;reg; is a registered trade mark of Dynamic and SOUNDSHIELD&amp;reg; is a registered trade mark of Polaris Acoustics Pty Ltd. At the foot of the page is the copyright note that also appears at the bottom of page 1.</sentence>
 <sentence id="s68">THE PLEADINGS 
  The amended statement of claim identifies four representations or sets of representations alleged to have been made by Dynamic in the comparison report: the lowest limiting setting representation the ethics approval representation the unsuitability representations the test set up representations.</sentence>
 <sentence id="s69">
@@ -434,9 +434,9 @@ Professor Newell also agreed that he accepted Mr Fisher's assurance that provide
 <sentence id="s265">Telstra is one such business.</sentence>
 <sentence id="s266">Mr Gherbaz, Plantronics' managing director, said the M15D was being developed for both the forthcoming Telstra RFT and for the general market.</sentence>
 <sentence id="s267">The comparison report was intended to be used and was used for the general market as well as to assist Plantronics in relation to the tender.</sentence>
-<sentence id="s268">He said the potential readers of the report would be Occupational Health and Safety (OH&amp;S) managers in organisations and call centre managers.</sentence>
+<sentence id="s268">He said the potential readers of the report would be Occupational Health and Safety (OH&amp;amp;S) managers in organisations and call centre managers.</sentence>
 <sentence id="s269">They were the officers with whom Plantronics would deal in connection with enquiries about its devices and sales of them.</sentence>
-<sentence id="s270">Thus it was the OH&amp;S manager of Westpac who enquired of Mr Gherbaz about its products and what path to go down.</sentence>
+<sentence id="s270">Thus it was the OH&amp;amp;S manager of Westpac who enquired of Mr Gherbaz about its products and what path to go down.</sentence>
 <sentence id="s271">He sent her a copy of the report.</sentence>
 <sentence id="s272">The report was not made available to the general public.</sentence>
 <sentence id="s273">It was common ground that call centres have staff with technical skills and qualifications who can deal with headset or computer problems.</sentence>
@@ -504,9 +504,9 @@ Professor Newell also agreed that he accepted Mr Fisher's assurance that provide
 <sentence id="s330">The results were 97% correct on monosyllabic words, using phonemic scoring, and 93% correct using whole word scoring.</sentence>
 <sentence id="s331">Set to TT4+5 the device met Telstra's intelligibility requirement under both scoring methods.</sentence>
 <sentence id="s332">In October 2007 Professor Newell did a test of SoundShield Mk1 on substantially the same basis as Mr Fisher's July 2007 test.</sentence>
-<sentence id="s333">The end results of the test appear from the following table which also shows Mr Fisher's tests and Dynamic's test: Condition 1 2 3 4 Background Noise Level 55 dBA 55 dBA 55 dBA 65 dBA Device Direct to Plantronics H51 TT3 SS MK1 TT4+5dB &amp; 
- Plantronics H51 TT3 SS MKI 95 dB &amp; 
- Plantronics H51 TT3 SS MKI 95 dB &amp; 
+<sentence id="s333">The end results of the test appear from the following table which also shows Mr Fisher's tests and Dynamic's test: Condition 1 2 3 4 Background Noise Level 55 dBA 55 dBA 55 dBA 65 dBA Device Direct to Plantronics H51 TT3 SS MK1 TT4+5dB &amp;amp; 
+ Plantronics H51 TT3 SS MKI 95 dB &amp;amp; 
+ Plantronics H51 TT3 SS MKI 95 dB &amp;amp; 
  Plantronics H51 TT3 Philip Newall October 07 Test 
  Word Score 
  95% 
@@ -553,7 +553,7 @@ Professor Newell also agreed that he accepted Mr Fisher's assurance that provide
  The measurement of limits, inputs and outputs in acoustic terms uses the unit dB.</sentence>
 <sentence id="s349">These are units used to measure sound pressure level as a ratio compared to a known reference level.</sentence>
 <sentence id="s350">There are different kinds of dBs.</sentence>
-<sentence id="s351">As already indicated, one of them, dBA, is typically used for measuring sound in the environment, and so is used for OH&amp;S limits in factories.</sentence>
+<sentence id="s351">As already indicated, one of them, dBA, is typically used for measuring sound in the environment, and so is used for OH&amp;amp;S limits in factories.</sentence>
 <sentence id="s352">Professor Blamey said there were four or five other types of dB that appear in the material before the Court.</sentence>
 <sentence id="s353">They express different concepts and are not directly comparable without an appropriate translation factor.</sentence>
 <sentence id="s354">It is therefore important to identify the precise concept in use to ensure that any comparison is meaningful.</sentence>
@@ -1151,7 +1151,7 @@ Appendix 2 sets out profile model numbers for various headset models.</sentence>
  Polaris relies on the existence of this relationship, which covered the development and sale of the M15D device, to establish that the test set up representations were misleading.</sentence>
 <sentence id="s798">It is not pleaded that the arrangement between the respondents was not disclosed.</sentence>
 <sentence id="s799">In my view the mere existence of the arrangement, which Polaris pleads in par 5 of the statement of claim and repeats in its particulars, could not establish that the representations were misleading.</sentence>
-<sentence id="s800">The comparison report disclosed that: In my view the intended recipients of the report, namely call centre and OH&amp;S managers contemplating the purchase of acoustic protection devices, could not have been misled in any relevant way by the mere fact of the disclosed relationship.</sentence>
+<sentence id="s800">The comparison report disclosed that: In my view the intended recipients of the report, namely call centre and OH&amp;amp;S managers contemplating the purchase of acoustic protection devices, could not have been misled in any relevant way by the mere fact of the disclosed relationship.</sentence>
 <sentence id="s801">In and of itself, it does not provide a basis for finding that the test was not properly designed, that SoundShield was not properly set up, that the test conditions were not an accurate reflection of a call centre environment, or that the test results were not an accurate reflection of the relative performance of the two devices.</sentence>
 <sentence id="s802">Polaris also claimed, though not in its pleadings, that the report made no sufficient disclosure of the commercial arrangement between Dynamic and Plantronics, in that the report did not disclose the existence of an agreement between them under which Dynamic derived a direct financial interest in sales of the M15D units.</sentence>
 <sentence id="s803">The content of the agreement is confidential and I will record more about it.</sentence>
@@ -1528,7 +1528,7 @@ The representation pleaded at par 10H(b) was not misleading or deceptive or like
 <sentence id="s1092">Mr Gherbaz suggested amendments and modifications to the document initially proposed by Dynamic.</sentence>
 <sentence id="s1093">Plantronics was not a mere conduit for the carriage of information to those who received the report.</sentence>
 <sentence id="s1094">The recipients would regard Plantronics as having adopted its contents, and thus as having made the representations contained in it.</sentence>
-<sentence id="s1095">See Gardam v George Wills &amp; Co Ltd [1988] FCA 194 ; (1998) 82 ALR 415 at 427.</sentence>
+<sentence id="s1095">See Gardam v George Wills &amp;amp; Co Ltd [1988] FCA 194 ; (1998) 82 ALR 415 at 427.</sentence>
 <sentence id="s1096">I did not understand this matter to have been in dispute.</sentence>
 <sentence id="s1097">ORDERS 
  I will not at this stage make final orders.</sentence>
@@ -1547,7 +1547,7 @@ Dated: 18 August 2009
  
  Counsel for the First Respondent: R Kendall QC and M Lapirow 
  
- Solicitor for the First Respondent: Ebsworth &amp; Ebsworth 
+ Solicitor for the First Respondent: Ebsworth &amp;amp; Ebsworth 
  
  Counsel for the Second Respondent: P Crennan 
  

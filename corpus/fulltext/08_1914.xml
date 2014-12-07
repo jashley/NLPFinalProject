@@ -3,10 +3,10 @@
 <name>Scott v Charitopoulos (Corrigendum dated 21 January 2009) [2008] FCA 1914 (16 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1914.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">bankruptcy notice founded on final order</catchphrase>
-<catchphrase "id=c1">supreme court taxing master's order</catchphrase>
-<catchphrase "id=c2">whether final order</catchphrase>
-<catchphrase "id=c3">bankruptcy</catchphrase>
+<catchphrase id="c0">bankruptcy notice founded on final order</catchphrase>
+<catchphrase id="c1">supreme court taxing master's order</catchphrase>
+<catchphrase id="c2">whether final order</catchphrase>
+<catchphrase id="c3">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -62,7 +62,7 @@
 <sentence id="s48">11 As regards the operation of O 63 r 11 Hansen J said (at [36]): "The rule is enabling and clarificatory to the extent it provides.</sentence>
 <sentence id="s49">It is to be understood as making plain that an order made by the taxing master [which is not made pursuant to a curial order] ... is enforceable in the same manner as a judgment for the payment of money.</sentence>
 <sentence id="s50">" It will be apparent that this is not the view I take of the rules.</sentence>
-<sentence id="s51">I am of the opinion, as expressed in my earlier decision in Commonwealth Bank of Australia v Horvath (Junior) [1999] FCA 143 ; (1999) 161 ALR 441 , that O 63 r 11 makes it clear that an order of a taxing master is not generally enforceable as a judgment or else why would the rules have provided that in some circumstances it can be enforced as a judgment: see Re Swinton &amp; Co. and Richez,; Re Mortimer and Kirkpatrick (1982) 33 B.C.L.R.</sentence>
+<sentence id="s51">I am of the opinion, as expressed in my earlier decision in Commonwealth Bank of Australia v Horvath (Junior) [1999] FCA 143 ; (1999) 161 ALR 441 , that O 63 r 11 makes it clear that an order of a taxing master is not generally enforceable as a judgment or else why would the rules have provided that in some circumstances it can be enforced as a judgment: see Re Swinton &amp;amp; Co. and Richez,; Re Mortimer and Kirkpatrick (1982) 33 B.C.L.R.</sentence>
 <sentence id="s52">36 , a case decided in different circumstances.</sentence>
 <sentence id="s53">12 Moreover, the view that I take is consistent with that taken by the seminal practice book, Williams, Civil Procedure - Victoria.</sentence>
 <sentence id="s54">Williams says [at I 63.37.35]: 
@@ -94,7 +94,7 @@ Dated: 16 December 2008
  
  Counsel for the Respondent: G T Bigmore QC 
  
- Solicitor for the Respondent: Efron &amp; Associates 
+ Solicitor for the Respondent: Efron &amp;amp; Associates 
 
  Date of Written Submissions: 14 November 2008 
  

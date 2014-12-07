@@ -3,12 +3,12 @@
 <name>Tian v Minister for Immigration and Citizenship [2008] FCA 1334 (29 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1334.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">employee nomination scheme</catchphrase>
-<catchphrase "id=c1">subclass 856 visa</catchphrase>
-<catchphrase "id=c2">definition of "highly skilled person" in r 5.19(3) of the migration regulations 1994 (cth)</catchphrase>
-<catchphrase "id=c3">meaning of expression "the person has completed, over a period of 3 years, formal training or equivalent experience" found in r 5.19(3)(a)</catchphrase>
-<catchphrase "id=c4">whether the migration review tribunal was required to consider whether the approved appointment is "exceptional" for the purposes of r 5.19(3)(b)</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase id="c0">employee nomination scheme</catchphrase>
+<catchphrase id="c1">subclass 856 visa</catchphrase>
+<catchphrase id="c2">definition of "highly skilled person" in r 5.19(3) of the migration regulations 1994 (cth)</catchphrase>
+<catchphrase id="c3">meaning of expression "the person has completed, over a period of 3 years, formal training or equivalent experience" found in r 5.19(3)(a)</catchphrase>
+<catchphrase id="c4">whether the migration review tribunal was required to consider whether the approved appointment is "exceptional" for the purposes of r 5.19(3)(b)</catchphrase>
+<catchphrase id="c5">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -35,9 +35,9 @@
 <sentence id="s19">Divisions 2 and 3 of Part 5 of the Act provided for review of an MRT-Reviewable decision by the second respondent, the Migration Review Tribunal ( the Tribunal ).</sentence>
 <sentence id="s20">5 Under r 5.19(2), an employer nomination met the requirements of that regulation if, relevantly:
  
-&#8226; the employer nomination was made by an employer in respect of a need for a paid employee in a business located in Australia and operated by that employer; and
+&amp;#8226; the employer nomination was made by an employer in respect of a need for a paid employee in a business located in Australia and operated by that employer; and
  
-&#8226; the work to be performed required the appointment of a highly skilled person within the meaning of r 5.19(3).</sentence>
+&amp;#8226; the work to be performed required the appointment of a highly skilled person within the meaning of r 5.19(3).</sentence>
 <sentence id="s21">6 It is important to set out the terms of r 5.19(3) verbatim.</sentence>
 <sentence id="s22">That provision was in the following terms:
  (3) A person is a highly skilled person in relation to a nominated position if, in respect of work of the kind to be performed in that position: 
@@ -138,7 +138,7 @@
 <sentence id="s92">31 It is difficult to see the rationale for drawing such a distinction and there may be a degree of arbitrariness in such a construction.</sentence>
 <sentence id="s93">That is to say, it is difficult to see why the exception in r 5.19(3)(b) should be limited to a case where there was an approved appointment prior to the making of an application for a visa.</sentence>
 <sentence id="s94">32 In any event, the question of whether an approved appointment is exceptional is not one for the decision maker in relation to the application for a visa.</sentence>
-<sentence id="s95">The scheme of the provisions indicates that decisions concerning the approval of an appointment, and whether an approved appointment is exceptional, are to be made independently of the decision on an application for a visa (see An v Minister for Immigration &amp; Citizenship [2007] FCAFC 97 ; (2007) 160 FCR 480).</sentence>
+<sentence id="s95">The scheme of the provisions indicates that decisions concerning the approval of an appointment, and whether an approved appointment is exceptional, are to be made independently of the decision on an application for a visa (see An v Minister for Immigration &amp;amp; Citizenship [2007] FCAFC 97 ; (2007) 160 FCR 480).</sentence>
 <sentence id="s96">The application for approval of an appointment is made by an employer and there is a separate process and regime for dealing with such an application.</sentence>
 <sentence id="s97">Thus, it was not part of the function of the Tribunal, in reviewing the application by the Visa Applicant, to consider whether or not the position of sales and marketing manager in the business of the Employer was exceptional.</sentence>
 <sentence id="s98">The regime for that decision is independent of the granting of the relevant visa.</sentence>

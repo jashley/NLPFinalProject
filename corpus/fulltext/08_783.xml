@@ -3,16 +3,16 @@
 <name>Re Universal Music (Australia) Pty Ltd v Sharman Licence Holdings Ltd; Ex parte Merlin BV [2008] FCA 783 (28 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/783.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">non-party applied to inspect court file of defunct proceedings</catchphrase>
-<catchphrase "id=c1">application for inspection made for the purposes of litigation where orders for preliminary discovery would not be available</catchphrase>
-<catchphrase "id=c2">application for inspection not limited to documents admitted into evidence</catchphrase>
-<catchphrase "id=c3">leave to inspect ordinarily to be granted except where the interests of justice require otherwise</catchphrase>
-<catchphrase "id=c4">open justice</catchphrase>
-<catchphrase "id=c5">access to justice</catchphrase>
-<catchphrase "id=c6">leave to inspect limited to affidavit material admitted into evidence</catchphrase>
-<catchphrase "id=c7">exhibits not the property of the court</catchphrase>
-<catchphrase "id=c8">leave to inspect exhibits refused</catchphrase>
-<catchphrase "id=c9">procedure</catchphrase>
+<catchphrase id="c0">non-party applied to inspect court file of defunct proceedings</catchphrase>
+<catchphrase id="c1">application for inspection made for the purposes of litigation where orders for preliminary discovery would not be available</catchphrase>
+<catchphrase id="c2">application for inspection not limited to documents admitted into evidence</catchphrase>
+<catchphrase id="c3">leave to inspect ordinarily to be granted except where the interests of justice require otherwise</catchphrase>
+<catchphrase id="c4">open justice</catchphrase>
+<catchphrase id="c5">access to justice</catchphrase>
+<catchphrase id="c6">leave to inspect limited to affidavit material admitted into evidence</catchphrase>
+<catchphrase id="c7">exhibits not the property of the court</catchphrase>
+<catchphrase id="c8">leave to inspect exhibits refused</catchphrase>
+<catchphrase id="c9">procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -89,7 +89,7 @@
  
 (f) all affidavits of Ms Ball of Gilbert + Tobin concerning the evidence of specific infringements collected by her;
  
-(g) the digital music files collected from university campuses on the execution of Anton Piller orders on 6 February 2004 copied by Mr Lyons from computers at the offices of Baker &amp; McKenzie; and
+(g) the digital music files collected from university campuses on the execution of Anton Piller orders on 6 February 2004 copied by Mr Lyons from computers at the offices of Baker &amp;amp; McKenzie; and
  
 (h) all affidavits of Mr Lyons related or referring to this material.</sentence>
 <sentence id="s38">20 Ms Robb also says in her affidavit that she believes any method other than access under O 46 r 6 would be attended by significantly greater cost and difficulty, including costs to be incurred by third parties.</sentence>
@@ -200,7 +200,7 @@
 23 According to Merlin's written submissions, the key information which is sought through the current applications is as follows:
  
  
- &#8226; Results of searches conducted between June and September 2004 of works in the ARIA top 50 or 100 most popular records which had been made available for file sharing and downloading by Kazaa members.</sentence>
+ &amp;#8226; Results of searches conducted between June and September 2004 of works in the ARIA top 50 or 100 most popular records which had been made available for file sharing and downloading by Kazaa members.</sentence>
 <sentence id="s66">At least some of these results are contained in affidavits of Mr Ellis [filed in the Kazaa proceedings] : Judgment [64] --- [66], Robb 5.7.</sentence>
 <sentence id="s67">This information was publicly available and non-confidential when gathered by Mr Ellis, but cannot now be replicated; 
  
@@ -208,7 +208,7 @@
  
  
  
- &#8226; Data images of music downloads which Merlin understands the Applicants deployed [in the Kazaa proceeding] for the relevant period of alleged infringement and which would be likely to evidence "downloading" of sound recordings owned by Merlin members: Sharman Judgment [237] --- [242] and Robb 5.10.</sentence>
+ &amp;#8226; Data images of music downloads which Merlin understands the Applicants deployed [in the Kazaa proceeding] for the relevant period of alleged infringement and which would be likely to evidence "downloading" of sound recordings owned by Merlin members: Sharman Judgment [237] --- [242] and Robb 5.10.</sentence>
 <sentence id="s68">Although the witness Mr Mizzone was concerned about the confidentiality of the technical means deployed to gather this data, the data itself and the results of his inquiries were in an open affidavit: Judgment [238].</sentence>
 <sentence id="s69">
  
@@ -237,7 +237,7 @@ O 46 r 6(4), a non-party must not inspect a document that is not referred to in 
  
 30 With the exception of one authority to which I will refer later, the principles which govern the exercise of the discretion to grant access by a non-party under O 46 r 6 are to be found in cases dealing with applications by media organisations.</sentence>
 <sentence id="s83">31 This is hardly surprising because the principle which informs the exercise of the power is that of open justice, the underlying rationale being the belief that exposure to public scrutiny is the surest safeguard against abuse of power of the courts: see Seven Network at [21]ff; Re Richstar Enterprises Pty Ltd; Australian Securities and Investments Commission v Carey (No 2) (2006) 232 ALR 398 at [16]ff; Rich v Harrington (2007) 99 ALD 297 at [17]ff.</sentence>
-<sentence id="s84">32 In Australian Competition and Consumer Commission v ABB Transmission &amp; Distribution Ltd (No 3) [2002] FCA 609 , Finkelstein J said at [7] that the proper approach is that access should be allowed unless the interests of justice require a different course.</sentence>
+<sentence id="s84">32 In Australian Competition and Consumer Commission v ABB Transmission &amp;amp; Distribution Ltd (No 3) [2002] FCA 609 , Finkelstein J said at [7] that the proper approach is that access should be allowed unless the interests of justice require a different course.</sentence>
 <sentence id="s85">His Honour went on to say that there is a strong presumption in favour of allowing any member of the public who wishes to do so to inspect any document or thing that is put into evidence.</sentence>
 <sentence id="s86">33 Sackville J has expressed his agreement with the abovementioned statements of principle by Finkelstein J: Seven Network at [25].</sentence>
 <sentence id="s87">However, I do not think it follows that the principle is as broad as was submitted by Dr Bell SC for Merlin.</sentence>
@@ -300,7 +300,7 @@ O 46 r 6(4), a non-party must not inspect a document that is not referred to in 
 48 Nevertheless, the approach taken by his Lordship was not as narrow as this passage might suggest.</sentence>
 <sentence id="s127">FAI General Insurance Co Ltd sought access to counsel's written submissions in the proceedings to identify documents that might be the subject of a subpoena in parallel litigation.</sentence>
 <sentence id="s128">His Lordship at 996 regarded this as a legitimate purpose for the grant of access to the documents.</sentence>
-<sentence id="s129">49 In Dian AO v Davis Frankel &amp; Mead (a firm) [2005] 1 All ER 1074, a non-party applied to the court for permission to inspect and copy the court file in proceedings which had been concluded by compromise some eight years earlier.</sentence>
+<sentence id="s129">49 In Dian AO v Davis Frankel &amp;amp; Mead (a firm) [2005] 1 All ER 1074, a non-party applied to the court for permission to inspect and copy the court file in proceedings which had been concluded by compromise some eight years earlier.</sentence>
 <sentence id="s130">The non-party made the application in the hope of obtaining information which would be of use to it in litigation which was on foot in the British Virgin Islands.</sentence>
 <sentence id="s131">50 Moore-Bick J granted access to affidavits and pleadings notwithstanding the substantial delay.</sentence>
 <sentence id="s132">Of course, he did so under the relevant English rules of court but a number of his observations are in my view applicable to the regime established under O 46 r 6.</sentence>
@@ -401,7 +401,7 @@ Dated: 28 May 2008
  
  Counsel for the Sixth to Ninth Respondents: J C Hewitt 
  
- Solicitors for the Sixth to Ninth Respondents: Landerer &amp; Co 
+ Solicitors for the Sixth to Ninth Respondents: Landerer &amp;amp; Co 
  
  
 Date of Hearing: 23 April 2008

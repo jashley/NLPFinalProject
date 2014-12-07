@@ -3,30 +3,30 @@
 <name>Elecon Australia Pty Ltd v Brevini Australia Pty Ltd [2009] FCA 1327 (17 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1327.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">expert evidence about foreign law</catchphrase>
-<catchphrase "id=c1">tests to be applied.</catchphrase>
-<catchphrase "id=c2">whether termination of a contract might be attributed to a legal cause in existence at the time of termination but not relied upon</catchphrase>
-<catchphrase "id=c3">anticipatory breach</catchphrase>
-<catchphrase "id=c4">need to show that a party is wholly and finally disabled from performance on the date when performance is required.</catchphrase>
-<catchphrase "id=c5">breach of confidence</catchphrase>
-<catchphrase "id=c6">whether confidential information is property</catchphrase>
-<catchphrase "id=c7">whether confidential information may be protected if not property</catchphrase>
-<catchphrase "id=c8">whether an entity entitled to the benefit of an express covenant of confidence must be joined to proceedings commenced by a party to whom the confidential information was assigned.</catchphrase>
-<catchphrase "id=c9">passing off</catchphrase>
-<catchphrase "id=c10">need to plead damage as an element of the cause of action.</catchphrase>
-<catchphrase "id=c11">consideration of prior use by a predecessor in title</catchphrase>
-<catchphrase "id=c12">prior use includes use by a person under the control of the predecessor in title.</catchphrase>
-<catchphrase "id=c13">misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c14">evidence of consumers and retailers as to the likelihood of deception critical if a special market is involved</catchphrase>
-<catchphrase "id=c15">accessorial liability under s 75b of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c16">need to show intentional participation</catchphrase>
-<catchphrase "id=c17">failure to plead necessary mental elements.</catchphrase>
-<catchphrase "id=c18">evidence</catchphrase>
-<catchphrase "id=c19">contracts</catchphrase>
-<catchphrase "id=c20">equity</catchphrase>
-<catchphrase "id=c21">tort</catchphrase>
-<catchphrase "id=c22">trade marks</catchphrase>
-<catchphrase "id=c23">trade practices</catchphrase>
+<catchphrase id="c0">expert evidence about foreign law</catchphrase>
+<catchphrase id="c1">tests to be applied.</catchphrase>
+<catchphrase id="c2">whether termination of a contract might be attributed to a legal cause in existence at the time of termination but not relied upon</catchphrase>
+<catchphrase id="c3">anticipatory breach</catchphrase>
+<catchphrase id="c4">need to show that a party is wholly and finally disabled from performance on the date when performance is required.</catchphrase>
+<catchphrase id="c5">breach of confidence</catchphrase>
+<catchphrase id="c6">whether confidential information is property</catchphrase>
+<catchphrase id="c7">whether confidential information may be protected if not property</catchphrase>
+<catchphrase id="c8">whether an entity entitled to the benefit of an express covenant of confidence must be joined to proceedings commenced by a party to whom the confidential information was assigned.</catchphrase>
+<catchphrase id="c9">passing off</catchphrase>
+<catchphrase id="c10">need to plead damage as an element of the cause of action.</catchphrase>
+<catchphrase id="c11">consideration of prior use by a predecessor in title</catchphrase>
+<catchphrase id="c12">prior use includes use by a person under the control of the predecessor in title.</catchphrase>
+<catchphrase id="c13">misleading and deceptive conduct</catchphrase>
+<catchphrase id="c14">evidence of consumers and retailers as to the likelihood of deception critical if a special market is involved</catchphrase>
+<catchphrase id="c15">accessorial liability under s 75b of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c16">need to show intentional participation</catchphrase>
+<catchphrase id="c17">failure to plead necessary mental elements.</catchphrase>
+<catchphrase id="c18">evidence</catchphrase>
+<catchphrase id="c19">contracts</catchphrase>
+<catchphrase id="c20">equity</catchphrase>
+<catchphrase id="c21">tort</catchphrase>
+<catchphrase id="c22">trade marks</catchphrase>
+<catchphrase id="c23">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">BUCHANAN J: TABLE OF CONTENTS INTRODUCTION [1] The two proceedings [1] The parties in NSD 1955 of 2004 [2] General Background [6] THE KNOW-HOW CONTRACT [24] Governing law of the contract [25] The subject matter of the contract [50] The territorial reach of the contract [63] Termination of the contract [74] The operation of clause 16 [74] Each party purports to terminate [97] The effect of valid non-stated grounds for termination [123] Was PIV Antrieb in breach?</sentence>
@@ -40,7 +40,7 @@
 <sentence id="s5">It is convenient therefore to deal primarily with NSD 1955 of 2004.</sentence>
 <sentence id="s6">The parties in NSD 1955 of 2004
  The first applicant ("PIV Drives"), a German company, is the assignee of intellectual property owned by another German company, P.I.V.</sentence>
-<sentence id="s7">Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+<sentence id="s7">Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s8">KG ("PIV Antrieb") which is in "insolvency administration" pursuant to court orders made in Germany.</sentence>
 <sentence id="s9">The second applicant ("Brevini Australia"), an Australian company, is a subsidiary of Brevini Riduttori SpA/Brevini International Holdings B.V., ("Brevini Italy"), an Italian company which is the ultimate owner of PIV Drives.</sentence>
 <sentence id="s10">Brevini Australia has the right, in Australia, to exploit the intellectual property of PIV Drives.</sentence>
@@ -56,7 +56,7 @@
 <sentence id="s19">In 1928 a company was formed in Germany to exploit the invention.</sentence>
 <sentence id="s20">It was called Ketten-und Getrebe GmbH.</sentence>
 <sentence id="s21">In 1936 the name of the company was changed to P.I.V.</sentence>
-<sentence id="s22">Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+<sentence id="s22">Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s23">KG.</sentence>
 <sentence id="s24">Mr Kissel deposed that during the 1940s to 1960s PIV Antrieb developed a number of industry specific variable speed drives including a high performance continuous variable transmission which became the basis of the "Multi-tronic" transmission used in the automobile industry.</sentence>
 <sentence id="s25">During the late 1970s parallel and right angle shift gear reducers with universal mounting arrangements were designed and developed by PIV Antrieb.</sentence>
@@ -110,7 +110,7 @@
 <sentence id="s73">It will be necessary, in due course, to say a little more about the letter of 30 January 2001.</sentence>
 <sentence id="s74">It appeared to foreshadow termination of the know-how contract but it became clear that it was not treated by the parties as effective notice of termination of the contract.</sentence>
 <sentence id="s75">It appears from the evidence that, as part of his administration of the business and assets of PIV Antrieb, Dr Wellensiek was a party to plans and arrangements to transfer the assets, but not existing contractual rights and obligations, to a new company which in due course became known by the name of the first applicant.</sentence>
-<sentence id="s76">Initially, a contract was executed on 25 October 2001 (to take effect on 1 November 2001) between Dr Wellensiek as insolvency administrator of PIV Antrieb and a company then known as Einhunderteinste Verm&ouml;gensverwaltungsgesellschaft mbH Frankfurt ("Einhunderteinste").</sentence>
+<sentence id="s76">Initially, a contract was executed on 25 October 2001 (to take effect on 1 November 2001) between Dr Wellensiek as insolvency administrator of PIV Antrieb and a company then known as Einhunderteinste Verm&amp;ouml;gensverwaltungsgesellschaft mbH Frankfurt ("Einhunderteinste").</sentence>
 <sentence id="s77">Mr Kissel signed the asset sale agreement on behalf of the purchaser.</sentence>
 <sentence id="s78">Then, on 31 October 2001, employment of all of the staff of PIV Antrieb was terminated and on 1 November 2001 a substantial number of those staff, including the whole design division and senior management such as Mr Kissel, became employed by Einhunderteinste.</sentence>
 <sentence id="s79">On the same day, Einhunderteinste was purchased by Brevini Italy.</sentence>
@@ -130,7 +130,7 @@
 <sentence id="s93">The representative of Elecon Engineering claimed various breaches of the know-how agreement and claimed compensation.</sentence>
 <sentence id="s94">In his letter of July 2004, Elecon Engineering's representative claimed, apparently for the first time, and somewhat confusingly having regard to other aspects of the letter, that Elecon Engineering had retained the right to continue using the technical information which had been transmitted by PIV Antrieb and to manufacture gearboxes using that information.</sentence>
 <sentence id="s95">Although the letters make no reference to it things had, at the same time, come to a head in Australia.</sentence>
-<sentence id="s96">In about April 2004, a joint venture between Barclay Mowlem Construction Pty Limited and Roberts &amp; Schaefer Pty Limited ("the Barclay Mowlem joint venture") was awarded a contract to design and construct a coal handling and preparation plant to be located at the Blackwater coal mine in central Queensland.</sentence>
+<sentence id="s96">In about April 2004, a joint venture between Barclay Mowlem Construction Pty Limited and Roberts &amp;amp; Schaefer Pty Limited ("the Barclay Mowlem joint venture") was awarded a contract to design and construct a coal handling and preparation plant to be located at the Blackwater coal mine in central Queensland.</sentence>
 <sentence id="s97">Elecon Australia won a tender to supply conveyor drives to the joint venture.</sentence>
 <sentence id="s98">Brevini Australia had tendered also for this contract but was unsuccessful.</sentence>
 <sentence id="s99">On or about 17 September 2004, upon becoming aware that Elecon Australia's tender had been accepted, Brevini Australia made some suggestion to representatives of the Barclay Mowlem joint venture that Elecon Australia did not have the right in Australia to sell the gear units which it proposed to provide to the joint venture.</sentence>
@@ -196,7 +196,7 @@
 <sentence id="s137">Other matters will require specific mention when I deal with particular aspects of the know-how contract.</sentence>
 <sentence id="s138">However, some general points may conveniently be made at this stage.</sentence>
 <sentence id="s139">Indian law closely follows English law.</sentence>
-<sentence id="s140">One of the leading texts on Indian contract law is Pollock &amp; Mulla --- Indian Contract and Specific Relief Acts ("Mulla") which was first published in 1905 and is now in its 13 th edition (Padia RG (ed), 2006, LexisNexis Butterworths).</sentence>
+<sentence id="s140">One of the leading texts on Indian contract law is Pollock &amp;amp; Mulla --- Indian Contract and Specific Relief Acts ("Mulla") which was first published in 1905 and is now in its 13 th edition (Padia RG (ed), 2006, LexisNexis Butterworths).</sentence>
 <sentence id="s141">Mr Vahanvati made frequent reference to Mulla as an authoritative exposition of the principles of Indian contract law.</sentence>
 <sentence id="s142">In his discussion of the subject it became clear, as it is also from Mulla, that the law appropriated from England must be read subject to any relevant Indian statutory provision, particularly the Indian Contract Act 1872 which, although not exhaustive, has primary force where applicable and also ss 91 and 92 of the Indian Evidence Act 1872 .</sentence>
 <sentence id="s143">Two matters arising from this discussion might be mentioned at once.</sentence>
@@ -875,9 +875,9 @@ A construction which preserves the order of words chosen by the parties is, in m
 <sentence id="s401">It was advised to Elecon Engineering by the insolvency administrator, Dr Wellensiek, in a letter dated 12 March 2001 which said, relevantly: 
  
  Insolvency proceedings for the assets of 
- PIV Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+ PIV Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s402">KG, 
- Industriestra&szlig;e 3, 61352 Bad Homburg 
+ Industriestra&amp;szlig;e 3, 61352 Bad Homburg 
  
 
  
@@ -892,7 +892,7 @@ A construction which preserves the order of words chosen by the parties is, in m
 
  
  
- In accordance with the decree of the Bad Homburg v.d. H&ouml;he local court dated 28/02/2001 (photocopy enclosed), insolvency proceedings for the assets of PIV Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+ In accordance with the decree of the Bad Homburg v.d. H&amp;ouml;he local court dated 28/02/2001 (photocopy enclosed), insolvency proceedings for the assets of PIV Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s403">KG --- filed for on 11/01/2001 --- have been instituted effective 01/03/2001 and the undersigned has been appointed insolvency administrator.</sentence>
 <sentence id="s404">
  
@@ -974,7 +974,7 @@ A construction which preserves the order of words chosen by the parties is, in m
 <sentence id="s448">The letter said: 
  
  Subject: Takeover of P.I.V.</sentence>
-<sentence id="s449">Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+<sentence id="s449">Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s450">KG 
  
 
@@ -995,7 +995,7 @@ A construction which preserves the order of words chosen by the parties is, in m
  
  
  We have now come to know that P.I.V.</sentence>
-<sentence id="s455">Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+<sentence id="s455">Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s456">KG has now been taken over by an Italian Company.</sentence>
 <sentence id="s457">In terms of Clause 16 of the Contract, we would like to know the present position of the Company, as also whether the Company has been taken over by any other company or persons and if yes, complete details of the acquirer so as to enable us to take necessary steps, in terms of the Knowhow Contract.</sentence>
 <sentence id="s458">
@@ -1006,7 +1006,7 @@ A construction which preserves the order of words chosen by the parties is, in m
 <sentence id="s460">It read: 
  
  Insolvency procedure concerning the fortune of the company 
- PIV Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+ PIV Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s461">KG, Bad Homburg v.d.H.</sentence>
 <sentence id="s462">
  Know-How Contract 
@@ -1019,7 +1019,7 @@ A construction which preserves the order of words chosen by the parties is, in m
 
  
  
- We would like to inform you hereby, that the business activity of the company PIV Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+ We would like to inform you hereby, that the business activity of the company PIV Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s463">KG, was transferred with effect of 01.11.2001 to a new society.</sentence>
 <sentence id="s464">The new society's name is PIV Drives GmbH.</sentence>
 <sentence id="s465">
@@ -1049,7 +1049,7 @@ A construction which preserves the order of words chosen by the parties is, in m
  
  Subject: Transfer of Business Activity of P.I.V.</sentence>
 <sentence id="s476">Antrieb Werner Reimers
- GmbH &amp; Co.</sentence>
+ GmbH &amp;amp; Co.</sentence>
 <sentence id="s477">KG.</sentence>
 <sentence id="s478">with effect from 01.11.2001.</sentence>
 <sentence id="s479">
@@ -1063,7 +1063,7 @@ A construction which preserves the order of words chosen by the parties is, in m
  
  
  We are in receipt of a Letter from PIV Drives GmbH, Bad Homburg dates January 14, 2002 informing us that the business activity of P.I.V.</sentence>
-<sentence id="s480">Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+<sentence id="s480">Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s481">KG.</sentence>
 <sentence id="s482">was transferred with effect from 01.11.2001 to a new society namely PIV Drives GmbH.</sentence>
 <sentence id="s483">
@@ -1072,7 +1072,7 @@ A construction which preserves the order of words chosen by the parties is, in m
  
  
  As per the terms of the Know How Contract entered into between P.I.V.</sentence>
-<sentence id="s484">Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+<sentence id="s484">Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s485">KG, Germany (herein after referred to as PIV) and Elecon Engineering Co. Ltd., India (herein after referred to as Elecon) dated March 26, 1998, Clause 16 which refers to the circumstances leading to Termination of the Contract, states that the agreement can be terminated by the Licensor or Licensee upon any one of the two going into bankruptcy, liquidation or court receivership without any liability or claim on the other party for such an event.</sentence>
 <sentence id="s486">The Licensor or Licensee shall have a right of termination of agreement without any liability, on account of change of ownership with a major change in management.</sentence>
 <sentence id="s487">
@@ -1089,7 +1089,7 @@ A construction which preserves the order of words chosen by the parties is, in m
  We have been informed in the past that Mr. Peter Jansen and his colleague from M/S Brevini would visit Elecon for discussion in the matter of the Knowhow Contract.</sentence>
 <sentence id="s489">We would like to know when they would like to visit us in India.</sentence>
 <sentence id="s490">While we are still open to have further discussion as to the continuation of business, we hereby would like to convey that in view of the information we have on the status of P.I.V.</sentence>
-<sentence id="s491">Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+<sentence id="s491">Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s492">KG, Germany, this may be treated as a Notice of Termination of the said Know How Contract and that Elecon Engineering Co. Ltd., Gujarat, India be considered as absolved from any obligations under the said Contract with effect from the date of transfer of business and/or change of ownership with a major change in management .</sentence>
 <sentence id="s493">
  
@@ -1109,8 +1109,8 @@ A construction which preserves the order of words chosen by the parties is, in m
 <sentence id="s500">Had the question, therefore, been simply whether this letter of 25 March 2002 was effective by reference to its own terms to terminate the know-how contract I would have concluded that it was not.</sentence>
 <sentence id="s501">I would have concluded that the know-how contract was terminated shortly thereafter by the letter dated 22 May 2002 from Dr Wellensiek to Elecon Engineering which was in the following terms: 
  
- Insolvency Proceedings regarding the Assets of the Company PIV Antrieb Werner Reimers GmbH &amp; Co.</sentence>
-<sentence id="s502">KG, Industriestra&szlig;e 3, D - 61352 Bad Homburg 
+ Insolvency Proceedings regarding the Assets of the Company PIV Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
+<sentence id="s502">KG, Industriestra&amp;szlig;e 3, D - 61352 Bad Homburg 
  
 
  
@@ -1125,14 +1125,14 @@ A construction which preserves the order of words chosen by the parties is, in m
 
  
  
- In respect of the above matter I inform you that with a decision of the district court of Bad Homburg vor der H&ouml;he from the 28.02.2001 with effect from 01.03.2001 insolvency proceedings were opened regarding the assets of PIV Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+ In respect of the above matter I inform you that with a decision of the district court of Bad Homburg vor der H&amp;ouml;he from the 28.02.2001 with effect from 01.03.2001 insolvency proceedings were opened regarding the assets of PIV Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s503">KG and the undersigned was appointed insolvency administrator.</sentence>
 <sentence id="s504">
  
 
  
  
- Since 26.03.1998 there has been a know-how contract in existence which was concluded at that time between PIV Antrieb Werner Reimers GmbH &amp; Co.</sentence>
+ Since 26.03.1998 there has been a know-how contract in existence which was concluded at that time between PIV Antrieb Werner Reimers GmbH &amp;amp; Co.</sentence>
 <sentence id="s505">KG and your Company.</sentence>
 <sentence id="s506">Article 16 of the contract provides for the fact that if one of the two contractual partners becomes insolvent each contractual partner has the right to terminate the contract.</sentence>
 <sentence id="s507">
@@ -1173,7 +1173,7 @@ A construction which preserves the order of words chosen by the parties is, in m
 <sentence id="s528">It will be necessary, in that connection, to give some attention to whether Dr Wellensiek's actions may be fairly described as anticipatory breach of the know-how contract, even if the time for performance had not arisen and to also consider whether the letter of 25 March 2002, which clearly intended to terminate the contract, was effective to do so on the ground of insolvency proceedings although it did not, in its terms, rely upon that ground.</sentence>
 <sentence id="s529">In Sunbird Plaza Pty Ltd v Maloney (1988) 166 CLR 245 (" Sunbird ") Mason CJ (with whom Deane, Dawson and Toohey JJ agreed) identified the common law principle (as applied in Australia) which requires attention at the moment as follows (at 262): 
  
- Shepherd v Felt &amp; Textiles of Australia Ltd stands as authority for the general proposition that a termination of a contract may be justified by reference to any ground that was valid at the time of termination, even though it was not relied on at the time and even though the ground actually relied on is found to be without substance.</sentence>
+ Shepherd v Felt &amp;amp; Textiles of Australia Ltd stands as authority for the general proposition that a termination of a contract may be justified by reference to any ground that was valid at the time of termination, even though it was not relied on at the time and even though the ground actually relied on is found to be without substance.</sentence>
 <sentence id="s530">(References omitted.</sentence>
 <sentence id="s531">) 
  
@@ -1356,7 +1356,7 @@ and (at page 16):
  between
  ELECON ENGINEERING CO. LTD (ELECON)
  and
- PIV ANTRIEB WERNER REIMERS GMBH &amp; CO KG (PIV) 
+ PIV ANTRIEB WERNER REIMERS GMBH &amp;amp; CO KG (PIV) 
  
 
  
@@ -1371,7 +1371,7 @@ and (at page 16):
  
  
  ELECON Mr. B.I.</sentence>
-<sentence id="s616">Patel Chairman &amp; Managing Director
+<sentence id="s616">Patel Chairman &amp;amp; Managing Director
  Mr. P B. Patel Managing Director 
  
 
@@ -1383,7 +1383,7 @@ and (at page 16):
  
  
  PIV Dr. Recktenwald Managing Director
- Mr. Jan&szlig;en Business Unit Manager
+ Mr. Jan&amp;szlig;en Business Unit Manager
  Mr. Pfaff Business Unit Manager 
  
 
@@ -1508,7 +1508,7 @@ and (at page 16):
  Between
  ELECON ENGINEERING CO. LTD (ELECON)
  AND
- PIV ANTRIEB WERNER REIMERS GMBH &amp; CO KG (PIV) 
+ PIV ANTRIEB WERNER REIMERS GMBH &amp;amp; CO KG (PIV) 
  
 
  
@@ -1548,7 +1548,7 @@ and (at page 16):
 
  
  
- Further to the Confidential Agreement between ELECON ENGINEERING CO. LTD. (ELECON) and PIV ANTRIEB WERNER REIMERS GmbH &amp; Co KG (PIV) dated April 13 th , 2000 PIV has transferred all drawings existing at this date related to the Posired 2 programme as per catalogues: 
+ Further to the Confidential Agreement between ELECON ENGINEERING CO. LTD. (ELECON) and PIV ANTRIEB WERNER REIMERS GmbH &amp;amp; Co KG (PIV) dated April 13 th , 2000 PIV has transferred all drawings existing at this date related to the Posired 2 programme as per catalogues: 
  
 
  
@@ -2092,7 +2092,7 @@ and (at page 16):
  
  
  
- ' In technical collaboration with PIV Antrieb Werner Reimers GmbH &amp; Co, Bad Hamburg [sic] , Germany.</sentence>
+ ' In technical collaboration with PIV Antrieb Werner Reimers GmbH &amp;amp; Co, Bad Hamburg [sic] , Germany.</sentence>
 <sentence id="s1007">' 
  
  
@@ -2122,9 +2122,9 @@ and (at page 16):
  
  
  
- 267.4.1 'Elecon has recently introduced monoblock catalogue industrial gear box in the country in Technical Collaboration with PIV Antrieb Werner Reimers GmbH &amp; Co, Germany'.</sentence>
+ 267.4.1 'Elecon has recently introduced monoblock catalogue industrial gear box in the country in Technical Collaboration with PIV Antrieb Werner Reimers GmbH &amp;amp; Co, Germany'.</sentence>
 <sentence id="s1009">
- 267.4.2 'Elecon --- PIV POSIRED 2 solid &amp; Hollow shaft Modular gear units with high degree of flexibility as regards to Mountings positions.</sentence>
+ 267.4.2 'Elecon --- PIV POSIRED 2 solid &amp;amp; Hollow shaft Modular gear units with high degree of flexibility as regards to Mountings positions.</sentence>
 <sentence id="s1010">' 
  267.4.3 'Elecon-PIV Posirex single draft extruder gear units.</sentence>
 <sentence id="s1011">' 
@@ -2144,62 +2144,62 @@ and (at page 16):
 <sentence id="s1016">That printout did not, in terms, say that helical gears in the EP-series "were produced" in technical collaboration with PIV Antrieb.</sentence>
 <sentence id="s1017">Rather, it said the following: 
  
- &#9688; In technical collaboration with P.I.V.</sentence>
-<sentence id="s1018">Antrieb Werner Relimers [sic] GmbH &amp; Co., Bad Hamburg [sic], Germany 
+ &amp;#9688; In technical collaboration with P.I.V.</sentence>
+<sentence id="s1018">Antrieb Werner Relimers [sic] GmbH &amp;amp; Co., Bad Hamburg [sic], Germany 
  
 
  
  
- &#9688; EP Series design based on Modular gear concept.</sentence>
+ &amp;#9688; EP Series design based on Modular gear concept.</sentence>
 <sentence id="s1019">
  
 
  
  
- &#9688; Monoblock housing for sizes up to 31 and split housing for sized 35 to 67.</sentence>
+ &amp;#9688; Monoblock housing for sizes up to 31 and split housing for sized 35 to 67.</sentence>
 <sentence id="s1020">
  
 
  
  
- &#9688; Mounting position --- Horizontal, Verticle [sic] or Inverted.</sentence>
+ &amp;#9688; Mounting position --- Horizontal, Verticle [sic] or Inverted.</sentence>
 <sentence id="s1021">
  
 
  
  
- &#9688; Common housing for Helical as well as Spiral cum Helical Gear units.</sentence>
+ &amp;#9688; Common housing for Helical as well as Spiral cum Helical Gear units.</sentence>
 <sentence id="s1022">
  
 
  
  
- &#9688; Case hardened and ground gears with profile correction for optimum load carrying capacity.</sentence>
+ &amp;#9688; Case hardened and ground gears with profile correction for optimum load carrying capacity.</sentence>
 <sentence id="s1023">
  
 
  
  
- &#9688; Splash lubricated gear and bearings are standard.</sentence>
+ &amp;#9688; Splash lubricated gear and bearings are standard.</sentence>
 <sentence id="s1024">Forced lubrication by built-on or motor driven pump is optional.</sentence>
 <sentence id="s1025">
  
 
  
  
- &#9688; Additional cooling devices like fan cooling, cooling coil, external oil cooler etc., depending upon service conditions.</sentence>
+ &amp;#9688; Additional cooling devices like fan cooling, cooling coil, external oil cooler etc., depending upon service conditions.</sentence>
 <sentence id="s1026">
  
 
  
  
- &#9688; Output shaft execution with the following options:
- &#8226; Solid shaft
- &#8226; Hollow shaft with key
- &#8226; Hollow shaft with shrink disc
- &#8226; Output torque capacity : 4,80,000 [sic] Nm maximum
- &#8226; Ratio range : 1.25 --- 710
- &#8226; Input speed : 1,500 RPM (max.</sentence>
+ &amp;#9688; Output shaft execution with the following options:
+ &amp;#8226; Solid shaft
+ &amp;#8226; Hollow shaft with key
+ &amp;#8226; Hollow shaft with shrink disc
+ &amp;#8226; Output torque capacity : 4,80,000 [sic] Nm maximum
+ &amp;#8226; Ratio range : 1.25 --- 710
+ &amp;#8226; Input speed : 1,500 RPM (max.</sentence>
 <sentence id="s1027">) 
  
 
@@ -2419,7 +2419,7 @@ and:
 <sentence id="s1161">In Moorgate Tobacco Co Ltd v Philip Morris Ltd [1984] HCA 73 ; (1984) 156 CLR 414 Deane J (with whom the other four members of the Court agreed) said (at 437-438): 
  
  It is unnecessary, for the purposes of the present appeal, to attempt to define the precise scope of the equitable jurisdiction to grant relief against an actual or threatened abuse of confidential information not involving any tort or any breach of some express or implied contractual provision, some wider fiduciary duty or some copyright or trade mark right.</sentence>
-<sentence id="s1162">A general equitable jurisdiction to grant such relief has long been asserted and should, in my view, now be accepted: see The Commonwealth v. John Fairfax &amp; Sons Ltd .</sentence>
+<sentence id="s1162">A general equitable jurisdiction to grant such relief has long been asserted and should, in my view, now be accepted: see The Commonwealth v. John Fairfax &amp;amp; Sons Ltd .</sentence>
 <sentence id="s1163">Like most heads of exclusive equitable jurisdiction, its rational basis does not lie in proprietary right.</sentence>
 <sentence id="s1164">It lies in the notion of an obligation of conscience arising from the circumstances in or through which the information was communicated or obtained.</sentence>
 <sentence id="s1165">Relief under the jurisdiction is not available, however, unless it appears that the information in question has 'the necessary quality of confidence about it' (per Lord Greene M.R., Saltman ) and that it is significant, not necessarily in the sense of commercially valuable (see Argyll v. Argyll ) but in the sense that the preservation of its confidentiality or secrecy is of substantial concern to the plaintiff.</sentence>
@@ -2435,7 +2435,7 @@ and:
 <sentence id="s1172">At the time the information was communicated the right to its use lay exclusively with PIV Antrieb.</sentence>
 <sentence id="s1173">It now lies exclusively with PIV Drives.</sentence>
 <sentence id="s1174">I am satisfied that the preservation of its confidentiality or secrecy is of substantial concern to PIV Drives, that the information has the necessary quality of confidence about it and is also significant.</sentence>
-<sentence id="s1175">In Smith Kline &amp; French Laboratories (Aust) Ltd v Department of Community Services and Health [1989] FCA 384 ; (1990) 22 FCR 73 Gummow J said (at 87): 
+<sentence id="s1175">In Smith Kline &amp;amp; French Laboratories (Aust) Ltd v Department of Community Services and Health [1989] FCA 384 ; (1990) 22 FCR 73 Gummow J said (at 87): 
  
  A general formulation apt for the present case of an equitable obligation of confidence has four elements: (i) the plaintiff must be able to identify with specificity, and not merely in global terms, that which is said to be the information in question, and must be able to show that; (ii) the information has the necessary quality of confidentiality (and is not, for example, common or public knowledge); (iii) the information was received by the defendant in such circumstances as to import an obligation of confidence, and (iv) there is actual or threatened misuse of that information, without the consent of the plaintiff.</sentence>
 <sentence id="s1176">
@@ -2447,11 +2447,11 @@ and:
 <sentence id="s1179">Certain types of confidential information share characteristics with standard instances of property.</sentence>
 <sentence id="s1180">Thus trade secrets may be transferred, held in trust and charged.</sentence>
 <sentence id="s1181">There is no doubt, therefore, that PIV Drives' interest in the intellectual property which was assigned to it by Dr Wellensiek effective on 1 November 2001, and particularly the confidential information which was provided to Elecon Engineering, may, even if not property in the usual sense, be protected.</sentence>
-<sentence id="s1182">In TS &amp; B Retail Systems Pty Ltd v 3Fold Resources Pty Ltd (No 3) [2007] FCA 151 ; (2007) 158 FCR 444 , Finkelstein J decided that although confidential information was not property in the usual sense it may be passed by one person to another and the person to whom it had been imparted can take action to protect the information.</sentence>
+<sentence id="s1182">In TS &amp;amp; B Retail Systems Pty Ltd v 3Fold Resources Pty Ltd (No 3) [2007] FCA 151 ; (2007) 158 FCR 444 , Finkelstein J decided that although confidential information was not property in the usual sense it may be passed by one person to another and the person to whom it had been imparted can take action to protect the information.</sentence>
 <sentence id="s1183">His Honour concluded that this Court may grant both injunctions and equitable compensation in a cause of action for breach of confidence (see at [72]-[77]).</sentence>
 <sentence id="s1184">In the present case the benefit of the know-how contract was not assigned from PIV Antrieb to PIV Drives.</sentence>
 <sentence id="s1185">The cause of action for breach of confidence is not, therefore, based upon a contractual covenant.</sentence>
-<sentence id="s1186">It does not depend upon the assignment of a chose in action (cf Mid-City Skin Cancer &amp; Laser Centre Pty Ltd v Zahedi-Anarak [2006] NSWSC 844 ; (2006) 67 NSWLR 569 at [162] - [175] ).</sentence>
+<sentence id="s1186">It does not depend upon the assignment of a chose in action (cf Mid-City Skin Cancer &amp;amp; Laser Centre Pty Ltd v Zahedi-Anarak [2006] NSWSC 844 ; (2006) 67 NSWLR 569 at [162] - [175] ).</sentence>
 <sentence id="s1187">However, I see no reason to doubt that the interest in the confidential information was, in accordance with the observations in Farah Constructions , directly assignable, at least so far as Australian law is concerned.</sentence>
 <sentence id="s1188">In those circumstances PIV Drives' title to sue does not depend upon the assignment of any covenant under the know-how contract.</sentence>
 <sentence id="s1189">It was not necessary that PIV Antrieb be joined as a party.</sentence>

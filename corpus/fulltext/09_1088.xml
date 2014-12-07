@@ -3,12 +3,12 @@
 <name>Tropical Reef Shipyard Pty Ltd v QBE Insurance (Australia) Limited [2009] FCA 1088 (25 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1088.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">business interruption policy</catchphrase>
-<catchphrase "id=c1">indemnity for loss of weekly turnover</catchphrase>
-<catchphrase "id=c2">in some weeks there is a loss of turnover in other weeks a gain</catchphrase>
-<catchphrase "id=c3">construction of policy</catchphrase>
-<catchphrase "id=c4">gains not to be brought to account</catchphrase>
-<catchphrase "id=c5">insurance</catchphrase>
+<catchphrase id="c0">business interruption policy</catchphrase>
+<catchphrase id="c1">indemnity for loss of weekly turnover</catchphrase>
+<catchphrase id="c2">in some weeks there is a loss of turnover in other weeks a gain</catchphrase>
+<catchphrase id="c3">construction of policy</catchphrase>
+<catchphrase id="c4">gains not to be brought to account</catchphrase>
+<catchphrase id="c5">insurance</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -130,7 +130,7 @@
 <sentence id="s111">The question is whether, as currently pleaded, the claim is sustainable.</sentence>
 <sentence id="s112">In virtue of the answers already given it is not.</sentence>
 <sentence id="s113">It is not necessary to deal with the interesting argument concerning double insurance because this is not a case of double insurance.</sentence>
-<sentence id="s114">However, if it were such a case then, according to old authority, it is possible for the insured to recover his entire loss from several insurers: Bruce v Jones [1863] EngR 194 ; (1863) 1 H &amp; C 769.</sentence>
+<sentence id="s114">However, if it were such a case then, according to old authority, it is possible for the insured to recover his entire loss from several insurers: Bruce v Jones [1863] EngR 194 ; (1863) 1 H &amp;amp; C 769.</sentence>
 <sentence id="s115">The applicant should bring in short minutes of proposed orders to give effect to these reasons.</sentence>
 <sentence id="s116">It will be necessary to give directions as regards the further conduct of the case.</sentence>
 <sentence id="s117">On this, the parties should file what they regard as appropriate proposed directions within three days.</sentence>

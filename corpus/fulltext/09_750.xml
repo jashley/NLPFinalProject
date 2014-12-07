@@ -3,13 +3,13 @@
 <name>Communications Electrical Electronic Energy Information Postal Plumbing and Allied Services Union of Australia v Blue Star Pacific Pty Ltd [2009] FCA 750 (17 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/750.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">employee collective agreement</catchphrase>
-<catchphrase "id=c1">requirements of the workplace relations act 1996 (cth) for approval of an employee collective agreement</catchphrase>
-<catchphrase "id=c2">reasonable opportunity to decide within the meaning of s 340(2)</catchphrase>
-<catchphrase "id=c3">obligation on employer to provide the employees concerned with an appropriate time and occasion to meet together as a group, to discuss the provisions of the proposed employee collective agreement</catchphrase>
-<catchphrase "id=c4">whether false and misleading information on the ballot paper deprived the employees of a reasonable opportunity to decide</catchphrase>
-<catchphrase "id=c5">whether the ballot was conducted in a manner that ensured only eligible employees took part in the ballot.</catchphrase>
-<catchphrase "id=c6">industrial relations</catchphrase>
+<catchphrase id="c0">employee collective agreement</catchphrase>
+<catchphrase id="c1">requirements of the workplace relations act 1996 (cth) for approval of an employee collective agreement</catchphrase>
+<catchphrase id="c2">reasonable opportunity to decide within the meaning of s 340(2)</catchphrase>
+<catchphrase id="c3">obligation on employer to provide the employees concerned with an appropriate time and occasion to meet together as a group, to discuss the provisions of the proposed employee collective agreement</catchphrase>
+<catchphrase id="c4">whether false and misleading information on the ballot paper deprived the employees of a reasonable opportunity to decide</catchphrase>
+<catchphrase id="c5">whether the ballot was conducted in a manner that ensured only eligible employees took part in the ballot.</catchphrase>
+<catchphrase id="c6">industrial relations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -67,13 +67,13 @@
  
  Blue Star sends its employees a package of material
  On or about 12 February 2009, Blue Star sent to all its eligible employees a package of material which included the following: a copy of the proposed employee collective agreement ('the proposed agreement'); 
-&#8226; an information statement;
+&amp;#8226; an information statement;
  
-&#8226; a waiver form;
+&amp;#8226; a waiver form;
  
-&#8226; a ballot paper; and
+&amp;#8226; a ballot paper; and
  
-&#8226; an ordinary self-addressed envelope.</sentence>
+&amp;#8226; an ordinary self-addressed envelope.</sentence>
 <sentence id="s26">In sending this package of material to its employees, Blue Star was endeavouring to comply with s 337 of the WR Act.</sentence>
 <sentence id="s27">Among other things, that section required that all eligible employees are to have ready access to the proposed agreement for a period of seven days before the proposed agreement is approved.</sentence>
 <sentence id="s28">The expression 'employee collective agreement' came from s 327 of the WR Act which provided that: 
@@ -312,7 +312,7 @@ I respectfully agree with the distinction his Honour has drawn, albeit, as I hav
  In Karellas , Graham J held that: "... if the minds of the relevant employees were or were likely to be contaminated by misinformation about the ... agreement and its effect then it could be said that such employees were denied a 'reasonable opportunity to decide' whether they wanted to approve it": see at [49].</sentence>
 <sentence id="s219">In Karellas, Graham J did not have any evidence before him as to the actual effect of the alleged misinformation on the minds of any of the employees concerned.</sentence>
 <sentence id="s220">Nonetheless, his Honour held in favour of the applicant on the basis of the likely effect that the alleged misinformation had upon an employee's decision to vote one way or another: see at [54].</sentence>
-<sentence id="s221">These aspects of the decision were upheld on appeal to the Full Court: see Shop Distributive &amp; Allied Employees' Association v Karellas Investments Pty Ltd (2008) 166 FCR 562 ; [2008] FCAFC 42 as follows (at [54]): 
+<sentence id="s221">These aspects of the decision were upheld on appeal to the Full Court: see Shop Distributive &amp;amp; Allied Employees' Association v Karellas Investments Pty Ltd (2008) 166 FCR 562 ; [2008] FCAFC 42 as follows (at [54]): 
  By its cross-appeal, Karellas contends that the trial judge erred in finding that it breached s 341 of the Act.</sentence>
 <sentence id="s222">Karellas submits that such a finding was not open to his Honour in the absence of evidence concerning the effect of the information on the employees.</sentence>
 <sentence id="s223">His Honour had regard to the likely effect of the information on employees.</sentence>

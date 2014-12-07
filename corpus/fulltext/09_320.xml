@@ -3,12 +3,12 @@
 <name>Research in Motion Ltd v Samsung Electronics Australia Pty Limited [2009] FCA 320 (6 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/320.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to amend statement of claim and for further discovery</catchphrase>
-<catchphrase "id=c1">amendments sought to rely on doctrine of spoliation</catchphrase>
-<catchphrase "id=c2">whether proposition to be relied on at trial misconceived in law</catchphrase>
-<catchphrase "id=c3">whether proposed pleadings embarrassing and directed to matters of evidence</catchphrase>
-<catchphrase "id=c4">application refused</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">application for leave to amend statement of claim and for further discovery</catchphrase>
+<catchphrase id="c1">amendments sought to rely on doctrine of spoliation</catchphrase>
+<catchphrase id="c2">whether proposition to be relied on at trial misconceived in law</catchphrase>
+<catchphrase id="c3">whether proposed pleadings embarrassing and directed to matters of evidence</catchphrase>
+<catchphrase id="c4">application refused</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -97,7 +97,7 @@
 <sentence id="s62">If the matter that the amendment would raise is unlikely to succeed, then leave will generally not be given.</sentence>
 <sentence id="s63">For the reasons to be stated, I would not grant such leave in this case because: (1) the propositions that the applicants seek to advance in support of their case are misconceived in point of law; (2) the proposed pleading would be embarrassing within the meaning of O 11 r 16; and (3) the proposed pleading is in the main directed to matters of evidence.</sentence>
 <sentence id="s64">In order to explain why I have reached this conclusion, it is necessary to examine the three cases relied on by the applicants to support their pleading.</sentence>
-<sentence id="s65">Gray v Haig [1855] EngR 469 ; (1855) 20 Beav 219 concerned one Mr Gray, who was the agent for Haig &amp; Son, selling whisky on commission.</sentence>
+<sentence id="s65">Gray v Haig [1855] EngR 469 ; (1855) 20 Beav 219 concerned one Mr Gray, who was the agent for Haig &amp;amp; Son, selling whisky on commission.</sentence>
 <sentence id="s66">When his agency ended, a dispute arose as to the amount of the commission due and an account was ordered.</sentence>
 <sentence id="s67">However, after the dispute arose, Gray destroyed the books, on which the taking of the account depended.</sentence>
 <sentence id="s68">The Master of the Rolls held, at 226, that: 

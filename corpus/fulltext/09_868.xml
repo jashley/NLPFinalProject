@@ -3,11 +3,11 @@
 <name>Bella Products Pty Ltd v Creative Designs International Ltd [2009] FCA 868 (12 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/868.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">stay of proceedings</catchphrase>
-<catchphrase "id=c1">similar proceedings pending in united states</catchphrase>
-<catchphrase "id=c2">test to be applied for temporary stay on forum non conveniens grounds</catchphrase>
-<catchphrase "id=c3">relevant considerations</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase id="c0">stay of proceedings</catchphrase>
+<catchphrase id="c1">similar proceedings pending in united states</catchphrase>
+<catchphrase id="c2">test to be applied for temporary stay on forum non conveniens grounds</catchphrase>
+<catchphrase id="c3">relevant considerations</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -64,7 +64,7 @@
 <sentence id="s50">There are two states --- Maryland and Texas --- which have taken exception to the general rule and have declined to follow Dennick .</sentence>
 <sentence id="s51">The courts in Maryland follow Ash v Baltimore 19 A 643 (1890) where the Maryland Court of Appeal held that "the right of action given by statute for the death of an individual is not transitory, like the common-law right of action for personal injuries, but the operation and force of such a statute must be confined to the state enacting it, except where it can be extended by comity".</sentence>
 <sentence id="s52">It will only be extended if the forum state has a similar statute in force.</sentence>
-<sentence id="s53">Similarly, in Texas the courts look to whether there is a similar statute or, conversely, whether the statutes are so dissimilar as to prevent the court from exercising jurisdiction for breach of a foreign statute: see eg St Louis &amp; SFR Co v Sizemore 116 SW 403 (Tex Civ App 1909); De Herrera v Texas Mexican National Railroad Company 154 SW 594 (Tex Civ App 1913).</sentence>
+<sentence id="s53">Similarly, in Texas the courts look to whether there is a similar statute or, conversely, whether the statutes are so dissimilar as to prevent the court from exercising jurisdiction for breach of a foreign statute: see eg St Louis &amp;amp; SFR Co v Sizemore 116 SW 403 (Tex Civ App 1909); De Herrera v Texas Mexican National Railroad Company 154 SW 594 (Tex Civ App 1913).</sentence>
 <sentence id="s54">Each party has tendered evidence from a practicing US attorney dealing with the jurisdiction of the New York Supreme Court.</sentence>
 <sentence id="s55">I regret to have to say I found their evidence only partially instructive.</sentence>
 <sentence id="s56">Each attorney refers to the New York Civil Practice Law and Rules (CPLR), s 4511(b), which provides that "Every court may take judicial notice without request of... the laws of foreign countries and their political subdivisions.</sentence>

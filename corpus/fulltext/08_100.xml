@@ -3,17 +3,17 @@
 <name>Health World Limited v Shin-Sun Australia Pty Ltd [2008] FCA 100 (21 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/100.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trade marks</catchphrase>
-<catchphrase "id=c1">rectification proceedings</catchphrase>
-<catchphrase "id=c2">expungement proceedings</catchphrase>
-<catchphrase "id=c3">statute applies as it stood at the time of commencement of proceedings</catchphrase>
-<catchphrase "id=c4">no deceptive similarity between inner health plus and health plus</catchphrase>
-<catchphrase "id=c5">applicant in each proceeding lacked standing as 'a person aggrieved'</catchphrase>
-<catchphrase "id=c6">registered proprietor of health plus mark failed to demonstrate intention to use or actual use</catchphrase>
-<catchphrase "id=c7">use of health plus mark by a company with the same directors as the registered proprietor does not amount to authorised use</catchphrase>
-<catchphrase "id=c8">no relevant control</catchphrase>
-<catchphrase "id=c9">discretionary principles</catchphrase>
-<catchphrase "id=c10">intellectual property</catchphrase>
+<catchphrase id="c0">trade marks</catchphrase>
+<catchphrase id="c1">rectification proceedings</catchphrase>
+<catchphrase id="c2">expungement proceedings</catchphrase>
+<catchphrase id="c3">statute applies as it stood at the time of commencement of proceedings</catchphrase>
+<catchphrase id="c4">no deceptive similarity between inner health plus and health plus</catchphrase>
+<catchphrase id="c5">applicant in each proceeding lacked standing as 'a person aggrieved'</catchphrase>
+<catchphrase id="c6">registered proprietor of health plus mark failed to demonstrate intention to use or actual use</catchphrase>
+<catchphrase id="c7">use of health plus mark by a company with the same directors as the registered proprietor does not amount to authorised use</catchphrase>
+<catchphrase id="c8">no relevant control</catchphrase>
+<catchphrase id="c9">discretionary principles</catchphrase>
+<catchphrase id="c10">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -95,7 +95,7 @@ s 92(4)(b).</sentence>
 30 Subject to a dispute about the terms of s 60 , all parties' counsel proceeded on the basis that the Act applies as it stood at the time of the hearing.</sentence>
 <sentence id="s52">However, the general rule of the common law, and the effect of s 8 of the Acts Interpretation Act , is that:
  
- when the law is altered during the pendency of an action the rights of the parties are decided according to the law as it existed when the action was begun, unless the new statute shows a clear intention to vary such rights: see Continental Liqueurs Pty Ltd v G F Heublein &amp; Bro Inc [1960] HCA 37 ; (1960) 103 CLR 422 at 427 per Kitto J.</sentence>
+ when the law is altered during the pendency of an action the rights of the parties are decided according to the law as it existed when the action was begun, unless the new statute shows a clear intention to vary such rights: see Continental Liqueurs Pty Ltd v G F Heublein &amp;amp; Bro Inc [1960] HCA 37 ; (1960) 103 CLR 422 at 427 per Kitto J.</sentence>
 <sentence id="s53">
 
 31 All three of the proceedings described were commenced prior to the commencement of the Trade Marks Amendment Act 2006 (Cth) on 23 October 2006.</sentence>
@@ -271,9 +271,9 @@ s 92(4)(b).</sentence>
  
 45 Inner Health powder and Inner Health Plus capsules are both probiotic products.</sentence>
 <sentence id="s84">When Inner Health Plus capsules were introduced in May 2000, they differed from Inner Health Plus powder in the following respects.</sentence>
-<sentence id="s85">&#8226; Inner Health was supplied in a powder in bottles.</sentence>
-<sentence id="s86">&#8226; Inner Health powder only contained acidophilus bacteria whereas Inner Health Plus capsules also contained bifidobacterium and a complex marketed under the trade mark Probioplex.</sentence>
-<sentence id="s87">&#8226; Inner Health Plus capsules contained significantly more bacteria than Inner Health powder.</sentence>
+<sentence id="s85">&amp;#8226; Inner Health was supplied in a powder in bottles.</sentence>
+<sentence id="s86">&amp;#8226; Inner Health powder only contained acidophilus bacteria whereas Inner Health Plus capsules also contained bifidobacterium and a complex marketed under the trade mark Probioplex.</sentence>
+<sentence id="s87">&amp;#8226; Inner Health Plus capsules contained significantly more bacteria than Inner Health powder.</sentence>
 <sentence id="s88">One Inner Health Plus capsule contained 10 billion acidophilus bacteria whereas the daily dose of Inner Health powder contained 2.5 billion bacteria.</sentence>
 <sentence id="s89">46 Since 2000, Health World has continued to market and promote the Inner Health powder, although not to the same extent as Inner Health Plus capsules.</sentence>
 <sentence id="s90">47 In 2003, Health World upgraded the formulation of Inner Health powder.</sentence>
@@ -309,7 +309,7 @@ s 92(4)(b).</sentence>
 <sentence id="s110">The words underneath are in white on an orange background.</sentence>
 <sentence id="s111">They are:
  
- "Containing Therapeutic Strains of Lactobacillus acidophilus (NCFM) and Bifidobacterium Lactis (BBI) with Probioplex&tm;.</sentence>
+ "Containing Therapeutic Strains of Lactobacillus acidophilus (NCFM) and Bifidobacterium Lactis (BBI) with Probioplex&amp;tm;.</sentence>
 <sentence id="s112">" 
  
 
@@ -526,7 +526,7 @@ s 88(2)(a).</sentence>
 <sentence id="s258">It is sufficient to say that the marks are not to be judged by a side by side comparison; they are to be considered by their look and sound, with due allowance for imperfect recollection.</sentence>
 <sentence id="s259">The goods to which the marks are to be applied must be considered together with all the surrounding circumstances.</sentence>
 <sentence id="s260">132 These principles are well established.</sentence>
-<sentence id="s261">They were stated by Dixon and McTiernan JJ more than 50 years ago in Australian Woollen Mills Limited v FS Walton &amp; Co Limited [1937] HCA 51 ; (1937) 58 CLR 641 at 658 and reiterated by the High Court in other authorities.</sentence>
+<sentence id="s261">They were stated by Dixon and McTiernan JJ more than 50 years ago in Australian Woollen Mills Limited v FS Walton &amp;amp; Co Limited [1937] HCA 51 ; (1937) 58 CLR 641 at 658 and reiterated by the High Court in other authorities.</sentence>
 <sentence id="s262">133 Perhaps the most succinct statement of the principles is to be found in the observation of Dixon and McTiernan JJ in Australian Woollen Mills at 659 that the question is:
  
  ... never susceptible of much discussion.</sentence>
@@ -560,7 +560,7 @@ s 88(2)(a).</sentence>
 <sentence id="s284">But I do not consider that anything turns on this because in an aural comparison, the over-riding consideration is the absence of the word "Inner" from the word or words "Health Plus ".</sentence>
 <sentence id="s285">145 I do not consider that the Health Plus mark captures one of the essential features of the Inner Health Plus mark: c.f.</sentence>
 <sentence id="s286">Saville Perfumery Limited v June Perfect Limited (1941) 58 RPC 147; de Cordova v Vick Chemical Co (1951) 68 RPC 103 at 105-106.</sentence>
-<sentence id="s287">146 Those authorities, as well as authorities of Full Courts in CA Henschke &amp; Co v Rosemount Estates Pty Limited (2000) 52 IPR 42 and Registrar of Trade Marks v Woolworths Limited [1999] FCA 1020 ; (1999) 93 FCR 365, were discussed by the Full Court in Crazy Ron's at [80] --- [90].</sentence>
+<sentence id="s287">146 Those authorities, as well as authorities of Full Courts in CA Henschke &amp;amp; Co v Rosemount Estates Pty Limited (2000) 52 IPR 42 and Registrar of Trade Marks v Woolworths Limited [1999] FCA 1020 ; (1999) 93 FCR 365, were discussed by the Full Court in Crazy Ron's at [80] --- [90].</sentence>
 <sentence id="s288">147 The effect of those authorities is that the enquiry is not as wide as would be undertaken in a passing off action or in a proceeding under s 52 of the Trade Practices Act .</sentence>
 <sentence id="s289">Rather, the search is to be concentrated on ascertaining the essential element of the mark and the impression taken away by one who looks at it and how it sounds when pronounced: Crazy Ron's at [86], [88].</sentence>
 <sentence id="s290">148 The essential element of the Inner Health Plus mark is not found in the words "Health Plus".</sentence>
@@ -599,7 +599,7 @@ s 88(2)(a).</sentence>
  s 88(2)(a) , Health World must establish that, as at 7 May 2001, Shin-Sun did not intend to use or authorise the use of the Health Plus trade mark in Australia: see s 59(a).</sentence>
 <sentence id="s314">159 Shin-Sun admits that it did not intend to assign the trade mark to a body corporate for use by the body corporate in Australia: s 59(b).</sentence>
 <sentence id="s315">160 In my view, the intention, or lack thereof, to which s 59 is directed, is a "real and definite intention" of the applicant for registration, to use the mark publicly as a trade mark, although it is not necessary that the intention be immediate or within a limited time: Ritz Hotel at 202-203.</sentence>
-<sentence id="s316">161 The subjective nature of the intention, the presumption of intention flowing from the application for registration and the onus on an opponent usually make it difficult for an opposition, or an application for rectification, to succeed on this ground: see Shanahan at [2.120], [11.110]; Dufty A &amp; Lahore J, Lahore, Patents Trade Marks &amp; Related Rights (LexisNexis Butterworths, 2006) at [55,580].</sentence>
+<sentence id="s316">161 The subjective nature of the intention, the presumption of intention flowing from the application for registration and the onus on an opponent usually make it difficult for an opposition, or an application for rectification, to succeed on this ground: see Shanahan at [2.120], [11.110]; Dufty A &amp;amp; Lahore J, Lahore, Patents Trade Marks &amp;amp; Related Rights (LexisNexis Butterworths, 2006) at [55,580].</sentence>
 <sentence id="s317">162 However, there is authority for the proposition that where an applicant for registration has been put on notice that its intention to use the mark was in issue, and has not responded to the opponent's evidence, a finding of lack of intention may be made: Philip Morris Products SA v Sean Ngu [2002] ATMO 96 ; Tommy Hilfiger Licensing Inc v Tan (2002) 60 IPR 137; Shanahan at [11.110].</sentence>
 <sentence id="s318">163 The principle which underlies these authorities seems to me to be that the evidentiary onus shifts to the applicant for registration where an opponent makes a prima facie case of lack of intention to use the mark.</sentence>
 <sentence id="s319">164 Shin-Sun was on notice that its intention to use the mark was in issue from 21 July 2006 when the Statement of Claim in the rectification proceeding was amended.</sentence>
@@ -782,7 +782,7 @@ Dated: 21 February 2008
 
  Counsel for Health World: Mr R Cobden SC with Mr J S Cooke 
  
- Solicitor for Health World: Bennett &amp; Philp Solicitors 
+ Solicitor for Health World: Bennett &amp;amp; Philp Solicitors 
  
  Counsel for Shin-Sun, Theresa Shin and Nature's Hive: Ms J Baird and Ms P Arcus 
  

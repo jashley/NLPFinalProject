@@ -3,18 +3,18 @@
 <name>Zhang v Commissioner, Australian Federal Police [2009] FCA 1170 (14 October 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1170.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">need for warrant to state the offence to which it relates</catchphrase>
-<catchphrase "id=c1">statement of the kinds of evidential material that are to be searched for</catchphrase>
-<catchphrase "id=c2">belief on reasonable grounds when materials being seized</catchphrase>
-<catchphrase "id=c3">documents seized in excess of terms of warrants</catchphrase>
-<catchphrase "id=c4">decision to issue a search warrant</catchphrase>
-<catchphrase "id=c5">a decision of an " administrative character "</catchphrase>
-<catchphrase "id=c6">decision made " under an enactment "</catchphrase>
-<catchphrase "id=c7">extension of time</catchphrase>
-<catchphrase "id=c8">the issuing officer not an officer of the commonwealth</catchphrase>
-<catchphrase "id=c9">unavailability of review under judiciary act</catchphrase>
-<catchphrase "id=c10">search warrants</catchphrase>
-<catchphrase "id=c11">administrative law</catchphrase>
+<catchphrase id="c0">need for warrant to state the offence to which it relates</catchphrase>
+<catchphrase id="c1">statement of the kinds of evidential material that are to be searched for</catchphrase>
+<catchphrase id="c2">belief on reasonable grounds when materials being seized</catchphrase>
+<catchphrase id="c3">documents seized in excess of terms of warrants</catchphrase>
+<catchphrase id="c4">decision to issue a search warrant</catchphrase>
+<catchphrase id="c5">a decision of an " administrative character "</catchphrase>
+<catchphrase id="c6">decision made " under an enactment "</catchphrase>
+<catchphrase id="c7">extension of time</catchphrase>
+<catchphrase id="c8">the issuing officer not an officer of the commonwealth</catchphrase>
+<catchphrase id="c9">unavailability of review under judiciary act</catchphrase>
+<catchphrase id="c10">search warrants</catchphrase>
+<catchphrase id="c11">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -896,7 +896,7 @@ Dated: 14 October 2009
  
  Counsel for the Applicants: Mr F Kunc SC with Mr J Emmett 
  
- Solicitor for the Applicants: Ernst &amp; Young Law 
+ Solicitor for the Applicants: Ernst &amp;amp; Young Law 
  
  Counsel for the Respondents: Mr D Fagan SC with Mr S Free 
  

@@ -3,12 +3,12 @@
 <name>SZLYO v Minister for Immigration and Citizenship [2008] FCA 1344 (1 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1344.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal</catchphrase>
-<catchphrase "id=c1">interlocutory decision</catchphrase>
-<catchphrase "id=c2">application filed out of time</catchphrase>
-<catchphrase "id=c3">no explanation for delay</catchphrase>
-<catchphrase "id=c4">application dismissed</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase id="c0">application for leave to appeal</catchphrase>
+<catchphrase id="c1">interlocutory decision</catchphrase>
+<catchphrase id="c2">application filed out of time</catchphrase>
+<catchphrase id="c3">no explanation for delay</catchphrase>
+<catchphrase id="c4">application dismissed</catchphrase>
+<catchphrase id="c5">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -28,7 +28,7 @@
 <sentence id="s12">That rule relevantly provides as follows: 
  Show cause hearing (1) At a hearing of an application for an order to show cause, the Court may: (a) if it is not satisfied that the application has raised an arguable case for the relief claimed -- dismiss the application ... ... (2) To avoid doubt, a dismissal under paragraph (1) (a) is interlocutory.</sentence>
 <sentence id="s13">7 An appeal to this Court from an interlocutory decision of the Federal Magistrates Court requires leave: Federal Court of Australia Act 1976 (Cth), s 24(1A).</sentence>
-<sentence id="s14">8 An extension of time is necessary because there is an implied time limit of 21 days after the date of the interlocutory judgment in which to file an application to this Court: SZDGN v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCA 1543 at [9] per Lindgren J.</sentence>
+<sentence id="s14">8 An extension of time is necessary because there is an implied time limit of 21 days after the date of the interlocutory judgment in which to file an application to this Court: SZDGN v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2004] FCA 1543 at [9] per Lindgren J.</sentence>
 <sentence id="s15">9 It is considered that the Application for Leave to Appeal to this Court should be dismissed.</sentence>
 <sentence id="s16">10 There has been no explanation forthcoming as to why the Application was not filed within time.</sentence>
 <sentence id="s17">The First Applicant appeared in person before this Court unrepresented, although he did have the benefit of an interpreter.</sentence>

@@ -3,13 +3,13 @@
 <name>Fesl v Delegate of the Native Title Registrar (No 2) [2008] FCA 1479 (2 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1479.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application under administrative decisions (judicial review) act 1997 (cth) for review of decision by a delegate of the native title registrar to register an indigenous land use agreement</catchphrase>
-<catchphrase "id=c1">application to review decision unsuccessful</catchphrase>
-<catchphrase "id=c2">whether circumstances of the case warrant departure from ordinary rule as to costs</catchphrase>
-<catchphrase "id=c3">where reasonableness of review application and public importance of issues raised warrant departure from ordinary rule as to costs</catchphrase>
-<catchphrase "id=c4">relevance of s 85a of the native title act</catchphrase>
-<catchphrase "id=c5">no order as to costs</catchphrase>
-<catchphrase "id=c6">costs</catchphrase>
+<catchphrase id="c0">application under administrative decisions (judicial review) act 1997 (cth) for review of decision by a delegate of the native title registrar to register an indigenous land use agreement</catchphrase>
+<catchphrase id="c1">application to review decision unsuccessful</catchphrase>
+<catchphrase id="c2">whether circumstances of the case warrant departure from ordinary rule as to costs</catchphrase>
+<catchphrase id="c3">where reasonableness of review application and public importance of issues raised warrant departure from ordinary rule as to costs</catchphrase>
+<catchphrase id="c4">relevance of s 85a of the native title act</catchphrase>
+<catchphrase id="c5">no order as to costs</catchphrase>
+<catchphrase id="c6">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -54,11 +54,11 @@
  
  11 Within the general discretion of the courts to award costs it is accepted by decisions in both Australian and English jurisdictions that: 
  
-&#8226; Ordinarily costs follow the event and a successful litigant receives costs in the absence of special circumstances justifying some other order.</sentence>
-<sentence id="s22">&#8226; Where a litigant has succeeded only upon a portion of the claim, the circumstances may make it reasonable that the litigant bear the expense of litigating that portion upon which he or she has failed.</sentence>
-<sentence id="s23">&#8226; A successful party who has failed on certain issues may not only be deprived of the costs of those issues but may be ordered as well to pay the other parties' costs of them.</sentence>
+&amp;#8226; Ordinarily costs follow the event and a successful litigant receives costs in the absence of special circumstances justifying some other order.</sentence>
+<sentence id="s22">&amp;#8226; Where a litigant has succeeded only upon a portion of the claim, the circumstances may make it reasonable that the litigant bear the expense of litigating that portion upon which he or she has failed.</sentence>
+<sentence id="s23">&amp;#8226; A successful party who has failed on certain issues may not only be deprived of the costs of those issues but may be ordered as well to pay the other parties' costs of them.</sentence>
 <sentence id="s24">In this sense "issue" does not mean a precise issue in the technical pleading sense but any disputed question of fact or law.</sentence>
-<sentence id="s25">See Hughes v Western Australian Cricket Association (Inc) &amp; Ors (1986) ATPR 40-748 (at 48,136); approved by the Full Court in Queensland Wire Industries Pty Ltd v Broken Hill Co Ltd (1987) 17 FCR 211 (at 222).</sentence>
+<sentence id="s25">See Hughes v Western Australian Cricket Association (Inc) &amp;amp; Ors (1986) ATPR 40-748 (at 48,136); approved by the Full Court in Queensland Wire Industries Pty Ltd v Broken Hill Co Ltd (1987) 17 FCR 211 (at 222).</sentence>
 <sentence id="s26">10 QWI, unsurprisingly, adopted the position that costs should follow the event with the "event" being the dismissal of the application.</sentence>
 <sentence id="s27">11 That usual, civil jurisdiction position normally governs the costs sequel to an unsuccessful judicial review application in federal jurisdiction.</sentence>
 <sentence id="s28">A like position prevails in respect of costs in judicial review proceedings in England and Wales: The White Book, 2006 Edn Vol 1 para 54.16.17.</sentence>
@@ -183,7 +183,7 @@ Dated: 2 October 2008
 
  Counsel for the Applicants: Mr Balzamo 
  
- Solicitor for the Applicants: Black &amp; Co Lawyers 
+ Solicitor for the Applicants: Black &amp;amp; Co Lawyers 
  
  Solicitor for the First Respondent: Holding Redlich Lawyers 
  

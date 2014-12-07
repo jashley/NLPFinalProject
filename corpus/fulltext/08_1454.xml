@@ -3,14 +3,14 @@
 <name>Kafataris v The Deputy Commissioner of Taxation [2008] FCA 1454 (19 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1454.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">capital gains tax</catchphrase>
-<catchphrase "id=c1">a married couple who owned real estate jointly settle it upon themselves as trustees for the husband as to a one half interest</catchphrase>
-<catchphrase "id=c2">whether cgt event e1 or cgt event e2 occurred</catchphrase>
-<catchphrase "id=c3">ss 104-55 and 104-60 of income tax assessment act 1997 (cth)</catchphrase>
-<catchphrase "id=c4">whether exclusion in subs (5) of each section applied</catchphrase>
-<catchphrase "id=c5">whether each spouse was "sole beneficiary" of the trust establishing his or her superannuation fund</catchphrase>
-<catchphrase "id=c6">whether each spouse was "absolutely entitled" to the fund as against themselves as trustees. held in each case (1) spouse was not the sole beneficiary of the trust; (2) the spouse was not absolutely entitled to the asset as against the trustees.</catchphrase>
-<catchphrase "id=c7">taxation</catchphrase>
+<catchphrase id="c0">capital gains tax</catchphrase>
+<catchphrase id="c1">a married couple who owned real estate jointly settle it upon themselves as trustees for the husband as to a one half interest</catchphrase>
+<catchphrase id="c2">whether cgt event e1 or cgt event e2 occurred</catchphrase>
+<catchphrase id="c3">ss 104-55 and 104-60 of income tax assessment act 1997 (cth)</catchphrase>
+<catchphrase id="c4">whether exclusion in subs (5) of each section applied</catchphrase>
+<catchphrase id="c5">whether each spouse was "sole beneficiary" of the trust establishing his or her superannuation fund</catchphrase>
+<catchphrase id="c6">whether each spouse was "absolutely entitled" to the fund as against themselves as trustees. held in each case (1) spouse was not the sole beneficiary of the trust; (2) the spouse was not absolutely entitled to the asset as against the trustees.</catchphrase>
+<catchphrase id="c7">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -244,7 +244,7 @@ To take the case of Helen, she contributed her half interest to Helen's Fund, bu
 40 The sole beneficiary requirement is distinct from the requirement of an absolute entitlement as against the trustee.</sentence>
 <sentence id="s111">41 The expression "beneficiary" is not defined in the Act and bears its ordinary meaning.</sentence>
 <sentence id="s112">42 According to the ordinary meaning of the word, a beneficiary is any person for whose benefit a trust is to be administered and who is entitled to enforce the trustee's obligation to administer the trust according to its terms.</sentence>
-<sentence id="s113">It is trite that for every trust there must be a "beneficiary" so understood (see, for example, Re Denley's Trust Deed ; Holman v HH Martyn &amp; Co Ltd [1969] 1 Ch 373 at 382-384).</sentence>
+<sentence id="s113">It is trite that for every trust there must be a "beneficiary" so understood (see, for example, Re Denley's Trust Deed ; Holman v HH Martyn &amp;amp; Co Ltd [1969] 1 Ch 373 at 382-384).</sentence>
 <sentence id="s114">A beneficiary is not simply a person who as a matter of fact obtains some practical benefit from the existence of a trust: Sacks v Gridiger (1990) 22 NSWLR 502 at 508.</sentence>
 <sentence id="s115">43 The word "beneficiary" reaches beyond a person who has a beneficial interest in the trust property.</sentence>
 <sentence id="s116">It is possible for the legal estate in land to be vested in "trustees" without equitable ownership being vested in someone else.</sentence>
@@ -252,7 +252,7 @@ To take the case of Helen, she contributed her half interest to Helen's Fund, bu
 <sentence id="s118">In CPT Custodian Pty Ltd v Commissioner of State Revenue of the State of Victoria [2005] HCA 53 ; (2005) 224 CLR 98 , the High Court rejected (at [25]):
  a "dogma" that, where ownership is vested in a trustee, equitable ownership must necessarily be vested in someone else because it is an essential attribute of a trust that it confers upon individuals a complex of beneficial legal relations which may be called ownership.</sentence>
 <sentence id="s119">That is to say, there can be a trustee who owes fiduciary obligations in respect of trust property to "beneficiaries" without any of the latter having a beneficial interest in the property.</sentence>
-<sentence id="s120">44 Although the discretionary objects do not have a beneficial interest in any property the subject of a "discretionary" trust prior to a distribution or appointment of income or capital, they are freely referred to as "beneficiaries"; see for example, Gartside v Inland Revenue Commissioners [1967] UKHL 6 ; [1968] AC 553 at 617-618; R &amp; I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 at 79; Australian Securities &amp; Investments Commission v Carey (No 6) (2006) 152 FCR 509 at [25]-[28].</sentence>
+<sentence id="s120">44 Although the discretionary objects do not have a beneficial interest in any property the subject of a "discretionary" trust prior to a distribution or appointment of income or capital, they are freely referred to as "beneficiaries"; see for example, Gartside v Inland Revenue Commissioners [1967] UKHL 6 ; [1968] AC 553 at 617-618; R &amp;amp; I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 at 79; Australian Securities &amp;amp; Investments Commission v Carey (No 6) (2006) 152 FCR 509 at [25]-[28].</sentence>
 <sentence id="s121">Provided it can be said with certainty that any particular person is or is not within the class of discretionary beneficiaries, there is a trust, due administration of which can be enforced by discretionary beneficiaries: see In re Gulbenkian's Settlements [1970] AC 508 ; McPhail v Doulton [1970] UKHL 1 ; [1971] AC 424.</sentence>
 <sentence id="s122">45 The terms of each Deed shows that each Member of the relevant Fund is properly considered a "beneficiary".</sentence>
 <sentence id="s123">Clause 14.2(a) of the Deed provides that a person being "appointed" a Trustee, or a director of a corporate Trustee, becomes a Member on the date of the appointment.</sentence>
@@ -352,7 +352,7 @@ This "see-through" provisions is similar to s 104-60 of the Act referred to at [
 58 In Stephenson (HM Inspector of Taxes) v Barclays Bank Trust Co Limited [1975] 1 All ER 625, Walton J considered the meaning of the expression "absolutely entitled as against the trustee" under the predecessor of s 46(1), namely, s 22(5) of the Finance Act 1965 (UK).</sentence>
 <sentence id="s161">His Lordship said (at 637):
  Now it is trite law that the persons who between them hold the entirety of the beneficial interests in any particular trust fund are as a body entitled to direct the trustees how that trust fund is to be dealt with, and this is obviously the legal territory from which that definition derives.</sentence>
-<sentence id="s162">Reference may also be made to Tomlinson (Inspector of Taxes) v Glyns Executor &amp; Trustees Co [1969] 1 All ER 700 at 704 and [1970] 1 All ER 381 at 383-384 (per Lord Denning MR), and Herdegen v Federal Commissioner of Taxation (1988) 84 ALR 271 at 281.</sentence>
+<sentence id="s162">Reference may also be made to Tomlinson (Inspector of Taxes) v Glyns Executor &amp;amp; Trustees Co [1969] 1 All ER 700 at 704 and [1970] 1 All ER 381 at 383-384 (per Lord Denning MR), and Herdegen v Federal Commissioner of Taxation (1988) 84 ALR 271 at 281.</sentence>
 <sentence id="s163">In Herdegen , Gummow J distinguished between "active" and "passive" trusts, and said of a "bare" trust:
  Today the usually accepted meaning of "bare" trust is a trust under which the trustee or trustees hold property without any interest therein, other than that existing by reason of the office and the legal title as trustee, and without any duty or further duty to perform, except to convey it upon demand to the beneficiary or beneficiaries or as directed by them, for example, on sale to a third party.</sentence>
 <sentence id="s164">The beneficiary may of course hold the equitable interest upon a sub-trust for others or himself and others ... 
@@ -362,7 +362,7 @@ This "see-through" provisions is similar to s 104-60 of the Act referred to at [
 <sentence id="s167">For example, the rule could be invoked by a life tenant and the remainder man: since their interests in combination exhaust the beneficial interest in the subject property, in combination they are entitled to direct the trustee to transfer the property as they will.</sentence>
 <sentence id="s168">60 In Public Curator of Queensland v Union Trustee Company of Australia Ltd [1922] HCA 28 ; (1922) 31 CLR 66 at 74, Higgins J noted:
  Those who are solely and absolutely entitled to receive money from trustees are entitled to ignore the specific mode and time of payment directed by the testator, to "break the trust", as it is called, and to claim immediate payment without the delay and formalities prescribed by the will (Saunders v Vautier (1841) 4 Beav.</sentence>
-<sentence id="s169">115 ; Cr &amp; Ph., 240, Harbin v Masterman (1894) 2 Ch. 184; (1895) A.C. 186 , and other cases).</sentence>
+<sentence id="s169">115 ; Cr &amp;amp; Ph., 240, Harbin v Masterman (1894) 2 Ch. 184; (1895) A.C. 186 , and other cases).</sentence>
 <sentence id="s170">61 I accept the Commissioner's submission that taking into account the Explanatory Memorandum to the 2000 Act and the authorities, the expression "absolutely entitled to the asset as against the trustee" in subs (5) of s 104-55 and s 104-60 of the Act is intended to describe a situation in which the beneficiary of a trust has a vested, indefeasible and absolute entitlement in trust property and is entitled to require the trustee to deal with the trust property as the beneficiary directs.</sentence>
 <sentence id="s171">62 It will be noted that unlike the position under the rule in Saunders v Vautier , subs (5) of s 104-55 and of s 104-60 applies only to trusts of which there is a "sole beneficiary".</sentence>
 <sentence id="s172">Moreover, the provision requires the sole beneficiary to be absolutely entitled "to the asset" over which the trust was created.</sentence>

@@ -3,17 +3,17 @@
 <name>Lamason v Australian Fisheries Management Authority [2009] FCA 245 (20 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/245.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for a declaration that item 5 of s 32 of the eastern tuna and billfish fishery management plan is invalid</catchphrase>
-<catchphrase "id=c1">management plan a legislative instrument</catchphrase>
-<catchphrase "id=c2">where statutory fishing rights allocated according to relative value of fishing permit packages</catchphrase>
-<catchphrase "id=c3">advisory panel's assessment of relative permit values</catchphrase>
-<catchphrase "id=c4">whether determination for a particular permit package irrational, unreasonable or capricious</catchphrase>
-<catchphrase "id=c5">whether management plan consistent with the objectives of the fisheries management act 1991 (cth)</catchphrase>
-<catchphrase "id=c6">whether determination of the management plan ultra vires</catchphrase>
-<catchphrase "id=c7">management plan determined after prolonged public debate</catchphrase>
-<catchphrase "id=c8">held that the management plan was within power, not going beyond what could reasonably be adopted for the purpose of allocating statutory fishing rights consistent with the objectives of the act</catchphrase>
-<catchphrase "id=c9">application refused</catchphrase>
-<catchphrase "id=c10">administrative law</catchphrase>
+<catchphrase id="c0">application for a declaration that item 5 of s 32 of the eastern tuna and billfish fishery management plan is invalid</catchphrase>
+<catchphrase id="c1">management plan a legislative instrument</catchphrase>
+<catchphrase id="c2">where statutory fishing rights allocated according to relative value of fishing permit packages</catchphrase>
+<catchphrase id="c3">advisory panel's assessment of relative permit values</catchphrase>
+<catchphrase id="c4">whether determination for a particular permit package irrational, unreasonable or capricious</catchphrase>
+<catchphrase id="c5">whether management plan consistent with the objectives of the fisheries management act 1991 (cth)</catchphrase>
+<catchphrase id="c6">whether determination of the management plan ultra vires</catchphrase>
+<catchphrase id="c7">management plan determined after prolonged public debate</catchphrase>
+<catchphrase id="c8">held that the management plan was within power, not going beyond what could reasonably be adopted for the purpose of allocating statutory fishing rights consistent with the objectives of the act</catchphrase>
+<catchphrase id="c9">application refused</catchphrase>
+<catchphrase id="c10">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -29,7 +29,7 @@
 <sentence id="s9">The applicant contends that the "Relative Price Factor" derived for a fishing permit package for the northern inshore and Area E areas of the Fishery in item 5 in the table in s 32 of the Management Plan was derived by a method that was irrational, unreasonable and capricious, and was against the weight of evidence and submissions to the Authority, with the consequence that item 5 should be declared invalid.</sentence>
 <sentence id="s10">For the reasons which follow, the applicants' challenge to s 32 of the Management Plan fails, and the declaration of invalidity they seek will be refused.</sentence>
 <sentence id="s11">The Fishery
- The Fishery extends along the entire east coast of Australia from the tip of Cape York to the southern most point of the Australian Fishing Zone generally east of 146&#176; E. It covers waters off the coast of Queensland, New South Wales, Victoria and Tasmania and also covers water outside the Australian Exclusive Economic Zone (EEZ) in the area of the Western and Central Pacific Fisheries Commission.</sentence>
+ The Fishery extends along the entire east coast of Australia from the tip of Cape York to the southern most point of the Australian Fishing Zone generally east of 146&amp;#176; E. It covers waters off the coast of Queensland, New South Wales, Victoria and Tasmania and also covers water outside the Australian Exclusive Economic Zone (EEZ) in the area of the Western and Central Pacific Fisheries Commission.</sentence>
 <sentence id="s12">The Fishery has been commercially exploited since the early 1950's, when the Japanese began pelagic longlining off the east coast of Australia.</sentence>
 <sentence id="s13">A pelagic longline consists of a main line to which are attached branch lines, each fitted with one or more baited hooks or artificial lures.</sentence>
 <sentence id="s14">The longline is set in the sea in such a manner that the main line, branch lines and hooks are suspended below the surface in the water column by floats at the sea surface.</sentence>
@@ -41,7 +41,7 @@
 <sentence id="s20">In late 1997, many longliners began to fish out of southern Queensland ports, such as Mooloolaba, to target both bigeye tuna for the sashimi market and swordfish for the markets in the United States.</sentence>
 <sentence id="s21">The catches in the Fishery demonstrate high inter-annual variability.</sentence>
 <sentence id="s22">The stock status of the principal species of stocks in the Fishery is uncertain.</sentence>
-<sentence id="s23">Tuna and billfish are highly migratory species and it is suspected that the variability is caused by oceanographic factors (for example, El Ni&ntilde;o) influencing the migrations of tuna to and within the Fishery.</sentence>
+<sentence id="s23">Tuna and billfish are highly migratory species and it is suspected that the variability is caused by oceanographic factors (for example, El Ni&amp;ntilde;o) influencing the migrations of tuna to and within the Fishery.</sentence>
 <sentence id="s24">The Fishery is managed by the Authority with the assistance of the Eastern Tuna Management Advisory Committee (Eastern Tuna MAC).</sentence>
 <sentence id="s25">Management arrangements in the Fishery have largely developed from the need to control the pelagic longline fishery, including the need to minimise the potential impact of the activation of latent longline effort.</sentence>
 <sentence id="s26">"Effort", in the context of these proceedings, reflects the number of hooks employed by a fisher.</sentence>
@@ -65,11 +65,11 @@
 <sentence id="s42">Permits 1 Longline (Area E) only 12 1 Longline (non Area E) only 3 1 Longline/Minor Line only (includes 1 x Area E) 214 1 Longline/Purse Seine only 1 1 Longline/Minor Line/Pole only 81 1 Longline/Minor Line/Purse Seine only 11 1 Longline/Minor Line/Pole/Purse Seine only 6 
  The same Brief shows the number of operators in the Fishery using the pelagic longline method of fishing, in the following table, by area: Method Area Access No.</sentence>
 <sentence id="s43">Operators at 17 July 2001- Pelagic Longline Cairns/Townsville Restricted --- E 13 
- Historical --- A,B,C &amp; D 116 
- Northern Inshore --- B,C &amp; D 48 
- Northern Offshore --- C &amp; D 5 
+ Historical --- A,B,C &amp;amp; D 116 
+ Northern Inshore --- B,C &amp;amp; D 48 
+ Northern Offshore --- C &amp;amp; D 5 
  Central Offshore --- D 0 
- Southern Inshore North --- F &amp; G (in/offshore) 198 
+ Southern Inshore North --- F &amp;amp; G (in/offshore) 198 
  Southern Inshore South --- G (in/offshore) 5 
  Southern Offshore --- G offshore 5 
  Southern Offshore West --- H 5 
@@ -79,9 +79,9 @@
 <sentence id="s45">The reason is that, as earlier indicated, all Area E permits must be associated in the same licence package with a general fishery longline permit, for waters off the mainland.</sentence>
 <sentence id="s46">History of the Management Plan
  The Brief records in par 82: 
- The controversy over Area E management arrangements and specifically the commercial take of marlin species throughout 1995 and 1996 had substantially slowed down the implementation of the ET&amp;BF management plan.</sentence>
-<sentence id="s47">As a result of Statutory Fishing Rights (SFRs) being introduced in other Commonwealth managed fisheries and domestic expansion of the ET&amp;BF, operators questioned the adequacy of fishing permits as an on-going access right to a fishery.</sentence>
-<sentence id="s48">Following increasing calls by industry for the granting of SFRs in the ET&amp;BF under a management plan, Eastern Tuna MAC 32 (1-2 November 1996) released the paper ' Development of a management plan for the Eastern Tuna and Billfish Fishery --- fishing permits or statutory fishing rights?</sentence>
+ The controversy over Area E management arrangements and specifically the commercial take of marlin species throughout 1995 and 1996 had substantially slowed down the implementation of the ET&amp;amp;BF management plan.</sentence>
+<sentence id="s47">As a result of Statutory Fishing Rights (SFRs) being introduced in other Commonwealth managed fisheries and domestic expansion of the ET&amp;amp;BF, operators questioned the adequacy of fishing permits as an on-going access right to a fishery.</sentence>
+<sentence id="s48">Following increasing calls by industry for the granting of SFRs in the ET&amp;amp;BF under a management plan, Eastern Tuna MAC 32 (1-2 November 1996) released the paper ' Development of a management plan for the Eastern Tuna and Billfish Fishery --- fishing permits or statutory fishing rights?</sentence>
 <sentence id="s49">' on 23 December 1996 calling for submissions which would form the basis of Eastern Tuna MAC's recommendation on Statutory Fishing Rights (SFRs) to AFMA.</sentence>
 <sentence id="s50">
 
@@ -94,8 +94,8 @@
 <sentence id="s56">On 5 October 1999, the Eastern Tuna Management Advisory Committee (Eastern Tuna MAC), noted that the vast majority of submissions received to date had expressed strong reservations about many aspects of the allocation framework as proposed by the AAP and AFMA.</sentence>
 <sentence id="s57">In November 2000, Eastern Tuna MAC produced a submission entitled "Management Options for the Eastern Tuna and Southern and Western Tuna and Billfish Fisheries" which was considered by the Board of the Authority on 8 December 2000 at its 82 nd meeting.</sentence>
 <sentence id="s58">The Brief of July 2001 to the AAP noted (at par 114): 
- The aim of the new management arrangements is to pursue, to the fullest extent possible, AFMA's legislative objectives, in particular to ensure the development of the ET&amp;BF in an ecologically sustainable manner and to maximise the economic efficiency of the fishery.</sentence>
-<sentence id="s59">In addition to pursuing these objectives AFMA proposes to introduce a management framework which removes most of the current complexities of ET&amp;BF management, thereby allowing operators to make rational investment decisions.</sentence>
+ The aim of the new management arrangements is to pursue, to the fullest extent possible, AFMA's legislative objectives, in particular to ensure the development of the ET&amp;amp;BF in an ecologically sustainable manner and to maximise the economic efficiency of the fishery.</sentence>
+<sentence id="s59">In addition to pursuing these objectives AFMA proposes to introduce a management framework which removes most of the current complexities of ET&amp;amp;BF management, thereby allowing operators to make rational investment decisions.</sentence>
 <sentence id="s60">
 
  On 31 May 2001, at its 84 th meeting, the AFMA Board approved terms of reference for a further Allocation Advisory Panel for the Fishery.</sentence>
@@ -108,7 +108,7 @@
 <sentence id="s66">The second applicant held one B plus E package.</sentence>
 <sentence id="s67">The third applicant held one B plus E package and one Area A permit.</sentence>
 <sentence id="s68">I set out a table (the determination table) showing those ten packages, as well as the Relative Price Factor for each package determined in accordance with s 32 of the Management Plan, and the SFRs provisionally granted in respect of each package.</sentence>
-<sentence id="s69">Package Number Permit 1 Permit 2 Name Area Activity Level RPF Provisional Grant 1 61298C 61298D ROBERT L LAMASON Northern Inshore/Area E Active 0.8 12164 2 401431B 401431A ROBERT L LAMASON Northern Inshore/Area E Active 0.8 12164 3 402202C 402202B ROBERT L LAMASON Northern Inshore/Area E Active 0.8 12164 4 459369C 459369D ROBERT L LAMASON Northern Inshore/Area E Active 0.8 12164 5 300009D 300009C ROBERT L LAMASON &amp; ANN LAMASON Northern Inshore/Area E Active 0.8 12164 6 25283C 25283D LAMASON TRADING PTY LTD Northern Inshore/Area E Active 0.8 12164 7 458772B 458772A ROBERT L LAMASON Historical/Area E Active 1.3 19766 8 402666D 402666C ROBERT L LAMASON Historical/Area E Active 1.3 19766 9 402218C 402218B ROBERT L LAMASON Historical/Area E Active 1.3 19766 10 402304 
+<sentence id="s69">Package Number Permit 1 Permit 2 Name Area Activity Level RPF Provisional Grant 1 61298C 61298D ROBERT L LAMASON Northern Inshore/Area E Active 0.8 12164 2 401431B 401431A ROBERT L LAMASON Northern Inshore/Area E Active 0.8 12164 3 402202C 402202B ROBERT L LAMASON Northern Inshore/Area E Active 0.8 12164 4 459369C 459369D ROBERT L LAMASON Northern Inshore/Area E Active 0.8 12164 5 300009D 300009C ROBERT L LAMASON &amp;amp; ANN LAMASON Northern Inshore/Area E Active 0.8 12164 6 25283C 25283D LAMASON TRADING PTY LTD Northern Inshore/Area E Active 0.8 12164 7 458772B 458772A ROBERT L LAMASON Historical/Area E Active 1.3 19766 8 402666D 402666C ROBERT L LAMASON Historical/Area E Active 1.3 19766 9 402218C 402218B ROBERT L LAMASON Historical/Area E Active 1.3 19766 10 402304 
  LAMASON TRADING PTY LTD Historical Active 1 15205 TOTAL 
  
  
@@ -691,7 +691,7 @@
 
  
  Information was sought by the Panel on the values of permits to fish in various zones and on the extent to which catch history influenced these prices (a summary of consultations with industry and licence brokers on this issue is outlined in Attachment 6).</sentence>
-<sentence id="s260">It was uniformly acknowledged by fishers that permits that allowed access to the historic zone of the fishery (Zone A, as well as other zones including B, C, D, F, G &amp; H) were considerably more valuable than "developmental" permits that included areas other than Zone A.</sentence>
+<sentence id="s260">It was uniformly acknowledged by fishers that permits that allowed access to the historic zone of the fishery (Zone A, as well as other zones including B, C, D, F, G &amp;amp; H) were considerably more valuable than "developmental" permits that included areas other than Zone A.</sentence>
 <sentence id="s261">An endorsement to fish in Area E was said by fishers to be worth significantly more than the same class of permit without such an endorsement.</sentence>
 <sentence id="s262">
 
@@ -738,7 +738,7 @@
 <sentence id="s278">The two main points made in the submission are as follows: 
 
  
- (a) Area E permits are substantially undervalued in the Panel's report relative to both historic (Area A) and developmental permits (Areas B, C &amp; D); and, 
+ (a) Area E permits are substantially undervalued in the Panel's report relative to both historic (Area A) and developmental permits (Areas B, C &amp;amp; D); and, 
 
  
  (b) The value of an Area E permit package is independent of the additional areas of access provided by the associated permits.</sentence>
@@ -769,7 +769,7 @@
 <sentence id="s291">
 
  
- The Panel finds the assertion that the value of a package containing an Area E permit is independent of the value of the other permits attached difficult to accept, particularly in view of the substantial difference in the market values of Area A permits and Area B, C &amp; D permits.</sentence>
+ The Panel finds the assertion that the value of a package containing an Area E permit is independent of the value of the other permits attached difficult to accept, particularly in view of the substantial difference in the market values of Area A permits and Area B, C &amp;amp; D permits.</sentence>
 <sentence id="s292">
 
  In a considered rejection of the correctness of the contention of Mr Rowley and Mr Lamason, the AAP recommended: 

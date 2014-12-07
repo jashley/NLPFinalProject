@@ -3,16 +3,16 @@
 <name>Australian Postal Corporation v Hughes [2009] FCA 1057 (21 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1057.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">adequacy of reasons</catchphrase>
-<catchphrase "id=c1">a reference to the evidence or other materials</catchphrase>
-<catchphrase "id=c2">no evidence</catchphrase>
-<catchphrase "id=c3">inquisitorial procedure</catchphrase>
-<catchphrase "id=c4">duty to assist the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c5">the injury for which compensation was claimed</catchphrase>
-<catchphrase "id=c6">nature of injury</catchphrase>
-<catchphrase "id=c7">evidence in support</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
-<catchphrase "id=c9">compensation</catchphrase>
+<catchphrase id="c0">adequacy of reasons</catchphrase>
+<catchphrase id="c1">a reference to the evidence or other materials</catchphrase>
+<catchphrase id="c2">no evidence</catchphrase>
+<catchphrase id="c3">inquisitorial procedure</catchphrase>
+<catchphrase id="c4">duty to assist the administrative appeals tribunal</catchphrase>
+<catchphrase id="c5">the injury for which compensation was claimed</catchphrase>
+<catchphrase id="c6">nature of injury</catchphrase>
+<catchphrase id="c7">evidence in support</catchphrase>
+<catchphrase id="c8">administrative law</catchphrase>
+<catchphrase id="c9">compensation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -395,7 +395,7 @@ This reference as to the symptoms having spread to " other areas " was a referen
  [12] She said that since 13 January 2006 she has had virtually the same level of back pain, the intensity of which varies according to her activities.</sentence>
 <sentence id="s248">Her left hip has deteriorated and that pain also fluctuates.</sentence>
 <sentence id="s249">Her hip is more troublesome than her back.</sentence>
-<sentence id="s250">Nonetheless since late August 2007 she has worked 7 hours 21 minutes each work day and does 1---1&#189; hours overtime most days.</sentence>
+<sentence id="s250">Nonetheless since late August 2007 she has worked 7 hours 21 minutes each work day and does 1---1&amp;#189; hours overtime most days.</sentence>
 <sentence id="s251">
  
 
@@ -539,7 +539,7 @@ Dated: 21 September 2009
  
  Counsel for the Respondent: Mr D Richards 
  
- Solicitor for the Respondent: Slater &amp; Gordon 
+ Solicitor for the Respondent: Slater &amp;amp; Gordon 
  Date of Hearing: 7 September 2009 
  
  Date of Judgment: 21 September 2009 

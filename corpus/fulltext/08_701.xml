@@ -3,15 +3,15 @@
 <name>Korean Air Lines v Australian Competition and Consumer Commission (No 3) [2008] FCA 701 (15 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/701.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">accc investigation into price-fixing by air cargo cartel</catchphrase>
-<catchphrase "id=c1">applicant rejected the accc's settlement offer</catchphrase>
-<catchphrase "id=c2">the accc issued a notice under s 155 of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c3">applicant claimed notice issued for improper purpose</catchphrase>
-<catchphrase "id=c4">evidence of without prejudice discussions inadmissible</catchphrase>
-<catchphrase "id=c5">accc had not made decision to commence proceedings against applicant if settlement offer were rejected</catchphrase>
-<catchphrase "id=c6">s 155 is a power conferred for an administrative purpose</catchphrase>
-<catchphrase "id=c7">whether a notice under s 155 is issued for an improper purpose is to be determined in all the circumstances</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
+<catchphrase id="c0">accc investigation into price-fixing by air cargo cartel</catchphrase>
+<catchphrase id="c1">applicant rejected the accc's settlement offer</catchphrase>
+<catchphrase id="c2">the accc issued a notice under s 155 of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c3">applicant claimed notice issued for improper purpose</catchphrase>
+<catchphrase id="c4">evidence of without prejudice discussions inadmissible</catchphrase>
+<catchphrase id="c5">accc had not made decision to commence proceedings against applicant if settlement offer were rejected</catchphrase>
+<catchphrase id="c6">s 155 is a power conferred for an administrative purpose</catchphrase>
+<catchphrase id="c7">whether a notice under s 155 is issued for an improper purpose is to be determined in all the circumstances</catchphrase>
+<catchphrase id="c8">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -163,9 +163,9 @@
  
  
  
- &#8226; the tonnages, 
- &#8226; total revenues, and 
- &#8226; revenues attributed to fuel surcharges 
+ &amp;#8226; the tonnages, 
+ &amp;#8226; total revenues, and 
+ &amp;#8226; revenues attributed to fuel surcharges 
  
  
  
@@ -231,9 +231,9 @@
 <sentence id="s137">Those aspects were:
  
  
- &#8226; that as at 31 October 2007 ACCC staff had not advanced the investigation sufficiently to warrant a recommendation.</sentence>
-<sentence id="s138">&#8226; that the information sought in the Notice was relevant to whether proceedings against KAL should be instituted.</sentence>
-<sentence id="s139">&#8226; that Mr Pearson had not reached a decision to recommend to the Commissioners that proceedings be commenced.</sentence>
+ &amp;#8226; that as at 31 October 2007 ACCC staff had not advanced the investigation sufficiently to warrant a recommendation.</sentence>
+<sentence id="s138">&amp;#8226; that the information sought in the Notice was relevant to whether proceedings against KAL should be instituted.</sentence>
+<sentence id="s139">&amp;#8226; that Mr Pearson had not reached a decision to recommend to the Commissioners that proceedings be commenced.</sentence>
 <sentence id="s140">
  
 
@@ -290,7 +290,7 @@
 <sentence id="s178">Second, Lockhart J was inclined to the view that the power to issue a notice under s 155 does not end and is not abused merely because the Commission has made a decision to institute proceedings against the addressee of a proposed notice.</sentence>
 <sentence id="s179">His Honour went on to say that whether the power to issue a notice is abused is a question of fact to be determined in all of the circumstances: Kotan at 521.</sentence>
 <sentence id="s180">101 Third, Lockhart J's view is supported by the observations of French J in Shannahan v Trade Practices Commission [1991] FCA 95 ; (1991) 28 FCR 239 at 244.</sentence>
-<sentence id="s181">(See also French J at first instance in Re Kotan Holdings Pty Ltd &amp; Ors v Trade Practices Commission [1991] FCA 273 ; (1991) 13 ATPR 41-122 at [7] ).</sentence>
+<sentence id="s181">(See also French J at first instance in Re Kotan Holdings Pty Ltd &amp;amp; Ors v Trade Practices Commission [1991] FCA 273 ; (1991) 13 ATPR 41-122 at [7] ).</sentence>
 <sentence id="s182">His Honour said that there is nothing in the terms, context or purpose of s 155 to indicate that the power is compromised by the Commission having decided to commence proceedings.</sentence>
 <sentence id="s183">102 Fourth, in Rural Press at [37], Mansfield J agreed with the view expressed by Lockhart J in Kotan .</sentence>
 <sentence id="s184">Mansfield J went on at [38] to say that the question of whether the power has been exercised for an improper purpose is a matter to be decided in all the circumstances.</sentence>

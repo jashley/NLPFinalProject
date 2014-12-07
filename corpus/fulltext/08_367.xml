@@ -3,12 +3,12 @@
 <name>Applicant Y v Minister for Immigration and Citizenship [2008] FCA 367 (19 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/367.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">opinion of medical officer of commonwealth given 23 months before decision by migration review tribunal</catchphrase>
-<catchphrase "id=c1">opinion taken as correct by tribunal</catchphrase>
-<catchphrase "id=c2">whether opinion addresses satisfaction of health criteria in par 4007(1)(c) of schedule 4 of migration regulations 1994 (cth) at time of the tribunal's decision.</catchphrase>
-<catchphrase "id=c3">whether waiver of health criteria in par 4007(1)(c) of schedule 4 of migration regulations 1994 (cth) pursuant to power under par 4007(2) properly exercised.</catchphrase>
-<catchphrase "id=c4">migration law</catchphrase>
-<catchphrase "id=c5">migration law</catchphrase>
+<catchphrase id="c0">opinion of medical officer of commonwealth given 23 months before decision by migration review tribunal</catchphrase>
+<catchphrase id="c1">opinion taken as correct by tribunal</catchphrase>
+<catchphrase id="c2">whether opinion addresses satisfaction of health criteria in par 4007(1)(c) of schedule 4 of migration regulations 1994 (cth) at time of the tribunal's decision.</catchphrase>
+<catchphrase id="c3">whether waiver of health criteria in par 4007(1)(c) of schedule 4 of migration regulations 1994 (cth) pursuant to power under par 4007(2) properly exercised.</catchphrase>
+<catchphrase id="c4">migration law</catchphrase>
+<catchphrase id="c5">migration law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,7 +27,7 @@
 <sentence id="s9">The delegate based this conclusion on a report of an MOC that the appellant had been diagnosed as HIV positive, that she was receiving therapy, and that the cost of her health care would be approximately $250,000.</sentence>
 <sentence id="s10">In the view of the delegate, these matters demonstrated the appellant did not satisfy the health criteria in par 4007(1) due to the likelihood of "undue cost to the Australian community".</sentence>
 <sentence id="s11">4 The medical evidence relevant to this case arises chiefly from reports of Dr Marcus Chen, the appellant's doctor at the Sydney Sexual Health Centre, and Dr Julie Phillips, the MOC consulted by the Minister.</sentence>
-<sentence id="s12">The appellant provided the Minister with a letter from Dr Chen dated 20 May 2002, which stated that she was "first diagnosed with HIV in December 2000", and after anti-retroviral medication now presents with "an undetectable viral load of &lt;50 copies/ml and a CD4 count of 320 (20%)".</sentence>
+<sentence id="s12">The appellant provided the Minister with a letter from Dr Chen dated 20 May 2002, which stated that she was "first diagnosed with HIV in December 2000", and after anti-retroviral medication now presents with "an undetectable viral load of &amp;lt;50 copies/ml and a CD4 count of 320 (20%)".</sentence>
 <sentence id="s13">5 On 8 May 2003, Dr Phillips issued an "Opinion of a Medical Officer of the Commonwealth", which concluded that the appellant did not satisfy the health requirements in par 4007(1) of Schedule 4 of the Regulations .</sentence>
 <sentence id="s14">On 28 August 2003, Dr Chen issued a second report stating that the appellant had responded well to HIV medication and that "the viral load has remained undetectable and the CD4 count had increased to 620 by February 2003".</sentence>
 <sentence id="s15">This was said to be a "sustained and significant response over three years", and Dr Chen concluded that "the prognosis is good".</sentence>
@@ -45,14 +45,14 @@
  
  
  
- &#8226; Giving you the opportunity to obtain a new medical assessment from a Review Medical Officer of the Commonwealth (RMOC).</sentence>
+ &amp;#8226; Giving you the opportunity to obtain a new medical assessment from a Review Medical Officer of the Commonwealth (RMOC).</sentence>
 <sentence id="s25">There is a fee of $330 for obtaining a new medical assessment; and/or 
  
  
  
  
  
- &#8226; Considering whether to waive the visa health requirements in your case.</sentence>
+ &amp;#8226; Considering whether to waive the visa health requirements in your case.</sentence>
 <sentence id="s26">The Tribunal can only waive the visa health requirements where it is satisfied that the granting of the visa would be unlikely to result in undue cost to the Australian community.... 
  
  

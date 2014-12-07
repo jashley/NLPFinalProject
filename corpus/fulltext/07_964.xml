@@ -3,14 +3,14 @@
 <name>Murdaca v Accounts Control Management Services Pty Ltd [2007] FCA 964 (22 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/964.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">failure to comply with bankruptcy notice which required payment of judgment debt within 21 days</catchphrase>
-<catchphrase "id=c1">judgment stayed between date of service of bankruptcy notice and expiry of time provided to comply with the notice</catchphrase>
-<catchphrase "id=c2">sequestration order nevertheless made against appellant's estate</catchphrase>
-<catchphrase "id=c3">following unsuccessful appeal, appellant served with writ of possession</catchphrase>
-<catchphrase "id=c4">order sought to stay writ of possession and proceedings under the sequestration order pending determination of special leave application</catchphrase>
-<catchphrase "id=c5">consideration of prospect of success of special leave application, loss to the respondent and balance of convenience</catchphrase>
-<catchphrase "id=c6">held: stay of writ of possession and proceedings under sequestration order granted</catchphrase>
-<catchphrase "id=c7">bankruptcy appeals</catchphrase>
+<catchphrase id="c0">failure to comply with bankruptcy notice which required payment of judgment debt within 21 days</catchphrase>
+<catchphrase id="c1">judgment stayed between date of service of bankruptcy notice and expiry of time provided to comply with the notice</catchphrase>
+<catchphrase id="c2">sequestration order nevertheless made against appellant's estate</catchphrase>
+<catchphrase id="c3">following unsuccessful appeal, appellant served with writ of possession</catchphrase>
+<catchphrase id="c4">order sought to stay writ of possession and proceedings under the sequestration order pending determination of special leave application</catchphrase>
+<catchphrase id="c5">consideration of prospect of success of special leave application, loss to the respondent and balance of convenience</catchphrase>
+<catchphrase id="c6">held: stay of writ of possession and proceedings under sequestration order granted</catchphrase>
+<catchphrase id="c7">bankruptcy appeals</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -65,7 +65,7 @@
 <sentence id="s35">In that case Burchett J gave consideration to a factual situation relevantly indistinguishable from the present.</sentence>
 <sentence id="s36">His Honour concluded that, for the purposes of s 40(1)(g) of the Bankruptcy Act , the time for consideration whether a judgment on which a bankruptcy notice is founded has not been stayed is the time of issue, or at the latest, service of the notice.</sentence>
 <sentence id="s37">In reaching this conclusion Burchett J placed considerable weight on Re Dennis; Ex Parte Dennis (1888) 60 LT 348, a decision of the Court of Appeal concerning the service of a garnishee order nisi on the judgment debtor after the service of a bankruptcy notice on him.</sentence>
-<sentence id="s38">14 Schekeloff has been referred to in a number of Federal Court judgments with apparent approval, but in none that I have been able to identify has a comparable factual situation been under consideration (see, for example, Re Frasersmith; Ex Parte J Blackwood &amp; Son Limited (1992) 36 FCR 144 (Beaumont J); Re Roberts; Ex Parte Bower (1994) 48 FCR 350 (Einfeld J); Re Johnson; Ex Parte Johnson v Tonkin (1994) 53 FCR 70 (Spender J); Re Sgambellone; Ex Parte Jacques (1994) 53 FCR 275 (Drummond J)).</sentence>
+<sentence id="s38">14 Schekeloff has been referred to in a number of Federal Court judgments with apparent approval, but in none that I have been able to identify has a comparable factual situation been under consideration (see, for example, Re Frasersmith; Ex Parte J Blackwood &amp;amp; Son Limited (1992) 36 FCR 144 (Beaumont J); Re Roberts; Ex Parte Bower (1994) 48 FCR 350 (Einfeld J); Re Johnson; Ex Parte Johnson v Tonkin (1994) 53 FCR 70 (Spender J); Re Sgambellone; Ex Parte Jacques (1994) 53 FCR 275 (Drummond J)).</sentence>
 <sentence id="s39">15 In my respectful view, the correctness of the decision in Schekeloff is open to reasonable question.</sentence>
 <sentence id="s40">It is at least arguable, in my view, that a debtor does not commit an act of bankruptcy by not complying with a demand to pay a judgment debt which becomes unenforceable during the period allowed for compliance with the demand --- albeit that the debt had been due and payable at the dates of issue and service of the bankruptcy notice.</sentence>
 <sentence id="s41">16 Mr Murdaca acted for himself before the Federal Magistrates Court although he had legal representation at the hearing of his appeal.</sentence>
@@ -125,9 +125,9 @@ Dated: 22 June 2007
  
  Solicitor for the First Respondent: Leonard Legal 
  
- Solicitor for the Second Respondents: Sally Nash &amp; Co 
+ Solicitor for the Second Respondents: Sally Nash &amp;amp; Co 
  
- Date of Hearing: 21 &amp; 22 June 2007 
+ Date of Hearing: 21 &amp;amp; 22 June 2007 
  
  Date of Judgment: 22 June 2007 
 

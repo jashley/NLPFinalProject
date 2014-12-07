@@ -3,16 +3,16 @@
 <name>Metlife Insurance Ltd v Commissioner of Taxation [2008] FCA 568 (29 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/568.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">income taxation</catchphrase>
-<catchphrase "id=c1">amended assessments</catchphrase>
-<catchphrase "id=c2">commissioner's power to amend 'at any time'</catchphrase>
-<catchphrase "id=c3">full self-assessment taxpayer</catchphrase>
-<catchphrase "id=c4">giving effect to cgt event timing provision</catchphrase>
-<catchphrase "id=c5">time of contract taken to be time of disposal</catchphrase>
-<catchphrase "id=c6">amendments to the income tax assessment act 1936</catchphrase>
-<catchphrase "id=c7">whether replaced provision relevant to the interpretation or replacing provision</catchphrase>
-<catchphrase "id=c8">whether implied limitation on the commissioner's power to amend</catchphrase>
-<catchphrase "id=c9">taxation</catchphrase>
+<catchphrase id="c0">income taxation</catchphrase>
+<catchphrase id="c1">amended assessments</catchphrase>
+<catchphrase id="c2">commissioner's power to amend 'at any time'</catchphrase>
+<catchphrase id="c3">full self-assessment taxpayer</catchphrase>
+<catchphrase id="c4">giving effect to cgt event timing provision</catchphrase>
+<catchphrase id="c5">time of contract taken to be time of disposal</catchphrase>
+<catchphrase id="c6">amendments to the income tax assessment act 1936</catchphrase>
+<catchphrase id="c7">whether replaced provision relevant to the interpretation or replacing provision</catchphrase>
+<catchphrase id="c8">whether implied limitation on the commissioner's power to amend</catchphrase>
+<catchphrase id="c9">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -29,11 +29,11 @@
  
 3 At the relevant time, ss 166A(3)(c), (d) and (e) of the 1936 Act relevantly provided that, if a full self-assessment taxpayer gives to the Commissioner a return in respect of a year of income for which the taxpayer is a full self-assessment taxpayer, the following provisions were to apply:
  
-&#8226; the Commissioner is taken to have made an assessment of the taxable income, and the tax payable on that income, in accordance with what the taxpayer specified in the return;
+&amp;#8226; the Commissioner is taken to have made an assessment of the taxable income, and the tax payable on that income, in accordance with what the taxpayer specified in the return;
  
-&#8226; the assessment was taken to have been made on the day on which the return is lodged; and
+&amp;#8226; the assessment was taken to have been made on the day on which the return is lodged; and
  
-&#8226; on and after the day on which the Commissioner is taken to have made the assessment, the return is taken to be a notice of assessment under the hand of the Commissioner served on the taxpayer on the day on which the Commissioner is taken to have made the assessment.</sentence>
+&amp;#8226; on and after the day on which the Commissioner is taken to have made the assessment, the return is taken to be a notice of assessment under the hand of the Commissioner served on the taxpayer on the day on which the Commissioner is taken to have made the assessment.</sentence>
 <sentence id="s9">4 Section 204(1A) of the 1936 Act provided that the tax payable by a full self-assessment taxpayer for a year of income becomes due and payable on 1 December of the following year of income, unless the taxpayer's year of income ends on a day other than 30 June.</sentence>
 <sentence id="s10">In that case, the tax becomes due and payable on 1 June of the following year of income.</sentence>
 <sentence id="s11">Section 18(1) provided that any person may, with the leave of the Commissioner, adopt an accounting period consisting of the 12 months ending on some date other than 30 June.</sentence>
@@ -47,17 +47,17 @@
 <sentence id="s19">6 Section 170(1) provided, at the relevant time, that the Commissioner may, subject to the other provisions of s 170, amend any assessment at any time by making such alterations therein or additions thereto as he thinks necessary, notwithstanding that tax may have been paid in respect of the assessment.</sentence>
 <sentence id="s20">The scheme of s 170, at the relevant time, in so far as it imposed time limits on the exercise of the power to amend assessments, may be summarised as follows:
  
-&#8226; Ordinarily, there was a time limit of four years, running from:
+&amp;#8226; Ordinarily, there was a time limit of four years, running from:
  
 - the time tax became payable in some cases,
  
 - the date the assessment is taken to be made in other cases, and
  
 - the time profits or losses become ascertainable, in the case of long term transactions.</sentence>
-<sentence id="s21">&#8226; During a tax audit, the Commissioner could seek an extension of the four year period from the taxpayer or the Court.</sentence>
-<sentence id="s22">&#8226; Where the taxpayer had engaged in various tax avoidance schemes, the period was extended to six years.</sentence>
-<sentence id="s23">&#8226; Where the Commissioner is of the opinion that the taxpayer is guilty of fraud or evasion, an amendment to prevent resultant avoidance could be made at any time.</sentence>
-<sentence id="s24">&#8226; An amendment could be made at any time to give effect to the result of an appeal.</sentence>
+<sentence id="s21">&amp;#8226; During a tax audit, the Commissioner could seek an extension of the four year period from the taxpayer or the Court.</sentence>
+<sentence id="s22">&amp;#8226; Where the taxpayer had engaged in various tax avoidance schemes, the period was extended to six years.</sentence>
+<sentence id="s23">&amp;#8226; Where the Commissioner is of the opinion that the taxpayer is guilty of fraud or evasion, an amendment to prevent resultant avoidance could be made at any time.</sentence>
+<sentence id="s24">&amp;#8226; An amendment could be made at any time to give effect to the result of an appeal.</sentence>
 <sentence id="s25">7 However, s 170(10AA) relevantly provided that nothing in s 170 prevents the amendment, at any time, of an assessment for the purposes of giving effect to any of the provisions of the 1997 Act set out in the Table to s 170(10AA) ( the Table ).</sentence>
 <sentence id="s26">Item 30 in the Table contains s 104-10(3), as well as ss 104-10(6), 104-25(2), 104-45(2), 104-90(2), 104-110(2), 104-205(2), 104-225(5) and 104-230(5) of the 1997 Act.</sentence>
 <sentence id="s27">Each of the provisions in Item 30 provides that when a taxpayer enters into a contract having a specified effect, the time of a relevant CGT Event is when the taxpayer enters into the contract that has that effect.</sentence>
@@ -125,20 +125,20 @@ I shall deal with the Taxpayer's contention below.</sentence>
 <sentence id="s63">Settlement of the sale occurred during January 2001.</sentence>
 <sentence id="s64">The capital proceeds from the sale of the Business amounted to $ 43,359,741 as follows: 
  
-&#8226; net tangible assets: $ 1,998,656
+&amp;#8226; net tangible assets: $ 1,998,656
  
-&#8226; policy rights: $ 12,491,602
+&amp;#8226; policy rights: $ 12,491,602
  
-&#8226; goodwill: $ 28,869,482
+&amp;#8226; goodwill: $ 28,869,482
  
 15 On 16 July 2001, the Taxpayer lodged its income tax return for the 2001 Year of Income ( the Return ).</sentence>
 <sentence id="s65">In the Return, the Taxpayer disclosed that the capital proceeds from the sale of the Business were as indicated above.</sentence>
 <sentence id="s66">The Taxpayer showed its taxable income in the Return on the basis that, on the sale of the Business, it derived a taxable capital gain of $ 28,869,482.</sentence>
 <sentence id="s67">16 The Taxpayer and the Commissioner agree, for the purposes of the proceeding, that:
  
-&#8226; By the force of s 104-10(3) of the 1997 Act, the time of the disposal of the Business is taken to be 19 July 2000, the date of the Transfer of Business Agreement.</sentence>
-<sentence id="s68">&#8226; But for the operation of s 104-10(3), the time of the disposal of the Business, within the meaning of s 104-10(2) of the 1997 Act, would be January 2001, when the disposal actually occurred.</sentence>
-<sentence id="s69">&#8226; By the operation of ss 166A(3)(c), (d) and (e) of the 1936 Act:
+&amp;#8226; By the force of s 104-10(3) of the 1997 Act, the time of the disposal of the Business is taken to be 19 July 2000, the date of the Transfer of Business Agreement.</sentence>
+<sentence id="s68">&amp;#8226; But for the operation of s 104-10(3), the time of the disposal of the Business, within the meaning of s 104-10(2) of the 1997 Act, would be January 2001, when the disposal actually occurred.</sentence>
+<sentence id="s69">&amp;#8226; By the operation of ss 166A(3)(c), (d) and (e) of the 1936 Act:
  
  
  (i) the Commissioner was taken to have made an assessment of the taxable income of the Taxpayer, and of the tax payable on that income, equal to the amounts specified in the Return;
@@ -147,7 +147,7 @@ I shall deal with the Taxpayer's contention below.</sentence>
 <sentence id="s70">
  
 
-&#8226; By the operation of s 204(1A)(b) of the 1936 Act, the tax payable by the Taxpayer for the 2001 Year of Income, under the assessment taken to have been made under s 166A, became due and payable on 1 June 2001.</sentence>
+&amp;#8226; By the operation of s 204(1A)(b) of the 1936 Act, the tax payable by the Taxpayer for the 2001 Year of Income, under the assessment taken to have been made under s 166A, became due and payable on 1 June 2001.</sentence>
 <sentence id="s71">17 On 15 July 2005, the Commissioner issued to the Taxpayer a notice of amended assessment for the 2001 Year of Income.</sentence>
 <sentence id="s72">By that notice, the Taxpayer's assessable income was increased by including, as assessable income, the capital gain attributable to the disposal of policy rights of the Business, in the sum of $ 12,491,602.</sentence>
 <sentence id="s73">THE QUESTION 
@@ -245,7 +245,7 @@ I shall deal with the Taxpayer's contention below.</sentence>
 <sentence id="s161">However, unknown to the seller of an item, the buyer might in a later year, because of bankruptcy or some similar event, occurring prior to an assessment in respect of the first year, be unable to pay.</sentence>
 <sentence id="s162">THE MEANING OF SECTION 170(10AA) 
  
-40 When construing the terms of a provision in a statute, the Court must consider any other parts of the statute that throw light upon the intention of the legislature and that may serve to show that the particular provision ought not to be construed as it would be, if considered alone and apart from the rest of the statute (see Project Blue Sky Inc &amp; Ors v Australian Broadcasting Authority [1998] HCA 29 ; (1998) 194 CLR 355 at 372-373).</sentence>
+40 When construing the terms of a provision in a statute, the Court must consider any other parts of the statute that throw light upon the intention of the legislature and that may serve to show that the particular provision ought not to be construed as it would be, if considered alone and apart from the rest of the statute (see Project Blue Sky Inc &amp;amp; Ors v Australian Broadcasting Authority [1998] HCA 29 ; (1998) 194 CLR 355 at 372-373).</sentence>
 <sentence id="s163">That is to say, the context of the provision being interpreted must be considered.</sentence>
 <sentence id="s164">It is appropriate to consider the context in the first instance, and not merely at some later stage, when ambiguity might be thought to arise.</sentence>
 <sentence id="s165">The context includes such things as the existing state of the law and the mischief that one may discern that the statute was intended to remedy.</sentence>

@@ -3,12 +3,12 @@
 <name>Australian Securities and Investments Commission, in the matter of Storm Financial Limited (Receivers and Managers Appointed) (Administrators Appointed) v Storm Financial Limited (Receivers and Managers Appointed)(Administrators Appointed) (No 2) [2009] FCA 298 (1 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/298.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">documents</catchphrase>
-<catchphrase "id=c1">inspection and access to documents by non-parties</catchphrase>
-<catchphrase "id=c2">whether access should be granted in interests of open administration of justice</catchphrase>
-<catchphrase "id=c3">access should be granted subject to limitations</catchphrase>
-<catchphrase "id=c4">(cth) federal court rules 1979 o 46 r 6</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">documents</catchphrase>
+<catchphrase id="c1">inspection and access to documents by non-parties</catchphrase>
+<catchphrase id="c2">whether access should be granted in interests of open administration of justice</catchphrase>
+<catchphrase id="c3">access should be granted subject to limitations</catchphrase>
+<catchphrase id="c4">(cth) federal court rules 1979 o 46 r 6</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -50,7 +50,7 @@
 <sentence id="s35">The limited use made of Exhibits MRR1 and MRR2 to the affidavit of Mr Ryan does mean, in my opinion, that it would not be appropriate to grant leave for them to be inspected, at least in a pre-emptive way.</sentence>
 <sentence id="s36">Save for those exhibits, it seems to me that Mr Ryan's affidavit ought to be the subject of a general grant of leave to any non-party to inspect its contents.</sentence>
 <sentence id="s37">The body of the affidavit consists of a narrative of the circumstances leading up to the making of ASIC's winding up application.</sentence>
-<sentence id="s38">The other exhibits to it consist of the administrators' report to creditors, the Information Memorandum and of correspondence between Russell &amp; Co on behalf of Mr and Mrs Cassimatis and ASIC.</sentence>
+<sentence id="s38">The other exhibits to it consist of the administrators' report to creditors, the Information Memorandum and of correspondence between Russell &amp;amp; Co on behalf of Mr and Mrs Cassimatis and ASIC.</sentence>
 <sentence id="s39">I referred to or extracted some of this material in my reasons for judgement.</sentence>
 <sentence id="s40">It would assist the understanding of a non-party of the proceedings to be able freely to inspect this material.</sentence>
 <sentence id="s41">Beyond this, it seems to me that there should be no general, pre-emptive grant of leave to inspect material on the court file or the transcript.</sentence>
@@ -79,7 +79,7 @@ Dated: 1 April 2009
  
  Counsel for the Receivers and Managers of the First Defendant: Mr GA Thompson SC 
  
- Solicitor for the Administrators of the First Defendant: Tucker &amp; Cowen Solicitors 
+ Solicitor for the Administrators of the First Defendant: Tucker &amp;amp; Cowen Solicitors 
  
  Counsel for the Second and Third Defendants: Mr P Dunning SC 
  

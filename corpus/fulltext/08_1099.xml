@@ -3,9 +3,9 @@
 <name>Bristow v Australian Securities and Investments Commission [2008] FCA 1099 (22 July 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1099.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for extension of time to file and serve notice of appeal</catchphrase>
-<catchphrase "id=c1">allegations of duress in agreeing to proposed orders arising out of mediated settlement</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase id="c0">application for extension of time to file and serve notice of appeal</catchphrase>
+<catchphrase id="c1">allegations of duress in agreeing to proposed orders arising out of mediated settlement</catchphrase>
+<catchphrase id="c2">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -34,11 +34,11 @@
 <sentence id="s21">Earlier (at 242-243) their Honours had said that in the circumstances of the case it was not one where the court possessed a discretion to set aside the compromise.</sentence>
 <sentence id="s22">Instances of cases where there was such a discretion were:
  
-&#8226; Misapprehension or mistake by counsel in consenting to an order or settlement;
+&amp;#8226; Misapprehension or mistake by counsel in consenting to an order or settlement;
  
-&#8226; Where the assistance of the Court is invoked to carry into effect a compromise which otherwise could not be enforced;
+&amp;#8226; Where the assistance of the Court is invoked to carry into effect a compromise which otherwise could not be enforced;
  
-&#8226; Where counsel, owing to mistake or misapprehension, has acted in opposition to the client's instructions.</sentence>
+&amp;#8226; Where counsel, owing to mistake or misapprehension, has acted in opposition to the client's instructions.</sentence>
 <sentence id="s23">Their Honours went on to say that where a compromise was made within the actual as well as the apparent authority of counsel there was no discretion to set the resulting order aside.</sentence>
 <sentence id="s24">It could only be set aside upon a ground which would suffice to render a contract "void or voidable or to entitle the party to equitable relief against it, grounds for example such as illegality, misrepresentation, non-disclosure of a material fact where disclosure is required, duress, mistake, undue influence, abuse of confidence or the like" (at 243-244).</sentence>
 <sentence id="s25">8 The central thrust of Mr Bristow's proposed appeal is an allegation of duress in the conduct of the mediation.</sentence>

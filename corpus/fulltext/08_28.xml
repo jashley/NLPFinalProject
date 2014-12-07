@@ -3,13 +3,13 @@
 <name>Washington v Hadgkiss [2008] FCA 28 (29 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/28.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">australian building and construction industry commission investigation into alleged breach of s 816 of workplace relations act 1996 (cth)</catchphrase>
-<catchphrase "id=c1">whether investigation tainted by improper purpose</catchphrase>
-<catchphrase "id=c2">whether improper purpose the substantial purpose of investigation</catchphrase>
-<catchphrase "id=c3">"substantial purpose" test</catchphrase>
-<catchphrase "id=c4">inference of improper purpose held : application dismissed</catchphrase>
-<catchphrase "id=c5">no improper purpose</catchphrase>
-<catchphrase "id=c6">industrial relations</catchphrase>
+<catchphrase id="c0">australian building and construction industry commission investigation into alleged breach of s 816 of workplace relations act 1996 (cth)</catchphrase>
+<catchphrase id="c1">whether investigation tainted by improper purpose</catchphrase>
+<catchphrase id="c2">whether improper purpose the substantial purpose of investigation</catchphrase>
+<catchphrase id="c3">"substantial purpose" test</catchphrase>
+<catchphrase id="c4">inference of improper purpose held : application dismissed</catchphrase>
+<catchphrase id="c5">no improper purpose</catchphrase>
+<catchphrase id="c6">industrial relations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -107,10 +107,10 @@
 <sentence id="s30">20 On 30 October 2007, the ABCC served a further notice on Mr Washington dated 29 October 2007.</sentence>
 <sentence id="s31">It differed from the 28 September 2007 notice in the following material respects:
  
- &#8226; only 3 construction sites were listed;
- &#8226; Mr Washington and Mr Mier were now also under investigation in respect of the alleged breaches of the WR Act ;
- &#8226; Mr McLoughlin was no longer subject to the investigation;
- &#8226; the suspected contraventions were particularised as set out at [12], [13], [16] and [17] above in respect of the events of 23 May 2007, 20 June 2007 and 6 September 2007 (twice).</sentence>
+ &amp;#8226; only 3 construction sites were listed;
+ &amp;#8226; Mr Washington and Mr Mier were now also under investigation in respect of the alleged breaches of the WR Act ;
+ &amp;#8226; Mr McLoughlin was no longer subject to the investigation;
+ &amp;#8226; the suspected contraventions were particularised as set out at [12], [13], [16] and [17] above in respect of the events of 23 May 2007, 20 June 2007 and 6 September 2007 (twice).</sentence>
 <sentence id="s32">
  ABCC complaints about Mr Setka 
  
@@ -259,7 +259,7 @@ Dated: 29 January 2008
 
 
  Counsel for the Applicants: Mr H Borenstein SC with Mr C Dowling.</sentence>
-<sentence id="s113">Solicitor for the Applicants: Slater &amp; Gordon.</sentence>
+<sentence id="s113">Solicitor for the Applicants: Slater &amp;amp; Gordon.</sentence>
 <sentence id="s114">Counsel for the Respondent: Mr A Southall QC with Mr J Bourke.</sentence>
 <sentence id="s115">Solicitor for the Respondent: Australian Government Solicitor.</sentence>
 <sentence id="s116">Date of Hearing: 11 December 2007.</sentence>

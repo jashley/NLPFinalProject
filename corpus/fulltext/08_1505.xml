@@ -3,16 +3,16 @@
 <name>Kirby v Centro Properties Limited [2008] FCA 1505 (10 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1505.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">representative proceedings</catchphrase>
-<catchphrase "id=c1">whether multiple actions raising same issues should be permitted to proceed</catchphrase>
-<catchphrase "id=c2">factors to be considered in deciding whether to stay, consolidate or hold a joint trial</catchphrase>
-<catchphrase "id=c3">whether priority in time of filing, interests of lawyers, interests of litigation funders or interest of named plaintiff are relevant</catchphrase>
-<catchphrase "id=c4">whether best interests of the group as a whole should be the standard for determining which action should proceed and on what basis</catchphrase>
-<catchphrase "id=c5">whether multiple plaintiffs may be separately represented</catchphrase>
-<catchphrase "id=c6">risk of conflict of interest between solicitor and group members in class actions</catchphrase>
-<catchphrase "id=c7">whether litigation committee should be appointed in order to determine best interests of group members as a whole and select class legal representative</catchphrase>
-<catchphrase "id=c8">whether solicitor to represent class should be selected by means of court-supervised competitive bidding process</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase id="c0">representative proceedings</catchphrase>
+<catchphrase id="c1">whether multiple actions raising same issues should be permitted to proceed</catchphrase>
+<catchphrase id="c2">factors to be considered in deciding whether to stay, consolidate or hold a joint trial</catchphrase>
+<catchphrase id="c3">whether priority in time of filing, interests of lawyers, interests of litigation funders or interest of named plaintiff are relevant</catchphrase>
+<catchphrase id="c4">whether best interests of the group as a whole should be the standard for determining which action should proceed and on what basis</catchphrase>
+<catchphrase id="c5">whether multiple plaintiffs may be separately represented</catchphrase>
+<catchphrase id="c6">risk of conflict of interest between solicitor and group members in class actions</catchphrase>
+<catchphrase id="c7">whether litigation committee should be appointed in order to determine best interests of group members as a whole and select class legal representative</catchphrase>
+<catchphrase id="c8">whether solicitor to represent class should be selected by means of court-supervised competitive bidding process</catchphrase>
+<catchphrase id="c9">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -21,7 +21,7 @@
 <sentence id="s1">Richard Kirby is the named applicant in two actions, one brought against Centro Properties Limited (CPL) and CPT Manager Limited (CPT Manager) and the other one against Centro Retail Limited (CRL) and Centro MCS Manager Limited (Centro MCS).</sentence>
 <sentence id="s2">Maurice Blackburn Pty Ltd is the solicitor on the record.</sentence>
 <sentence id="s3">The third action (and the last in point of time) was issued by Nicholas Vlachos, Monatex Pty Ltd and Ramon Franco and has all four Centro companies as respondents.</sentence>
-<sentence id="s4">Slater &amp; Gordon are the solicitors for the applicants.</sentence>
+<sentence id="s4">Slater &amp;amp; Gordon are the solicitors for the applicants.</sentence>
 <sentence id="s5">The issue for determination is whether all three actions should be permitted to proceed.</sentence>
 <sentence id="s6">2 The Kirby actions and the Vlachos action share the same nucleus of operative facts.</sentence>
 <sentence id="s7">The claims that are made, and the causes of action upon which those claims are based, are substantially identical.</sentence>
@@ -90,7 +90,7 @@
 <sentence id="s67">Would separately represented plaintiffs be allowed to have two speeches?</sentence>
 <sentence id="s68">11 It is true that separate representation is sometimes allowed.</sentence>
 <sentence id="s69">For example, it was allowed in Johnson Tiles Pty Ltd v Esso Australia Limited (1999) 56 ATPR 41-679 at [70], but only on the basis that the solicitors agreed jointly to engage one set of counsel to represent the named plaintiffs.</sentence>
-<sentence id="s70">But if there is a falling out between separately represented co-plaintiffs, one would have to be removed as plaintiff and added as a defendant: Holden v Silkstone and Dodworth Coal &amp; Iron Co Ltd (1881) 45 TLR (NS) 531.</sentence>
+<sentence id="s70">But if there is a falling out between separately represented co-plaintiffs, one would have to be removed as plaintiff and added as a defendant: Holden v Silkstone and Dodworth Coal &amp;amp; Iron Co Ltd (1881) 45 TLR (NS) 531.</sentence>
 <sentence id="s71">12 The third method of dealing with multiple proceedings is to order a joint trial.</sentence>
 <sentence id="s72">In a joint trial, separate representation is permissible.</sentence>
 <sentence id="s73">The advantage of a joint trial is that it avoids the possibility of inconsistent findings.</sentence>
@@ -105,9 +105,9 @@
 <sentence id="s82">14 A convenient place to begin seeking out the solution is with the position taken by the parties.</sentence>
 <sentence id="s83">The multiple proceeding problem was first raised by Maurice Blackburn.</sentence>
 <sentence id="s84">The Kirby actions had been filed on 9 May 2008, being a Friday.</sentence>
-<sentence id="s85">At that time Maurice Blackburn knew, or it very soon discovered, that Slater &amp; Gordon were planning to issue their own class action (which was ultimately filed on 23 May 2008).</sentence>
-<sentence id="s86">On Tuesday, 13 May 2008, Maurice Blackburn advised Slater &amp; Gordon that IMF would fund Slater &amp; Gordon's clients if they agreed to join the Kirby actions.</sentence>
-<sentence id="s87">The offer was subject to a condition: Slater &amp; Gordon would be required to undertake not to encourage Kirby action group members to opt out of the actions.</sentence>
+<sentence id="s85">At that time Maurice Blackburn knew, or it very soon discovered, that Slater &amp;amp; Gordon were planning to issue their own class action (which was ultimately filed on 23 May 2008).</sentence>
+<sentence id="s86">On Tuesday, 13 May 2008, Maurice Blackburn advised Slater &amp;amp; Gordon that IMF would fund Slater &amp;amp; Gordon's clients if they agreed to join the Kirby actions.</sentence>
+<sentence id="s87">The offer was subject to a condition: Slater &amp;amp; Gordon would be required to undertake not to encourage Kirby action group members to opt out of the actions.</sentence>
 <sentence id="s88">There was some discussion about the proposal, but nothing came of it.</sentence>
 <sentence id="s89">15 Freehills (who, it will be remembered, act for CPL and CPT Manager) broached the multiple proceeding issue on 9 July 2008 in a letter written to all the other parties.</sentence>
 <sentence id="s90">In their letter Freehills suggested that there were two options to choose between: either the Kirby actions or the Vlachos action be stayed pending the determination of the other action.</sentence>
@@ -121,18 +121,18 @@
 <sentence id="s98">The jury in any event convicted them.</sentence>
 <sentence id="s99">Subsequently Hunter sued the police officers for assault.</sentence>
 <sentence id="s100">His claim was struck out as an impermissible collateral attack on the findings made at the criminal trial.</sentence>
-<sentence id="s101">In Arthur J S Hall &amp; Co v Simons [2002] 1 AC 615, the House of Lords said that ordinarily the principles of res judicata and issue estoppel would be adequate to cover collateral challenges to civil decisions.</sentence>
+<sentence id="s101">In Arthur J S Hall &amp;amp; Co v Simons [2002] 1 AC 615, the House of Lords said that ordinarily the principles of res judicata and issue estoppel would be adequate to cover collateral challenges to civil decisions.</sentence>
 <sentence id="s102">But they said the Hunter abuse of process principle could be relied upon if necessary.</sentence>
 <sentence id="s103">It is not clear whether the Hunter principle will be applied in full in Australia: compare Rogers v The Queen [1994] HCA 42 ; (1994) 181 CLR 251 with D'Orta-Ekenaike v Victoria Legal Aid [2005] HCA 12 ; (2005) 223 CLR 1.</sentence>
 <sentence id="s104">But it is unlikely that any court would permit a party to relitigate a question or issue which has already been decided against him even though the other side cannot strictly satisfy the requirements of res judicata or issue estoppel.</sentence>
-<sentence id="s105">17 In the United States in Parklane Hosiery Co Inc v Shore 439 US 322 (1979), which was itself a class action case, the US Supreme Court held that the court has broad discretion to allow offensive, "non-mutual collateral estoppel"--that is, a plaintiff in a later action may, where it would promote judicial economy, consistency of result and would not otherwise be unfair, invoke issue estoppel against a defendant such as Centro to bar relitigation of an issue even if the plaintiff was not joined in the earlier action or in privity with a party to that action: Parklane at 329-31; see also V Morabito, "Defendant Class Actions and the Right to Opt Out: Lessons for Canada from the United States" (2004) 14 Duke J of Comp &amp; Intl L 197, 228 (collecting the US and Canadian authorities on "non-mutual collateral estoppel" or inherent jurisdiction to bar re-litigation of issues especially as applied in class actions).</sentence>
+<sentence id="s105">17 In the United States in Parklane Hosiery Co Inc v Shore 439 US 322 (1979), which was itself a class action case, the US Supreme Court held that the court has broad discretion to allow offensive, "non-mutual collateral estoppel"--that is, a plaintiff in a later action may, where it would promote judicial economy, consistency of result and would not otherwise be unfair, invoke issue estoppel against a defendant such as Centro to bar relitigation of an issue even if the plaintiff was not joined in the earlier action or in privity with a party to that action: Parklane at 329-31; see also V Morabito, "Defendant Class Actions and the Right to Opt Out: Lessons for Canada from the United States" (2004) 14 Duke J of Comp &amp;amp; Intl L 197, 228 (collecting the US and Canadian authorities on "non-mutual collateral estoppel" or inherent jurisdiction to bar re-litigation of issues especially as applied in class actions).</sentence>
 <sentence id="s106">18 Moreover, even if the principle identified in Parklane is not a part of the general doctrine of issue estoppel in Australia, I would certainly consider adopting it at least in the limited context of class actions, either pursuant to the Court's authority under s 33ZF(1) of the Federal Court Act or possibly under the Court's inherent jurisdiction to prevent an abuse of process.</sentence>
 <sentence id="s107">With respect to the latter, see Saffron v Commissioner of Taxation (1991) 30 FCR 578 , 583 (Davies J), 588 (Lockhart J) and 599 (Beaumont J), where the Full Court suggested that while the Parklane principle was not a part of issue estoppel jurisprudence under Anglo-Australian law, it appeared to perform the same function and yield the same result as would obtain under the Australian abuse of process doctrine.</sentence>
 <sentence id="s108">19 But I digress.</sentence>
-<sentence id="s109">Returning to the chronology of events, each of Maurice Blackburn and Slater &amp; Gordon responded to Freehills by letter dated 21 July 2008.</sentence>
+<sentence id="s109">Returning to the chronology of events, each of Maurice Blackburn and Slater &amp;amp; Gordon responded to Freehills by letter dated 21 July 2008.</sentence>
 <sentence id="s110">In its letter Maurice Blackburn stated that it did not propose to comment on whether the Vlachos action should be stayed.</sentence>
 <sentence id="s111">On the other hand, it did provide detailed reasons why the Kirby actions should not be stayed.</sentence>
-<sentence id="s112">Slater &amp; Gordon's response was that none of the actions should be stayed.</sentence>
+<sentence id="s112">Slater &amp;amp; Gordon's response was that none of the actions should be stayed.</sentence>
 <sentence id="s113">Its reasons referred to the differences in the pleadings and that the group members in the various actions did not overlap.</sentence>
 <sentence id="s114">20 Following this exchange, there were discussions between Maurice Blackburn and Freehills concerning what should be done.</sentence>
 <sentence id="s115">What was said has not been disclosed.</sentence>
@@ -235,11 +235,11 @@
 <sentence id="s210">To the contrary, it is a reason for refusing the order.</sentence>
 <sentence id="s211">39 If nothing comes of my suggestion to form a litigation committee, I must do something also to reduce the cost of maintaining multiple actions.</sentence>
 <sentence id="s212">The most significant pre-trial cost in securities class actions is the cost incurred in discovery.</sentence>
-<sentence id="s213">I am sure that Maurice Blackburn and Slater &amp; Gordon can work out a protocol that would substantially avoid duplication of effort in obtaining and analysing document discovery.</sentence>
-<sentence id="s214">I have seen a proposal for this to occur that has been put forward by Slater &amp; Gordon.</sentence>
+<sentence id="s213">I am sure that Maurice Blackburn and Slater &amp;amp; Gordon can work out a protocol that would substantially avoid duplication of effort in obtaining and analysing document discovery.</sentence>
+<sentence id="s214">I have seen a proposal for this to occur that has been put forward by Slater &amp;amp; Gordon.</sentence>
 <sentence id="s215">The response by Maurice Blackburn has been that the proposal is untenable.</sentence>
 <sentence id="s216">I am not convinced they mean this.</sentence>
-<sentence id="s217">I know well enough senior lawyers in both Maurice Blackburn and Slater &amp; Gordon and I am quite sure they can work together and establish a regime for their respective staff to work together.</sentence>
+<sentence id="s217">I know well enough senior lawyers in both Maurice Blackburn and Slater &amp;amp; Gordon and I am quite sure they can work together and establish a regime for their respective staff to work together.</sentence>
 <sentence id="s218">They have already done so in large class actions and can do so again.</sentence>
 <sentence id="s219">If it proves necessary to reach agreement on a protocol and the parties are unable to do it on their own, I will assign a Registrar to help them.</sentence>
 <sentence id="s220">The several actions will then proceed until the inevitable mediation.</sentence>
@@ -272,7 +272,7 @@ P Wallis
  Counsel for the Applicants in VID 366 of 2008: J Burnside QC
 L Armstrong 
  
- Solicitor for the Applicants in VID 366 of 2008: Slater &amp; Gordon 
+ Solicitor for the Applicants in VID 366 of 2008: Slater &amp;amp; Gordon 
  
  Counsel for the First and Second Respondents in VID 366 of 2008: J Beach QC
 M Garner 

@@ -3,9 +3,9 @@
 <name>Canberra Residential Developments Pty Limited v Brendas (No 5) [2009] FCA 34 (30 January 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/34.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">fiduciary duties owed by a director of a trustee company developing land on behalf of a syndicate of builders who formed a joint venture to do so</catchphrase>
-<catchphrase "id=c1">whether duties breached when the joint venture deed precluded the acquisition of further land without the unanimous approval of all members of the joint venture and, in the absence of any such approval, a company in which the director was interested acquired other land held: there was no breach of fiduciary duty by the director</catchphrase>
-<catchphrase "id=c2">equity</catchphrase>
+<catchphrase id="c0">fiduciary duties owed by a director of a trustee company developing land on behalf of a syndicate of builders who formed a joint venture to do so</catchphrase>
+<catchphrase id="c1">whether duties breached when the joint venture deed precluded the acquisition of further land without the unanimous approval of all members of the joint venture and, in the absence of any such approval, a company in which the director was interested acquired other land held: there was no breach of fiduciary duty by the director</catchphrase>
+<catchphrase id="c2">equity</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -86,7 +86,7 @@ The 'Corporations Law' was defined in the Constitution to be the 'Corporations L
 <sentence id="s46">The Second, Third and Fourth Respondents
  The fourth respondent, Canberra Land Developments Pty Limited ACN 103 875 823 was registered in the Australian Capital Territory on 26 February 2003.</sentence>
 <sentence id="s47">Between 26 February 2003 and 26 March 2003 the sole director and secretary of the fourth respondent was Malcolm John Weston.</sentence>
-<sentence id="s48">On 26 March 2003 Mr Weston ceased to be a director and secretary, his place on the board being taken by Graham Leonard Brand, the Chief Executive Officer of Morgan &amp; Banks Investments Pty Limited and the first respondent, Spiros Brendas, who also became its secretary.</sentence>
+<sentence id="s48">On 26 March 2003 Mr Weston ceased to be a director and secretary, his place on the board being taken by Graham Leonard Brand, the Chief Executive Officer of Morgan &amp;amp; Banks Investments Pty Limited and the first respondent, Spiros Brendas, who also became its secretary.</sentence>
 <sentence id="s49">There are 100 shares on issue in the fourth respondent, 50 of which are held by Graham Leonard Brand and 50 of which are held by Kenoss Pty Limited ACN 008 544 232, the third respondent.</sentence>
 <sentence id="s50">The second respondent in the proceedings, Beverley Rose Brendas, is the wife of the first respondent, Spiros Brendas.</sentence>
 <sentence id="s51">The First Joint Venture
@@ -142,16 +142,16 @@ The 'Corporations Law' was defined in the Constitution to be the 'Corporations L
 <sentence id="s93">MTJ Pty Ltd Ivan Tijan 11.</sentence>
 <sentence id="s94">Mascot Homes Pty Ltd Denis Nickolas Vidovic 12.</sentence>
 <sentence id="s95">Amanda Homes Pty Ltd Jozo (Joseph) Glavinic 13.</sentence>
-<sentence id="s96">I &amp; D Homes Pty Ltd Drago Novakovic and Ivan Ivankovic 14.</sentence>
+<sentence id="s96">I &amp;amp; D Homes Pty Ltd Drago Novakovic and Ivan Ivankovic 14.</sentence>
 <sentence id="s97">Twilight Homes (ACT) Pty Limited Ivica (Ivan) Bacic 15.</sentence>
 <sentence id="s98">MHK Enterprises Pty Ltd Mico (Mice) Kljusuric 16.</sentence>
-<sentence id="s99">B &amp; T Homes Pty Ltd Ivan Bulum 17.</sentence>
+<sentence id="s99">B &amp;amp; T Homes Pty Ltd Ivan Bulum 17.</sentence>
 <sentence id="s100">Jukic Homes Pty Ltd Josip Jukic 18.</sentence>
 <sentence id="s101">Libertas Homes Pty Ltd Joe Zdravko Ostojic 19.</sentence>
 <sentence id="s102">Galovac Pty Ltd Joso Tokich 20.</sentence>
 <sentence id="s103">Lemezina Bros Pty Ltd George Lemezina 21.</sentence>
-<sentence id="s104">Victory Homes Pty Ltd Vince Crncevic Phillip &amp; Anton Homes Pty Ltd and Antophil Pty Ltd t/as PA &amp; A Partnership Drago Domazet 23.</sentence>
-<sentence id="s105">I &amp; A Homes Pty Ltd Anto Vujica and John Tisot 24.</sentence>
+<sentence id="s104">Victory Homes Pty Ltd Vince Crncevic Phillip &amp;amp; Anton Homes Pty Ltd and Antophil Pty Ltd t/as PA &amp;amp; A Partnership Drago Domazet 23.</sentence>
+<sentence id="s105">I &amp;amp; A Homes Pty Ltd Anto Vujica and John Tisot 24.</sentence>
 <sentence id="s106">Rosedale Homes Canberra Pty Ltd Nicholas Joseph Andric and Bryan Anthony Carroll 25.</sentence>
 <sentence id="s107">Pinto Homes Pty Ltd Walter Pinto 26.</sentence>
 <sentence id="s108">ACT Builders Pty Ltd Boris Domitrovic and John Domitrovic and Don Sipinkas and Tony Milosis 27.</sentence>
@@ -159,7 +159,7 @@ The 'Corporations Law' was defined in the Constitution to be the 'Corporations L
 <sentence id="s110">Zelic Homes Pty Ltd Frank Zelic 29.</sentence>
 <sentence id="s111">Mostar Pty Ltd Zdenko Cvitanovic 30.</sentence>
 <sentence id="s112">Patrician Homes Pty Ltd Stefan Stefanac 31.</sentence>
-<sentence id="s113">Ivan &amp; Vesela Ostojic Ivan Ostojic 32.</sentence>
+<sentence id="s113">Ivan &amp;amp; Vesela Ostojic Ivan Ostojic 32.</sentence>
 <sentence id="s114">Golem Homes Pty Ltd Zeljko Golem 33.</sentence>
 <sentence id="s115">Cobvec Developments Pty Ltd Tony Vecchi and Robert Cobanov 34.</sentence>
 <sentence id="s116">Matkovic Pty Ltd Andrija Glavinic 
@@ -308,7 +308,7 @@ It will be appreciated that whilst Mr Frank Porreca was the son of a Principal, 
  ...' 
  
 
- Clause 6 dealt with ' Subdivision &amp; Allocation of Residential Blocks '.</sentence>
+ Clause 6 dealt with ' Subdivision &amp;amp; Allocation of Residential Blocks '.</sentence>
 <sentence id="s160">Under the heading ' Purposes and Objectives of the Joint Venture and Manager's Powers ' clause 2 of the Joint Venture Deed provided as follows: 
  
  '2.1 The purposes and objectives of the Joint Venture are firstly; ratification of the acquisition of the Land by the Manager on behalf of the Joint Venture Members; secondly, undertaking the Project in stages; and the then division of the Residential Blocks to issue on completion of each stage, equally as between the Joint Venture Members in proportion to the respective Portfolio Share of such Member to the total Portfolio Share.</sentence>
@@ -709,7 +709,7 @@ The partnership secured land for clients for the purpose of subdivision.</senten
 <sentence id="s339">In another era one would have addressed corporate capacity by reference to the true meaning of a company's memorandum of association.</sentence>
 <sentence id="s340">But that is not the issue in the context of a claimed breach of fiduciary duty by a director of a company registered in 2001.</sentence>
 <sentence id="s341">The scope and character of a company's undertaking should be ascertained for present purposes by seeking to ascertain the general intention and common understanding of the members (see generally per Dixon J, as his Honour then was in H.A.</sentence>
-<sentence id="s342">Stephenson &amp; Son Limited (in liquidation) v Gillanders, Arbuthnot and Company [1931] HCA 47 ; (1931) 45 CLR 476 at 487.</sentence>
+<sentence id="s342">Stephenson &amp;amp; Son Limited (in liquidation) v Gillanders, Arbuthnot and Company [1931] HCA 47 ; (1931) 45 CLR 476 at 487.</sentence>
 <sentence id="s343">See also per Menhennitt J in Re Tivoli Freeholds Ltd [1972] V.R.</sentence>
 <sentence id="s344">445 at 470-472).</sentence>
 <sentence id="s345">In the context of clauses 2.5 and 3.2 of the Joint Venture Deed it is difficult to see how the scope and character of the undertaking of the applicant could be expanded beyond its role as trustee and manager of Horse Park 1, in the absence of an amendment to the Joint Venture Deed or a unanimous resolution of the joint venture members.</sentence>
@@ -795,7 +795,7 @@ The partnership secured land for clients for the purpose of subdivision.</senten
  At [171] in Farah Constructions the High Court asked, rhetorically what was required by the requirement of 'knowledge' expressed in the second limb of Barnes v Addy .</sentence>
 <sentence id="s397">The Court proceeded to respond to its question at [174]-[178] as follows: 
  
- '174 ... it has been customary to analyse the requirement of knowledge in the second limb of Barnes v Addy by reference to the five categories agreed between counsel in Baden v Soci&eacute;t&eacute; G&eacute;n&eacute;rale pour Favoriser le D&eacute;velopment du Commerce et de l'Industrie en France SA : 
+ '174 ... it has been customary to analyse the requirement of knowledge in the second limb of Barnes v Addy by reference to the five categories agreed between counsel in Baden v Soci&amp;eacute;t&amp;eacute; G&amp;eacute;n&amp;eacute;rale pour Favoriser le D&amp;eacute;velopment du Commerce et de l'Industrie en France SA : 
  "(i) actual knowledge; (ii) wilfully shutting one's eyes to the obvious; (iii) wilfully and recklessly failing to make such inquiries as an honest and reasonable man would make; (iv) knowledge of circumstances which would indicate the facts to an honest and reasonable man; (v) knowledge of circumstances which would put an honest and reasonable man on inquiry.</sentence>
 <sentence id="s398">" 
  In Bank of Credit and Commerce International (Overseas) Ltd v Akindele (BCCI) , Nourse LJ observed that the first three categories have generally been taken to involve "actual knowledge", as understood both at common law and in equity, and the last two as instances of "constructive knowledge" as developed in equity, particularly in disputes respecting old system conveyancing.</sentence>
@@ -1053,7 +1053,7 @@ His file note concluded:
 
  Mr Glavinic's file note of the same meeting had the heading: 
  
- 'MITING (sic) C.R.D FOR OCTION (sic) &amp; PRI PAID (sic) DEPOZET (sic) OF $50,000 PAID FOR DEPOZIT (sic)
+ 'MITING (sic) C.R.D FOR OCTION (sic) &amp;amp; PRI PAID (sic) DEPOZET (sic) OF $50,000 PAID FOR DEPOZIT (sic)
  NA MITING (sic) BILI ANDRO DENI (sic) ROBERT FRANK' 
  
 
@@ -1120,7 +1120,7 @@ At a meeting of 21 members of the then group on 21 November 2001 it was reported
 
  In respect of the first joint venture, the portfolio share of the third respondent was similar to that of a number of other syndicate or joint venture members namely 15/470.</sentence>
 <sentence id="s549">It would appear that the third respondent did not end up taking a larger percentage, such as 20 per cent.</sentence>
-<sentence id="s550">Clause 6 of the Canberra Residential Developments (No 1) Joint Venture Deed was headed ' Subdivision &amp; Allocation of Residential Blocks '.</sentence>
+<sentence id="s550">Clause 6 of the Canberra Residential Developments (No 1) Joint Venture Deed was headed ' Subdivision &amp;amp; Allocation of Residential Blocks '.</sentence>
 <sentence id="s551">Under that heading clause 6.1 provided as follows: 
  
  '6.1 In accordance with the requirements of the Deed, the manager shall engage a Chartered Engineer and other consultants and shall appoint a Valuer.</sentence>
@@ -1264,14 +1264,14 @@ The reference to 'litigation' would appear to be more accurately expressed as a 
  Against that item Mr Glavinic wrote on his copy of the agenda 'not etend (sic) eni (sic) mor (sic) miting (sic)'.</sentence>
 <sentence id="s592">Frank Porreca's note of what he described as a 'Committee Meeting' attended by Messrs Mihailidis, Glavinic, Robert Cobanov and himself on 11 February 2003 included: 
  
- '&#8226; Spiro rang about meeting 
+ '&amp;#8226; Spiro rang about meeting 
  
  Spiro has begun proceeding with issues [unreadable] disputes.</sentence>
 <sentence id="s593">As a result he shouldn't be involved with continuous discussion of contractual and progress reports of activity on site.</sentence>
 <sentence id="s594">' 
  Mr Cobanov's account of the 11 February 2003 meeting included against the heading 'SPIRO': 
  
- '&#8594; asked why not at meeting &#8594; issues in regards to contract and disputes &#8594; conflict of interest' 
+ '&amp;#8594; asked why not at meeting &amp;#8594; issues in regards to contract and disputes &amp;#8594; conflict of interest' 
  
 
  Notwithstanding Mr Glavinic's note on his copy of the agenda for the 'Directors Meeting' on 11 February 2003, Mr Brendas would appear to have had notice of and to have attended a 'Directors Meeting' called for 18 February 2003 at the Croatia Deakin Soccer Club.</sentence>
@@ -1284,7 +1284,7 @@ Whilst Mr Frank Porreca's note of the 'Committee Meeting' only shows Mr Mihailid
 <sentence id="s597">
  - Spiro agrees that there is a fixed contract and so he can't claim against CRD 
  - Spiro doesn't want to claim against CRD and wants to claim against YCE [Young Consulting Engineers Pty Limited] 
- - Spiro believes that YCE &amp; in-particular Jim Boxall is to blame 
+ - Spiro believes that YCE &amp;amp; in-particular Jim Boxall is to blame 
  - Spiro explained that Kennoss (sic) Contractors are running the business not Petra 
  - Spiro to talk to his solicitor 
  - Spiro given additional $1.0 mil.</sentence>
@@ -1295,7 +1295,7 @@ Whilst Mr Frank Porreca's note of the 'Committee Meeting' only shows Mr Mihailid
  A translation of Mr Glavinic's notes of the 18 February 2003 meeting confirmed that Mr Brendas claimed that Petra Civil Pty Limited had a dispute with Young Consulting Engineers Pty Limited.</sentence>
 <sentence id="s600">The note continued: 
  
- '&#8226; We had a big discussion with Spiro.</sentence>
+ '&amp;#8226; We had a big discussion with Spiro.</sentence>
 <sentence id="s601">Our position is that we are concerned with Spiro being on the Board, because he has started the proceedings.</sentence>
 <sentence id="s602">He said he will talk to his solicitor and will give us his answer after that talk, and will make a decision.</sentence>
 <sentence id="s603">We said to him why he goes to CRD and not to Yangs [Youngs] , he also said it's Yang's [Young's] fault that he has no contract with Yangs [Youngs] so he goes to CRD.</sentence>
@@ -1307,15 +1307,15 @@ Whilst Mr Frank Porreca's note of the 'Committee Meeting' only shows Mr Mihailid
 <sentence id="s606">Whilst Mr Brendas was not recorded as an intended 'attendee', it would appear that the meeting was attended by Messrs Mihailidis, Glavinic, Frank Porreca, Robert Cobanov and Brendas.</sentence>
 <sentence id="s607">Mr Frank Porreca's note of the 'Committee Meeting' included, relevantly: 
  
- '&#8226; Because of conflict there will be only 1 issued (sic) discussed and Spiro will leave after --- he agreed' 
+ '&amp;#8226; Because of conflict there will be only 1 issued (sic) discussed and Spiro will leave after --- he agreed' 
  
 
  It would appear that Mr Brendas made it known to the others that he would call a general meeting of members of the first joint venture for all to attend.</sentence>
 <sentence id="s608">Mr Frank Porreca's notes record: 
  
- '&#8226; Spiro acknowledges that he has delayed CRD 
- &#8226; Spiro to fix issues with practical completion 
- &#8226; Spiro explained that he won't cease work on the job 
+ '&amp;#8226; Spiro acknowledges that he has delayed CRD 
+ &amp;#8226; Spiro to fix issues with practical completion 
+ &amp;#8226; Spiro explained that he won't cease work on the job 
  
  Spiro believes that the letters from Ian Gilespie-Jones are not actions to continue: though believes that he needs these letters to secure his position should the contract be fullfilled (sic) and liquidated damages applied.</sentence>
 <sentence id="s609">' 
@@ -1497,9 +1497,9 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
  Mr Frank Porreca's notes of the 'Committee Meeting' held on 12 March 2003 which was attended by Messrs Mihailidis, Robert Cobanov, Spiros Brendas, Andro Glavinic and himself included in respect of future meetings a proposal by Mr Glavinic which Mr Porreca noted in the following terms: 
  
  'Spiro is here in his capacity as a director of CRD.</sentence>
-<sentence id="s667">Any further discussions to do with Petra are to be agendaed by Spiro through Danny --- Acknowledge &amp; approved by all.</sentence>
-<sentence id="s668">Also added by Dany (sic) that any items to be discussed by CRD about Petra then Spiro will be excused from the meeting &#8594; Agreed and supported by all.</sentence>
-<sentence id="s669">Dany (sic) , Andro, Spiro , Robert &amp; Frank.</sentence>
+<sentence id="s667">Any further discussions to do with Petra are to be agendaed by Spiro through Danny --- Acknowledge &amp;amp; approved by all.</sentence>
+<sentence id="s668">Also added by Dany (sic) that any items to be discussed by CRD about Petra then Spiro will be excused from the meeting &amp;#8594; Agreed and supported by all.</sentence>
+<sentence id="s669">Dany (sic) , Andro, Spiro , Robert &amp;amp; Frank.</sentence>
 <sentence id="s670">' 
  
 
@@ -1549,12 +1549,12 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
 
  Mr Cobanov's note of the same meeting included: 
  
- 'LAND RELEASE End of March ... Land Auction brought forward from &#8594; May' 
+ 'LAND RELEASE End of March ... Land Auction brought forward from &amp;#8594; May' 
  
 
  Mr Frank Porreca's note of the 'Committee Meeting' concluded with: 
  
- '&#8226; Auction --- end of March --- Combined May &amp; March.</sentence>
+ '&amp;#8226; Auction --- end of March --- Combined May &amp;amp; March.</sentence>
 <sentence id="s689">' 
  
 
@@ -1566,10 +1566,10 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
  The applicant concedes that Mr Brendas 'was not permitted to participate' in a new joint venture with other interested syndicate or joint venture members from joint venture no.</sentence>
 <sentence id="s690">1.</sentence>
 <sentence id="s691">As previously indicated such an application for the right to bid in respect of Condor 4 Estate, Horse Park II Estate, Dunlop 4 West Estate and Block 6 Section 157 Belconnen was signed by Mr Glavinic on 27 February 2003.</sentence>
-<sentence id="s692">On 4 March 2003 an internal memo was sent from the manager of 'Property Development &amp; Investment Group 2' to 'Property Finance Manager &amp; SCB, PD &amp; IG' within National Australia Bank Limited in relation to the possible involvement of Canberra Residential Developments Pty Limited and others in the purchase of Condor 4, Dunlop 4 or Horse Park 2.</sentence>
+<sentence id="s692">On 4 March 2003 an internal memo was sent from the manager of 'Property Development &amp;amp; Investment Group 2' to 'Property Finance Manager &amp;amp; SCB, PD &amp;amp; IG' within National Australia Bank Limited in relation to the possible involvement of Canberra Residential Developments Pty Limited and others in the purchase of Condor 4, Dunlop 4 or Horse Park 2.</sentence>
 <sentence id="s693">The memorandum included: 
  
- ' Re: Canberra Residential Developments Pty Ltd (CRD) &amp; Others (To form a new entity) 
+ ' Re: Canberra Residential Developments Pty Ltd (CRD) &amp;amp; Others (To form a new entity) 
  
 
  
@@ -1577,7 +1577,7 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
  NOTE AS A NEW ENTITY IS BEING FORMED AND LEND WILL BE 70% OF MARKET VALUE THIS APPLICATION IS NOT AGGREGATED WITH EXISTING CRD EXPOSURE.</sentence>
 <sentence id="s694">
  AUCTION 27/3/03 
- Comments PFI &amp; Then Peter Mitchell SCB URGENT ACTION 27/3/03 
+ Comments PFI &amp;amp; Then Peter Mitchell SCB URGENT ACTION 27/3/03 
  
 
  
@@ -1587,7 +1587,7 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
 
  
  
- Please note Stage 1 horsepark estate was settled 1/3/03 ( $ 9 Million) Stage 2 anticipated 4/03 Stage 3 &amp;3b 6/03 
+ Please note Stage 1 horsepark estate was settled 1/3/03 ( $ 9 Million) Stage 2 anticipated 4/03 Stage 3 &amp;amp;3b 6/03 
  
 
  
@@ -1608,7 +1608,7 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
  
  
  Purpose --- The Majority of the members of CRD plus a number of other quality builders who wish to join the group now wish to purchase further land to develop as they will be finished the current project in a few months time.</sentence>
-<sentence id="s699">They perceive that shareholders will number between 30 &amp; 40 and require indicative approval to go to Auction to bid for 2 of the 3 englobo Land auctions that will occur this month.</sentence>
+<sentence id="s699">They perceive that shareholders will number between 30 &amp;amp; 40 and require indicative approval to go to Auction to bid for 2 of the 3 englobo Land auctions that will occur this month.</sentence>
 <sentence id="s700">It is important to note that there is only a couple of land releases each year.</sentence>
 <sentence id="s701">
  
@@ -1628,7 +1628,7 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
 
  
  
- The strength of this group is their number &amp; financial position &amp; if there was a issue the risk is spread between 30-45 guarantors.</sentence>
+ The strength of this group is their number &amp;amp; financial position &amp;amp; if there was a issue the risk is spread between 30-45 guarantors.</sentence>
 <sentence id="s702">
  ... 
  The groups main aim is to produce stock to their members at a base price.</sentence>
@@ -1643,7 +1643,7 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
  
 
  Whilst the agenda for a 'Directors Meeting' on 28 January 2003 included as an item 'Land Release Report', Mr Brendas had already taken an initiative to have Kenoss Pty Limited, the third respondent take an interest in Horse Park 2 itself.</sentence>
-<sentence id="s705">On 22 January 2003 one of the third respondent's staff members, Mr Mal Weston, wrote to Raine &amp; Horne at Gungahlin as follows: 
+<sentence id="s705">On 22 January 2003 one of the third respondent's staff members, Mr Mal Weston, wrote to Raine &amp;amp; Horne at Gungahlin as follows: 
  
  ' RE: HORSEPARK ESTATE 2 
  
@@ -1712,7 +1712,7 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
  
 
  On 4 February 2003 Colliers International provided a report to Australia and New Zealand Banking Group Limited which included a chapter on 'Market Commentary'.</sentence>
-<sentence id="s719">That chapter included a table headed ' RESIDENTIAL, COMMERCIAL &amp; COMMUNITY LAND RELEASES 2002 --- 2003 ' after the sentence reading 'The following is a draft land release program for the ACT market for the coming next 2 years'.</sentence>
+<sentence id="s719">That chapter included a table headed ' RESIDENTIAL, COMMERCIAL &amp;amp; COMMUNITY LAND RELEASES 2002 --- 2003 ' after the sentence reading 'The following is a draft land release program for the ACT market for the coming next 2 years'.</sentence>
 <sentence id="s720">Under the heading: 
  
  ' 2002-03 Residential Leases 
@@ -1723,7 +1723,7 @@ A little later Mr Cobanov amplified what he meant by his references to the meeti
  
 five separate greenfields sites were identified which it was anticipated would yield 120, 370, 260, 130 --- 160 and 470 dwellings.</sentence>
 <sentence id="s721">One of those sites was Gungahlin --- Horse Park Stage II.</sentence>
-<sentence id="s722">On or about 4 March 2003 Mr Gerard Abbey of Raine &amp; Horne Real Estate wrote a letter to Mr R Drummond at National Commercial Finance Pty Limited which was copied to Mr Mal Weston of Kenoss and Bernie Bryant of BDB Property Consulting regarding 'Horse Park 2 Estate'.</sentence>
+<sentence id="s722">On or about 4 March 2003 Mr Gerard Abbey of Raine &amp;amp; Horne Real Estate wrote a letter to Mr R Drummond at National Commercial Finance Pty Limited which was copied to Mr Mal Weston of Kenoss and Bernie Bryant of BDB Property Consulting regarding 'Horse Park 2 Estate'.</sentence>
 <sentence id="s723">The letter included: 
  
  'This note follows up our meeting last week with Spiros Brendas and Mal Weston of Kenoss, together with Bernie Bryant and yourself.</sentence>
@@ -1768,7 +1768,7 @@ five separate greenfields sites were identified which it was anticipated would y
 <sentence id="s731">These should be held back to obtain the premium.</sentence>
 <sentence id="s732">
  ... 
- I look forward to your acceptance of the proposal and Raine &amp; Horne's appointment as the exclusive marketing agent.</sentence>
+ I look forward to your acceptance of the proposal and Raine &amp;amp; Horne's appointment as the exclusive marketing agent.</sentence>
 <sentence id="s733">' 
  
 
@@ -1798,7 +1798,7 @@ five separate greenfields sites were identified which it was anticipated would y
  
 
  On 13 March 2003 ING Bank (Australia) Limited wrote to Mr Richard Drummond at Morgan and Banks Investments Pty Ltd indicating that ING was keen to support Morgan and Banks Investments Pty Ltd in the potential acquisition of Horse Park 2.</sentence>
-<sentence id="s744">On 14 March 2003 Mr Gerard Abbey of Raine &amp; Horne Gungahlin wrote to Kenross (sic) Pty Ltd confirming the 'presale of blocks in the Horse Park Estate 2 to the extent of the following: 
+<sentence id="s744">On 14 March 2003 Mr Gerard Abbey of Raine &amp;amp; Horne Gungahlin wrote to Kenross (sic) Pty Ltd confirming the 'presale of blocks in the Horse Park Estate 2 to the extent of the following: 
  
  ' Buyer 1 ..... 70 blocks 
  Buyer 2 ..... 50 blocks 
@@ -1813,10 +1813,10 @@ five separate greenfields sites were identified which it was anticipated would y
  
 
  On or about 27 February 2003 the fourth respondent lodged an application for the Right to Bid at the Restricted Auction and Industrial Conduct Undertaking with the Gungahlin Development Authority.</sentence>
-<sentence id="s746">On about 20 March 2003 Gerrard Toltz sent an email to Ian Gilespie-Jones, the solicitor for the third respondent enclosing a proposed Joint Venture Agreement between Morgan &amp; Banks Developments Pty Limited for whom Mr Toltz acted and the third respondent.</sentence>
+<sentence id="s746">On about 20 March 2003 Gerrard Toltz sent an email to Ian Gilespie-Jones, the solicitor for the third respondent enclosing a proposed Joint Venture Agreement between Morgan &amp;amp; Banks Developments Pty Limited for whom Mr Toltz acted and the third respondent.</sentence>
 <sentence id="s747">Following the making by the fourth respondent of the successful bid for Horse Park 2 and the fall of the hammer, a deposit of $2,530,000 was paid to the Gungahlin Development Authority on 27 March 2003.</sentence>
-<sentence id="s748">Half of the deposit of $1,265,000 was paid by 'Morgan &amp; Banks' and the other half of $1,265,000 was paid by Kenoss Pty Limited.</sentence>
-<sentence id="s749">On 27 March 2003 a joint venture agreement was entered into between Morgan &amp; Banks Developments Pty Limited, the third respondent and the fourth respondent.</sentence>
+<sentence id="s748">Half of the deposit of $1,265,000 was paid by 'Morgan &amp;amp; Banks' and the other half of $1,265,000 was paid by Kenoss Pty Limited.</sentence>
+<sentence id="s749">On 27 March 2003 a joint venture agreement was entered into between Morgan &amp;amp; Banks Developments Pty Limited, the third respondent and the fourth respondent.</sentence>
 <sentence id="s750">A 'Shareholders Agreement' was also entered into between the same parties on the same day.</sentence>
 <sentence id="s751">Annual General Meeting of syndicate/joint venture members of the first joint venture
  By an undated document on the letterhead of the applicant, the 'CRD Committee' gave notice of an Annual General Meeting to be held at 7.30pm on 19 November 2002 at the Croatia Deakin Club.</sentence>
@@ -1841,11 +1841,11 @@ five separate greenfields sites were identified which it was anticipated would y
 
  
  
- &#9679; Project report 
- &#9679; Design of Terrace Units 
- &#9679; Design and submission of other houses 
- &#9679; CRD administration 
- &#9679; Future ventures 
+ &amp;#9679; Project report 
+ &amp;#9679; Design of Terrace Units 
+ &amp;#9679; Design and submission of other houses 
+ &amp;#9679; CRD administration 
+ &amp;#9679; Future ventures 
  
 
  
@@ -1873,13 +1873,13 @@ five separate greenfields sites were identified which it was anticipated would y
 
  The witnesses
  Five witnesses were called by the applicant.</sentence>
-<sentence id="s764">These were Richard Drummond of National Commercial Finance Pty Limited who undertook spotting activities in respect of real estate investments for Morgan &amp; Banks.</sentence>
-<sentence id="s765">Mr Drummond was not entitled to payment of a fee in relation to his introduction of Horse Park 2 to Morgan &amp; Banks.</sentence>
+<sentence id="s764">These were Richard Drummond of National Commercial Finance Pty Limited who undertook spotting activities in respect of real estate investments for Morgan &amp;amp; Banks.</sentence>
+<sentence id="s765">Mr Drummond was not entitled to payment of a fee in relation to his introduction of Horse Park 2 to Morgan &amp;amp; Banks.</sentence>
 <sentence id="s766">Rather, he was entitled to a profit share and was paid an ongoing fee for assisting with the development.</sentence>
 <sentence id="s767">He wasn't paid an upfront fee and he only received a share of profit if a certain return was achieved.</sentence>
-<sentence id="s768">Mr Drummond's fees were to Morgan &amp; Banks Developments Pty Limited's account and Mr Weston's fees were to Kenoss Pty Limited's account.</sentence>
+<sentence id="s768">Mr Drummond's fees were to Morgan &amp;amp; Banks Developments Pty Limited's account and Mr Weston's fees were to Kenoss Pty Limited's account.</sentence>
 <sentence id="s769">
-Mr Graham Brand who was the sole director of Morgan &amp; Banks Developments Pty Limited, a wholly owned subsidiary of Morgan &amp; Banks Investments Pty Limited, and a director of the fourth respondent, gave evidence for the applicant.</sentence>
+Mr Graham Brand who was the sole director of Morgan &amp;amp; Banks Developments Pty Limited, a wholly owned subsidiary of Morgan &amp;amp; Banks Investments Pty Limited, and a director of the fourth respondent, gave evidence for the applicant.</sentence>
 <sentence id="s770">The other witnesses for the applicant were Messrs Robert Cobanov, Frank Porreca and Andro Glavinic.</sentence>
 <sentence id="s771">On a number of issues I found Mr Cobanov's memory to be quite uncertain.</sentence>
 <sentence id="s772">Amongst other things, his evidence displayed a misunderstanding on his part of the role of directors in relation to a company and demonstrated an inability to distinguish a joint venture from a company.</sentence>
@@ -1954,11 +1954,11 @@ Dated: 30 January 2009
  
  Counsel for the First, Second and Third Respondents: A S Martin SC and D J C Mossop 
  
- Solicitor for the First, Second and Third Respondents: Gillespie-Jones &amp; Co 
+ Solicitor for the First, Second and Third Respondents: Gillespie-Jones &amp;amp; Co 
  
  Counsel for the fourth respondent: B J Salmon QC (to 7 March 2008) and S M Whybrow (from 10 April 2008) 
  
- Solicitor for the fourth respondent: J S O'Connor Harris &amp; Co 
+ Solicitor for the fourth respondent: J S O'Connor Harris &amp;amp; Co 
  
  Dates of Hearing: 26, 27, 28, 29, 30 November 2007, 4, 5, 6, 7 March and 10, 11 April 2008 
  

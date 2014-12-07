@@ -3,9 +3,9 @@
 <name>A.C.M. Services Pty Ltd ACN 055 655 082 v Linmac Cranes [2008] FCA 76 (15 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/76.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory injunction</catchphrase>
-<catchphrase "id=c1">principles to be applied</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase id="c0">interlocutory injunction</catchphrase>
+<catchphrase id="c1">principles to be applied</catchphrase>
+<catchphrase id="c2">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -87,10 +87,10 @@
 <sentence id="s44">17 The original owner of most of the alleged copyright works is said to be Linmac.</sentence>
 <sentence id="s45">Evidence of four successive assignments in respect of Linmac's drawings is necessary to show ACM's ownership of any copyright in them:
  
- &#8226; Linmac to Forward Engineers Pty Ltd ("Forward");
- &#8226; Forward to Westrac Engineers Pty Ltd ("Westrac");
- &#8226; Westrac to Ground Force; 
- &#8226; Ground Force to ACM.</sentence>
+ &amp;#8226; Linmac to Forward Engineers Pty Ltd ("Forward");
+ &amp;#8226; Forward to Westrac Engineers Pty Ltd ("Westrac");
+ &amp;#8226; Westrac to Ground Force; 
+ &amp;#8226; Ground Force to ACM.</sentence>
 <sentence id="s46">
 
 18 A fifth assignment, from ACM to Dellgale, is said to ground Dellgale's interest in certain of the alleged copyright works.</sentence>
@@ -119,15 +119,15 @@
 25 The elements of a claim in equity for the protection of confidential information are well settled.</sentence>
 <sentence id="s68">A person seeking such protection must be able to prove the following:
  
- &#8226; precisely what constitutes the information sought to be protected;
- &#8226; that a necessary quality of confidentiality reposes in that information;
- &#8226; that the information was received by the person against whom equitable relief is sought in such circumstances as to impart a duty of confidence; and
- &#8226; that there is an actual or a threatened breach of that duty of confidence in respect of the information.</sentence>
+ &amp;#8226; precisely what constitutes the information sought to be protected;
+ &amp;#8226; that a necessary quality of confidentiality reposes in that information;
+ &amp;#8226; that the information was received by the person against whom equitable relief is sought in such circumstances as to impart a duty of confidence; and
+ &amp;#8226; that there is an actual or a threatened breach of that duty of confidence in respect of the information.</sentence>
 <sentence id="s69">See Coco v A.N.</sentence>
-<sentence id="s70">Clark (Engineers) Limited [1969] RPC 41 at 48; Corrs Pavey Whiting &amp; Byrne v Collector of Customs (1987) 14 FCR 434 at 443.</sentence>
+<sentence id="s70">Clark (Engineers) Limited [1969] RPC 41 at 48; Corrs Pavey Whiting &amp;amp; Byrne v Collector of Customs (1987) 14 FCR 434 at 443.</sentence>
 <sentence id="s71">
 
-26 Corrs Pavey Whiting &amp; Byrne v Collector of Customs (1987) 14 FCR 434 is also pertinent for the reminder given by Gummow J (at 443) as to the need in relation to a claim like the present for a plaintiff to be able to identify with precision, rather than in global terms, that which is said to be the confidential information.</sentence>
+26 Corrs Pavey Whiting &amp;amp; Byrne v Collector of Customs (1987) 14 FCR 434 is also pertinent for the reminder given by Gummow J (at 443) as to the need in relation to a claim like the present for a plaintiff to be able to identify with precision, rather than in global terms, that which is said to be the confidential information.</sentence>
 <sentence id="s72">27 Copies of certain drawings were exhibited to affidavits on behalf of the Applicants.</sentence>
 <sentence id="s73">An inspection of these discloses title blocks in which Linmac's name and ownership is stated.</sentence>
 <sentence id="s74">There is though, no overt claim of confidentiality or even copyright on the face of the drawings.</sentence>
@@ -185,7 +185,7 @@ Dated: 15 February 2008
 
  Counsel for the Applicants: Mr A Franklin SC 
  
- Solicitor for the Applicants: Bennett &amp; Philp Solicitors 
+ Solicitor for the Applicants: Bennett &amp;amp; Philp Solicitors 
  
  Counsel for the Respondents: Mr DM Logan 
  

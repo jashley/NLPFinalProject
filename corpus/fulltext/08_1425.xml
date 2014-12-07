@@ -3,17 +3,17 @@
 <name>Lindholm, in the matter of Opes Prime Stockbroking Limited (Administrators appointed) (Receivers and Managers appointed) [2008] FCA 1425 (17 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1425.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether contract may be construed in light of subsequent events</catchphrase>
-<catchphrase "id=c1">administrators</catchphrase>
-<catchphrase "id=c2">contingent creditors</catchphrase>
-<catchphrase "id=c3">valuation of creditors' claims for voting purposes</catchphrase>
-<catchphrase "id=c4">valuation of claims for proof purposes</catchphrase>
-<catchphrase "id=c5">whether hindsight reference to events then in the future is appropriate in valuation of contingent claims</catchphrase>
-<catchphrase "id=c6">whether an administrator is analogous to a liquidator</catchphrase>
-<catchphrase "id=c7">"analogous", "administrator", "close-out netting", "liquidator", "set-off"</catchphrase>
-<catchphrase "id=c8">contracts</catchphrase>
-<catchphrase "id=c9">corporations</catchphrase>
-<catchphrase "id=c10">words and phrases</catchphrase>
+<catchphrase id="c0">whether contract may be construed in light of subsequent events</catchphrase>
+<catchphrase id="c1">administrators</catchphrase>
+<catchphrase id="c2">contingent creditors</catchphrase>
+<catchphrase id="c3">valuation of creditors' claims for voting purposes</catchphrase>
+<catchphrase id="c4">valuation of claims for proof purposes</catchphrase>
+<catchphrase id="c5">whether hindsight reference to events then in the future is appropriate in valuation of contingent claims</catchphrase>
+<catchphrase id="c6">whether an administrator is analogous to a liquidator</catchphrase>
+<catchphrase id="c7">"analogous", "administrator", "close-out netting", "liquidator", "set-off"</catchphrase>
+<catchphrase id="c8">contracts</catchphrase>
+<catchphrase id="c9">corporations</catchphrase>
+<catchphrase id="c10">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -127,10 +127,10 @@
 <sentence id="s106">Remember that close-out netting results in the cancellation of unperformed promises, the placement of a value on the unperformed promises and then the setting off of the gains or losses (as the case may be) to produce a single net balance that is owed one way or the other.</sentence>
 <sentence id="s107">But it will only avoid the exposure if the set-off is effective in insolvency.</sentence>
 <sentence id="s108">19 At one time there were doubts about the effectiveness of close-out netting in insolvency.</sentence>
-<sentence id="s109">Cases such as Shipton, Anderson &amp; Co (1927) Limited v Micks, Lambert &amp; Co (1936) 55 Ll L Rep 384 suggest that it is effective.</sentence>
+<sentence id="s109">Cases such as Shipton, Anderson &amp;amp; Co (1927) Limited v Micks, Lambert &amp;amp; Co (1936) 55 Ll L Rep 384 suggest that it is effective.</sentence>
 <sentence id="s110">On the other hand, decisions such as British Eagle International Airlines Ltd v Compagnie Nationale Air France [1975] 2 Lloyd's Rep 43 and Carreras Rothmans Limited v Freeman Mathews Treasure Limited [1985] Ch 207 , led to concerns that a close-out netting provision in a contract might contravene the pari passu provisions in insolvency legislation, and thus be contrary to public policy.</sentence>
 <sentence id="s111">20 Given the importance of close-out netting to the global financial markets, many governments have enacted statutes that sanction the practice.</sentence>
-<sentence id="s112">For a survey, see Johnston &amp; Werlen eds, "Set-off Law and Practice: An International Handbook" (2006).</sentence>
+<sentence id="s112">For a survey, see Johnston &amp;amp; Werlen eds, "Set-off Law and Practice: An International Handbook" (2006).</sentence>
 <sentence id="s113">In 1998, the Payment Systems and Netting Act 1998 (Cth) confirmed the effectiveness of close-out netting in Australia.</sentence>
 <sentence id="s114">The background to the legislation has been helpfully traced by counsel for ANZ.</sentence>
 <sentence id="s115">What follows is based on their submissions.</sentence>

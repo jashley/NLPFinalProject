@@ -3,12 +3,12 @@
 <name>Australian Competition and Consumer Commission v Teracomm Ltd [2009] FCA 903 (20 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/903.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">misleading representation</catchphrase>
-<catchphrase "id=c1">representation of one-off service whereas in fact subscription service</catchphrase>
-<catchphrase "id=c2">false representations</catchphrase>
-<catchphrase "id=c3">quality of content services advertised</catchphrase>
-<catchphrase "id=c4">declaration by court where contravening conduct found</catchphrase>
-<catchphrase "id=c5">trade practices</catchphrase>
+<catchphrase id="c0">misleading representation</catchphrase>
+<catchphrase id="c1">representation of one-off service whereas in fact subscription service</catchphrase>
+<catchphrase id="c2">false representations</catchphrase>
+<catchphrase id="c3">quality of content services advertised</catchphrase>
+<catchphrase id="c4">declaration by court where contravening conduct found</catchphrase>
+<catchphrase id="c5">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -33,12 +33,12 @@
 <sentence id="s16">" by sending an SMS to a nominated number.</sentence>
 <sentence id="s17">These encouraging lines of text were written in a comparatively large font in the body of the advertisement.</sentence>
 <sentence id="s18">This was in contrast to another section of text, written in a smaller font (size 5.2 font) at the foot of the advertisement.</sentence>
-<sentence id="s19">Among other things, the latter text included information in the form of a help line, restrictions on use of the service, the fact that "[s]tandard GPRS/WAP/SMS rates apply", how "to stop", and concluded with a reference to "[s]ee T&amp;Cs www.mob.vc".</sentence>
+<sentence id="s19">Among other things, the latter text included information in the form of a help line, restrictions on use of the service, the fact that "[s]tandard GPRS/WAP/SMS rates apply", how "to stop", and concluded with a reference to "[s]ee T&amp;amp;Cs www.mob.vc".</sentence>
 <sentence id="s20">The following is the full text of what appeared at the foot of the advertisement: 
  www.Mob.vc gives you great mobile downloads in easy to use subscription packages.</sentence>
 <sentence id="s21">Need help?</sentence>
 <sentence id="s22">Call 1300884610.</sentence>
-<sentence id="s23">Service is available to those aged 16+ &amp; bill payer's permission.</sentence>
+<sentence id="s23">Service is available to those aged 16+ &amp;amp; bill payer's permission.</sentence>
 <sentence id="s24">LoveMe Club: Get 3 calculations each week.</sentence>
 <sentence id="s25">Funsound Club: Get 3 funsounds each week.</sentence>
 <sentence id="s26">Wallpaper Club: Get 5 wallpapers each week.</sentence>
@@ -46,7 +46,7 @@
 <sentence id="s28">Standard GPRS/WAP/SMS rates apply.</sentence>
 <sentence id="s29">To stop text stopfun, stoplove, stopcheat, stopluck, stopflirt, stopwall or stop.</sentence>
 <sentence id="s30">Payments easily takes place over your monthly phone bill or pre paid credit.</sentence>
-<sentence id="s31">See T&amp;Cs www.mob.vc .</sentence>
+<sentence id="s31">See T&amp;amp;Cs www.mob.vc .</sentence>
 <sentence id="s32">
 
  The advertisement in the June edition was substantially the same as the May advertisement, though the "fortune cookie" service had been replaced with the "celebrity soulmate" and "who was I" services.</sentence>
@@ -72,7 +72,7 @@
 <sentence id="s51">To cancel subscription text stop to 19 30 40.</sentence>
 <sentence id="s52">Payment easily takes place over your monthly phone bill.</sentence>
 <sentence id="s53">Service provided by Teracomm.</sentence>
-<sentence id="s54">T&amp;Cs see www.vivamobile.com.au 
+<sentence id="s54">T&amp;amp;Cs see www.vivamobile.com.au 
 
  The July advertisement was reproduced in all material respects in both the August edition and the September edition.</sentence>
 <sentence id="s55">Teracomm discontinued advertising in Dolly after the September edition.</sentence>

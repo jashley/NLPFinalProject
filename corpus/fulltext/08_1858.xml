@@ -3,12 +3,12 @@
 <name>Repatriation Commission v Goulding [2008] FCA 1858 (9 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1858.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">whether either s 160 or s 163 of the evidence act 1995 creates a presumption of receipt of notice</catchphrase>
-<catchphrase "id=c2">misapprehension as to correct law</catchphrase>
-<catchphrase "id=c3">what constitutes "effective service" under s 28a of the acts interpretation act 1901</catchphrase>
-<catchphrase "id=c4">what constitutes the giving of written notice in accordance with s 155aa of the veterans' entitlements act 1986 (cth)</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase id="c0">appeal from administrative appeals tribunal</catchphrase>
+<catchphrase id="c1">whether either s 160 or s 163 of the evidence act 1995 creates a presumption of receipt of notice</catchphrase>
+<catchphrase id="c2">misapprehension as to correct law</catchphrase>
+<catchphrase id="c3">what constitutes "effective service" under s 28a of the acts interpretation act 1901</catchphrase>
+<catchphrase id="c4">what constitutes the giving of written notice in accordance with s 155aa of the veterans' entitlements act 1986 (cth)</catchphrase>
+<catchphrase id="c5">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -83,15 +83,15 @@
 <sentence id="s39">11 These provisions have been considered in a number of decisions of this Court, many of which were conveniently summarised by Marshall J in Hartnett v Migration Agents Registration Authority [2004] FCA 50 at [50] .</sentence>
 <sentence id="s40">The relevant parts of that summary for the purposes of this decision are as follows:
  
-&#8226; the questions stated must truly be pure questions of law because the existence of a question of law is the subject matter of the appeal itself;
+&amp;#8226; the questions stated must truly be pure questions of law because the existence of a question of law is the subject matter of the appeal itself;
  
-&#8226; the question must be stated with precision as a true question of law;
+&amp;#8226; the question must be stated with precision as a true question of law;
  
-&#8226; it begs the question of law to commence it with the words "whether the Tribunal erred in law", if the question is not a question of law; no formulation such as "erred in law" or "was open on a matter of law" can turn a question into a question of law if it is not such a question;
+&amp;#8226; it begs the question of law to commence it with the words "whether the Tribunal erred in law", if the question is not a question of law; no formulation such as "erred in law" or "was open on a matter of law" can turn a question into a question of law if it is not such a question;
  
-&#8226; it is impermissible to frame a question in a way which assumes the existence of legal obligations or duties or assumes that a particular statutory construction is the proper construction; and
+&amp;#8226; it is impermissible to frame a question in a way which assumes the existence of legal obligations or duties or assumes that a particular statutory construction is the proper construction; and
  
-&#8226; whether the AAT has overlooked a submission "worthy of serious consideration" is a question of law.</sentence>
+&amp;#8226; whether the AAT has overlooked a submission "worthy of serious consideration" is a question of law.</sentence>
 <sentence id="s41">12 In addition to this summary, the following principles, stated in various other decisions, are relevant to this decision: the jurisdiction of this Court is dependent upon a question of law being identified: Brown v Repatriation Commission [2006] FCA 914 at [7] ; these requirements (above) are applied strictly: Lambe v Director-General of Social Services (1981) 4 ALD 362 at 264 and Bishop v Department of Education, Employment and Workplace Relations [2008] FCA 1118 at [5] ; on an appeal of this kind, this Court should proceed with restraint and not inflate questions of fact into questions of law: Blackwood Hodge (Aust) Pty Ltd v Collector of Customs (NSW) [No 2] [1980] FCA 96 ; (1980) 3 ALD 38 at 50, Federal Commissioner of Taxation v Swift (1989) 18 ALD 679 at 693 and Politis v Federal Commissioner of Taxation (1988) 16 ALD 707 at 708; and the reasons of the Tribunal should not be read over zealously, or with a keen eye for error: Minister for Immigration and Ethnic Affairs v Wu Shan Laing [1996] HCA 6 ; (1996) 185 CLR 259 at 272 and 291.</sentence>
 <sentence id="s42">THE QUESTIONS OF LAW STATED BY THE COMMISSION 
  
@@ -105,7 +105,7 @@
 14 In its outline of written submissions the Commission made the following submissions in support of its three questions of law:
  Question of Law 2(a) 
  
-&#9679; Section 155AA(4) does not provide that the written notice must be sent by mail to the residential address of a veteran.</sentence>
+&amp;#9679; Section 155AA(4) does not provide that the written notice must be sent by mail to the residential address of a veteran.</sentence>
 <sentence id="s46">The Tribunal in the present case mistakenly concluded that the notice must be mailed to a veteran's residential address.</sentence>
 <sentence id="s47">Its reasoning involved two legal errors:
  
@@ -120,22 +120,22 @@
  
  Question of Law 2(b) 
  
-&#9679; In the light of the findings of fact that the Tribunal had made, it was not open to the Tribunal to conclude that the contents of the section 155A(4) notice were not brought to the attention of Mr Goulding, and that he had not been "effectively served.</sentence>
+&amp;#9679; In the light of the findings of fact that the Tribunal had made, it was not open to the Tribunal to conclude that the contents of the section 155A(4) notice were not brought to the attention of Mr Goulding, and that he had not been "effectively served.</sentence>
 <sentence id="s53">" The content of the notice had unquestionably been brought to Mr Goulding's attention.</sentence>
 <sentence id="s54">Question of Law 2(c) 
  
 The Tribunal failed to deal with the following submission:
  
-&#9679; on Mr Goulding's evidence, the section 155A(4) notice arrived at his brother's address, the address to which Mr Goulding wished his mail to be sent, in late May;
+&amp;#9679; on Mr Goulding's evidence, the section 155A(4) notice arrived at his brother's address, the address to which Mr Goulding wished his mail to be sent, in late May;
  
-&#9679; the exact date on which the notice is presumed to have arrived can be calculated by reference to s 163 of the Evidence Act 1995 .</sentence>
+&amp;#9679; the exact date on which the notice is presumed to have arrived can be calculated by reference to s 163 of the Evidence Act 1995 .</sentence>
 <sentence id="s55">The date of the notice was Thursday 24 May 2007, and the fifth business day after that date was 31 May 2007;
  
-&#9679; the notice was brought to Mr Goulding's attention by his brother, and Mr Goulding understood its contents;
+&amp;#9679; the notice was brought to Mr Goulding's attention by his brother, and Mr Goulding understood its contents;
  
-&#9679; Mr Goulding failed to respond to the notice for the same reason as the applicant in Rodda - because his advocate discouraged him from doing so;
+&amp;#9679; Mr Goulding failed to respond to the notice for the same reason as the applicant in Rodda - because his advocate discouraged him from doing so;
  
-&#9679; the Principal Member's delegate was obliged to dismiss the application when no written statement was received in response to the notice within the 28 day period that commenced on the date on which the notice is presumed, under s 163 of the Evidence Act 1995 , to have arrived.</sentence>
+&amp;#9679; the Principal Member's delegate was obliged to dismiss the application when no written statement was received in response to the notice within the 28 day period that commenced on the date on which the notice is presumed, under s 163 of the Evidence Act 1995 , to have arrived.</sentence>
 <sentence id="s56">CONSIDERATION 
  Relevant statutory provision 
  
@@ -234,7 +234,7 @@ The Tribunal failed to deal with the following submission:
 <sentence id="s105">28 In my view this construction of s 163 of the Evidence Act is wrong.</sentence>
 <sentence id="s106">Instead I consider the Tribunal was quite correct in concluding, as it did (see [8(b)(i)] above), that s 163 of the Evidence Act provides for a presumption as to when Commonwealth correspondence has been sent , and it does not provide for a presumption as to when that correspondence is received.</sentence>
 <sentence id="s107">I consider this comes from both the plain meaning of the words used in the section and the purpose of the section.</sentence>
-<sentence id="s108">I should add that in reaching this conclusion, I am forced to reach a different conclusion from that reached by Rares J in SZGMB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2006] FCA 437 , a decision that was relied upon by the Commission before me.</sentence>
+<sentence id="s108">I should add that in reaching this conclusion, I am forced to reach a different conclusion from that reached by Rares J in SZGMB v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2006] FCA 437 , a decision that was relied upon by the Commission before me.</sentence>
 <sentence id="s109">In that case, his Honour concluded that: "the effect of s 163 is that the letter is presumed to have been received on the fifth business day after the date it bears.</sentence>
 <sentence id="s110">" at [26].</sentence>
 <sentence id="s111">I would also add that Giles J. came to the same conclusion as I have above about s 163 , in Meredith at [21].</sentence>

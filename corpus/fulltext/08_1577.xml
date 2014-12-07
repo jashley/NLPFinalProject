@@ -3,17 +3,17 @@
 <name>Darley v Wesfarmers Landmark (Qld) Pty Ltd (ACN 008 743 217) [2008] FCA 1577 (21 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1577.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for extension of time for leave to appeal</catchphrase>
-<catchphrase "id=c1">whether applicant in default</catchphrase>
-<catchphrase "id=c2">non-appearance of applicant at hearing of application</catchphrase>
-<catchphrase "id=c3">non-appearance of applicant at directions hearing</catchphrase>
-<catchphrase "id=c4">applicant has history of non-compliance with court orders</catchphrase>
-<catchphrase "id=c5">whether application should be dismissed pursuant to o 35a r 3 federal court rules</catchphrase>
-<catchphrase "id=c6">application for indemnity costs</catchphrase>
-<catchphrase "id=c7">principles guiding discretion of court to award indemnity costs</catchphrase>
-<catchphrase "id=c8">whether case exhibited special or unusual features</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
-<catchphrase "id=c10">costs</catchphrase>
+<catchphrase id="c0">application for extension of time for leave to appeal</catchphrase>
+<catchphrase id="c1">whether applicant in default</catchphrase>
+<catchphrase id="c2">non-appearance of applicant at hearing of application</catchphrase>
+<catchphrase id="c3">non-appearance of applicant at directions hearing</catchphrase>
+<catchphrase id="c4">applicant has history of non-compliance with court orders</catchphrase>
+<catchphrase id="c5">whether application should be dismissed pursuant to o 35a r 3 federal court rules</catchphrase>
+<catchphrase id="c6">application for indemnity costs</catchphrase>
+<catchphrase id="c7">principles guiding discretion of court to award indemnity costs</catchphrase>
+<catchphrase id="c8">whether case exhibited special or unusual features</catchphrase>
+<catchphrase id="c9">practice and procedure</catchphrase>
+<catchphrase id="c10">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -156,9 +156,9 @@
  
 15 In light of the failure of the applicant to:
  
-&#8226; comply with the Court orders of 26 August 2008 and 25 September 2008; and
+&amp;#8226; comply with the Court orders of 26 August 2008 and 25 September 2008; and
  
-&#8226; appear at the hearing today without explanation,
+&amp;#8226; appear at the hearing today without explanation,
  
 I consider the application should be dismissed in accordance with O 35A r 3(1)(a) Federal Court Rules .</sentence>
 <sentence id="s60">I agree with the respondent's submissions that the applicant has failed to comply with an order of the Court pursuant to O 35A r 2(1)(a) Federal Court Rules .</sentence>

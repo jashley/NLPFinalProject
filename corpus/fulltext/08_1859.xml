@@ -3,24 +3,24 @@
 <name>Telstra Corporation Ltd v Smith [2008] FCA 1859 (10 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1859.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">procedural fairness</catchphrase>
-<catchphrase "id=c1">whether requirement to give prior notice of adverse findings</catchphrase>
-<catchphrase "id=c2">whether applicant denied right to be heard</catchphrase>
-<catchphrase "id=c3">extent of right to be heard determined by legislative provision</catchphrase>
-<catchphrase "id=c4">matter of fact</catchphrase>
-<catchphrase "id=c5">applicant had legal representation</catchphrase>
-<catchphrase "id=c6">applicant corresponded with decision-maker</catchphrase>
-<catchphrase "id=c7">no breach</catchphrase>
-<catchphrase "id=c8">definitions not treated as substantive provisions</catchphrase>
-<catchphrase "id=c9">use of objects clauses</catchphrase>
-<catchphrase "id=c10">departing from ordinary meaning of words</catchphrase>
-<catchphrase "id=c11">meaning of 'workplace'</catchphrase>
-<catchphrase "id=c12">fact specific consideration</catchphrase>
-<catchphrase "id=c13">site principal purpose was for company's undertaking</catchphrase>
-<catchphrase "id=c14">site at all times a workplace</catchphrase>
-<catchphrase "id=c15">administrative law</catchphrase>
-<catchphrase "id=c16">statutory interpretation</catchphrase>
-<catchphrase "id=c17">occupational health and safety</catchphrase>
+<catchphrase id="c0">procedural fairness</catchphrase>
+<catchphrase id="c1">whether requirement to give prior notice of adverse findings</catchphrase>
+<catchphrase id="c2">whether applicant denied right to be heard</catchphrase>
+<catchphrase id="c3">extent of right to be heard determined by legislative provision</catchphrase>
+<catchphrase id="c4">matter of fact</catchphrase>
+<catchphrase id="c5">applicant had legal representation</catchphrase>
+<catchphrase id="c6">applicant corresponded with decision-maker</catchphrase>
+<catchphrase id="c7">no breach</catchphrase>
+<catchphrase id="c8">definitions not treated as substantive provisions</catchphrase>
+<catchphrase id="c9">use of objects clauses</catchphrase>
+<catchphrase id="c10">departing from ordinary meaning of words</catchphrase>
+<catchphrase id="c11">meaning of 'workplace'</catchphrase>
+<catchphrase id="c12">fact specific consideration</catchphrase>
+<catchphrase id="c13">site principal purpose was for company's undertaking</catchphrase>
+<catchphrase id="c14">site at all times a workplace</catchphrase>
+<catchphrase id="c15">administrative law</catchphrase>
+<catchphrase id="c16">statutory interpretation</catchphrase>
+<catchphrase id="c17">occupational health and safety</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -168,15 +168,15 @@
  
 15 The principal issues for resolution in this proceeding are whether:
  
-&#8226; the term 'workplace' in s 17 of the Act includes, or could include, the pit lid and pit in which employees of Telstra did work from time to time, irrespective of whether at the time of a given incident affecting a third party any employees of Telstra were present; 
+&amp;#8226; the term 'workplace' in s 17 of the Act includes, or could include, the pit lid and pit in which employees of Telstra did work from time to time, irrespective of whether at the time of a given incident affecting a third party any employees of Telstra were present; 
  
-&#8226; the making of the report by Mr Smith under s 53 of the Act, including a conclusion that Telstra breached s 17 of the Act, involved a denial of procedural fairness to Telstra;
+&amp;#8226; the making of the report by Mr Smith under s 53 of the Act, including a conclusion that Telstra breached s 17 of the Act, involved a denial of procedural fairness to Telstra;
  
-&#8226; Mr Smith failed to comply with s 53(2) of the Act by failing to include reasons for the conclusions in the report;
+&amp;#8226; Mr Smith failed to comply with s 53(2) of the Act by failing to include reasons for the conclusions in the report;
  
-&#8226; the conclusion in the report that Telstra breached s 17 could be included in the report and whether it was open for Mr Smith to so find on the material before him; and
+&amp;#8226; the conclusion in the report that Telstra breached s 17 could be included in the report and whether it was open for Mr Smith to so find on the material before him; and
  
-&#8226; if the Court found that there was failure to include reasons for the conclusions in the report, the Court should set the report aside.</sentence>
+&amp;#8226; if the Court found that there was failure to include reasons for the conclusions in the report, the Court should set the report aside.</sentence>
 <sentence id="s41">CONSIDERATION 
  Is the pit lid (and pit) a 'workplace'?</sentence>
 <sentence id="s42">
@@ -195,10 +195,10 @@
 <sentence id="s53">21 It is convenient to refer to some of the cases relied on by Telstra.</sentence>
 <sentence id="s54">22 In WorkCover Authority of NSW (Inspector Paine) v Boral John Perry Industries Pty Limited t/as Boral Elevators (unreported, Industrial Relations Commission NSW, 8 August 1996) Maidment J found that the obligation cast upon the defendant by s 16(1) of the Occupational Health and Safety Act 1983 (NSW) ('the NSW Act') was confined to the periods when maintenance work was being conducted on a lift.</sentence>
 <sentence id="s55">His Honour found that the existence of a contractual obligation to regularly service a lift did not result in the lift being, at all times, a place of work of the lift maintenance company within the sense of s 16 of the NSW Act.</sentence>
-<sentence id="s56">23 Justice Maidment referred to the decision of Fisher CJ in Inspector Clarke v WL Meinhardt &amp; Partners Pty Ltd (unreported, Fisher CJ, 30 June 1992) concerning prosecutions under ss 15 and 16 of the NSW Act.</sentence>
-<sentence id="s57">In Meinhardt , a defendant employer had designed a safety support system, the purpose of which was to safely incorporate a historical fa&ccedil;ade into a new building on the same construction site.</sentence>
+<sentence id="s56">23 Justice Maidment referred to the decision of Fisher CJ in Inspector Clarke v WL Meinhardt &amp;amp; Partners Pty Ltd (unreported, Fisher CJ, 30 June 1992) concerning prosecutions under ss 15 and 16 of the NSW Act.</sentence>
+<sentence id="s57">In Meinhardt , a defendant employer had designed a safety support system, the purpose of which was to safely incorporate a historical fa&amp;ccedil;ade into a new building on the same construction site.</sentence>
 <sentence id="s58">A different party had constructed the system.</sentence>
-<sentence id="s59">The fa&ccedil;ade collapsed.</sentence>
+<sentence id="s59">The fa&amp;ccedil;ade collapsed.</sentence>
 <sentence id="s60">Two of the defendant employer's workers were on site at the time of the collapse, inspecting integral elements of the support system.</sentence>
 <sentence id="s61">The defendant employer submitted that its own office was its place of work, rather than the construction site.</sentence>
 <sentence id="s62">Chief Justice Fisher rejected that submission and said (at 11):
@@ -218,13 +218,13 @@
  41 The respondent contended that the work of the appellant continued on the site on 3 September 1998 even though he was not physically present, because his plans were still being used to construct the footings.</sentence>
 <sentence id="s70">
  
- 42 As Fisher CJ observed in respect of s 15(1) of the OH&amp;S Act, in Inspector Clarke v W.L.</sentence>
-<sentence id="s71">Meinhardt and Partners Pty Ltd (unreported, Matter Nos 1212 &amp; 1213 of 1990, 30 June 1992) the phrase "at work" has temporal connotations.</sentence>
+ 42 As Fisher CJ observed in respect of s 15(1) of the OH&amp;amp;S Act, in Inspector Clarke v W.L.</sentence>
+<sentence id="s71">Meinhardt and Partners Pty Ltd (unreported, Matter Nos 1212 &amp;amp; 1213 of 1990, 30 June 1992) the phrase "at work" has temporal connotations.</sentence>
 <sentence id="s72">Similarly, in our view, in respect of the duty under s 16(1), it is necessary to determine the temporal obligations on 3 September 1998 of the appellant.</sentence>
 <sentence id="s73">The legislation does not require the appellant to ensure the product of his work, his advice, directions and drawings, were devoid of hazard.</sentence>
 <sentence id="s74">No actual work was being performed or "being done" in the conduct of his undertaking at the site.</sentence>
 <sentence id="s75">In other words, the appellant was not giving advice, giving directions, or making drawings.</sentence>
-<sentence id="s76">The OH&amp;S Act is directed to workplaces and does not impose an obligation to ensure that the product of that work is free from hazard: Boral Elevators .</sentence>
+<sentence id="s76">The OH&amp;amp;S Act is directed to workplaces and does not impose an obligation to ensure that the product of that work is free from hazard: Boral Elevators .</sentence>
 <sentence id="s77">Clearly, the site was the builder's place of work, but there was no evidence before his Honour of a continuance of the work of the appellant.</sentence>
 <sentence id="s78">The obligation falls upon the prosecutor to demonstrate that the elements of s 16 have been proved unless there is a clear admission which there was not in this case.</sentence>
 <sentence id="s79">
@@ -280,7 +280,7 @@
  
 
 30 English authorities concerning the meaning of a "workplace" were said by Telstra to also reflect the view that the nature of a premises may change, depending upon the use applied to it from time to time.</sentence>
-<sentence id="s105">In Gill v Donald Humberstone &amp; Co Ltd [1963] 3 AII ER 180, Lord Evershed considered that a working place must be a place where work was set to take place for an appreciably continuous period of time (at 188).</sentence>
+<sentence id="s105">In Gill v Donald Humberstone &amp;amp; Co Ltd [1963] 3 AII ER 180, Lord Evershed considered that a working place must be a place where work was set to take place for an appreciably continuous period of time (at 188).</sentence>
 <sentence id="s106">In other cases, working place or workplace has been held to be a place where work is being done.</sentence>
 <sentence id="s107">31 In this proceeding, the question is whether the pit and pit lid are at all times a workplace of Telstra for the purposes of the Act.</sentence>
 <sentence id="s108">There seemed no dispute that a pit is capable of being a workplace and that the pit lid could be a 'structure' or 'part' of the pit.</sentence>
@@ -320,7 +320,7 @@
 <sentence id="s142">A pit primarily used to access and maintain telecommunications infrastructure is a place 'in which' such employees work, in the sense that it is not a private place, nor a place disconnected with the work of such employees.</sentence>
 <sentence id="s143">The ordinary meaning of the words used in the definition of 'workplace' supports this construction, and to depart from this ordinary meaning can only be justified if to do so would be in accordance with a purposive construction: see, eg, Mills v Meeking [1990] HCA 6 ; (1990) 169 CLR 214 at [235] per Dawson J.</sentence>
 <sentence id="s144">39 Telstra does point particularly to one object of the Act in aid of its purposive construction, namely to protect persons only arising from the activities of the employees at work.</sentence>
-<sentence id="s145">One must be careful of the use to be made of objects clauses in legislation: see Pearce &amp; Geddes, Statutory Interpretation in Australia , (2006) (6 th ed) at [4.42].</sentence>
+<sentence id="s145">One must be careful of the use to be made of objects clauses in legislation: see Pearce &amp;amp; Geddes, Statutory Interpretation in Australia , (2006) (6 th ed) at [4.42].</sentence>
 <sentence id="s146">However, in my view, this object is achieved by giving practical content to s 17 of the Act, not in the reading of the definition of 'workplace' as contended by Telstra.</sentence>
 <sentence id="s147">For instance, as the authorities relied on by Telstra indicate, the legislation there referred to does not require an employer to ensure that the product of the work is devoid of hazard.</sentence>
 <sentence id="s148">In my view, this is not because of a restricted meaning being given to the definition of 'workplace', but arises out of the scope of the obligations cast upon any defendant employer by s 17.</sentence>
@@ -359,7 +359,7 @@
 <sentence id="s178">The level of communication, it was said, throughout the investigation made it clear that Telstra had more than a reasonable opportunity to be heard about whether it was in breach of s 17 of the Act.</sentence>
 <sentence id="s179">There was, it was contended, no 'practical injustice' to Telstra, which is the gravaman of denial of procedural fairness: see Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Lam [2003] HCA 6 ; (2003) 214 CLR 1 , 13-14 at [37].</sentence>
 <sentence id="s180">49 I consider that Telstra's complaint of lack of procedural fairness, and the other matters raised, are properly answered by recognising the scheme of the Act.</sentence>
-<sentence id="s181">50 It is established principle that, in the case of a statutory power, the statutory context will be of central importance in determining the content of procedural fairness: see, eg, Salemi v MacKellar (No 2) [1977] HCA 26 ; (1977) 137 CLR 396 , 444; Kiao v West [1985] HCA 81 ; (1985) 159 CLR 550 , 584-85; Mobil Oil Australia Pty Ltd v Federal Commissioner of Taxation [1963] HCA 41 ; (1963) 113 CLR 475 , 503-504; and National Companies &amp; Securities Commission v News Corp Ltd [1984] HCA 29 ; (1984) 156 CLR 296 , 326.</sentence>
+<sentence id="s181">50 It is established principle that, in the case of a statutory power, the statutory context will be of central importance in determining the content of procedural fairness: see, eg, Salemi v MacKellar (No 2) [1977] HCA 26 ; (1977) 137 CLR 396 , 444; Kiao v West [1985] HCA 81 ; (1985) 159 CLR 550 , 584-85; Mobil Oil Australia Pty Ltd v Federal Commissioner of Taxation [1963] HCA 41 ; (1963) 113 CLR 475 , 503-504; and National Companies &amp;amp; Securities Commission v News Corp Ltd [1984] HCA 29 ; (1984) 156 CLR 296 , 326.</sentence>
 <sentence id="s182">51 Undoubtedly, the consequences of any particular decision upon a person are important, but again, this is to be weighed in the balance in light of the statutory context.</sentence>
 <sentence id="s183">52 The Act regulates the conduct of certain kinds of employers and employees for the purposes of protecting the health and safety of Commonwealth employees at work, and protecting the health and safety of members of the public who might be affected by the way in which Commonwealth employers and employees undertake their businesses and work.</sentence>
 <sentence id="s184">53 One of the Act's regulatory mechanisms is the ability for Comcare to conduct investigations: see Pt 4, Div 2.</sentence>
@@ -431,11 +431,11 @@
 <sentence id="s246">Relevantly, the task in this case was performed pursuant to s 41(1).</sentence>
 <sentence id="s247">The investigator's conclusions could be one or more of the following:
  
-&#8226; that the requirements of the Act and/or regulations were not being complied with (s 41(1)(a)); or
+&amp;#8226; that the requirements of the Act and/or regulations were not being complied with (s 41(1)(a)); or
  
-&#8226; that a breach or possible breach of the Act or regulations had occurred (s 41(1)(b)); or
+&amp;#8226; that a breach or possible breach of the Act or regulations had occurred (s 41(1)(b)); or
  
-&#8226; that an accident or dangerous occurrence happened as a result of performing work for an employer (s 41(1)(c)).</sentence>
+&amp;#8226; that an accident or dangerous occurrence happened as a result of performing work for an employer (s 41(1)(c)).</sentence>
 <sentence id="s248">80 In this statutory context, the first intended recipient of the report is the Commission (see s 53(1) of the Act) and the purpose of an investigator including reasons for his or her conclusions is to inform the Commission about what has been found as a result of the investigation.</sentence>
 <sentence id="s249">When the report is given to the employer (and to any relevant Minister: see s 53(3)(b)), the statute contemplates that an additional layer of information may be added by the Commission, including any comments the Commission wishes to make to the employer.</sentence>
 <sentence id="s250">The statutory context then contemplates an interactive process between the Commission, the employer and any health and safety committees of the employer, about what action, if any, can and should be taken in response to the investigator's report.</sentence>
@@ -452,20 +452,20 @@
 <sentence id="s261">The report did set out Mr Smith's conclusions, the reasons for the conclusions and the findings of fact which he considered material, and the evidence on which these findings were based.</sentence>
 <sentence id="s262">85 More particularly, Mr Smith's report includes:
  
-&#8226; his conclusion as to breach of s 17 of the Act;
+&amp;#8226; his conclusion as to breach of s 17 of the Act;
  
-&#8226; his reasons for that conclusion, being why he formed the opinion there was a breach, addressing each component of s 17;
+&amp;#8226; his reasons for that conclusion, being why he formed the opinion there was a breach, addressing each component of s 17;
  
-&#8226; the findings of fact which he considered material; and 
+&amp;#8226; the findings of fact which he considered material; and 
  
-&#8226; references to the evidence on which those findings were based.</sentence>
+&amp;#8226; references to the evidence on which those findings were based.</sentence>
 <sentence id="s263">86 Mr Smith's findings of fact include findings about:
  
-&#8226; how each component of s 17 applied to Telstra;
+&amp;#8226; how each component of s 17 applied to Telstra;
  
-&#8226; what the present arrangements were, both internally to Telstra and with the Council of Greater Geelong, about damaged and/or faulty pit lids and incidents involving pits and pit lids; and
+&amp;#8226; what the present arrangements were, both internally to Telstra and with the Council of Greater Geelong, about damaged and/or faulty pit lids and incidents involving pits and pit lids; and
  
-&#8226; the absence of a system of scheduled maintenance, servicing or inspection by Telstra, and Telstra's sole reliance on feedback from the public (either directly or indirectly through local councils) and infield staff.</sentence>
+&amp;#8226; the absence of a system of scheduled maintenance, servicing or inspection by Telstra, and Telstra's sole reliance on feedback from the public (either directly or indirectly through local councils) and infield staff.</sentence>
 <sentence id="s264">87 Mr Smith did also note Telstra's advice to him that any schedule inspection service would cost tens of millions of dollars and would not overcome the need for reactive repairs.</sentence>
 <sentence id="s265">88 Therefore, in my view, Mr Smith undertook the task required of him and the report did comply with s 53(2) of the Act.</sentence>
 <sentence id="s266">Could the report contain a finding of breach of s 17 by Telstra and was Mr Smith's conclusion open to him 

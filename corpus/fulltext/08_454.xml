@@ -3,10 +3,10 @@
 <name>Sydney Refractive Surgery Centre Pty Ltd v Commissioner of Taxation [2008] FCA 454 (9 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/454.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">taxpayer corporation receives award of damages for injury to business reputation by defamatory publications</catchphrase>
-<catchphrase "id=c1">damages calculated by reference to taxpayer's loss of profits attributable to the defamatory publications</catchphrase>
-<catchphrase "id=c2">whether damages received by the taxpayer constitute ' income according to ordinary concepts ' for the purposes of s 6-5 of the income tax assessment act 1997 (cth)</catchphrase>
-<catchphrase "id=c3">taxation</catchphrase>
+<catchphrase id="c0">taxpayer corporation receives award of damages for injury to business reputation by defamatory publications</catchphrase>
+<catchphrase id="c1">damages calculated by reference to taxpayer's loss of profits attributable to the defamatory publications</catchphrase>
+<catchphrase id="c2">whether damages received by the taxpayer constitute ' income according to ordinary concepts ' for the purposes of s 6-5 of the income tax assessment act 1997 (cth)</catchphrase>
+<catchphrase id="c3">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -57,24 +57,24 @@
 <sentence id="s31">A chronology of the relevant events is set out below.</sentence>
 <sentence id="s32">
  
- &#8226; SRSC was incorporated on 28 May 1996.</sentence>
+ &amp;#8226; SRSC was incorporated on 28 May 1996.</sentence>
 <sentence id="s33">At all material times, it carried on a business which included performing laser eye surgery.</sentence>
-<sentence id="s34">&#8226; Three specialist ophthalmologists, Dr Lawless, Dr Rogers and Dr Sutton conducted their practices through SRSC, using procedures known as photorefractive keratectomy (' PRK ') and, later, laser assisted in situ keratomileusis (' Lasik ').</sentence>
-<sentence id="s35">&#8226; In April 1998, Dr Beaumont, an experienced ophthalmologist who had conducted certain forms of laser surgery for many years, gave an interview to a representative of Seven.</sentence>
+<sentence id="s34">&amp;#8226; Three specialist ophthalmologists, Dr Lawless, Dr Rogers and Dr Sutton conducted their practices through SRSC, using procedures known as photorefractive keratectomy (' PRK ') and, later, laser assisted in situ keratomileusis (' Lasik ').</sentence>
+<sentence id="s35">&amp;#8226; In April 1998, Dr Beaumont, an experienced ophthalmologist who had conducted certain forms of laser surgery for many years, gave an interview to a representative of Seven.</sentence>
 <sentence id="s36">In the course of the interview, Dr Beaumont made a number of serious imputations against SRSC and Dr Lawless.</sentence>
 <sentence id="s37">These included allegations of unethical behaviour by misleading patients about the risks of eye surgery, and deceitful behaviour by securing patient consents to procedures through trickery.</sentence>
 <sentence id="s38">This was the first publication of defamatory material concerning SRSC.</sentence>
-<sentence id="s39">&#8226; On 4 May 1998, HSV telecast in Victoria a program called ' Today Tonight '.</sentence>
+<sentence id="s39">&amp;#8226; On 4 May 1998, HSV telecast in Victoria a program called ' Today Tonight '.</sentence>
 <sentence id="s40">This program discussed laser eye surgery and reported on practices allegedly adopted by SRSC and Dr Lawless in advertising their services, recruiting patients for laser eye surgery and conveying information to prospective patients.</sentence>
 <sentence id="s41">This program was later found by a jury to have contained defamatory imputations in relation both to SRSC and Dr Lawless.</sentence>
 <sentence id="s42">This was the second defamatory publication.</sentence>
-<sentence id="s43">&#8226; On 5 May 1998, STS telecast a program in New South Wales with substantially similar content to the HSV telecast.</sentence>
+<sentence id="s43">&amp;#8226; On 5 May 1998, STS telecast a program in New South Wales with substantially similar content to the HSV telecast.</sentence>
 <sentence id="s44">This was the third defamatory publication.</sentence>
-<sentence id="s45">&#8226; On 21 August 1998, SRSC, Dr Lawless, Dr Rogers and Dr Sutton commenced proceedings in the Supreme Court of New South Wales.</sentence>
+<sentence id="s45">&amp;#8226; On 21 August 1998, SRSC, Dr Lawless, Dr Rogers and Dr Sutton commenced proceedings in the Supreme Court of New South Wales.</sentence>
 <sentence id="s46">Each plaintiff sought damages in respect of the defamatory imputations conveyed by the three publications.</sentence>
-<sentence id="s47">&#8226; At a trial conducted in February 2001 pursuant to s 7A of the Defamation Act 1974 (NSW), a jury found that the matters complained of ' carried many grave imputations ' against both SRSC and Dr Lawless.</sentence>
+<sentence id="s47">&amp;#8226; At a trial conducted in February 2001 pursuant to s 7A of the Defamation Act 1974 (NSW), a jury found that the matters complained of ' carried many grave imputations ' against both SRSC and Dr Lawless.</sentence>
 <sentence id="s48">The jury rejected the claims made by Dr Rogers and Dr Sutton.</sentence>
-<sentence id="s49">&#8226; The hearing on liability and damages took place over 30 hearing days before Studdert J, during the period 15 September 2003 to 1 December 2003.</sentence>
+<sentence id="s49">&amp;#8226; The hearing on liability and damages took place over 30 hearing days before Studdert J, during the period 15 September 2003 to 1 December 2003.</sentence>
 <sentence id="s50">His Honour delivered judgment on 18 March 2004: Sydney Refractive Eye Surgery Centre Pty Ltd v Beaumont [2004] NSWSC 164.</sentence>
 <sentence id="s51">He rejected defences of truth and fair comment and assessed the total damages payable to SRSC at $844,624.00.</sentence>
 <sentence id="s52">Studdert J recognised that SRSC might be liable to capital gains tax on the award of damages, but thought that justice could be done by reserving leave to SRSC: 
@@ -90,7 +90,7 @@
  
  
  
- &#8226; The Sum was paid to SRSC during the 2004 year.</sentence>
+ &amp;#8226; The Sum was paid to SRSC during the 2004 year.</sentence>
 <sentence id="s54">It is not clear from the material available to me whether amounts comprising the Sum were paid by each defendant in the proportions specified in the orders made by Studdert J, or whether the defendants bore responsibility among themselves for payment of the damages award in some other way.</sentence>
 <sentence id="s55">Nothing, however, turns on this.</sentence>
 <sentence id="s56">
@@ -171,7 +171,7 @@ The plaintiff claimed damages for defamation, loss of business and economic loss
  
  
  
- (a) unethical misleading &#9679; 
+ (a) unethical misleading &amp;#9679; 
  
  
  
@@ -179,7 +179,7 @@ The plaintiff claimed damages for defamation, loss of business and economic loss
  
  
  
- (b) deceitful scheme to &#9679; &#9679; &#9679; &#9679; trick with video 
+ (b) deceitful scheme to &amp;#9679; &amp;#9679; &amp;#9679; &amp;#9679; trick with video 
  
  
  
@@ -188,7 +188,7 @@ The plaintiff claimed damages for defamation, loss of business and economic loss
  
  
  
- (c) disgrace to profession &#9679; &#9679; 
+ (c) disgrace to profession &amp;#9679; &amp;#9679; 
  
  in that recommends surgery 
  
@@ -199,7 +199,7 @@ The plaintiff claimed damages for defamation, loss of business and economic loss
  
  
  
- (d) irresponsible eye &#9679; &#9679; &#9679; &#9679; surgeon 
+ (d) irresponsible eye &amp;#9679; &amp;#9679; &amp;#9679; &amp;#9679; surgeon 
  
  
  
@@ -208,18 +208,18 @@ The plaintiff claimed damages for defamation, loss of business and economic loss
  
  
  
- (e) no patient gone blind &#9679; &#9679; &#9679; &#9679; 
+ (e) no patient gone blind &amp;#9679; &amp;#9679; &amp;#9679; &amp;#9679; 
  
  
  
  
- (f) throw away spectacles &#9679; &#9679; &#9679; &#9679; 
+ (f) throw away spectacles &amp;#9679; &amp;#9679; &amp;#9679; &amp;#9679; 
  
  
  
  
- (g) absurdly inflated costs &#9679; 
- &#9679; 
+ (g) absurdly inflated costs &amp;#9679; 
+ &amp;#9679; 
  
  
  
@@ -227,7 +227,7 @@ The plaintiff claimed damages for defamation, loss of business and economic loss
  
  (h) false advertisements 
  
- &#9679; ' 
+ &amp;#9679; ' 
  
  
  Judgment 
@@ -257,11 +257,11 @@ The plaintiff claimed damages for defamation, loss of business and economic loss
 <sentence id="s81">He found that SRSC had ceased to trade beyond 30 June 1999 and thus performed no procedures at all beyond that date.</sentence>
 <sentence id="s82">His Honour also found (at [316]) that it was unlikely that a potential patient would have been deterred, after 1 July 2000, from undertaking surgery because of any continuing impact of the television broadcasts.</sentence>
 <sentence id="s83">20 SRSC advanced at the trial three methods of assessing the loss it had suffered in consequence of the defamatory broadcasts.</sentence>
-<sentence id="s84">&#8226; The first was to determine the profits that SRSC had lost during the period from 6 May 1998 to 30 June 1999.</sentence>
+<sentence id="s84">&amp;#8226; The first was to determine the profits that SRSC had lost during the period from 6 May 1998 to 30 June 1999.</sentence>
 <sentence id="s85">SRSC put forward various calculations, based on different assumptions as to the number of procedures that would have been conducted had the defamatory broadcasts not taken place.</sentence>
-<sentence id="s86">&#8226; The second was to determine the profits that SRSC had lost during the period from 6 May 1998 to 30 June 2001.</sentence>
+<sentence id="s86">&amp;#8226; The second was to determine the profits that SRSC had lost during the period from 6 May 1998 to 30 June 2001.</sentence>
 <sentence id="s87">Once again, SRSC supported this hypothesis with various calculations based on different assumptions as to the number of procedures that would have been carried out had the defamatory broadcasts not taken place.</sentence>
-<sentence id="s88">&#8226; The third was to determine the reduction in the value of SRSC's business which had occurred by 30 June 1999 in consequence of the reduction in the number of laser procedures it had conducted during the preceding year.</sentence>
+<sentence id="s88">&amp;#8226; The third was to determine the reduction in the value of SRSC's business which had occurred by 30 June 1999 in consequence of the reduction in the number of laser procedures it had conducted during the preceding year.</sentence>
 <sentence id="s89">21 The first and second methods were presented as alternatives to each other, with SRSC contending for the first.</sentence>
 <sentence id="s90">SRSC presented the third method as an alternative to the first two.</sentence>
 <sentence id="s91">22 Studdert J first addressed SRSC's claim that its damages claim should extend to losses incurred by it after 30 June 1999.</sentence>
@@ -285,19 +285,19 @@ The plaintiff claimed damages for defamation, loss of business and economic loss
 <sentence id="s109">26 Studdert J calculated SRSC's loss of revenue as follows:
  
  
- &#8226; Year ended 30 June 1998 82 procedures, at an average loss of revenue 
+ &amp;#8226; Year ended 30 June 1998 82 procedures, at an average loss of revenue 
  
 
  of $2,113.70 per procedure = $173,323.40 .</sentence>
-<sentence id="s110">&#8226; Year ended 30 June 1999 715 procedures, at an average loss of revenue of $1,991.18 per procedure = $1,423,693.70 
+<sentence id="s110">&amp;#8226; Year ended 30 June 1999 715 procedures, at an average loss of revenue of $1,991.18 per procedure = $1,423,693.70 
  
 Total Lost Revenue $173,323.40 plus $1,423,693.70 = $1,597,017.10 
  
 27 From the gross figure of $1,597,017.10 his Honour deducted:
  
  
- &#8226; laser cost savings of $204.49 per procedure (797 x $204.49 = $162,978.53 ) and
- &#8226; labour cost savings of $143.43 per procedure (797 x $143.43 = $114,313.71 ).</sentence>
+ &amp;#8226; laser cost savings of $204.49 per procedure (797 x $204.49 = $162,978.53 ) and
+ &amp;#8226; labour cost savings of $143.43 per procedure (797 x $143.43 = $114,313.71 ).</sentence>
 <sentence id="s111">
  
 
@@ -348,9 +348,9 @@ This produced a total costs savings of $277,292.24 .</sentence>
 <sentence id="s145">37 Studdert J assessed the damages attributable to each defamatory publication as follows:
  
  
- &#8226; in respect of the 1998 interview (the publication of which was limited) - $4,000.00;
- &#8226; in respect of the program broadcast on 4 May 1998 in Victoria - $75,000.00; and
- &#8226; in respect of the program broadcast on 5 May 1998 in New South Wales - $765,624.00.</sentence>
+ &amp;#8226; in respect of the 1998 interview (the publication of which was limited) - $4,000.00;
+ &amp;#8226; in respect of the program broadcast on 4 May 1998 in Victoria - $75,000.00; and
+ &amp;#8226; in respect of the program broadcast on 5 May 1998 in New South Wales - $765,624.00.</sentence>
 <sentence id="s146">
  
 
@@ -456,7 +456,7 @@ This produced a total costs savings of $277,292.24 .</sentence>
 
 See also at 141, per Lopes LJ (a corporation may not maintain an action for anything reflecting on it personally, but can maintain an action for a libel ' reflecting on the management of [its] trade or business '); at 145, per Kay LJ.</sentence>
 <sentence id="s178">47 It was also held in South Hetton that an action will lie without proof of special damage and that the quantum of damages is at large: at 139, per Lord Esher MR; at 143, per Lopes LJ; at 148, per Kay LJ.</sentence>
-<sentence id="s179">In Australia, South Hetton has been accepted as accurately stating the law: Barnes &amp; Co Ltd v Sharpe [1910] HCA 26 ; (1910) 11 CLR 462 , at 473-474, per Griffith CJ; at 478-479, per O'Connor J; at 485, per Higgins J.</sentence>
+<sentence id="s179">In Australia, South Hetton has been accepted as accurately stating the law: Barnes &amp;amp; Co Ltd v Sharpe [1910] HCA 26 ; (1910) 11 CLR 462 , at 473-474, per Griffith CJ; at 478-479, per O'Connor J; at 485, per Higgins J.</sentence>
 <sentence id="s180">48 In a recent case, the New South Wales Court of Appeal approved the explanation of the distinction between defamation in its generally understood meaning and business defamation, given by Gatley on Libel and Slander (10th ed, 2004) (P Milmo and WVH Rogers, eds), at [2.7], as follows:
  
  'An imputation may be defamatory without falling within any of the specific heads so far set out.</sentence>
@@ -472,7 +472,7 @@ See also at 141, per Lopes LJ (a corporation may not maintain an action for anyt
 <sentence id="s187">However, Gleeson CJ and Crennan J observed (at 404[2]) that the case concerned ' that form of defamation which involves injury to business reputation '.</sentence>
 <sentence id="s188">Their Honours also observed that statements may injure a person's professional reputation even though they may not evoke feelings of hatred, ridicule or contempt.</sentence>
 <sentence id="s189">50 The statements of principle in Gacic, both in the Court of Appeal and the High Court, are consistent with the holding of a Full Court of this Court that a necessary element of an action in defamation by a trading corporation is that it has sustained injury to its reputation ' in the way of its trade or business ': Australian Broadcasting Corporation v Comalco Ltd (1986) 12 FCR 510 , at 586-587, per Neaves J; at 599-603, per Pincus J; at 560, per Smithers J (agreeing).</sentence>
-<sentence id="s190">The Court rejected the opinion expressed by Mahoney JA (dissenting) in Andrews v John Fairfax &amp; Sons Ltd [1980] 2 NSWLR 225, at 255, that a trading corporation may recover damages for ' injury to reputation as such '.</sentence>
+<sentence id="s190">The Court rejected the opinion expressed by Mahoney JA (dissenting) in Andrews v John Fairfax &amp;amp; Sons Ltd [1980] 2 NSWLR 225, at 255, that a trading corporation may recover damages for ' injury to reputation as such '.</sentence>
 <sentence id="s191">Rubber Improvements v Daily Telegraph 
  
 51 None of these cases considered the significance of taxation in assessing the damages to be awarded to a trading corporation for defamation.</sentence>
@@ -641,7 +641,7 @@ See also Federal Commissioner of Taxation v Slaven [1984] FCA 31 ; (1984) 1 FCR 
 <sentence id="s283">A damages award in such a case is not income according to ordinary concepts.</sentence>
 <sentence id="s284">7.</sentence>
 <sentence id="s285">A damages award for defamation of a trading corporation is intended to compensate for the injury sustained by the corporation to its reputation in the way of business: Gacic v John Fairfax ; ABC v Comalco.</sentence>
-<sentence id="s286">The assessment of damages is ' at large ', but may be undertaken in a particular case by reference to the loss of income attributable to the defamatory publication: Barnes &amp; Co v Sharpe .</sentence>
+<sentence id="s286">The assessment of damages is ' at large ', but may be undertaken in a particular case by reference to the loss of income attributable to the defamatory publication: Barnes &amp;amp; Co v Sharpe .</sentence>
 <sentence id="s287">8.</sentence>
 <sentence id="s288">Where damages for defamation are awarded to a trading corporation and are assessed by reference to the plaintiff's loss of income, the Gourley principle applies to the assessment: Rubber Improvement ; Atlas Tiles, per Gibbs J, approved in Cullen v Trappell.</sentence>
 <sentence id="s289">

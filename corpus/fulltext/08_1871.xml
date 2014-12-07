@@ -3,17 +3,17 @@
 <name>National Mutual Life Association of Australasia Limited v Commissioner of Taxation of the Commonwealth of Australia [2008] FCA 1871 (10 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1871.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">capital loss</catchphrase>
-<catchphrase "id=c1">reduced cost base</catchphrase>
-<catchphrase "id=c2">shares</catchphrase>
-<catchphrase "id=c3">use of explanatory memorandum</catchphrase>
-<catchphrase "id=c4">anomalous consequences</catchphrase>
-<catchphrase "id=c5">dictionary definitions</catchphrase>
-<catchphrase "id=c6">nature and state of a share</catchphrase>
-<catchphrase "id=c7">value of a share</catchphrase>
-<catchphrase "id=c8">taxation</catchphrase>
-<catchphrase "id=c9">statutory interpretation</catchphrase>
-<catchphrase "id=c10">company law</catchphrase>
+<catchphrase id="c0">capital loss</catchphrase>
+<catchphrase id="c1">reduced cost base</catchphrase>
+<catchphrase id="c2">shares</catchphrase>
+<catchphrase id="c3">use of explanatory memorandum</catchphrase>
+<catchphrase id="c4">anomalous consequences</catchphrase>
+<catchphrase id="c5">dictionary definitions</catchphrase>
+<catchphrase id="c6">nature and state of a share</catchphrase>
+<catchphrase id="c7">value of a share</catchphrase>
+<catchphrase id="c8">taxation</catchphrase>
+<catchphrase id="c9">statutory interpretation</catchphrase>
+<catchphrase id="c10">company law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -181,7 +181,7 @@
 <sentence id="s109">The example does indicate, however, that any physical changes brought about by the expenditure must continue and must not have dissipated prior to disposal of the asset, for a taxpayer to take advantage of the provision.</sentence>
 <sentence id="s110">44 It is then convenient at this point to consider the notion of a share.</sentence>
 <sentence id="s111">A share was described by Williams J in Archibald Howie Pty Ltd v Commissioner of Stamp Duties (NSW) [1948] HCA 28 ; (1948) 77 CLR 143 at 156:
- In Borland's Trustee v. Steel Bros. &amp; Co. Ltd. (1901) 1 Ch. 279, at p 288, Farwell J., in a passage which Lord Russell of Killowen in Inland Revenue Commissioners v. Crossman (1937) A.C. 26 , at p 66 described as an accurate exposition of the nature of a share, stated that a share is the interest of a shareholder in the company measured by a sum of money for the purpose of liability in the first place and of interest in the second, but also consisting of a series of mutual covenants entered into by all the shareholders inter se in accordance with ... the Companies Act ... a share is an interest measured by a sum of money and made up of various rights contained in the contract, including the right to a sum of money of a more or less amount.</sentence>
+ In Borland's Trustee v. Steel Bros. &amp;amp; Co. Ltd. (1901) 1 Ch. 279, at p 288, Farwell J., in a passage which Lord Russell of Killowen in Inland Revenue Commissioners v. Crossman (1937) A.C. 26 , at p 66 described as an accurate exposition of the nature of a share, stated that a share is the interest of a shareholder in the company measured by a sum of money for the purpose of liability in the first place and of interest in the second, but also consisting of a series of mutual covenants entered into by all the shareholders inter se in accordance with ... the Companies Act ... a share is an interest measured by a sum of money and made up of various rights contained in the contract, including the right to a sum of money of a more or less amount.</sentence>
 <sentence id="s112">(emphasis in original) 
 More recently, the joint judgment of McHugh, Gummow, Hayne and Callinan JJ in Pilmer v Duke Group Limited (in Liquidation) [2001] HCA 31 ; (2001) 207 CLR 165 , 179 cited the statement of Farwell J as the classic description of a share.</sentence>
 <sentence id="s113">However, their Honours went on to say that 'the reference to measuring the interest of a shareholder in a company by a sum of money is no longer apt under present corporations law in Australia following the abolition of the concept of par value and of authorised capital' (at [19]).</sentence>
@@ -266,7 +266,7 @@ More recently, the joint judgment of McHugh, Gummow, Hayne and Callinan JJ in Pi
 <sentence id="s186">67 Finally, in the taxpayer's submission, excluding the capital contribution from the cost base of the NMUK shares would give rise to an anomalous result.</sentence>
 <sentence id="s187">Payments into shareholders' funds may take a variety of forms, including the purchase of shares, the payment of calls on shares, and as here, by the making of capital contributions.</sentence>
 <sentence id="s188">It was contended that to allow some of these payments to be taken into account in determining cost base, but not others (being the capital contribution), is not capable of rational explanation.</sentence>
-<sentence id="s189">68 The Commissioner responded to this submission by contending that the exclusion of the capital expenditure of &#8356;42.912 million from the reduced cost base of the shares does not give rise to an anomalous result.</sentence>
+<sentence id="s189">68 The Commissioner responded to this submission by contending that the exclusion of the capital expenditure of &amp;#8356;42.912 million from the reduced cost base of the shares does not give rise to an anomalous result.</sentence>
 <sentence id="s190">It may be that the amount would have been part of the cost base if it had taken some other form.</sentence>
 <sentence id="s191">However, the way in which a company raises capital can take many forms, each with different taxing consequences.</sentence>
 <sentence id="s192">Moreover, it was submitted that the provision is not specific to cost base in respect of shares, but to assets generally.</sentence>

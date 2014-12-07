@@ -3,23 +3,23 @@
 <name>Handbury Holdings Pty Ltd v Commissioner of Taxation [2008] FCA 1787 (28 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1787.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal under taxation administration act 1953 (cth) that the commissioner's assessment of income tax to the taxpayer was excessive</catchphrase>
-<catchphrase "id=c1">taxpayer was the head company under pt 3</catchphrase>
-<catchphrase "id=c2">90 of the income tax assessment act 1997 (cth), of which murdoch magazines pty ltd ("magazines") was its wholly-owned subsidiary</catchphrase>
-<catchphrase "id=c3">magazines was indebted to mr handbury and handbury nominees pty ltd ("nominees"), which debts were discharged by the issue of shares to them</catchphrase>
-<catchphrase "id=c4">taxpayer then sold shares in magazines to a third party</catchphrase>
-<catchphrase "id=c5">whether liabilities of magazines to mr handbury and nominees were liabilities of magazines "at the leaving time" and should be included in the calculation of the step 4 amount under s 711- 45 (1) and the allocable cost amount for magazines under s 711-20 of the 1997 tax act</catchphrase>
-<catchphrase "id=c6">construction that promotes the objects of pt 3-90 to be preferred</catchphrase>
-<catchphrase "id=c7">liability of the leaving entity "at the leaving time" under s 711-45(1) means a liability just before it ceases to be a subsidiary member of consolidated group</catchphrase>
-<catchphrase "id=c8">taxpayer failed to show assessment was excessive</catchphrase>
-<catchphrase "id=c9">tax appeal dismissed</catchphrase>
-<catchphrase "id=c10">when was magazines' "leaving time" of the consolidated group under pt 3-90 of the 1997 tax act</catchphrase>
-<catchphrase "id=c11">when were shares issued by magazines to mr handbury and nominees</catchphrase>
-<catchphrase "id=c12">payment of shares effected by set off in discharge of debt owing by company to intending member</catchphrase>
-<catchphrase "id=c13">allottee of shares becomes member when put in control of shares</catchphrase>
-<catchphrase "id=c14">shares were issued to mr handbury and nominees when their names were entered on magazines' share register</catchphrase>
-<catchphrase "id=c15">taxation</catchphrase>
-<catchphrase "id=c16">taxation</catchphrase>
+<catchphrase id="c0">appeal under taxation administration act 1953 (cth) that the commissioner's assessment of income tax to the taxpayer was excessive</catchphrase>
+<catchphrase id="c1">taxpayer was the head company under pt 3</catchphrase>
+<catchphrase id="c2">90 of the income tax assessment act 1997 (cth), of which murdoch magazines pty ltd ("magazines") was its wholly-owned subsidiary</catchphrase>
+<catchphrase id="c3">magazines was indebted to mr handbury and handbury nominees pty ltd ("nominees"), which debts were discharged by the issue of shares to them</catchphrase>
+<catchphrase id="c4">taxpayer then sold shares in magazines to a third party</catchphrase>
+<catchphrase id="c5">whether liabilities of magazines to mr handbury and nominees were liabilities of magazines "at the leaving time" and should be included in the calculation of the step 4 amount under s 711- 45 (1) and the allocable cost amount for magazines under s 711-20 of the 1997 tax act</catchphrase>
+<catchphrase id="c6">construction that promotes the objects of pt 3-90 to be preferred</catchphrase>
+<catchphrase id="c7">liability of the leaving entity "at the leaving time" under s 711-45(1) means a liability just before it ceases to be a subsidiary member of consolidated group</catchphrase>
+<catchphrase id="c8">taxpayer failed to show assessment was excessive</catchphrase>
+<catchphrase id="c9">tax appeal dismissed</catchphrase>
+<catchphrase id="c10">when was magazines' "leaving time" of the consolidated group under pt 3-90 of the 1997 tax act</catchphrase>
+<catchphrase id="c11">when were shares issued by magazines to mr handbury and nominees</catchphrase>
+<catchphrase id="c12">payment of shares effected by set off in discharge of debt owing by company to intending member</catchphrase>
+<catchphrase id="c13">allottee of shares becomes member when put in control of shares</catchphrase>
+<catchphrase id="c14">shares were issued to mr handbury and nominees when their names were entered on magazines' share register</catchphrase>
+<catchphrase id="c15">taxation</catchphrase>
+<catchphrase id="c16">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -420,7 +420,7 @@ Further, under the Share Purchase Agreement, the taxpayer, Nominees and Mr Handb
 <sentence id="s103">35 On 30 July 2004, Nominees applied for an allotment of 244,491 shares in Magazines.</sentence>
 <sentence id="s104">On the same day, Mr Handbury applied for an allotment of 184,035 shares in Magazines.</sentence>
 <sentence id="s105">The Register recorded the allotments being made on 30 July 2004.</sentence>
-<sentence id="s106">Form 484 dated 26 August 2004 filed with the Australian Securities &amp; Investments Commission indicated that these allotments occurred the day before (that is, 29 July 2004), but, in the circumstances just mentioned, I accept that this was probably because the form was completed by reference to the minutes and not the register.</sentence>
+<sentence id="s106">Form 484 dated 26 August 2004 filed with the Australian Securities &amp;amp; Investments Commission indicated that these allotments occurred the day before (that is, 29 July 2004), but, in the circumstances just mentioned, I accept that this was probably because the form was completed by reference to the minutes and not the register.</sentence>
 <sentence id="s107">Consistently with the facts set out here, and Mr Bourne's evidence (see below), the register recorded the shares as being issued to Nominees and Mr Handbury on 30 July 2004: see also Corporations Act 2001 (Cth), s 176.</sentence>
 <sentence id="s108">36 On 30 July 2004, Magazines issued 184,035 fully paid ordinary shares to Mr Handbury and 244,491 fully paid shares to Nominees.</sentence>
 <sentence id="s109">I return to the dispute between the parties about the dates of allotment and issue of the shares at the conclusion of these reasons for judgment.</sentence>
@@ -519,7 +519,7 @@ Further, under the Share Purchase Agreement, the taxpayer, Nominees and Mr Handb
 <sentence id="s166">As his Honour commented in Envestra at [6], "[t]hat process obviously required rules, including to set the cost for income tax purposes of the assets that a subsidiary member would bring into the group".</sentence>
 <sentence id="s167">Just as rules are needed for this purpose, so too rules are needed to govern the situation when a subsidiary member leaves the group.</sentence>
 <sentence id="s168">A subsidiary member leaves the group when it ceases to be a wholly-owned subsidiary of the head company.</sentence>
-<sentence id="s169">57 As the earlier discussion shows, the drafting style used in Pt 3 - 90 is a distinctive one: it specifically directs attention to the objects of the scheme as a whole and in respect of aspects of the scheme, and to the particular principles that are instrumental in achieving these objects: see e.g., ss 700-10, 701 -15(2) &amp; (3), 705 -10(2) &amp; (3) and 711-5(2) &amp; (3).</sentence>
+<sentence id="s169">57 As the earlier discussion shows, the drafting style used in Pt 3 - 90 is a distinctive one: it specifically directs attention to the objects of the scheme as a whole and in respect of aspects of the scheme, and to the particular principles that are instrumental in achieving these objects: see e.g., ss 700-10, 701 -15(2) &amp;amp; (3), 705 -10(2) &amp;amp; (3) and 711-5(2) &amp;amp; (3).</sentence>
 <sentence id="s170">The more detailed provisions, or 'rules', that are to be applied to give effect to these principles are to be construed in light of these principles and objects.</sentence>
 <sentence id="s171">58 This appeal is concerned with what happens when a subsidiary leaves the group.</sentence>
 <sentence id="s172">The object of Division 711, which governs this situation, is set out in s 711-5, namely, "to preserve the alignment of the head company's costs for membership interests ... established when entities become subsidiary members": s 711-5(2).</sentence>
@@ -622,7 +622,7 @@ Dated: 28 November 2008
 
  Counsel for the Applicant: Mr Slater QC with Mr O'Loughlin 
  
- Solicitor for the Applicant: Hall &amp; Wilcox Lawyers 
+ Solicitor for the Applicant: Hall &amp;amp; Wilcox Lawyers 
  
  Counsel for the Respondent: Mr de Wijn QC with Mr Nicholas 
  

@@ -3,18 +3,18 @@
 <name>Hermitage Motel Pty Ltd v P. E. Kafka Pty Ltd [2008] FCA 442 (4 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/442.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c1">sale of motel</catchphrase>
-<catchphrase "id=c2">misleading misrepresentations made by vendors to purchaser concerning revenue, occupancy and profitability of motel business</catchphrase>
-<catchphrase "id=c3">purchaser induced to purchase motel by misleading misrepresentations</catchphrase>
-<catchphrase "id=c4">proper measure of damages</catchphrase>
-<catchphrase "id=c5">proper measure of damages where purchase of property induced by misleading statements</catchphrase>
-<catchphrase "id=c6">potts v miller basis proper measure in instant circumstances</catchphrase>
-<catchphrase "id=c7">relevance to measure of damages of events subsequent to purchase</catchphrase>
-<catchphrase "id=c8">competing valuations of property at time of purchase considered</catchphrase>
-<catchphrase "id=c9">extent of compensable consequential loss</catchphrase>
-<catchphrase "id=c10">trade practices</catchphrase>
-<catchphrase "id=c11">damages</catchphrase>
+<catchphrase id="c0">misleading and deceptive conduct</catchphrase>
+<catchphrase id="c1">sale of motel</catchphrase>
+<catchphrase id="c2">misleading misrepresentations made by vendors to purchaser concerning revenue, occupancy and profitability of motel business</catchphrase>
+<catchphrase id="c3">purchaser induced to purchase motel by misleading misrepresentations</catchphrase>
+<catchphrase id="c4">proper measure of damages</catchphrase>
+<catchphrase id="c5">proper measure of damages where purchase of property induced by misleading statements</catchphrase>
+<catchphrase id="c6">potts v miller basis proper measure in instant circumstances</catchphrase>
+<catchphrase id="c7">relevance to measure of damages of events subsequent to purchase</catchphrase>
+<catchphrase id="c8">competing valuations of property at time of purchase considered</catchphrase>
+<catchphrase id="c9">extent of compensable consequential loss</catchphrase>
+<catchphrase id="c10">trade practices</catchphrase>
+<catchphrase id="c11">damages</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -61,7 +61,7 @@
 <sentence id="s23">I do not agree.</sentence>
 <sentence id="s24">In that case, the plaintiff, not the defendant, was seeking to rely upon events subsequent to the transaction.</sentence>
 <sentence id="s25">The actual decision affirms the Potts v Miller measure of damage but points out that subsequent events can throw light upon the true value of the property at the time of the transaction ( HTW Valuers 217 CLR 640 per Gleeson CJ, McHugh, Gummow, Kirby and Heydon JJ at [34]---[40]).</sentence>
-<sentence id="s26">That principle is well known in valuation law and practice and had been referred to by the High Court in Kizbeau Pty Ltd v WG &amp; B Pty Ltd [1995] HCA 4 ; (1995) 184 CLR 281 , particularly at 291---296 per Brennan, Deane, Dawson, Gaudron and McHugh JJ.</sentence>
+<sentence id="s26">That principle is well known in valuation law and practice and had been referred to by the High Court in Kizbeau Pty Ltd v WG &amp;amp; B Pty Ltd [1995] HCA 4 ; (1995) 184 CLR 281 , particularly at 291---296 per Brennan, Deane, Dawson, Gaudron and McHugh JJ.</sentence>
 <sentence id="s27">The Court went on to consider an alternative approach proposed by the plaintiff, that is, that the measure of damages would be the price paid minus the benefits left in its hands at the time of trial --- it being a case where there had been a significant decline in value by the time of the trial.</sentence>
 <sentence id="s28">The Court indicated that there may be circumstances in which that approach would be appropriate ( HTW Valuers 217 CLR 640 at [63]---[67]).</sentence>
 <sentence id="s29">The decision in Murphy v Overton Investments Pty Ltd [2004] HCA 3 ; (2004) 216 CLR 388 points in the same direction.</sentence>
@@ -73,7 +73,7 @@
 <sentence id="s35">VALUE OF PROPERTY ACQUIRED 
  
 7 It is common ground that the value of this motel is to be assessed by capitalisation of the annual net return.</sentence>
-<sentence id="s36">It is, thus, necessary to arrive at the annual net return and a capitalisation rate --- having done so, the formula is: 100 [rparenmid] capitalisation rate &#215; net return = value.</sentence>
+<sentence id="s36">It is, thus, necessary to arrive at the annual net return and a capitalisation rate --- having done so, the formula is: 100 [rparenmid] capitalisation rate &amp;#215; net return = value.</sentence>
 <sentence id="s37">The respective valuers disagree about each integer.</sentence>
 <sentence id="s38">Annual net return 
  
@@ -152,7 +152,7 @@
 <sentence id="s97">The fact that Drewitt Smith used it to support a significant over value illustrates the problem.</sentence>
 <sentence id="s98">Conclusion as to value 
  
-22 Therefore, the true value of the property at the time of purchase was 100 [rparenmid] 12.5 &#215; $200,000 = $1,600,000.</sentence>
+22 Therefore, the true value of the property at the time of purchase was 100 [rparenmid] 12.5 &amp;#215; $200,000 = $1,600,000.</sentence>
 <sentence id="s99">It follows that the first applicant is entitled to damages of $450,000 plus interest from the date of settlement.</sentence>
 <sentence id="s100">CONSEQUENTIAL LOSSES 
  
@@ -172,12 +172,12 @@ Dated: 4 April 2008
 
  Counsel for the Applicants: Mr JWS Stevenson SC, Mr PP O'Loughlin 
  
- Solicitor for the Applicants: Townsends Business &amp; Corporate Lawyers 
+ Solicitor for the Applicants: Townsends Business &amp;amp; Corporate Lawyers 
  
  Counsel for the Respondents: Mr BW Rayment QC, Mr FP Donohoe (18---21 June 2007)
 Mr BW Rayment QC, Mr JP Donohoe (28 September 2007) 
  
- Solicitor for the First to Sixth and Ninth Respondents: Laurence &amp; Laurence Commercial Lawyers 
+ Solicitor for the First to Sixth and Ninth Respondents: Laurence &amp;amp; Laurence Commercial Lawyers 
  
  Solicitor for the Seventh and Eighth Respondents: Mr G Harris 
 

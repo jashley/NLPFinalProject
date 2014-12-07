@@ -3,14 +3,14 @@
 <name>SZLDG v Minister for Immigration and Citizenship [2008] FCA 11 (17 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/11.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for protection (class xa) visa</catchphrase>
-<catchphrase "id=c1">90 day period in which minister to make a decision expired</catchphrase>
-<catchphrase "id=c2">relationship between ss 65 and 501 of migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c3">different delegates of minister with delegated power to act under s 65 and s 501</catchphrase>
-<catchphrase "id=c4">scope of s 65 delegate's authority, if any, in relation to the "character test" under s 501</catchphrase>
-<catchphrase "id=c5">whether s 65 delegate had finally decided to issue temporary protection visa (subclass 785) to applicant</catchphrase>
-<catchphrase "id=c6">whether mandamus lay to compel minister to issue the visa. held : (1) the s 65 delegate had not finally decided to issue a temporary protection visa to the applicant and mandamus did not lie to compel the minister to issue the visa; (2) the role of the s 65 delegate in relation to the s 501 character test was limited to checking with the appropriate s 501 delegate that the applicant had not failed to pass that test; (3) s 65 delegate's powers under s 65 and the migration regulations 1994 (cth) were subject to the powers of the minister and the minister's s 501(1) delegate to refuse to grant a visa; (4) mandamus should issue to compel minister to determine the application according to law, having regard to the fact that the 90 day period fixed by s 65a had long since expired.</catchphrase>
-<catchphrase "id=c7">migration</catchphrase>
+<catchphrase id="c0">application for protection (class xa) visa</catchphrase>
+<catchphrase id="c1">90 day period in which minister to make a decision expired</catchphrase>
+<catchphrase id="c2">relationship between ss 65 and 501 of migration act 1958 (cth)</catchphrase>
+<catchphrase id="c3">different delegates of minister with delegated power to act under s 65 and s 501</catchphrase>
+<catchphrase id="c4">scope of s 65 delegate's authority, if any, in relation to the "character test" under s 501</catchphrase>
+<catchphrase id="c5">whether s 65 delegate had finally decided to issue temporary protection visa (subclass 785) to applicant</catchphrase>
+<catchphrase id="c6">whether mandamus lay to compel minister to issue the visa. held : (1) the s 65 delegate had not finally decided to issue a temporary protection visa to the applicant and mandamus did not lie to compel the minister to issue the visa; (2) the role of the s 65 delegate in relation to the s 501 character test was limited to checking with the appropriate s 501 delegate that the applicant had not failed to pass that test; (3) s 65 delegate's powers under s 65 and the migration regulations 1994 (cth) were subject to the powers of the minister and the minister's s 501(1) delegate to refuse to grant a visa; (4) mandamus should issue to compel minister to determine the application according to law, having regard to the fact that the 90 day period fixed by s 65a had long since expired.</catchphrase>
+<catchphrase id="c7">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -41,7 +41,7 @@
 <sentence id="s22">BACKGROUND FACTS 
  
 9 The applicant is a national of Iraq.</sentence>
-<sentence id="s23">He claims to have been persecuted by the Saddam Hussein r&eacute;gime and to have spent some six years in Abu Ghraib gaol.</sentence>
+<sentence id="s23">He claims to have been persecuted by the Saddam Hussein r&amp;eacute;gime and to have spent some six years in Abu Ghraib gaol.</sentence>
 <sentence id="s24">He claims to have fled Iraq, and then to have spent time in Iran, Turkey, Malaysia and Indonesia.</sentence>
 <sentence id="s25">10 The applicant arrived in Australia on 22 February 2003 on a criminal justice entry visa after extradition from Thailand to face charges of "people smuggling" under s 232A of the Act, or in the alternative, s 233(1)(a) of the Act.</sentence>
 <sentence id="s26">The allegation was that the applicant had been responsible for the organisation of the arrival of four boats of illegal immigrants over a period of one year in 2000 and 2001 and that he was reckless as to whether or not those persons had a lawful right to come to Australia.</sentence>
@@ -52,7 +52,7 @@
 <sentence id="s31">13 The applicant's mother, three sisters and three brothers live in Australia, some or all of them at Villawood.</sentence>
 <sentence id="s32">The applicant's mother and siblings came to Australia as illegal immigrants on the vessels organised by the applicant, and apparently have been recognised as having refugee status.</sentence>
 <sentence id="s33">The applicant's wife and daughter live in Indonesia and his father and another brother still live in Iraq.</sentence>
-<sentence id="s34">The applicant claims that a further brother was killed by the Saddam Hussein r&eacute;gime.</sentence>
+<sentence id="s34">The applicant claims that a further brother was killed by the Saddam Hussein r&amp;eacute;gime.</sentence>
 <sentence id="s35">14 The application for the Protection (Class XA) visa made on 16 June 2006 (see [1] above) was also treated as an application for a Bridging visa (Bridging Visa E) (Subclass 050) and as an application for a Temporary Protection visa (Subclass 785).</sentence>
 <sentence id="s36">In his application, the applicant gave as details of his employment between 1999 and 2002 that in Malaysia and Indonesia he had been "helping with people smuggling".</sentence>
 <sentence id="s37">His frankness may suggest that he saw nothing to be ashamed of in what he had been doing.</sentence>
@@ -71,11 +71,11 @@
 <sentence id="s50">20 On 30 March 2007, Nicole Pearson, Director, Character Policy, Character Assessment and War Crimes Screening Branch, expressed several concerns over aspects of the handling of the applicant's application.</sentence>
 <sentence id="s51">Ms Pearson:
  
-&#8226; thought that the application should have been considered by a delegate to whom the Ministerial power to refuse to grant a visa under s 501(1) of the Act had been delegated, but noted that this had not occurred;
+&amp;#8226; thought that the application should have been considered by a delegate to whom the Ministerial power to refuse to grant a visa under s 501(1) of the Act had been delegated, but noted that this had not occurred;
  
-&#8226; observed that on 7 July 2006, former Minister Vanstone had "personally" refused to issue a Bridging visa on the ground that the applicant failed to pass the s 501 character test;
+&amp;#8226; observed that on 7 July 2006, former Minister Vanstone had "personally" refused to issue a Bridging visa on the ground that the applicant failed to pass the s 501 character test;
  
-&#8226; noted that from February 2007, character assessments for the purposes of s 501(1) of the Act had been centralised in the Brisbane Character Assessment Unit (BCAU) and had ceased to be made within the individual "State Protection visa processing areas".</sentence>
+&amp;#8226; noted that from February 2007, character assessments for the purposes of s 501(1) of the Act had been centralised in the Brisbane Character Assessment Unit (BCAU) and had ceased to be made within the individual "State Protection visa processing areas".</sentence>
 <sentence id="s52">21 In late March 2007, the application was discussed with the Minister's office.</sentence>
 <sentence id="s53">22 On 12 April 2007, Ms Pearson gave a direction for the applicant's file to be forwarded to the BCAU for "proper" consideration under s 501 of the Act.</sentence>
 <sentence id="s54">23 The position was taken, apparently in April 2007, that a decision should not be made on the waiver of the requirement of an Iranian police clearance certificate until an "Interpol check" was carried out.</sentence>
@@ -341,13 +341,13 @@ I will refer to PIC 4001 and to a s 65 delegate's role in relation to it below.<
 62 Ms Watson next noted the provisions of s 91U of the Act which outlines crimes that may be considered to be "particularly serious" crimes for the purposes of Art 33(2).</sentence>
 <sentence id="s172">Ms Watson observed that:
  
- &#8226; crimes outside those referred to in s 91U might also be considered "particularly serious crimes"; and 
+ &amp;#8226; crimes outside those referred to in s 91U might also be considered "particularly serious crimes"; and 
  
  
  
  
  
- &#8226; the nature of the crimes referred to in s 91U(1)(a) were crimes involving violence against the person, serious drug offences, serious damage to property and immigration detention offences, all of which were different from the nature of the crime of people smuggling.</sentence>
+ &amp;#8226; the nature of the crimes referred to in s 91U(1)(a) were crimes involving violence against the person, serious drug offences, serious damage to property and immigration detention offences, all of which were different from the nature of the crime of people smuggling.</sentence>
 <sentence id="s173">
 
 63 Ms Watson also considered, under Art 33, whether the applicant would pose a danger to the security of the Australian community if he were granted refugee status and concluded that he would not.</sentence>
@@ -427,7 +427,7 @@ I will refer to PIC 4001 and to a s 65 delegate's role in relation to it below.<
 <sentence id="s221">Character section wanted to have an update from Teheran.</sentence>
 <sentence id="s222">Terry Lew sent through a request to Teheran which may have come back to him.</sentence>
 <sentence id="s223">It really needs to be finalised soon [there follows a line or partial line of handwriting that is illegible in the photocopy in the Exhibit].</sentence>
-<sentence id="s224">Sally &amp; Pete need to clear the whole dec rec when Iranian penal waiver is granted.</sentence>
+<sentence id="s224">Sally &amp;amp; Pete need to clear the whole dec rec when Iranian penal waiver is granted.</sentence>
 <sentence id="s225">Advise PD before grant as PD will need to brief.</sentence>
 <sentence id="s226">Waiver
  
@@ -495,7 +495,7 @@ Both of these paragraphs would require the taking of a decision by Ms Watson "de
  
 92 Counsel for the applicant accepts that s 501 "does sit above the normal requirements for the grant of a visa".</sentence>
 <sentence id="s271">He submits that s 501 "gets its interaction with the normal grant of a visa under s 65(1)(a)(iii)" , and that it does not have application until a decision is made under it: until then it "sits above and outside of the normal processes of a grant of a visa".</sentence>
-<sentence id="s272">According to counsel's submission, until s 501(1) is actually invoked by the taking of a decision under s 501(1) to refuse to grant a visa, the r&eacute;gime found in s 65 and Subclass 785 of Sch 2 to the Regulations and, relevantly, PIC 4001, alone apply.</sentence>
+<sentence id="s272">According to counsel's submission, until s 501(1) is actually invoked by the taking of a decision under s 501(1) to refuse to grant a visa, the r&amp;eacute;gime found in s 65 and Subclass 785 of Sch 2 to the Regulations and, relevantly, PIC 4001, alone apply.</sentence>
 <sentence id="s273">93 According to the submission, a s 65 delegate, upon finding that no decision by a s 501(1) delegate to refuse to grant a visa has "yet" been taken, is at liberty, indeed is obliged by the mandatory terms of s 65(1)(a) , to grant the visa, even if the s 65 delegate knows that the questions that arise under s 501 are still under consideration by the s 501(1) delegate.</sentence>
 <sentence id="s274">Indeed, the s 65 delegate would be required to grant the visa even though, as in the present case, a NOICR has actually been issued to the applicant.</sentence>
 <sentence id="s275">It would be only an actual decision under s 501(1) to refuse to grant a visa that would defeat s 65(1)(a) 's requirement that a visa be granted.</sentence>

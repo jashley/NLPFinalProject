@@ -3,10 +3,10 @@
 <name>Bank of Queensland Limited (ACN 009 656 540) v Industrial Court of New South Wales [2008] FCA 324 (12 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/324.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an application to transfer pursuant to the jurisdiction of courts (cross-vesting) act 1987 (cth), federal court proceedings to the supreme court of new south wales</catchphrase>
-<catchphrase "id=c1">consideration of whether s 179 of the industrial relations act 1996 (nsw) ('ir act') arguably operates so as to deprive the federal court of australia of jurisdiction to determine whether s 106 of the ir act is inconsistent with s 7(1)(c) of the independent contractors act 2006 (cth) and to the extent of the inconsistency invalid by reason of s 109 of the commonwealth constitution , for the purposes of the transfer application</catchphrase>
-<catchphrase "id=c2">consideration of the criteria for transfer of proceedings</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase id="c0">consideration of an application to transfer pursuant to the jurisdiction of courts (cross-vesting) act 1987 (cth), federal court proceedings to the supreme court of new south wales</catchphrase>
+<catchphrase id="c1">consideration of whether s 179 of the industrial relations act 1996 (nsw) ('ir act') arguably operates so as to deprive the federal court of australia of jurisdiction to determine whether s 106 of the ir act is inconsistent with s 7(1)(c) of the independent contractors act 2006 (cth) and to the extent of the inconsistency invalid by reason of s 109 of the commonwealth constitution , for the purposes of the transfer application</catchphrase>
+<catchphrase id="c2">consideration of the criteria for transfer of proceedings</catchphrase>
+<catchphrase id="c3">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -289,7 +289,7 @@
 <sentence id="s125">Section 39B(1A)(c) confers jurisdiction upon the Court, relevantly for present purposes, in any matter arising under any laws made by the Parliament.</sentence>
 <sentence id="s126">The Bank claims that its 'rights and entitlements' as a party to a services contract are not affected by s 106 of the IR Act.</sentence>
 <sentence id="s127">That claim seems to me to be the assertion of a right, or reliance upon an answer to a claim for an order under s 106 of the State Act, conferred by or under the Commonwealth Act.</sentence>
-<sentence id="s128">The claim thus arises under the Commonwealth Statute ( Ex parte McLean [1930] HCA 12 ; (1930) 43 CLR 472 ; The King v Commonwealth Court of Conciliation and Arbitration; Ex parte Barrett [1945] HCA 50 ; (1945) 70 CLR 141 at 154 per Latham CJ; The Queen v Australian Stevedoring Industry Board; Ex parte Melbourne Stevedoring Co. Pty Ltd [1953] HCA 22 ; (1953) 88 CLR 100 ; and Felton v Mulligan &amp; Anor [1971] HCA 39 ; (1971) 124 CLR 367.</sentence>
+<sentence id="s128">The claim thus arises under the Commonwealth Statute ( Ex parte McLean [1930] HCA 12 ; (1930) 43 CLR 472 ; The King v Commonwealth Court of Conciliation and Arbitration; Ex parte Barrett [1945] HCA 50 ; (1945) 70 CLR 141 at 154 per Latham CJ; The Queen v Australian Stevedoring Industry Board; Ex parte Melbourne Stevedoring Co. Pty Ltd [1953] HCA 22 ; (1953) 88 CLR 100 ; and Felton v Mulligan &amp;amp; Anor [1971] HCA 39 ; (1971) 124 CLR 367.</sentence>
 <sentence id="s129">The controversy also involves a matter arising under the Constitution .</sentence>
 <sentence id="s130">51 Section 179 of the IR Act is a privative provision described by its heading as directed to the 'finality of decisions'.</sentence>
 <sentence id="s131">Although the section addresses 'decisions' and 'purported decisions' it also provides that 'proceedings of the Commission (however constituted) may not be prevented from being continued ... or called into question in any court or tribunal'.</sentence>

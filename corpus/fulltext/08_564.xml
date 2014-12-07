@@ -3,17 +3,17 @@
 <name>Trollope v The Honourable Justice Middleton (includes corrigendum dated 29 July 2008) [2008] FCA 564 (27 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/564.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether "decision" to issue a search warrant pursuant to s 130 of the bankruptcy act 1966 (cth) is a reviewable decision pursuant to the administrative decisions (judicial review) act 1977 (cth) ("the adjr act")</catchphrase>
-<catchphrase "id=c1">whether decision-maker obliged to provide a statement of reasons pursuant to s 13 of the adjr act</catchphrase>
-<catchphrase "id=c2">decision to issue warrant may result in the institution of civil proceedings (para (f) of sch 2 of the adjr act)</catchphrase>
-<catchphrase "id=c3">no obligation to provide reasons</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase id="c0">whether "decision" to issue a search warrant pursuant to s 130 of the bankruptcy act 1966 (cth) is a reviewable decision pursuant to the administrative decisions (judicial review) act 1977 (cth) ("the adjr act")</catchphrase>
+<catchphrase id="c1">whether decision-maker obliged to provide a statement of reasons pursuant to s 13 of the adjr act</catchphrase>
+<catchphrase id="c2">decision to issue warrant may result in the institution of civil proceedings (para (f) of sch 2 of the adjr act)</catchphrase>
+<catchphrase id="c3">no obligation to provide reasons</catchphrase>
+<catchphrase id="c4">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
  On 3 October 2007 the second respondent, as trustee of the bankrupt estate of the applicant, applied to the first respondent for the issue of a search warrant under s 130 of the Bankruptcy Act 1966 (Cth) ("the Bankruptcy Act ").</sentence>
 <sentence id="s1">The application was supported by three affidavits.</sentence>
-<sentence id="s2">The warrant authorised the search for and seizure of property at the premises of TS&amp;B Retail Systems Pty Ltd on the Princess Highway in Dandenong South.</sentence>
+<sentence id="s2">The warrant authorised the search for and seizure of property at the premises of TS&amp;amp;B Retail Systems Pty Ltd on the Princess Highway in Dandenong South.</sentence>
 <sentence id="s3">Having considered the information disclosed in the affidavits his Honour determined to issue the warrant.</sentence>
 <sentence id="s4">He endorsed on one of the affidavits the following notation: 
  "In accordance with s 130(4) of the Bankruptcy Act 1966 the following are the grounds on which I have relied to justify the issue of the warrant: 
@@ -152,7 +152,7 @@
 <sentence id="s35">CONSIDERATION 
  Standing
  The second respondent contends that there is no evidence that the applicant is a person aggrieved by his Honour's decision to issue a search warrant.</sentence>
-<sentence id="s36">The warrant was to be executed at the premises of TS&amp;B Retail and was so executed.</sentence>
+<sentence id="s36">The warrant was to be executed at the premises of TS&amp;amp;B Retail and was so executed.</sentence>
 <sentence id="s37">The warrant was, it was said, issued because of matters arising in relation to the applicant's bankrupt estate rather than the bankrupt himself.</sentence>
 <sentence id="s38">For these reasons it was submitted that the applicant did not have standing to apply for review under s 5 of the ADJR Act.</sentence>
 <sentence id="s39">Counsel for the applicant did not point to any evidence before the Court which went to the standing of the applicant.</sentence>
@@ -174,8 +174,8 @@
 <sentence id="s55">Section 130 of the Bankruptcy Act allows a trustee of a bankrupt's estate to make an ex parte application to a Judge for the issue of a search warrant.</sentence>
 <sentence id="s56">The warrant, if issued, authorises the persons named in it to search for and take possession of the property of a bankrupt, property that may be connected with, or related to, the bankrupt's examinable affairs or books relevant to any of the bankrupt's examinable affairs.</sentence>
 <sentence id="s57">Thus, although his Honour was under no obligation to hear the applicant prior to the issue of the warrant, the property to which the warrant was directed was, necessarily, the property of the applicant (albeit vested in his trustee) or property or books relating to his examinable affairs.</sentence>
-<sentence id="s58">The notations made by his Honour, in accordance with the requirements of s 130(4) of the Bankruptcy Act , record that he was satisfied, on the affidavit material before him, that there were reasonable grounds for believing that there were, on the premises of TS&amp;B Retail, books that would disclose that the applicant played a role in the conduct of the business of TS&amp;B Retail and that the books would disclose that role.</sentence>
-<sentence id="s59">Although the warrant was executed on the premises of TS&amp;B Retail, it authorised, inter alia, the seizure of books of account which related to the applicant's examinable affairs.</sentence>
+<sentence id="s58">The notations made by his Honour, in accordance with the requirements of s 130(4) of the Bankruptcy Act , record that he was satisfied, on the affidavit material before him, that there were reasonable grounds for believing that there were, on the premises of TS&amp;amp;B Retail, books that would disclose that the applicant played a role in the conduct of the business of TS&amp;amp;B Retail and that the books would disclose that role.</sentence>
+<sentence id="s59">Although the warrant was executed on the premises of TS&amp;amp;B Retail, it authorised, inter alia, the seizure of books of account which related to the applicant's examinable affairs.</sentence>
 <sentence id="s60">As it happened the material seized included documents in respect of which the applicant claimed client legal privilege.</sentence>
 <sentence id="s61">That to my mind is not a significant consideration.</sentence>
 <sentence id="s62">What is important is that the documents sought related to the applicant's financial affairs.</sentence>

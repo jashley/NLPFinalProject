@@ -3,28 +3,28 @@
 <name>Condon v Watson [2009] FCA 11 (14 January 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/11.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">c and w both registered liquidators and official liquidators</catchphrase>
-<catchphrase "id=c1">w becomes employed by c</catchphrase>
-<catchphrase "id=c2">at that time w is already sole court appointed liquidator of two companies and sole liquidator of five companies the subject of creditors' voluntary windings up</catchphrase>
-<catchphrase "id=c3">c and w are appointed as liquidators of nine companies the subject of court-ordered windings up, as liquidators of eight companies the subject of creditors' windings up, as voluntary administrators of one company, and as administrators of deeds of company arrangement in respect of 11 companies</catchphrase>
-<catchphrase "id=c4">w ceases to be employed by c</catchphrase>
-<catchphrase "id=c5">c and w agree that w will resign all offices and that c will fill all offices</catchphrase>
-<catchphrase "id=c6">w signs notices of resignation of all offices</catchphrase>
-<catchphrase "id=c7">w's entitlement unilaterally to resign office</catchphrase>
-<catchphrase "id=c8">whether, in the case of the sole appointments, court can and should appoint c as w's successor in office</catchphrase>
-<catchphrase "id=c9">whether, in the case of the co-appointments, c continued in office alone</catchphrase>
-<catchphrase "id=c10">exercise of discretion to enable c to continue in office alone.</catchphrase>
-<catchphrase "id=c11">c and w both registered trustees in bankruptcy</catchphrase>
-<catchphrase "id=c12">w becomes employed by c</catchphrase>
-<catchphrase "id=c13">during w's employment by c, c and w are appointed as trustees in bankruptcy in respect of each of 33 bankrupt estates</catchphrase>
-<catchphrase "id=c14">the bankruptcies are pursuant to sequestration orders or the filing of debtors' petitions</catchphrase>
-<catchphrase "id=c15">w ceases to be employed by c</catchphrase>
-<catchphrase "id=c16">c and w agree that w will resign as co-trustee, leaving c as sole trustee</catchphrase>
-<catchphrase "id=c17">w tenders written resignations as co-trustee in bankruptcy</catchphrase>
-<catchphrase "id=c18">whether court should accept w's resignations</catchphrase>
-<catchphrase "id=c19">direction that w entitled to continue as sole trustee of each bankrupt estate.</catchphrase>
-<catchphrase "id=c20">corporations</catchphrase>
-<catchphrase "id=c21">bankruptcy</catchphrase>
+<catchphrase id="c0">c and w both registered liquidators and official liquidators</catchphrase>
+<catchphrase id="c1">w becomes employed by c</catchphrase>
+<catchphrase id="c2">at that time w is already sole court appointed liquidator of two companies and sole liquidator of five companies the subject of creditors' voluntary windings up</catchphrase>
+<catchphrase id="c3">c and w are appointed as liquidators of nine companies the subject of court-ordered windings up, as liquidators of eight companies the subject of creditors' windings up, as voluntary administrators of one company, and as administrators of deeds of company arrangement in respect of 11 companies</catchphrase>
+<catchphrase id="c4">w ceases to be employed by c</catchphrase>
+<catchphrase id="c5">c and w agree that w will resign all offices and that c will fill all offices</catchphrase>
+<catchphrase id="c6">w signs notices of resignation of all offices</catchphrase>
+<catchphrase id="c7">w's entitlement unilaterally to resign office</catchphrase>
+<catchphrase id="c8">whether, in the case of the sole appointments, court can and should appoint c as w's successor in office</catchphrase>
+<catchphrase id="c9">whether, in the case of the co-appointments, c continued in office alone</catchphrase>
+<catchphrase id="c10">exercise of discretion to enable c to continue in office alone.</catchphrase>
+<catchphrase id="c11">c and w both registered trustees in bankruptcy</catchphrase>
+<catchphrase id="c12">w becomes employed by c</catchphrase>
+<catchphrase id="c13">during w's employment by c, c and w are appointed as trustees in bankruptcy in respect of each of 33 bankrupt estates</catchphrase>
+<catchphrase id="c14">the bankruptcies are pursuant to sequestration orders or the filing of debtors' petitions</catchphrase>
+<catchphrase id="c15">w ceases to be employed by c</catchphrase>
+<catchphrase id="c16">c and w agree that w will resign as co-trustee, leaving c as sole trustee</catchphrase>
+<catchphrase id="c17">w tenders written resignations as co-trustee in bankruptcy</catchphrase>
+<catchphrase id="c18">whether court should accept w's resignations</catchphrase>
+<catchphrase id="c19">direction that w entitled to continue as sole trustee of each bankrupt estate.</catchphrase>
+<catchphrase id="c20">corporations</catchphrase>
+<catchphrase id="c21">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -35,9 +35,9 @@
 <sentence id="s2">2 Each of the applicant (Mr Condon) and the respondent (Mr Watson) is:
  
  
- &#8226; a registered trustee in bankruptcy under the Bankruptcy Act 1966 (Cth) (Bankruptcy Act): see esp Pt VIII Div 1 of the Bankruptcy Act ;
- &#8226; registered by ASIC as a registered liquidator under the Corporations Act 2001 (Cth) (Corporations Act): see esp Pt 9.2 of the Corporations Act ; and 
- &#8226; registered by the Australian Securities and Investments Commission (ASIC) as an official liquidator: see esp s 1283 of the Corporations Act .</sentence>
+ &amp;#8226; a registered trustee in bankruptcy under the Bankruptcy Act 1966 (Cth) (Bankruptcy Act): see esp Pt VIII Div 1 of the Bankruptcy Act ;
+ &amp;#8226; registered by ASIC as a registered liquidator under the Corporations Act 2001 (Cth) (Corporations Act): see esp Pt 9.2 of the Corporations Act ; and 
+ &amp;#8226; registered by the Australian Securities and Investments Commission (ASIC) as an official liquidator: see esp s 1283 of the Corporations Act .</sentence>
 <sentence id="s3">
  
 
@@ -50,20 +50,20 @@
 <sentence id="s9">6 At the commencement of his employment by Mr Condon, Mr Watson was already:
  
  
- &#8226; sole trustee in bankruptcy of each of 35 estates in bankruptcy (these are not the subject of the present reasons);
- &#8226; court appointed liquidator of each of two companies, Goodbat Pty Ltd (the appointment was made by the Family Court of Australia) and Coastace Pty Ltd (the appointment was made by the Supreme Court of New South Wales); and
- &#8226; liquidator of each of five companies in voluntary liquidation.</sentence>
+ &amp;#8226; sole trustee in bankruptcy of each of 35 estates in bankruptcy (these are not the subject of the present reasons);
+ &amp;#8226; court appointed liquidator of each of two companies, Goodbat Pty Ltd (the appointment was made by the Family Court of Australia) and Coastace Pty Ltd (the appointment was made by the Supreme Court of New South Wales); and
+ &amp;#8226; liquidator of each of five companies in voluntary liquidation.</sentence>
 <sentence id="s10">
  
 
 7 During Mr Watson's time at Condon Associates, he and Mr Condon were appointed, relevantly as:
  
  
- &#8226; trustees in bankruptcy of each of 33 estates in bankruptcy;
- &#8226; liquidators of each of nine companies the subject of court orders for winding up;
- &#8226; liquidators of each of eight companies the subject of creditors' voluntary windings up;
- &#8226; voluntary administrators of one company (Hiafargo Pty Ltd); and
- &#8226; administrators under a deed of company arrangement in respect of each of 11 companies.</sentence>
+ &amp;#8226; trustees in bankruptcy of each of 33 estates in bankruptcy;
+ &amp;#8226; liquidators of each of nine companies the subject of court orders for winding up;
+ &amp;#8226; liquidators of each of eight companies the subject of creditors' voluntary windings up;
+ &amp;#8226; voluntary administrators of one company (Hiafargo Pty Ltd); and
+ &amp;#8226; administrators under a deed of company arrangement in respect of each of 11 companies.</sentence>
 <sentence id="s11">
  
 
@@ -147,7 +147,7 @@ The approved form is Form 12 to the Bankruptcy Regulations 1966 (Cth) (Bankruptc
 <sentence id="s55">There is a question whether it is open to multiple registered trustees, such as Messrs Condon and Watson, to include in Form 12 some such words as "jointly" or "jointly and severally", and so to secure for themselves appointment as joint and several trustees.</sentence>
 <sentence id="s56">The certificates were silent on the present question.</sentence>
 <sentence id="s57">28 Section s 5(4) of the Bankruptcy Act does not assist on the question whether Messrs Condon and Watson are joint or joint and several trustees because it assumes that persons are already known to be "joint trustees" or "joint and several trustees".</sentence>
-<sentence id="s58">29 The general rule of law is that two or more trustees in bankruptcy "have only a joint and not a separate authority", although the exigencies of the circumstances of a particular bankruptcy may make it proper for one to leave certain tasks to the other without being liable for the other's default: see Ex parte Griffin; Re Dixon (1826) 2 GL&amp;J 114 at 116, cited in Re Gudgeon; Ex parte Pegler (1969) 13 FLR 350 at 352.</sentence>
+<sentence id="s58">29 The general rule of law is that two or more trustees in bankruptcy "have only a joint and not a separate authority", although the exigencies of the circumstances of a particular bankruptcy may make it proper for one to leave certain tasks to the other without being liable for the other's default: see Ex parte Griffin; Re Dixon (1826) 2 GL&amp;amp;J 114 at 116, cited in Re Gudgeon; Ex parte Pegler (1969) 13 FLR 350 at 352.</sentence>
 <sentence id="s59">30 Mr Condon and Mr Watson were not "appointed".</sentence>
 <sentence id="s60">Rather they activated the statutory mechanism by which they secured for themselves the office of trustees in bankruptcy.</sentence>
 <sentence id="s61">There was no appointer who have chosen to have two trustees.</sentence>
@@ -264,7 +264,7 @@ This provision has assimilated the position of multiple liquidators to that of m
 <sentence id="s150">Barrett J may have thought similarly: see Vouris at [12].</sentence>
 <sentence id="s151">However, his Honour considered that there was a contrary indication in McPherson's Law of Company Liquidation (4 th ed, LBC Information Services, 1999) of which Professor Andrew Keay is the author.</sentence>
 <sentence id="s152">Footnote 237 at p 297 of that notable work states that where one of two joint liquidators dies, the appropriate course is for the Court to appoint another liquidator to act jointly with the survivor, or, in the alternative, to remove the survivor and reappoint him or her as sole liquidator.</sentence>
-<sentence id="s153">The learned author cites in support a decision of Sir Samuel Griffith, then Chief Justice of the Supreme Court of Queensland, in Re Aplin, Brown &amp; Co Ltd [1902] St R Qd 67 ( Aplin ).</sentence>
+<sentence id="s153">The learned author cites in support a decision of Sir Samuel Griffith, then Chief Justice of the Supreme Court of Queensland, in Re Aplin, Brown &amp;amp; Co Ltd [1902] St R Qd 67 ( Aplin ).</sentence>
 <sentence id="s154">Barrett J considered that the relevant provisions of the then Companies Act of Queensland were sufficiently similar to those of the Corporations Act to give rise to the conclusion that any difficulties of the kind suggested in that case "also conceivably arise under the present provisions" (at [13]).</sentence>
 <sentence id="s155">69 Barrett J took the course of removing the continuing liquidator ( Vouris concerned, not the death of a liquidator but the suspension of the registration of a liquidator for three months by the Company Auditors and Liquidators Disciplinary Board) and reappointing him as sole liquidator in the exercise of the power in s 503 of the Corporations Act .</sentence>
 <sentence id="s156">70 Sections 502 and 503 provide:
@@ -456,7 +456,7 @@ Dated: 14 January 2009
 
  Counsel for the Applicant: Mr R Marshall 
  
- Solicitors for the Applicant: John Walsh &amp; Partners 
+ Solicitors for the Applicant: John Walsh &amp;amp; Partners 
  
  Solicitors for the Respondent G Vietch of Brock Partners (who did not appear at the hearing) 
  

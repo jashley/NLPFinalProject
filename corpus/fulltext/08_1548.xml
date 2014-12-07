@@ -3,14 +3,14 @@
 <name>Australian Reward Investment Alliance v Superannuation Complaints Tribunal [2008] FCA 1548 (23 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1548.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">powers of the superannuation complaints tribunal in relation to complaints made with respect to decisions of the trustee of the pss fund</catchphrase>
-<catchphrase "id=c1">what is a reviewable decision</catchphrase>
-<catchphrase "id=c2">tribunal acting beyond power</catchphrase>
-<catchphrase "id=c3">whether the trustee act 1925 (act) has any application to australian reward investment alliance</catchphrase>
-<catchphrase "id=c4">termination on the ground of inability to perform duties because of physical or mental incapacity</catchphrase>
-<catchphrase "id=c5">restraint on 'being retired' from employment/terminated where employee is under 60 years of age and is a member of the australian public service</catchphrase>
-<catchphrase "id=c6">superannuation</catchphrase>
-<catchphrase "id=c7">employment</catchphrase>
+<catchphrase id="c0">powers of the superannuation complaints tribunal in relation to complaints made with respect to decisions of the trustee of the pss fund</catchphrase>
+<catchphrase id="c1">what is a reviewable decision</catchphrase>
+<catchphrase id="c2">tribunal acting beyond power</catchphrase>
+<catchphrase id="c3">whether the trustee act 1925 (act) has any application to australian reward investment alliance</catchphrase>
+<catchphrase id="c4">termination on the ground of inability to perform duties because of physical or mental incapacity</catchphrase>
+<catchphrase id="c5">restraint on 'being retired' from employment/terminated where employee is under 60 years of age and is a member of the australian public service</catchphrase>
+<catchphrase id="c6">superannuation</catchphrase>
+<catchphrase id="c7">employment</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -248,14 +248,14 @@ appointed on a part-time basis.</sentence>
 <sentence id="s50">The Amount of the benefit/Amount in dispute was recorded as being $4,000 - $10,000 per annum.</sentence>
 <sentence id="s51">In particular, the second respondent was not satisfied with the assessment of her final average salary.</sentence>
 <sentence id="s52">28 When asked to state why the second respondent believed that her 'Fund's decision is unfair or unreasonable' she stated:
- 'I believe that the PSS is both unfair &amp; unreasonable in the method they use for assessment of final average salary in Invalidity cases.</sentence>
+ 'I believe that the PSS is both unfair &amp;amp; unreasonable in the method they use for assessment of final average salary in Invalidity cases.</sentence>
 <sentence id="s53">In Retrenchment cases the PSS use a "weighted" method to calculate final monies.</sentence>
 <sentence id="s54">My Invalidity was unexpected so the Retrenchment method should apply to my case' 
 
  
 29 The second respondent identified her loss as follows:
  'My loss is financial.</sentence>
-<sentence id="s55">My pension is $10,000 per annum less than I would have received at age 60 &amp; $4,000 pa less than if my exit salary had been allowed in the calculation of my FAS [which I would understand to be a reference to her final average salary].</sentence>
+<sentence id="s55">My pension is $10,000 per annum less than I would have received at age 60 &amp;amp; $4,000 pa less than if my exit salary had been allowed in the calculation of my FAS [which I would understand to be a reference to her final average salary].</sentence>
 <sentence id="s56">' 
 
  
@@ -266,7 +266,7 @@ appointed on a part-time basis.</sentence>
 31 In relation to 'other relevant comments' the second respondent added:
  'My FAS at 7-12-2005 is $77,195.</sentence>
 <sentence id="s59">On 21-3-2006 my FAS would have been $84,371.</sentence>
-<sentence id="s60">At Age 60 FAS would be $94,477 (Annual salary increases &amp; not promotion which was very likely).</sentence>
+<sentence id="s60">At Age 60 FAS would be $94,477 (Annual salary increases &amp;amp; not promotion which was very likely).</sentence>
 <sentence id="s61">I have a shortened life expectancy due to my health problems.</sentence>
 <sentence id="s62">' 
 
@@ -629,11 +629,11 @@ In relation to the PSS Fund, the Board was plainly the trustee for the purposes 
  
  
  
- &#9679; The Trustee has not included the Complainant's salary at her exit date when calculating her invalidity benefit, even though this is used for other involuntary retirement exits (eg retrenchment benefit); 
+ &amp;#9679; The Trustee has not included the Complainant's salary at her exit date when calculating her invalidity benefit, even though this is used for other involuntary retirement exits (eg retrenchment benefit); 
  
- &#9679; The Trustee has not used the Complainant's projected salary (to Retirement Age 60) when calculating her invalidity benefit, even though this is implied in the Trust Deed and member communication material; 
+ &amp;#9679; The Trustee has not used the Complainant's projected salary (to Retirement Age 60) when calculating her invalidity benefit, even though this is implied in the Trust Deed and member communication material; 
  
- &#9679; At no stage did the Trustee advise the Complainant of the effect on her pension of alternative invalidity retirement dates.</sentence>
+ &amp;#9679; At no stage did the Trustee advise the Complainant of the effect on her pension of alternative invalidity retirement dates.</sentence>
 <sentence id="s149">
  
  
@@ -651,9 +651,9 @@ In relation to the PSS Fund, the Board was plainly the trustee for the purposes 
  
  
  
- &#9679; the method used for calculating the Retrenchment benefit; or 
- &#9679; her salary at exit; or 
- &#9679; her projected salary at age 60.</sentence>
+ &amp;#9679; the method used for calculating the Retrenchment benefit; or 
+ &amp;#9679; her salary at exit; or 
+ &amp;#9679; her projected salary at age 60.</sentence>
 <sentence id="s153">' 
  
  
@@ -680,10 +680,10 @@ In relation to the PSS Fund, the Board was plainly the trustee for the purposes 
  
  
  
- &#8226; affirming a decision; 
- &#8226; remitting the matter to the Trustee for consideration in accordance with the Tribunal's directions; 
- &#8226; varying the decision; or 
- &#8226; setting aside the decision and substituting its own decision 
+ &amp;#8226; affirming a decision; 
+ &amp;#8226; remitting the matter to the Trustee for consideration in accordance with the Tribunal's directions; 
+ &amp;#8226; varying the decision; or 
+ &amp;#8226; setting aside the decision and substituting its own decision 
  
  
  

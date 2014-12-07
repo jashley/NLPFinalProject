@@ -3,20 +3,20 @@
 <name>Patankar v Excom Education Pty Limited [2008] FCA 475 (10 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/475.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">allegation of breach of s 52 and s 53b trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c1">allegation of misleading representation of legal capacity to sponsor holder of a subclass 457 visa</catchphrase>
-<catchphrase "id=c2">whether representations made</catchphrase>
-<catchphrase "id=c3">where representations not made</catchphrase>
-<catchphrase "id=c4">no breach</catchphrase>
-<catchphrase "id=c5">alleged breach of contract of employment</catchphrase>
-<catchphrase "id=c6">clause too uncertain to create legal obligation</catchphrase>
-<catchphrase "id=c7">no evidentiary support for alleged oral term of contract or alleged warranty</catchphrase>
-<catchphrase "id=c8">reliance on alleged representations</catchphrase>
-<catchphrase "id=c9">where statement found not to be made</catchphrase>
-<catchphrase "id=c10">no negligence</catchphrase>
-<catchphrase "id=c11">trade practices</catchphrase>
-<catchphrase "id=c12">contract</catchphrase>
-<catchphrase "id=c13">negligent misstatement</catchphrase>
+<catchphrase id="c0">allegation of breach of s 52 and s 53b trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c1">allegation of misleading representation of legal capacity to sponsor holder of a subclass 457 visa</catchphrase>
+<catchphrase id="c2">whether representations made</catchphrase>
+<catchphrase id="c3">where representations not made</catchphrase>
+<catchphrase id="c4">no breach</catchphrase>
+<catchphrase id="c5">alleged breach of contract of employment</catchphrase>
+<catchphrase id="c6">clause too uncertain to create legal obligation</catchphrase>
+<catchphrase id="c7">no evidentiary support for alleged oral term of contract or alleged warranty</catchphrase>
+<catchphrase id="c8">reliance on alleged representations</catchphrase>
+<catchphrase id="c9">where statement found not to be made</catchphrase>
+<catchphrase id="c10">no negligence</catchphrase>
+<catchphrase id="c11">trade practices</catchphrase>
+<catchphrase id="c12">contract</catchphrase>
+<catchphrase id="c13">negligent misstatement</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -40,11 +40,11 @@
 <sentence id="s13">CXC was approved by the DIMIA as a subclass 457 visa sponsor.</sentence>
 <sentence id="s14">6 By a letter dated 20 February 2003 from DIMIA, Mr Patankar received advice that his application for a subclass 457 visa to work for CXC as an Information Technology Manager had been approved subject to the conditions that he must not:
  
-&#8226; cease to be employed by the sponsoring employer; or
+&amp;#8226; cease to be employed by the sponsoring employer; or
  
-&#8226; work in a position or occupation inconsistent with the approved position or occupation; or
+&amp;#8226; work in a position or occupation inconsistent with the approved position or occupation; or
  
-&#8226; engage in work for another person or for himself while working for the sponsoring employer.</sentence>
+&amp;#8226; engage in work for another person or for himself while working for the sponsoring employer.</sentence>
 <sentence id="s15">The letter advised:
  
  If you wish to change employer, you must apply for a new subclass 457 visa and meet the requirements at that time...Failure to apply for a new visa may result in cancellation of your visa and removal from Australia of you and any family members.</sentence>

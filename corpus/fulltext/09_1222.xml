@@ -3,16 +3,16 @@
 <name>Wilkshire v Registrar of Trade Marks (includes corrigendum dated 14 December 2009) [2009] FCA 1222 (30 October 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1222.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">applicant seeking rectification by cancellation of trade mark</catchphrase>
-<catchphrase "id=c1">construction of s 88 of trade marks act 1995 (cth)</catchphrase>
-<catchphrase "id=c2">grounds relied upon not enlivening s 88 of the act</catchphrase>
-<catchphrase "id=c3">quasi summary nature of trade mark opposition proceedings</catchphrase>
-<catchphrase "id=c4">orders by consent dismissing appeal to federal court</catchphrase>
-<catchphrase "id=c5">undertakings noted including undertaking "not to threaten the respondent ... with any form of action"</catchphrase>
-<catchphrase "id=c6">construction of consent orders and undertakings</catchphrase>
-<catchphrase "id=c7">threaten in the context intended to comprehend "the initiation" of an action</catchphrase>
-<catchphrase "id=c8">trade marks</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase id="c0">applicant seeking rectification by cancellation of trade mark</catchphrase>
+<catchphrase id="c1">construction of s 88 of trade marks act 1995 (cth)</catchphrase>
+<catchphrase id="c2">grounds relied upon not enlivening s 88 of the act</catchphrase>
+<catchphrase id="c3">quasi summary nature of trade mark opposition proceedings</catchphrase>
+<catchphrase id="c4">orders by consent dismissing appeal to federal court</catchphrase>
+<catchphrase id="c5">undertakings noted including undertaking "not to threaten the respondent ... with any form of action"</catchphrase>
+<catchphrase id="c6">construction of consent orders and undertakings</catchphrase>
+<catchphrase id="c7">threaten in the context intended to comprehend "the initiation" of an action</catchphrase>
+<catchphrase id="c8">trade marks</catchphrase>
+<catchphrase id="c9">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -519,7 +519,7 @@ See also Clinique Laboratories Inc v Luxury Skin Care Brands Pty Ltd [2003] FCA 
  60 It is in my view quite clear that considered together with the consent orders (which, unfavourably to Mr Wilkshire, brought to an end the proceeding that was then on foot), the manifest intent of the two undertakings was to (a) secure that Mr Wilkshire would not interfere with the Council's obtaining registration of its mark (cl 4(a)); and (b) thereafter he would not interfere with the Council's use and enjoyment of its registered mark, directly or indirectly (cl 4 (b)).</sentence>
 <sentence id="s179">Likewise the manifest intent of the consent orders, when considered in the context of the undertakings, was not simply to bring to an end a proceeding of "a quasi summary nature".</sentence>
 <sentence id="s180">Put shortly, the combined effect of the orders and undertaking was that their dispute over the mark was to be at an end then and thereafter.</sentence>
-<sentence id="s181">Order 1 and Undertaking 4(a) were to secure for the Council its registered mark vis-&agrave;-vis Mr Wilkshire; Undertaking 4(b) was to secure the use and enjoyment of that registered mark undisturbed by actions, threatened or initiated, by Mr Wilkshire.</sentence>
+<sentence id="s181">Order 1 and Undertaking 4(a) were to secure for the Council its registered mark vis-&amp;agrave;-vis Mr Wilkshire; Undertaking 4(b) was to secure the use and enjoyment of that registered mark undisturbed by actions, threatened or initiated, by Mr Wilkshire.</sentence>
 <sentence id="s182">In aggregate the parties' compromise agreement was more than the bare compromise on an opposition appeal.</sentence>
 <sentence id="s183">In this setting "not to threaten ... with any form of action" manifestly was intended to comprehend "the initiation" of an action.</sentence>
 <sentence id="s184">Similarly any action in relation "to the use of" the registered mark encompassed an action in relation to its use as a registered mark.</sentence>

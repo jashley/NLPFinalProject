@@ -3,13 +3,13 @@
 <name>Mcjannett, in the matter of an application for an inquiry in relation to an election for offices in the Construction, Forestry, Mining and Energy Union, Western Australian Branch (No 2) [2009] FCA 1015 (10 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1015.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for an election inquiry</catchphrase>
-<catchphrase "id=c1">s 201(b) of the fair work (registered organisations) act 2009 (cth)</catchphrase>
-<catchphrase "id=c2">construction, forestry, mining and energy union election</catchphrase>
-<catchphrase "id=c3">whether reasonable grounds for application by reason of irregularity</catchphrase>
-<catchphrase "id=c4">whether conduct contravenes s 190 of the act</catchphrase>
-<catchphrase "id=c5">application dismissed</catchphrase>
-<catchphrase "id=c6">industrial law</catchphrase>
+<catchphrase id="c0">application for an election inquiry</catchphrase>
+<catchphrase id="c1">s 201(b) of the fair work (registered organisations) act 2009 (cth)</catchphrase>
+<catchphrase id="c2">construction, forestry, mining and energy union election</catchphrase>
+<catchphrase id="c3">whether reasonable grounds for application by reason of irregularity</catchphrase>
+<catchphrase id="c4">whether conduct contravenes s 190 of the act</catchphrase>
+<catchphrase id="c5">application dismissed</catchphrase>
+<catchphrase id="c6">industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -107,7 +107,7 @@ The applicant contends that, in referring to the election being a continuous pro
 <sentence id="s50">The applicant says, alternatively, that even if the Court should rule that the election did not commence with the announcement by Mr Kavanagh and Mr Reynolds of their respective candidatures and their electioneering in May and June 2008, the conduct of Mr Reynolds and of the CFMEU, in particular, referred to by Heenan J continued right through the election period.</sentence>
 <sentence id="s51">The applicant says that, following the judgment of Heenan J, Mr Reynolds and his team continued to use the CFMEU resources, including the information on the union membership list to send out material promoting their candidature and attacking Mr Kavanagh.</sentence>
 <sentence id="s52">The applicant draws attention to "The West Australian" newspaper report dated 11 July 2008, annexed to his affidavit sworn 13 October 2008, where it was reported that Mr Reynolds specifically said that he would now also use the membership list to post his own election material out and that he would seek executive permission to do so.</sentence>
-<sentence id="s53">The applicant also refers to election flyers sent to the membership of the CFMEU on or about 22 July and 14 August 2008 by Mr Reynolds using, he contends, the union resources --- the membership list : see [25] and [27] and annexures C &amp; E to the affidavit of the applicant sworn 20 October 2008.</sentence>
+<sentence id="s53">The applicant also refers to election flyers sent to the membership of the CFMEU on or about 22 July and 14 August 2008 by Mr Reynolds using, he contends, the union resources --- the membership list : see [25] and [27] and annexures C &amp;amp; E to the affidavit of the applicant sworn 20 October 2008.</sentence>
 <sentence id="s54">The applicant additionally refers to actions he says were taken by paid union organisers to promote the candidacy of Mr Reynolds: at [11], [12], [14] and [18] of his affidavit, sworn 18 March 2009.</sentence>
 <sentence id="s55">He says this conduct offers good ground for the suspicion that it was allowed to be done by the CFMEU, controlled by Mr Reynolds.</sentence>
 <sentence id="s56">He says it is significant that Mr Reynolds allowed such activities when done for him and expressly forbad them in relation to Mr Kavanagh: see [21] of the judgment of Heenan J in CFMEU v Kavanagh .</sentence>
@@ -360,7 +360,7 @@ Dated: 10 September 2009
  
  Counsel for the Construction, Forestry, Mining and Energy Union: Mr TJ Dixon 
  
- Solicitor for the Construction, Forestry, Mining and Energy Union: Slater &amp; Gordon Limited 
+ Solicitor for the Construction, Forestry, Mining and Energy Union: Slater &amp;amp; Gordon Limited 
  
  Counsel for Kevin Reynolds: Mr KS Bonomelli 
  

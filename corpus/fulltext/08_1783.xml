@@ -3,10 +3,10 @@
 <name>AMI Australia Holdings Pty Ltd v Bade Medical Institute (Aust) Pty Ltd [2008] FCA 1783 (26 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1783.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for adjournment of hearing dates</catchphrase>
-<catchphrase "id=c1">claimed medical condition not supported by evidence</catchphrase>
-<catchphrase "id=c2">lateness of application for legal assistance</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase id="c0">application for adjournment of hearing dates</catchphrase>
+<catchphrase id="c1">claimed medical condition not supported by evidence</catchphrase>
+<catchphrase id="c2">lateness of application for legal assistance</catchphrase>
+<catchphrase id="c3">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -41,7 +41,7 @@
 <sentence id="s20">But the joint medical report is dated 2005 and says nothing as to the Applicant's present medical condition.</sentence>
 <sentence id="s21">10 Also annexed to the Applicant's Affidavit was what was said to be notes from the Applicant's psychologist, Ms Tara Stern.</sentence>
 <sentence id="s22">No report was provided by that psychologist.</sentence>
-<sentence id="s23">The notes state in part that the Applicant presented with " issues " including " feeling overwhelmed " and " Anger at medical system, incompetence, corrupt institutions/business &amp; govt apathy ".</sentence>
+<sentence id="s23">The notes state in part that the Applicant presented with " issues " including " feeling overwhelmed " and " Anger at medical system, incompetence, corrupt institutions/business &amp;amp; govt apathy ".</sentence>
 <sentence id="s24">11 What purported to be notes from a Dr Dailey were also annexed.</sentence>
 <sentence id="s25">Those notes were dated 12 August 2008 and stated in relevant part (without alteration):
  I reviewed David again today for his metastic carcinoid tumour being treated with Sandostatin.</sentence>

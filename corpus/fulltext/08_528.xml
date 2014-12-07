@@ -3,16 +3,16 @@
 <name>Fowler v Commissioner of Taxation [2008] FCA 528 (21 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/528.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">part 2</catchphrase>
-<catchphrase "id=c1">42 of the income tax assessment act 1997 (cth)</catchphrase>
-<catchphrase "id=c2">"personal services income"</catchphrase>
-<catchphrase "id=c3">taxpayer, a computer consultant</catchphrase>
-<catchphrase "id=c4">taxpayer's services were made available to labour hire firms by a company of which taxpayer was sole shareholder, director and employee</catchphrase>
-<catchphrase "id=c5">whether amounts paid by labour hire firms to taxpayer's company were made part of taxpayer's "statutory income" by pt 2</catchphrase>
-<catchphrase "id=c6">42 of act</catchphrase>
-<catchphrase "id=c7">whether overriding principle that there must be derivation by an entity beneficially, so that entity becomes the beneficial owner of the income, in order for income tax to be imposed</catchphrase>
-<catchphrase "id=c8">held : there is no such overriding principle to which the statutory income provisions were subject, and the act made the amounts received by the company from the labour hire firm "statutory income" and therefore "assessable income" of the taxpayer.</catchphrase>
-<catchphrase "id=c9">income tax</catchphrase>
+<catchphrase id="c0">part 2</catchphrase>
+<catchphrase id="c1">42 of the income tax assessment act 1997 (cth)</catchphrase>
+<catchphrase id="c2">"personal services income"</catchphrase>
+<catchphrase id="c3">taxpayer, a computer consultant</catchphrase>
+<catchphrase id="c4">taxpayer's services were made available to labour hire firms by a company of which taxpayer was sole shareholder, director and employee</catchphrase>
+<catchphrase id="c5">whether amounts paid by labour hire firms to taxpayer's company were made part of taxpayer's "statutory income" by pt 2</catchphrase>
+<catchphrase id="c6">42 of act</catchphrase>
+<catchphrase id="c7">whether overriding principle that there must be derivation by an entity beneficially, so that entity becomes the beneficial owner of the income, in order for income tax to be imposed</catchphrase>
+<catchphrase id="c8">held : there is no such overriding principle to which the statutory income provisions were subject, and the act made the amounts received by the company from the labour hire firm "statutory income" and therefore "assessable income" of the taxpayer.</catchphrase>
+<catchphrase id="c9">income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -298,10 +298,10 @@ with the result that:
 <sentence id="s121">It is not, and could not be, disputed:
  
  
- &#8226; that the amounts in question were personal services income of Mr Fowler;
- &#8226; that the amounts were ordinary income of the Company;
- &#8226; that the Company was a personal services entity; or
- &#8226; that the amounts were not income from the Company's conducting a personal services business.</sentence>
+ &amp;#8226; that the amounts in question were personal services income of Mr Fowler;
+ &amp;#8226; that the amounts were ordinary income of the Company;
+ &amp;#8226; that the Company was a personal services entity; or
+ &amp;#8226; that the amounts were not income from the Company's conducting a personal services business.</sentence>
 <sentence id="s122">
  
 
@@ -353,7 +353,7 @@ Dated: 21 April 2008
 
  Counsel for the Applicant: Mr D B McGovern SC and Mr I S Young 
  
- Solicitor for the Applicant: Robert Richards &amp; Associates 
+ Solicitor for the Applicant: Robert Richards &amp;amp; Associates 
  
  Counsel for the Respondent: Mr N J Williams SC and Mr D F C Thomas 
  

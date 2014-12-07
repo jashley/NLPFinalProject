@@ -3,12 +3,12 @@
 <name>National Tertiary Education Industry Union v Central Queensland University [2008] FCA 481 (11 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/481.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">collective agreement</catchphrase>
-<catchphrase "id=c1">breach</catchphrase>
-<catchphrase "id=c2">failure to hold consultation with employees and/or employees' representatives</catchphrase>
-<catchphrase "id=c3">penalty to be imposed</catchphrase>
-<catchphrase "id=c4">whether penalty to be paid to applicant</catchphrase>
-<catchphrase "id=c5">industrial law</catchphrase>
+<catchphrase id="c0">collective agreement</catchphrase>
+<catchphrase id="c1">breach</catchphrase>
+<catchphrase id="c2">failure to hold consultation with employees and/or employees' representatives</catchphrase>
+<catchphrase id="c3">penalty to be imposed</catchphrase>
+<catchphrase id="c4">whether penalty to be paid to applicant</catchphrase>
+<catchphrase id="c5">industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -58,7 +58,7 @@
 <sentence id="s32">This consultation will provide an opportunity for employees, and/or at the request of employees, their representatives, to consider and purpose alternate options for managing change and to be meaningfully involved in the final decision about proceedings with change.</sentence>
 <sentence id="s33">
  
-22.4 Significant consequences include, but are not limited to: &#8226; Substantial changes in the composition, operation or size of the University workforce or in the skills required; &#8226; The restructuring of organisational units; &#8226; Variation to the delivery of the University services which impact on its staffing structure, or any changes likely to lead to job losses.</sentence>
+22.4 Significant consequences include, but are not limited to: &amp;#8226; Substantial changes in the composition, operation or size of the University workforce or in the skills required; &amp;#8226; The restructuring of organisational units; &amp;#8226; Variation to the delivery of the University services which impact on its staffing structure, or any changes likely to lead to job losses.</sentence>
 <sentence id="s34">
  
  22.5 Following consideration of feedback, if a decision is taken by the University to proceed with a significant change proposal, the University will consult with the relevant employees, and/or at the request of the employees, with the employees' representative(s), about any impacts of the implementation of that change on the performed by employees.</sentence>
@@ -86,14 +86,14 @@
  24.2 Voluntary measures 
  Where possible, the University will endeavour to manage job reductions through natural attrition and voluntary measures including: 
  
-&#8226; Voluntary part-time employment; &#8226; Voluntary redeployment; and &#8226; Voluntary separation.</sentence>
+&amp;#8226; Voluntary part-time employment; &amp;#8226; Voluntary redeployment; and &amp;#8226; Voluntary separation.</sentence>
 <sentence id="s46">
  
  In circumstances when only one or a small number of positions are subject to redundancy, the University will not instigate a large scale call for expressions of interest in voluntary part-time employment, voluntary redeployment or voluntary separation.</sentence>
 <sentence id="s47">The individuals whose positions are subject to redundancy will be afforded the opportunity to express an interest in the above voluntary measures.</sentence>
 <sentence id="s48">24.3 Voluntary separation package 
  
-(i) Employees who are successful in obtaining a voluntary separation will receive a separation payment as follows: &#8226; Six (6) weeks further employment or payment in lieu thereof at the discretion of the University; plus &#8226; A sum calculated at the rate of two (2) weeks salary, which shall include work related allowances, for each completed year of service with the University or part thereof, to a maximum entitlement of 52 weeks salary, but not less than the severance payment outlined in subclause 11.2 Fixed-term employment (fixed-term employees); plus &#8226; Balance of unused eight (8) week consideration period as described in University policy; plus &#8226; Payment on a pro-rata basis for long service leave calculated on completed years of service or part thereof, less nay period(s) of long serviced leave already taken; plus &#8226; Other leave entitlements and loadings payable on termination.</sentence>
+(i) Employees who are successful in obtaining a voluntary separation will receive a separation payment as follows: &amp;#8226; Six (6) weeks further employment or payment in lieu thereof at the discretion of the University; plus &amp;#8226; A sum calculated at the rate of two (2) weeks salary, which shall include work related allowances, for each completed year of service with the University or part thereof, to a maximum entitlement of 52 weeks salary, but not less than the severance payment outlined in subclause 11.2 Fixed-term employment (fixed-term employees); plus &amp;#8226; Balance of unused eight (8) week consideration period as described in University policy; plus &amp;#8226; Payment on a pro-rata basis for long service leave calculated on completed years of service or part thereof, less nay period(s) of long serviced leave already taken; plus &amp;#8226; Other leave entitlements and loadings payable on termination.</sentence>
 <sentence id="s49">An employee who has worked different modes of employment on a continuous basis (eg full-time, part-time or casual), will have the equivalent full-time years of service used in the calculation of their voluntary separation payment.</sentence>
 <sentence id="s50">For example, where an employee has served for ten (10) years, eight (8) years on a full-time basis and two (2) years on a 50% part-time basis, this service will equate to nine (9) years full-time service.</sentence>
 <sentence id="s51">(ii) All payments under this clause shall be calculated on the employee's salary rate at the date of cessation of employment.</sentence>
@@ -141,7 +141,7 @@
 <sentence id="s90">But these must be strategies that are proposed only at the particular embryonic stage in the evolution of the University's decision making described above.</sentence>
 <sentence id="s91">The University cannot have come to a final or even a provisional conclusion on the implementation of these strategies before the consultation in clause 22 can take place.</sentence>
 <sentence id="s92">[38] Sub clause 22.5 prescribes further the steps the University must take at the completion of the consultation process described above.</sentence>
-<sentence id="s93">If at this point the University proceeds to implement a significant change proposal it must embark upon a further tier of consultation, this time to: &#8226; Consult with affected employees (themselves or through their representative(s)) about the impact of the implementation of the change proposal on work; &#8226; Consult with affected staff about alternative options to implementing the changes on work; and &#8226; Consult with staff about options for avoiding detrimental impacts (such as retraining, part time work etc).</sentence>
+<sentence id="s93">If at this point the University proceeds to implement a significant change proposal it must embark upon a further tier of consultation, this time to: &amp;#8226; Consult with affected employees (themselves or through their representative(s)) about the impact of the implementation of the change proposal on work; &amp;#8226; Consult with affected staff about alternative options to implementing the changes on work; and &amp;#8226; Consult with staff about options for avoiding detrimental impacts (such as retraining, part time work etc).</sentence>
 <sentence id="s94">[Emphasis added] 
 20 In the result, His Honour made the following determination:
  [57] The staged process of consultation required by clause 22 is outlined above.</sentence>
@@ -303,7 +303,7 @@
  
 
 49 In fixing penalties in this way I have adopted an approach which commended itself to the High Court in the original jurisdiction in customs prosecutions (then regarded as suits for the recovery of a pecuniary penalty) in circumstances where what was, in essence, a single transaction gave rise to what were strictly multiple offences.</sentence>
-<sentence id="s225">In that context it was regarded as material to consider that, "though the offences in each group were separate offences in law, they were substantially contemporaneous and connected" L Vogel &amp; Sons Pty Ltd v Anderson, Minister of State for Customs and Excise [1968] HCA 90 ; (1968) 120 CLR 157 , at 168; applied Murphy, Minister of State for Customs and Excise v H. F. Trading Co Pty Ltd (1971) 47 ALJR 198 , at 200.</sentence>
+<sentence id="s225">In that context it was regarded as material to consider that, "though the offences in each group were separate offences in law, they were substantially contemporaneous and connected" L Vogel &amp;amp; Sons Pty Ltd v Anderson, Minister of State for Customs and Excise [1968] HCA 90 ; (1968) 120 CLR 157 , at 168; applied Murphy, Minister of State for Customs and Excise v H. F. Trading Co Pty Ltd (1971) 47 ALJR 198 , at 200.</sentence>
 <sentence id="s226">Here, though there is no fixed minimum penalty, it is necessary, in my opinion, that the separate breaches of cl 22.3 and cl 24 be penalised but that those penalties reflect their consequential, derivative or overlapping qualities relative to the breach of cl 22.2.</sentence>
 <sentence id="s227">50 There remains a question as to whether some or all of the total of the penalties imposed ought to be awarded to the Union as it has requested pursuant to a s 841(b) of the Workplace Relations Act .</sentence>
 <sentence id="s228">The University opposes the making of such an order.</sentence>
@@ -318,7 +318,7 @@
 <sentence id="s236">" 
 51 I have considered whether some part of the total penalty ought not be ordered to be paid to the Union in light of what I have termed the gratuitous joinder of Professor Rickard.</sentence>
 <sentence id="s237">However, it seems to me that so to do would be wrong in principle as no part of the total penalty is referable to a penalty imposed in respect of a separate breach by Professor Rickard.</sentence>
-<sentence id="s238">The penalty proceeding did though exhibit a vice akin to that described by Taylor J in Scott v Geoghan &amp; Sons Pty Ltd (1969) 43 ALJR 243 , at 245 whose remarks were endorsed by Gibbs J (as his Honour then was) in Murphy, Minister of State for Customs and Excise v H. F. Trading Co Pty Ltd supra, at 200 --- the joinder of a multiplicity of charges arising out of the one transaction.</sentence>
+<sentence id="s238">The penalty proceeding did though exhibit a vice akin to that described by Taylor J in Scott v Geoghan &amp;amp; Sons Pty Ltd (1969) 43 ALJR 243 , at 245 whose remarks were endorsed by Gibbs J (as his Honour then was) in Murphy, Minister of State for Customs and Excise v H. F. Trading Co Pty Ltd supra, at 200 --- the joinder of a multiplicity of charges arising out of the one transaction.</sentence>
 <sentence id="s239">The policy objectives served by a civil penalty proceeding under the Workplace Relations Act did not, in my respectful opinion, require the allegation of derivative, consequential or overlapping breaches.</sentence>
 <sentence id="s240">Of the total of the penalties imposed, I therefore propose to order that the sum of $6,600 be paid to the Union and the balance of $400 be paid to the Commonwealth of Australia pursuant to s 841(b) and 841 (a) respectively of the Workplace Relations Act .</sentence>
 <sentence id="s241">52 Neither in the rules of court (Order 48) nor in the Workplace Relations Act or the regulations made there under is there any particular provision as to procedure to be followed in respect of the making and receipt of penalty payments.</sentence>

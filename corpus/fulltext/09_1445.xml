@@ -3,21 +3,21 @@
 <name>Food Channel Network Pty Ltd v Television Food Network, G.P [2009] FCA 1445 (4 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1445.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trade marks</catchphrase>
-<catchphrase "id=c1">trade marks act 1995 (cth)</catchphrase>
-<catchphrase "id=c2">test for leave to appeal under s 195(2)</catchphrase>
-<catchphrase "id=c3">whether there is sufficient doubt to warrant reconsideration of the matter and whether denial of an opportunity to appeal would involve a substantial injustice supposing the decision of the primary judge to have been wrong</catchphrase>
-<catchphrase "id=c4">whether there is sufficient doubt that the refusal of primary judge to allow an affidavit resulted in the denial of a fair trial on the issues of ownership and intention to use</catchphrase>
-<catchphrase "id=c5">test to be applied</catchphrase>
-<catchphrase "id=c6">whether the affidavit contained material evidence and whether it was erroneously rejected thereby depriving the possibility of a successful outcome</catchphrase>
-<catchphrase "id=c7">trade marks</catchphrase>
-<catchphrase "id=c8">s 44</catchphrase>
-<catchphrase "id=c9">whether the primary judge made a proper assessment of deceptive similarity</catchphrase>
-<catchphrase "id=c10">test to be applied</catchphrase>
-<catchphrase "id=c11">two step process</catchphrase>
-<catchphrase "id=c12">intellectual property</catchphrase>
-<catchphrase "id=c13">evidence</catchphrase>
-<catchphrase "id=c14">intellectual property</catchphrase>
+<catchphrase id="c0">trade marks</catchphrase>
+<catchphrase id="c1">trade marks act 1995 (cth)</catchphrase>
+<catchphrase id="c2">test for leave to appeal under s 195(2)</catchphrase>
+<catchphrase id="c3">whether there is sufficient doubt to warrant reconsideration of the matter and whether denial of an opportunity to appeal would involve a substantial injustice supposing the decision of the primary judge to have been wrong</catchphrase>
+<catchphrase id="c4">whether there is sufficient doubt that the refusal of primary judge to allow an affidavit resulted in the denial of a fair trial on the issues of ownership and intention to use</catchphrase>
+<catchphrase id="c5">test to be applied</catchphrase>
+<catchphrase id="c6">whether the affidavit contained material evidence and whether it was erroneously rejected thereby depriving the possibility of a successful outcome</catchphrase>
+<catchphrase id="c7">trade marks</catchphrase>
+<catchphrase id="c8">s 44</catchphrase>
+<catchphrase id="c9">whether the primary judge made a proper assessment of deceptive similarity</catchphrase>
+<catchphrase id="c10">test to be applied</catchphrase>
+<catchphrase id="c11">two step process</catchphrase>
+<catchphrase id="c12">intellectual property</catchphrase>
+<catchphrase id="c13">evidence</catchphrase>
+<catchphrase id="c14">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -95,15 +95,15 @@
 <sentence id="s64">THE PRIMARY JUDGE'S DECISION 
  As I have already noted above, the primary judge found for Television.</sentence>
 <sentence id="s65">In summary, her Honour held that: 
-&#9679; Food Channel was not the owner of the Trade Mark at the date the application was filed (s 58): [2009] FCA 271 at [92] ;
+&amp;#9679; Food Channel was not the owner of the Trade Mark at the date the application was filed (s 58): [2009] FCA 271 at [92] ;
  
-&#9679; it was not possible on the evidence to conclude that Channel was the owner of the Trade Mark at that date: [2009] FCA 271 at [92] ;
+&amp;#9679; it was not possible on the evidence to conclude that Channel was the owner of the Trade Mark at that date: [2009] FCA 271 at [92] ;
  
-&#9679; even if it could be concluded that Channel was the owner of the Trade Mark at that date, the finding that Food Channel was not the owner of the Trade Mark at that date was a fatal defect in the application: [2009] FCA 271 at [92] ;
+&amp;#9679; even if it could be concluded that Channel was the owner of the Trade Mark at that date, the finding that Food Channel was not the owner of the Trade Mark at that date was a fatal defect in the application: [2009] FCA 271 at [92] ;
  
-&#9679; there was no evidence that either Food Channel, or Channel, used, or intended to use, the Trade Mark at any time (s 59): [2009] FCA 271 at [121] ; and
+&amp;#9679; there was no evidence that either Food Channel, or Channel, used, or intended to use, the Trade Mark at any time (s 59): [2009] FCA 271 at [121] ; and
  
-&#9679; the Trade Mark was deceptively similar to Television's trade mark (s 44(1)): [2009] FCA 271 at [148] .</sentence>
+&amp;#9679; the Trade Mark was deceptively similar to Television's trade mark (s 44(1)): [2009] FCA 271 at [148] .</sentence>
 <sentence id="s66">However, Television was unsuccessful in relation to its grounds under ss 42 and 60 of the Act: see [2009] FCA 271 at [178] and [167] respectively.</sentence>
 <sentence id="s67">THE PROPOSED GROUNDS OF APPEAL 
  In its proposed notice of appeal, Channel sets out some twenty-five grounds of appeal.</sentence>
@@ -127,9 +127,9 @@
 <sentence id="s84">TWO OTHER APPLICATIONS FILED 
  Finally, before turning to consider the first issue, I need to briefly deal with two other applications that Channel has filed in addition to this application for leave to appeal under s 195 of the Act.</sentence>
 <sentence id="s85">In those applications, Channel has sought: 
-&#9679; an extension of time to file and serve a notice of appeal against the primary judge's interlocutory order of 18 March 2008 refusing Channel leave to rely upon the fourth affidavit; and
+&amp;#9679; an extension of time to file and serve a notice of appeal against the primary judge's interlocutory order of 18 March 2008 refusing Channel leave to rely upon the fourth affidavit; and
  
-&#9679; leave to appeal the primary judge's interlocutory order of 18 March 2008.</sentence>
+&amp;#9679; leave to appeal the primary judge's interlocutory order of 18 March 2008.</sentence>
 <sentence id="s86">I consider those two applications are misconceived.</sentence>
 <sentence id="s87">The interlocutory order of 18 March 2008, by itself, is of little importance.</sentence>
 <sentence id="s88">What is of importance is the effect (if any) that order had on the subsequent trial.</sentence>
@@ -245,23 +245,23 @@ See also Cooper Engineering Company Proprietary Limited v Sigmund Pumps Limited 
 <sentence id="s186">The first stage is whether the marks really look alike, or sound alike.</sentence>
 <sentence id="s187">The second stage is, if they do, whether the resemblance is likely to deceive: see Cooper Engineering at 538 to 539 and Registrar of Trademarks at [84], per Branson J.</sentence>
 <sentence id="s188">In this matter, the primary judge considered the evidence before her and found that: 
-&#9679; the words "Channel" and "Network" were interchangeable (at [145]); 
+&amp;#9679; the words "Channel" and "Network" were interchangeable (at [145]); 
  
-&#9679; the word "Food" was prominent in the Trade Mark (at [146]);
+&amp;#9679; the word "Food" was prominent in the Trade Mark (at [146]);
  
-&#9679; the Trade Mark used a television screen, which suggested its use must be considered in a television entertainment context (at [146]); 
+&amp;#9679; the Trade Mark used a television screen, which suggested its use must be considered in a television entertainment context (at [146]); 
  
-&#9679; the words "Food Channel" were an essential feature of the Trade Mark (at [147]); and
+&amp;#9679; the words "Food Channel" were an essential feature of the Trade Mark (at [147]); and
  
-&#9679; the words "Food Network" were an essential feature of the respondent's Trade Mark (at [147]).</sentence>
+&amp;#9679; the words "Food Network" were an essential feature of the respondent's Trade Mark (at [147]).</sentence>
 <sentence id="s189">In making these findings, the primary judge also rejected the relevance of the appellant's submissions that the words "Channel" and "Network" did not sound the same and that the Trade Mark and the respondent's trade mark were substantially different in appearance (at [147]).</sentence>
 <sentence id="s190">Based on these findings and conclusions, the trial judge concluded (at [148]) that the two trade marks were deceptively similar.</sentence>
 <sentence id="s191">Whilst her Honour did not state which particular aspects of her findings (above) she relied upon, I consider it can be inferred that the primary considerations were, in summary, that: 
-&#9679; the words "Channel" and "Network" were interchangeable;
+&amp;#9679; the words "Channel" and "Network" were interchangeable;
  
-&#9679; the Trade Marks had to be considered in a television entertainment context; and
+&amp;#9679; the Trade Marks had to be considered in a television entertainment context; and
  
-&#9679; the words "Food Channel" and "Food Network" were essential features of the Trade Mark and the respondent's trade mark.</sentence>
+&amp;#9679; the words "Food Channel" and "Food Network" were essential features of the Trade Mark and the respondent's trade mark.</sentence>
 <sentence id="s192">The primary judge therefore appears to have focused on the words used in the trade marks and, to a limited extent, the circumstances of their use in a television entertainment context.</sentence>
 <sentence id="s193">If that is so, the primary judge does not appear to have considered all the surrounding circumstances related to the use of the trade marks, including the circumstances in which the related goods or services would be bought and sold and the character of the probable customers for them.</sentence>
 <sentence id="s194">In other words, her Honour does not appear to have moved beyond the first step in the two step process identified in Cooper Engineering .</sentence>
@@ -279,11 +279,11 @@ Dated: 4 December 2009
  
  Counsel for the Applicant: L Stephens 
  
- Solicitor for the Applicant: Potts &amp; Co 
+ Solicitor for the Applicant: Potts &amp;amp; Co 
  
  Counsel for the Respondent: A Franklin SC 
  
- Solicitor for the Respondent: Bennett &amp; Philp 
+ Solicitor for the Respondent: Bennett &amp;amp; Philp 
  Date of Hearing: 14 August 2009 
  
  Date of Judgment: 4 December 2009 

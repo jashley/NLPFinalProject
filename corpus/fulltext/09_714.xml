@@ -3,11 +3,11 @@
 <name>Singleton, in the matter of Allcommercial Finance Australia Pty Limited [2009] FCA 714 (26 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/714.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for an order under s 477(2b) of the corporations act 2001 (cth) for approval of entry into power of attorney and deed by company's liquidators</catchphrase>
-<catchphrase "id=c1">good faith and proper purpose</catchphrase>
-<catchphrase "id=c2">survival of power of attorney following deregistration of company</catchphrase>
-<catchphrase "id=c3">application granted.</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase id="c0">application for an order under s 477(2b) of the corporations act 2001 (cth) for approval of entry into power of attorney and deed by company's liquidators</catchphrase>
+<catchphrase id="c1">good faith and proper purpose</catchphrase>
+<catchphrase id="c2">survival of power of attorney following deregistration of company</catchphrase>
+<catchphrase id="c3">application granted.</catchphrase>
+<catchphrase id="c4">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,7 +30,7 @@
 <sentence id="s16">The mortgage origination and securitisation business of the trust is in run off and it is estimated that the run off period will occupy approximately five years.</sentence>
 <sentence id="s17">The liquidators consider that the preferable means by which to transfer control of the financial facilities and securities to the new trustee is to execute the power of attorney and the deed of acknowledgement.</sentence>
 <sentence id="s18">The principles which govern the exercise of the Court's power under s 477(2B) have been considered in a number of authorities.</sentence>
-<sentence id="s19">In Re GA Listing &amp; Maintenance Pty Ltd (1994) 15 ACSR 308 at 310, Young J said that: 
+<sentence id="s19">In Re GA Listing &amp;amp; Maintenance Pty Ltd (1994) 15 ACSR 308 at 310, Young J said that: 
  The whole purpose of liquidation is, to borrow a metaphor used by Sir Laurence Street some years ago, to lead the horse back into the stable.</sentence>
 <sentence id="s20">... Any activity which marks a substantial deviation from the activity of "leading the horse back to the stable" is, generally speaking, outside the power of the liquidator.</sentence>
 <sentence id="s21">However, human activity is so diverse that there will be situations where the liquidator cannot lead the horse back to the stable by the direct route.</sentence>

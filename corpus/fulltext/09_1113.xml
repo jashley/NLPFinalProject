@@ -3,21 +3,21 @@
 <name>Ahmed v Harbour Radio Pty Limited [2009] FCA 1113 (1 October 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1113.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether federal claims based upon s 60 of the trade practices act 1974 (cth) should be struck out</catchphrase>
-<catchphrase "id=c1">whether federal claims colourable</catchphrase>
-<catchphrase "id=c2">whether proceedings should be dismissed or transferred to a state court</catchphrase>
-<catchphrase "id=c3">pleaded s 60 case should be struck out</catchphrase>
-<catchphrase "id=c4">leave to re-plead not sought and not granted</catchphrase>
-<catchphrase "id=c5">only common law claims remained</catchphrase>
-<catchphrase "id=c6">s 60 claims not colourable</catchphrase>
-<catchphrase "id=c7">proceedings transferred to the supreme court of new south wales</catchphrase>
-<catchphrase "id=c8">whether the undue harassment or coercion referred to in s 60 of the trade practices act is confined to harassment or coercion of a consumer</catchphrase>
-<catchphrase "id=c9">whether the harassment or coercion can be of a person who is not a consumer provided that there is a sufficient connection between that conduct and the supply or possible supply of goods or services to a consumer or the payment for goods or services by a consumer</catchphrase>
-<catchphrase "id=c10">meaning of the expression " in connection with " in s 60 of the trade practices act discussed</catchphrase>
-<catchphrase "id=c11">pleaded case based upon several talkback radio broadcasts failed to address the necessary connection between the alleged contravening conduct and the supply or possible supply of goods or services to a consumer</catchphrase>
-<catchphrase "id=c12">pleaded case struck out</catchphrase>
-<catchphrase "id=c13">practice and procedure</catchphrase>
-<catchphrase "id=c14">trade practices</catchphrase>
+<catchphrase id="c0">whether federal claims based upon s 60 of the trade practices act 1974 (cth) should be struck out</catchphrase>
+<catchphrase id="c1">whether federal claims colourable</catchphrase>
+<catchphrase id="c2">whether proceedings should be dismissed or transferred to a state court</catchphrase>
+<catchphrase id="c3">pleaded s 60 case should be struck out</catchphrase>
+<catchphrase id="c4">leave to re-plead not sought and not granted</catchphrase>
+<catchphrase id="c5">only common law claims remained</catchphrase>
+<catchphrase id="c6">s 60 claims not colourable</catchphrase>
+<catchphrase id="c7">proceedings transferred to the supreme court of new south wales</catchphrase>
+<catchphrase id="c8">whether the undue harassment or coercion referred to in s 60 of the trade practices act is confined to harassment or coercion of a consumer</catchphrase>
+<catchphrase id="c9">whether the harassment or coercion can be of a person who is not a consumer provided that there is a sufficient connection between that conduct and the supply or possible supply of goods or services to a consumer or the payment for goods or services by a consumer</catchphrase>
+<catchphrase id="c10">meaning of the expression " in connection with " in s 60 of the trade practices act discussed</catchphrase>
+<catchphrase id="c11">pleaded case based upon several talkback radio broadcasts failed to address the necessary connection between the alleged contravening conduct and the supply or possible supply of goods or services to a consumer</catchphrase>
+<catchphrase id="c12">pleaded case struck out</catchphrase>
+<catchphrase id="c13">practice and procedure</catchphrase>
+<catchphrase id="c14">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -222,7 +222,7 @@ The pleaded case based upon harassment of the applicant was relied upon by Couns
  
  The meaning of primary relevance here is the first, but it is important to have regard to context in considering its application in s 60.</sentence>
 <sentence id="s126">In this respect judicial exegesis, in other statutory settings, of concepts such as "sexual harassment" is of little assistance.</sentence>
-<sentence id="s127">Sexual harassment under the Sex Discrimination Act 1984 (Cth) does not require a demonstration of repeated unwelcome approaches: Hall v A &amp; A Sheiban Pty Ltd [1989] FCA 72 ; (1989) 20 FCR 217 at 231; [1989] FCA 72 ; 85 ALR 503 at 514 (Lockhart J), at 240; 523 (Wilcox J), at 279; 567 (French J).</sentence>
+<sentence id="s127">Sexual harassment under the Sex Discrimination Act 1984 (Cth) does not require a demonstration of repeated unwelcome approaches: Hall v A &amp;amp; A Sheiban Pty Ltd [1989] FCA 72 ; (1989) 20 FCR 217 at 231; [1989] FCA 72 ; 85 ALR 503 at 514 (Lockhart J), at 240; 523 (Wilcox J), at 279; 567 (French J).</sentence>
 <sentence id="s128">And see O'Callaghan v Loder [1984] EOC 92-023 at 75,505.</sentence>
 <sentence id="s129">That proposition derived from the language of s 28(3) of the Sex Discrimination Act .</sentence>
 <sentence id="s130">Certainly it is consistent with the ordinary meaning of "harass" as involving an element of repetition to speak of a harassed state of mind arising out of one or more events: Johnson v Collier (1997) 142 FLR 409 at 412 (Anderson J).</sentence>
@@ -390,7 +390,7 @@ Nor has the applicant pleaded facts and matters which link the impugned conduct 
 <sentence id="s270">Indeed Burgundy Royale was cited by the Full Court in Unilan Holdings Pty Ltd v Kerin at 481 as authority for the proposition that the striking out of a portion of a pleading relating to a claim under the Trade Practices Act did not thereby deprive the Court of jurisdiction to hear a related claim in negligent mis-statement.</sentence>
 <sentence id="s271">See also Hooper v Kirella Pty Ltd at 15.</sentence>
 <sentence id="s272">The mere fact that a claim is found not to be tenable does not of itself deprive the Court of jurisdiction in non-federal claims comprising part of the same matter.</sentence>
-<sentence id="s273">If there be no federal jurisdiction properly invoked then there can be no accrued jurisdiction --- Carlton &amp; United Breweries Ltd v Castlemaine Tooheys Ltd [1986] HCA 38 ; (1986) 161 CLR 543 at 553 and see the discussion by Professor Zines, "Federal Associated and Accrued Jurisdiction", in B Opeskin and F Wheeler (eds) --- The Australian Federal Judicial System (2000), pp 294-295 and the apparent tension between Vietnam Veterans' Affairs Association of Australia New South Wales Branch Inc v Cohen [1996] FCA 981 ; (1996) 70 FCR 419 on the one hand and Post Office Agents Association Ltd v Australian Postal Commission (1988) 84 ALR 563 at 565 (Davies J) and Buck v Comcare (1996) 66 FCR 359 at 370 (Finn J).</sentence>
+<sentence id="s273">If there be no federal jurisdiction properly invoked then there can be no accrued jurisdiction --- Carlton &amp;amp; United Breweries Ltd v Castlemaine Tooheys Ltd [1986] HCA 38 ; (1986) 161 CLR 543 at 553 and see the discussion by Professor Zines, "Federal Associated and Accrued Jurisdiction", in B Opeskin and F Wheeler (eds) --- The Australian Federal Judicial System (2000), pp 294-295 and the apparent tension between Vietnam Veterans' Affairs Association of Australia New South Wales Branch Inc v Cohen [1996] FCA 981 ; (1996) 70 FCR 419 on the one hand and Post Office Agents Association Ltd v Australian Postal Commission (1988) 84 ALR 563 at 565 (Davies J) and Buck v Comcare (1996) 66 FCR 359 at 370 (Finn J).</sentence>
 <sentence id="s274">The Court in such a case of course does have a limited jurisdiction to determine whether its jurisdiction is properly invoked --- Mercator Property Consultants Pty Ltd v Christmas Island Resort Pty Ltd [1999] FCA 1572 ; (1999) 94 FCR 384 ; Khatri v Price [1999] FCA 1289 ; (1999) 95 FCR 287.</sentence>
 <sentence id="s275">In the ordinary course the contention that a claim is not tenable will not go to jurisdiction unless dependent upon a submission that the claim is outside jurisdiction.</sentence>
 <sentence id="s276">And indeed, within that class a claim may be untenable because its very nature denies its character as an element of any matter or controversy in respect of which the Court can exercise jurisdiction.</sentence>

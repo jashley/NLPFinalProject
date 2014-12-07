@@ -3,11 +3,11 @@
 <name>Campaign Master (UK) Ltd v Forty Two International Pty Ltd [2008] FCA 979 (27 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/979.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory injunction</catchphrase>
-<catchphrase "id=c1">necessity to consider the nature and jurisdictional foundation for the final relief sought and the relationship between final relief and any interlocutory steps</catchphrase>
-<catchphrase "id=c2">injunctive relief sought in part to compel compliance with existing legal obligations</catchphrase>
-<catchphrase "id=c3">interlocutory relief refused.</catchphrase>
-<catchphrase "id=c4">injunctions</catchphrase>
+<catchphrase id="c0">interlocutory injunction</catchphrase>
+<catchphrase id="c1">necessity to consider the nature and jurisdictional foundation for the final relief sought and the relationship between final relief and any interlocutory steps</catchphrase>
+<catchphrase id="c2">injunctive relief sought in part to compel compliance with existing legal obligations</catchphrase>
+<catchphrase id="c3">interlocutory relief refused.</catchphrase>
+<catchphrase id="c4">injunctions</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -301,7 +301,7 @@ Dated: 27 June 2008
 
  Counsel for the Applicant: Mr M S White 
  
- Solicitor for the Applicant: Harris &amp; Company 
+ Solicitor for the Applicant: Harris &amp;amp; Company 
  
  Counsel for the First and Second Respondents: Mr J M Ireland QC, Mr J S Cooke 
  

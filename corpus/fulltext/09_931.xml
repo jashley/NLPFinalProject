@@ -3,14 +3,14 @@
 <name>Parker v Ramanathan [2009] FCA 931 (25 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/931.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review</catchphrase>
-<catchphrase "id=c1">application brought pursuant to administrative decisions (judicial review) act 1977 (adjr act) to review decision of respondent</catchphrase>
-<catchphrase "id=c2">objection to competency of application</catchphrase>
-<catchphrase "id=c3">whether decision open to review</catchphrase>
-<catchphrase "id=c4">meaning of 'decision' under adjr act</catchphrase>
-<catchphrase "id=c5">whether substantive determination</catchphrase>
-<catchphrase "id=c6">whether applicant has standing to bring application</catchphrase>
-<catchphrase "id=c7">administrative law</catchphrase>
+<catchphrase id="c0">judicial review</catchphrase>
+<catchphrase id="c1">application brought pursuant to administrative decisions (judicial review) act 1977 (adjr act) to review decision of respondent</catchphrase>
+<catchphrase id="c2">objection to competency of application</catchphrase>
+<catchphrase id="c3">whether decision open to review</catchphrase>
+<catchphrase id="c4">meaning of 'decision' under adjr act</catchphrase>
+<catchphrase id="c5">whether substantive determination</catchphrase>
+<catchphrase id="c6">whether applicant has standing to bring application</catchphrase>
+<catchphrase id="c7">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -226,7 +226,7 @@ decisions are made under Part 3 - 10 in Schedule 1 to that Act
  Despite the clarity of the passage from the learned Chief Justice, application of the principles has not been without difficulty.</sentence>
 <sentence id="s68">Views on whether or not particular decisions or conduct constitutes a reviewable decision have not always been unanimous (for example, Guss v Federal Commissioner of Taxation [2006] FCAFC 88 ; (2006) 152 FCR 88).</sentence>
 <sentence id="s69">Not only are there questions as to whether conduct constitutes a decision but also whether it is a decision taken under an enactment.</sentence>
-<sentence id="s70">For a decision to be reviewable it must be one 'for which provision is made by or under a statute', the provision should be more specific than general (for example, Hutchins v Commissioner of Taxationn (1996) 65 FCR 269 and Electricity Supply Assn of Australia Ltd v Australian Competition &amp; Consumer Commission [2001] FCA 1296 ; (2001) 113 FCR 230).</sentence>
+<sentence id="s70">For a decision to be reviewable it must be one 'for which provision is made by or under a statute', the provision should be more specific than general (for example, Hutchins v Commissioner of Taxationn (1996) 65 FCR 269 and Electricity Supply Assn of Australia Ltd v Australian Competition &amp;amp; Consumer Commission [2001] FCA 1296 ; (2001) 113 FCR 230).</sentence>
 <sentence id="s71">A general authorisation for a body to act in a certain way is not usually regarded as being sufficient to qualify a decision as being one made under an enactment: Salerno v National Crime Authority (1997) 75 FCR 133.</sentence>
 <sentence id="s72">Dealing with the enactment aspect, the majority of the High Court in Griffith University v Tang [2005] HCA 7 ; (2005) 221 CLR 99 held (at [89]) that: 
  The determination of whether a decision is "made ... under an enactment" involves two criteria: first, the decision must be expressly or impliedly required or authorised by the enactment; and, secondly, the decision must itself confer, alter or otherwise affect legal rights or obligations, and in that sense the decision must derive from the enactment.</sentence>

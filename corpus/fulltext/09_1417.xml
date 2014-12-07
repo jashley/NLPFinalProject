@@ -3,13 +3,13 @@
 <name>Australian Rail, Tram and Bus Industry Union v Rail Corporation of New South Wales (No 2) [2009] FCA 1417 (3 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1417.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">penalties</catchphrase>
-<catchphrase "id=c1">breaches of industrial agreement</catchphrase>
-<catchphrase "id=c2">where multiple breaches of one clause in industrial agreement</catchphrase>
-<catchphrase "id=c3">whether no penalty should be imposed</catchphrase>
-<catchphrase "id=c4">whether breaches should be treated as a single course of conduct within the meaning of s 719(2) of the workplace relations act 1996 (cth)</catchphrase>
-<catchphrase "id=c5">application of the totality principle</catchphrase>
-<catchphrase "id=c6">industrial law</catchphrase>
+<catchphrase id="c0">penalties</catchphrase>
+<catchphrase id="c1">breaches of industrial agreement</catchphrase>
+<catchphrase id="c2">where multiple breaches of one clause in industrial agreement</catchphrase>
+<catchphrase id="c3">whether no penalty should be imposed</catchphrase>
+<catchphrase id="c4">whether breaches should be treated as a single course of conduct within the meaning of s 719(2) of the workplace relations act 1996 (cth)</catchphrase>
+<catchphrase id="c5">application of the totality principle</catchphrase>
+<catchphrase id="c6">industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -54,7 +54,7 @@
 <sentence id="s28">It is for this reason that it made ad hoc decisions about positions as and when they became vacant.</sentence>
 <sentence id="s29">(8) RailCorp has not previously been found to be in breach of any industrial agreement.</sentence>
 <sentence id="s30">(9) RailCorp had expressed its remorse for the breaches and put in place procedures to ensure ongoing compliance with the provisions of the Rail Corporation New South Wales Collective Agreement 2008 ( the 2008 agreement ) equivalent to cl 22 of the 2005 agreement.</sentence>
-<sentence id="s31">RailCorp compared the circumstances of the present case to those in Australian Liquor Hospitality &amp; Miscellaneous Workers Union v Broadlex Cleaning Australia Pty Ltd (1997) 78 IR 464 and Australasian Meat Industry Employees' Union v Australia Meat Holdings (1998) 82 IR 76 in which no penalty was imposed where the breaches arose by reason of a genuinely held and arguable, but incorrect, interpretation of an industrial agreement.</sentence>
+<sentence id="s31">RailCorp compared the circumstances of the present case to those in Australian Liquor Hospitality &amp;amp; Miscellaneous Workers Union v Broadlex Cleaning Australia Pty Ltd (1997) 78 IR 464 and Australasian Meat Industry Employees' Union v Australia Meat Holdings (1998) 82 IR 76 in which no penalty was imposed where the breaches arose by reason of a genuinely held and arguable, but incorrect, interpretation of an industrial agreement.</sentence>
 <sentence id="s32">I do not consider these submissions consistent with the relevant principles having regard to a proper understanding of the facts of the case.</sentence>
 <sentence id="s33">The principles are not in dispute.</sentence>
 <sentence id="s34">As the Union submitted, they are conveniently summarised in Martin v Fresho Foods Pty Ltd (No 2) (2009) 180 IR 300 ; [2009] FMCA 191 at [12] - [19] and I do not need to repeat them.</sentence>
@@ -187,7 +187,7 @@ Dated: 3 December 2009
  
  Counsel for the Respondent: Mr P Kite SC 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater &amp;amp; Gordon 
  
  Solicitor for the Respondent: Blake Dawson 
  Date of Hearing: 25 November 2009 

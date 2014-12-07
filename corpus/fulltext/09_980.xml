@@ -3,16 +3,16 @@
 <name>Allphones Retail Pty Limited v Australian Competition and Consumer Commission [2009] FCA 980 (28 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/980.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">preliminary discovery</catchphrase>
-<catchphrase "id=c1">identity discovery</catchphrase>
-<catchphrase "id=c2">applicant required to produce documents to the australian competition and consumer commission by a notice under s 155 of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c3">commission official disclosed some information obtained from those documents to third persons</catchphrase>
-<catchphrase "id=c4">whether that disclosure was a breach of s 155aaa(1) of the trade practices act</catchphrase>
-<catchphrase "id=c5">whether any equitable duty of confidence owed by the commission and its staff to a person who produces documents to it under compulsion in response to a s 155 notice</catchphrase>
-<catchphrase "id=c6">whether foreshadowed causes of action and claims for relief have sufficient prospects of success to justify the making of a preliminary discovery order</catchphrase>
-<catchphrase "id=c7">whether the interests of justice would be served by the making of such an order</catchphrase>
-<catchphrase "id=c8">application for preliminary discovery order refused</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase id="c0">preliminary discovery</catchphrase>
+<catchphrase id="c1">identity discovery</catchphrase>
+<catchphrase id="c2">applicant required to produce documents to the australian competition and consumer commission by a notice under s 155 of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c3">commission official disclosed some information obtained from those documents to third persons</catchphrase>
+<catchphrase id="c4">whether that disclosure was a breach of s 155aaa(1) of the trade practices act</catchphrase>
+<catchphrase id="c5">whether any equitable duty of confidence owed by the commission and its staff to a person who produces documents to it under compulsion in response to a s 155 notice</catchphrase>
+<catchphrase id="c6">whether foreshadowed causes of action and claims for relief have sufficient prospects of success to justify the making of a preliminary discovery order</catchphrase>
+<catchphrase id="c7">whether the interests of justice would be served by the making of such an order</catchphrase>
+<catchphrase id="c8">application for preliminary discovery order refused</catchphrase>
+<catchphrase id="c9">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -235,7 +235,7 @@ a copy of the document entitled "Applicant's Submissions in Support of Motion fo
 <sentence id="s156">A material factor in the exercise of the Court's discretion is the prospect of the applicant succeeding in proceedings against the person he or she wishes to sue: Exley v Wyong Shire Council (unreported, Supreme Court, NSW, Master Allen, 10 December 1976); noted Ritchie's Supreme Court Procedure (NSW) par [13,004].</sentence>
 <sentence id="s157">Fourthly, the High Court has emphasised that an applicant under a rule in the form of O 15A, r 3 must show that the order sought is necessary in the interests of justice.</sentence>
 <sentence id="s158">That is, the applicant must show that: "the making of the order is necessary to provide him with an effective remedy in respect of the actionable wrong of which he complains.</sentence>
-<sentence id="s159">" John Fairfax &amp; Sons Ltd v Cojuangco [1988] HCA 54 ; (1988) 165 CLR 346 at 357.</sentence>
+<sentence id="s159">" John Fairfax &amp;amp; Sons Ltd v Cojuangco [1988] HCA 54 ; (1988) 165 CLR 346 at 357.</sentence>
 <sentence id="s160">These observations emphasise the link between identity discovery and the applicant's complaint that he or she has suffered from an actionable wrong.</sentence>
 <sentence id="s161">In the present case, the debate between the parties has been directed to principles 3 and 4 (as to which see [33] and [34] in Hooper v Kirella Pty Ltd [1999] FCA 1584 ; 96 FCR 1 extracted above).</sentence>
 <sentence id="s162">See also Monsanto Company v Syngenta Seeds Pty Ltd [2006] FCA 228 at [8] ---[11] (per Finkelstein J) where his Honour described the criterion in relation to prospects as "... a claim that is worth investigating ...".</sentence>
@@ -279,9 +279,9 @@ a copy of the document entitled "Applicant's Submissions in Support of Motion fo
 <sentence id="s194">Success in this context requires a cause of action known to the law and a real (as opposed to fanciful) prospect that some remedy might be granted.</sentence>
 <sentence id="s195">If the foreshadowed proceedings would almost certainly be susceptible to an order for dismissal pursuant to s 31A of the Federal Court of Australia Act 1976 (Cth), then preliminary discovery would ordinarily not be ordered.</sentence>
 <sentence id="s196">This is the flavour of the remarks of Jacobson J in Wyeth 255 ALR 352 at [24]---[29].</sentence>
-<sentence id="s197">A judge called upon to decide whether an order for preliminary discovery should be made must consider whether the applicant will be left without an effective remedy if an order is not made ( John Fairfax &amp; Sons Ltd v Cojuangco [1988] HCA 54 ; (1988) 165 CLR 346 at 357).</sentence>
+<sentence id="s197">A judge called upon to decide whether an order for preliminary discovery should be made must consider whether the applicant will be left without an effective remedy if an order is not made ( John Fairfax &amp;amp; Sons Ltd v Cojuangco [1988] HCA 54 ; (1988) 165 CLR 346 at 357).</sentence>
 <sentence id="s198">Although the judge is not called upon to decide the foreshadowed proceedings in order to determine the discovery question, he or she is required to consider whether the foreshadowed claims are devoid of prospects.</sentence>
-<sentence id="s199">This may require the judge to form a conclusion as to whether or not a particular defence might well succeed on the materials before him or her ( John Fairfax &amp; Sons Ltd v Cojuangco [1988] HCA 54 ; 165 CLR 346 at 357).</sentence>
+<sentence id="s199">This may require the judge to form a conclusion as to whether or not a particular defence might well succeed on the materials before him or her ( John Fairfax &amp;amp; Sons Ltd v Cojuangco [1988] HCA 54 ; 165 CLR 346 at 357).</sentence>
 <sentence id="s200">In the present case, the two matters which must be considered are: The two questions are related.</sentence>
 <sentence id="s201">As to the question posed in [56(a)] above, Allphones relies upon two potential causes of action as against the relevant ACCC official.</sentence>
 <sentence id="s202">These are: The statutory duty alleged to have been breached is that which is contained in s 155AAA(1) of the Act.</sentence>
@@ -360,7 +360,7 @@ to disclose the information.</sentence>
 <sentence id="s225">He or she almost certainly believed that the persons to whom the document was sent had a right to inspect it at the Registry.</sentence>
 <sentence id="s226">The persons to whom it was sent had a very real interest in the contents of the document and in both sets of proceedings brought by the ACCC against Allphones.</sentence>
 <sentence id="s227">This is a case where it is difficult to see the evidentiary matrix altering much if at all were the substantive issue to be litigated.</sentence>
-<sentence id="s228">The position is analogous to the circumstances under discussion in the passages from John Fairfax &amp; Sons Ltd v Cojuangco [1988] HCA 54 ; 165 CLR 346 to which I have referred at [55] above.</sentence>
+<sentence id="s228">The position is analogous to the circumstances under discussion in the passages from John Fairfax &amp;amp; Sons Ltd v Cojuangco [1988] HCA 54 ; 165 CLR 346 to which I have referred at [55] above.</sentence>
 <sentence id="s229">Further, I think that the ACCC's Written Submission is a "written submission" within the meaning of O 46 r 6(2)(g) of the Federal Court Rules and that, for that reason, it was already "publicly available" within the meaning of s 155AAA(16) of the Act by 14 October 2008.</sentence>
 <sentence id="s230">Allphones submitted that the document was not a written submission because: As I have already noted, the document was stamped as "Filed in Chambers" on 9 October 2008.</sentence>
 <sentence id="s231">In that sense, it was filed.</sentence>
@@ -403,7 +403,7 @@ to disclose the information.</sentence>
  
 The principle upon which the Court of Chancery has acted for many years has been to restrain the publication of confidential information improperly or surreptitiously obtained or of information imparted in confidence which ought not to be divulged.</sentence>
 <sentence id="s267">Injunctions have been granted to give effectual relief, that is not only to restrain the disclosure of confidential information, but to prevent copies being made of any record of that information, and, if copies have already been made, to restrain them from being further copied, and to restrain persons into whose possession that confidential information has come from themselves in turn divulging or propagating it.</sentence>
-<sentence id="s268">These observations were cited with evident approval by Mason J in Commonwealth v John Fairfax &amp; Sons Ltd [1980] HCA 44 ; (1980) 147 CLR 39 at 50; 
+<sentence id="s268">These observations were cited with evident approval by Mason J in Commonwealth v John Fairfax &amp;amp; Sons Ltd [1980] HCA 44 ; (1980) 147 CLR 39 at 50; 
  
 (b) In the present case, the information was not improperly or surreptitiously obtained.</sentence>
 <sentence id="s269">It is contended that it was imparted in confidence in circumstances where it ought not to be divulged; 

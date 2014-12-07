@@ -3,11 +3,11 @@
 <name>Scantech Ltd v Asbury [2009] FCA 1480 (11 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1480.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to amend statement of claim</catchphrase>
-<catchphrase "id=c1">where claims for misuse of confidential information, misleading and deceptive conduct under the trade practices act 1974 (cth) and breach of contractual duties and duties under the corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c2">where applicants originally pleaded that the respondents had sold and offered for sale a coal analyser that was developed by using the applicants' information, and had publicly promoted themselves as specialists in the supply, maintenance and support of the applicants' coal analyser</catchphrase>
-<catchphrase "id=c3">where applicants sought to amend statement of claim to include allegation that respondents had serviced, and manufactured, sold and installed a retrofit kit for, the applicants' coal analyser</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase id="c0">application to amend statement of claim</catchphrase>
+<catchphrase id="c1">where claims for misuse of confidential information, misleading and deceptive conduct under the trade practices act 1974 (cth) and breach of contractual duties and duties under the corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c2">where applicants originally pleaded that the respondents had sold and offered for sale a coal analyser that was developed by using the applicants' information, and had publicly promoted themselves as specialists in the supply, maintenance and support of the applicants' coal analyser</catchphrase>
+<catchphrase id="c3">where applicants sought to amend statement of claim to include allegation that respondents had serviced, and manufactured, sold and installed a retrofit kit for, the applicants' coal analyser</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -375,7 +375,7 @@ Dated: 11 December 2009
  
  Counsel for the Applicant: Mr I C Robertson SC with Ms N Charlesworth 
  
- Solicitor for the Applicant: Kain Corporate &amp; Commercial 
+ Solicitor for the Applicant: Kain Corporate &amp;amp; Commercial 
  
  Counsel for the Respondents: Mr A R Harris QC 
  

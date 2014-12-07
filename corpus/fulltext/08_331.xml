@@ -3,17 +3,17 @@
 <name>Karsten v Federal Republic of Germany [2008] FCA 331 (14 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/331.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">extradition act 1988 (cth)</catchphrase>
-<catchphrase "id=c1">extradition offence</catchphrase>
-<catchphrase "id=c2">extraditable person</catchphrase>
-<catchphrase "id=c3">whether a warrant is "in force"</catchphrase>
-<catchphrase "id=c4">parity of sentencing</catchphrase>
-<catchphrase "id=c5">no reason to go behind the face of the warrant and extradition request</catchphrase>
-<catchphrase "id=c6">extraditable person</catchphrase>
-<catchphrase "id=c7">qualifying extradition offence</catchphrase>
-<catchphrase "id=c8">whether magistrate informed of consent</catchphrase>
-<catchphrase "id=c9">abuse of process</catchphrase>
-<catchphrase "id=c10">extradition</catchphrase>
+<catchphrase id="c0">extradition act 1988 (cth)</catchphrase>
+<catchphrase id="c1">extradition offence</catchphrase>
+<catchphrase id="c2">extraditable person</catchphrase>
+<catchphrase id="c3">whether a warrant is "in force"</catchphrase>
+<catchphrase id="c4">parity of sentencing</catchphrase>
+<catchphrase id="c5">no reason to go behind the face of the warrant and extradition request</catchphrase>
+<catchphrase id="c6">extraditable person</catchphrase>
+<catchphrase id="c7">qualifying extradition offence</catchphrase>
+<catchphrase id="c8">whether magistrate informed of consent</catchphrase>
+<catchphrase id="c9">abuse of process</catchphrase>
+<catchphrase id="c10">extradition</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -176,7 +176,7 @@ Section 6 defines an " extraditable person " as follows:
 <sentence id="s59">As contended by the Respondent Minister, the existence of the warrant and the absence of any limitation upon its face provided a sound basis upon which the Respondent Minister could lawfully form an " opinion " for the purposes of s 16(2): cf Buck v Bavone .</sentence>
 <sentence id="s60">Moreover, the request for extradition, being a document also before the Minister when giving the notice, also proceeds upon the assumption that the warrant issued in September 2003 remained in force when the request was being made in April 2006.</sentence>
 <sentence id="s61">19 The approach urged upon the Court by Mr Karsten, namely an invitation to go behind the face of both the request and (more importantly) the warrant itself is an invitation which should be rejected.</sentence>
-<sentence id="s62">Section 16(2) , framed as it is in terms of an " opinion ", should not be construed as requiring the Attorney-General or the Minister to become an expert in foreign law and construed in a manner which has the potential to frustrate the discharge by Australia of its obligations under extradition treaties: Tervonen v Minister for Justice &amp; Customs (No 2) [2007] FCA 1684 , 98 ALD 589.</sentence>
+<sentence id="s62">Section 16(2) , framed as it is in terms of an " opinion ", should not be construed as requiring the Attorney-General or the Minister to become an expert in foreign law and construed in a manner which has the potential to frustrate the discharge by Australia of its obligations under extradition treaties: Tervonen v Minister for Justice &amp;amp; Customs (No 2) [2007] FCA 1684 , 98 ALD 589.</sentence>
 <sentence id="s63">Rares J there observed:
  
  [38] In Director of Public Prosecutions (Cth) v Kainhofer [1995] HCA 35 ; (1995) 185 CLR 528 at 540 Brennan CJ, Dawson and McHugh JJ left open the meaning to be attributed to the word 'accused' in s 6(a)(i) of the Act, noting:
@@ -386,7 +386,7 @@ Before the Supreme Court Mr Karsten was legally represented.</sentence>
 <sentence id="s190">48 Even if the construction of s 22 which has been given to that section be incorrect, it is considered that it would be an abuse of process to now permit the Applicant to advance such a contention.</sentence>
 <sentence id="s191">It would be an abuse of the process of the Court for a person the subject of extradition proceedings to seek to challenge an order made pursuant to s 18; to be informed that the means of challenge then being invoked were not available to him; to thereafter await a determination made under s 22; and, when that determination is adverse, to be permitted to then revert to his earlier position by asserting that there was no power to make the s 22 determination.</sentence>
 <sentence id="s192">49 Repetitious challenges to decisions made under the Extradition Act 1988 (Cth), or a failure to raise for resolution issues relevant to a decision the subject of review may constitute an abuse of process: Rivera v Minister Administering the Extradition Act 1988 (Cth) [2007] FCAFC 191 at [13] ---[15] per Rares J, [2007] FCAFC 191 ; 99 ALD 235.</sentence>
-<sentence id="s193">See also Brock v Minister for Justice &amp; Customs [2007] FCA 2091.</sentence>
+<sentence id="s193">See also Brock v Minister for Justice &amp;amp; Customs [2007] FCA 2091.</sentence>
 <sentence id="s194">In the present proceedings, it is considered an abuse of process for the Applicant to now again seek to agitate the validity of the order made under s 18 and to thereby attempt to vitiate the subsequent s 22 determination.</sentence>
 <sentence id="s195">50 The separate and discrete administrative steps set forth in the 1988 Act may each be the subject of applications for judicial review.</sentence>
 <sentence id="s196">The importance of each of those steps being discharged in accordance with law is self-evident.</sentence>

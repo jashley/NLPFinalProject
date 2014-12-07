@@ -3,14 +3,14 @@
 <name>Harding v Deputy Commissioner of Taxation (No 2) [2008] FCA 1985 (24 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1985.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">lack of satisfaction as to counter-claim</catchphrase>
-<catchphrase "id=c1">misrepresentation by third party</catchphrase>
-<catchphrase "id=c2">counter-claim, set-off or cross demand</catchphrase>
-<catchphrase "id=c3">need for an action sounding in money</catchphrase>
-<catchphrase "id=c4">judicial review</catchphrase>
-<catchphrase "id=c5">conclusiveness of assessments</catchphrase>
-<catchphrase "id=c6">bankruptcy notice not set aside</catchphrase>
-<catchphrase "id=c7">bankruptcy</catchphrase>
+<catchphrase id="c0">lack of satisfaction as to counter-claim</catchphrase>
+<catchphrase id="c1">misrepresentation by third party</catchphrase>
+<catchphrase id="c2">counter-claim, set-off or cross demand</catchphrase>
+<catchphrase id="c3">need for an action sounding in money</catchphrase>
+<catchphrase id="c4">judicial review</catchphrase>
+<catchphrase id="c5">conclusiveness of assessments</catchphrase>
+<catchphrase id="c6">bankruptcy notice not set aside</catchphrase>
+<catchphrase id="c7">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -416,7 +416,7 @@ But neither consideration was a consideration that Mr Scott was bound to take in
 <sentence id="s224">
  The rejection of the two suggested " cross-claims " or " cross demands " as formulated on behalf of Mr Harding makes it unnecessary to address the further submission as to whether any such " counter-claim " or " cross demand " " could ... have [been] set up in the action or proceeding " in the District Court.</sentence>
 <sentence id="s225">The requirement imposed by s 40(1)(g) that the " counter-claim, set-off or cross demand " be one which " could not have [been] set up in the action or proceeding in which the judgment or order was obtained " is a requirement which refers to the ability to set up the claim, set-off or demand as a matter of law.</sentence>
-<sentence id="s226">A mere failure to take advantage of an opportunity to do so does not fall within s 40(1)(g): Re Vicini; Ex parte E A Sealey &amp; Co (1982) 64 FLR 323.</sentence>
+<sentence id="s226">A mere failure to take advantage of an opportunity to do so does not fall within s 40(1)(g): Re Vicini; Ex parte E A Sealey &amp;amp; Co (1982) 64 FLR 323.</sentence>
 <sentence id="s227">Fisher J there usefully summarised as follows some of the relevant authorities (at 326): 
  The relevant words of the Act were considered by Lockhart J in Re Brink; Ex parte The Commercial Banking Company of Sydney Ltd. (1980) 44 F.L.R.</sentence>
 <sentence id="s228">135, at p. 139, when he said: "The words 'that he could not have set up in the action or proceeding in which the judgment or order was obtained' mean 'which he could not by law set up in the action': see Re Jocumsen (1929) 1 A.B.C.</sentence>

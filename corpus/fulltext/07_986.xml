@@ -3,39 +3,39 @@
 <name>Marchesi v Apostolou [2007] FCA 986 (4 July 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/986.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">torrens system land registered in name of bankrupt</catchphrase>
-<catchphrase "id=c1">whether bankrupt had made effective gift of land</catchphrase>
-<catchphrase "id=c2">whether bankrupt held beneficial title to land.</catchphrase>
-<catchphrase "id=c3">gift of torrens system land</catchphrase>
-<catchphrase "id=c4">registered title not transferred</catchphrase>
-<catchphrase "id=c5">instrument of transfer held by solicitor acting for donor and donee</catchphrase>
-<catchphrase "id=c6">whether instrument had been delivered to donee</catchphrase>
-<catchphrase "id=c7">whether donor had done everything necessary to be done by him to transfer registered title</catchphrase>
-<catchphrase "id=c8">whether gift perfect in equity.</catchphrase>
-<catchphrase "id=c9">torrens system land</catchphrase>
-<catchphrase "id=c10">agreement by registered proprietor to transfer equitable interest for value</catchphrase>
-<catchphrase "id=c11">full price not paid by other party to agreement</catchphrase>
-<catchphrase "id=c12">agreement not complied with in other respects</catchphrase>
-<catchphrase "id=c13">whether agreement specifically enforceable</catchphrase>
-<catchphrase "id=c14">whether agreement gave rise to option</catchphrase>
-<catchphrase "id=c15">whether other party acquired equitable interest in land as a result of agreement.</catchphrase>
-<catchphrase "id=c16">gift of torrens system land to registered proprietor's family trust</catchphrase>
-<catchphrase "id=c17">whether purpose was to defeat creditors</catchphrase>
-<catchphrase "id=c18">bankruptcy act 1966 (cth), s 121.</catchphrase>
-<catchphrase "id=c19">torrens system land</catchphrase>
-<catchphrase "id=c20">agreement by registered proprietor to transfer equitable interest for value</catchphrase>
-<catchphrase "id=c21">whether purpose was to defeat creditors</catchphrase>
-<catchphrase "id=c22">bankruptcy act 1966 (cth), s 121.</catchphrase>
-<catchphrase "id=c23">land held on trust</catchphrase>
-<catchphrase "id=c24">expenses and outgoings relating to land</catchphrase>
-<catchphrase "id=c25">trustee incurring expenses incidental to proposed development of land but not in capacity of trustee</catchphrase>
-<catchphrase "id=c26">whether trustee entitled to indemnity from trust estate.</catchphrase>
-<catchphrase "id=c27">bankruptcy</catchphrase>
-<catchphrase "id=c28">equity</catchphrase>
-<catchphrase "id=c29">equity</catchphrase>
-<catchphrase "id=c30">bankruptcy</catchphrase>
-<catchphrase "id=c31">bankruptcy</catchphrase>
-<catchphrase "id=c32">trustees</catchphrase>
+<catchphrase id="c0">torrens system land registered in name of bankrupt</catchphrase>
+<catchphrase id="c1">whether bankrupt had made effective gift of land</catchphrase>
+<catchphrase id="c2">whether bankrupt held beneficial title to land.</catchphrase>
+<catchphrase id="c3">gift of torrens system land</catchphrase>
+<catchphrase id="c4">registered title not transferred</catchphrase>
+<catchphrase id="c5">instrument of transfer held by solicitor acting for donor and donee</catchphrase>
+<catchphrase id="c6">whether instrument had been delivered to donee</catchphrase>
+<catchphrase id="c7">whether donor had done everything necessary to be done by him to transfer registered title</catchphrase>
+<catchphrase id="c8">whether gift perfect in equity.</catchphrase>
+<catchphrase id="c9">torrens system land</catchphrase>
+<catchphrase id="c10">agreement by registered proprietor to transfer equitable interest for value</catchphrase>
+<catchphrase id="c11">full price not paid by other party to agreement</catchphrase>
+<catchphrase id="c12">agreement not complied with in other respects</catchphrase>
+<catchphrase id="c13">whether agreement specifically enforceable</catchphrase>
+<catchphrase id="c14">whether agreement gave rise to option</catchphrase>
+<catchphrase id="c15">whether other party acquired equitable interest in land as a result of agreement.</catchphrase>
+<catchphrase id="c16">gift of torrens system land to registered proprietor's family trust</catchphrase>
+<catchphrase id="c17">whether purpose was to defeat creditors</catchphrase>
+<catchphrase id="c18">bankruptcy act 1966 (cth), s 121.</catchphrase>
+<catchphrase id="c19">torrens system land</catchphrase>
+<catchphrase id="c20">agreement by registered proprietor to transfer equitable interest for value</catchphrase>
+<catchphrase id="c21">whether purpose was to defeat creditors</catchphrase>
+<catchphrase id="c22">bankruptcy act 1966 (cth), s 121.</catchphrase>
+<catchphrase id="c23">land held on trust</catchphrase>
+<catchphrase id="c24">expenses and outgoings relating to land</catchphrase>
+<catchphrase id="c25">trustee incurring expenses incidental to proposed development of land but not in capacity of trustee</catchphrase>
+<catchphrase id="c26">whether trustee entitled to indemnity from trust estate.</catchphrase>
+<catchphrase id="c27">bankruptcy</catchphrase>
+<catchphrase id="c28">equity</catchphrase>
+<catchphrase id="c29">equity</catchphrase>
+<catchphrase id="c30">bankruptcy</catchphrase>
+<catchphrase id="c31">bankruptcy</catchphrase>
+<catchphrase id="c32">trustees</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -94,7 +94,7 @@
 <sentence id="s47">An historical extract of the records maintained by the Australian Securities and Investments Commission shows that Optquest was registered on 11 August 1987 and that Mr Vasiliou and Ms Apostolou became directors on 1 September 1987.</sentence>
 <sentence id="s48">At some point they also became shareholders, although there is no evidence as to the date on which that occurred.</sentence>
 <sentence id="s49">I find it to be probable that it occurred on, or immediately before, the date on which they became directors.</sentence>
-<sentence id="s50">The solicitor who acted for Mr Vasiliou at this time, Mr Phillip Dwyer of Coady, Dwyer &amp; Associates ("Coady Dwyer"), and who gave evidence, could not recall whether his firm had caused Optquest to be incorporated or had bought it as a shelf company on behalf of Mr Vasiliou.</sentence>
+<sentence id="s50">The solicitor who acted for Mr Vasiliou at this time, Mr Phillip Dwyer of Coady, Dwyer &amp;amp; Associates ("Coady Dwyer"), and who gave evidence, could not recall whether his firm had caused Optquest to be incorporated or had bought it as a shelf company on behalf of Mr Vasiliou.</sentence>
 <sentence id="s51">14 In his evidence, Mr Vasiliou said:
  
  My accountant recommend that I should restructure my affairs, and put some property in the trust to eliminate - to make the tax liabilities more affordable and more claimable, and more better for my management of the things.</sentence>
@@ -304,7 +304,7 @@ In his viva voce evidence given on 15 March 2007, however, Mr Vasiliou gave a so
 <sentence id="s218">2.</sentence>
 <sentence id="s219">ANDREW VASILIOU he is the donor of three properties named bellow vested in the Family Trust since the 8 th of October 1987 originated by a DEED OF GIFT executed and declared on that day by the donor.</sentence>
 <sentence id="s220">3.</sentence>
-<sentence id="s221">The properties that the equity &amp; purchase and payment is made for in this agreement are: 
+<sentence id="s221">The properties that the equity &amp;amp; purchase and payment is made for in this agreement are: 
  
  
  
@@ -374,7 +374,7 @@ In total (including the $75,000 drawn down on 17 March 1989), by 20 July 1989 Op
  
 (a) A letter dated 12 July 1990 from a supplier known as Australian Moulding Manufacturers giving approval for the establishment of a credit account;
  
-(b) A series of invoices, dated from 4 April to 11 September 1990 from a supplier called Marks &amp; Co Pty Ltd;
+(b) A series of invoices, dated from 4 April to 11 September 1990 from a supplier called Marks &amp;amp; Co Pty Ltd;
  
 (c) Two statements from Porter-AMM Pty Ltd (trading as Australian Moulding Manufacturers) dated 31 July and 31 August 1990;
  
@@ -391,21 +391,21 @@ In total (including the $75,000 drawn down on 17 March 1989), by 20 July 1989 Op
 <sentence id="s264">The purpose of the agreement was said to be "To effect preliminary works required for feasibility, planning and town planning permit.</sentence>
 <sentence id="s265">" Under "Terms and Conditions", the following was set out:
  
- The Proprietor authorize Glenville Homes to make all applications, pay fees &amp; undertake the following works where necessary:
+ The Proprietor authorize Glenville Homes to make all applications, pay fees &amp;amp; undertake the following works where necessary:
  
  1.</sentence>
 <sentence id="s266">Discussions with the local Town Planning department.</sentence>
 <sentence id="s267">
  
  2.</sentence>
-<sentence id="s268">Prepare Town planning drawings, including site plan, elevations, floorplans, site analysis report &amp; all other documentation required 
+<sentence id="s268">Prepare Town planning drawings, including site plan, elevations, floorplans, site analysis report &amp;amp; all other documentation required 
  
  3.</sentence>
 <sentence id="s269">Photograph adjoining properties.</sentence>
 <sentence id="s270">4.</sentence>
-<sentence id="s271">Attend council for negotiations &amp; meetings as required.</sentence>
+<sentence id="s271">Attend council for negotiations &amp;amp; meetings as required.</sentence>
 <sentence id="s272">5.</sentence>
-<sentence id="s273">Pay all fees &amp; costs.</sentence>
+<sentence id="s273">Pay all fees &amp;amp; costs.</sentence>
 <sentence id="s274">6.</sentence>
 <sentence id="s275">Redesign of application as required
  7.</sentence>
@@ -418,7 +418,7 @@ A schedule of fees was set out.</sentence>
 <sentence id="s279">43 In due course a dispute arose between Mr Vasiliou and Glenvill, particularly with respect to the existence and extent of the former's obligation to pay the latter for services provided under the agreement between them.</sentence>
 <sentence id="s280">At some stage, Glenvill's entitlement to fees was assigned to Australia's Country Homes Pty Ltd ("ACH"), and it was that company which became an applicant against Mr Vasiliou in the domestic building list of the Victorian Civil and Administrative Tribunal ("VCAT").</sentence>
 <sentence id="s281">On 21 December 1998, VCAT ordered Mr Vasiliou to pay ACH the sum of $31,950.00, plus interest, and struck out a cross-claim which had been filed by Mr Vasiliou.</sentence>
-<sentence id="s282">44 In the VCAT proceeding, Mr Vasiliou was represented, initially at least, by the firm of Tasiopoulos Lambros &amp; Co ("Tasiopoulos Lambros").</sentence>
+<sentence id="s282">44 In the VCAT proceeding, Mr Vasiliou was represented, initially at least, by the firm of Tasiopoulos Lambros &amp;amp; Co ("Tasiopoulos Lambros").</sentence>
 <sentence id="s283">It seems that he did not pay their account, since, on 23 June 1999, they filed a complaint in the Magistrates Court of Victoria claiming the sum of $20,831.50, plus interest.</sentence>
 <sentence id="s284">Of that, the sum of $10,354.00 related to their representation of Mr Vasiliou in the dispute which was dealt with by VCAT.</sentence>
 <sentence id="s285">45 After the orders made by VCAT, Mr Vasiliou consulted another solicitor, Mr Michael Rickards, about the matter.</sentence>
@@ -498,7 +498,7 @@ Exhibit "AV 01" consisted of three transfers under the TL Act --- one for each o
 <sentence id="s353">EFFICACY OF THE 1987 GIFT 
  
 56 Turning to the issues in the proceeding, I consider first the question whether Mr Vasiliou divested himself of the equitable interest in the subject properties by his deed of gift of 8 October 1987 and the associated transactions to which I have referred in par 18 above.</sentence>
-<sentence id="s354">A question of that kind is now to be resolved by reference to the modern statement of the principle in Milroy v Lord (1862) 4 De G F &amp; J 264 in the judgment of Mason CJ and McHugh J in Corin v Patton [1990] HCA 12 ; (1990) 169 CLR 540 at 559:
+<sentence id="s354">A question of that kind is now to be resolved by reference to the modern statement of the principle in Milroy v Lord (1862) 4 De G F &amp;amp; J 264 in the judgment of Mason CJ and McHugh J in Corin v Patton [1990] HCA 12 ; (1990) 169 CLR 540 at 559:
  
  Accordingly, we conclude it is desirable to state that the principle is that, if an intending donor of property has done everything which it is necessary for him to have done to effect a transfer of legal title, then equity will recognise the gift.</sentence>
 <sentence id="s355">So long as the donee has been equipped to achieve the transfer of legal ownership, the gift is complete in equity.</sentence>
@@ -855,7 +855,7 @@ I have only indirect, and fairly unsatisfactory, evidence of Mr Vasiliou's overa
 <sentence id="s633">The respondents relied on that agreement, in the alternative, to found their submission that Mr Vasiliou no longer held the beneficial title to the subject properties.</sentence>
 <sentence id="s634">99 My first task in this respect is to understand the agreement of March 1989, and to identify what, if any, contractual obligations arose under it.</sentence>
 <sentence id="s635">The first two clauses are in the nature of recitals.</sentence>
-<sentence id="s636">So is the third, save perhaps that the reference to "the equity &amp; [sic] purchase and payment" gives an early insight into what may be involved in later operative provisions of the agreement.</sentence>
+<sentence id="s636">So is the third, save perhaps that the reference to "the equity &amp;amp; [sic] purchase and payment" gives an early insight into what may be involved in later operative provisions of the agreement.</sentence>
 <sentence id="s637">The fourth clause is also like a recital, but it does contain an "agreement" that the value of the "equity" in the properties is $182,000.</sentence>
 <sentence id="s638">The fifth clause contains an agreement too, but not an agreement to do anything.</sentence>
 <sentence id="s639">Rather, the provision assumes that there has been or will be a payment of some order.</sentence>
@@ -954,7 +954,7 @@ I have only indirect, and fairly unsatisfactory, evidence of Mr Vasiliou's overa
 <sentence id="s726">The hypothesis is that, by the agreement, Mr Vasiliou gave Optquest an option to purchase the subject properties, exercisable by payment of the sum of $182,000 and by calling for the transfer of the legal title pursuant to cll 7, 12 and perhaps 13 of the agreement.</sentence>
 <sentence id="s727">113 Although it is often stated that the grantee of an option to purchase land thereby becomes the holder of an equitable interest in the land, it seems that such an interest is contingent only until the grantee has a right to call for the transfer of the legal estate.</sentence>
 <sentence id="s728">At that point, the grantee is in the same position as a purchaser entitled to specific performance, and the unconditional equitable interest which then arises is commensurate with that entitlement (consistently with the authorities to which I have referred above).</sentence>
-<sentence id="s729">114 That "an option to purchase gives the grantee an equitable interest in the land" was the way the proposition was put by Gibbs J (with the assent of Stephen and Jacobs JJ) in Barba v Gas &amp; Fuel Corporation of Victoria [1976] HCA 60 ; (1976) 136 CLR 120 at 137, but his Honour based his statement upon the judgment of Jessel MR in London and South Western Railway Co v Gomm (1882) 20 Ch D 562 at 581, where his Lordship commenced by stating that the "right to call for a conveyance of the land is an equitable interest...." In Barba , Gibbs J referred also, with approval, to Wright v Dean [1948] Ch 686 at 693, where Wynn-Parry J said: 
+<sentence id="s729">114 That "an option to purchase gives the grantee an equitable interest in the land" was the way the proposition was put by Gibbs J (with the assent of Stephen and Jacobs JJ) in Barba v Gas &amp;amp; Fuel Corporation of Victoria [1976] HCA 60 ; (1976) 136 CLR 120 at 137, but his Honour based his statement upon the judgment of Jessel MR in London and South Western Railway Co v Gomm (1882) 20 Ch D 562 at 581, where his Lordship commenced by stating that the "right to call for a conveyance of the land is an equitable interest...." In Barba , Gibbs J referred also, with approval, to Wright v Dean [1948] Ch 686 at 693, where Wynn-Parry J said: 
  
  The option confers upon its exercise a right to call for a conveyance of the freehold and, therefore, it creates an interest in land.</sentence>
 <sentence id="s730">As appears quite clearly from the case of London and South Western Ry.</sentence>
@@ -1115,16 +1115,16 @@ During his cross examination, I told Mr Vasiliou that he should not assume that 
 <sentence id="s858">They fall into four categories.</sentence>
 <sentence id="s859">First, there are the rates, taxes and charges associated with the subject properties, namely:
  
- &#8226; The State Revenue Office has claimed land tax in the sum of $34,745.79 with respect to all the subject properties.</sentence>
+ &amp;#8226; The State Revenue Office has claimed land tax in the sum of $34,745.79 with respect to all the subject properties.</sentence>
 <sentence id="s860">At this stage, the Office does not seek to prove in the bankruptcy, preferring to rely on s 66 of the Land Tax Act 1958 (Vic).</sentence>
 <sentence id="s861">However, the applicant submits that the Office may later change its approach, and seeks a declaration in relation to this claim.</sentence>
-<sentence id="s862">&#8226; Body corporate No 4269 claims fees in the sum of $5,673.50 with respect to 5/3 Alfriston Street.</sentence>
+<sentence id="s862">&amp;#8226; Body corporate No 4269 claims fees in the sum of $5,673.50 with respect to 5/3 Alfriston Street.</sentence>
 <sentence id="s863">The applicant has admitted $3,817.35.</sentence>
-<sentence id="s864">&#8226; The City of Port Phillip claims rates and municipal charges in the sum of $15,910.89 with respect to 18 St Kilda Road.</sentence>
+<sentence id="s864">&amp;#8226; The City of Port Phillip claims rates and municipal charges in the sum of $15,910.89 with respect to 18 St Kilda Road.</sentence>
 <sentence id="s865">The applicant has admitted $12,987.01.</sentence>
-<sentence id="s866">&#8226; The City of Port Phillip claims rates and municipal charges in the sum of $14,309.92 with respect to 5/3 Alfriston Street.</sentence>
+<sentence id="s866">&amp;#8226; The City of Port Phillip claims rates and municipal charges in the sum of $14,309.92 with respect to 5/3 Alfriston Street.</sentence>
 <sentence id="s867">The applicant has admitted $9,524.10.</sentence>
-<sentence id="s868">&#8226; The City of Stonnington claims rates and municipal charges in the sum of $50,092.31 with respect to 10 Claremont Street.</sentence>
+<sentence id="s868">&amp;#8226; The City of Stonnington claims rates and municipal charges in the sum of $50,092.31 with respect to 10 Claremont Street.</sentence>
 <sentence id="s869">The applicant has admitted $48,002.51.</sentence>
 <sentence id="s870">
 
@@ -1136,13 +1136,13 @@ If Mr Vasiliou held only the legal title to the subject properties, it is clear 
 <sentence id="s874">138 Thirdly, there are fees and costs which relate to Mr Vasiliou's development activities with respect to 10 Claremont Street.</sentence>
 <sentence id="s875">They are:
  
- &#8226; Australia's Country Homes Pty Ltd has claimed the sum of $101,735.98, representing the money order made by VCAT on 21 December 1998 (later registered in the Magistrates Court of Victoria) plus interest, a further order for the payment of interest made by VCAT on 5 May 1999 plus penalty interest on that order, an order for costs made by VCAT on 5 May 1999 (taxed on 23 September 2004) plus penalty interest on that order, a further order for costs made by VCAT on 12 August 1999 plus penalty interest on that order, and a costs order made by this court on 1 June 2000 upon the dismissal of a proceeding brought by Mr Vasiliou in which he sought as against Australia's Country Homes Pty Ltd, inter alia , that a bankruptcy notice served on him be set aside.</sentence>
+ &amp;#8226; Australia's Country Homes Pty Ltd has claimed the sum of $101,735.98, representing the money order made by VCAT on 21 December 1998 (later registered in the Magistrates Court of Victoria) plus interest, a further order for the payment of interest made by VCAT on 5 May 1999 plus penalty interest on that order, an order for costs made by VCAT on 5 May 1999 (taxed on 23 September 2004) plus penalty interest on that order, a further order for costs made by VCAT on 12 August 1999 plus penalty interest on that order, and a costs order made by this court on 1 June 2000 upon the dismissal of a proceeding brought by Mr Vasiliou in which he sought as against Australia's Country Homes Pty Ltd, inter alia , that a bankruptcy notice served on him be set aside.</sentence>
 <sentence id="s876">The applicant has admitted $83,499.09.</sentence>
-<sentence id="s877">&#8226; Australia's Country Homes Pty Ltd and Glenvill Pty Ltd have claimed the sum of $69,111.92, representing costs orders made in their favour and against Mr Vasiliou by the Supreme Court of Victoria on 5 and 9 July 1999, on 26 November 1999 and on 13 May 2004 in the proceedings brought by Mr Vasiliou to challenge the VCAT orders (before the Master, Beach J and the Court of Appeal).</sentence>
+<sentence id="s877">&amp;#8226; Australia's Country Homes Pty Ltd and Glenvill Pty Ltd have claimed the sum of $69,111.92, representing costs orders made in their favour and against Mr Vasiliou by the Supreme Court of Victoria on 5 and 9 July 1999, on 26 November 1999 and on 13 May 2004 in the proceedings brought by Mr Vasiliou to challenge the VCAT orders (before the Master, Beach J and the Court of Appeal).</sentence>
 <sentence id="s878">The applicant has admitted $54,245.60.</sentence>
-<sentence id="s879">&#8226; Tasipolous Lambros &amp; Co, solicitors, have claimed the sum of $40,320.78 by way of fees for legal services provided to Mr Vasiliou when they acted for him in connection with the VCAT proceedings in 1998.</sentence>
+<sentence id="s879">&amp;#8226; Tasipolous Lambros &amp;amp; Co, solicitors, have claimed the sum of $40,320.78 by way of fees for legal services provided to Mr Vasiliou when they acted for him in connection with the VCAT proceedings in 1998.</sentence>
 <sentence id="s880">The applicant has admitted $35,867.64.</sentence>
-<sentence id="s881">&#8226; Michael Rickards, solicitor, has claimed the sum of $14,015.95 plus interest by way of fees for legal services provided to Mr Vasiliou in connection with the Supreme Court proceedings challenging the VCAT orders.</sentence>
+<sentence id="s881">&amp;#8226; Michael Rickards, solicitor, has claimed the sum of $14,015.95 plus interest by way of fees for legal services provided to Mr Vasiliou in connection with the Supreme Court proceedings challenging the VCAT orders.</sentence>
 <sentence id="s882">When interest is taken into account, the applicant has admitted $21,172.46.</sentence>
 <sentence id="s883">
 
@@ -1228,13 +1228,13 @@ I realise that this approach has the unusual feature of providing for the furthe
 Dated: 4 July 2007
 
 
- Counsel for the Applicant: Mr J Peters SC &amp; Mr M Galvin 
+ Counsel for the Applicant: Mr J Peters SC &amp;amp; Mr M Galvin 
  
  Solicitor for the Applicant: Piper Alderman 
  
  Counsel for the Respondents: The respondents appeared in person 
  
- Dates of Hearing: 7,8,9,15,19 &amp; 20 March, 9 May &amp; 7 June 2007 
+ Dates of Hearing: 7,8,9,15,19 &amp;amp; 20 March, 9 May &amp;amp; 7 June 2007 
  
  Date of Judgment: 4 July 2007 
 

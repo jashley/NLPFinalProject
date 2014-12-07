@@ -3,12 +3,12 @@
 <name>Szencorp Pty Ltd v Clean Energy Council Limited [2009] FCA 40 (2 February 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/40.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">oppression claim brought by member of not-for-profit company</catchphrase>
-<catchphrase "id=c1">plaintiff claimed that objectives of the company were not being pursued and that company conducted its affairs in the interests of a sub-set of members to the exclusion of others</catchphrase>
-<catchphrase "id=c2">where winding-up claim by plaintiff not pursued at trial</catchphrase>
-<catchphrase "id=c3">whether abandoned winding-up claim abuse of process</catchphrase>
-<catchphrase "id=c4">order sought that an accountant be appointed to prepare a report for the members of the defendant as to its affairs.</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase id="c0">oppression claim brought by member of not-for-profit company</catchphrase>
+<catchphrase id="c1">plaintiff claimed that objectives of the company were not being pursued and that company conducted its affairs in the interests of a sub-set of members to the exclusion of others</catchphrase>
+<catchphrase id="c2">where winding-up claim by plaintiff not pursued at trial</catchphrase>
+<catchphrase id="c3">whether abandoned winding-up claim abuse of process</catchphrase>
+<catchphrase id="c4">order sought that an accountant be appointed to prepare a report for the members of the defendant as to its affairs.</catchphrase>
+<catchphrase id="c5">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -81,16 +81,16 @@
  Specifically participation in the Leaders' Advisory Council will provide Sponsoring Members the following: 
 
  
- &gt; More direct input into policy development, and direct consultation regarding development of key strategic objectives and policy details; 
+ &amp;gt; More direct input into policy development, and direct consultation regarding development of key strategic objectives and policy details; 
 
  
- &gt; Access to more timely, upgraded information on key industry issues and developments that may have an impact on your business, including briefings on key issues and developments, and reports on the results of lobbying campaigns; 
+ &amp;gt; Access to more timely, upgraded information on key industry issues and developments that may have an impact on your business, including briefings on key issues and developments, and reports on the results of lobbying campaigns; 
 
  
- &gt; Opportunities to engage with leading political representatives and other key policy makers; 
+ &amp;gt; Opportunities to engage with leading political representatives and other key policy makers; 
 
  
- &gt; Invitations to regular lunches and meetings arranged with leading political and Government officials.</sentence>
+ &amp;gt; Invitations to regular lunches and meetings arranged with leading political and Government officials.</sentence>
 <sentence id="s29">" 
 
  Clause 2.5 of the Information Memorandum provided for "Technology Directorates" in the following terms: 
@@ -107,15 +107,15 @@
 
  
  Initial directorates will include the following: 
- &gt; Wind Directorate 
- &gt; PV Directorate 
- &gt; Geothermal Directorate 
- &gt; Solar Hot Water Directorate 
- &gt; Bioenergy Directorate 
- &gt; Energy Efficiency Directorate 
- &gt; Energy Performance Contracting Directorate 
- &gt; Local Government Directorate 
- &gt; Environmental Markets Directorate 
+ &amp;gt; Wind Directorate 
+ &amp;gt; PV Directorate 
+ &amp;gt; Geothermal Directorate 
+ &amp;gt; Solar Hot Water Directorate 
+ &amp;gt; Bioenergy Directorate 
+ &amp;gt; Energy Efficiency Directorate 
+ &amp;gt; Energy Performance Contracting Directorate 
+ &amp;gt; Local Government Directorate 
+ &amp;gt; Environmental Markets Directorate 
 
  
  Additional directorates may also be established in response to Members' needs, for example in areas such as hydro, distributed generation or cogeneration.</sentence>
@@ -279,7 +279,7 @@ This statement was important because an extraordinary meeting of the board of di
 <sentence id="s110">On the same day the Chair, Mr McIndoe, sent an email to Mr Szental stating, inter alia , that he would convene a meeting of the directors to discuss his letter and any response they wished to make.</sentence>
 <sentence id="s111">A meeting of directors of the Council was convened on 25 June 2008 for 27 June 2008 but Mr Szental was not invited to attend.</sentence>
 <sentence id="s112">The application in this proceeding was filed on 11 July 2008.</sentence>
-<sentence id="s113">On 11 July 2008 Ernst &amp; Young were retained to undertake the audit of the Council.</sentence>
+<sentence id="s113">On 11 July 2008 Ernst &amp;amp; Young were retained to undertake the audit of the Council.</sentence>
 <sentence id="s114">Although issues of the solvency of the Council were raised in the affidavit material filed in support of the application, it was not suggested in the course of the hearing that there is an issue as to the solvency of the Council.</sentence>
 <sentence id="s115">CONSIDERATION 
  It is apparent that after the merger took effect there was a settling down period for the merged entities.</sentence>
@@ -351,7 +351,7 @@ The evidence does not support the statement that the Council had employed a numb
  The only Leaders' Advisory Council activities which have been held have been: a luncheon on 19 February 2008 with the New South Wales Minister for Energy; and a breakfast on 20 May 2008 with the Chief Executive of the United Kingdom BCSE.</sentence>
 <sentence id="s154">
 A breakfast was planned for October 2008 relating to the delivery of the Garnaut Review Final Report.</sentence>
-<sentence id="s155">Draft audited financial statements and audit report and the final audited financial statements and the final audit report were provided by Ernst &amp; Young to the Council on 30 September 2008 and distributed to the Board on 1 October 2008.</sentence>
+<sentence id="s155">Draft audited financial statements and audit report and the final audited financial statements and the final audit report were provided by Ernst &amp;amp; Young to the Council on 30 September 2008 and distributed to the Board on 1 October 2008.</sentence>
 <sentence id="s156">The draft audited financial statements and audit report included a letter from the auditors to the directors of the Council which contained matters for consideration by directors.</sentence>
 <sentence id="s157">The letter stated, inter alia : 
  "We found the financial controls and processes of CEC to be weak.</sentence>
@@ -471,7 +471,7 @@ Mr Szental said that the issue of winding up the Council had been discussed over
 <sentence id="s226">A number of the issues raised by the plaintiff were acknowledged by the Council with the addendum that they had been rectified and remedied by the time the proceeding commenced.</sentence>
 <sentence id="s227">I have referred to some of these issues in par [47] above.</sentence>
 <sentence id="s228">The "contrary to the interests" provision now contained in subpar (d) of s 232 has a separate and distinct area of operation from the "oppression" provisions in subpar (e) of s 232.</sentence>
-<sentence id="s229">The manner in which a company is being administered and in which its affairs are conducted may fall within the category of conduct contrary to the interests of the company's members as a whole although it may not be described as oppressive, unfairly prejudicial to, or unfairly discriminatory against members of the company: Turnbull v National Roads &amp; Motorists' Association Limited [2004] NSWSC 577 ; (2004) 50 ACSR 44 at 52, 57; Campbell v BackOffice Investments Pty Ltd [2008] NSWCA 95 ; (2008) 66 ACSR 359 at 400.</sentence>
+<sentence id="s229">The manner in which a company is being administered and in which its affairs are conducted may fall within the category of conduct contrary to the interests of the company's members as a whole although it may not be described as oppressive, unfairly prejudicial to, or unfairly discriminatory against members of the company: Turnbull v National Roads &amp;amp; Motorists' Association Limited [2004] NSWSC 577 ; (2004) 50 ACSR 44 at 52, 57; Campbell v BackOffice Investments Pty Ltd [2008] NSWCA 95 ; (2008) 66 ACSR 359 at 400.</sentence>
 <sentence id="s230">(See also Re Spargos Mining NL (1990) 3 ACSR 1 at 42; Shelton v NRMA Limited (2005) 51 ACSR 278.</sentence>
 <sentence id="s231">) An example of such conduct may be found where a company is formed for the purpose of undertaking particular activities but the directors and management disregard those activities and direct the company into different commercial areas.</sentence>
 <sentence id="s232">An essential feature of the "oppression" provisions in subpar (e) of s 232 is whether or not there has been commercial unfairness.</sentence>

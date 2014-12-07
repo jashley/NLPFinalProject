@@ -3,13 +3,13 @@
 <name>Commonwealth of Australia v Leigh [2008] FCA 1513 (10 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1513.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">grant of funds to purchase property</catchphrase>
-<catchphrase "id=c1">grant conditional on use of the property for certain purposes and secured by a charge</catchphrase>
-<catchphrase "id=c2">condition breached</catchphrase>
-<catchphrase "id=c3">charge secures repayment of the grant</catchphrase>
-<catchphrase "id=c4">costs and expenses incurred in enforcing the obligation to repay are also secured upon the property</catchphrase>
-<catchphrase "id=c5">aboriginal and torres strait islander commission amendment act 2005 (cth) schedule 1</catchphrase>
-<catchphrase "id=c6">securities</catchphrase>
+<catchphrase id="c0">grant of funds to purchase property</catchphrase>
+<catchphrase id="c1">grant conditional on use of the property for certain purposes and secured by a charge</catchphrase>
+<catchphrase id="c2">condition breached</catchphrase>
+<catchphrase id="c3">charge secures repayment of the grant</catchphrase>
+<catchphrase id="c4">costs and expenses incurred in enforcing the obligation to repay are also secured upon the property</catchphrase>
+<catchphrase id="c5">aboriginal and torres strait islander commission amendment act 2005 (cth) schedule 1</catchphrase>
+<catchphrase id="c6">securities</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -294,9 +294,9 @@
 <sentence id="s123">See Acts Interpretation Act 1901 (Cth), s 15.</sentence>
 <sentence id="s124">The Commonwealth will be entitled to the benefit of the cl 2 charge if either:
  
-&#8226; cl 2 of the Purposes Agreement should be construed as referring to the ATSIC Act as amended from time to time rather than as it was at the date of that agreement; or
+&amp;#8226; cl 2 of the Purposes Agreement should be construed as referring to the ATSIC Act as amended from time to time rather than as it was at the date of that agreement; or
  
-&#8226; Items 199 and 201 should be construed as extending the cl 2 charge to include obligations to the Commonwealth created by those items.</sentence>
+&amp;#8226; Items 199 and 201 should be construed as extending the cl 2 charge to include obligations to the Commonwealth created by those items.</sentence>
 <sentence id="s125">32 I need only address the second question.</sentence>
 <sentence id="s126">Clearly, the statutory intention underlying Item 199 was that the Commonwealth be treated as having made a grant on the same terms and conditions as ATSIC had done.</sentence>
 <sentence id="s127">Those terms and conditions included the benefit of the cl 2 charge securing repayment of the Grant, should Durahwra cease to use the property for the specified purpose.</sentence>

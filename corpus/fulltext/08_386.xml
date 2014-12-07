@@ -3,12 +3,12 @@
 <name>Australian Securities and Investments Commission v Albarran (No 2) [2008] FCA 386 (27 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/386.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">defendant refused to answer questions before the companies auditors and liquidators disciplinary board</catchphrase>
-<catchphrase "id=c1">defendant to be punished as if guilty of contempt of court</catchphrase>
-<catchphrase "id=c2">principles for imposing punishment</catchphrase>
-<catchphrase "id=c3">defendant fined $20,000</catchphrase>
-<catchphrase "id=c4">order for indemnity costs</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase id="c0">defendant refused to answer questions before the companies auditors and liquidators disciplinary board</catchphrase>
+<catchphrase id="c1">defendant to be punished as if guilty of contempt of court</catchphrase>
+<catchphrase id="c2">principles for imposing punishment</catchphrase>
+<catchphrase id="c3">defendant fined $20,000</catchphrase>
+<catchphrase id="c4">order for indemnity costs</catchphrase>
+<catchphrase id="c5">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,7 +36,7 @@
 <sentence id="s15">10 Third, as was earlier observed by the High Court in Australasian Meat Industry Employees' Union v Mudginberri Station Proprietary Limited ("Mudginberri") [1986] HCA 46 ; (1986) 161 CLR 98 at 108, the punitive and remedial objects of the exercise of the contempt power are inextricably intertwined: Witham v Holloway at 533-534.</sentence>
 <sentence id="s16">11 In Mudginberri their Honours referred to the "strong stream" of authority for the proposition that a fine may be imposed when the contempt consists of wilful disobedience of a court order, at least in the sense that the disobedience is not "casual, accidental or unintentional": 106-107, 109, 112-113.</sentence>
 <sentence id="s17">12 Reference was also made in Mudginberri to the underlying rationale of every exercise of the contempt power, namely the need to uphold and protect the effective administration of justice.</sentence>
-<sentence id="s18">Their Honours quoted from the then current edition of the seminal work on the law of contempt, Borrie &amp; Lowe's Law of Contempt (2 nd ed, 1983): if a court lacked the means to enforce its orders, or if its orders could be disobeyed with impunity, the administration of justice would be brought into disrepute.</sentence>
+<sentence id="s18">Their Honours quoted from the then current edition of the seminal work on the law of contempt, Borrie &amp;amp; Lowe's Law of Contempt (2 nd ed, 1983): if a court lacked the means to enforce its orders, or if its orders could be disobeyed with impunity, the administration of justice would be brought into disrepute.</sentence>
 <sentence id="s19">13 In Deputy Federal Commissioner of Taxation v Hickey [1999] FCA 259 ; (1999) 99 ATC 5124 at [35] , Carr J said:
  
  Any contempt of court is serious.</sentence>
@@ -58,7 +58,7 @@
 s 219(7)(b) recognises that it is through the exercise of judicial power under Ch III of the Constitution that the authority of the Board is to be vindicated.</sentence>
 <sentence id="s27">16 The Board is furnished with a very significant disciplinary and regulatory function in the exercise of its power under s 1292 of the Corporations Act 2001 (Cth) to cancel or suspend the registration of an auditor or liquidator.</sentence>
 <sentence id="s28">17 In aid of its disciplinary function the Board is given power in s 219 of the ASIC Act to summons witnesses and to require them to answer questions.</sentence>
-<sentence id="s29">18 As Emmett J remarked, in a different statutory context, in Australian Securities &amp; Investments Commission v Pappas [2007] FCA 672 at [23] , the power to examine witnesses is a significant one which is conferred in the public interest.</sentence>
+<sentence id="s29">18 As Emmett J remarked, in a different statutory context, in Australian Securities &amp;amp; Investments Commission v Pappas [2007] FCA 672 at [23] , the power to examine witnesses is a significant one which is conferred in the public interest.</sentence>
 <sentence id="s30">His Honour continued:
  
  Members of the public should understand that failure to comply with orders of the Court requiring compliance with the Commission's requirements in connection with investigation will not be treated lightly.</sentence>

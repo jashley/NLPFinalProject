@@ -3,10 +3,10 @@
 <name>Middleton Nominees Pty Ltd v Westpac Banking Corporation [2008] FCA 371 (19 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/371.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether two-page "form of acknowledgment" attached to the back of four-page "guarantee and indemnity" constituted part of the contract or a separate document</catchphrase>
-<catchphrase "id=c1">whether essential term of a contract, if unambiguous, may be modified by reference to the conflicting written terms of a contemporaneously-executed contract between different parties but part of the same transaction in order to obtain consistency between the contracts</catchphrase>
-<catchphrase "id=c2">whether all-moneys "dragnet clause" in a guarantee agreement is to be limited by "general principles of contract" where such principles would lead to a construction contrary to the unambiguous and express terms of the clause</catchphrase>
-<catchphrase "id=c3">contracts</catchphrase>
+<catchphrase id="c0">whether two-page "form of acknowledgment" attached to the back of four-page "guarantee and indemnity" constituted part of the contract or a separate document</catchphrase>
+<catchphrase id="c1">whether essential term of a contract, if unambiguous, may be modified by reference to the conflicting written terms of a contemporaneously-executed contract between different parties but part of the same transaction in order to obtain consistency between the contracts</catchphrase>
+<catchphrase id="c2">whether all-moneys "dragnet clause" in a guarantee agreement is to be limited by "general principles of contract" where such principles would lead to a construction contrary to the unambiguous and express terms of the clause</catchphrase>
+<catchphrase id="c3">contracts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -222,7 +222,7 @@ Westpac had also previously provided a cheque account to Middleton Nominees on 7
  Sonja Kirszbaum
  43 Aroona Road
  Caulfield
- Worth $1800 &#61948;
+ Worth $1800 &amp;#61948;
  $2,000,000 -- used Advance H
  
  
@@ -359,7 +359,7 @@ Again, this evidence strongly suggests that the Expiry Term does not reflect an 
 <sentence id="s190">At the time of the Nepalle demand, no demand had been made in relation to the Middleton Nominees Facilities.</sentence>
 <sentence id="s191">The allegation that the payment was appropriated to the wrong debt is rejected.</sentence>
 <sentence id="s192">51 Finally, in the circumstances, even if the Middleton Nominees Guarantee had expired on 31 December 2005 (which I do not accept), I am not satisfied that an essential term of a security document (the Nepalle Guarantee) should be implied from a second security contract (the Middleton Nominees Guarantee) relating to the same financing transaction but provided by a different entity.</sentence>
-<sentence id="s193">It is well established that what was said and done by parties to an agreement is part of the relevant context in which the agreement is construed: Codelfa Construction Pty Ltd v State Rail Authority (NSW) [1982] HCA 24 ; (1982) 149 CLR 337 , 348-53 (per Mason J) and Royal Botantic Gardens and Domain Trust v South Sydney City Council [2001] FCA 760 ; (2002) 76 ALJR 436 ; see also Chacmol Holdings Pty Ltd v Handberg [2005] FCAFC 40 ; (2005) 215 ALR 748 at [32] (per Tamberlin J) and [68]-[77]; Chitty on Contracts, 27 th ed, Sweet &amp; Maxwell, London, 1994 at [12057]; and McVeigh v National Bank of Australia [2000] FCA 187 at [30] (per Finkelstein J) and at [68] (per Kenny J) and Manks v Whiteley [1912] 1 Ch 735, 754 (per Fletcher-Moulton LJ).</sentence>
+<sentence id="s193">It is well established that what was said and done by parties to an agreement is part of the relevant context in which the agreement is construed: Codelfa Construction Pty Ltd v State Rail Authority (NSW) [1982] HCA 24 ; (1982) 149 CLR 337 , 348-53 (per Mason J) and Royal Botantic Gardens and Domain Trust v South Sydney City Council [2001] FCA 760 ; (2002) 76 ALJR 436 ; see also Chacmol Holdings Pty Ltd v Handberg [2005] FCAFC 40 ; (2005) 215 ALR 748 at [32] (per Tamberlin J) and [68]-[77]; Chitty on Contracts, 27 th ed, Sweet &amp;amp; Maxwell, London, 1994 at [12057]; and McVeigh v National Bank of Australia [2000] FCA 187 at [30] (per Finkelstein J) and at [68] (per Kenny J) and Manks v Whiteley [1912] 1 Ch 735, 754 (per Fletcher-Moulton LJ).</sentence>
 <sentence id="s194">52 I accept that these authorities support the proposition that contemporaneously executed contracts forming part of the same transaction should, as a general rule, be read as a whole and construed by reference to each other: Star City Pty Limited v Commissioner of Taxation [2007] FCA 1701 at [52] .</sentence>
 <sentence id="s195">However, it would go well beyond any concept of contractual context to alter the terms of one contemporaneously executed contract by reference to another where, as here: (1) the parties to each contract are not the same; (2) the term in the contract in question is not ambiguous; and (3) the term in the other contract is directly conflicting.</sentence>
 <sentence id="s196">This is especially so where the result is to require an essential term, such as the duration of the contract, to be amended from the written terms of one contract to obtain consistency between the two contracts.</sentence>
@@ -415,9 +415,9 @@ I address the substance of this claim below.</sentence>
  
 59 Mr Volkov executed a number of documents: (1) the Volkov Guarantee in relation to the Advance debt; (2) a solicitor's certificate regarding the advice provided to him prior to executing the Volkov Guarantee; (3) an Acknowledgment and authority to complete; and (4) the Volkov mortgage.</sentence>
 <sentence id="s218">60 Gadens, Westpac's solicitors, prepared these documents and arranged for the documents to be provided to Mr Volkov.</sentence>
-<sentence id="s219">The Volkov mortgage (document (4) in [59] above) was sent by Gadens to John Hogan &amp; Associates under cover of a letter dated 21 June 2005.</sentence>
+<sentence id="s219">The Volkov mortgage (document (4) in [59] above) was sent by Gadens to John Hogan &amp;amp; Associates under cover of a letter dated 21 June 2005.</sentence>
 <sentence id="s220">Under cover of a letter dated 28 June 2005, the Volkov mortgage was sent by Gadens to Ms Kirsch for "re-execution" because the mortgage had been returned to Gadens without being executed by Advance.</sentence>
-<sentence id="s221">61 The Volkov Guarantee (document (1) in [59] above) and the Certificate of Independent Legal Advice (document (2) in [59] above), both of which were to be signed by Mr Volkov, were also sent by Gadens to John Hogan &amp; Associates under cover of a letter dated 22 June 2005.</sentence>
+<sentence id="s221">61 The Volkov Guarantee (document (1) in [59] above) and the Certificate of Independent Legal Advice (document (2) in [59] above), both of which were to be signed by Mr Volkov, were also sent by Gadens to John Hogan &amp;amp; Associates under cover of a letter dated 22 June 2005.</sentence>
 <sentence id="s222">The covering letter stated that:
  
  
@@ -603,11 +603,11 @@ Both allegations are without foundation.</sentence>
  
  
  
- &#8226; Deed of Guarantee and Indemnity 
- &#8226; Mortgage of Land 
- &#8226; Memorandum of Common Provisions No.</sentence>
+ &amp;#8226; Deed of Guarantee and Indemnity 
+ &amp;#8226; Mortgage of Land 
+ &amp;#8226; Memorandum of Common Provisions No.</sentence>
 <sentence id="s295">AA776 
- &#8226; Business Finance Agreement 
+ &amp;#8226; Business Finance Agreement 
  
  
  
@@ -622,9 +622,9 @@ Both allegations are without foundation.</sentence>
  
  
  
- &#8226; the general nature and effects of the documents required to be signed by the guarantor; 
- &#8226; that if the borrower defaults in payment or in other obligations to [Westpac] the guarantor would be liable to make good that default which could involve all amounts owed by the borrower to [Westpac] and substantial arrears of interest; 
- &#8226; that the giving of a guarantee involves considerable risk, including the risk of losing any security, property and other assets and requires very careful thought.</sentence>
+ &amp;#8226; the general nature and effects of the documents required to be signed by the guarantor; 
+ &amp;#8226; that if the borrower defaults in payment or in other obligations to [Westpac] the guarantor would be liable to make good that default which could involve all amounts owed by the borrower to [Westpac] and substantial arrears of interest; 
+ &amp;#8226; that the giving of a guarantee involves considerable risk, including the risk of losing any security, property and other assets and requires very careful thought.</sentence>
 <sentence id="s296">
  
  
@@ -643,10 +643,10 @@ Both allegations are without foundation.</sentence>
  
  
  
- &#8226; that he...understood the general nature and effect of the documents and the obligations and risks involved in signing those documents.</sentence>
+ &amp;#8226; that he...understood the general nature and effect of the documents and the obligations and risks involved in signing those documents.</sentence>
 <sentence id="s297">It appeared to me that [he] did have such understanding.</sentence>
 <sentence id="s298">
- &#8226; that he...[was] signing these documents freely, voluntarily and without pressure from the borrower or any other person.</sentence>
+ &amp;#8226; that he...[was] signing these documents freely, voluntarily and without pressure from the borrower or any other person.</sentence>
 <sentence id="s299">
  
  
@@ -766,7 +766,7 @@ Dated: 19 March 2008
  Counsel for the Applicants and First to Fourth Cross-Respondents in the First Cross-Claim: L Glick QC
 PL Ehrlich 
  
- Solicitor for the Applicants and First to Fourth Cross-Respondents in the First Cross-Claim: Schetzer Brott &amp; Appel 
+ Solicitor for the Applicants and First to Fourth Cross-Respondents in the First Cross-Claim: Schetzer Brott &amp;amp; Appel 
  
  Counsel for the Respondent and Cross-Claimant in the First Cross-Claim and the Cross-Respondent in the Second Cross-Claim: PW Almond QC
 CL Pannam QC (15 May 2007)

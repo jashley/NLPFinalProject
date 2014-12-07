@@ -3,17 +3,17 @@
 <name>Stacks Managed Investments Limited, in the matter of Premium Mortgage Income Fund [2008] FCA 12 (17 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/12.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application under s 601nf(2) of corporations act 2001 (cth) (the act) by responsible entity of managed investment scheme registered under s 601eb of the act for directions</catchphrase>
-<catchphrase "id=c1">constitution of scheme in form of deed declaring trusts executed by the original responsible entity</catchphrase>
-<catchphrase "id=c2">constitution established two unit trust schemes eventually called "first mortgage income portfolio" (fmip) and "high yield income portfolio" (hyip)</catchphrase>
-<catchphrase "id=c3">assets of the two portfolios to be kept separate</catchphrase>
-<catchphrase "id=c4">permitted investments of fmip more conservative than those of hyip</catchphrase>
-<catchphrase "id=c5">earlier responsible entity had not strictly observed requirement of separateness and had used funds of one portfolio for the benefit of the other portfolio</catchphrase>
-<catchphrase "id=c6">only assets remaining in scheme were proceeds of sale of two properties</catchphrase>
-<catchphrase "id=c7">evidentiary difficulty of being satisfied as to ownership of funds based on documentary evidence before the court</catchphrase>
-<catchphrase "id=c8">limited role of court in giving directions</catchphrase>
-<catchphrase "id=c9">directions do not bind members of scheme held : (1) in view of limited role of directions in protecting present responsible entity, appropriate to give directions without requiring appointment and joinder of representatives of the members of the scheme entitled to the assets within the respective portfolios; (2) documents suggesting that funds of hyip had been employed in acquiring properties shown as being within fmip, so direction made that responsible entity justified in distributing on basis that members of hyip alone entitled to proceeds of sale.</catchphrase>
-<catchphrase "id=c10">corporations</catchphrase>
+<catchphrase id="c0">application under s 601nf(2) of corporations act 2001 (cth) (the act) by responsible entity of managed investment scheme registered under s 601eb of the act for directions</catchphrase>
+<catchphrase id="c1">constitution of scheme in form of deed declaring trusts executed by the original responsible entity</catchphrase>
+<catchphrase id="c2">constitution established two unit trust schemes eventually called "first mortgage income portfolio" (fmip) and "high yield income portfolio" (hyip)</catchphrase>
+<catchphrase id="c3">assets of the two portfolios to be kept separate</catchphrase>
+<catchphrase id="c4">permitted investments of fmip more conservative than those of hyip</catchphrase>
+<catchphrase id="c5">earlier responsible entity had not strictly observed requirement of separateness and had used funds of one portfolio for the benefit of the other portfolio</catchphrase>
+<catchphrase id="c6">only assets remaining in scheme were proceeds of sale of two properties</catchphrase>
+<catchphrase id="c7">evidentiary difficulty of being satisfied as to ownership of funds based on documentary evidence before the court</catchphrase>
+<catchphrase id="c8">limited role of court in giving directions</catchphrase>
+<catchphrase id="c9">directions do not bind members of scheme held : (1) in view of limited role of directions in protecting present responsible entity, appropriate to give directions without requiring appointment and joinder of representatives of the members of the scheme entitled to the assets within the respective portfolios; (2) documents suggesting that funds of hyip had been employed in acquiring properties shown as being within fmip, so direction made that responsible entity justified in distributing on basis that members of hyip alone entitled to proceeds of sale.</catchphrase>
+<catchphrase id="c10">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -84,10 +84,10 @@ His Honour said that modern Australian authorities, to which he referred, also c
 <sentence id="s45">21 Cromwell was the manager and responsible entity of the Fund from its registration on 9 August 2000 to 21 September 2001 when Mercator replaced it.</sentence>
 <sentence id="s46">Mercator remained the responsible entity of the Fund until, at an extraordinary general meeting of the members of the Fund held on 8 September 2004, it was resolved that:
  
- &#8226; Mercator be removed as manager and responsible entity of the Scheme;
- &#8226; Stacks be appointed as manager and responsible entity in Mercator's place;
- &#8226; Stacks be directed to wind up the Scheme; and
- &#8226; Stacks be requested to appoint Taylor Woodings Corporate Services Pty Ltd as a consultant to advise Stacks on the winding up of the Scheme.</sentence>
+ &amp;#8226; Mercator be removed as manager and responsible entity of the Scheme;
+ &amp;#8226; Stacks be appointed as manager and responsible entity in Mercator's place;
+ &amp;#8226; Stacks be directed to wind up the Scheme; and
+ &amp;#8226; Stacks be requested to appoint Taylor Woodings Corporate Services Pty Ltd as a consultant to advise Stacks on the winding up of the Scheme.</sentence>
 <sentence id="s47">
 
  The change in the responsible entity and manager from Cromwell to Mercator took effect on 16 September 2004.</sentence>
@@ -188,8 +188,8 @@ His Honour said that modern Australian authorities, to which he referred, also c
 <sentence id="s96">44 Later in the Replacement Prospectus (at 7) it was stated that the objectives of the FMIP were to:
  
  
- &#8226; Provide a secure and consistent monthly income to investors from a portfolio of registered first mortgages, money market and fixed interest securities;
- &#8226; Minimise risk by investing in high quality mortgages, spread across a diversified range of assets.</sentence>
+ &amp;#8226; Provide a secure and consistent monthly income to investors from a portfolio of registered first mortgages, money market and fixed interest securities;
+ &amp;#8226; Minimise risk by investing in high quality mortgages, spread across a diversified range of assets.</sentence>
 <sentence id="s97">
  
 
@@ -225,11 +225,11 @@ The sum of $968,995 represents 10.94% of $8,853,891, and the sum of $7,884,896 r
 <sentence id="s103">49 As will become apparent, there were at least three loan facilities (the Rycorp Properties Loan Facilities) provided by the Fund in favour of Rycorp Properties or associated entities prior to the appointment of Stacks as responsible entity which are relevant to the question of how the proceeds should be distributed.</sentence>
 <sentence id="s104">These three facilities are: 
  
-&#8226; a loan to fund the construction of nine residential units at 102 and 106 Pashen Street, Morningside, Queensland (the Pashen Street Facility);
+&amp;#8226; a loan to fund the construction of nine residential units at 102 and 106 Pashen Street, Morningside, Queensland (the Pashen Street Facility);
  
-&#8226; a loan to fund the construction of six residential units at 45 Bonney Avenue, Clayfield, Queensland (the Bonney Avenue Facility); and
+&amp;#8226; a loan to fund the construction of six residential units at 45 Bonney Avenue, Clayfield, Queensland (the Bonney Avenue Facility); and
  
-&#8226; a loan to fund a refinancing of existing facilities, the loan to be principally secured by the Boondall Property (the Boondall Facility).</sentence>
+&amp;#8226; a loan to fund a refinancing of existing facilities, the loan to be principally secured by the Boondall Property (the Boondall Facility).</sentence>
 <sentence id="s105">The Pashen Street Facility 
  
 50 On 21 May 2001, an offer was made by Cromwell, on behalf of the Scheme, to Meritstock Pty Ltd (Meritstock), for the provision of a loan of $550,000 under the HYIP (then called the Project Development Portfolio).</sentence>
@@ -237,13 +237,13 @@ The sum of $968,995 represents 10.94% of $8,853,891, and the sum of $7,884,896 r
 <sentence id="s107">Meritstock was an entity associated with Rycorp Properties and its directors and shareholders were Colin Gregory Ryan and Islay Wendy Ryan.</sentence>
 <sentence id="s108">The security for the loan consisted of:
  
-&#8226; a second registered mortgage over the Pashen Street Property;
+&amp;#8226; a second registered mortgage over the Pashen Street Property;
  
-&#8226; a third mortgage over 59 Woodstock Street, Toowong;
+&amp;#8226; a third mortgage over 59 Woodstock Street, Toowong;
  
-&#8226; a third mortgage over 100 Oriel Road, Clayfield; and
+&amp;#8226; a third mortgage over 100 Oriel Road, Clayfield; and
  
-&#8226; unlimited joint and several guarantees by Mr Ryan, Rycorp Pty Ltd (Rycorp) and Rycorp Properties.</sentence>
+&amp;#8226; unlimited joint and several guarantees by Mr Ryan, Rycorp Pty Ltd (Rycorp) and Rycorp Properties.</sentence>
 <sentence id="s109">Meritstock accepted the offer of the Pashen Street Facility (that is, the loan offer outlined above) on 30 May 2001.</sentence>
 <sentence id="s110">51 By October 2002, the construction had stalled due to lack of available funds.</sentence>
 <sentence id="s111">By that time, Mercator had replaced Cromwell as the responsible entity of the Scheme (see [21] above).</sentence>
@@ -286,17 +286,17 @@ The sum of $968,995 represents 10.94% of $8,853,891, and the sum of $7,884,896 r
 <sentence id="s144">Mr Stack states in his affidavit that, according to his understanding, based on conversations he had with staff of Mercator, PIFA-2000 and PIFA had common investors.</sentence>
 <sentence id="s145">61 The security for the Boondall Facility was to comprise the following six registered mortgages:
  
-&#8226; a first registered mortgage over vacant land at Mount Warren Boulevard, Mount Warren Park, Queensland (the Mount Warren Park Property);
+&amp;#8226; a first registered mortgage over vacant land at Mount Warren Boulevard, Mount Warren Park, Queensland (the Mount Warren Park Property);
  
-&#8226; a second registered mortgage over the Boondall Property;
+&amp;#8226; a second registered mortgage over the Boondall Property;
  
-&#8226; a second registered mortgage over the Bonney Avenue Property;
+&amp;#8226; a second registered mortgage over the Bonney Avenue Property;
  
-&#8226; a third registered mortgage over 39-41 Racecourse Road, Hamilton;
+&amp;#8226; a third registered mortgage over 39-41 Racecourse Road, Hamilton;
  
-&#8226; a third registered mortgage over the Pashen Street Property; and
+&amp;#8226; a third registered mortgage over the Pashen Street Property; and
  
-&#8226; a third registered mortgage over 29 Oriel Road, Clayfield.</sentence>
+&amp;#8226; a third registered mortgage over 29 Oriel Road, Clayfield.</sentence>
 <sentence id="s146">There were also to be guarantees by Mr and Mrs Ryan, Rycorp, Rycorp Properties and Closemarket Pty Ltd (Closemarket).</sentence>
 <sentence id="s147">The letter of offer of the Boondall Facility stated that the second registered mortgage over the Boondall Property was to be "Subject to First Mortgage to Premium Income Fund of Australia", that is, subject to a first mortgage to PIFA.</sentence>
 <sentence id="s148">62 It will be recalled that the sales of the Bonney Avenue Property and the Pashen Street Property resulted in large shortfalls.</sentence>
@@ -309,15 +309,15 @@ The sum of $968,995 represents 10.94% of $8,853,891, and the sum of $7,884,896 r
 <sentence id="s155">65 On 8 March 2002 a Loan Agreement was entered into by Meritstock and Perpetual.</sentence>
 <sentence id="s156">66 The security for the Boondall Facility in fact consisted of:
  
-&#8226; the six mortgages listed at [61] above;
+&amp;#8226; the six mortgages listed at [61] above;
  
-&#8226; guarantees from Mr Ryan, Rycorp, Rycorp Properties, Mrs Ryan and Closemarket;
+&amp;#8226; guarantees from Mr Ryan, Rycorp, Rycorp Properties, Mrs Ryan and Closemarket;
  
-&#8226; a "Deed of Priority" with all first mortgagees;
+&amp;#8226; a "Deed of Priority" with all first mortgagees;
  
-&#8226; registered fixed and floating charges over the assets of Meritstock, Rycorp, Rycorp Properties and Closemarket; and
+&amp;#8226; registered fixed and floating charges over the assets of Meritstock, Rycorp, Rycorp Properties and Closemarket; and
  
-&#8226; documentation containing cross collateralisation of all borrowings and cross defaulting clauses of all securities in the name of Meritstock, Rycorp and Rycorp Properties.</sentence>
+&amp;#8226; documentation containing cross collateralisation of all borrowings and cross defaulting clauses of all securities in the name of Meritstock, Rycorp and Rycorp Properties.</sentence>
 <sentence id="s157">67 On 28 March 2002, $950,000 was drawn down from the FMIP's account FA10004007 (the Boondall Facility FMIP Account).</sentence>
 <sentence id="s158">Between 28 March 2002 and 9 April 2002, $1,550,000 was drawn from the HYIP's account PA10003017 (the Boondall Facility HYIP Account).</sentence>
 <sentence id="s159">Mr Stack observes in his affidavit that it appears from the Boondall Facility HYIP Account statement that a further sum of $267,002.66 was advanced by the HYIP on 14 October 2002, but Mr Stack has not been able to locate any documentation in relation to that advance.</sentence>
@@ -564,11 +564,11 @@ In the second paragraph quoted, it is acknowledged that the HYIP owns the second
  
 114 In order to determine how the net proceeds of the sale of the Boondall Property should be distributed as between the FMIP and the HYIP, it is necessary to determine three related questions:
  
-&#8226; Whether, prior to the Security Deed, the first mortgage over the Mount Warren Park Property was an Asset solely of the FMIP, or whether both the FMIP and the HYIP had a beneficial interest in that mortgage; 
+&amp;#8226; Whether, prior to the Security Deed, the first mortgage over the Mount Warren Park Property was an Asset solely of the FMIP, or whether both the FMIP and the HYIP had a beneficial interest in that mortgage; 
  
-&#8226; Whether, prior to the Security Deed, the second mortgage over the Boondall Property was an Asset solely of the HYIP, or whether both the FMIP and the HYIP had a beneficial interest in that mortgage; and
+&amp;#8226; Whether, prior to the Security Deed, the second mortgage over the Boondall Property was an Asset solely of the HYIP, or whether both the FMIP and the HYIP had a beneficial interest in that mortgage; and
  
-&#8226; Whether the Security Deed was entered into in breach of trust and is therefore invalid.</sentence>
+&amp;#8226; Whether the Security Deed was entered into in breach of trust and is therefore invalid.</sentence>
 <sentence id="s299">As will be seen, this will depend on the answers in relation to the two preceding questions.</sentence>
 <sentence id="s300">There does not appear to be any suggestion in the evidence that the first mortgage over the Mount Warren Park Property was an Asset solely of the HYIP or that the second mortgage over the Boondall Property was an Asset solely of the FMIP.</sentence>
 <sentence id="s301">115 I have taken into account the written and oral submissions of senior counsel for Stacks.</sentence>
@@ -599,9 +599,9 @@ This yields a figure of the order of $70,000.</sentence>
 <sentence id="s321">I do not think that the evidence establishes that the advance of $950,000 by the FMIP was on the terms that it alone would have the benefit of the first mortgage over the Mount Warren Park Property and would in addition share with the HYIP in the benefit of all the other securities, including the second mortgage over the Boondall Property.</sentence>
 <sentence id="s322">126 I therefore conclude that, prior to the Security Deed:
  
-&#8226; the first mortgage over the Mount Warren Park Property was an Asset solely of the FMIP, and the HYIP had no interest in that mortgage; and
+&amp;#8226; the first mortgage over the Mount Warren Park Property was an Asset solely of the FMIP, and the HYIP had no interest in that mortgage; and
  
-&#8226; the second mortgage over the Boondall Facility was an Asset solely of the HYIP, and the FMIP had no interest in that mortgage.</sentence>
+&amp;#8226; the second mortgage over the Boondall Facility was an Asset solely of the HYIP, and the FMIP had no interest in that mortgage.</sentence>
 <sentence id="s323">Subject to the Security Deed, Stacks would therefore be justified in distributing the proceeds of sale of the Boondall Property to the HYIP investors alone.</sentence>
 <sentence id="s324">127 I note, in passing, that it was permitted to the HYIP, as well as to the FMIP, to lend on first mortgage security.</sentence>
 <sentence id="s325">However, it was not permitted to the FMIP, although it was to the HYIP, to lend on second or subsequent mortgage security, but if such a lending by the FMIP on such a security took place, albeit in breach of trust, the FMIP would be entitled to the benefit of that security.</sentence>
@@ -653,13 +653,13 @@ This yields a figure of the order of $70,000.</sentence>
 <sentence id="s362">Of the total amount of $1,660,000, $300,000 was to be applied to construction purposes, and the remainder was to be applied to interest, working capital, creditors and other expenses, such as Mercator's own establishment fee of $166,000 and the repayment of $250,000 to PIFA (not PIFA-2000).</sentence>
 <sentence id="s363">142 The security for the Libbian Facility consisted of:
  
-&#8226; a second mortgage executed by Libbian over the Upper Roma Street Property;
+&amp;#8226; a second mortgage executed by Libbian over the Upper Roma Street Property;
  
-&#8226; unlimited joint and several guarantees by Anthony John Ellis and various "Bledisloe" proprietary companies associated with him;
+&amp;#8226; unlimited joint and several guarantees by Anthony John Ellis and various "Bledisloe" proprietary companies associated with him;
  
-&#8226; a registered fixed and floating charge over the assets and undertaking of Libbian; and
+&amp;#8226; a registered fixed and floating charge over the assets and undertaking of Libbian; and
  
-&#8226; a priority deed with the first mortgagee of the Upper Roma Street Property.</sentence>
+&amp;#8226; a priority deed with the first mortgagee of the Upper Roma Street Property.</sentence>
 <sentence id="s364">Since lending on second mortgage was not an authorised investment of the FMIP, the proposed second mortgage security is consistent with the provision of the facility by the HYIP, not the FMIP.</sentence>
 <sentence id="s365">143 The Libbian Facility was drawn down with funds from the HYIP on or around 19 October 2001 pursuant to a Loan Agreement of that date between Libbian as borrower and Perpetual as lender.</sentence>
 <sentence id="s366">The loan account in respect of the Libbian Facility was numbered PA10003014 (it will be recalled that the letter "P" indicates a Project Development Fund account, that is to say, a HYIP account).</sentence>

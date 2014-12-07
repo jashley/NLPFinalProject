@@ -3,14 +3,14 @@
 <name>Johnson Outdoors Watercraft Ltd, in the matter of Canoe Sports Pty Ltd v Canoe Sports Pty Ltd [2008] FCA 1340 (29 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1340.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">deed of company arrangement</catchphrase>
-<catchphrase "id=c1">application by creditor for order under s 445d of corporations act 2001 (cth) terminating deed</catchphrase>
-<catchphrase "id=c2">payments made by company to directors or to entities controlled by them, not satisfactorily explained</catchphrase>
-<catchphrase "id=c3">desirability that company be wound up and that the investigatory and recovery powers of a liquidator be available</catchphrase>
-<catchphrase "id=c4">misleading information in, and omissions from, an administrator's report</catchphrase>
-<catchphrase "id=c5">whether creditor's nominee or one of the administrators should be appointed liquidator</catchphrase>
-<catchphrase "id=c6">discretionary considerations. held: orders made terminating deed, winding up company and appointing creditor's nominee as liquidator.</catchphrase>
-<catchphrase "id=c7">corporations</catchphrase>
+<catchphrase id="c0">deed of company arrangement</catchphrase>
+<catchphrase id="c1">application by creditor for order under s 445d of corporations act 2001 (cth) terminating deed</catchphrase>
+<catchphrase id="c2">payments made by company to directors or to entities controlled by them, not satisfactorily explained</catchphrase>
+<catchphrase id="c3">desirability that company be wound up and that the investigatory and recovery powers of a liquidator be available</catchphrase>
+<catchphrase id="c4">misleading information in, and omissions from, an administrator's report</catchphrase>
+<catchphrase id="c5">whether creditor's nominee or one of the administrators should be appointed liquidator</catchphrase>
+<catchphrase id="c6">discretionary considerations. held: orders made terminating deed, winding up company and appointing creditor's nominee as liquidator.</catchphrase>
+<catchphrase id="c7">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -112,21 +112,21 @@ Between the appointment of the Administrators and the issue of their report, the
 <sentence id="s65">CONSIDERATION 
  
 36 The "Executive Summary" of the Administrators' report to creditors was as follows: 
- &#8226; The Company operated as a wholesaler of kayaks, canoes and accessories and traded from leased premises situated at Unit 2, 6 Taranga [sic] Place, Mona Vale NSW 2103.</sentence>
-<sentence id="s66">&#8226; At the date of our appointment, the Company had assets consisting of cash at bank, stock and plant and equipment.</sentence>
+ &amp;#8226; The Company operated as a wholesaler of kayaks, canoes and accessories and traded from leased premises situated at Unit 2, 6 Taranga [sic] Place, Mona Vale NSW 2103.</sentence>
+<sentence id="s66">&amp;#8226; At the date of our appointment, the Company had assets consisting of cash at bank, stock and plant and equipment.</sentence>
 <sentence id="s67">The Company had ceased trading at the date of appointment.</sentence>
-<sentence id="s68">&#8226; The Company's major creditors are Johnson Outdoors Watercraft Limited ("Johnson Outdoors") and the Hughes Family Trust who have lodged claims against the Company for the amounts of $527,767 and $782,346 respectively.</sentence>
+<sentence id="s68">&amp;#8226; The Company's major creditors are Johnson Outdoors Watercraft Limited ("Johnson Outdoors") and the Hughes Family Trust who have lodged claims against the Company for the amounts of $527,767 and $782,346 respectively.</sentence>
 <sentence id="s69">The Company's unsecured creditors total $1,354,457.</sentence>
-<sentence id="s70">&#8226; Johnson Outdoors commenced legal action against the Company in March 2007 to recover its outstanding debt relating to the supply of kayaks, canoes and accessories to the Company.</sentence>
+<sentence id="s70">&amp;#8226; Johnson Outdoors commenced legal action against the Company in March 2007 to recover its outstanding debt relating to the supply of kayaks, canoes and accessories to the Company.</sentence>
 <sentence id="s71">The Company has defended the court action and lodged a cross claim against Johnson Outdoors for damages with respect to loss of profit due to the termination of a distribution agreement contract.</sentence>
-<sentence id="s72">&#8226; The company has incurred substantial costs defending the recovery action commenced by Johnson Outdoors.</sentence>
+<sentence id="s72">&amp;#8226; The company has incurred substantial costs defending the recovery action commenced by Johnson Outdoors.</sentence>
 <sentence id="s73">The Company's sole director, Ms Samantha Williams ("Ms Williams") has advised that the Company's legal costs to date have amounted to $88,946.</sentence>
-<sentence id="s74">&#8226; The focus of this administration to date has been to investigate the Company's financial affairs and to locate interested parties to purchase the Company's residual stock and plant and equipment.</sentence>
+<sentence id="s74">&amp;#8226; The focus of this administration to date has been to investigate the Company's financial affairs and to locate interested parties to purchase the Company's residual stock and plant and equipment.</sentence>
 <sentence id="s75">To date no buyer has been secured to purchase the Company's residual stock and plant and equipment.</sentence>
-<sentence id="s76">&#8226; Ms Williams has proposed a Deed of Company Arrangement ("DOCA") for creditors to consider.</sentence>
+<sentence id="s76">&amp;#8226; Ms Williams has proposed a Deed of Company Arrangement ("DOCA") for creditors to consider.</sentence>
 <sentence id="s77">The DOCA proposed by Ms Williams is estimated to provide unsecured creditors of the Company with a dividend of approximately 8 cents in the dollar.</sentence>
 <sentence id="s78">Our investigations into the Company's affairs reveal that a dividend to creditors in a liquidation scenario is unlikely.</sentence>
-<sentence id="s79">&#8226; A meeting of creditors has been convened pursuant to section 439A(1) of the Act on 27 May 2008 to determine the Company's future.</sentence>
+<sentence id="s79">&amp;#8226; A meeting of creditors has been convened pursuant to section 439A(1) of the Act on 27 May 2008 to determine the Company's future.</sentence>
 <sentence id="s80">It is our recommendation that creditors vote in favour of the Ms Williams' [sic] proposed DOCA which is estimated to provide creditors with a better return than winding up the Company.</sentence>
 <sentence id="s81">
  
@@ -170,12 +170,12 @@ Between the appointment of the Administrators and the issue of their report, the
 <sentence id="s113">(15) Finally, there are several aspects of the relationships between persons mentioned that would have been material to creditors:
  
  
- &#8226; Samantha Leonie worked for Grant Hughes prior to "acquiring his business";
- &#8226; Grant Hughes ordered stock using the Company's credit accounts for his personal use and convenience;
- &#8226; Northstar Accountants were the accountants for the Hughes family and the Williams family and prepared all accounts in evidence, and Christine Margot worked at Northstar Accountants;
- &#8226; Andrew Stanning of Northstar Accountants was the witness to the signatures on the contract for the sale and purchase of the business;
- &#8226; Mr Hughes and Samantha Leonie were both directors of Kulgun Holdings Pty Limited, a company that carried on business at the same address as the registered office of the Company;
- &#8226; Tina, a former director of the Company and sister of Samantha Leonie, commenced a business at the Company's premises in the form of Kayak Wholesalers Pty Ltd on 27 February 2007 and Samantha Leonie was dealing with customers seeking to order goods on 16 March 2007 using her sister's email address.</sentence>
+ &amp;#8226; Samantha Leonie worked for Grant Hughes prior to "acquiring his business";
+ &amp;#8226; Grant Hughes ordered stock using the Company's credit accounts for his personal use and convenience;
+ &amp;#8226; Northstar Accountants were the accountants for the Hughes family and the Williams family and prepared all accounts in evidence, and Christine Margot worked at Northstar Accountants;
+ &amp;#8226; Andrew Stanning of Northstar Accountants was the witness to the signatures on the contract for the sale and purchase of the business;
+ &amp;#8226; Mr Hughes and Samantha Leonie were both directors of Kulgun Holdings Pty Limited, a company that carried on business at the same address as the registered office of the Company;
+ &amp;#8226; Tina, a former director of the Company and sister of Samantha Leonie, commenced a business at the Company's premises in the form of Kayak Wholesalers Pty Ltd on 27 February 2007 and Samantha Leonie was dealing with customers seeking to order goods on 16 March 2007 using her sister's email address.</sentence>
 <sentence id="s114">
  
 

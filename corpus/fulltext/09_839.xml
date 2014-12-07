@@ -3,14 +3,14 @@
 <name>Siam Polyethylene Co Ltd v Minister of State for Home Affairs (No 3) [2009] FCA 839 (7 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/839.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">practice and procedure</catchphrase>
-<catchphrase "id=c1">confidentiality orders</catchphrase>
-<catchphrase "id=c2">open justice principle</catchphrase>
-<catchphrase "id=c3">commercially sensitive information</catchphrase>
-<catchphrase "id=c4">statutory scheme makes provision for information submitted in the course of administrative inquiry and decision making process to be kept confidential</catchphrase>
-<catchphrase "id=c5">international instrument implemented by domestic legislation emphasises the importance of keeping such information confidential</catchphrase>
-<catchphrase "id=c6">whether court should exercise its discretion to order that commercially sensitive information remain confidential</catchphrase>
-<catchphrase "id=c7">high court and federal court</catchphrase>
+<catchphrase id="c0">practice and procedure</catchphrase>
+<catchphrase id="c1">confidentiality orders</catchphrase>
+<catchphrase id="c2">open justice principle</catchphrase>
+<catchphrase id="c3">commercially sensitive information</catchphrase>
+<catchphrase id="c4">statutory scheme makes provision for information submitted in the course of administrative inquiry and decision making process to be kept confidential</catchphrase>
+<catchphrase id="c5">international instrument implemented by domestic legislation emphasises the importance of keeping such information confidential</catchphrase>
+<catchphrase id="c6">whether court should exercise its discretion to order that commercially sensitive information remain confidential</catchphrase>
+<catchphrase id="c7">high court and federal court</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -43,7 +43,7 @@
 <sentence id="s23">But, it is an objective which, on occasion, must be balanced against the paramount duty of the Court to do justice.</sentence>
 <sentence id="s24">In Scott v Scott [1913] AC 417 at 437-438, Viscount Haldane LC explained these principles, which have been followed and accepted as fundamental in Australia since Dickason v Dickason [1913] HCA 77 ; (1913) 17 CLR 50 at 51 per Barton ACJ, Isaacs, Gavan Duffy, Powers and Rich JJ.</sentence>
 <sentence id="s25">One of the exceptions to which his Lordship referred was the protection of secret processes and confidential information.</sentence>
-<sentence id="s26">The Court may only depart from exercising its jurisdiction fully in public where, and then only to the extent that, the departure is necessary in the interests of justice or where legislation has altered the open justice rule: John Fairfax &amp; Sons Ltd v Police Tribunal of New South Wales (1986) 5 NSWLR 465 at 476G-477A per McHugh JA, Glass JA agreeing.</sentence>
+<sentence id="s26">The Court may only depart from exercising its jurisdiction fully in public where, and then only to the extent that, the departure is necessary in the interests of justice or where legislation has altered the open justice rule: John Fairfax &amp;amp; Sons Ltd v Police Tribunal of New South Wales (1986) 5 NSWLR 465 at 476G-477A per McHugh JA, Glass JA agreeing.</sentence>
 <sentence id="s27">Even in the latter situation, the legislative power to affect the conduct of the proceedings of a court exercising the judicial power of the Commonwealth cannot be used to achieve a result that is not compatible with the implied Constitutional freedom of communication on government and political matter: Lange v Australian Broadcasting Corporation [1997] HCA 25 ; (1997) 189 CLR 520 at 567-568 per Brennan CJ, Dawson, Toohey, Gaudron, McHugh, Gummow and Kirby JJ; John Fairfax Publications Pty Ltd v Attorney-General (NSW) [2000] NSWCA 198 ; (2000) 181 ALR 694 at 703-707 [52] - [75] , 715-716 [114]-[119] per Spigelman CJ, 721 [157] per Priestley JA.</sentence>
 <sentence id="s28">I was of opinion that, having regard to the material before me and the objects of the Act, it was appropriate to order that particular portions of the evidence revealing commercially sensitive material dealing with, among other matters, individual competitor's internal costs, prices and sales information be kept confidential so as to protect the interests of persons who provided the CEO and the Minister with information in these matters, and also to ensure that, in the future, others will co-operate in similar exercises.</sentence>
 <sentence id="s29">The Minister and CEO each proposed that a number of redactions be made to the material in the evidence so as to preserve confidentiality while allowing public access to the balance of the evidence.</sentence>
@@ -64,7 +64,7 @@ Dated: 7 August 2009
  
  Counsel for the Applicant: NJ Williams SC, AM Mitchelmore 
  
- Solicitor for the Applicant: Baker &amp; McKenzie 
+ Solicitor for the Applicant: Baker &amp;amp; McKenzie 
  
  Counsel for the First and Second Respondents: A Robertson SC, SB Lloyd SC 
  

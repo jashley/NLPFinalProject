@@ -3,14 +3,14 @@
 <name>Australian Competition and Consumer Commission v Prouds Jewellers Pty Ltd [2008] FCA 75 (15 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/75.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c1">dual pricing</catchphrase>
-<catchphrase "id=c2">distribution and publication of jewellery catalogues</catchphrase>
-<catchphrase "id=c3">where catalogues offer jewellery for a sale price described as "now" in proximity to another higher price described as "was"</catchphrase>
-<catchphrase "id=c4">where the price at which items previously sold was often less than the "was" price</catchphrase>
-<catchphrase "id=c5">'was'</catchphrase>
-<catchphrase "id=c6">trade practices</catchphrase>
-<catchphrase "id=c7">words and phrases</catchphrase>
+<catchphrase id="c0">misleading and deceptive conduct</catchphrase>
+<catchphrase id="c1">dual pricing</catchphrase>
+<catchphrase id="c2">distribution and publication of jewellery catalogues</catchphrase>
+<catchphrase id="c3">where catalogues offer jewellery for a sale price described as "now" in proximity to another higher price described as "was"</catchphrase>
+<catchphrase id="c4">where the price at which items previously sold was often less than the "was" price</catchphrase>
+<catchphrase id="c5">'was'</catchphrase>
+<catchphrase id="c6">trade practices</catchphrase>
+<catchphrase id="c7">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -61,13 +61,13 @@
  The pleaded contravening conduct 
  
  ACCC alleged that the publication of the catalogues by Prouds gave rise to five representations which entailed misleading and deceptive conduct.</sentence>
-<sentence id="s39">Somewhat simplified, the case of ACCC was: &#8226; The publication of the two prices suggested in a misleading way that a consumer would save the difference between the "was" price and the "now" price if the item was purchased during the sale period ("Level of Savings Representations").</sentence>
-<sentence id="s40">&#8226; The publication of the "was" price suggested in a misleading way that this price was the usual price at which item would have been purchased before the sale period ("Usual Price Representations").</sentence>
-<sentence id="s41">&#8226; The publication of the "was" price suggested in a misleading way that there had been a substantial volume of sales, before the sale period, of the item at that price.</sentence>
+<sentence id="s39">Somewhat simplified, the case of ACCC was: &amp;#8226; The publication of the two prices suggested in a misleading way that a consumer would save the difference between the "was" price and the "now" price if the item was purchased during the sale period ("Level of Savings Representations").</sentence>
+<sentence id="s40">&amp;#8226; The publication of the "was" price suggested in a misleading way that this price was the usual price at which item would have been purchased before the sale period ("Usual Price Representations").</sentence>
+<sentence id="s41">&amp;#8226; The publication of the "was" price suggested in a misleading way that there had been a substantial volume of sales, before the sale period, of the item at that price.</sentence>
 <sentence id="s42">("Substantial Volume of Sales Price Representations").</sentence>
-<sentence id="s43">&#8226; In relation to three items in the Summer of Love catalogue and 11 items in the Love You Mum catalogue, the publication of the "was" price suggested in a misleading way that the items had been sold at that price immediately before the sale period.</sentence>
+<sentence id="s43">&amp;#8226; In relation to three items in the Summer of Love catalogue and 11 items in the Love You Mum catalogue, the publication of the "was" price suggested in a misleading way that the items had been sold at that price immediately before the sale period.</sentence>
 <sentence id="s44">("Previous Selling Price Representations").</sentence>
-<sentence id="s45">&#8226; The publication of the "was" price suggested in a misleading way that the items had been offered for sale at that price before the sale period ("Advertised Price Representations").</sentence>
+<sentence id="s45">&amp;#8226; The publication of the "was" price suggested in a misleading way that the items had been offered for sale at that price before the sale period ("Advertised Price Representations").</sentence>
 <sentence id="s46">
 
 This summary is a gloss on the pleaded case.</sentence>
@@ -220,8 +220,8 @@ This summary is a gloss on the pleaded case.</sentence>
 <sentence id="s134">The Tribunal was considering the Competition Act , RSC 1985, c. C-34.</sentence>
 <sentence id="s135">Subsection 74.01(3) of that Act dealt with misleading representations in relation to a seller's own ordinary selling price and provided that infringing conduct would have occurred where : 
  
- &#8226; "a substantial volume of the product" had not been sold at the represented ordinary price "within a reasonable period of time before or after the making of the representation" and 
- &#8226; where the product had not been offered at the ordinary price or a higher price in good faith for a substantial period of time recently before or immediately after making the representation.</sentence>
+ &amp;#8226; "a substantial volume of the product" had not been sold at the represented ordinary price "within a reasonable period of time before or after the making of the representation" and 
+ &amp;#8226; where the product had not been offered at the ordinary price or a higher price in good faith for a substantial period of time recently before or immediately after making the representation.</sentence>
 <sentence id="s136">
  
  Representations in that catalogue referred to the regular price of tires, "reg", and the sales price, "sale", as well as statements such as "save 40%" in relation to particular kinds of tires.</sentence>

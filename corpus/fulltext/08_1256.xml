@@ -3,32 +3,32 @@
 <name>Spencer v Commonwealth of Australia [2008] FCA 1256 (26 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1256.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">acquisition of property on just terms</catchphrase>
-<catchphrase "id=c1">s 51(xxxi)</catchphrase>
-<catchphrase "id=c2">validity of commonwealth statutes providing for grants of financial assistance to the states under s 96</catchphrase>
-<catchphrase "id=c3">whether the commonwealth statutes effect or authorise the acquisition of property</catchphrase>
-<catchphrase "id=c4">whether the commonwealth statutes are laws with respect to the acquisition of property</catchphrase>
-<catchphrase "id=c5">acquisition of property on just terms</catchphrase>
-<catchphrase "id=c6">s 51(xxxi)</catchphrase>
-<catchphrase "id=c7">validity of inter-governmental agreements made pursuant to commonwealth statutes providing for grants of financial assistance to the states under s 96</catchphrase>
-<catchphrase "id=c8">whether the inter-governmental agreements effect or authorise the acquisition of property</catchphrase>
-<catchphrase "id=c9">whether the inter-governmental agreements are ultra vires the power to enter into them conferred on the commonwealth by the commonwealth statutes</catchphrase>
-<catchphrase "id=c10">whether the inter-governmental agreements are laws with respect to the acquisition of property</catchphrase>
-<catchphrase "id=c11">summary judgment</catchphrase>
-<catchphrase "id=c12">s 31a of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c13">whether reasonable prospect of successfully prosecuting the proceeding</catchphrase>
-<catchphrase "id=c14">whether reasonable prospect of successfully obtaining the relief sought</catchphrase>
-<catchphrase "id=c15">application for interim relief</catchphrase>
-<catchphrase "id=c16">injunction and damages</catchphrase>
-<catchphrase "id=c17">whether serious question to be tried</catchphrase>
-<catchphrase "id=c18">whether balance of convenience favours granting interim relief</catchphrase>
-<catchphrase "id=c19">issue estoppel</catchphrase>
-<catchphrase "id=c20">whether final or interlocutory judgment</catchphrase>
-<catchphrase "id=c21">constitutional law</catchphrase>
-<catchphrase "id=c22">constitutional law</catchphrase>
-<catchphrase "id=c23">practice and procedure</catchphrase>
-<catchphrase "id=c24">practice and procedure</catchphrase>
-<catchphrase "id=c25">estoppel</catchphrase>
+<catchphrase id="c0">acquisition of property on just terms</catchphrase>
+<catchphrase id="c1">s 51(xxxi)</catchphrase>
+<catchphrase id="c2">validity of commonwealth statutes providing for grants of financial assistance to the states under s 96</catchphrase>
+<catchphrase id="c3">whether the commonwealth statutes effect or authorise the acquisition of property</catchphrase>
+<catchphrase id="c4">whether the commonwealth statutes are laws with respect to the acquisition of property</catchphrase>
+<catchphrase id="c5">acquisition of property on just terms</catchphrase>
+<catchphrase id="c6">s 51(xxxi)</catchphrase>
+<catchphrase id="c7">validity of inter-governmental agreements made pursuant to commonwealth statutes providing for grants of financial assistance to the states under s 96</catchphrase>
+<catchphrase id="c8">whether the inter-governmental agreements effect or authorise the acquisition of property</catchphrase>
+<catchphrase id="c9">whether the inter-governmental agreements are ultra vires the power to enter into them conferred on the commonwealth by the commonwealth statutes</catchphrase>
+<catchphrase id="c10">whether the inter-governmental agreements are laws with respect to the acquisition of property</catchphrase>
+<catchphrase id="c11">summary judgment</catchphrase>
+<catchphrase id="c12">s 31a of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c13">whether reasonable prospect of successfully prosecuting the proceeding</catchphrase>
+<catchphrase id="c14">whether reasonable prospect of successfully obtaining the relief sought</catchphrase>
+<catchphrase id="c15">application for interim relief</catchphrase>
+<catchphrase id="c16">injunction and damages</catchphrase>
+<catchphrase id="c17">whether serious question to be tried</catchphrase>
+<catchphrase id="c18">whether balance of convenience favours granting interim relief</catchphrase>
+<catchphrase id="c19">issue estoppel</catchphrase>
+<catchphrase id="c20">whether final or interlocutory judgment</catchphrase>
+<catchphrase id="c21">constitutional law</catchphrase>
+<catchphrase id="c22">constitutional law</catchphrase>
+<catchphrase id="c23">practice and procedure</catchphrase>
+<catchphrase id="c24">practice and procedure</catchphrase>
+<catchphrase id="c25">estoppel</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -47,9 +47,9 @@
 <sentence id="s9">He says that therefore they are both invalid in so far as they effect or authorise an acquisition of his property.</sentence>
 <sentence id="s10">4 In the proceeding Mr Spencer claims final relief as follows:
  
-&#8226; Declarations that the Financial Assistance Act and the Natural Heritage Act are invalid to the extent that they effected or authorised acquisitions of property from Mr Spencer other than on just terms.</sentence>
-<sentence id="s11">&#8226; Declarations that certain inter-governmental agreements ( the Inter-Governmental Agreements ) between the Commonwealth and New South Wales are invalid to the extent that they effected or authorised acquisitions of property from Mr Spencer other than on just terms.</sentence>
-<sentence id="s12">&#8226; An order that the Commonwealth return to Mr Spencer the private property said to have been acquired.</sentence>
+&amp;#8226; Declarations that the Financial Assistance Act and the Natural Heritage Act are invalid to the extent that they effected or authorised acquisitions of property from Mr Spencer other than on just terms.</sentence>
+<sentence id="s11">&amp;#8226; Declarations that certain inter-governmental agreements ( the Inter-Governmental Agreements ) between the Commonwealth and New South Wales are invalid to the extent that they effected or authorised acquisitions of property from Mr Spencer other than on just terms.</sentence>
+<sentence id="s12">&amp;#8226; An order that the Commonwealth return to Mr Spencer the private property said to have been acquired.</sentence>
 <sentence id="s13">Mr Spencer also claims damages for conversion of and trespass to his private property and damages arising from an alleged 'Constitutional tort' said to have been committed by the Commonwealth in taking Mr Spencer's private property.</sentence>
 <sentence id="s14">5 As I understand Mr Spencer's contentions, his claims are wholly dependent upon the proposition that the Natural Heritage Act and the Financial Assistance Act are invalid to some extent.</sentence>
 <sentence id="s15">Before dealing with Mr Spencer's contentions, it is desirable to outline the allegations made by Mr Spencer in the current version of his statement of claim.</sentence>
@@ -105,8 +105,8 @@
 7 As I have said, there are two applications before the Court.</sentence>
 <sentence id="s43">Mr Spencer asks for interlocutory orders that the Commonwealth be restrained from:
  
-&#8226; Taking steps to establish a carbon sequestration or carbon trading market that precludes access to Mr Spencer in respect of the Rights and Interests or that values the Rights and Interests in respect of the entry price at less than what are just terms.</sentence>
-<sentence id="s44">&#8226; Using the Rights and Interests in any way without compensation on just terms.</sentence>
+&amp;#8226; Taking steps to establish a carbon sequestration or carbon trading market that precludes access to Mr Spencer in respect of the Rights and Interests or that values the Rights and Interests in respect of the entry price at less than what are just terms.</sentence>
+<sentence id="s44">&amp;#8226; Using the Rights and Interests in any way without compensation on just terms.</sentence>
 <sentence id="s45">The Commonwealth, on the other hand, seeks summary dismissal of the proceeding under s 31A of the Federal Court of Australia Act 1976 (Cth) ( the Federal Court Act ), on the basis that Mr Spencer has no reasonable prospect of successfully prosecuting the proceeding.</sentence>
 <sentence id="s46">Both motions raise essentially the same legal question, namely, whether or not the Commonwealth Statutes are invalid to some extent, as being laws with respect to the acquisition of property without providing just terms.</sentence>
 <sentence id="s47">8 The Commonwealth's motion was filed on 26 July 2007.</sentence>
@@ -132,13 +132,13 @@
 <sentence id="s67">13 However, in the meantime, Mr Spencer moved ex parte on 12 March 2008 for interlocutory relief pursuant to a motion purportedly filed on 11 March 2008.</sentence>
 <sentence id="s68">Mr Spencer claimed an order restraining the Commonwealth from:
  
-&#8226; Using its national greenhouse office accounts, or national greenhouse inventory, or national carbon trading carbon accounts or otherwise from claiming any property or benefit of other measurable advantage by reference to carbon emissions reductions or benefits achieved on or from any land that includes Saarahnlee.</sentence>
-<sentence id="s69">&#8226; Marking any claim or statement that it has achieved emission reduction levels that includes references to carbon emissions reductions or benefits achieved on or from private land, including Saarahnlee.</sentence>
-<sentence id="s70">&#8226; Using or otherwise dealing with carbon emissions reductions and offsets for the purposes of the Kyoto Protocol on any land other than State owned land or by means other than land affected by the Governments forced land use change on private land, including Saarahnlee.</sentence>
-<sentence id="s71">&#8226; Using the rights of or in respect of any carbon emission scheme, carbon sink, carbon trading scheme or market, which in any way incorporates, applies or uses or has any impact whatsoever on the Carbon Rights or Mr Spencer's property in the Carbon Rights or the ownership, or use, or possession of Saarahnlee, including the Commonwealth's claimed share of the greenhouse gas emissions reductions in respect of Saarahnlee.</sentence>
-<sentence id="s72">&#8226; Trading in carbon until the property rights of Mr Spencer in the carbon sequestered on or in relation to Saarahnlee are determined or offsetting or using as security any of such carbon.</sentence>
-<sentence id="s73">&#8226; Submitting greenhouse accounts to the Framework Convention (as described below) claiming emission levels that include the Carbon Rights.</sentence>
-<sentence id="s74">&#8226; Making any media statement regarding any of the carbon sequestered on or in relation to Saarahnlee other than to announce the new levels of the 1990 baseline 30% above by 2010 after deducting the entire reductions achieved by land use change on private land.</sentence>
+&amp;#8226; Using its national greenhouse office accounts, or national greenhouse inventory, or national carbon trading carbon accounts or otherwise from claiming any property or benefit of other measurable advantage by reference to carbon emissions reductions or benefits achieved on or from any land that includes Saarahnlee.</sentence>
+<sentence id="s69">&amp;#8226; Marking any claim or statement that it has achieved emission reduction levels that includes references to carbon emissions reductions or benefits achieved on or from private land, including Saarahnlee.</sentence>
+<sentence id="s70">&amp;#8226; Using or otherwise dealing with carbon emissions reductions and offsets for the purposes of the Kyoto Protocol on any land other than State owned land or by means other than land affected by the Governments forced land use change on private land, including Saarahnlee.</sentence>
+<sentence id="s71">&amp;#8226; Using the rights of or in respect of any carbon emission scheme, carbon sink, carbon trading scheme or market, which in any way incorporates, applies or uses or has any impact whatsoever on the Carbon Rights or Mr Spencer's property in the Carbon Rights or the ownership, or use, or possession of Saarahnlee, including the Commonwealth's claimed share of the greenhouse gas emissions reductions in respect of Saarahnlee.</sentence>
+<sentence id="s72">&amp;#8226; Trading in carbon until the property rights of Mr Spencer in the carbon sequestered on or in relation to Saarahnlee are determined or offsetting or using as security any of such carbon.</sentence>
+<sentence id="s73">&amp;#8226; Submitting greenhouse accounts to the Framework Convention (as described below) claiming emission levels that include the Carbon Rights.</sentence>
+<sentence id="s74">&amp;#8226; Making any media statement regarding any of the carbon sequestered on or in relation to Saarahnlee other than to announce the new levels of the 1990 baseline 30% above by 2010 after deducting the entire reductions achieved by land use change on private land.</sentence>
 <sentence id="s75">Mr Spencer also claimed interim payments in respect of keeping his flock of sheep alive.</sentence>
 <sentence id="s76">14 I indicated to counsel for Mr Spencer, in the course of hearing the application for ex parte relief, that I considered that the relief claimed in the motion may be misconceived.</sentence>
 <sentence id="s77">However, I gave Mr Spencer leave to file his motion returnable, for directions only, on 2 April 2008.</sentence>
@@ -175,10 +175,10 @@
 <sentence id="s106">The allegation of invalidity is tied to the prayers for relief summarised in paragraph [4] above.</sentence>
 <sentence id="s107">21 However, before dealing with the question of Mr Spencer's prospects of success, it is necessary to explain the following in some detail, in order to place Mr Spencer's arguments in context:
  
-&#8226; The Kyoto Protocol.</sentence>
-<sentence id="s108">&#8226; The Commonwealth Statutes.</sentence>
-<sentence id="s109">&#8226; The Inter-Governmental Agreements.</sentence>
-<sentence id="s110">&#8226; The State Statutes.</sentence>
+&amp;#8226; The Kyoto Protocol.</sentence>
+<sentence id="s108">&amp;#8226; The Commonwealth Statutes.</sentence>
+<sentence id="s109">&amp;#8226; The Inter-Governmental Agreements.</sentence>
+<sentence id="s110">&amp;#8226; The State Statutes.</sentence>
 <sentence id="s111">I shall say something about each in turn.</sentence>
 <sentence id="s112">THE KYOTO PROTOCOL 
  
@@ -189,15 +189,15 @@
 <sentence id="s116">Article 2 provides that the ultimate object of the Framework Convention, and any related legal instruments that the Conference of the Parties may adopt, is to achieve stabilisation of greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system.</sentence>
 <sentence id="s117">24 By Article 4 of the Framework Convention, the parties relevantly agreed to:
  
-&#8226; Develop and publish national inventories of anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol.</sentence>
-<sentence id="s118">&#8226; Formulate, implement and update programs containing measures to mitigate climate change by addressing anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol.</sentence>
-<sentence id="s119">&#8226; Promote and cooperate in the development, application and diffusion of technologies, practices and processes that control, reduce or prevent anthropogenic emissions of greenhouse gases not controlled by the Montreal Protocol.</sentence>
-<sentence id="s120">&#8226; Promote sustainable management and promote and cooperate in the conservation and enhancement of sinks and reservoirs of all greenhouse gases not controlled by the Montreal Protocol.</sentence>
-<sentence id="s121">&#8226; Take climate change considerations into account in relevant social, economic and environmental policies and actions and employ appropriate methods with a view to minimising adverse effects on the economy, on public health and on the quality of the environment of projects or measures undertaken by them to mitigate or adapt to climate change.</sentence>
+&amp;#8226; Develop and publish national inventories of anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol.</sentence>
+<sentence id="s118">&amp;#8226; Formulate, implement and update programs containing measures to mitigate climate change by addressing anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol.</sentence>
+<sentence id="s119">&amp;#8226; Promote and cooperate in the development, application and diffusion of technologies, practices and processes that control, reduce or prevent anthropogenic emissions of greenhouse gases not controlled by the Montreal Protocol.</sentence>
+<sentence id="s120">&amp;#8226; Promote sustainable management and promote and cooperate in the conservation and enhancement of sinks and reservoirs of all greenhouse gases not controlled by the Montreal Protocol.</sentence>
+<sentence id="s121">&amp;#8226; Take climate change considerations into account in relevant social, economic and environmental policies and actions and employ appropriate methods with a view to minimising adverse effects on the economy, on public health and on the quality of the environment of projects or measures undertaken by them to mitigate or adapt to climate change.</sentence>
 <sentence id="s122">25 By Article 4.2, the developed country parties, including Australia, committed themselves specifically as follows:
  
-&#8226; To adopt national policies and take corresponding measures on the mitigation of climate change by limiting anthropogenic emissions of greenhouse gases and protecting and enhancing greenhouse gas sinks and reservoirs.</sentence>
-<sentence id="s123">&#8226; To communicate periodically, in accordance with Article 12, detailed information on its policies and measures on the mitigation of climate change.</sentence>
+&amp;#8226; To adopt national policies and take corresponding measures on the mitigation of climate change by limiting anthropogenic emissions of greenhouse gases and protecting and enhancing greenhouse gas sinks and reservoirs.</sentence>
+<sentence id="s123">&amp;#8226; To communicate periodically, in accordance with Article 12, detailed information on its policies and measures on the mitigation of climate change.</sentence>
 <sentence id="s124">26 By Article 12.1 of the Framework Convention, each party agreed to communicate to the Conference of the Parties a national inventory of anthropogenic emissions by sources and removals by sinks of all greenhouse gases not controlled by the Montreal Protocol.</sentence>
 <sentence id="s125">By Article 12.2, each developed country party, including Australia, was to incorporate, in its communication, a detailed description of the policies and measures that it had adopted to implement its commitment under Article 4 and a specific estimate of the effects that those policies and measures would have on anthropogenic emissions by its sources and removals by its sinks of greenhouse gases.</sentence>
 <sentence id="s126">27 By Article 7 of the Framework Convention, a Conference of the Parties was established.</sentence>
@@ -213,8 +213,8 @@
 <sentence id="s136">The Conference of the Parties is to perform the functions assigned to it by the Kyoto Protocol.</sentence>
 <sentence id="s137">In particular, it is:
  
-&#8226; To promote and guide, in accordance with the objective of the Framework Convention and the provisions of the Kyoto Protocol, the development and periodic refinement of comparable methodologies for the effective implementation of the Kyoto Protocol (Article 13.4(e)).</sentence>
-<sentence id="s138">&#8226; Make recommendations on matters necessary for the implementation of the Kyoto Protocol (Article 13.4(f).</sentence>
+&amp;#8226; To promote and guide, in accordance with the objective of the Framework Convention and the provisions of the Kyoto Protocol, the development and periodic refinement of comparable methodologies for the effective implementation of the Kyoto Protocol (Article 13.4(e)).</sentence>
+<sentence id="s138">&amp;#8226; Make recommendations on matters necessary for the implementation of the Kyoto Protocol (Article 13.4(f).</sentence>
 <sentence id="s139">32 By Article 17, the Conference of the Parties is to define the relevant principles, modalities, rules and guidelines, in particular for verification, reporting and accountability for emissions trading.</sentence>
 <sentence id="s140">Article 17 also provides that certain of the parties, including Australia, may participate in emissions trading for the purposes of fulfilling their commitments under Article 3.</sentence>
 <sentence id="s141">Any such trading is to be supplemental to domestic actions for the purpose of meeting quantified emission limitation and reduction commitments under Article 3.</sentence>
@@ -222,10 +222,10 @@
 <sentence id="s143">In the same decision, the Conference of the Parties adopted the definitions, modalities, rules and guidelines relating to land use, land use change and forestry activities under, inter alia , Article 3 of the Kyoto Protocol, contained in an annex to Decision 16/CMP.1.</sentence>
 <sentence id="s144">34 That annex provided, inter alia, the following definitions:
  
-&#8226; "Afforestation" is the direct human-induced conversion of land that has not been forested for a period of at least 50 years to forested land through planting, seeding and/or the human induced promotion of natural seed sources.</sentence>
-<sentence id="s145">&#8226; "Reforestation" is the direct human-induced conversion of non-forested land to forested land through planting, seeding and/or the human-induced promotion of natural seed sources, on land that was forested but that has been converted to non-forested land.</sentence>
+&amp;#8226; "Afforestation" is the direct human-induced conversion of land that has not been forested for a period of at least 50 years to forested land through planting, seeding and/or the human induced promotion of natural seed sources.</sentence>
+<sentence id="s145">&amp;#8226; "Reforestation" is the direct human-induced conversion of non-forested land to forested land through planting, seeding and/or the human-induced promotion of natural seed sources, on land that was forested but that has been converted to non-forested land.</sentence>
 <sentence id="s146">For the first commitment period, reforestation activities will be limited to reforestation occurring on those lands that did not contain forest on 31 December 1989.</sentence>
-<sentence id="s147">&#8226; "Deforestation" is the direct human-induced conversion of forested land to non-forested land.</sentence>
+<sentence id="s147">&amp;#8226; "Deforestation" is the direct human-induced conversion of forested land to non-forested land.</sentence>
 <sentence id="s148">THE COMMONWEALTH STATUTES 
  
 35 I shall outline the relevant provisions of the two Commonwealth Statutes separately.</sentence>
@@ -234,9 +234,9 @@
 36 Section 3 of the Financial Assistance Act provides that its primary object is to facilitate the development and implementation of integrated approaches to natural resources management in Australia that are for the purpose of achieving efficient, sustainable and equitable management of natural resources in Australia and that are consistent with the principles of ecologically sustainable development.</sentence>
 <sentence id="s150">37 Section 5(1) provides that the Commonwealth may enter into an agreement with a State on financial assistance, whether by way of grant or otherwise, to be provided by the Commonwealth to the State, for amounts spent by the State in respect of:
  
-&#8226; projects approved by Ministers of the Commonwealth and the State acting jointly; or
+&amp;#8226; projects approved by Ministers of the Commonwealth and the State acting jointly; or
  
-&#8226; projects specified in the agreement.</sentence>
+&amp;#8226; projects specified in the agreement.</sentence>
 <sentence id="s151">Any such agreement must be in writing and, subject to ss 8, 9 and 10, financial assistance is payable to a State in accordance with such an agreement.</sentence>
 <sentence id="s152">Section 5(6) provides that payments under s 5 must be paid out of money appropriated by the Commonwealth Parliament for that purpose.</sentence>
 <sentence id="s153">38 Section 6 of the Financial Assistance Act provides that the Commonwealth may enter into an agreement with a person for the person to carry out a project relating to natural resources management.</sentence>
@@ -247,17 +247,17 @@
 <sentence id="s158">For the purposes of this proceeding, the distinction is immaterial and, for the sake of convenience, I shall refer to the funds and account as the Natural Resources Management Account in all guises.</sentence>
 <sentence id="s159">39 Section 7 of the Financial Assistance Act provides that an agreement entered into pursuant to s 5 or s 6 must include provisions relating to the following matters:
  
-&#8226; The object of the project or projects to which the agreement relates.</sentence>
-<sentence id="s160">&#8226; The conditions subject to which payments under the agreement are to be made.</sentence>
-<sentence id="s161">&#8226; The monitoring and evaluation of the project or projects.</sentence>
-<sentence id="s162">&#8226; The review of the operation of the agreement.</sentence>
-<sentence id="s163">&#8226; The amendment of the agreement by a further agreement as a result of such a review.</sentence>
+&amp;#8226; The object of the project or projects to which the agreement relates.</sentence>
+<sentence id="s160">&amp;#8226; The conditions subject to which payments under the agreement are to be made.</sentence>
+<sentence id="s161">&amp;#8226; The monitoring and evaluation of the project or projects.</sentence>
+<sentence id="s162">&amp;#8226; The review of the operation of the agreement.</sentence>
+<sentence id="s163">&amp;#8226; The amendment of the agreement by a further agreement as a result of such a review.</sentence>
 <sentence id="s164">It is relevant to note that there is no requirement for an agreement to provide for the acquisition of any property or the imposition of restrictions on land use or the clearing of native vegetation.</sentence>
 <sentence id="s165">It is equally relevant to note that there is no express provision preventing an agreement from providing for the acquisition of property other than on just terms.</sentence>
 <sentence id="s166">40 Section 10 of the Financial Assistance Act provides that an agreement made under ss 5 or 6 may provide for:
  
-&#8226; The payment by the payee to the Commonwealth of an amount equal to the whole or part of income derived by the payee from property acquired or produced in the course of carrying out a project or patents for inventions made in the course of carrying out a project.</sentence>
-<sentence id="s167">&#8226; The assignment by the payee to the Commonwealth of any such property or patents or any interest that the payee may have in any such invention.</sentence>
+&amp;#8226; The payment by the payee to the Commonwealth of an amount equal to the whole or part of income derived by the payee from property acquired or produced in the course of carrying out a project or patents for inventions made in the course of carrying out a project.</sentence>
+<sentence id="s167">&amp;#8226; The assignment by the payee to the Commonwealth of any such property or patents or any interest that the payee may have in any such invention.</sentence>
 <sentence id="s168">Again, it is significant that none of the provisions referred to contains a requirement for the acquisition of any property or the imposition of a restriction on land use or the clearing of native vegetation, nor is there an express provision preventing an agreement from providing for the acquisition of property on unjust terms.</sentence>
 <sentence id="s169">41 Section 8(2) of the Financial Assistance Act provides that, in addition to any conditions provided for in an agreement made under ss 5 or 6, a payment by the Commonwealth under such an agreement is subject to specified conditions.</sentence>
 <sentence id="s170">Under s 9, such an agreement is, except so far as otherwise provided for in the agreement, subject to certain further conditions.</sentence>
@@ -266,9 +266,9 @@
 <sentence id="s173">Sections 11(3) and 11(4) provide for the crediting of certain amounts to the Natural Resources Management Account.</sentence>
 <sentence id="s174">Section 11(5) provides for the debiting of amounts for the following purposes:
  
-&#8226; Making payments, including advances, in accordance with an agreement under s 6 of the Soil Conservation (Financial Assistance) Act 1985 (Cth) or an agreement made under s 6 of the Financial Assistance Act.</sentence>
-<sentence id="s175">&#8226; Making payments in respect of the expenses incurred by the Australian Land Care Council established by s 13.</sentence>
-<sentence id="s176">&#8226; Making payments in respect of other costs of administration of the Financial Assistance Act.</sentence>
+&amp;#8226; Making payments, including advances, in accordance with an agreement under s 6 of the Soil Conservation (Financial Assistance) Act 1985 (Cth) or an agreement made under s 6 of the Financial Assistance Act.</sentence>
+<sentence id="s175">&amp;#8226; Making payments in respect of the expenses incurred by the Australian Land Care Council established by s 13.</sentence>
+<sentence id="s176">&amp;#8226; Making payments in respect of other costs of administration of the Financial Assistance Act.</sentence>
 <sentence id="s177">The Natural Heritage Act 
  
 43 The Natural Heritage Act provides for the Natural Heritage Trust of Australia Account, a Natural Heritage Trust Advisory Committee and a Natural Heritage Ministerial Board.</sentence>
@@ -281,55 +281,55 @@
 <sentence id="s184">Amounts standing to the credit of the Natural Heritage Trust Account are to be spent on the environment, sustainable agriculture and natural resources management.</sentence>
 <sentence id="s185">45 The Natural Heritage Act contains a preamble, which relevantly provides to the following effect:
  
-&#8226; There is a need to conserve Australia's environmental infrastructure, to reverse the decline in Australia's natural environment and to improve the management of Australia's natural resources.</sentence>
-<sentence id="s186">&#8226; There is a need for the Commonwealth to provide national leadership and work in partnership with all levels of government and the whole community, recognising, among other things, that many environmental issues and problems are not limited by State and Territory borders.</sentence>
-<sentence id="s187">&#8226; There is a need to integrate the objectives of environmental protection, sustainable agriculture and natural resources management consistent [sic] with the principles of ecologically sustainable development.</sentence>
-<sentence id="s188">&#8226; The Commonwealth Government should work cooperatively with State governments to achieve effective outcomes in matters relating to environmental protection, natural resources management and sustainable agriculture.</sentence>
+&amp;#8226; There is a need to conserve Australia's environmental infrastructure, to reverse the decline in Australia's natural environment and to improve the management of Australia's natural resources.</sentence>
+<sentence id="s186">&amp;#8226; There is a need for the Commonwealth to provide national leadership and work in partnership with all levels of government and the whole community, recognising, among other things, that many environmental issues and problems are not limited by State and Territory borders.</sentence>
+<sentence id="s187">&amp;#8226; There is a need to integrate the objectives of environmental protection, sustainable agriculture and natural resources management consistent [sic] with the principles of ecologically sustainable development.</sentence>
+<sentence id="s188">&amp;#8226; The Commonwealth Government should work cooperatively with State governments to achieve effective outcomes in matters relating to environmental protection, natural resources management and sustainable agriculture.</sentence>
 <sentence id="s189">Those cooperative working relationships should involve entering into inter-governmental agreements which reflect the support of the States for the purposes of the Natural Heritage Account and promote the development of complementary policies and programs.</sentence>
-<sentence id="s190">&#8226; Australia's rural community should have a key role in the ecologically sustainable management of Australia's natural resources.</sentence>
+<sentence id="s190">&amp;#8226; Australia's rural community should have a key role in the ecologically sustainable management of Australia's natural resources.</sentence>
 <sentence id="s191">46 Under s 8 of the Natural Heritage Act, the purposes of the Natural Heritage Account relevantly include the following:
  
-&#8226; the National Vegetation Initiative ,
+&amp;#8226; the National Vegetation Initiative ,
  
-&#8226; environmental protection,
+&amp;#8226; environmental protection,
  
-&#8226; supporting sustainable agriculture,
+&amp;#8226; supporting sustainable agriculture,
  
-&#8226; natural resources management,
+&amp;#8226; natural resources management,
  
-&#8226; a purpose incidental or ancillary to those purposes,
+&amp;#8226; a purpose incidental or ancillary to those purposes,
  
-&#8226; the making of grants of financial assistance for any of those purposes.</sentence>
+&amp;#8226; the making of grants of financial assistance for any of those purposes.</sentence>
 <sentence id="s192">47 Section 9(1) of the Natural Heritage Act provides that amounts standing to the credit of the Natural Heritage Account, which represent proceeds of the sales of shares in Telstra, may only be debited for specified purposes, relevantly including:
  
-&#8226; the National Vegetation Initiative ;
+&amp;#8226; the National Vegetation Initiative ;
  
-&#8226; supporting sustainable agriculture;
+&amp;#8226; supporting sustainable agriculture;
  
-&#8226; natural resources management;
+&amp;#8226; natural resources management;
  
-&#8226; a purpose incidental or ancillary to any of those purposes;
+&amp;#8226; a purpose incidental or ancillary to any of those purposes;
  
-&#8226; the making of grants of financial assistance for any of those purposes.</sentence>
+&amp;#8226; the making of grants of financial assistance for any of those purposes.</sentence>
 <sentence id="s193">Section 10 provides that the primary objective of the National Vegetation Initiative is to reverse the long term decline in the extent and quality of Australia's native vegetation cover by conserving remnant native vegetation, conserving Australia's biodiversity, and restoring, by means of revegetation, the environmental values and productive capacity of Australia's degraded land and water.</sentence>
 <sentence id="s194">48 Section 19 is a critical provision of the Natural Heritage Act for present purposes.</sentence>
 <sentence id="s195">Section 19 applies if an amount is to be debited from the Natural Heritage Account for the purpose of making a grant of financial assistance to a State.</sentence>
 <sentence id="s196">Under s 19(2), the terms and conditions on which such financial assistance is granted are to be set out in a written agreement between the Commonwealth and the State.</sentence>
 <sentence id="s197">Section 19(4), which does not limit s 19(2), provides that an agreement may establish a framework under which the Commonwealth and the State are to work cooperatively to achieve both common and complementary outcomes in relation to:
  
-&#8226; environmental protection;
+&amp;#8226; environmental protection;
  
-&#8226; natural resources management; and
+&amp;#8226; natural resources management; and
  
-&#8226; sustainable agriculture.</sentence>
+&amp;#8226; sustainable agriculture.</sentence>
 <sentence id="s198">49 The terms "environmental protection", "natural resources management" and "sustainable agriculture" are defined by ss 15, 17 and 16 respectively.</sentence>
 <sentence id="s199">The precise terms of those definitions do not appear to be presently relevant.</sentence>
 <sentence id="s200">50 Section 21 applies to a decision of a Minister to approve a proposal to spend an amount standing to the credit of the Natural Heritage Account for a purpose of the Natural Heritage Account as set out in s 8.</sentence>
 <sentence id="s201">In making such a decision, the Minister concerned must have regard to:
  
-&#8226; the principles of ecologically sustainable development; and
+&amp;#8226; the principles of ecologically sustainable development; and
  
-&#8226; such other matters as the Minister concerned considers relevant.</sentence>
+&amp;#8226; such other matters as the Minister concerned considers relevant.</sentence>
 <sentence id="s202">Under s 21(3), the principles of ecologically sustainable development consist of certain stated core objectives and some seven guiding principles.</sentence>
 <sentence id="s203">51 Part 4 of the Natural Heritage Act deals with the crediting of amounts to the Natural Heritage Account.</sentence>
 <sentence id="s204">Part 4 consists of ss 22 to 29, which deal with credits from the following sources:
@@ -348,10 +348,10 @@ s 22: $1.1 billion derived from the initial partial sale of Telstra.</sentence>
  
 53 Mr Spencer's statement of claim refers to four Inter-Governmental Agreements, between the Commonwealth and New South Wales as follows:
  
-&#8226; A bilateral Agreement between the Commonwealth and the State of New South Wales to deliver the Natural Heritage Trust, made on 31 October 1997 ( the 1997 Agreement ).</sentence>
-<sentence id="s215">&#8226; The Inter-Governmental Agreement on a National Action Plan for Salinity and Water Quality in Australia ( the Salinity Action Plan ), made on 3 November 2000 ( the 2000 Agreement ).</sentence>
-<sentence id="s216">&#8226; A bilateral Agreement between the Commonwealth of Australia and the State of New South Wales Relating to the Salinity Action Plan, made on 17 May 2002 ( the 2002 Agreement ).</sentence>
-<sentence id="s217">&#8226; A bilateral Agreement between the Commonwealth of Australia and the State of New South Wales to deliver the extension of the Natural Heritage Trust, made on 14 August 2003 ( the 2003 Agreement ).</sentence>
+&amp;#8226; A bilateral Agreement between the Commonwealth and the State of New South Wales to deliver the Natural Heritage Trust, made on 31 October 1997 ( the 1997 Agreement ).</sentence>
+<sentence id="s215">&amp;#8226; The Inter-Governmental Agreement on a National Action Plan for Salinity and Water Quality in Australia ( the Salinity Action Plan ), made on 3 November 2000 ( the 2000 Agreement ).</sentence>
+<sentence id="s216">&amp;#8226; A bilateral Agreement between the Commonwealth of Australia and the State of New South Wales Relating to the Salinity Action Plan, made on 17 May 2002 ( the 2002 Agreement ).</sentence>
+<sentence id="s217">&amp;#8226; A bilateral Agreement between the Commonwealth of Australia and the State of New South Wales to deliver the extension of the Natural Heritage Trust, made on 14 August 2003 ( the 2003 Agreement ).</sentence>
 <sentence id="s218">54 I shall say something about each of them in turn.</sentence>
 <sentence id="s219">The 1997 Agreement 
  
@@ -361,9 +361,9 @@ s 22: $1.1 billion derived from the initial partial sale of Telstra.</sentence>
 <sentence id="s221">This agreement sets out the roles and responsibilities of the Commonwealth and New South Wales for the delivery of the objectives of the Natural Heritage Trust and any associated programs.</sentence>
 <sentence id="s222">The preamble to the 1997 Agreement relevantly provides that the Commonwealth and New South Wales:
  
-&#8226; Recognise the need for urgent action to enhance and improve the condition and management of Australia's natural heritage.</sentence>
-<sentence id="s223">&#8226; Recognise that the Natural Heritage Trust provides a basis for further cooperative and integrated approaches to dealing with Australia's environmental problems.</sentence>
-<sentence id="s224">&#8226; Note that the Commonwealth's objectives for the Natural Heritage Trust are to:
+&amp;#8226; Recognise the need for urgent action to enhance and improve the condition and management of Australia's natural heritage.</sentence>
+<sentence id="s223">&amp;#8226; Recognise that the Natural Heritage Trust provides a basis for further cooperative and integrated approaches to dealing with Australia's environmental problems.</sentence>
+<sentence id="s224">&amp;#8226; Note that the Commonwealth's objectives for the Natural Heritage Trust are to:
  
  
  (i) provide a framework for strategic capital investment, to stimulate additional investment in the natural environment;
@@ -372,15 +372,15 @@ s 22: $1.1 billion derived from the initial partial sale of Telstra.</sentence>
 <sentence id="s225">
  
 
-&#8226; Agree that the 1997 Agreement establishes a framework within which the parties will work cooperatively towards common and complementary environmental protection, sustainable agriculture and natural resources management outcomes, acknowledging that these outcomes can best be achieved through strategic planning, streamlined administration and integrated implementation.</sentence>
-<sentence id="s226">&#8226; Recognise the appropriate and different roles of the Commonwealth and the States.</sentence>
+&amp;#8226; Agree that the 1997 Agreement establishes a framework within which the parties will work cooperatively towards common and complementary environmental protection, sustainable agriculture and natural resources management outcomes, acknowledging that these outcomes can best be achieved through strategic planning, streamlined administration and integrated implementation.</sentence>
+<sentence id="s226">&amp;#8226; Recognise the appropriate and different roles of the Commonwealth and the States.</sentence>
 <sentence id="s227">56 By clause 3 of the 1997 Agreement, the parties agree to give effect to a number of principles, which underpin the implementation of the Natural Heritage Trust programs and other Commonwealth or State programs agreed by the parties to be covered by the 1997 Agreement.</sentence>
 <sentence id="s228">The principles include the following:
  
-&#8226; Priority will be given to activities that are derived from strategies to address the fundamental causes of Australia's environmental and natural resources problems.</sentence>
-<sentence id="s229">&#8226; The involvement of local communities and regional organisations in relation to Natural Heritage Trust programs should be through State agencies and should be simple, readily understood and based on the "one-stop-shop" concept, that is, a single application form incorporating relevant Commonwealth and State programs, a single assessment process, single payments, and a single evaluation process.</sentence>
-<sentence id="s230">&#8226; The parties agree that their cooperation will be focussed on achieving outcomes at the program level.</sentence>
-<sentence id="s231">&#8226; Implementation of the 1997 Agreement will occur within the strategic framework of:
+&amp;#8226; Priority will be given to activities that are derived from strategies to address the fundamental causes of Australia's environmental and natural resources problems.</sentence>
+<sentence id="s229">&amp;#8226; The involvement of local communities and regional organisations in relation to Natural Heritage Trust programs should be through State agencies and should be simple, readily understood and based on the "one-stop-shop" concept, that is, a single application form incorporating relevant Commonwealth and State programs, a single assessment process, single payments, and a single evaluation process.</sentence>
+<sentence id="s230">&amp;#8226; The parties agree that their cooperation will be focussed on achieving outcomes at the program level.</sentence>
+<sentence id="s231">&amp;#8226; Implementation of the 1997 Agreement will occur within the strategic framework of:
  
  
  - the Inter-Governmental Agreement on the Environment,
@@ -415,45 +415,45 @@ s 22: $1.1 billion derived from the initial partial sale of Telstra.</sentence>
 <sentence id="s247">61 Attachment A consists of a description of Commonwealth programs and delivery arrangements.</sentence>
 <sentence id="s248">The programs are as follows:
  
-&#8226; Bushcare: The National Vegetation Initiative .</sentence>
-<sentence id="s249">&#8226; National Rivercare Program;
+&amp;#8226; Bushcare: The National Vegetation Initiative .</sentence>
+<sentence id="s249">&amp;#8226; National Rivercare Program;
  
-&#8226; National Landcare Program;
+&amp;#8226; National Landcare Program;
  
-&#8226; Murray-Darling 2001;
+&amp;#8226; Murray-Darling 2001;
  
-&#8226; Farm Forestry Program;
+&amp;#8226; Farm Forestry Program;
  
-&#8226; Fisheries Action Program;
+&amp;#8226; Fisheries Action Program;
  
-&#8226; National Wetlands Program;
+&amp;#8226; National Wetlands Program;
  
-&#8226; Endangered Species Program;
+&amp;#8226; Endangered Species Program;
  
-&#8226; National Reserve System Program;
+&amp;#8226; National Reserve System Program;
  
-&#8226; National Feral Animal Control Program;
+&amp;#8226; National Feral Animal Control Program;
  
-&#8226; National Weeds Program.</sentence>
+&amp;#8226; National Weeds Program.</sentence>
 <sentence id="s250">Mr Spencer draws attention particularly to the Bushcare: The National Vegetation Initiative and the National Land Care Program.</sentence>
 <sentence id="s251">62 The national objectives of the Bushcare : The National Vegetation Initiative are stated as being to:
  
-&#8226; conserve remnant native vegetation;
+&amp;#8226; conserve remnant native vegetation;
  
-&#8226; conserve Australia's biological diversity; and
+&amp;#8226; conserve Australia's biological diversity; and
  
-&#8226; restore, by means of revegetation, the environmental values and productive capacity of Australia's degraded land and water.</sentence>
+&amp;#8226; restore, by means of revegetation, the environmental values and productive capacity of Australia's degraded land and water.</sentence>
 <sentence id="s252">The national objectives of the National Landcare Program are said to be to:
  
-&#8226; assist and enhancing the long term productivity of natural resources in Australia;
+&amp;#8226; assist and enhancing the long term productivity of natural resources in Australia;
  
-&#8226; promote community, industry and governmental partnership in the management of natural resources in Australia;
+&amp;#8226; promote community, industry and governmental partnership in the management of natural resources in Australia;
  
-&#8226; assist in establishing institutional arrangements to develop and implement policies, programs and practices that will encourage sustainable use of natural resources in Australia;
+&amp;#8226; assist in establishing institutional arrangements to develop and implement policies, programs and practices that will encourage sustainable use of natural resources in Australia;
  
-&#8226; assist in developing approaches to help to resolve conflicts over access to natural resources in Australia; and
+&amp;#8226; assist in developing approaches to help to resolve conflicts over access to natural resources in Australia; and
  
-&#8226; assist in raising the natural resource and business management skills of landholders.</sentence>
+&amp;#8226; assist in raising the natural resource and business management skills of landholders.</sentence>
 <sentence id="s253">63 Clause 4.1-3 of the Bushcare: The National Vegetation Initiative section of Attachment A provides as follows:
  [4.1] New South Wales will adopt a state-wide "whole of government" approach to the conservation and sustainable management of native vegetation in the social, economic and environmental interests of the State.</sentence>
 <sentence id="s254">There will be a shift from the current situation where there are a range of different existing permit and licensing procedures, to a situation whereby clearing is allowed without a permit if it conforms to a Regional Vegetation Management Plan which has been prepared by stakeholders and approved by the Government.</sentence>
@@ -520,11 +520,11 @@ s 22: $1.1 billion derived from the initial partial sale of Telstra.</sentence>
 <sentence id="s292">One of the three principal pieces of legislation is the 1997 Vegetation Act, the other two being the Catchment Management Act 1989 (NSW) and the Water Management Act 2000 (NSW).</sentence>
 <sentence id="s293">Schedule 2 stated that the provisions of those principal pieces of legislation relate to:
  
-&#8226; natural resource management planning by means of government and community partnerships and based on best available information;
+&amp;#8226; natural resource management planning by means of government and community partnerships and based on best available information;
  
-&#8226; control over certain activities such as vegetation clearance and the use of water resources; and
+&amp;#8226; control over certain activities such as vegetation clearance and the use of water resources; and
  
-&#8226; incentives for certain activities such as salinity, vegetation and water management.</sentence>
+&amp;#8226; incentives for certain activities such as salinity, vegetation and water management.</sentence>
 <sentence id="s294">76 Clause 5.1 of the 2002 Agreement provides as follows:
  Subject to this Agreement and appropriation by the Commonwealth and New South Wales Parliaments of funds, each Party will allocate $198 million over the life to this Agreement for the implementation of the [Salinity Action Plan] in New South Wales, unless terminated earlier in accordance with Clause 20.</sentence>
 <sentence id="s295">Clause 21.1 states as follows:
@@ -534,18 +534,18 @@ s 22: $1.1 billion derived from the initial partial sale of Telstra.</sentence>
 77 On 14 August 2003, the Commonwealth and New South Wales entered into the 2003 Agreement "to deliver the extension of the Natural Heritage Trust".</sentence>
 <sentence id="s297">The preamble to the 2003 Agreement provides that the Commonwealth and New South Wales wish to reflect their intent to work as joint investment partners, with the community and other stakeholders, in natural resource management activities and that, in particular, the Commonwealth and New South Wales jointly seek to fulfil three overarching objectives of the Natural Heritage Trust as follows:
  
-&#8226; Biodiversity conservation;
+&amp;#8226; Biodiversity conservation;
  
-&#8226; Sustainable use of natural resources; and
+&amp;#8226; Sustainable use of natural resources; and
  
-&#8226; Community capacity building and institutional change.</sentence>
+&amp;#8226; Community capacity building and institutional change.</sentence>
 <sentence id="s298">78 The preamble recited that Natural Heritage Trust investment would occur at three levels, namely:
  
-&#8226; National/State,
+&amp;#8226; National/State,
  
-&#8226; Regional, and
+&amp;#8226; Regional, and
  
-&#8226; Local.</sentence>
+&amp;#8226; Local.</sentence>
 <sentence id="s299">Clause C of the preamble recites that the role of the parties in implementing the 2003 Agreement is to ensure that the Natural Heritage Trust investment is strategic, high priority and consistent with regional, State-wide and national priorities.</sentence>
 <sentence id="s300">79 The preamble also recites that the Natural Heritage Trust consists of four programs, Landcare, Bushcare, Rivercare and Coastcare.</sentence>
 <sentence id="s301">Those programs are set out in more detail in Attachment 1 to the 2003 Agreement.</sentence>
@@ -558,11 +558,11 @@ s 22: $1.1 billion derived from the initial partial sale of Telstra.</sentence>
 <sentence id="s308">82 Clauses 4.4 to 4.8 deal with "vegetation management and biodiversity conservation".</sentence>
 <sentence id="s309">By clause 4.6, New South Wales agrees to pursue measures:
  
-&#8226; to prevent clearance of ecological communities with an extent below 30% of that present pre-1750;
+&amp;#8226; to prevent clearance of ecological communities with an extent below 30% of that present pre-1750;
  
-&#8226; to assess native vegetation condition; and
+&amp;#8226; to assess native vegetation condition; and
  
-&#8226; to continue to reducing the national net rate of land clearance to zero.</sentence>
+&amp;#8226; to continue to reducing the national net rate of land clearance to zero.</sentence>
 <sentence id="s310">The parties agree to review progress of the implementation of measures arising from the above periodically, but by no later than June 2004.</sentence>
 <sentence id="s311">By clause 4.7, the parties recognise the need to accelerate the development of an integrated native vegetation system that will improve the ability of government agencies, catchment boards, land holders and the community to make informed vegetation management decisions.</sentence>
 <sentence id="s312">While those provisions may have some marginal relevance to the issues in the proceeding, no reference was made to them by Mr Spencer.</sentence>
@@ -578,19 +578,19 @@ s 22: $1.1 billion derived from the initial partial sale of Telstra.</sentence>
  
 85 Section 3 of the 1997 Vegetation Act provided that its objects were relevantly to:
  
-&#8226; provide for the conservation and management of native vegetation on a regional basis;
+&amp;#8226; provide for the conservation and management of native vegetation on a regional basis;
  
-&#8226; encourage and promote native vegetation management;
+&amp;#8226; encourage and promote native vegetation management;
  
-&#8226; protect native vegetation of high conservation value;
+&amp;#8226; protect native vegetation of high conservation value;
  
-&#8226; improve the condition of existing native vegetation;
+&amp;#8226; improve the condition of existing native vegetation;
  
-&#8226; encourage the revegetation and rehabilitation of land, with appropriate native vegetation;
+&amp;#8226; encourage the revegetation and rehabilitation of land, with appropriate native vegetation;
  
-&#8226; prevent the inappropriate clearing of vegetation;
+&amp;#8226; prevent the inappropriate clearing of vegetation;
  
-&#8226; promote the significance of native vegetation;
+&amp;#8226; promote the significance of native vegetation;
  
 in accordance with the principles of ecologically sustainable development.</sentence>
 <sentence id="s320">Section 6 defines native vegetation as meaning indigenous vegetation consisting of trees, understorey plants, groundcover and plants occurring in a wetland.</sentence>
@@ -624,19 +624,19 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s346">Section 22, which is in Division 3, provides that clearing for "routine agricultural management activities" is permitted.</sentence>
 <sentence id="s347">95 Under s 11, routine agricultural management activities means any of the following activities:
  
-&#8226; the construction, operation and maintenance of rural infrastructure;
+&amp;#8226; the construction, operation and maintenance of rural infrastructure;
  
-&#8226; the removal of noxious weeds;
+&amp;#8226; the removal of noxious weeds;
  
-&#8226; the control of noxious animals;
+&amp;#8226; the control of noxious animals;
  
-&#8226; the collection of fire wood, except for commercial purposes;
+&amp;#8226; the collection of fire wood, except for commercial purposes;
  
-&#8226; the harvesting or other clearing of native vegetation planted for commercial purposes;
+&amp;#8226; the harvesting or other clearing of native vegetation planted for commercial purposes;
  
-&#8226; the lopping of native vegetation for stock fodder;
+&amp;#8226; the lopping of native vegetation for stock fodder;
  
-&#8226; any activity reasonably considered necessary to remove or reduce an imminent risk of serious personal injury or damage to property.</sentence>
+&amp;#8226; any activity reasonably considered necessary to remove or reduce an imminent risk of serious personal injury or damage to property.</sentence>
 <sentence id="s348">Under s 11(2), regulations may make provision for or with respect to extending, limiting or varying the activities that are routine agricultural management activities.</sentence>
 <sentence id="s349">96 The Native Vegetation Regulation 2005 ( the 2005 Regulation ) deals with routine agricultural management activities.</sentence>
 <sentence id="s350">Regulation 16 provides that the activities that comprise routine agricultural management activities are extended to include the clearing of native vegetation on land for use in the construction or maintenance of rural infrastructure during limited periods.</sentence>
@@ -688,15 +688,15 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s392">Specifically, question 5 was said to involve a factual consideration as to whether the Commonwealth statutes formed part of a scheme or device to avoid or over-reach the restriction imposed on the Commonwealth by s 51(xxxi) of the Constitution , as alleged in paragraph (9.2) of Mr Spencer's statement of claim (see [6] above).</sentence>
 <sentence id="s393">105 Counsel for Mr Spencer contended that question 5, which appears to be critical, should be considered on the basis that:
  
-&#8226; there is an evidentiary basis for the assertion that the Commonwealth has received a benefit and that Mr Spencer has suffered a corresponding or relative detriment;
+&amp;#8226; there is an evidentiary basis for the assertion that the Commonwealth has received a benefit and that Mr Spencer has suffered a corresponding or relative detriment;
  
-&#8226; there has therefore been an acquisition of Mr Spencer's property;
+&amp;#8226; there has therefore been an acquisition of Mr Spencer's property;
  
-&#8226; the property of Mr Spencer that has been acquired is property within the meaning of s 51(xxxi) of the Constitution ;
+&amp;#8226; the property of Mr Spencer that has been acquired is property within the meaning of s 51(xxxi) of the Constitution ;
  
-&#8226; the property acquired has been acquired for a purpose for which the Commonwealth Parliament has power to make laws;
+&amp;#8226; the property acquired has been acquired for a purpose for which the Commonwealth Parliament has power to make laws;
  
-&#8226; that acquisition of property was otherwise than on just terms.</sentence>
+&amp;#8226; that acquisition of property was otherwise than on just terms.</sentence>
 <sentence id="s394">That is to say, it is contended that question 5 must be considered on the assumption that questions 1 to 4 are answered favourably to Mr Spencer.</sentence>
 <sentence id="s395">106 The Commonwealth, on the other hand, contended that there are four bases upon which Mr Spencer's proceeding should be dismissed summarily.</sentence>
 <sentence id="s396">The Commonwealth's contentions were as follows:
@@ -714,18 +714,18 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s406">The Commonwealth's contention 2 may be another way of saying that, even if there is some element of invalidity in the Commonwealth Statutes, neither of them authorises or effects any acquisition of any property of Mr Spencer's.</sentence>
 <sentence id="s407">108 The questions that appear to me to arise in both motions before the Court are as follows:
  
-&#8226; Whether there has been an acquisition of property of Mr Spencer's within s 51(xxxi) ;
+&amp;#8226; Whether there has been an acquisition of property of Mr Spencer's within s 51(xxxi) ;
  
-&#8226; Whether either of the Commonwealth Statutes is a law with respect to the acquisition of property within s 51(xxxi) of the Constitution ;
+&amp;#8226; Whether either of the Commonwealth Statutes is a law with respect to the acquisition of property within s 51(xxxi) of the Constitution ;
  
-&#8226; Whether either of the Commonwealth Statutes authorised or effected any acquisition of property of Mr Spencer's.</sentence>
+&amp;#8226; Whether either of the Commonwealth Statutes authorised or effected any acquisition of property of Mr Spencer's.</sentence>
 <sentence id="s408">109 I propose to address those questions, together with the following questions:
  
-&#8226; Standing/Matter;
+&amp;#8226; Standing/Matter;
  
-&#8226; Conversion by the Commonwealth;
+&amp;#8226; Conversion by the Commonwealth;
  
-&#8226; Res judicata /Issue Estoppel.</sentence>
+&amp;#8226; Res judicata /Issue Estoppel.</sentence>
 <sentence id="s409">However, before dealing with those questions, I will first say something about the relevant legal principles concerning ss 51(xxxi) and 96 of the Constitution .</sentence>
 <sentence id="s410">Some Legal Principles Concerning ss 51(xxxi) and 96 
  
@@ -757,13 +757,13 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s435">117 The Commonwealth may properly induce a State to exercise that State's powers by offering a money grant by way of financial assistance (see South Australia v The Commonwealth [1942] HCA 14 ; (1942) 65 CLR 373 at 417).</sentence>
 <sentence id="s436">The power conferred by s 96 to grant financial assistance to a State is validly exercised by the Commonwealth notwithstanding that:
  
-&#8226; the State is bound to apply the money specifically to an object that has been defined,
+&amp;#8226; the State is bound to apply the money specifically to an object that has been defined,
  
-&#8226; that object is outside the powers of the Commonwealth,
+&amp;#8226; that object is outside the powers of the Commonwealth,
  
-&#8226; the payments are left to the discretion of a Minister of the Commonwealth, and
+&amp;#8226; the payments are left to the discretion of a Minister of the Commonwealth, and
  
-&#8226; the money is provided as the Commonwealth's contribution to an object for which the State is also to contribute funds.</sentence>
+&amp;#8226; the money is provided as the Commonwealth's contribution to an object for which the State is also to contribute funds.</sentence>
 <sentence id="s437">Section 96 is satisfied if money is placed in the hands of a State notwithstanding that, in the exercise of the power to impose terms and conditions, the State is required to pay over the money to a class of persons in or connected with the State in order to fulfil some purpose of the Commonwealth that is outside its power to effect directly (see State of Victoria at 606-7).</sentence>
 <sentence id="s438">However, a State is not bound to accept a grant of financial assistance by the Commonwealth.</sentence>
 <sentence id="s439">118 A State can acquire land or other property, by resumption or otherwise, on any terms authorised by its Parliament, whether just or unjust.</sentence>
@@ -837,22 +837,22 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s499">All of the Rights and Interests, as described above, are incidents of being the holder of leasehold or freehold title in respect of Saarahnlee.</sentence>
 <sentence id="s500">Whether the loss of all of those Rights and Interests is sufficient to constitute something more than mere regulation and constitute a taking or acquisition is a question of fact and degree to be assessed after all of the evidence is in.</sentence>
 <sentence id="s501">136 The Carbon Sequestration Rights may be in a different category.</sentence>
-<sentence id="s502">Section 88AB of the Conveyancing Act 1919 (NSW) ( the Conveyancing Act ) provides that a forestry right is to be deemed, for all purposes, to be a profit &agrave; prendre.</sentence>
+<sentence id="s502">Section 88AB of the Conveyancing Act 1919 (NSW) ( the Conveyancing Act ) provides that a forestry right is to be deemed, for all purposes, to be a profit &amp;agrave; prendre.</sentence>
 <sentence id="s503">Under s 87A , a forestry right, in relation to land, includes:
  
-&#8226; an interest in the land pursuant to which a person having the benefit of the interest is entitled to enter the land and establish, maintain and harvest, or to maintain and harvest, a crop of trees on the land;
+&amp;#8226; an interest in the land pursuant to which a person having the benefit of the interest is entitled to enter the land and establish, maintain and harvest, or to maintain and harvest, a crop of trees on the land;
  
-&#8226; a carbon sequestration right in respect of the land;
+&amp;#8226; a carbon sequestration right in respect of the land;
  
-&#8226; a combination of such an interest and such a right.</sentence>
+&amp;#8226; a combination of such an interest and such a right.</sentence>
 <sentence id="s504">A carbon sequestration right in relation to land means a right to the legal, commercial or other benefit, whether present or future, of carbon sequestration by any existing or future tree or forest on the land after 1990.</sentence>
 <sentence id="s505">Carbon sequestration by a tree or forest means the process by which the tree or forest absorbs carbon dioxide from the atmosphere.</sentence>
-<sentence id="s506">137 Under s 88AB(2) of the Conveyancing Act , if a forestry right consists in whole or in part of a carbon sequestration right, the profit &agrave; prendre deemed to exist by the operation of s 88AB(1) in relation to the carbon sequestration rights consists of the following:
+<sentence id="s506">137 Under s 88AB(2) of the Conveyancing Act , if a forestry right consists in whole or in part of a carbon sequestration right, the profit &amp;agrave; prendre deemed to exist by the operation of s 88AB(1) in relation to the carbon sequestration rights consists of the following:
  
-&#8226; the profit from the land is taken to be the legal, commercial or other benefit, whether present or future, of carbon sequestration by any existing or future tree or forest on the land that is the subject of the carbon sequestration right;
+&amp;#8226; the profit from the land is taken to be the legal, commercial or other benefit, whether present or future, of carbon sequestration by any existing or future tree or forest on the land that is the subject of the carbon sequestration right;
  
-&#8226; the right to take something from the land is taken to be the right to the benefit conferred by the carbon sequestration right.</sentence>
-<sentence id="s507">138 The effect of those provisions of the Conveyancing Act is that Mr Spencer could grant a carbon sequestration right in respect of Saarahnlee as a profit &agrave; prendre.</sentence>
+&amp;#8226; the right to take something from the land is taken to be the right to the benefit conferred by the carbon sequestration right.</sentence>
+<sentence id="s507">138 The effect of those provisions of the Conveyancing Act is that Mr Spencer could grant a carbon sequestration right in respect of Saarahnlee as a profit &amp;agrave; prendre.</sentence>
 <sentence id="s508">He would be entitled to receive consideration for such a grant.</sentence>
 <sentence id="s509">The effect of such a grant would be for Mr Spencer to confer on the grantee the legal, commercial or other benefit of the process by which trees on Saarahnlee absorb carbon dioxide from the atmosphere.</sentence>
 <sentence id="s510">Such a right may well be valuable if a mechanism for trading in such rights were to be established.</sentence>
@@ -937,10 +937,10 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s585">The link between the Natural Heritage Act and the effect of the 1997 Vegetation Act and the 2003 Vegetation Act appears to be by way of the National Vegetation Initiative.</sentence>
 <sentence id="s586">The reasoning appears to be as follows:
  
-&#8226; There has been an acquisition of Mr Spencer's property by reason of the operation of the State Statutes.</sentence>
-<sentence id="s587">&#8226; That acquisition results in reduction of greenhouse gas emissions.</sentence>
-<sentence id="s588">&#8226; The reduction of greenhouse gas emissions is an object of the Natural Heritage Act, through the National Vegetation Initiative.</sentence>
-<sentence id="s589">&#8226; Therefore, the Natural Heritage Act is a law with respect to the acquisition that was effected by the State Statutes.</sentence>
+&amp;#8226; There has been an acquisition of Mr Spencer's property by reason of the operation of the State Statutes.</sentence>
+<sentence id="s587">&amp;#8226; That acquisition results in reduction of greenhouse gas emissions.</sentence>
+<sentence id="s588">&amp;#8226; The reduction of greenhouse gas emissions is an object of the Natural Heritage Act, through the National Vegetation Initiative.</sentence>
+<sentence id="s589">&amp;#8226; Therefore, the Natural Heritage Act is a law with respect to the acquisition that was effected by the State Statutes.</sentence>
 <sentence id="s590">161 Mr Spencer says that the effective cause of the sterilisation of his relationship with Saarahnlee is the National Vegetation Initiative.</sentence>
 <sentence id="s591">He says that that stems from the Natural Heritage Act and what he describes as the "national scheme" provided for in the preamble to the Natural Heritage Act.</sentence>
 <sentence id="s592">He points out that the language of s 19 of the National Heritage Act, limited as it is by its express terms to the giving of financial assistance to the States, thereby excluding the purposes referred to in s 8 of the Natural Heritage Act, provides no machinery to effect any of those purposes.</sentence>
@@ -950,11 +950,11 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s596">He points to the preamble to the Natural Heritage Act, which relevantly provides as follows:
  
  
- &#183; There is a need for the Commonwealth to provide national leadership and work in partnership with all levels of government... 
+ &amp;#183; There is a need for the Commonwealth to provide national leadership and work in partnership with all levels of government... 
  
  
  
- &#183; The Commonwealth government should work cooperatively with the State governments to achieve effective outcomes ... Those cooperative working relationships should involve entering into inter-governmental agreements which... promote the development of complementary policies and programs .</sentence>
+ &amp;#183; The Commonwealth government should work cooperatively with the State governments to achieve effective outcomes ... Those cooperative working relationships should involve entering into inter-governmental agreements which... promote the development of complementary policies and programs .</sentence>
 <sentence id="s597">
  
 
@@ -986,8 +986,8 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s622">It then refers to Commonwealth initiatives, including the National Vegetation Initiative, which it says was established as part of the Federal Government's Natural Heritage Trust.</sentence>
 <sentence id="s623">The Briefing Paper asserts that the National Vegetation Initiative will provide $318 million over five years to fund two key areas of activity as follows:
  
-&#8226; $64 million for the protection of remnant native vegetation at risk from clearing, in cooperation with the States, land holders and land managers.</sentence>
-<sentence id="s624">&#8226; $254 million to expand revegetation activities, with the goal of building up to an additional 250,000 hectares per year by the year 2001.</sentence>
+&amp;#8226; $64 million for the protection of remnant native vegetation at risk from clearing, in cooperation with the States, land holders and land managers.</sentence>
+<sentence id="s624">&amp;#8226; $254 million to expand revegetation activities, with the goal of building up to an additional 250,000 hectares per year by the year 2001.</sentence>
 <sentence id="s625">The Briefing Paper says that the aim of the National Vegetation Initiative is to ensure that the rate of revegetation in Australia exceeds the rate of clearance.</sentence>
 <sentence id="s626">170 The Briefing Paper concludes by saying that the 1997 Vegetation Act provides legislative means to protect native vegetation on freehold land in the rural areas of New South Wales.</sentence>
 <sentence id="s627">The objects of each of the State Statutes include providing for the conservation and management of native vegetation, encouragement and promotion of native vegetation management, protecting native vegetation, improving the condition of existing native vegetation and encouraging the revegetation of land with appropriate native vegetation.</sentence>
@@ -1055,13 +1055,13 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s683">That assertion is based on a decision of the Supreme Court of New South Wales in which a proceeding brought by Mr Spencer against the Australian Capital Territory, the State of New South Wales and the Commonwealth was summarily dismissed (see Spencer v The Australian Capital Territory [2007] NSWSC 303).</sentence>
 <sentence id="s684">187 The Commonwealth asserts that, in the Supreme Court proceeding, the following issues of fact or law were determined so as to bar Mr Spencer's claims:
  
-&#8226; whether any alleged actions on the part of the Commonwealth and New South Wales to procure a result that benefited the Commonwealth in relation to its actual or potential obligations under the Kyoto Protocol could give rise to any claim against the Commonwealth, whether under the Constitution or otherwise;
+&amp;#8226; whether any alleged actions on the part of the Commonwealth and New South Wales to procure a result that benefited the Commonwealth in relation to its actual or potential obligations under the Kyoto Protocol could give rise to any claim against the Commonwealth, whether under the Constitution or otherwise;
  
-&#8226; whether the alleged provision of funds by the Commonwealth to New South Wales for the purpose of implementing legislative based controls on land clearing could engage s 51(xxxi) of the Constitution ;
+&amp;#8226; whether the alleged provision of funds by the Commonwealth to New South Wales for the purpose of implementing legislative based controls on land clearing could engage s 51(xxxi) of the Constitution ;
  
-&#8226; whether the claiming of political credit by the Commonwealth for a result that has been brought about by the imposition of a burden on a citizen can found any cause of action against the Commonwealth;
+&amp;#8226; whether the claiming of political credit by the Commonwealth for a result that has been brought about by the imposition of a burden on a citizen can found any cause of action against the Commonwealth;
  
-&#8226; whether the Commonwealth appropriated any proprietary interest held by Mr Spencer so as to engage s 51(xxxi) of the Constitution .</sentence>
+&amp;#8226; whether the Commonwealth appropriated any proprietary interest held by Mr Spencer so as to engage s 51(xxxi) of the Constitution .</sentence>
 <sentence id="s685">188 The Commonwealth contends that the cause of action pleaded in this proceeding is identical to that pleaded in the Supreme Court proceeding.</sentence>
 <sentence id="s686">Alternatively, the Commonwealth says that the cause of action relied on in the present proceeding is critically dependent upon an alleged state of fact or state of law, the existence of which was a matter necessarily decided unfavourably to Mr Spencer in the Supreme Court proceeding.</sentence>
 <sentence id="s687">189 The Commonwealth says that the orders made by the Supreme Court of New South Wales determine the whole of the principal cause of action as between Mr Spencer and the Commonwealth in that proceeding.</sentence>
@@ -1095,11 +1095,11 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s711">195 In considering the balance of convenience, the Court must assess the inconvenience to the respondent of the grant of interlocutory relief, on the assumption that ultimately the respondent is successful, and compare that with the inconvenience of the refusal of interlocutory relief to the applicant, on the assumption that the applicant ultimately succeeds.</sentence>
 <sentence id="s712">Factors to be assessed in making that comparison include:
  
-&#8226; the relative hardships that would be visited upon the parties;
+&amp;#8226; the relative hardships that would be visited upon the parties;
  
-&#8226; whether there would be irreparable harm to the applicant if the interlocutory relief is not granted and the applicant ultimately succeeds;
+&amp;#8226; whether there would be irreparable harm to the applicant if the interlocutory relief is not granted and the applicant ultimately succeeds;
  
-&#8226; whether damages are an adequate remedy to the applicant.</sentence>
+&amp;#8226; whether damages are an adequate remedy to the applicant.</sentence>
 <sentence id="s713">196 Special considerations may apply where the interlocutory relief sought would adversely affect the public interest.</sentence>
 <sentence id="s714">Clearly enough, restraining the Commonwealth from taking any steps to establish a domestic emissions trading scheme, unless Mr Spencer's alleged interests are accommodated within the scheme, would have a significant effect on the public interest.</sentence>
 <sentence id="s715">In such circumstances, Mr Spencer may need to show a probability, even a distinct probability, of success in order to obtain interlocutory relief (see Castlemaine Tooheys Limited v The State of South Australia [1986] HCA 58 ; (1986) 161 CLR 148 at 154-156).</sentence>
@@ -1115,13 +1115,13 @@ in accordance with the principles of ecologically sustainable development.</sent
 <sentence id="s725">By the media release, the Minister announced the Commonwealth's detailed timetable for introduction of emissions trading.</sentence>
 <sentence id="s726">The timetable includes the following stages:
  
-&#8226; March to June 2008: preliminary consultations on technical issues with industry and non-government groups.</sentence>
-<sentence id="s727">&#8226; July 2008: public release of a Green Paper on emissions trading design, drawing on preliminary consultations.</sentence>
-<sentence id="s728">&#8226; December 2008: public release of exposure draft legislation.</sentence>
-<sentence id="s729">&#8226; March --- Mid 2009: Bill considered by parliament.</sentence>
-<sentence id="s730">&#8226; 2009: consultation on emissions trading regulations.</sentence>
-<sentence id="s731">&#8226; Third quarter 2009: Act enters into force, regulator established.</sentence>
-<sentence id="s732">&#8226; 2010: emissions trading scheme will commence.</sentence>
+&amp;#8226; March to June 2008: preliminary consultations on technical issues with industry and non-government groups.</sentence>
+<sentence id="s727">&amp;#8226; July 2008: public release of a Green Paper on emissions trading design, drawing on preliminary consultations.</sentence>
+<sentence id="s728">&amp;#8226; December 2008: public release of exposure draft legislation.</sentence>
+<sentence id="s729">&amp;#8226; March --- Mid 2009: Bill considered by parliament.</sentence>
+<sentence id="s730">&amp;#8226; 2009: consultation on emissions trading regulations.</sentence>
+<sentence id="s731">&amp;#8226; Third quarter 2009: Act enters into force, regulator established.</sentence>
+<sentence id="s732">&amp;#8226; 2010: emissions trading scheme will commence.</sentence>
 <sentence id="s733">200 The media release asserts that the introduction of emissions trading will constitute the most significant economic and structural reform undertaken in Australia since the trade liberalisation of the 1980s.</sentence>
 <sentence id="s734">It says that emissions trading will place a limit on the amount of emissions that will be allowed to be produced and asserts that the Commonwealth will take a careful and methodical approach to finalising the design of emissions trading in order to get the best results for Australia's climate while minimising the risks for the economy.</sentence>
 <sentence id="s735">201 The media release also says that the Minister for Climate Change and Water and the Minister for Agriculture, Fisheries and Forestry will begin discussions with leaders in the agriculture sector soon.</sentence>

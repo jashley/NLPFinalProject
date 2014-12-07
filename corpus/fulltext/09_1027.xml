@@ -3,12 +3,12 @@
 <name>Egglishaw v Australian Crime Commission (No 3) [2009] FCA 1027 (14 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1027.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">challenge to summons issued under s 28(1) of the australian crime commission act 2002 (cth) and subsequent examination</catchphrase>
-<catchphrase "id=c1">whether summons invalid because determination accompanying summons as required by s 28(2) was not a facsimile copy of the relevant determination</catchphrase>
-<catchphrase "id=c2">whether invalid because summons did not indicate that applicant had to appear "as a witness" and stated that applicant was to appear before "an" examiner and not "the" examiner</catchphrase>
-<catchphrase "id=c3">whether invalid because summons failed to comply with s 29a(3) by not setting out rights and obligations in s 29b(3) and (4) in addition to those in s 29b(1) and (2)</catchphrase>
-<catchphrase "id=c4">whether examination unlawful because examiner failed to record in writing reasons for issuing summons before he issued the summons</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase id="c0">challenge to summons issued under s 28(1) of the australian crime commission act 2002 (cth) and subsequent examination</catchphrase>
+<catchphrase id="c1">whether summons invalid because determination accompanying summons as required by s 28(2) was not a facsimile copy of the relevant determination</catchphrase>
+<catchphrase id="c2">whether invalid because summons did not indicate that applicant had to appear "as a witness" and stated that applicant was to appear before "an" examiner and not "the" examiner</catchphrase>
+<catchphrase id="c3">whether invalid because summons failed to comply with s 29a(3) by not setting out rights and obligations in s 29b(3) and (4) in addition to those in s 29b(1) and (2)</catchphrase>
+<catchphrase id="c4">whether examination unlawful because examiner failed to record in writing reasons for issuing summons before he issued the summons</catchphrase>
+<catchphrase id="c5">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -823,7 +823,7 @@ of the possession of the document to the Customs officer.</sentence>
  
 
  Flick J considered the grounds upon which a notice may be held invalid because a reasonable period for production has not been allowed.</sentence>
-<sentence id="s416">He referred to Pyneboard Pty Ltd v Trade Practices Commission (1982) 57 FLR 368, a case involving a notice under s 155 of the Trade Practices Act 1974 (Cth), and F H Faulding &amp; Co Ltd v Commissioner of Taxation [1994] FCA 1492 ; (1994) 54 FCR 75 , a case involving a notice under s 264 of the Income Tax Assessment Act 1936 (Cth).</sentence>
+<sentence id="s416">He referred to Pyneboard Pty Ltd v Trade Practices Commission (1982) 57 FLR 368, a case involving a notice under s 155 of the Trade Practices Act 1974 (Cth), and F H Faulding &amp;amp; Co Ltd v Commissioner of Taxation [1994] FCA 1492 ; (1994) 54 FCR 75 , a case involving a notice under s 264 of the Income Tax Assessment Act 1936 (Cth).</sentence>
 <sentence id="s417">He then said (at [65]): 
  
  "...the specification of an arbitrarily short time for compliance may reflect upon the reasonableness of the exercise of the power or the good faith with which it has been exercised.</sentence>

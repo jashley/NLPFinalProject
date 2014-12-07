@@ -3,16 +3,16 @@
 <name>Unsworth v Tristar Steering and Suspension Australia Limited [2008] FCA 1224 (13 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1224.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">conduct by employer</catchphrase>
-<catchphrase "id=c1">alleged breach of s 792 of the workplace relations act 1996 (cth)</catchphrase>
-<catchphrase "id=c2">employer's business substantially ceased</catchphrase>
-<catchphrase "id=c3">where redundancy clause in certified agreement included generous redundancy provisions if long term employees involuntarily retrenched</catchphrase>
-<catchphrase "id=c4">where no breach of redundancy clause alleged</catchphrase>
-<catchphrase "id=c5">whether employer's failure to dismiss some employees was conduct of the employer</catchphrase>
-<catchphrase "id=c6">whether failure to dismiss caused injury to, or prejudicial alteration to, the position of those employees</catchphrase>
-<catchphrase "id=c7">whether failure to dismiss for prohibited reason</catchphrase>
-<catchphrase "id=c8">proceeding dismissed</catchphrase>
-<catchphrase "id=c9">industrial law</catchphrase>
+<catchphrase id="c0">conduct by employer</catchphrase>
+<catchphrase id="c1">alleged breach of s 792 of the workplace relations act 1996 (cth)</catchphrase>
+<catchphrase id="c2">employer's business substantially ceased</catchphrase>
+<catchphrase id="c3">where redundancy clause in certified agreement included generous redundancy provisions if long term employees involuntarily retrenched</catchphrase>
+<catchphrase id="c4">where no breach of redundancy clause alleged</catchphrase>
+<catchphrase id="c5">whether employer's failure to dismiss some employees was conduct of the employer</catchphrase>
+<catchphrase id="c6">whether failure to dismiss caused injury to, or prejudicial alteration to, the position of those employees</catchphrase>
+<catchphrase id="c7">whether failure to dismiss for prohibited reason</catchphrase>
+<catchphrase id="c8">proceeding dismissed</catchphrase>
+<catchphrase id="c9">industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -743,7 +743,7 @@ This case is not analogous to those examples.</sentence>
 <sentence id="s298">16 August 1999 The Australian Industrial Relations Commission (AIRC) certified respondent's 1999 certified agreement.</sentence>
 <sentence id="s299">20 December 1999 Arrowcrest Group Pty Limited purchased all issued shares in respondent.</sentence>
 <sentence id="s300">20 December 1999 Respondent employed 390 employees at the time Arrowcrest acquired all the issued shares in the respondent.</sentence>
-<sentence id="s301">6 January 2000 Respondent changed its name from TRW Steering &amp; Suspension Australia Limited to Tristar Steering and Suspension Australia Limited.</sentence>
+<sentence id="s301">6 January 2000 Respondent changed its name from TRW Steering &amp;amp; Suspension Australia Limited to Tristar Steering and Suspension Australia Limited.</sentence>
 <sentence id="s302">6 January 2000 Cheng Hong commenced in role of Managing Director of the respondent.</sentence>
 <sentence id="s303">17 March 2000 Respondent entered into insurance bond with National Australia Trustees Limited in respect of its employees' redundancy entitlements.</sentence>
 <sentence id="s304">15 December 2000 Mr Hong intended to terminate insurance bond on expiry of bond on 1 March 2001.</sentence>

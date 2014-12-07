@@ -3,12 +3,12 @@
 <name>Saint v Holmes [2008] FCA 987 (4 July 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/987.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">natural justice</catchphrase>
-<catchphrase "id=c1">failure to give effect to the representation or procedure</catchphrase>
-<catchphrase "id=c2">whether applicant suffered practical unfairness</catchphrase>
-<catchphrase "id=c3">whether the decision maker took into account explanation given by medical practitioner for high level of servicing</catchphrase>
-<catchphrase "id=c4">whether no evidence ground of review open in relation to adjudicative referral</catchphrase>
-<catchphrase "id=c5">admininstrative law</catchphrase>
+<catchphrase id="c0">natural justice</catchphrase>
+<catchphrase id="c1">failure to give effect to the representation or procedure</catchphrase>
+<catchphrase id="c2">whether applicant suffered practical unfairness</catchphrase>
+<catchphrase id="c3">whether the decision maker took into account explanation given by medical practitioner for high level of servicing</catchphrase>
+<catchphrase id="c4">whether no evidence ground of review open in relation to adjudicative referral</catchphrase>
+<catchphrase id="c5">admininstrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -90,15 +90,15 @@
 <sentence id="s67">The reasons stated:
  A REASONS FOR THE INVESTIGATIVE REFERRAL The Health Insurance Commission is concerned with certain aspects of Dr Saint's practice, namely, his rendered services and daily servicing.</sentence>
 <sentence id="s68">These concerns have been identified and analysed by considering: 
-&#8226; a review of Dr Saint's practice statistics;
+&amp;#8226; a review of Dr Saint's practice statistics;
  
-&#8226; a comparison of those statistics with the data concerning the practice of all active general practitioners in Australia;
+&amp;#8226; a comparison of those statistics with the data concerning the practice of all active general practitioners in Australia;
  
-&#8226; reports from the counselling interviews by Health Insurance Commission Medical Advisers where the above concerns were discussed;
+&amp;#8226; reports from the counselling interviews by Health Insurance Commission Medical Advisers where the above concerns were discussed;
  
-&#8226; a review of Dr Saint's practice statistics since counselling; and
+&amp;#8226; a review of Dr Saint's practice statistics since counselling; and
  
-&#8226; other information.</sentence>
+&amp;#8226; other information.</sentence>
 <sentence id="s69">Dr Saint's practice statistics for the counselling period (1 January 1999 to 31 December 1999) were reviewed.</sentence>
 <sentence id="s70">A Medical Adviser from the Health Insurance Commission met with Dr Saint on the 18 January 2000 for the purposes of counselling under the Professional Services Review Scheme.</sentence>
 <sentence id="s71">Dr Saint had been previously counselled by the Health Insurance Commission on 14 February 1996 and again on 29 October 1996 in relation to his rendered services.</sentence>
@@ -113,7 +113,7 @@
 <sentence id="s80">Further, Dr Saint's letter of 5 February 2000 responding to Dr Laundy's record of interview of 18 January 2000, as well as subsequent correspondence arising therefrom, was also included in the documents comprising the investigative referral.</sentence>
 <sentence id="s81">23 The investigative referral also identified under the heading "Specific Areas of Concern for the Investigative Referral" the practice area of "Rendered Services and Daily Servicing".</sentence>
 <sentence id="s82">In respect of that practice area, the referral said:
- The referral period --- 1 January 1999 to 31 December 1999 During the referral period Dr Saint: &#8226; rendered 18,675 services to 4,110 patients at a total benefit of $460,922.95; &#8226; had an average of 4.54 services per patient; and &#8226; rendered 60 or more services per day on 176 occasions and 80 or more services per day on 44 occasions.</sentence>
+ The referral period --- 1 January 1999 to 31 December 1999 During the referral period Dr Saint: &amp;#8226; rendered 18,675 services to 4,110 patients at a total benefit of $460,922.95; &amp;#8226; had an average of 4.54 services per patient; and &amp;#8226; rendered 60 or more services per day on 176 occasions and 80 or more services per day on 44 occasions.</sentence>
 <sentence id="s83">Dr Saint's total services rendered are substantially above the 99th percentile (15,383) when compared with all active general practitioners in Australia.</sentence>
 <sentence id="s84">24 The investigative referral also included as Table 5 a table of Dr Saint's servicing statistics for each quarter during the period 1 January 1996 to 31 March 2000.</sentence>
 <sentence id="s85">25 Notice of the making of the investigative referral was given by the Commission to Dr Saint under s 88(2) of the Act.</sentence>
@@ -139,7 +139,7 @@
 <sentence id="s103">29 The Director also recorded that pursuant to s 89(1), he had conducted an investigation into the referred services but that he had not dismissed the referral under s 91 of the Act.</sentence>
 <sentence id="s104">30 The Director's report was an attachment to the adjudicative referral.</sentence>
 <sentence id="s105">The Director concluded his report as follows:
- Accordingly I decided to make an adjudicative referral to a Committee in accordance with section 93 for the Committee to consider whether Dr Saint's conduct in connection with the rendering of MBS item 35 and 36 services may have constituted engaging in inappropriate practise by failing to provide appropriate professional services to his patients and/or failing to satisfy the requirements of the relevant items in the MBS and in particular by: &#8226; failing to provide adequate clinical input into the services; &#8226; rendering services that were not medically necessary; &#8226; prescribing drugs in the absence of accepted medical indications; and &#8226; keeping records that were deficient in essential clinical information.</sentence>
+ Accordingly I decided to make an adjudicative referral to a Committee in accordance with section 93 for the Committee to consider whether Dr Saint's conduct in connection with the rendering of MBS item 35 and 36 services may have constituted engaging in inappropriate practise by failing to provide appropriate professional services to his patients and/or failing to satisfy the requirements of the relevant items in the MBS and in particular by: &amp;#8226; failing to provide adequate clinical input into the services; &amp;#8226; rendering services that were not medically necessary; &amp;#8226; prescribing drugs in the absence of accepted medical indications; and &amp;#8226; keeping records that were deficient in essential clinical information.</sentence>
 <sentence id="s106">31 By an instrument dated 18 May 2001, Dr Holmes also established the Committee.</sentence>
 <sentence id="s107">32 By a letter dated 13 September 2001, the Committee advised Dr Saint that it would hold a hearing on 1 November and 2 November 2001 at which Dr Saint would be required to give evidence.</sentence>
 <sentence id="s108">The letter also stated that it would use a sampling process which would allow for:
@@ -175,11 +175,11 @@
 <sentence id="s134">42 By a letter dated 21 March 2003, Professor Nicholls replied and stated:
  Re: Professional Services Review Committee 204 I have reviewed the approach outlined in your e-mail attachment dated 21 March 2003 and note the following: 
  
- &#8226; The Committee has employed the statistical sampling methodology authorised under section 106K of the Health Insurance Act 1973 and described in the Health Insurance (Professional Services Review-Sampling Methodology) Determination 2000 (No 1).</sentence>
-<sentence id="s135">&#8226; From the class size of 932 services a random sample of 38 services have been examined and the Committee considers 14 of these unacceptable which is 36% (rounded down) of the sample.</sentence>
-<sentence id="s136">&#8226; If no further services are examined, applying appropriate statistical techniques it can be shown that we can be 95% confident that the true percentage of inappropriate practice lies between 36% +/- 16%, that is the lower 95% confident limit is 20%.</sentence>
+ &amp;#8226; The Committee has employed the statistical sampling methodology authorised under section 106K of the Health Insurance Act 1973 and described in the Health Insurance (Professional Services Review-Sampling Methodology) Determination 2000 (No 1).</sentence>
+<sentence id="s135">&amp;#8226; From the class size of 932 services a random sample of 38 services have been examined and the Committee considers 14 of these unacceptable which is 36% (rounded down) of the sample.</sentence>
+<sentence id="s136">&amp;#8226; If no further services are examined, applying appropriate statistical techniques it can be shown that we can be 95% confident that the true percentage of inappropriate practice lies between 36% +/- 16%, that is the lower 95% confident limit is 20%.</sentence>
 <sentence id="s137">This value (20%) is to be chosen as the level of inappropriate practice (rather than 36%), not 21% as you have indicated (the difference being as a result of appropriate rounding to benefit the person under review).</sentence>
-<sentence id="s138">&#8226; In accordance with the methodology in the Determination, a further 47 services would need to be examined.</sentence>
+<sentence id="s138">&amp;#8226; In accordance with the methodology in the Determination, a further 47 services would need to be examined.</sentence>
 <sentence id="s139">Had a further 47 randomly selected services been examined, the percentage of inappropriate practice based on the sample of 85 would have been expected to be 36% (rounded down) so that the final percentage of inappropriate practice would have been 26% (36%-10%).</sentence>
 <sentence id="s140">By choosing the smaller sample of 38 rather than 85, half the width of the 95% confidence interval has increased from 10% to 16%.</sentence>
 <sentence id="s141">Since the lower confident limit is chosen as the percentage of inappropriate practice the person being reviewed will benefit from the approach based on the smaller sample.</sentence>
@@ -187,8 +187,8 @@
  
 In conclusion, 
  
- &#8226; it is statistically valid to accept the conclusion based on the sample of 38 services that the level of inappropriate practice will be determined as 20%, and
- &#8226; stopping the sampling process after considering 38 services will not (statistically) disadvantage the person under review.</sentence>
+ &amp;#8226; it is statistically valid to accept the conclusion based on the sample of 38 services that the level of inappropriate practice will be determined as 20%, and
+ &amp;#8226; stopping the sampling process after considering 38 services will not (statistically) disadvantage the person under review.</sentence>
 <sentence id="s143">
  
 
@@ -621,23 +621,23 @@ I confirm that I am a statistician accredited by the Statistical Society of Aust
  
  
 149 At subparagraphs 38(c),(d) and (e) of the final report, the Committee said:
- (c) ...The Committee considers that adequate medical records are considered by the general body of general practitioners to be a significant component of the clinical input expected when using this item number and as such should be sufficient to facilitate the: &#8226; monitoring and modification of ongoing conditions; &#8226; recall of conditions, problems and treatment after any substantial period; and &#8226; enable another practitioner to assume care of the patient, if necessary.</sentence>
+ (c) ...The Committee considers that adequate medical records are considered by the general body of general practitioners to be a significant component of the clinical input expected when using this item number and as such should be sufficient to facilitate the: &amp;#8226; monitoring and modification of ongoing conditions; &amp;#8226; recall of conditions, problems and treatment after any substantial period; and &amp;#8226; enable another practitioner to assume care of the patient, if necessary.</sentence>
 <sentence id="s462">(d) In order to assess a patient's progress (or otherwise), the Committee considers a general practitioner would generally need to make a written record of: 
-&#8226; the presenting complaint;
+&amp;#8226; the presenting complaint;
  
-&#8226; a relevant medical history;
+&amp;#8226; a relevant medical history;
  
-&#8226; an examination;
+&amp;#8226; an examination;
  
-&#8226; a differential diagnosis;
+&amp;#8226; a differential diagnosis;
  
-&#8226; a management plan; and
+&amp;#8226; a management plan; and
  
-&#8226; an evaluation of the patient at each presentation.</sentence>
+&amp;#8226; an evaluation of the patient at each presentation.</sentence>
 <sentence id="s463">(e) The Committee considers that a clinical record would not be adequate unless it contained the elements outlined in points (c) and (d) above, and in its opinion, Dr Saint's records did not.</sentence>
 <sentence id="s464">150 In my view, even if the Committee erred in law in concluding that the record keeping provisions did not apply to the conduct referred to it in the adjudicative referral, the Committee, nevertheless, applied the standard articulated in the statutory provisions in assessing whether Dr Saint had kept adequate medical records.</sentence>
 <sentence id="s465">There was, therefore, no error of law in the application of the correct standard for record keeping.</sentence>
-<sentence id="s466">However, if I am wrong in this characterisation and there was such an error of law made by the Committee, the error made no difference to the outcome for Dr Saint because there was no material difference in the standards and, therefore, I would in the exercise of my discretion withhold relief in respect of that error ( VAAD v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2005] FCAFC 117).</sentence>
+<sentence id="s466">However, if I am wrong in this characterisation and there was such an error of law made by the Committee, the error made no difference to the outcome for Dr Saint because there was no material difference in the standards and, therefore, I would in the exercise of my discretion withhold relief in respect of that error ( VAAD v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2005] FCAFC 117).</sentence>
 <sentence id="s467">151 The standard of adequate record keeping referred to Regulation 5(c) is that the entry provides "clinical information adequate to explain the type of service rendered or initiated" (emphasis added).</sentence>
 <sentence id="s468">The standard referred to in Regulation 5(d) is that the entry be " sufficiently comprehensible that another practitioner relying on the record, can effectively undertake the patient's ongoing case" (emphasis added).</sentence>
 <sentence id="s469">152 The use of the language in the terms italicised manifests a parliamentary intention that the Committee is to determine the adequacy of records by reference to the standard of the general body of general practitioners.</sentence>
@@ -699,9 +699,9 @@ I confirm that I am a statistician accredited by the Statistical Society of Aust
 <sentence id="s511">169 Dr Saint contended that the advice provided by Dr Nicholls was not advice contemplated by the section because the letter was not addressed to the methodology as a whole; and that it was the "conclusion", as opposed to the methodology as a whole, which was certified as statistically valid.</sentence>
 <sentence id="s512">Dr Saint said that s 106K(4) should not be construed to permit the use of, what Dr Saint referred to as, "ad hoc" methodology or the "salvaging" of a partially completed sampling methodology set out in the Determination.</sentence>
 <sentence id="s513">170 In Phan , Professor Nicholls wrote in response whether it was unsafe for the committee to proceed with the proposed departure from the methodology in the Determination:
- Re: Request of 4 March 2004 From the information supplied I note: &#8226; From the 17,970 item 23 services a random sample of 84 services have been examined (with 4 services being disregarded due to no records).</sentence>
+ Re: Request of 4 March 2004 From the information supplied I note: &amp;#8226; From the 17,970 item 23 services a random sample of 84 services have been examined (with 4 services being disregarded due to no records).</sentence>
 <sentence id="s514">The Committee found that of the remaining 80 services, 69 or 86% (rounded down) were considered inappropriate.</sentence>
-<sentence id="s515">&#8226; Applying appropriate statistical techniques it can be shown that we can be 95% confident that the true percentage of inappropriate practice lies between 86% +/- 8%, that is the lower 95% confident limit is 78%.</sentence>
+<sentence id="s515">&amp;#8226; Applying appropriate statistical techniques it can be shown that we can be 95% confident that the true percentage of inappropriate practice lies between 86% +/- 8%, that is the lower 95% confident limit is 78%.</sentence>
 <sentence id="s516">This value (78%) is to be chosen as the level of inappropriate practice (rather than 86%).</sentence>
 <sentence id="s517">In conclusion, it is statistically valid to accept the conclusion based on the sample of 80 item 23 services that the level of inappropriate practice will be determined as 78%.</sentence>
 <sentence id="s518">I confirm that I am a statistician accredited by the Statistical Society of Australia Inc. as required under subsection 106K(4) of the Act.</sentence>

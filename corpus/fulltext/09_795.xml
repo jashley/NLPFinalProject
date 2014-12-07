@@ -3,13 +3,13 @@
 <name>Procter v Kalivis (includes Corrigendum dated 28 September 2009) [2009] FCA 795 (31 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/795.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to strike out provisions of statement of claim</catchphrase>
-<catchphrase "id=c1">application for further particulars</catchphrase>
-<catchphrase "id=c2">application for discovery before particulars</catchphrase>
-<catchphrase "id=c3">whether provisions of statement of claim should be struck out because they have tendency to cause embarrassment or do not disclose reasonable cause of action or do not contain sufficient particulars or do not plead material facts or plead evidence instead of material facts</catchphrase>
-<catchphrase "id=c4">whether further particulars can be ordered where defence not filed</catchphrase>
-<catchphrase "id=c5">whether discovery before particulars can be ordered where allegations of breach of fiduciary duty</catchphrase>
-<catchphrase "id=c6">discovery</catchphrase>
+<catchphrase id="c0">application to strike out provisions of statement of claim</catchphrase>
+<catchphrase id="c1">application for further particulars</catchphrase>
+<catchphrase id="c2">application for discovery before particulars</catchphrase>
+<catchphrase id="c3">whether provisions of statement of claim should be struck out because they have tendency to cause embarrassment or do not disclose reasonable cause of action or do not contain sufficient particulars or do not plead material facts or plead evidence instead of material facts</catchphrase>
+<catchphrase id="c4">whether further particulars can be ordered where defence not filed</catchphrase>
+<catchphrase id="c5">whether discovery before particulars can be ordered where allegations of breach of fiduciary duty</catchphrase>
+<catchphrase id="c6">discovery</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -118,7 +118,7 @@
 <sentence id="s93">As he developed his submissions, it became apparent that he relied on another ground as well, namely, that certain pleas did not disclose a reasonable cause of action.</sentence>
 <sentence id="s94">A plea will have a tendency to cause embarrassment if it is ambiguous or irrelevant, or if it is inconsistent with another plea.</sentence>
 <sentence id="s95">The latter case is to be distinguished from a plea which is clearly put in the alternative to another plea which is permissible.</sentence>
-<sentence id="s96">For present purposes, it is sufficient to refer to Mayor, &amp;c., of City of London v Horner (1914) 111 LT 512 at 514 per Pickford LJ and Bartlett v Swan Television and Radio Broadcasters Pty Ltd [1995] FCA 1429 ; (1995) ATPR 41-434 at 40,889 per Carr J.</sentence>
+<sentence id="s96">For present purposes, it is sufficient to refer to Mayor, &amp;amp;c., of City of London v Horner (1914) 111 LT 512 at 514 per Pickford LJ and Bartlett v Swan Television and Radio Broadcasters Pty Ltd [1995] FCA 1429 ; (1995) ATPR 41-434 at 40,889 per Carr J.</sentence>
 <sentence id="s97">In the case of a number of pleas, counsel for the respondents' objection, as shown in the table, was that the plea was insufficiently particularised.</sentence>
 <sentence id="s98">In relation to those cases where the true basis of the objection is that the necessary particulars are not provided, it must not be overlooked that the Rules provide that, in the ordinary case, particulars will not be ordered before a defence is filed (O 12 r 5(3)).</sentence>
 <sentence id="s99">The Rules proceed on the basis that there is a clear distinction between the pleading of material facts and the provision of necessary particulars.</sentence>
@@ -291,7 +291,7 @@
  
  "What does the reference to a 'fishing expedition' mean?</sentence>
 <sentence id="s221">After all, ex hypothesi, the giving of discovery will often, if not always, reveal documents of which the other party was not previously aware (similarly, the administering of interrogatories will often, if not always, reveal information of which the other party was not previously aware).</sentence>
-<sentence id="s222">What is meant is that discovery must not be used for the purpose of ascertaining whether a case exists, as distinct from the purpose of compelling the production of documents where there is already some evidence that a case exists: see, for example, Commissioner for Railways v Small (1938) 38 SR (NSW) 564 at 575; Associated Dominions Assurance Society Pty Ltd v John Fairfax &amp; Sons Pty Ltd ; WA Pines Pty Ltd v Bannerman ; Barbarian Motor Cycle Club Inc v Koithan (1984) at 486; Nestle Australia Ltd v Commissioner of Taxation (1986) at 82-83; Mobex Pty Ltd v Comptroller-General of Customs (unreported, Federal Court, Foster J, 18 May 1994), at p 18.</sentence>
+<sentence id="s222">What is meant is that discovery must not be used for the purpose of ascertaining whether a case exists, as distinct from the purpose of compelling the production of documents where there is already some evidence that a case exists: see, for example, Commissioner for Railways v Small (1938) 38 SR (NSW) 564 at 575; Associated Dominions Assurance Society Pty Ltd v John Fairfax &amp;amp; Sons Pty Ltd ; WA Pines Pty Ltd v Bannerman ; Barbarian Motor Cycle Club Inc v Koithan (1984) at 486; Nestle Australia Ltd v Commissioner of Taxation (1986) at 82-83; Mobex Pty Ltd v Comptroller-General of Customs (unreported, Federal Court, Foster J, 18 May 1994), at p 18.</sentence>
 <sentence id="s223">In WA Pines Pty Ltd v Bannerman at 181, Brennan J said that what is required is that 'sufficient is shown to ground a suspicion that the party applying for discovery has a good case proof of which is likely to be aided by discovery'.</sentence>
 <sentence id="s224">On the facts of particular cases, the application of the distinction between 'fishing' and 'non-fishing' may well be difficult.</sentence>
 <sentence id="s225">" 

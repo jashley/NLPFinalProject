@@ -3,9 +3,9 @@
 <name>M W McIntosh Pty Ltd v Commissioner of Taxation [2008] FCA 1949 (19 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1949.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">extent of the commissioner's power under s 388-55(1) of schedule 1 to the taxation administration act 1953 to defer the time within which approved forms are required to be given to the commissioner</catchphrase>
-<catchphrase "id=c1">application, if any, of the commissioner's power under s 388-55(1) to an application for an extension, nunc pro tunc, of the period described in s 703-50(3) of the income tax assessment act 1997 within which a head company may give an approved form to the commissioner specifying a day on and after which a consolidatable group is taken to be consolidated</catchphrase>
-<catchphrase "id=c2">taxation</catchphrase>
+<catchphrase id="c0">extent of the commissioner's power under s 388-55(1) of schedule 1 to the taxation administration act 1953 to defer the time within which approved forms are required to be given to the commissioner</catchphrase>
+<catchphrase id="c1">application, if any, of the commissioner's power under s 388-55(1) to an application for an extension, nunc pro tunc, of the period described in s 703-50(3) of the income tax assessment act 1997 within which a head company may give an approved form to the commissioner specifying a day on and after which a consolidatable group is taken to be consolidated</catchphrase>
+<catchphrase id="c2">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -99,17 +99,17 @@ Sections 950-100 and 950-105 of the 1997 Act provided as follows:
  
  
  
-&#9679; the headings of the Chapters, Parts, Divisions and Subdivisions of this Act; 
+&amp;#9679; the headings of the Chapters, Parts, Divisions and Subdivisions of this Act; 
  
  
  
- &#9679; Guides; 
+ &amp;#9679; Guides; 
  
- &#9679; the headings of the sections and subsections of this Act; 
+ &amp;#9679; the headings of the sections and subsections of this Act; 
  
  
  
-&#9679; the headings for groups of sections of this Act (group headings); &#9679; the notes and examples (however described) that follow provisions of this Act.</sentence>
+&amp;#9679; the headings for groups of sections of this Act (group headings); &amp;#9679; the notes and examples (however described) that follow provisions of this Act.</sentence>
 <sentence id="s23">... 
  
  
@@ -118,7 +118,7 @@ Sections 950-100 and 950-105 of the 1997 Act provided as follows:
  
  
  
-&#9679; footnotes and endnotes; &#9679; Tables of Subdivisions; &#9679; Tables of sections.</sentence>
+&amp;#9679; footnotes and endnotes; &amp;#9679; Tables of Subdivisions; &amp;#9679; Tables of sections.</sentence>
 <sentence id="s24">' 
 10 In the foregoing context 'approved form' and 'business day' as used in s 388-52 and s 388-55 of Schedule 1 to the Administration Act were defined by s 995-1(1) of the 1997 Act as follows:
  
@@ -486,13 +486,13 @@ Detailed explanation of new law Formation and membership of a MEC group
  
  
  
- &#8226; beginning at the time the other companies became eligible tier-1 companies of the top company; and 
+ &amp;#8226; beginning at the time the other companies became eligible tier-1 companies of the top company; and 
  
  
  
  
  
- &#8226; ending on the day on which the head company of the consolidated group lodges its income tax return for the income year in which the companies became eligible tier-1 companies of the top company.</sentence>
+ &amp;#8226; ending on the day on which the head company of the consolidated group lodges its income tax return for the income year in which the companies became eligible tier-1 companies of the top company.</sentence>
 <sentence id="s131">
  
  
@@ -565,7 +565,7 @@ Choosing to form a MEC group
  
  
  
- &#8226; beginning on the day the group commences; and 
+ &amp;#8226; beginning on the day the group commences; and 
  
  
  
@@ -575,7 +575,7 @@ Choosing to form a MEC group
  
  
  
- &#8226; ending on the day on which the first head company of the group lodges its income tax return for the income year in which the group came into existence.</sentence>
+ &amp;#8226; ending on the day on which the first head company of the group lodges its income tax return for the income year in which the group came into existence.</sentence>
 <sentence id="s144">
  
  
@@ -698,7 +698,7 @@ to which his Honour's answer was 'Yes'.</sentence>
 <sentence id="s201">' 
 
  
-(see also per Gummow J in David Grant &amp; Co Pty Limited (Receiver Appointed) v Westpac Banking Corporation (1995) 184 CLR 265 ('David Grant') at 277-278)
+(see also per Gummow J in David Grant &amp;amp; Co Pty Limited (Receiver Appointed) v Westpac Banking Corporation (1995) 184 CLR 265 ('David Grant') at 277-278)
  
 50 Hayne J expressed the view that the Paper Manufacturers case did not assist in the resolution of the matter before him.</sentence>
 <sentence id="s202">At 300 he said:
@@ -886,7 +886,7 @@ Dated: 19 December 2008
 
  Counsel for the First and Second Applicants: K M Connor SC and I S Young 
  
- Solicitor for the First and Second Applicants: Robert Richards &amp; Associates 
+ Solicitor for the First and Second Applicants: Robert Richards &amp;amp; Associates 
  
  Counsel for the Respondent: M A Perry QC and A J O'Brien 
  

@@ -3,9 +3,9 @@
 <name>National Union of Workers v Coles CDC Eastern Creek Pty Ltd [2009] FCA 523 (20 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/523.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">meaning and effect of s 322 of the act</catchphrase>
-<catchphrase "id=c1">whether a number of related corporations in a group may make a single union collective agreement with an organisation of employees in circumstances where one member of that organisation is an employee whose employment in one of the single businesses of the related corporations will be subject to the union collective agreement</catchphrase>
-<catchphrase "id=c2">workplace relations</catchphrase>
+<catchphrase id="c0">meaning and effect of s 322 of the act</catchphrase>
+<catchphrase id="c1">whether a number of related corporations in a group may make a single union collective agreement with an organisation of employees in circumstances where one member of that organisation is an employee whose employment in one of the single businesses of the related corporations will be subject to the union collective agreement</catchphrase>
+<catchphrase id="c2">workplace relations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -235,7 +235,7 @@ In the recent case of Lilyvale Hotel Pty Ltd v Commissioner of Taxation [2009] F
 <sentence id="s66">There are cases where the result of giving words their ordinary meaning may be so irrational that the court is forced to the conclusion that the draftsman has made a mistake, and the canons of construction are not so rigid as to prevent a realistic solution in such a case ...</sentence>
 <sentence id="s67">However, if the language of a statutory provision is clear and unambiguous, and is consistent and harmonious with the other provisions of the enactment, and can be intelligibly applied to the subject matter with which it deals, it must be given its ordinary and grammatical meaning, even if it leads to a result that may seem inconvenient or unjust.</sentence>
 <sentence id="s68">To say this is not to insist on too literal an interpretation, or to deny that the court should seek the real intention of the legislature.</sentence>
-<sentence id="s69">The danger that lies in departing from the ordinary meaning of unambiguous provisions is that "it may degrade into mere judicial criticism of the propriety of the acts of the Legislature", as Lord Moulton said in Vacher &amp; Sons Ltd. v. London Society of Compositors [1912] UKHL 3 ; ([1913] A.C. 107 , at p. 130); it may lead judges to put their own ideas of justice or social policy in place of the words of the statute.</sentence>
+<sentence id="s69">The danger that lies in departing from the ordinary meaning of unambiguous provisions is that "it may degrade into mere judicial criticism of the propriety of the acts of the Legislature", as Lord Moulton said in Vacher &amp;amp; Sons Ltd. v. London Society of Compositors [1912] UKHL 3 ; ([1913] A.C. 107 , at p. 130); it may lead judges to put their own ideas of justice or social policy in place of the words of the statute.</sentence>
 <sentence id="s70">On the other hand, if two constructions are open, the court will obviously prefer that which will avoid what it considers to be inconvenience or injustice.</sentence>
 <sentence id="s71">Since language, read in its context, very often proves to be ambiguous, this last mentioned rule is one that not infrequently falls to be applied.</sentence>
 <sentence id="s72">' 
@@ -307,7 +307,7 @@ At 321 Mason and Wilson JJ were disposed to depart from the ordinary and grammat
 <sentence id="s103">' Each of the first and third to fifteenth respondents was listed amongst the 29 companies operating in Australia in the VersaCold group, although the fifteenth respondent was, at the time of the preparation of the list, known as Versacold DF Pty Ltd. Each of the first and third to fifteenth respondents was described as a 'Labour Hire Company'.</sentence>
 <sentence id="s104">According to Ms Sullivan (see affidavit sworn 11 May 2009 paragraph 4) the first and third to fifteenth respondents together employed approximately 444 'permanent warehouse employees in distribution centres employed (sic) by VersaCold across in (sic) New South Wales'.</sentence>
 <sentence id="s105">The distribution centres in New South Wales were collectively known as the 'Eastern Region'.</sentence>
-<sentence id="s106">They comprised an Arndell Park Distribution Centre, a Girraween Facility Regional Office &amp; Distribution Centre, a Minto Facility and a CDC Chilled Distribution Centre.</sentence>
+<sentence id="s106">They comprised an Arndell Park Distribution Centre, a Girraween Facility Regional Office &amp;amp; Distribution Centre, a Minto Facility and a CDC Chilled Distribution Centre.</sentence>
 <sentence id="s107">Mr Brundell described the corporate structure of the VersaCold group in Australia as follows (see affidavit 28 April 2009 paragraph 4): 
  '(a) VersaCold Australian Holdings Pty Ltd (ACN 117 491 291), is wholly owned by the Canadian parent company VersaCold Holdings Corp. 
 
@@ -463,7 +463,7 @@ Dated: 20 May 2009
  
  Counsel for the Applicant: R Reitano 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater &amp;amp; Gordon 
  
  Counsel for the First, Second, Third, Fourth, Fifth, Sixth, Seventh, Eighth, Ninth, Tenth, Eleventh, Twelfth, Thirteenth, Fourteenth and Fifteenth Respondents: A K Herbert and J W Nolan 
  

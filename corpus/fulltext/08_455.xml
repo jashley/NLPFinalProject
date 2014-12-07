@@ -3,16 +3,16 @@
 <name>CMG Equity Investments Pty Ltd v Australia and New Zealand Banking Group Ltd [2008] FCA 455 (3 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/455.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">contract to lend shares</catchphrase>
-<catchphrase "id=c1">rectification</catchphrase>
-<catchphrase "id=c2">rights of innocent third parties intervening</catchphrase>
-<catchphrase "id=c3">whether rectification is available</catchphrase>
-<catchphrase "id=c4">interlocutory injunction</catchphrase>
-<catchphrase "id=c5">application to restrain sale of shares by legal owner</catchphrase>
-<catchphrase "id=c6">requirement to support undertaking in damages</catchphrase>
-<catchphrase "id=c7">no irreparable harm</catchphrase>
-<catchphrase "id=c8">contract</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase id="c0">contract to lend shares</catchphrase>
+<catchphrase id="c1">rectification</catchphrase>
+<catchphrase id="c2">rights of innocent third parties intervening</catchphrase>
+<catchphrase id="c3">whether rectification is available</catchphrase>
+<catchphrase id="c4">interlocutory injunction</catchphrase>
+<catchphrase id="c5">application to restrain sale of shares by legal owner</catchphrase>
+<catchphrase id="c6">requirement to support undertaking in damages</catchphrase>
+<catchphrase id="c7">no irreparable harm</catchphrase>
+<catchphrase id="c8">contract</catchphrase>
+<catchphrase id="c9">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -211,7 +211,7 @@
 <sentence id="s164">The usual rule is that the holder of the first equity has priority over the later equity.</sentence>
 <sentence id="s165">That is not true, however, where the prior equity is a "mere equity" such as an equity to set aside a contract.</sentence>
 <sentence id="s166">In that kind of case, precedence is given to the later equity.</sentence>
-<sentence id="s167">The principle was first laid down in Phillips v Phillips [1861] EngR 1044 ; (1862) 4 De G F &amp; J 208 [45 ER 1164] but reference is usually made to Cave v Cave (1880) 15 Ch D 639.</sentence>
+<sentence id="s167">The principle was first laid down in Phillips v Phillips [1861] EngR 1044 ; (1862) 4 De G F &amp;amp; J 208 [45 ER 1164] but reference is usually made to Cave v Cave (1880) 15 Ch D 639.</sentence>
 <sentence id="s168">Rectification also is a "mere equity" that would not defeat a later equitable interest.</sentence>
 <sentence id="s169">33 If I am wrong in this conclusion, and it is arguable that the plaintiffs could, with rectification, claim an equitable interest of a kind that takes priority over a later interest, in all likelihood they would nonetheless have lost their priority.</sentence>
 <sentence id="s170">A person with priority according to traditional equitable rules may lose that priority by conduct.</sentence>

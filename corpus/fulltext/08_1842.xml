@@ -3,17 +3,17 @@
 <name>Thor Shipping A/S v The Ship "Al Duhail" [2008] FCA 1842 (5 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1842.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">engagement of admiralty jurisdiction dependant on ownership, possession or control of the relevant vessel</catchphrase>
-<catchphrase "id=c1">section 17 of the admiralty act 1988 (cth)</catchphrase>
-<catchphrase "id=c2">whether title to a vessel was passed under the conditions of a relevant agreement to the satisfaction of s 17 of the admiralty act 1988 (cth)</catchphrase>
-<catchphrase "id=c3">whether registration is proof of "ownership" as that term is defined by the common law</catchphrase>
-<catchphrase "id=c4">whether an entitlement to own is sufficient to prove ownership for the purposes of s 17 of the admiralty act 1988 (cth)</catchphrase>
-<catchphrase "id=c5">whether a head of state and his possessions are inviolable ratione personae while that head of state is still in office</catchphrase>
-<catchphrase "id=c6">geographical restrictions on such an immunity</catchphrase>
-<catchphrase "id=c7">article 31 of the vienna convention on diplomatic relations as adopted by the diplomatic privileges and immunities act 1967 (cth)</catchphrase>
-<catchphrase "id=c8">admiralty</catchphrase>
-<catchphrase "id=c9">personal property</catchphrase>
-<catchphrase "id=c10">immunity</catchphrase>
+<catchphrase id="c0">engagement of admiralty jurisdiction dependant on ownership, possession or control of the relevant vessel</catchphrase>
+<catchphrase id="c1">section 17 of the admiralty act 1988 (cth)</catchphrase>
+<catchphrase id="c2">whether title to a vessel was passed under the conditions of a relevant agreement to the satisfaction of s 17 of the admiralty act 1988 (cth)</catchphrase>
+<catchphrase id="c3">whether registration is proof of "ownership" as that term is defined by the common law</catchphrase>
+<catchphrase id="c4">whether an entitlement to own is sufficient to prove ownership for the purposes of s 17 of the admiralty act 1988 (cth)</catchphrase>
+<catchphrase id="c5">whether a head of state and his possessions are inviolable ratione personae while that head of state is still in office</catchphrase>
+<catchphrase id="c6">geographical restrictions on such an immunity</catchphrase>
+<catchphrase id="c7">article 31 of the vienna convention on diplomatic relations as adopted by the diplomatic privileges and immunities act 1967 (cth)</catchphrase>
+<catchphrase id="c8">admiralty</catchphrase>
+<catchphrase id="c9">personal property</catchphrase>
+<catchphrase id="c10">immunity</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -25,7 +25,7 @@
 <sentence id="s3">Otherwise as described earlier.</sentence>
 <sentence id="s4">" The cargo was, in fact, a fishing vessel which was being built, or had been built, in New Zealand pursuant to an agreement (the "agreement") between Amiri Yachts and Sovereign Yachts (NZ) Ltd, ("Sovereign"), the builder.</sentence>
 <sentence id="s5">It was eventually launched and named "Al Duhail" (the "Ship").</sentence>
-<sentence id="s6">The Ship was to be loaded onto the Southern Pearl at Auckland and discharged at Mah&eacute; in the Seychelles.</sentence>
+<sentence id="s6">The Ship was to be loaded onto the Southern Pearl at Auckland and discharged at Mah&amp;eacute; in the Seychelles.</sentence>
 <sentence id="s7">It was expected to be ready to load on about 1 June 2008.</sentence>
 <sentence id="s8">On 7 June 2008 the Master of the Southern Pearl tendered notice of readiness to load.</sentence>
 <sentence id="s9">Lay time expired on 9 June 2008, the Ship not having been loaded.</sentence>
@@ -190,7 +190,7 @@ It seems that as a result of this email, the charterparty was executed on 13 May
 <sentence id="s131">23 The solicitors for the plaintiff wrote to Messrs Blake Dawson asking them to indicate the basis for the allegation in the present application that the Amir was not the owner or charterer of, or in possession or control of, the vessel, when the cause of action arose.</sentence>
 <sentence id="s132">They responded on 2 September 2008 as follows:
  We refer to your letter of today's date.</sentence>
-<sentence id="s133">We are obtaining instructions overnight from our instructors at Clyde &amp; Co whether an affidavit will be filed in support of the application and will let you know as soon as we have those instructions.</sentence>
+<sentence id="s133">We are obtaining instructions overnight from our instructors at Clyde &amp;amp; Co whether an affidavit will be filed in support of the application and will let you know as soon as we have those instructions.</sentence>
 <sentence id="s134">You have asked on what basis the applicant His Highness Sheikh Hamad Bin Khalifia Al Thani asserts he was not the owner or charterer of, or in control of, the vessel when the alleged cause of action arose.</sentence>
 <sentence id="s135">With respect, the onus is on your client to establish these jurisdictional facts.</sentence>
 <sentence id="s136">Will your client be relying on any affidavit material to establish the named relevant persons met the criteria in ss 17 and 18 of the Admiralty Act 1988 ?</sentence>
@@ -302,11 +302,11 @@ It seems that as a result of this email, the charterparty was executed on 13 May
 <sentence id="s216">35 The plaintiff sought to establish that property had, nonetheless, passed to the Amir prior to 9 or 11 June 2008.</sentence>
 <sentence id="s217">There were at least three different bases for that submission, namely:
  
-&#8226; that registration in Qatar was prima facie, and sufficient, proof of ownership;
+&amp;#8226; that registration in Qatar was prima facie, and sufficient, proof of ownership;
  
-&#8226; that the Amir had acquired some form of equitable interest which satisfied the requirements of s 17(a) of the Admiralty Act ; and
+&amp;#8226; that the Amir had acquired some form of equitable interest which satisfied the requirements of s 17(a) of the Admiralty Act ; and
  
-&#8226; that I should infer that Sovereign and Amiri Yachts or the Amir had varied the agreement so that property passed at some time prior to 9 or 11 June 2008.</sentence>
+&amp;#8226; that I should infer that Sovereign and Amiri Yachts or the Amir had varied the agreement so that property passed at some time prior to 9 or 11 June 2008.</sentence>
 <sentence id="s218">36 In order to deal with these submissions I must consider the meaning of the term "the owner" in s 17 of the Admiralty Act .</sentence>
 <sentence id="s219">The meaning of the term "owner" was considered, for the purposes of s 19 , by the Full Court in Kent v SS Maria Luisa (No 2) [2003] FCAFC 93 ; (2003) 130 FCR 12 and, for the purposes of s 17 , in Tisand v MV Cape Moreton [2005] FCAFC 68 ; (2005) 143 FCR 43.</sentence>
 <sentence id="s220">Concerning that question, the majority (Tamberlin and Hely JJ) said in the Maria Luisa at [61]-[66]:
@@ -716,7 +716,7 @@ Dated: 5 December 2008
 
  Counsel for the Plaintiff: Mr A Duffy 
  
- Solicitor for the Plaintiff: Thynne &amp; Macartney 
+ Solicitor for the Plaintiff: Thynne &amp;amp; Macartney 
  
  Counsel for the Defendant: Mr A Crowe SC and Mr G Coveney 
  

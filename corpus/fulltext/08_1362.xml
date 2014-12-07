@@ -3,23 +3,23 @@
 <name>Portman Iron Ore Limited (ACN 007 871 892), in the matter of Golden West Resources Limited (ACN 102 622 051) [2008] FCA 1362 (5 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1362.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">general meeting</catchphrase>
-<catchphrase "id=c1">voting</catchphrase>
-<catchphrase "id=c2">proxy votes</catchphrase>
-<catchphrase "id=c3">forwarding proxies via a third party</catchphrase>
-<catchphrase "id=c4">consideration of the requirements of s 250b of the corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c5">whether a right of review</catchphrase>
-<catchphrase "id=c6">declaratory relief</catchphrase>
-<catchphrase "id=c7">injunctive relief</catchphrase>
-<catchphrase "id=c8">justiciable controversy</catchphrase>
-<catchphrase "id=c9">whether a cause of action</catchphrase>
-<catchphrase "id=c10">single judge decisions</catchphrase>
-<catchphrase "id=c11">judicial comity</catchphrase>
-<catchphrase "id=c12">decision of single judge of same or coordinate jurisdiction to be followed unless clearly wrong</catchphrase>
-<catchphrase "id=c13">authority of and confidence in courts</catchphrase>
-<catchphrase "id=c14">corporations</catchphrase>
-<catchphrase "id=c15">practice and procedure</catchphrase>
-<catchphrase "id=c16">judges and courts</catchphrase>
+<catchphrase id="c0">general meeting</catchphrase>
+<catchphrase id="c1">voting</catchphrase>
+<catchphrase id="c2">proxy votes</catchphrase>
+<catchphrase id="c3">forwarding proxies via a third party</catchphrase>
+<catchphrase id="c4">consideration of the requirements of s 250b of the corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c5">whether a right of review</catchphrase>
+<catchphrase id="c6">declaratory relief</catchphrase>
+<catchphrase id="c7">injunctive relief</catchphrase>
+<catchphrase id="c8">justiciable controversy</catchphrase>
+<catchphrase id="c9">whether a cause of action</catchphrase>
+<catchphrase id="c10">single judge decisions</catchphrase>
+<catchphrase id="c11">judicial comity</catchphrase>
+<catchphrase id="c12">decision of single judge of same or coordinate jurisdiction to be followed unless clearly wrong</catchphrase>
+<catchphrase id="c13">authority of and confidence in courts</catchphrase>
+<catchphrase id="c14">corporations</catchphrase>
+<catchphrase id="c15">practice and procedure</catchphrase>
+<catchphrase id="c16">judges and courts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -317,7 +317,7 @@
 <sentence id="s85">19 Mr Holler's argument was that it is quite likely that Portman will seek to call further meetings and that it wishes to know whether collecting completed proxies before forwarding them to the company is valid compliance with s 250B of the Act.</sentence>
 <sentence id="s86">Secondly, he submitted that for the purpose of those future hypothetical meetings, the shareholders as a whole would then appreciate that the vote was much closer than was declared at the Meeting.</sentence>
 <sentence id="s87">In those circumstances they might be persuaded to support Portman's position, he submitted.</sentence>
-<sentence id="s88">20 In Industrial Equity Ltd v New Redhead Estate &amp; Coal Co Ltd [1969] 1 NSWR 565, Street J as his Honour then was considered a similar situation.</sentence>
+<sentence id="s88">20 In Industrial Equity Ltd v New Redhead Estate &amp;amp; Coal Co Ltd [1969] 1 NSWR 565, Street J as his Honour then was considered a similar situation.</sentence>
 <sentence id="s89">In that case the plaintiff had attempted to have three directors elected at the annual general meeting of the defendant.</sentence>
 <sentence id="s90">Many proxies were lodged for the meeting, some in favour of the plaintiff and some in favour of the defendant.</sentence>
 <sentence id="s91">The chairman disallowed some 160 proxies, mostly in favour of the plaintiff.</sentence>
@@ -335,8 +335,8 @@
  
  
  The applicant for declaratory relief will not have sufficient status if relief is "claimed in relation to circumstances that [have] not occurred and might never happen": University of New South Wales v Moorhouse [1975] HCA 26 ; (1975) 133 CLR 1 at 10 per Gibbs J: or if the Court's declaration will produce no foreseeable consequences for the parties: Gardner v Dairy Industry Authority (NSW) (1977) 52 ALJR 180 at 180 per Mason J and at 189 per Aickin J.</sentence>
-<sentence id="s99">The party seeking declaratory relief must have a real interest to raise it: Forster v Jododex Australia Pty Ltd [1972] HCA 61 ; (1972) 127 CLR 421 at 437 per Gibbs J and Russian Commercial &amp; Industrial Bank v British Bank for Foreign Trade Ltd at 448 per Lord Dunedin.</sentence>
-<sentence id="s100">Generally there must be a proper contradictor: Russian Commercial &amp; Industrial Bank at 448; and Ainsworth at 596 per Brennan J.</sentence>
+<sentence id="s99">The party seeking declaratory relief must have a real interest to raise it: Forster v Jododex Australia Pty Ltd [1972] HCA 61 ; (1972) 127 CLR 421 at 437 per Gibbs J and Russian Commercial &amp;amp; Industrial Bank v British Bank for Foreign Trade Ltd at 448 per Lord Dunedin.</sentence>
+<sentence id="s100">Generally there must be a proper contradictor: Russian Commercial &amp;amp; Industrial Bank at 448; and Ainsworth at 596 per Brennan J.</sentence>
 <sentence id="s101">
  
 The relevant principles are laid down by the High Court in Ainsworth, in particular in the joint judgment of Mason CJ, Dawson, Toohey and Gaudron JJ at 581-582.</sentence>
@@ -533,7 +533,7 @@ The relevant principles are laid down by the High Court in Ainsworth, in particu
 <sentence id="s213">But, in any event, on Golden West's argument, any form of undertaking or evidence of that nature would not satisfy or overcome the difficulties arising from non-compliance with s 250B of the Act.</sentence>
 <sentence id="s214">39 In conclusion, my view on this topic is that while the Act does not expressly spell out that proxy forms are to be returned only to the company or directly to the company, the reasoning articulated in Bisan Ltd [2002] VSC 430 at [44] , reflects, with respect, a good deal of common sense.</sentence>
 <sentence id="s215">Also for the additional practical reasons discussed, while I may have been less emphatic about the construction placed on s 250B of the Act, there is no good reason to depart from the construction adopted in Bisan Ltd and I would not do so.</sentence>
-<sentence id="s216">See Hicks v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 757 per French J at [76] .</sentence>
+<sentence id="s216">See Hicks v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2003] FCA 757 per French J at [76] .</sentence>
 <sentence id="s217">40 Portman also advances the alternative argument that Bisan Ltd [2002] VSC 430 is distinguishable as Golden West shareholders were given a choice.</sentence>
 <sentence id="s218">They could complete the company's form and return the proxy to the company or they could complete the Portman proxy form and return the proxy to Portman.</sentence>
 <sentence id="s219">It is difficult to see how this validates the Portman proxies if they were otherwise invalid.</sentence>
@@ -592,7 +592,7 @@ The relevant principles are laid down by the High Court in Ainsworth, in particu
 ... 67 I accept that a Chairman has jurisdiction to rule generally on the validity of appointments of proxies (although Mr Brereton did not purport to exercise that jurisdiction on 9 November).</sentence>
 <sentence id="s249">But whether making a ruling under cl 12.16 or generally, a Chairman's decision will be amenable to review by the Court if he makes an error of law.</sentence>
 <sentence id="s250">This proposition is well settled.</sentence>
-<sentence id="s251">It is convenient to refer to Link Agricultural Pty Ltd v Shanahan, McCallum &amp; Pivot Ltd [1999] 1 VR 466.</sentence>
+<sentence id="s251">It is convenient to refer to Link Agricultural Pty Ltd v Shanahan, McCallum &amp;amp; Pivot Ltd [1999] 1 VR 466.</sentence>
 <sentence id="s252">There, at 511, Kenny JA, with whom Batt JA and Buchanan J agreed, accepted the submission that the powers exercisable by the Chairman of a general meeting of a company were not unfettered and that "(b)roadly speaking, these powers could not be exercised so as unlawfully to deprive members of their votes".</sentence>
 <sentence id="s253">68 Kenny JA reviewed a number of authorities which support that proposition, including Byng v London Life Association Ltd [1990] 1 Ch 170.</sentence>
 <sentence id="s254">There the Court of Appeal held that in exercising powers as Chairman of a meeting of the members of a public corporation, a Chairman would err in law if he did not take a decision reasonably, with a view to facilitating the purpose for which the powers had been conferred.</sentence>

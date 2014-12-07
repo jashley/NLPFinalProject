@@ -3,10 +3,10 @@
 <name>Jovanovski v Telstra Corporation Limited [2008] FCA 465 (11 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/465.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from decision of administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">whether tribunal erred in determining not to apply s 7(1) of the safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
-<catchphrase "id=c2">whether tribunal erred in finding no evidence to establish presumption pursuant to s 7(1)</catchphrase>
-<catchphrase "id=c3">administrative law</catchphrase>
+<catchphrase id="c0">appeal from decision of administrative appeals tribunal</catchphrase>
+<catchphrase id="c1">whether tribunal erred in determining not to apply s 7(1) of the safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
+<catchphrase id="c2">whether tribunal erred in finding no evidence to establish presumption pursuant to s 7(1)</catchphrase>
+<catchphrase id="c3">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -47,9 +47,9 @@
  
 5 The Tribunal identified the issues for decision as follows:
  
-&#8226; Whether Mr Jovanovski continues to suffer from the effects of a work related injury to his back, and whether he is presently entitled, after 1 September 2005, to work related incapacity and compensation payments pursuant to sections 16, 19, 20 and 21 pursuant to the Act.</sentence>
-<sentence id="s28">&#8226; Whether Mr Jovanovski has an incapacity for work arising from a compensable condition.</sentence>
-<sentence id="s29">&#8226; In doing so, the Tribunal had also to consider whether Mr Jovanovski suffered injury (in terms of the legislation) as a result of the nature and conditions of his employment, and whether Telstra was therefore liable to pay compensation pursuant to section 14 of the Act.</sentence>
+&amp;#8226; Whether Mr Jovanovski continues to suffer from the effects of a work related injury to his back, and whether he is presently entitled, after 1 September 2005, to work related incapacity and compensation payments pursuant to sections 16, 19, 20 and 21 pursuant to the Act.</sentence>
+<sentence id="s28">&amp;#8226; Whether Mr Jovanovski has an incapacity for work arising from a compensable condition.</sentence>
+<sentence id="s29">&amp;#8226; In doing so, the Tribunal had also to consider whether Mr Jovanovski suffered injury (in terms of the legislation) as a result of the nature and conditions of his employment, and whether Telstra was therefore liable to pay compensation pursuant to section 14 of the Act.</sentence>
 <sentence id="s30">6 The Tribunal had to consider a long history.</sentence>
 <sentence id="s31">The applicant had commenced working for Telstra in 1975 and had worked as a labourer for some 18 years.</sentence>
 <sentence id="s32">As appears from the second decision, he suffered compensable injury to his back as long ago as 26 September 1979, and various other injuries related to his back over the years.</sentence>
@@ -61,7 +61,7 @@
  
  1.</sentence>
 <sentence id="s37">The Applicant also relies upon s.7(1) of the SRC Act.</sentence>
-<sentence id="s38">Amongst the conditions specified in writing by the Minister as a disease related to employment is "diseases caused by vibration (disorders of muscles, tendons, bones, joints, peripheral blood vessels or peripheral nerves)" arising from "employment involving exposure to vibration": see Ballard &amp; Sutherland, Annotated Safety, Rehabilitation and Compensation Act 1988 , Seventh Edition, page 740.</sentence>
+<sentence id="s38">Amongst the conditions specified in writing by the Minister as a disease related to employment is "diseases caused by vibration (disorders of muscles, tendons, bones, joints, peripheral blood vessels or peripheral nerves)" arising from "employment involving exposure to vibration": see Ballard &amp;amp; Sutherland, Annotated Safety, Rehabilitation and Compensation Act 1988 , Seventh Edition, page 740.</sentence>
 <sentence id="s39">
  
  
@@ -152,7 +152,7 @@
 <sentence id="s80">We have accepted from the evidence and Matter N2006/835, that the first incident of aggravation to Mr Jovanovski's lumbar spine was in 1979.</sentence>
 <sentence id="s81">We are satisfied that at 1 September 2005 and at the time of our decision, Mr Jovanovski does not suffer incapacity for work or the need for medical treatment, and has no present entitlement to compensation for work related injury pursuant to section 19 , 20 , 21 of the Act or section 16 medical expenses.</sentence>
 <sentence id="s82">Mr Jovanovski did not suffer a back injury likely to have been of sufficient severity to result in internal disc derangement; Mr Jovanovski did not sustain a significant disc protrusion.</sentence>
-<sentence id="s83">He did not have any radicular signs nor symptoms while doing physical work (Drs Dalton &amp; Maxwell);
+<sentence id="s83">He did not have any radicular signs nor symptoms while doing physical work (Drs Dalton &amp;amp; Maxwell);
  
  In regard to Matter N2006/835, we noted that the decision maker concluded that at 6 June 2006:
  
@@ -253,7 +253,7 @@ Dated: 11 April 2008
 
  Counsel for the Applicant: Mr LT Grey 
  
- Solicitor for the Applicant: Gerard Malouf &amp; Partners 
+ Solicitor for the Applicant: Gerard Malouf &amp;amp; Partners 
  
  Counsel for the Respondent: Mr N Polin 
  

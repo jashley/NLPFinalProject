@@ -3,13 +3,13 @@
 <name>Alphapharm Pty Ltd v H Lundbeck A/S (No 2) [2008] FCA 1036 (10 July 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1036.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">four proceedings heard together</catchphrase>
-<catchphrase "id=c1">meaning of "costs following the event"</catchphrase>
-<catchphrase "id=c2">costs order made on a broad issues basis, but "event" in each proceeding taken into account.</catchphrase>
-<catchphrase "id=c3">order for removal of particulars of extension of term from register of patents</catchphrase>
-<catchphrase "id=c4">whether court would have power to order reinstatement of particulars if patentee's appeal should succeed.</catchphrase>
-<catchphrase "id=c5">costs</catchphrase>
-<catchphrase "id=c6">patents</catchphrase>
+<catchphrase id="c0">four proceedings heard together</catchphrase>
+<catchphrase id="c1">meaning of "costs following the event"</catchphrase>
+<catchphrase id="c2">costs order made on a broad issues basis, but "event" in each proceeding taken into account.</catchphrase>
+<catchphrase id="c3">order for removal of particulars of extension of term from register of patents</catchphrase>
+<catchphrase id="c4">whether court would have power to order reinstatement of particulars if patentee's appeal should succeed.</catchphrase>
+<catchphrase id="c5">costs</catchphrase>
+<catchphrase id="c6">patents</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,7 +36,7 @@
  
 9 On the stay question two issues were raised: (1) will there be time for any appeal to be heard and determined by 13 June 2009, when the original term of the Patent will expire?</sentence>
 <sentence id="s9">; and (2) does the Court have power to reinstate the entry of the particulars of the extension of term in the event that Lundbeck's appeal is successful?</sentence>
-<sentence id="s10">10 Alphapharm and Arrow accept that, upon the appropriate undertakings being given by Lundbeck, there should be a stay in relation to revocation of claim 5 of the Patent since there is some doubt as to the Court's power to order re-instatement: see Atlantis Corporation Pty Ltd v Schindler , unreported, Emmett J, 27 May 1997; Doric Products Pty Ltd v Lockwood Security Products Pty Ltd (2002) 54 IPR 495 at [4]; Imperial Chemical Industries plc v E I Dupont De Nemours &amp; Co (2002) 58 IPR 227 at [11].</sentence>
+<sentence id="s10">10 Alphapharm and Arrow accept that, upon the appropriate undertakings being given by Lundbeck, there should be a stay in relation to revocation of claim 5 of the Patent since there is some doubt as to the Court's power to order re-instatement: see Atlantis Corporation Pty Ltd v Schindler , unreported, Emmett J, 27 May 1997; Doric Products Pty Ltd v Lockwood Security Products Pty Ltd (2002) 54 IPR 495 at [4]; Imperial Chemical Industries plc v E I Dupont De Nemours &amp;amp; Co (2002) 58 IPR 227 at [11].</sentence>
 <sentence id="s11">I agree that there should be a stay in relation to claim 5.</sentence>
 <sentence id="s12">I note that in Doric v Lockwood above, Hely J observed (at [4]) that it is usual for an order for revocation of a patent to be stayed pending an appeal against the order.</sentence>
 <sentence id="s13">11 However, both Alphapharm and Arrow contend that there should be no stay in relation to removal of the particulars of the extension of the term of the Patent, and that no such doubt exists in relation to the Court's power to order re-instatement of those particulars.</sentence>

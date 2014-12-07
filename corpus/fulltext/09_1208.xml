@@ -3,11 +3,11 @@
 <name>Culley v Australian Securities and Investments Commission [2009] FCA 1208 (30 October 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1208.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from a decision of the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">where tribunal reviewed the decision of an asic delegate under s 206f of the corporations act 2001 (cth) to disqualify a person from being the director of a company for two years</catchphrase>
-<catchphrase "id=c2">whether the tribunal's decision contained an error of law</catchphrase>
-<catchphrase "id=c3">whether the delay in asic's investigation into a series of companies was unreasonable</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
+<catchphrase id="c0">appeal from a decision of the administrative appeals tribunal</catchphrase>
+<catchphrase id="c1">where tribunal reviewed the decision of an asic delegate under s 206f of the corporations act 2001 (cth) to disqualify a person from being the director of a company for two years</catchphrase>
+<catchphrase id="c2">whether the tribunal's decision contained an error of law</catchphrase>
+<catchphrase id="c3">whether the delay in asic's investigation into a series of companies was unreasonable</catchphrase>
+<catchphrase id="c4">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -81,7 +81,7 @@
  
  4.</sentence>
 <sentence id="s13">B.M.</sentence>
-<sentence id="s14">Culley &amp; Associates Pty Ltd ACN 005 250 555 (Deregistered), 
+<sentence id="s14">Culley &amp;amp; Associates Pty Ltd ACN 005 250 555 (Deregistered), 
  
 
  
@@ -226,7 +226,7 @@
 <sentence id="s66">B.M.C.</sentence>
 <sentence id="s67">Special Projects Pty Ltd was referred to as "Special Projects".</sentence>
 <sentence id="s68">B.</sentence>
-<sentence id="s69">M. Culley &amp; Associates Pty Ltd was referred as "Associates".</sentence>
+<sentence id="s69">M. Culley &amp;amp; Associates Pty Ltd was referred as "Associates".</sentence>
 <sentence id="s70">It will be convenient to adopt these abbreviations for the purposes of these reasons.</sentence>
 <sentence id="s71">The Tribunal said: 
  
@@ -367,7 +367,7 @@
  
  Company Date of 
  Commencement 
- B M Culley &amp; Associates Pty Ltd 29 th November 2001
+ B M Culley &amp;amp; Associates Pty Ltd 29 th November 2001
  Construction Resources Pty Ltd 29 th November 2001
  BMC Special Projects Pty Ltd 9 th May 2001
  

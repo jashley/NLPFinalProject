@@ -3,11 +3,11 @@
 <name>Wiri People v Native Title Registrar [2008] FCA 574 (29 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/574.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">registration of native title claim</catchphrase>
-<catchphrase "id=c1">application for review of native title registrar's decision refusing registration</catchphrase>
-<catchphrase "id=c2">whether registrar erred in making decision</catchphrase>
-<catchphrase "id=c3">proper construction of registrar's function under s 190c(4)(b) of the native title act 1993 (cth)</catchphrase>
-<catchphrase "id=c4">native title</catchphrase>
+<catchphrase id="c0">registration of native title claim</catchphrase>
+<catchphrase id="c1">application for review of native title registrar's decision refusing registration</catchphrase>
+<catchphrase id="c2">whether registrar erred in making decision</catchphrase>
+<catchphrase id="c3">proper construction of registrar's function under s 190c(4)(b) of the native title act 1993 (cth)</catchphrase>
+<catchphrase id="c4">native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -35,10 +35,10 @@ C. Such other orders as the Court thinks just and necessary.</sentence>
 <sentence id="s12">The principal changes as a result of this amendment were :
  
  
- &#8226; A re-instatement of the broad country claim intended when the application was first made in April 1998, with some reduction so as not to extend to any offshore islands;
- &#8226; A new description of the native title claim group in the Wiri #2 Application, which continued to be generally described as the Wiri People but which is now specifically identified as the descendants of 10 sets of apical ancestors.</sentence>
+ &amp;#8226; A re-instatement of the broad country claim intended when the application was first made in April 1998, with some reduction so as not to extend to any offshore islands;
+ &amp;#8226; A new description of the native title claim group in the Wiri #2 Application, which continued to be generally described as the Wiri People but which is now specifically identified as the descendants of 10 sets of apical ancestors.</sentence>
 <sentence id="s13">This contrasted with the earlier description of the group as the descendants of 5 sets of apical ancestors, less a number of individuals said to be specifically excluded;
- &#8226; Authorisation of a new applicant as a result of a fresh authorisation process undertaken in September 2006 by the native title claim group in the Wiri #2 Application.</sentence>
+ &amp;#8226; Authorisation of a new applicant as a result of a fresh authorisation process undertaken in September 2006 by the native title claim group in the Wiri #2 Application.</sentence>
 <sentence id="s14">
  
  DECISION OF DELEGATE OF THE REGISTRAR 
@@ -132,10 +132,10 @@ C. Such other orders as the Court thinks just and necessary.</sentence>
 11 The submissions of the applicant in relation to grounds 1 and 2 can be summarised as follows :
  
  
- &#8226; The delegate misconstrued the principles set out in Risk , and, as a consequence, erroneously considered that she was required to adjudicate between differing descriptions of a native title claim group, and make a factual determination as to the "correct" description of the group.</sentence>
+ &amp;#8226; The delegate misconstrued the principles set out in Risk , and, as a consequence, erroneously considered that she was required to adjudicate between differing descriptions of a native title claim group, and make a factual determination as to the "correct" description of the group.</sentence>
 <sentence id="s44">This function is reserved for the Court in native title proceedings;
- &#8226; The delegate, because of her misconstruction of the principles in Risk , failed to appreciate that, in so far as the registration test is concerned, an assessment of the composition of a native title claim group is a function of the duty contained in s 190C (2), not s 190C (4)(b), and is limited to an assessment of the description of the claim group as it appears in the application and accompanying material; and
- &#8226; Having been satisfied that the requirements of s 190C (2) were met, the only matter which the delegate was required to be satisfied of in relation to section 190C (4)(b) was whether the claimant group, as it was described in the Wiri #2 Application, had authorised the making of the application.</sentence>
+ &amp;#8226; The delegate, because of her misconstruction of the principles in Risk , failed to appreciate that, in so far as the registration test is concerned, an assessment of the composition of a native title claim group is a function of the duty contained in s 190C (2), not s 190C (4)(b), and is limited to an assessment of the description of the claim group as it appears in the application and accompanying material; and
+ &amp;#8226; Having been satisfied that the requirements of s 190C (2) were met, the only matter which the delegate was required to be satisfied of in relation to section 190C (4)(b) was whether the claimant group, as it was described in the Wiri #2 Application, had authorised the making of the application.</sentence>
 <sentence id="s45">
  
 
@@ -218,10 +218,10 @@ In any other case, the Registrar must not accept the claim for registration.</se
 <sentence id="s62">20 In the circumstances of this case the delegate, inter alia :
  
  
- &#8226; was informed by the Central Queensland Land Council that, pursuant to s 203BE of the Act , it had certified another claim of the Wiri People, which overlapped and competed with the Wiri #2 Application, namely the Wiri Core Application;
- &#8226; considered anthropological reports attached to the Wiri Core Application supporting the existence of wider native title claim group than identified in the Wiri #2 Application;
- &#8226; after searching the Tribunal records, noted that the Wiri #2 Application and the Wiri Core Application were but two of a number of applications that had been made over the years by differently described or differently composed groups of Wiri People; and
- &#8226; noted that the meeting notice for the authorisation meeting for the Wiri #2 Application invited only the very persons ultimately described as the native title claim group in the Wiri #2 Application.</sentence>
+ &amp;#8226; was informed by the Central Queensland Land Council that, pursuant to s 203BE of the Act , it had certified another claim of the Wiri People, which overlapped and competed with the Wiri #2 Application, namely the Wiri Core Application;
+ &amp;#8226; considered anthropological reports attached to the Wiri Core Application supporting the existence of wider native title claim group than identified in the Wiri #2 Application;
+ &amp;#8226; after searching the Tribunal records, noted that the Wiri #2 Application and the Wiri Core Application were but two of a number of applications that had been made over the years by differently described or differently composed groups of Wiri People; and
+ &amp;#8226; noted that the meeting notice for the authorisation meeting for the Wiri #2 Application invited only the very persons ultimately described as the native title claim group in the Wiri #2 Application.</sentence>
 <sentence id="s63">
  
 
@@ -295,7 +295,7 @@ Dated: 29 April 2008
 
  Counsel for the Applicant: N Kidson 
  
- Solicitor for the Applicant: D &amp; G Lawyers 
+ Solicitor for the Applicant: D &amp;amp; G Lawyers 
  
  Counsel for the Respondents: D C Rangiah 
  

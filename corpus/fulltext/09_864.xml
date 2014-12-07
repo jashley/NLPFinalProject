@@ -3,11 +3,11 @@
 <name>In the matter of Opes Prime Stockbroking Limited (No 2) [2009] FCA 864 (4 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/864.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">scheme of arrangement</catchphrase>
-<catchphrase "id=c1">considerations relevant to exercise of discretion to approve scheme</catchphrase>
-<catchphrase "id=c2">whether the scheme is fair and reasonable</catchphrase>
-<catchphrase "id=c3">when a scheme may be altered by the court</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase id="c0">scheme of arrangement</catchphrase>
+<catchphrase id="c1">considerations relevant to exercise of discretion to approve scheme</catchphrase>
+<catchphrase id="c2">whether the scheme is fair and reasonable</catchphrase>
+<catchphrase id="c3">when a scheme may be altered by the court</catchphrase>
+<catchphrase id="c4">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -189,7 +189,7 @@ Mr R D Strong
  
  Counsel for Imobilari Pty Ltd Mr Armstrong 
  
- Solicitor for Imobilari Pty Ltd Slater &amp; Gordon Lawyers 
+ Solicitor for Imobilari Pty Ltd Slater &amp;amp; Gordon Lawyers 
  
  Counsel for the Dover Gardens objectors: Mr C A Sweeney SC
 Mr L W Maher 

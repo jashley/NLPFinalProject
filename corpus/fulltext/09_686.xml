@@ -3,12 +3,12 @@
 <name>Huntley Management Limited v Australian Olives Limited (No 2) [2009] FCA 686 (24 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/686.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">managed investment scheme</catchphrase>
-<catchphrase "id=c1">removal of current responsible entity and appointment of new responsible entity</catchphrase>
-<catchphrase "id=c2">challenge by current responsible entity to its removal and replacement</catchphrase>
-<catchphrase "id=c3">new responsible entity procures itself to be registered as responsible entity by australian securities and investments commission</catchphrase>
-<catchphrase "id=c4">whether new responsible entity had a right to the books relating to the scheme merely by reason of its being registered. held : no.</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase id="c0">managed investment scheme</catchphrase>
+<catchphrase id="c1">removal of current responsible entity and appointment of new responsible entity</catchphrase>
+<catchphrase id="c2">challenge by current responsible entity to its removal and replacement</catchphrase>
+<catchphrase id="c3">new responsible entity procures itself to be registered as responsible entity by australian securities and investments commission</catchphrase>
+<catchphrase id="c4">whether new responsible entity had a right to the books relating to the scheme merely by reason of its being registered. held : no.</catchphrase>
+<catchphrase id="c5">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -78,7 +78,7 @@ Is the plaintiff, by reason only of the facts stated in paragraphs 7 and 8 below
 <sentence id="s45">Second, the construction suggested is consistent with the scheme of the registers kept by ASIC.</sentence>
 <sentence id="s46">Generally speaking, an ASIC writing that is based on the ASIC national database is only prima facie evidence: see, for example, ss 1274(7) and 1274B(2) of the Act.</sentence>
 <sentence id="s47">An exception is found in s 1274(7A) which is the familiar provision to the effect that a certificate issued by ASIC stating that a company has been registered under the Act is conclusive evidence that all requirements of the Act for its registration were complied with and that the company was duly registered as a company under the Act on the date specified in the certificate.</sentence>
-<sentence id="s48">The policy underlying that longstanding provision in the companies legislation was explained Evatt J in H A Stephenson &amp; Son Limited (in liq) v Gillanders, Arbuthnot &amp; Co [1931] HCA 47 ; (1931) 45 CLR 476 at 497---500.</sentence>
+<sentence id="s48">The policy underlying that longstanding provision in the companies legislation was explained Evatt J in H A Stephenson &amp;amp; Son Limited (in liq) v Gillanders, Arbuthnot &amp;amp; Co [1931] HCA 47 ; (1931) 45 CLR 476 at 497---500.</sentence>
 <sentence id="s49">Unlike the issuing of a certificate of registration of a company, the making or changing of entries in a register on information supplied to ASIC does not create a new entity and associated rights and obligations, but is supposed to reflect rights and obligations that have already arisen.</sentence>
 <sentence id="s50">Third, a somewhat analogous provision is found in s 601GC(2) of the Act which requires that any modification to a registered scheme's constitution be lodged with ASIC and cannot take effect until lodged.</sentence>
 <sentence id="s51">In ING Funds Management Limited v ANZ Nominees Limited [2009] NSWSC 243 there was a question as to the effectiveness of actions taken by an RE to suspend the rights of members of two registered schemes to require redemption of their units.</sentence>

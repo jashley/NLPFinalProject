@@ -3,11 +3,11 @@
 <name>Conquo v Jackson [2009] FCA 634 (12 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/634.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">commencement of proceedings in court</catchphrase>
-<catchphrase "id=c1">whether required to be by rule to show cause</catchphrase>
-<catchphrase "id=c2">whether such a requirement to be implied in absence of express terms</catchphrase>
-<catchphrase "id=c3">whether consequences of alternative construction supported implication.</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase id="c0">commencement of proceedings in court</catchphrase>
+<catchphrase id="c1">whether required to be by rule to show cause</catchphrase>
+<catchphrase id="c2">whether such a requirement to be implied in absence of express terms</catchphrase>
+<catchphrase id="c3">whether consequences of alternative construction supported implication.</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -56,7 +56,7 @@ The "RAO Schedule" is the Schedule.</sentence>
 <sentence id="s29">According to the respondents, that history explains why r 6 is to be construed as setting up a mandatory requirement that a proceeding under s 163 , 164 or 164A be commenced by rule to show cause, notwithstanding that no such requirement appears explicitly stated in the terms of that rule.</sentence>
 <sentence id="s30">According to the applicant, the history demonstrates why r 6 should not be construed any more widely than its express terms permit and why, in particular, there is no implied requirement as to procedure of the kind proposed by the respondents.</sentence>
 <sentence id="s31">In their rehearsal of the relevant history, the parties did not take me further back than the Conciliation and Arbitration Regulations , as they existed in 1956.</sentence>
-<sentence id="s32">Although there was then no equivalent to the present s 164A of the Schedule, provisions equivalent to the present ss 163 and 164 were to be found in ss 140 and 141 of the Conciliation and Arbitration Act 1904 (Cth) ("the C &amp; A Act").</sentence>
+<sentence id="s32">Although there was then no equivalent to the present s 164A of the Schedule, provisions equivalent to the present ss 163 and 164 were to be found in ss 140 and 141 of the Conciliation and Arbitration Act 1904 (Cth) ("the C &amp;amp; A Act").</sentence>
 <sentence id="s33">In 1956, reg 70(1) provided as follows: 
  Proceedings under paragraph (a) of (b) of sub-section (1.</sentence>
 <sentence id="s34">) of section 109, under section 140 or 141, under sub-section (1.</sentence>
@@ -64,8 +64,8 @@ The "RAO Schedule" is the Schedule.</sentence>
 <sentence id="s36">
 
  
-Paragraphs (a) and (b) of s 109(1) of the C &amp; A Act, in 1956, empowered the Commonwealth Industrial Court to order compliance with an award and to enjoin an organisation or person from contravening the Act or an award.</sentence>
-<sentence id="s37">Section 143 empowered that court to cancel the registration of an organisation under the C &amp; A Act.</sentence>
+Paragraphs (a) and (b) of s 109(1) of the C &amp;amp; A Act, in 1956, empowered the Commonwealth Industrial Court to order compliance with an award and to enjoin an organisation or person from contravening the Act or an award.</sentence>
+<sentence id="s37">Section 143 empowered that court to cancel the registration of an organisation under the C &amp;amp; A Act.</sentence>
 <sentence id="s38">Section 150 empowered that court, on the application of an organisation, to order that a person cease to be a member of the organisation.</sentence>
 <sentence id="s39">In 1956, reg 138 contained the following provisions: 
  (1.</sentence>
@@ -79,7 +79,7 @@ Paragraphs (a) and (b) of s 109(1) of the C &amp; A Act, in 1956, empowered the 
  
 It appears that, at that time, the procedure of the Commonwealth Industrial Court was governed by the regulations, rather than by any rules of court.</sentence>
 <sentence id="s46">The position in 1956 was, therefore, as follows.</sentence>
-<sentence id="s47">Commencement of a proceeding under ss 140 or 141 of the C &amp; A Act had to be by rule to show cause.</sentence>
+<sentence id="s47">Commencement of a proceeding under ss 140 or 141 of the C &amp;amp; A Act had to be by rule to show cause.</sentence>
 <sentence id="s48">An applicant in such a proceeding might apply for financial assistance to the Industrial Registrar, who might direct that the assistance be given if he or she took the view that there were reasonable grounds for the proceeding, and that the proceeding was proposed to be taken in good faith.</sentence>
 <sentence id="s49">That position continued to obtain until 1972.</sentence>
 <sentence id="s50">In April 1972, reg 138 was repealed, and was replaced by the following (I set out only the first four of seven sub-regulations): 
@@ -103,9 +103,9 @@ At this time, reg 70 still required that proceedings under ss 140 and 141 be com
 <sentence id="s61">If that condition were satisfied, and if an application were made, it was for the Attorney-General (rather than the Industrial Registrar) to decide whether assistance should be provided in accordance with the criteria referred to in the Regulations.</sentence>
 <sentence id="s62">Regulation 138 as introduced in April 1972 had a short life.</sentence>
 <sentence id="s63">It was repealed in June 1972.</sentence>
-<sentence id="s64">However, substantially identical provisions were introduced into the C &amp; A Act itself at the same time, in the form of a new s 141A.</sentence>
+<sentence id="s64">However, substantially identical provisions were introduced into the C &amp;amp; A Act itself at the same time, in the form of a new s 141A.</sentence>
 <sentence id="s65">It would be repetitive to set out the provisions of that section.</sentence>
-<sentence id="s66">At the same time, s 141B was introduced into the C &amp; A Act, subs (1) and (2) of which were as follows: 
+<sentence id="s66">At the same time, s 141B was introduced into the C &amp;amp; A Act, subs (1) and (2) of which were as follows: 
  (1) A person (not including an organization) who - 
  (a) has been a party, otherwise than as an applicant or complainant, to proceedings under section 140 or 141; and
  (b) has paid, or become liable to pay, costs or expenses in connection with the proceedings,
@@ -117,7 +117,7 @@ At this time, reg 70 still required that proceedings under ss 140 and 141 be com
 The effect of s 141B was, for the first time, to permit a person other than an applicant to apply for financial assistance from the Commonwealth.</sentence>
 <sentence id="s68">The first Rules of the Federal Court were made in 1979.</sentence>
 <sentence id="s69">Order 4 dealt with the subject "commencement of proceedings".</sentence>
-<sentence id="s70">Rule 15 of O 4 dealt with the subject of proceedings under ss 140 and 141 of the C &amp; A Act.</sentence>
+<sentence id="s70">Rule 15 of O 4 dealt with the subject of proceedings under ss 140 and 141 of the C &amp;amp; A Act.</sentence>
 <sentence id="s71">Subrules (1) and (2) were as follows: 
  (1) This rule shall operate only for so long as sub-section 141A(2) of the Conciliation and Arbitration Act 1904 specifies the making of a rule as a condition precedent to the grant of financial assistance.</sentence>
 <sentence id="s72">(2) A proceeding under section 140 of section 141 of the Conciliation and Arbitration Act 1904 shall be by rule in accordance with Form 6 calling upon the person or organization concerned to show cause why the order should not be made.</sentence>
@@ -127,11 +127,11 @@ The effect of s 141B was, for the first time, to permit a person other than an a
 It was further provided that an application for a rule be made to a Judge ex parte , and be supported by an affidavit verifying the facts upon which it was based.</sentence>
 <sentence id="s74">The requirements of such an affidavit were specified.</sentence>
 <sentence id="s75">Upon grant of the rule, the applicant was required to file the rule and the supporting affidavit with the Registrar of the court.</sentence>
-<sentence id="s76">At this time, reg 70 of the regulations made under the C &amp; A Act remained in force.</sentence>
-<sentence id="s77">In May 1981, most of the provisions of the regulations made under the C &amp; A Act relating to proceedings in the Commonwealth Industrial Court, including reg 70, were repealed.</sentence>
-<sentence id="s78">In 1988 (but operative from 1 March 1989), the C &amp; A Act was repealed and replaced by the Industrial Relations Act 1988 (Cth) ("the IR Act").</sentence>
-<sentence id="s79">What had been ss 140 and 141 of the C &amp; A Act were substantially re-enacted as ss 208 and 209 of the IR Act.</sentence>
-<sentence id="s80">What had been the subject of ss 141A and 141B of the C &amp; A Act was henceforth covered by s 342 of the IR Act, subs (1) and (2) of which were as follows: 
+<sentence id="s76">At this time, reg 70 of the regulations made under the C &amp;amp; A Act remained in force.</sentence>
+<sentence id="s77">In May 1981, most of the provisions of the regulations made under the C &amp;amp; A Act relating to proceedings in the Commonwealth Industrial Court, including reg 70, were repealed.</sentence>
+<sentence id="s78">In 1988 (but operative from 1 March 1989), the C &amp;amp; A Act was repealed and replaced by the Industrial Relations Act 1988 (Cth) ("the IR Act").</sentence>
+<sentence id="s79">What had been ss 140 and 141 of the C &amp;amp; A Act were substantially re-enacted as ss 208 and 209 of the IR Act.</sentence>
+<sentence id="s80">What had been the subject of ss 141A and 141B of the C &amp;amp; A Act was henceforth covered by s 342 of the IR Act, subs (1) and (2) of which were as follows: 
  (1) Subject to this Division, the Minister may, on application made by a person under subsection (2), authorise payment by the Commonwealth to the person of financial assistance in relation to the whole or part of the person's relevant costs, if the Minister is satisfied:
  (a) that hardship is likely to be caused to the person if the application is refused; and
  (b) that in all the circumstances it is reasonable that the application should be granted.</sentence>
@@ -154,12 +154,12 @@ It was further provided that an application for a rule be made to a Judge ex par
 <sentence id="s82">
 
  
-For the most part, s 342 represented no more than a reorganisation (and consolidation) of provisions which had existed in different places in the C &amp; A Act, alongside the substantive provisions (relating to court proceedings) to which they related.</sentence>
+For the most part, s 342 represented no more than a reorganisation (and consolidation) of provisions which had existed in different places in the C &amp;amp; A Act, alongside the substantive provisions (relating to court proceedings) to which they related.</sentence>
 <sentence id="s83">In s 342(2), par (a) reflected the terms of the previous s 141A, par (b) reflected those of s 141B, par (d) reflected those of s 168(1), par (e) reflected those of s 168(2), par (f) reflected those of s 168(3), par (g) reflected those of s 132H(1), par (h) reflected those of s 132H(2), par (j) reflected those of s 132H(3), par (k) reflected those of s 132J and pars (m), (n) and (o) reflected the combined operation of ss 158U and 168.</sentence>
 <sentence id="s84">Paragraph (c) was new in 1988, as were pars (p) and (q) (the latter of which was introduced on the recommendation of the Committee of Review into Australian Industrial Relations Law and Systems: see its Report , April 1985, par 9.166).</sentence>
-<sentence id="s85">To reflect the repeal of the C &amp; A Act and the enactment of the IR Act, the Federal Court Rules were amended in 1989.</sentence>
-<sentence id="s86">The reference to s 141A of the C &amp; A Act was omitted from O 4 r 15(1), and replaced by a reference to s 342(2)(a) of the IR Act.</sentence>
-<sentence id="s87">References in O 4 r 15 to ss 140 and 141 of the C &amp; A Act were replaced by references to ss 208 and 209, respectively, of the IR Act.</sentence>
+<sentence id="s85">To reflect the repeal of the C &amp;amp; A Act and the enactment of the IR Act, the Federal Court Rules were amended in 1989.</sentence>
+<sentence id="s86">The reference to s 141A of the C &amp;amp; A Act was omitted from O 4 r 15(1), and replaced by a reference to s 342(2)(a) of the IR Act.</sentence>
+<sentence id="s87">References in O 4 r 15 to ss 140 and 141 of the C &amp;amp; A Act were replaced by references to ss 208 and 209, respectively, of the IR Act.</sentence>
 <sentence id="s88">A new r 16 was introduced into O 4 making like provision in the case of proceedings under s 261 of the IR Act, which were, as I have said, picked up by par (q) of s 342(2).</sentence>
 <sentence id="s89">The Industrial Relations Court of Australia was established in 1994.</sentence>
 <sentence id="s90">In October of that year, the Judges of that court made Rules of Court, which included provisions in the same terms as the then existing rr 15 and 16 of O 4 of the Federal Court Rules .</sentence>
@@ -178,7 +178,7 @@ Correspondingly, in July 1995 rr 15 and 16 of O 4 of the Federal Court Rules wer
 <sentence id="s99">It is Division 3 with which I am presently concerned.</sentence>
 <sentence id="s100">Save for changes to numbering to reflect the formal reorganisation of the provisions of the WR Act which governed the conduct and operation of registered organisations, the provisions of Division 3 of O 48 have remained unchanged since, and are those under which the present question must be decided.</sentence>
 <sentence id="s101">The summary which I have provided in pars 5 and 6 above sufficiently states the position as it was introduced in 1997.</sentence>
-<sentence id="s102">All of the provisions to which I have referred --- whether it be reg 70 of the Regulations made under the C &amp; A Act or relevant rules of court --- down to 1997 required a proceeding under the provisions which are now ss 163 and 164 of the Schedule to be commenced by rule to show cause.</sentence>
+<sentence id="s102">All of the provisions to which I have referred --- whether it be reg 70 of the Regulations made under the C &amp;amp; A Act or relevant rules of court --- down to 1997 required a proceeding under the provisions which are now ss 163 and 164 of the Schedule to be commenced by rule to show cause.</sentence>
 <sentence id="s103">Most recently, O 4 r 15(2) of the Rules of the Industrial Relations Court provided that a proceeding under what were then ss 208 and 209 of the IR Act "must be by rule ... calling upon the person or organisation concerned to show cause why the order should not be made".</sentence>
 <sentence id="s104">The clear mandatory terms of that provision found no expression in Division 3 of O 48 of the Federal Court Rules as introduced in 1997, and find no expression in that Division in its present terms.</sentence>
 <sentence id="s105">Thus the applicant submits that what once was mandatory is no longer so.</sentence>
@@ -238,7 +238,7 @@ Dated: 12 June 2009
  
  Counsel for the Applicant: Mr H Borenstein SC with Mr W Friend 
  
- Solicitor for the Applicant: Macpherson &amp; Kelley 
+ Solicitor for the Applicant: Macpherson &amp;amp; Kelley 
  
  Counsel for the First Respondent: Mr Bromberg SC with Mr C Dowling 
  
@@ -246,7 +246,7 @@ Dated: 12 June 2009
  
  Counsel for the Second Respondent: Mr D Langmead 
  
- Solicitor for the Second Respondent: Slater &amp; Gordon 
+ Solicitor for the Second Respondent: Slater &amp;amp; Gordon 
  Date of Hearing: 3 June 2009 
  
  Date of Judgment: 12 June 2009 

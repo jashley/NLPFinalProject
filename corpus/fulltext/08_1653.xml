@@ -3,10 +3,10 @@
 <name>Australian Tea Tree Oil Research Institute Ltd (in liq) v Commissioner of Taxation [2008] FCA 1653 (14 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1653.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether companies undertaking scientific research are 'scientific institutions' and in consequence exempt from income tax under applicable legislation</catchphrase>
-<catchphrase "id=c1">relevant indicia for determining status as a scientific institution</catchphrase>
-<catchphrase "id=c2">measure of research fees to be brought to account as assessable income if not exempt from income tax</catchphrase>
-<catchphrase "id=c3">income tax</catchphrase>
+<catchphrase id="c0">whether companies undertaking scientific research are 'scientific institutions' and in consequence exempt from income tax under applicable legislation</catchphrase>
+<catchphrase id="c1">relevant indicia for determining status as a scientific institution</catchphrase>
+<catchphrase id="c2">measure of research fees to be brought to account as assessable income if not exempt from income tax</catchphrase>
+<catchphrase id="c3">income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -14,7 +14,7 @@
  
 1 These are two sets of appeals pursuant to s 14ZZ of the Taxation Administration Act 1953 (Cth), the first by Australian Tea Tree Oil Research Institute Limited (in liquidation) ('ATTORI') against objection decisions dated 4 August 2004 made by the respondent ('the Commissioner') in respect of the years of income ended 30 June 1996 ('the 996 year'), 30 June 1997 ('the 1997 year'), 30 June 1998 ('1998 year') and 30 June 1999 ('the 1999 year'); and the second by Australian Agriculture Research Institute Limited (in liquidation) ('AARI') against objection decisions dated 13 October 2004 made by the Commissioner in respect of the 1997 year, the 1998 year and the 1999 year.</sentence>
 <sentence id="s1">2 These appeals were heard immediately following the hearing of the appeals by Business and Research Management Limited (in liquidation) ('BARM').</sentence>
-<sentence id="s2">Notwithstanding that the issues in these appeals are not coterminous with the issues in the BARM appeals, there is a possible common issue and they arise out of the same factual background, which is set out in [4] --- [41] of the reasons for judgment in Business &amp; Research Management Pty Ltd v Commissioner of Taxation [2008] FCA 1652.</sentence>
+<sentence id="s2">Notwithstanding that the issues in these appeals are not coterminous with the issues in the BARM appeals, there is a possible common issue and they arise out of the same factual background, which is set out in [4] --- [41] of the reasons for judgment in Business &amp;amp; Research Management Pty Ltd v Commissioner of Taxation [2008] FCA 1652.</sentence>
 <sentence id="s3">The roles of ATTORI and AARI as the researchers in the Budplan projects are referred to at various parts of that background.</sentence>
 <sentence id="s4">In particular, it is noted at [8(3)] that ATTORI was engaged to conduct research and development for all projects except for Budplan 'A' Series No.</sentence>
 <sentence id="s5">1 and Personal Budplan No.</sentence>
@@ -209,10 +209,10 @@
  
 42 Despite the stated objects in its Memorandum of Association, the Prospectus, Management Agreements and Research Agreements for the Budplans suggest that the incorporators had a rather different purpose in bringing ATTORI into existence, namely:
  
-&#8226; To undertake research for reward pursuant to contractual obligations arising under the Personal Syndicate Deed for Budplan Personal Syndicate or the Research Agreements for the remainder of the Budplans entered into with the Participants and others.</sentence>
-<sentence id="s84">&#8226; To provide the Budplan Participants and BARM, as Manager, with the 'Research Results' so that those results could be commercially exploited for the benefit of Participants and BARM.</sentence>
-<sentence id="s85">&#8226; To further the commercial interests of the Mainstar group of companies, particularly in relation to sales of the product, Main Camp Premium Pharmaceutical Grade Tea Tree Oil.</sentence>
-<sentence id="s86">&#8226; To perform the research function in a large commercial venture with a view to making profits and securing tax advantages for the various players.</sentence>
+&amp;#8226; To undertake research for reward pursuant to contractual obligations arising under the Personal Syndicate Deed for Budplan Personal Syndicate or the Research Agreements for the remainder of the Budplans entered into with the Participants and others.</sentence>
+<sentence id="s84">&amp;#8226; To provide the Budplan Participants and BARM, as Manager, with the 'Research Results' so that those results could be commercially exploited for the benefit of Participants and BARM.</sentence>
+<sentence id="s85">&amp;#8226; To further the commercial interests of the Mainstar group of companies, particularly in relation to sales of the product, Main Camp Premium Pharmaceutical Grade Tea Tree Oil.</sentence>
+<sentence id="s86">&amp;#8226; To perform the research function in a large commercial venture with a view to making profits and securing tax advantages for the various players.</sentence>
 <sentence id="s87">Budplan Personal Syndicate Prospectus 
  
 43 The prospectus revealed that the Budplan Personal Syndicate would carry on business, part of which would comprise undertaking the development for potential manufacture and sale of specified products and markets, with business profits being returned to the Participants.</sentence>
@@ -328,7 +328,7 @@ Glendon Michael Stotter
  
 66 The shareholding in BARM for the 1996, 1997, 1998 and 1999 years was as follows:
  
-(a) BARM was wholly owned by Mainstar One Funds Management Pty Limited (formerly Land &amp; Assets Developments Pty Ltd).</sentence>
+(a) BARM was wholly owned by Mainstar One Funds Management Pty Limited (formerly Land &amp;amp; Assets Developments Pty Ltd).</sentence>
 <sentence id="s163">(b) Mainstar One Funds Management Pty Limited was wholly owned by Mainstar One Holdings Pty Limited.</sentence>
 <sentence id="s164">(c) The holdings of all issued shares in Mainstar One Holdings Pty Limited were:
  
@@ -417,9 +417,9 @@ Glendon Michael Stotter
 <sentence id="s203">Importantly, all agreements protected for ATTORI any intellectual property created and developed in the course of the project and all contained confidentiality clauses.</sentence>
 <sentence id="s204">Importantly, agreements with universities contained a clause requiring the approval of ATTORI in order to be able to publish findings.</sentence>
 <sentence id="s205">Further, in the case of the agreement with the University of Tennessee, the University could publish results provided the confidential proprietary information of ATTORI was publicly known.</sentence>
-<sentence id="s206">86 Importantly, there was a research agreement with the Centre for Molecular Biology &amp; Medicine that appears to represent a complete out-sourcing of all the research and development obligations of ATTORI under Personal Budplan No.</sentence>
+<sentence id="s206">86 Importantly, there was a research agreement with the Centre for Molecular Biology &amp;amp; Medicine that appears to represent a complete out-sourcing of all the research and development obligations of ATTORI under Personal Budplan No.</sentence>
 <sentence id="s207">4.</sentence>
-<sentence id="s208">In other words, the actual scientific activity in relation to Co-enzyme Q10 appears to have been entirely carried out by the Centre for Molecular Biology &amp; Medicine at the Austin &amp; Repatriation Medical Centre, West Heidelberg.</sentence>
+<sentence id="s208">In other words, the actual scientific activity in relation to Co-enzyme Q10 appears to have been entirely carried out by the Centre for Molecular Biology &amp;amp; Medicine at the Austin &amp;amp; Repatriation Medical Centre, West Heidelberg.</sentence>
 <sentence id="s209">The 1999 Year 
  
 87 There was a single employee engaged in the 1999 year.</sentence>
@@ -482,7 +482,7 @@ Glendon Michael Stotter
 <sentence id="s240">Consultancy Agreement 
  
 98 A single consultancy agreement was entered into on 4 September 1998 with Professor Waterman.</sentence>
-<sentence id="s241">Under the agreement, all existing and future intellectual property rights developed in carrying out the services were assigned to ATTORI and all future intellectual property rights vested in ATTORI from the date of their creation: cll 3.2(a) &amp; (b).</sentence>
+<sentence id="s241">Under the agreement, all existing and future intellectual property rights developed in carrying out the services were assigned to ATTORI and all future intellectual property rights vested in ATTORI from the date of their creation: cll 3.2(a) &amp;amp; (b).</sentence>
 <sentence id="s242">ATTORI's prior written consent was required before Professor Waterman could disclose any of the results in any published article or at any conference or make any public statement relating to the services or any party's involvement in them: cl 3.3.</sentence>
 <sentence id="s243">Importantly, ATTORI could withhold its consent in relation to a disclosure or statement referred to in cl 3.3, if 'in ATTORI's opinion the disclosure or statement may adversely affect ATTORI's commercial or scientific interests': cl 3.4.</sentence>
 <sentence id="s244">Clause 8 required Professor Waterman to keep confidential all intellectual property and research results and commercial arrangements between the parties in relation to the services.</sentence>
@@ -616,7 +616,7 @@ Glendon Michael Stotter
 <sentence id="s312">130 Further research resources were obtained by: 
  
 (a) subcontracting research work to other research institutions which had specialised scientific expertise or equipment not possessed by AARI or its staff.</sentence>
-<sentence id="s313">These included FioBio Ltd, the Cooperative Research Centre for Tropical Plant Pathology, E. I. du Pont de Nemours &amp; Co and Southern Cross University;
+<sentence id="s313">These included FioBio Ltd, the Cooperative Research Centre for Tropical Plant Pathology, E. I. du Pont de Nemours &amp;amp; Co and Southern Cross University;
  
 (b) providing scholarships to universities for study in the areas of AARI's research, making the skills and expertise of the scholarship holders available to AARI;
  
@@ -658,11 +658,11 @@ Glendon Michael Stotter
 <sentence id="s338">1 (Prospectus dated 10 March 1997, containing unexecuted copies of the Management Agreement and Research Agreement) and Personal Budplan No.</sentence>
 <sentence id="s339">5 (Prospectus dated 16 June 1997, containing unexecuted copies of the Management Agreement and Research Agreement) --- suggest that the incorporators had a rather different purpose in bringing AARI into existence, namely:
  
-&#8226; To undertake research for reward pursuant to contractual obligations arising under Research Agreements entered into with the Participants and others.</sentence>
-<sentence id="s340">&#8226; To provide BARM, as Manager, with the 'Research Results' so that those results could be commercially exploited for the benefit of Participants and BARM .</sentence>
+&amp;#8226; To undertake research for reward pursuant to contractual obligations arising under Research Agreements entered into with the Participants and others.</sentence>
+<sentence id="s340">&amp;#8226; To provide BARM, as Manager, with the 'Research Results' so that those results could be commercially exploited for the benefit of Participants and BARM .</sentence>
 <sentence id="s341">
  
-&#8226; To perform the research function in a large commercial venture with a view to making profits and securing tax advantages for the various players.</sentence>
+&amp;#8226; To perform the research function in a large commercial venture with a view to making profits and securing tax advantages for the various players.</sentence>
 <sentence id="s342">142 The Research Agreement for Budplan 'A' Series No.</sentence>
 <sentence id="s343">1 is between AARI, the Participants, BARM and Australian Rural Group Limited ('ARG').</sentence>
 <sentence id="s344">It is dated 16 June 1997.</sentence>
@@ -720,8 +720,8 @@ Peter Charles Lucas
 153 The AARI, BARM and Mainstar companies shared a number of directors.</sentence>
 <sentence id="s369">By way of example:
  
-&#8226; The original directors of AARI from 20 January 1997 were Mr Stotter, Mr Gallagher and Mr Priest, each of whom was a director of Mainstar One Holdings Pty Ltd, Mainstar One Funds Management Pty Ltd and BARM in 1997.</sentence>
-<sentence id="s370">&#8226; Mr Law was the original secretary of AARI.</sentence>
+&amp;#8226; The original directors of AARI from 20 January 1997 were Mr Stotter, Mr Gallagher and Mr Priest, each of whom was a director of Mainstar One Holdings Pty Ltd, Mainstar One Funds Management Pty Ltd and BARM in 1997.</sentence>
+<sentence id="s370">&amp;#8226; Mr Law was the original secretary of AARI.</sentence>
 <sentence id="s371">In the 1997 year, Mr Law was the secretary of Mainstar One Holdings Pty Ltd, Mainstar One Funds Management Pty Ltd and BARM.</sentence>
 <sentence id="s372">154 Mr and Mrs Stotter continued to be members of AARI and ATTORI at all material times.</sentence>
 <sentence id="s373">155 Pursuant to the terms of the Research Agreements, in the event of any sale of the Research Results, BARM was entitled in its own right to the payment by the Participant of a lump sum royalty equal to 50% of the gross sale proceeds of the relevant Research Results.</sentence>
@@ -747,21 +747,21 @@ Peter Charles Lucas
 <sentence id="s387">It was not in fact performed by AARI at all.</sentence>
 <sentence id="s388">163 Thus, on 23 December 1997, AARI, ARG and the Southern Cross University entered into a 'Research Agreement':
  
-&#8226; The purpose of the agreement was for the University (described as 'The Researcher') to undertake the Project.</sentence>
-<sentence id="s389">&#8226; Project was defined to mean the work described in Schedule 1 (cl 1.1).</sentence>
+&amp;#8226; The purpose of the agreement was for the University (described as 'The Researcher') to undertake the Project.</sentence>
+<sentence id="s389">&amp;#8226; Project was defined to mean the work described in Schedule 1 (cl 1.1).</sentence>
 <sentence id="s390">It is clearly the research that AARI had contracted to provide to BARM.</sentence>
-<sentence id="s391">&#8226; All the 'Intellectual Property' would be AARI's (cl 4).</sentence>
-<sentence id="s392">&#8226; The University was not permitted to disclose any of the research or the 'Results' in any published article or conference (cl 4.3).</sentence>
+<sentence id="s391">&amp;#8226; All the 'Intellectual Property' would be AARI's (cl 4).</sentence>
+<sentence id="s392">&amp;#8226; The University was not permitted to disclose any of the research or the 'Results' in any published article or conference (cl 4.3).</sentence>
 <sentence id="s393">AARI might consent to disclosure if, in AARI's opinion, the disclosure might affect AARI's 'commercial or scientific interests' (cl 4.4).</sentence>
 <sentence id="s394">The University had to keep all Intellectual Property confidential (cl 12).</sentence>
-<sentence id="s395">&#8226; The agreement did not constitute AARI as a joint venturer or partner of the University (cl 10).</sentence>
-<sentence id="s396">&#8226; The 'Principal Researchers' (cl 1.1) were ForBio Limited and the Centre for Plant Conservation Genetics (sch 4).</sentence>
-<sentence id="s397">&#8226; It is clear that the activities were only to commence in early 1998.</sentence>
+<sentence id="s395">&amp;#8226; The agreement did not constitute AARI as a joint venturer or partner of the University (cl 10).</sentence>
+<sentence id="s396">&amp;#8226; The 'Principal Researchers' (cl 1.1) were ForBio Limited and the Centre for Plant Conservation Genetics (sch 4).</sentence>
+<sentence id="s397">&amp;#8226; It is clear that the activities were only to commence in early 1998.</sentence>
 <sentence id="s398">164 As contemplated by the agreement with the University, the remaining research was carried out by ForBio pursuant to an agreement dated 1 June 1997:
  
-&#8226; It contained similar clauses vesting intellectual property in AARI (cl 3) and preserving confidentiality (cl 10).</sentence>
-<sentence id="s399">&#8226; The commencement date was 1 July 1997: see Second Schedule at page 467.</sentence>
-<sentence id="s400">&#8226; Invoices for work issued in amounts totalling $5.6 million.</sentence>
+&amp;#8226; It contained similar clauses vesting intellectual property in AARI (cl 3) and preserving confidentiality (cl 10).</sentence>
+<sentence id="s399">&amp;#8226; The commencement date was 1 July 1997: see Second Schedule at page 467.</sentence>
+<sentence id="s400">&amp;#8226; Invoices for work issued in amounts totalling $5.6 million.</sentence>
 <sentence id="s401">The evidence does not disclose whether these were all paid (although some appear to have been).</sentence>
 <sentence id="s402">165 The fact that it was the University and ForBio, and not AARI that carried out all of the scientific work is also evident from the University progress reports to AARI from 29 January 1998 to March/April 2000.</sentence>
 <sentence id="s403">It is also clear from the 'Deed of Commercialisation' between the Southern Cross University and ARG, unsigned and undated, but apparently entered into.</sentence>
@@ -829,22 +829,22 @@ Peter Charles Lucas
 <sentence id="s451">Employees of AARI were not permitted to (see [175] and [176] above) and did not publish material of any commercial value (see below).</sentence>
 <sentence id="s452">187 A number of matters should be noted about the articles in evidence:
  
-&#8226; It is apparent on the face of them that they were authored by people who included people who were not apparently associated with AARI.</sentence>
-<sentence id="s453">&#8226; No articles were written in 1997 or 1998.</sentence>
-<sentence id="s454">&#8226; One article was written in 1999.</sentence>
+&amp;#8226; It is apparent on the face of them that they were authored by people who included people who were not apparently associated with AARI.</sentence>
+<sentence id="s453">&amp;#8226; No articles were written in 1997 or 1998.</sentence>
+<sentence id="s454">&amp;#8226; One article was written in 1999.</sentence>
 <sentence id="s455">In comparison to later articles, it is short and general.</sentence>
 <sentence id="s456">More significantly, however, it was only permitted to be submitted for publication because the material in it was the subject of a provisional patent application and AARI had approved it.</sentence>
-<sentence id="s457">&#8226; As noted above, employees were forbidden from disclosing material without AARI's consent.</sentence>
-<sentence id="s458">&#8226; The remaining articles were written from 2000 to 2005.</sentence>
+<sentence id="s457">&amp;#8226; As noted above, employees were forbidden from disclosing material without AARI's consent.</sentence>
+<sentence id="s458">&amp;#8226; The remaining articles were written from 2000 to 2005.</sentence>
 <sentence id="s459">Its activities in those years are of marginal, if any, relevance to the characterisation of its activities in the relevant years, namely 1997 to 1999.</sentence>
 <sentence id="s460">AARI went into administration on 19 May 2000.</sentence>
 <sentence id="s461">At that time, the research projects were not at a stage where it was likely that commercial realisation of the results could be achieved.</sentence>
 <sentence id="s462">188 A number of observations should be made about the conferences or oral presentations summarised in the evidence:
  
-&#8226; There were none in 1997 or 1998.</sentence>
-<sentence id="s463">&#8226; There was one in 1999.</sentence>
-<sentence id="s464">&#8226; As noted above, employees were forbidden from disclosing material without AARI's consent.</sentence>
-<sentence id="s465">&#8226; The remaining conferences were from 2000 to 2002.</sentence>
+&amp;#8226; There were none in 1997 or 1998.</sentence>
+<sentence id="s463">&amp;#8226; There was one in 1999.</sentence>
+<sentence id="s464">&amp;#8226; As noted above, employees were forbidden from disclosing material without AARI's consent.</sentence>
+<sentence id="s465">&amp;#8226; The remaining conferences were from 2000 to 2002.</sentence>
 <sentence id="s466">Its activities in those years are of marginal, if any, relevance to the characterisation of its activities in the relevant years, namely 1997 to 1999.</sentence>
 <sentence id="s467">AARI went into administration on 19 May 2000.</sentence>
 <sentence id="s468">At that time, the research projects were not at a stage where it was likely that commercial realisation of the results could be achieved.</sentence>
@@ -902,7 +902,7 @@ This suggests to me that before an entity can be a 'scientific institution', it 
 <sentence id="s506">205 Gibbs CJ did not find it necessary to decide whether, in considering whether a company came within s 117(1) , the subjective motives and intentions of the promoters should be taken into account, although he said that it was clear that the court must consider the activities that the company actually carried on (at 445).</sentence>
 <sentence id="s507">206 Mason J said at 450 --- 451:
  '[I]n ascertaining the purpose for which a company "is established" it is necessary to look, not only to circumstances existing at the time of incorporation, but also to the activities of the company at the time when its status as a co-operative company is to be determined.</sentence>
-<sentence id="s508">No doubt it was the presence of the words "is established" and the purpose of the section that led Fullagar J in A &amp; S Ruffy Pty Ltd v Commissioner of Taxation (Cth) [1958] HCA 18 ; (1958) 98 CLR 637 ... and Menzies J in Renmark Fruitgrowers Co-operated Ltd v Commissioner of Taxation [1969] HCA 56 ; (1969) 121 CLR 501 ... to adopt this approach.</sentence>
+<sentence id="s508">No doubt it was the presence of the words "is established" and the purpose of the section that led Fullagar J in A &amp;amp; S Ruffy Pty Ltd v Commissioner of Taxation (Cth) [1958] HCA 18 ; (1958) 98 CLR 637 ... and Menzies J in Renmark Fruitgrowers Co-operated Ltd v Commissioner of Taxation [1969] HCA 56 ; (1969) 121 CLR 501 ... to adopt this approach.</sentence>
 <sentence id="s509">To my mind it is evidently correct, allowing, as it does, that the purpose for which a company is established may change in the course of time and that with the change of purpose there may come a change in status as a co-operative company.</sentence>
 <sentence id="s510">Moreover, in Ruffy ... the Court explicitly rejected the suggestion that the objects of the business were to be gathered solely from the objects clause in the memorandum.</sentence>
 <sentence id="s511">In that case the Court, in characterising the object of the business, looked to the business activities of the company after its incorporation as well as to the purpose of its incorporation -- ...</sentence>
@@ -975,7 +975,7 @@ This suggests to me that before an entity can be a 'scientific institution', it 
 (e) rather than generally disseminating the results of the scientific research, steps were taken to ensure that the results would be kept confidential --- which was no doubt important for their commercial exploitation;
  
 (f) much of the scientific research that each of ATTORI and AARI was obliged to carry out for the Budplan syndicates was in any event not carried out by them, but was carried out by other persons pursuant to contracts entered into for that purpose (e.g.</sentence>
-<sentence id="s554">Southern Cross University, Centre for Molecular Biology &amp; Medicine at the Austin &amp; Repatriation Medical Centre).</sentence>
+<sentence id="s554">Southern Cross University, Centre for Molecular Biology &amp;amp; Medicine at the Austin &amp;amp; Repatriation Medical Centre).</sentence>
 <sentence id="s555">In such instances, each of ATTORI and AARI acted as, in effect, a middleman, by undertaking a contractual obligation and then engaging a sub-contractor to perform work so that its primary obligation would be discharged;
  
 (g) Some sponsorship and fellowship arrangements were entered into, but in circumstances where the recipients had to enter into confidentiality agreements, any resultant intellectual property would be vested in ATTORI and AARI;
@@ -1013,7 +1013,7 @@ This suggests to me that before an entity can be a 'scientific institution', it 
 <sentence id="s581">226 My findings that ATTORI and AARI were not 'scientific institutions' within the applicable statutory provision in the relevant years of income necessitates that I address issue 2.</sentence>
 <sentence id="s582">ISSUE 2: THE QUANTUM OF THE RESEARCH FEES TO BE BROUGHT TO ACCOUNT AS ASSESSABLE INCOME IN THE HANDS OF EACH OF ATTORI AND AARI 
  
-227 This is the same issue that arose, was considered and decided in Business &amp; Research Management Pty Ltd v Commissioner of Taxation [2008] FCA 1652 in respect of the management fees.</sentence>
+227 This is the same issue that arose, was considered and decided in Business &amp;amp; Research Management Pty Ltd v Commissioner of Taxation [2008] FCA 1652 in respect of the management fees.</sentence>
 <sentence id="s583">Here, it is in respect of the research fees, but it arises out of the same factual background.</sentence>
 <sentence id="s584">228 While the arguments in the present case were not identical to those that were ventilated in the BARM case, they do traverse common ground.</sentence>
 <sentence id="s585">For the reasons given in that case, the applicants in the present case cannot succeed on this issue.</sentence>

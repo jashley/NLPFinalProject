@@ -3,12 +3,12 @@
 <name>SZIVK v Minister for Immigration and Citizenship [2008] FCA 334 (13 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/334.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review</catchphrase>
-<catchphrase "id=c1">protection visa</catchphrase>
-<catchphrase "id=c2">allegation that migration agent provided false information and forged documents to refugee review tribunal</catchphrase>
-<catchphrase "id=c3">on review magistrate refused to determine allegation of fraud</catchphrase>
-<catchphrase "id=c4">whether necessary to give agent notice of allegation</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase id="c0">judicial review</catchphrase>
+<catchphrase id="c1">protection visa</catchphrase>
+<catchphrase id="c2">allegation that migration agent provided false information and forged documents to refugee review tribunal</catchphrase>
+<catchphrase id="c3">on review magistrate refused to determine allegation of fraud</catchphrase>
+<catchphrase id="c4">whether necessary to give agent notice of allegation</catchphrase>
+<catchphrase id="c5">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -185,7 +185,7 @@
 <sentence id="s159">As Lord Macnaghten said in Reddaway v Banham [1896] AC 199 , 221, in a frequently cited speech, "fraud is infinite in variety".</sentence>
 <sentence id="s160">In my opinion there can be little doubt that, if the appellant's claims be accepted, the migration agent was fraudulent in the relevant sense in his dealings with the appellant.</sentence>
 <sentence id="s161">The principal allegations are that his agent: falsely indicated in the response to hearing form that the appellant would attend the hearing when the agent knew that could not occur; and signed documents on the appellant's behalf without his knowledge, consent or authority and then forged his signature.</sentence>
-<sentence id="s162">34 As to false information, it will be fraudulent if it is made by a person who does not believe in its truth or is recklessly indifferent to its truth: Commercial Banking Company of Sydney Ltd v R H Brown &amp; Co [1972] HCA 24 ; (1972) 126 CLR 337 , 343.</sentence>
+<sentence id="s162">34 As to false information, it will be fraudulent if it is made by a person who does not believe in its truth or is recklessly indifferent to its truth: Commercial Banking Company of Sydney Ltd v R H Brown &amp;amp; Co [1972] HCA 24 ; (1972) 126 CLR 337 , 343.</sentence>
 <sentence id="s163">If the appellant's evidence is accepted, the only findings that are open are that the agent was deliberately fraudulent or, at the least, recklessly indifferent as to what he told the tribunal.</sentence>
 <sentence id="s164">The agent's conduct is particularly grievous because it is likely he knew that the appellant's non-attendance would be fatal to his application.</sentence>
 <sentence id="s165">35 As to the forged signatures, it is not unusual for courts to treat a forgery as a fraud.</sentence>

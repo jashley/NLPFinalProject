@@ -3,14 +3,14 @@
 <name>Australian Securities and Investments Commission v Warrenmang Limited [2007] FCA 973 (29 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/973.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">breach of directors' duties relating to the holding and application of funds raised in anticipation of public listing of company</catchphrase>
-<catchphrase "id=c1">where application monies not refunded to subscribers</catchphrase>
-<catchphrase "id=c2">where application monies applied for personal benefit</catchphrase>
-<catchphrase "id=c3">declarations of contravention under s 1317e of corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c4">construction of part 9.4b of corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c5">intersection of provisions relating to civil and criminal process</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
-<catchphrase "id=c7">declarations</catchphrase>
+<catchphrase id="c0">breach of directors' duties relating to the holding and application of funds raised in anticipation of public listing of company</catchphrase>
+<catchphrase id="c1">where application monies not refunded to subscribers</catchphrase>
+<catchphrase id="c2">where application monies applied for personal benefit</catchphrase>
+<catchphrase id="c3">declarations of contravention under s 1317e of corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c4">construction of part 9.4b of corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c5">intersection of provisions relating to civil and criminal process</catchphrase>
+<catchphrase id="c6">corporations</catchphrase>
+<catchphrase id="c7">declarations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -458,7 +458,7 @@ That is an uneasy position having regard to the express terms of s 1317N which d
  
  
  
- &#8226; a declaration that the person has contravened the provision; 
+ &amp;#8226; a declaration that the person has contravened the provision; 
  
  
  
@@ -466,9 +466,9 @@ That is an uneasy position having regard to the express terms of s 1317N which d
  
  
  
- &#8226; an order disqualifying the person from being a director or officer of a company for such period as it thinks fit; and 
+ &amp;#8226; an order disqualifying the person from being a director or officer of a company for such period as it thinks fit; and 
  
- &#8226; if the contravention is serious, a pecuniary penalty payable to the Commonwealth of an amount up to $200,000.</sentence>
+ &amp;#8226; if the contravention is serious, a pecuniary penalty payable to the Commonwealth of an amount up to $200,000.</sentence>
 <sentence id="s123">
  
  

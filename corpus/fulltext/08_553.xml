@@ -3,17 +3,17 @@
 <name>Strachans SA v Attorney-General (includes corrigendum dated 11 July 2008) [2008] FCA 553 (24 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/553.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for request for assistance in a criminal matter to be declared invalid, set aside or quashed</catchphrase>
-<catchphrase "id=c1">whether the request lawfully made</catchphrase>
-<catchphrase "id=c2">whether the request was made by the attorney general (cth) or the attorney general's delegate</catchphrase>
-<catchphrase "id=c3">whether the maker of a request is under an obligation to disclose all material facts</catchphrase>
-<catchphrase "id=c4">whether alleged factual defects in the request rendered the request invalid</catchphrase>
-<catchphrase "id=c5">whether reasonable grounds to believe the preconditions for making the request were satisfied</catchphrase>
-<catchphrase "id=c6">whether inclusion of allegedly privileged material rendered the request invalid</catchphrase>
-<catchphrase "id=c7">whether the involvement of the director of public prosecutions rendered the request unlawful</catchphrase>
-<catchphrase "id=c8">whether the involvement of the australian crime commission rendered the request unlawful</catchphrase>
-<catchphrase "id=c9">application dismissed</catchphrase>
-<catchphrase "id=c10">administrative law</catchphrase>
+<catchphrase id="c0">application for request for assistance in a criminal matter to be declared invalid, set aside or quashed</catchphrase>
+<catchphrase id="c1">whether the request lawfully made</catchphrase>
+<catchphrase id="c2">whether the request was made by the attorney general (cth) or the attorney general's delegate</catchphrase>
+<catchphrase id="c3">whether the maker of a request is under an obligation to disclose all material facts</catchphrase>
+<catchphrase id="c4">whether alleged factual defects in the request rendered the request invalid</catchphrase>
+<catchphrase id="c5">whether reasonable grounds to believe the preconditions for making the request were satisfied</catchphrase>
+<catchphrase id="c6">whether inclusion of allegedly privileged material rendered the request invalid</catchphrase>
+<catchphrase id="c7">whether the involvement of the director of public prosecutions rendered the request unlawful</catchphrase>
+<catchphrase id="c8">whether the involvement of the australian crime commission rendered the request unlawful</catchphrase>
+<catchphrase id="c9">application dismissed</catchphrase>
+<catchphrase id="c10">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -181,7 +181,7 @@ The letter that appeared at tab 27 was a letter prepared and sent by solicitors 
 Dated: 24 April 2008
  Counsel for the Applicant: Mr J Sher QC, Mr D Galbally QC and Mr J O'Bryan 
  
- Solicitor for the Applicant: Brown &amp; Co 
+ Solicitor for the Applicant: Brown &amp;amp; Co 
  
  Counsel for the Respondents: Mr P Hanks QC and Dr S Donaghue 
  

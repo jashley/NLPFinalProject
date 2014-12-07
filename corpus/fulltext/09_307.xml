@@ -3,10 +3,10 @@
 <name>A V Jennings Ltd ACN 004 601 503 v Bogdan (Corrigendum dated 9 April 2009) [2009] FCA 307 (1 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/307.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an appeal from the magistrates court of queensland exercising federal jurisdiction in relation to relief arising out of the contended infringement by the respondents of the copyright subsisting in the appellant's house plan</catchphrase>
-<catchphrase "id=c1">consideration of the extent to which objective similarity in the absence of direct evidence of actual use of a plan might give rise to an inference of use and reproduction of a substantial part of the work in which copyright is said to subsist</catchphrase>
-<catchphrase "id=c2">consideration of the approach to damages</catchphrase>
-<catchphrase "id=c3">intellectual property</catchphrase>
+<catchphrase id="c0">consideration of an appeal from the magistrates court of queensland exercising federal jurisdiction in relation to relief arising out of the contended infringement by the respondents of the copyright subsisting in the appellant's house plan</catchphrase>
+<catchphrase id="c1">consideration of the extent to which objective similarity in the absence of direct evidence of actual use of a plan might give rise to an inference of use and reproduction of a substantial part of the work in which copyright is said to subsist</catchphrase>
+<catchphrase id="c2">consideration of the approach to damages</catchphrase>
+<catchphrase id="c3">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -44,7 +44,7 @@
  The contentions before Magistrate Payne
  Jennings put its case at trial on this basis.</sentence>
 <sentence id="s11">Jennings is a well known designer and builder of homes throughout Australia.</sentence>
-<sentence id="s12">By paras 1(d), 3, 4 and 5 of the Amended Statement of Claim, Jennings says its employees designed and originated in 1997 a plan for a home described as the Cambridge 245 ; in 1999, the plan was refined and republished again as the Cambridge 245 ; thereafter, the plan was further refined and published as the Verona 245 , and further refined to incorporate a covered rear patio and an extended portico fa&ccedil;ade and renamed the Cortona 245 .</sentence>
+<sentence id="s12">By paras 1(d), 3, 4 and 5 of the Amended Statement of Claim, Jennings says its employees designed and originated in 1997 a plan for a home described as the Cambridge 245 ; in 1999, the plan was refined and republished again as the Cambridge 245 ; thereafter, the plan was further refined and published as the Verona 245 , and further refined to incorporate a covered rear patio and an extended portico fa&amp;ccedil;ade and renamed the Cortona 245 .</sentence>
 <sentence id="s13">By para 5(b)(iv) of the Amended Statement of Claim, Jennings contended that the Verona 245 was published in the Jennings catalogue of houses and plans.</sentence>
 <sentence id="s14">By para 5(c), Jennings contended that the plan for the Cortona 245 house was offered for sale by catalogue, exhibited at five display sites, and available on the Jennings website to customers as either the Verona 245 or the Cortona 245 .</sentence>
 <sentence id="s15">Jennings says that as a result of these steps the plan, under the description of either the Verona 245 or Cortona 245 , became its top selling house design in its display range of houses.</sentence>
@@ -484,7 +484,7 @@
 <sentence id="s322">At those paragraphs, Wilcox and Lindgren JJ note these principles.</sentence>
 <sentence id="s323">The application of the law of copyright to project homes gives rise to special difficulty as the drawing of plans for project homes involves a mixture of the use of familiar ideas based on objects in the real world and many other project homes and plans for them, on the one hand; and the labour, skill and judgment of an author in combining and expressing those ideas in an original work on the other.</sentence>
 <sentence id="s324">The more simple and straightforward the work, the closer the similarity must be for infringement to be found.</sentence>
-<sentence id="s325">The notion of reproduction involves resemblance to the owner's work and actual use of that work ( S W Hart &amp; Co Proprietary Limited v Edwards Hot Water Systems [1985] HCA 59 ; (1985) 159 CLR 466 at 472 per Gibbs CJ), or put another way, what is required is "a sufficient degree of objective similarity between the two works and ... some causal connection between [the two works]" ( Francis Day &amp; Hunter Ltd v Bron (1963) 1 Ch. 587 at p 614 per Willmer LJ).</sentence>
+<sentence id="s325">The notion of reproduction involves resemblance to the owner's work and actual use of that work ( S W Hart &amp;amp; Co Proprietary Limited v Edwards Hot Water Systems [1985] HCA 59 ; (1985) 159 CLR 466 at 472 per Gibbs CJ), or put another way, what is required is "a sufficient degree of objective similarity between the two works and ... some causal connection between [the two works]" ( Francis Day &amp;amp; Hunter Ltd v Bron (1963) 1 Ch. 587 at p 614 per Willmer LJ).</sentence>
 <sentence id="s326">Causal connection and objective similarity are components of reproduction of the work in a material form.</sentence>
 <sentence id="s327">Causal connection might be inferred from access to the plan in suit and objective similarity between that work and the plan said to infringe.</sentence>
 <sentence id="s328">Too much can be made of the distinction between the work and a substantial part of it.</sentence>
@@ -535,7 +535,7 @@
 <sentence id="s354">As to the last matter, no such claim is made.</sentence>
 <sentence id="s355">In this case, actual use is sought to be established as an inference arising out of contended striking similarities between the two plans.</sentence>
 <sentence id="s356">Those striking similarities then speak to reproduction of the plan in suit and thus infringement.</sentence>
-<sentence id="s357">In Francis Day &amp; Hunter Ltd v Bron , Willmer LJ at p 614 noted, apart from the observations mentioned at [54] of these reasons, these further matters: 
+<sentence id="s357">In Francis Day &amp;amp; Hunter Ltd v Bron , Willmer LJ at p 614 noted, apart from the observations mentioned at [54] of these reasons, these further matters: 
  (3) Where there is a substantial degree of objective similarity, this of itself will afford prima facie evidence to show that there is a causal connection between the plaintiffs' and the defendants' work; at least it is a circumstance from which the inference may be drawn.</sentence>
 <sentence id="s358">
 
@@ -543,9 +543,9 @@
  (4) The fact that the defendant denies that he consciously copied affords some evidence to rebut the inference of causal connection arising from the objective similarity, but is in no way conclusive.</sentence>
 <sentence id="s359">
 
- As to subconscious copying, Willmer LJ noted in Francis Day &amp; Hunter at p 613 that, "if subconscious copying is to be found, there must be proof (or at least a strong inference) of de facto familiarity with the work alleged to be copied".</sentence>
+ As to subconscious copying, Willmer LJ noted in Francis Day &amp;amp; Hunter at p 613 that, "if subconscious copying is to be found, there must be proof (or at least a strong inference) of de facto familiarity with the work alleged to be copied".</sentence>
 <sentence id="s360">In the absence of any direct evidence of use of or access to the Jennings plan in suit, the causal link can be established by inference.</sentence>
-<sentence id="s361">The greater the degree of objective similarity between the two plans, the more likely it is that an inference of actual use might be drawn ( S W Hart &amp; Co (supra) per Gibbs CJ at 472; Clarendon Homes (Aust) Pty Ltd v Henley Arch Pty Ltd (1999) 46 IPR 309 per Heerey, Sundberg and Finkelstein JJ).</sentence>
+<sentence id="s361">The greater the degree of objective similarity between the two plans, the more likely it is that an inference of actual use might be drawn ( S W Hart &amp;amp; Co (supra) per Gibbs CJ at 472; Clarendon Homes (Aust) Pty Ltd v Henley Arch Pty Ltd (1999) 46 IPR 309 per Heerey, Sundberg and Finkelstein JJ).</sentence>
 <sentence id="s362">Exact copying is rarely the conduct in controversy.</sentence>
 <sentence id="s363">Normally an inference is sought to be drawn in the face of quantitative features of the plan in suit, present in the plan under challenge, or by correspondence with a substantial part qualitatively of the plaintiff's plan, or both.</sentence>
 <sentence id="s364">If the contention is that a substantial part of the plan in suit has been taken, a question of "fact and degree" arises ( Inform Design and Construction Pty Ltd v Boutique Homes Melbourne Pty Ltd [2008] FCA 912 per Weinberg J at [71]) and the "protected element may arise out of a combination of elements, any one of which considered individually might not qualify as sufficiently original to attract copyright" ( Inform Design , per Weinberg J at [71] [emphasis added]).</sentence>
@@ -676,7 +676,7 @@
 <sentence id="s476">They are not project home builders and they are not in the business of repetitious infringing conduct.</sentence>
 <sentence id="s477">Since there is no demonstrated impact on the exploitation revenues Jennings derives from the use of the Cortona 290 plan, there is very likely to be no corresponding impact on the value of the copyright as an incorporeal right.</sentence>
 <sentence id="s478">However, the formulation of Lord Wright in Sutherland has been described as "no more than a convenient label for the various ways of assessing damages which are available in any particular case" ( Australasian Performing Rights Association v Grebo Trading Co. Pty Ltd (1978) 23 ACTR 30 per Blackburn CJ at 31) and the question to be answered is, what loss has Jennings suffered as a result of the infringement of its copyright?</sentence>
-<sentence id="s479">( Interfirm at 446) As to the general principles concerning the assessment of damages for breach of copyright, see Autodesk v Cheung (1990) 94 ALR 472 at 474 --- 477; Amalgamated Mining Services Pty Ltd v Warman International Ltd [1992] FCA 542 ; (1992) 111 ALR 269 at 285; Microsoft Corporation v TYN Electronics Pty Ltd (in liq) (2005) 63 IPR 137 and Eagle Rock Entertainment Ltd &amp; Anor v Caisley (2006) 66 IPR 554.</sentence>
+<sentence id="s479">( Interfirm at 446) As to the general principles concerning the assessment of damages for breach of copyright, see Autodesk v Cheung (1990) 94 ALR 472 at 474 --- 477; Amalgamated Mining Services Pty Ltd v Warman International Ltd [1992] FCA 542 ; (1992) 111 ALR 269 at 285; Microsoft Corporation v TYN Electronics Pty Ltd (in liq) (2005) 63 IPR 137 and Eagle Rock Entertainment Ltd &amp;amp; Anor v Caisley (2006) 66 IPR 554.</sentence>
 <sentence id="s480">Jennings contends that it does not licence its copyright to enable third party construction to occur.</sentence>
 <sentence id="s481">It keeps its copyright in a Jennings safe harbour and uses it solely in its own construction activity.</sentence>
 <sentence id="s482">Therefore, it is said, Jennings ought not to be treated in an analogous position to an architect who might, by reason of the nature of the professional work an architect undertakes, be subject to an implied licence of the copyright in a work produced in connection with particular projects.</sentence>
@@ -695,7 +695,7 @@
 <sentence id="s495">Jennings would not have undertaken the project and would not have derived the construction profit or any profit.</sentence>
 <sentence id="s496">In Autodesk v Cheung , Wilcox J did not apply the licence fee approach to the assessment of damages because his Honour could not draw the inference, on the facts of that case, that the respondent, presented with a choice between paying a licence fee or not using the work, would have paid the licence fee.</sentence>
 <sentence id="s497">It was simply not a likely event.</sentence>
-<sentence id="s498">Similarly, Tamberlin J took the view on the facts before his Honour in Columbia Pictures Industries Inc. &amp; Anor v Luckins (1996) 34 IPR 504 at 509 that a licence was unrealistic.</sentence>
+<sentence id="s498">Similarly, Tamberlin J took the view on the facts before his Honour in Columbia Pictures Industries Inc. &amp;amp; Anor v Luckins (1996) 34 IPR 504 at 509 that a licence was unrealistic.</sentence>
 <sentence id="s499">His Honour observed at 509: 
  In my view, the licence fee approach is not appropriate in a situation where it is clear that there never would have been a licence granted by the applicants because of the disruption such a licence would inflict on the applicants' basic strategic marketing timetable in Australia.</sentence>
 <sentence id="s500">
@@ -749,7 +749,7 @@ Dated: 1 April 2009
  
  Counsel for the Appellant: Mr P Hackett 
  
- Solicitor for the Appellant: H Drakos &amp; Company, Solicitors 
+ Solicitor for the Appellant: H Drakos &amp;amp; Company, Solicitors 
  
  Counsel for the Respondents: Respondents --- Self Represented 
  

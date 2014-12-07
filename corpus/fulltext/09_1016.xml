@@ -3,20 +3,20 @@
 <name>Conde v Hunter [2009] FCA 1016 (11 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1016.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to strike out notice of appeal from decision of federal magistrate for abuse of process</catchphrase>
-<catchphrase "id=c1">bankruptcy notice issued in respect of unpaid costs order made by district court judge at interlocutory hearing</catchphrase>
-<catchphrase "id=c2">application by respondent to set aside bankruptcy notice dismissed by federal magistrate</catchphrase>
-<catchphrase "id=c3">court's jurisdiction to strike out a notice of appeal under s 25(2b)(aa) of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c4">relevance of s 31a of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c5">whether costs order of district court a "final order" for the purposes of s 40(1)(g) of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c6">whether federal magistrate failed to take into account issues, affidavits or relevant legislation</catchphrase>
-<catchphrase "id=c7">whether failure by the applicant's solicitor to comply with r 2.05 and r 2.06 of the federal court (bankruptcy) rules 2005 and whether relevant</catchphrase>
-<catchphrase "id=c8">application of s 41 of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c9">and exercise of judicial discretion</catchphrase>
-<catchphrase "id=c10">allegation of bias on part of federal magistrate</catchphrase>
-<catchphrase "id=c11">whether notice of appeal raises arguable issues</catchphrase>
-<catchphrase "id=c12">whether indemnity costs warranted</catchphrase>
-<catchphrase "id=c13">practice and procedure</catchphrase>
+<catchphrase id="c0">application to strike out notice of appeal from decision of federal magistrate for abuse of process</catchphrase>
+<catchphrase id="c1">bankruptcy notice issued in respect of unpaid costs order made by district court judge at interlocutory hearing</catchphrase>
+<catchphrase id="c2">application by respondent to set aside bankruptcy notice dismissed by federal magistrate</catchphrase>
+<catchphrase id="c3">court's jurisdiction to strike out a notice of appeal under s 25(2b)(aa) of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c4">relevance of s 31a of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c5">whether costs order of district court a "final order" for the purposes of s 40(1)(g) of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c6">whether federal magistrate failed to take into account issues, affidavits or relevant legislation</catchphrase>
+<catchphrase id="c7">whether failure by the applicant's solicitor to comply with r 2.05 and r 2.06 of the federal court (bankruptcy) rules 2005 and whether relevant</catchphrase>
+<catchphrase id="c8">application of s 41 of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c9">and exercise of judicial discretion</catchphrase>
+<catchphrase id="c10">allegation of bias on part of federal magistrate</catchphrase>
+<catchphrase id="c11">whether notice of appeal raises arguable issues</catchphrase>
+<catchphrase id="c12">whether indemnity costs warranted</catchphrase>
+<catchphrase id="c13">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -138,7 +138,7 @@
 <sentence id="s66">Such further or other adjournments, enquiries, directions and other orders as to this Honourable Court seem appropriate.</sentence>
 <sentence id="s67">Issue 1 --- what is the nature of the Court's jurisdiction to strike out a notice of appeal pursuant to section 25(2B)(aa) of the Federal Court Act
  Section 25(2B)(aa) provides that a single judge or the Full Court may give summary judgment in an appellate matter.</sentence>
-<sentence id="s68">That a single judge may give judgment summarily dismissing an appeal from a decision of the Court is clear from decisions applying the section: Druett v Department of Families, Community Services &amp; Indigenous Affairs [2007] FCA 995 , Bishop v Secretary, Department of Education, Employment and Workplace Relations [2008] FCA 1118.</sentence>
+<sentence id="s68">That a single judge may give judgment summarily dismissing an appeal from a decision of the Court is clear from decisions applying the section: Druett v Department of Families, Community Services &amp;amp; Indigenous Affairs [2007] FCA 995 , Bishop v Secretary, Department of Education, Employment and Workplace Relations [2008] FCA 1118.</sentence>
 <sentence id="s69">In this case however Mr Hunter has sought an order striking out Mr Conde's notice of appeal.</sentence>
 <sentence id="s70">As a general proposition the Court may strike out a notice of appeal if the notice does not disclose any arguable basis for granting the appeal: cf Patten v New Holland Credit Australia Pty Ltd [2006] FCA 1724.</sentence>
 <sentence id="s71">Such an order is clearly by way of summary judgment.</sentence>
@@ -147,7 +147,7 @@
 <sentence id="s74">Section 31A provides that the Court may give judgment if, inter alia , the Court is satisfied that a party has no reasonable prospect of successfully prosecuting a proceeding (s 31A(2)(b)).</sentence>
 <sentence id="s75">For the purposes of that section, a proceeding need not be hopeless or bound to fail for it to have no reasonable prospect of success: s 31A(3).</sentence>
 <sentence id="s76">A question arises whether, in considering s 25(2B)(aa), it is necessary for the Court to also have recourse to s 31A.</sentence>
-<sentence id="s77">In a number of cases the Court has exercised power pursuant to s 25(2B)(aa) and given summary judgment without reference to s 31A: Druett v Department of Families, Community Services &amp; Indigenous Affairs [2007] FCA 995 , Zambini v Secretary, Department of Employment and Workplace Relations [2006] FCA 1773 , Dunstan v Human Rights and Equal Opportunity Commission [2007] FCA 1326 , Rana v University of Adelaide (No 2) [2008] FCA 941.</sentence>
+<sentence id="s77">In a number of cases the Court has exercised power pursuant to s 25(2B)(aa) and given summary judgment without reference to s 31A: Druett v Department of Families, Community Services &amp;amp; Indigenous Affairs [2007] FCA 995 , Zambini v Secretary, Department of Employment and Workplace Relations [2006] FCA 1773 , Dunstan v Human Rights and Equal Opportunity Commission [2007] FCA 1326 , Rana v University of Adelaide (No 2) [2008] FCA 941.</sentence>
 <sentence id="s78">However in other cases the Court has linked the power under s 25(2B)(aa) to the jurisdiction of the Court under s 31A and summarily dismissed an appeal on the basis that the appellant had no reasonable prospect of success in prosecuting its grounds of appeal: Genovese v BGC Construction Pty Ltd [2007] FCA 923 , Bishop v Secretary, Department of Education, Employment and Workplace Relations [2008] FCA 1118.</sentence>
 <sentence id="s79">In the context of this case no issue turns on the application of s 31A.</sentence>
 <sentence id="s80">Mr Hunter has pleaded that Mr Conde's notice of appeal should be struck out as an abuse of process because, inter alia , it does not disclose arguable grounds of appeal.</sentence>

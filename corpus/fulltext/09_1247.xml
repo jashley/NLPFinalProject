@@ -3,18 +3,18 @@
 <name>Khant v Minister for Immigration and Citizenship [2009] FCA 1247 (5 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1247.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">student visa</catchphrase>
-<catchphrase "id=c1">whether appellant had complied with conditions of visa</catchphrase>
-<catchphrase "id=c2">whether tribunal should have made decision pursuant to s 359c of the migration act 1958</catchphrase>
-<catchphrase "id=c3">whether information before tribunal was sufficient to make decision</catchphrase>
-<catchphrase "id=c4">whether tribunal should have sought further information</catchphrase>
-<catchphrase "id=c5">whether tribunal failed to make an obvious inquiry about a critical fact, the existence of which is easily ascertained</catchphrase>
-<catchphrase "id=c6">whether failure to make that inquiry was a jurisdictional error</catchphrase>
-<catchphrase "id=c7">whether leave should be granted to allow new grounds of appeal to be argued</catchphrase>
-<catchphrase "id=c8">whether grounds of appeal relating to conduct of tribunal ought to be allowed where grounds were not argued before federal magistrate</catchphrase>
-<catchphrase "id=c9">whether prejudicial to respondent</catchphrase>
-<catchphrase "id=c10">migration</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
+<catchphrase id="c0">student visa</catchphrase>
+<catchphrase id="c1">whether appellant had complied with conditions of visa</catchphrase>
+<catchphrase id="c2">whether tribunal should have made decision pursuant to s 359c of the migration act 1958</catchphrase>
+<catchphrase id="c3">whether information before tribunal was sufficient to make decision</catchphrase>
+<catchphrase id="c4">whether tribunal should have sought further information</catchphrase>
+<catchphrase id="c5">whether tribunal failed to make an obvious inquiry about a critical fact, the existence of which is easily ascertained</catchphrase>
+<catchphrase id="c6">whether failure to make that inquiry was a jurisdictional error</catchphrase>
+<catchphrase id="c7">whether leave should be granted to allow new grounds of appeal to be argued</catchphrase>
+<catchphrase id="c8">whether grounds of appeal relating to conduct of tribunal ought to be allowed where grounds were not argued before federal magistrate</catchphrase>
+<catchphrase id="c9">whether prejudicial to respondent</catchphrase>
+<catchphrase id="c10">migration</catchphrase>
+<catchphrase id="c11">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -54,8 +54,8 @@
 <sentence id="s28">The letter stated: 
  
  At the interview you will be asked:
- &#8226; Why you think the ground(s) for cancellation does or does not exist;
- &#8226; Why you think your visa should not be cancelled.</sentence>
+ &amp;#8226; Why you think the ground(s) for cancellation does or does not exist;
+ &amp;#8226; Why you think your visa should not be cancelled.</sentence>
 <sentence id="s29">
  
  There is no record of any interview having occurred before the delegate on that day.</sentence>
@@ -66,9 +66,9 @@
  
  Provide a summary of the reasons the visa holder considers the GROUNDS for cancellation DO NOT exist.</sentence>
 <sentence id="s34">Mr KHANT has been unable to demonstrate exceptional circumstances under the following circumstances:
- &#8226; the wrong student was reported
- &#8226; the section 20 notice was defective
- &#8226; the event of a critical incident 
+ &amp;#8226; the wrong student was reported
+ &amp;#8226; the section 20 notice was defective
+ &amp;#8226; the event of a critical incident 
  
  Item 5 of the aforementioned documents are entitled: 
  

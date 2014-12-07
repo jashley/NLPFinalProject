@@ -3,18 +3,18 @@
 <name>Caltex Australia Petroleum Pty Ltd v Commissioner of Taxation [2008] FCA 1951 (19 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1951.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">duties of excise</catchphrase>
-<catchphrase "id=c1">refining of crude oil</catchphrase>
-<catchphrase "id=c2">initial separation of valuable products</catchphrase>
-<catchphrase "id=c3">residual oils left after separation</catchphrase>
-<catchphrase "id=c4">some residual oils exported</catchphrase>
-<catchphrase "id=c5">some burned to heat refinery</catchphrase>
-<catchphrase "id=c6">whether residuals "manufactured" or "produced"</catchphrase>
-<catchphrase "id=c7">whether refined or semi-refined liquid petroleum products</catchphrase>
-<catchphrase "id=c8">whether delivered for home consumption</catchphrase>
-<catchphrase "id=c9">whether refiner failed to keep residuals safely or failed to account for them</catchphrase>
-<catchphrase "id=c10">validity of commissioner's demand that refiner pay amount equal to the excise duty that would have been payable had residuals been entered for home consumption.</catchphrase>
-<catchphrase "id=c11">taxation</catchphrase>
+<catchphrase id="c0">duties of excise</catchphrase>
+<catchphrase id="c1">refining of crude oil</catchphrase>
+<catchphrase id="c2">initial separation of valuable products</catchphrase>
+<catchphrase id="c3">residual oils left after separation</catchphrase>
+<catchphrase id="c4">some residual oils exported</catchphrase>
+<catchphrase id="c5">some burned to heat refinery</catchphrase>
+<catchphrase id="c6">whether residuals "manufactured" or "produced"</catchphrase>
+<catchphrase id="c7">whether refined or semi-refined liquid petroleum products</catchphrase>
+<catchphrase id="c8">whether delivered for home consumption</catchphrase>
+<catchphrase id="c9">whether refiner failed to keep residuals safely or failed to account for them</catchphrase>
+<catchphrase id="c10">validity of commissioner's demand that refiner pay amount equal to the excise duty that would have been payable had residuals been entered for home consumption.</catchphrase>
+<catchphrase id="c11">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -46,11 +46,11 @@ sub-categorisation is adopted to describe the precise arrangement of carbon atom
 <sentence id="s22">5 Crude oil processed at the Lytton and Kurnell Refineries contains a mixture of most hydrocarbons from C1 to C80, with varying molecular structures.</sentence>
 <sentence id="s23">Broadly speaking, the refining processes at the Lytton and Kurnell Refineries involve:
  
-&#8226; the separation and isolation of the various hydrocarbons contained in the crude oil, particularly the lower density hydrocarbons used in the manufacture of petrol (C4-9), jet fuel (C8-12) and diesel (C11-18), through a physical process of distillation or a chemical process known as "catalytic conversion" (these processes are explained in more detail at paragraphs [16] and [30])
+&amp;#8226; the separation and isolation of the various hydrocarbons contained in the crude oil, particularly the lower density hydrocarbons used in the manufacture of petrol (C4-9), jet fuel (C8-12) and diesel (C11-18), through a physical process of distillation or a chemical process known as "catalytic conversion" (these processes are explained in more detail at paragraphs [16] and [30])
  
-&#8226; the reduction or removal of contaminants (such as sulphur and nitrogen) from the isolated hydrocarbons, and
+&amp;#8226; the reduction or removal of contaminants (such as sulphur and nitrogen) from the isolated hydrocarbons, and
  
-&#8226; the further treatment and purification of the various hydrocarbons in order to convert them into saleable products (for example, jet fuel or diesel) or into petrol "blendstocks" capable of being blended to create different grades of petrol.</sentence>
+&amp;#8226; the further treatment and purification of the various hydrocarbons in order to convert them into saleable products (for example, jet fuel or diesel) or into petrol "blendstocks" capable of being blended to create different grades of petrol.</sentence>
 <sentence id="s24">6 A similar distillation process is used at the CLOR, although the CLOR's feedstock consists of partially refined hydrocarbon products created at the Kurnell Refinery (known as "waxy gas oils" and "de-asphalted oils") instead of raw crude oil.</sentence>
 <sentence id="s25">Further complex refinement and treatment processes are employed at the CLOR to produce the desired lubricating oils and waxes sold by Caltex.</sentence>
 <sentence id="s26">7 Caltex produces various residual materials during the course of its operations at each refinery.</sentence>
@@ -226,8 +226,8 @@ sub-categorisation is adopted to describe the precise arrangement of carbon atom
 <sentence id="s171">(d) Depending on the level of contaminants, Caltex will either:
  
  
- &#8226; blend vacuum resid into fuel oil, or
- &#8226; treat it further by a process called "de-asphalting" in a "propane de-asphalting unit" (PDU).</sentence>
+ &amp;#8226; blend vacuum resid into fuel oil, or
+ &amp;#8226; treat it further by a process called "de-asphalting" in a "propane de-asphalting unit" (PDU).</sentence>
 <sentence id="s172">
  
 
@@ -248,13 +248,13 @@ The resulting materials are "de-asphalted oil" and a residual material called "a
 <sentence id="s186">Further, recent times have seen Caltex create excess quantities of LCGO, due in part to a lowering of the authorised sulphur content for diesel fuel, and Caltex has as a result exported large quantities of it.</sentence>
 <sentence id="s187">These residual and excess materials are used by Caltex in a variety of ways:
  
-&#8226; Vacuum resid is processed in the PDU or blended into fuel oil
+&amp;#8226; Vacuum resid is processed in the PDU or blended into fuel oil
  
-&#8226; Asphaltic PDU bottoms are used to make bitumen or blended into fuel oil
+&amp;#8226; Asphaltic PDU bottoms are used to make bitumen or blended into fuel oil
  
-&#8226; Cracker bottoms are blended into fuel oil or used as a feedstock for manufacturing industrial products, and
+&amp;#8226; Cracker bottoms are blended into fuel oil or used as a feedstock for manufacturing industrial products, and
  
-&#8226; LCGO is used as a blendstock for diesel fuel or fuel oil
+&amp;#8226; LCGO is used as a blendstock for diesel fuel or fuel oil
  
 32 However, with some limit on the amounts that can be used for these purposes, Caltex also blends these materials together to create an oil referred to as "residual slop oil" (Kurnell Residual Slop Oil), which Caltex uses as a supplementary fuel to heat steam boilers at the refinery.</sentence>
 <sentence id="s188">Unlike the Lytton Refinery Fuel Oil, the Kurnell Residual Slop Oil is of relatively low viscosity and Caltex does not keep it heated whilst in storage.</sentence>
@@ -265,13 +265,13 @@ The resulting materials are "de-asphalted oil" and a residual material called "a
 <sentence id="s191">It differs to the Lytton and Kurnell Refineries as it is dedicated to the manufacture of a single product at any one time.</sentence>
 <sentence id="s192">34 There are four processing plants at the CLOR:
  
-&#8226; Vacuum Distillation Unit (VDU)
+&amp;#8226; Vacuum Distillation Unit (VDU)
  
-&#8226; Hydrotreating Unit (HTU)
+&amp;#8226; Hydrotreating Unit (HTU)
  
-&#8226; Furfural Refining Unit (FRU)
+&amp;#8226; Furfural Refining Unit (FRU)
  
-&#8226; Solvent Dewaxing Unit (SDU)
+&amp;#8226; Solvent Dewaxing Unit (SDU)
  
 35 De-asphalted oils and distillates from the VDU at the Kurnell Refinery known as "waxy gas oils" are used as the feedstock at the CLOR.</sentence>
 <sentence id="s193">Waxy gas oils are fed into the VDU at the CLOR and distilled into a "dry gas oil" and various "wet gas oils".</sentence>
@@ -305,8 +305,8 @@ The resulting materials are "de-asphalted oil" and a residual material called "a
 (a) the "stream/slop oils" produced by Caltex at its refineries and used as a burner fuel (referred to as an "intermediate product" in the Advice) are subject to excise duty as "excisable goods", because they:
  
  
- &#8226; meet the description of tariff item 11(a) in the Schedule, being "refined or semi-refined liquid petroleum products", and
- &#8226; are subject to a specific rate of duty under sub-item 11(I)(3)(d); 
+ &amp;#8226; meet the description of tariff item 11(a) in the Schedule, being "refined or semi-refined liquid petroleum products", and
+ &amp;#8226; are subject to a specific rate of duty under sub-item 11(I)(3)(d); 
  
 
 (b) the intermediate products were delivered into home consumption when they were consumed (burnt up) by Caltex at the refineries; and
@@ -485,9 +485,9 @@ whichever is the earlier.</sentence>
 <sentence id="s268">(e) Whether the Commissioner's statutory demand is valid, which turns on:
  
  
- &#8226; whether s 60 of the Excise Act is applicable to Caltex and the residual oils, including whether Caltex failed to keep the residual oils safely (s 60(1)(a)) or failed to account for the residual oils to the satisfaction of the Commissioner 
+ &amp;#8226; whether s 60 of the Excise Act is applicable to Caltex and the residual oils, including whether Caltex failed to keep the residual oils safely (s 60(1)(a)) or failed to account for the residual oils to the satisfaction of the Commissioner 
  (s 60(1)(b)) ; and
- &#8226; whether the Commissioner's description in the demand of the amount owing as a "debt" invalidates the demand.</sentence>
+ &amp;#8226; whether the Commissioner's description in the demand of the amount owing as a "debt" invalidates the demand.</sentence>
 <sentence id="s269">
  
  ISSUE 1 --- WERE THE RESIDUAL OILS "MANUFACTURED OR PRODUCED" BY CALTEX FOR THE PURPOSES OF SECTION 5?</sentence>
@@ -711,7 +711,7 @@ This formulation does not refer to the "ultimate" or "final" or "intermediate" c
 <sentence id="s446">Caltex's Product Glossary (see [87]) is not sufficient in and of itself to demonstrate a particular usage.</sentence>
 <sentence id="s447">It contains only a short, very general description of what an oil refinery does.</sentence>
 <sentence id="s448">It does not in any detail elaborate on the processes involved at an oil refinery and it makes no reference to the concepts of "refined" or "refine".</sentence>
-<sentence id="s449">92 The words must of course be construed in context and by reference to the policies and objectives of the Tariff Act as a whole: K &amp; S Lake City Freighters Pty Ltd v Gordon &amp; Gotch Ltd [1985] HCA 48 ; (1985) 157 CLR 309 at 315 (Mason J); s 15AA Acts Interpretation Act 1901 (Cth).</sentence>
+<sentence id="s449">92 The words must of course be construed in context and by reference to the policies and objectives of the Tariff Act as a whole: K &amp;amp; S Lake City Freighters Pty Ltd v Gordon &amp;amp; Gotch Ltd [1985] HCA 48 ; (1985) 157 CLR 309 at 315 (Mason J); s 15AA Acts Interpretation Act 1901 (Cth).</sentence>
 <sentence id="s450">The context here requires a consideration of the processes involved in petroleum production and the effect those processes have on their subject matter --- crude oil.</sentence>
 <sentence id="s451">I do not see any reason however why the ordinary meaning of "refined" ("freed from impurities"; "purified"; "made purer or of finer quality") should not be given to that word as it appears in the Schedule.</sentence>
 <sentence id="s452">This is especially so where the refining of petroleum is provided as an example of the ordinary dictionary meaning (see [90] above).</sentence>
@@ -877,11 +877,11 @@ but does not include a substance referred to in paragraph (b) of the definition 
 <sentence id="s565">A similar construction of the word "other" as it appears in the Customs Tariff Act 1982 (Cth) was adopted in Rheem Australia Ltd v Collector of Customs (NSW) (1988) 78 ALR 285 at 300 (Burchett J).</sentence>
 <sentence id="s566">On that construction, item 11(I)(3)(d) applies to any 'refined or partly refined petroleum product' that:
  
-&#8226; is not covered by either of the preceding paragraphs, 11(I)(1) or 11(I)(2);
+&amp;#8226; is not covered by either of the preceding paragraphs, 11(I)(1) or 11(I)(2);
  
-&#8226; is not for use in an internal combustion engine; and
+&amp;#8226; is not for use in an internal combustion engine; and
  
-&#8226; does not contain the required chemical marker.</sentence>
+&amp;#8226; does not contain the required chemical marker.</sentence>
 <sentence id="s567">Assuming they are "refined" products, the description just given is applicable to each of the residual oils.</sentence>
 <sentence id="s568">113 Without more, it is difficult to read par (d) in the manner contended for by Caltex.</sentence>
 <sentence id="s569">Beyond reference to the extrinsic material, no explanation was offered as to why Parliament would not have clearly identified in the drafting that par (d) was to be limited to non-fuel uses.</sentence>
@@ -1012,7 +1012,7 @@ As a result of the Stewardship Act amendments, item 11 therefore came to include
 
 Its exclusion from item 11(I) is therefore a recognition that diesel recovered by a process not being a process of refining is already dealt with by another specific item.</sentence>
 <sentence id="s646">130 For those reasons alone, I do not accept Caltex's contention that a comma should be (re)introduced into item 11(I).</sentence>
-<sentence id="s647">This is not a case where there appears to have been a clear drafting mistake such that, if left uncorrected, the ordinary grammatical meaning of the sentence would lead to an absurdity: see Grey v Pearson [1857] EngR 335 ; (1857) 10 ER 1216 at 1234 (Lord Wensleydale); Broken Hill South Ltd v Commissioner of Taxation (NSW) [1937] HCA 4 ; (1937) 56 CLR 337 at 371 (Dixon J); see also Pearce &amp; Geddes, Statutory Interpretation in Australia (6 th ed, LexisNexis, 2006) at [2.4] and [2.24].</sentence>
+<sentence id="s647">This is not a case where there appears to have been a clear drafting mistake such that, if left uncorrected, the ordinary grammatical meaning of the sentence would lead to an absurdity: see Grey v Pearson [1857] EngR 335 ; (1857) 10 ER 1216 at 1234 (Lord Wensleydale); Broken Hill South Ltd v Commissioner of Taxation (NSW) [1937] HCA 4 ; (1937) 56 CLR 337 at 371 (Dixon J); see also Pearce &amp;amp; Geddes, Statutory Interpretation in Australia (6 th ed, LexisNexis, 2006) at [2.4] and [2.24].</sentence>
 <sentence id="s648">To the contrary, the sentence makes sense as enacted and the putative comma would serve only to obscure and distort the plain meaning.</sentence>
 <sentence id="s649">131 In reaching this conclusion, I have also considered each of the legislative amendments and the extrinsic material referred to by both parties.</sentence>
 <sentence id="s650">It is unnecessary for me to analyse each amendment in detail.</sentence>
@@ -1039,8 +1039,8 @@ Its exclusion from item 11(I) is therefore a recognition that diesel recovered b
 <sentence id="s658">That result was consistent with the fact that:
  
  
- &#8226; "lubricants (including lubricant base oils), hydraulic oils, transformer oils and fuel recovered by a recycling process" were identified in item 11(d) and then more specifically included within item 11(I); and
- &#8226; "diesel" recovered by a process other than refining was specifically covered by item 11(C), and therefore required exclusion from item 11(I).</sentence>
+ &amp;#8226; "lubricants (including lubricant base oils), hydraulic oils, transformer oils and fuel recovered by a recycling process" were identified in item 11(d) and then more specifically included within item 11(I); and
+ &amp;#8226; "diesel" recovered by a process other than refining was specifically covered by item 11(C), and therefore required exclusion from item 11(I).</sentence>
 <sentence id="s659">
  
 
@@ -1053,8 +1053,8 @@ Its exclusion from item 11(I) is therefore a recognition that diesel recovered b
 <sentence id="s663">It nevertheless remained necessary to expressly exclude "diesel recovered by a process not being a process of refining", because:
  
  
- &#8226; "diesel fuel recovered by a recycling process other than refining" was expressly included in item 11(a) and therefore would fall within the meaning of "other refined or partly refined petroleum product" in item 11(I); but
- &#8226; diesel of that kind was dealt with under a specific item for diesel --- item 11(C).</sentence>
+ &amp;#8226; "diesel fuel recovered by a recycling process other than refining" was expressly included in item 11(a) and therefore would fall within the meaning of "other refined or partly refined petroleum product" in item 11(I); but
+ &amp;#8226; diesel of that kind was dealt with under a specific item for diesel --- item 11(C).</sentence>
 <sentence id="s664">
  
 
@@ -1075,8 +1075,8 @@ Its exclusion from item 11(I) is therefore a recognition that diesel recovered b
 <sentence id="s670">(b) Caltex is a licensed manufacturer of the residual oils and held a permission pursuant to s 61C of the Excise Act , which:
  
  
- &#8226; permitted it to "deliver for home consumption" petroleum products subject to the Commissioner's control, without an entry having to be made and passed under the Excise Act ; and
- &#8226; required it to submit a weekly return and pay excise duty in respect of all goods delivered for home consumption during the preceding week.</sentence>
+ &amp;#8226; permitted it to "deliver for home consumption" petroleum products subject to the Commissioner's control, without an entry having to be made and passed under the Excise Act ; and
+ &amp;#8226; required it to submit a weekly return and pay excise duty in respect of all goods delivered for home consumption during the preceding week.</sentence>
 <sentence id="s671">
  
 
@@ -1223,9 +1223,9 @@ Its exclusion from item 11(I) is therefore a recognition that diesel recovered b
 <sentence id="s792">It said that the section was directed to an account that shows either:
  
  
- &#8226; an unauthorised relinquishment of possession;
- &#8226; despite an unauthorised loss of possession, that the goods have not gone into home consumption without payment of duty; or
- &#8226; despite a failure to keep them safely, the Commissioner's control over the goods is still effective (see Southern Shipping 107 CLR at 299 (Menzies J)) 
+ &amp;#8226; an unauthorised relinquishment of possession;
+ &amp;#8226; despite an unauthorised loss of possession, that the goods have not gone into home consumption without payment of duty; or
+ &amp;#8226; despite a failure to keep them safely, the Commissioner's control over the goods is still effective (see Southern Shipping 107 CLR at 299 (Menzies J)) 
  
 
 159 If it were an undoubted fact that Caltex had failed to keep the residual oils safely because it burnt them, then s 60(1)(b) would not be available to the Commissioner: Sidebottom [2000] FCA 607 ; 98 FCR 579.</sentence>
@@ -1277,7 +1277,7 @@ Its exclusion from item 11(I) is therefore a recognition that diesel recovered b
 <sentence id="s835">The proper reading of the subsections is that the making of the demand gives rise to a debt uno flatu .</sentence>
 <sentence id="s836">On that basis the description of the amount owed as a "debt" at the time the debt arises does not assert an obligation existing before the demand.</sentence>
 <sentence id="s837">170 In any event, even if there is a choice to be made between a construction that gives effect to the demand and one which renders it invalid, I consider that the former should be chosen.</sentence>
-<sentence id="s838">Where two constructions of an instrument are equally plausible, upon one of which the instrument is valid, and upon another of which it is invalid, the court should lean towards that construction which validates the instrument: see Langston v Langston [1834] EngR 190 ; (1834) 2 Cl &amp; Fin 194 ; 6 ER 1128 at 1147; In Re Solomon; Solomon v Solomon [1946] VLR 115 at 120-121; Multiplex Constructions (UK) Limited v Honeywell Control Systems Limited (No.</sentence>
+<sentence id="s838">Where two constructions of an instrument are equally plausible, upon one of which the instrument is valid, and upon another of which it is invalid, the court should lean towards that construction which validates the instrument: see Langston v Langston [1834] EngR 190 ; (1834) 2 Cl &amp;amp; Fin 194 ; 6 ER 1128 at 1147; In Re Solomon; Solomon v Solomon [1946] VLR 115 at 120-121; Multiplex Constructions (UK) Limited v Honeywell Control Systems Limited (No.</sentence>
 <sentence id="s839">2) [2007] EWHC 447 at [57].</sentence>
 <sentence id="s840">171 Further, it seems to me doubtful that invalidity would necessarily follow if Caltex's construction of the demand were adopted.</sentence>
 <sentence id="s841">By analogy with the approach taken in Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 29 ; (1998) 194 CLR 355 at [93] , I would ask whether it was a purpose of s 60(1) that to wrongly describe "an amount equal to the amount of the Excise duty which would have been payable ..." as a debt, when it is quite clear what is being demanded and why, should result in invalidity.</sentence>

@@ -3,22 +3,22 @@
 <name>Apotex Pty Ltd (formerly GenRx Pty Ltd) v Sanofi-Aventis [2008] FCA 1194 (12 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1194.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">applications for revocation</catchphrase>
-<catchphrase "id=c1">validity</catchphrase>
-<catchphrase "id=c2">patent in suit claiming d -enantiomer (clopidogrel) of racemate, pharmaceutical compositions of d -enantiomer and process for preparation of each</catchphrase>
-<catchphrase "id=c3">where racemate the subject of prior art patents in australia and overseas</catchphrase>
-<catchphrase "id=c4">available grounds for revocation where patent in suit granted under patents act 1952 (cth)</catchphrase>
-<catchphrase "id=c5">whether d -enantiomer a novel invention in light of prior art patents</catchphrase>
-<catchphrase "id=c6">whether pharmaceutical compositions (salts) of d -enantiomer novel in light of prior art patents</catchphrase>
-<catchphrase "id=c7">whether process for preparation novel in light of prior art patents</catchphrase>
-<catchphrase "id=c8">whether patent in suit valid as a selection patent</catchphrase>
-<catchphrase "id=c9">whether obtaining d- enantiomer of racemate, preparing its pharmaceutical compositions (salts) and the process for preparation obvious so as to lack inventive step</catchphrase>
-<catchphrase "id=c10">relevance to consideration of inventive step of references to prior art patents in patent in suit</catchphrase>
-<catchphrase "id=c11">whether d- enantiomer valid as a manner of manufacture</catchphrase>
-<catchphrase "id=c12">whether patent in suit contained false suggestion or representation that was a material inducing factor leading to grant of patent in suit</catchphrase>
-<catchphrase "id=c13">whether d- enantiomer a useful invention</catchphrase>
-<catchphrase "id=c14">applications granted in part and dismissed in part</catchphrase>
-<catchphrase "id=c15">patents</catchphrase>
+<catchphrase id="c0">applications for revocation</catchphrase>
+<catchphrase id="c1">validity</catchphrase>
+<catchphrase id="c2">patent in suit claiming d -enantiomer (clopidogrel) of racemate, pharmaceutical compositions of d -enantiomer and process for preparation of each</catchphrase>
+<catchphrase id="c3">where racemate the subject of prior art patents in australia and overseas</catchphrase>
+<catchphrase id="c4">available grounds for revocation where patent in suit granted under patents act 1952 (cth)</catchphrase>
+<catchphrase id="c5">whether d -enantiomer a novel invention in light of prior art patents</catchphrase>
+<catchphrase id="c6">whether pharmaceutical compositions (salts) of d -enantiomer novel in light of prior art patents</catchphrase>
+<catchphrase id="c7">whether process for preparation novel in light of prior art patents</catchphrase>
+<catchphrase id="c8">whether patent in suit valid as a selection patent</catchphrase>
+<catchphrase id="c9">whether obtaining d- enantiomer of racemate, preparing its pharmaceutical compositions (salts) and the process for preparation obvious so as to lack inventive step</catchphrase>
+<catchphrase id="c10">relevance to consideration of inventive step of references to prior art patents in patent in suit</catchphrase>
+<catchphrase id="c11">whether d- enantiomer valid as a manner of manufacture</catchphrase>
+<catchphrase id="c12">whether patent in suit contained false suggestion or representation that was a material inducing factor leading to grant of patent in suit</catchphrase>
+<catchphrase id="c13">whether d- enantiomer a useful invention</catchphrase>
+<catchphrase id="c14">applications granted in part and dismissed in part</catchphrase>
+<catchphrase id="c15">patents</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -137,7 +137,7 @@
 <sentence id="s79">" (Emphasis added.</sentence>
 <sentence id="s80">) 
 Example number 1 (said to be non-limiting) was given, amongst others, to illustrate the invention as follows:
- "Methyl &#945; - [4,5,6,7-tetrahydro-thieno [3,2-c]-5-pyridyl]-o. chlorophenylacetate (R1 = -CH3;X = 2-Cl) derivative No.</sentence>
+ "Methyl &amp;#945; - [4,5,6,7-tetrahydro-thieno [3,2-c]-5-pyridyl]-o. chlorophenylacetate (R1 = -CH3;X = 2-Cl) derivative No.</sentence>
 <sentence id="s81">1.</sentence>
 <sentence id="s82">" 
 A method of preparing that compound is then set out.</sentence>
@@ -155,7 +155,7 @@ Various investigations were then reported (including in relation to derivative 1
 <sentence id="s86">" 
 19 Claims 1, 8 and 14 were as follows:
  "1 --- Compounds having the formula: in which Y represents the OH group or an OR group in which R is a straight or branched lower alkyl radical, or Y represents a group in which RI and R2 are each independently of each other hydrogen or a straight or branched lower alkyl group; or R1 and R2 form together and with the nitrogen atom to which they are attached a heterocycle which may include a second heteroatom such as oxygen or nitrogen, wherein the latter may be substituted by a lower alkyl or benzyl radical which may be substituted; and X represents hydrogen, a halogen or a lower alkyl radical; and their addition salts with pharmaceutically acceptable or organic acids if Y represents OR groups or or with mineral bases if Y represents OH, as well as the two enantiomers or their mixture.</sentence>
-<sentence id="s87">... 8 --- Methyl &#945; (4,5,6,7-tetrahydro-thieno (3,2-c)-5-pyridyl)-0. chlorophenyl-acetate.</sentence>
+<sentence id="s87">... 8 --- Methyl &amp;#945; (4,5,6,7-tetrahydro-thieno (3,2-c)-5-pyridyl)-0. chlorophenyl-acetate.</sentence>
 <sentence id="s88">(derivative ndeg.1).</sentence>
 <sentence id="s89">... 14 --- Therapeutic composition having blood-platelet aggregation inhibiting activities and anti-thrombotic activities containing as active ingredient a derivative of the formula (I) as claimed in Claim 1, or an addition salt thereof with a pharmaceutically acceptable mineral or organic acid or with mineral bases, as well as one of the two enantiomers or their mixture.</sentence>
 <sentence id="s90">" (Emphasis added.</sentence>
@@ -238,18 +238,18 @@ Various investigations were then reported (including in relation to derivative 1
 <sentence id="s154">23 Several expert witnesses gave evidence relevant to the assessment of the state of the common general knowledge.</sentence>
 <sentence id="s155">Evidence on behalf of the applicants was given by:
  
-&#8226; Dr Keith Geoffrey Watson;
+&amp;#8226; Dr Keith Geoffrey Watson;
  
-&#8226; Professor Martin Gerhardt Banwell;
+&amp;#8226; Professor Martin Gerhardt Banwell;
  
-&#8226; Professor Bevyn Jarrott;
+&amp;#8226; Professor Bevyn Jarrott;
  
-&#8226; Professor Ian David Rae.</sentence>
+&amp;#8226; Professor Ian David Rae.</sentence>
 <sentence id="s156">24 Evidence on behalf of the respondent was given (relevantly) by:
  
-&#8226; Professor Christopher John Easton;
+&amp;#8226; Professor Christopher John Easton;
  
-&#8226; Professor Peter John Scammells.</sentence>
+&amp;#8226; Professor Peter John Scammells.</sentence>
 <sentence id="s157">25 Professor Shaun Phillip Jackson also gave evidence for the respondent, as did Dr Maffrand and Mr Badorc of Sanofi-Aventis.</sentence>
 <sentence id="s158">The evidence of those witnesses does not contribute to an appreciation of the common general knowledge in Australia relevant to these cases.</sentence>
 <sentence id="s159">Those portions of the evidence of Professor Jackson that were ultimately admitted, went to specific questions concerning the nature of platelet aggregation and its pathological manifestations, and to the operation of clopidogrel as a platelet aggregation inhibitor.</sentence>
@@ -576,7 +576,7 @@ Various investigations were then reported (including in relation to derivative 1
 38 The validity of patents is dealt with in Pt 3 of Ch 2 of the 1990 Act.</sentence>
 <sentence id="s405">The revocation of patents is (relevantly) dealt with by s 138 of the 1990 Act, the grounds being set out in s 138(3).</sentence>
 <sentence id="s406">Those grounds are similar to, but have important differences from, those which were provided for by s 100 of the 1952 Act.</sentence>
-<sentence id="s407">39 Section 233 of the 1990 Act has been applied on the basis that a 1952 Act patent can now only be revoked on a ground provided for by the 1990 Act but as if it corresponds with the similar ground available under the 1952 Act (eg NV Philips Gloeilampenfabrieken v Mirabella International Pty Ltd [1993] FCA 404 ; (1993) 44 FCR 239 per Lockhart J at 250---254 (agreed in by Northrop J at 241 and Burchett J at 268); ICI Chemicals &amp; Polymers Ltd v Lubrizol Corp Inc [2000] FCA 1349 ; (2000) 106 FCR 214 at [22] ---[23]; and Abbott Laboratories v Corbridge Group Pty Ltd [2002] FCAFC 314 , (2002) 57 IPR 432 at [81] ).</sentence>
+<sentence id="s407">39 Section 233 of the 1990 Act has been applied on the basis that a 1952 Act patent can now only be revoked on a ground provided for by the 1990 Act but as if it corresponds with the similar ground available under the 1952 Act (eg NV Philips Gloeilampenfabrieken v Mirabella International Pty Ltd [1993] FCA 404 ; (1993) 44 FCR 239 per Lockhart J at 250---254 (agreed in by Northrop J at 241 and Burchett J at 268); ICI Chemicals &amp;amp; Polymers Ltd v Lubrizol Corp Inc [2000] FCA 1349 ; (2000) 106 FCR 214 at [22] ---[23]; and Abbott Laboratories v Corbridge Group Pty Ltd [2002] FCAFC 314 , (2002) 57 IPR 432 at [81] ).</sentence>
 <sentence id="s408">This is a somewhat strange result as the grounds do not correspond, particularly in relation to lack of novelty and obviousness.</sentence>
 <sentence id="s409">Uninstructed by authority, I should have thought that the intention was to maintain the status quo in relation to revocation for 1952 Act patents with time to run under the 1990 Act --- in other words, the grounds for revocation would be those set out in s 100(1) of the 1952 Act.</sentence>
 <sentence id="s410">That would maintain the status quo and neither advantage nor disadvantage the 1952 Act patentee.</sentence>
@@ -630,13 +630,13 @@ Prior claiming is not a ground available in this case because of the received wi
 <sentence id="s423">Relevant portions of the French patent have been set out above.</sentence>
 <sentence id="s424">Particular reference has been made by the applicants to the following claims of the Canadian patent which are more detailed than in the French patent: 
  "1.</sentence>
-<sentence id="s425">A process for the preparation of derivatives of general formula (I): in which Y may represent either a hydroxyl radical or an -OR group radical, in which R is a straight or branched lower alkyl radical, or Y represents a radical of the formula: in which either R1 and R2, identical or different, represent a hydrogen atom or a straight or branched lower alkyl group; or R1 and R2 form together and with the nitrogen atom to which they are attached a heterocycle which may or may not include a second heteroatom chosen from the group containing oxygen and nitrogen, wherein the latter may be substituted by a lower alkyl or benzyl radical which may or may not be substituted; and X represents a hydrogen or halogen atom, or a lower alkyl radical; and their the addition salts with pharmaceutically acceptable mineral or organic acids if Y represents a radical of the -OR formula or of the ---NR1R2 formula; R, R1 and R2 having the above-defined meanings, or with mineral bases if Y represents a hydroxyl radical; as well as the 2 enantiomers or their mixture of these compounds of formula (I); wherein: - either, in order to prepare the esters of formula (I), in which Y represents a radical of the -OR formula, in which R has the above-defined meaning, and X has the above-defined meaning, the 4,5,6,7-tetrahydro-thieno[3,2-c]pyridine of formula (II) is condensed: on a &#945;-chlorophenylacetate of formula (III): in which R and X have the above-defined meanings, then the derivative sought is obtained, which is isolated and, if desired, its enantiomers are separated and/or it is salified by mineral or organic acid action; - or, in order to prepare the acid of formula (I) in which Y represents a hydroxyl radical and X has the above-defined meaning, the ester of formula (I), in which Y represents a radical of the -OR formula in which R and X have the above-defined meanings, is saponified, then the derivative sought is obtained, which is isolated and, if desired, its enantiomers are separated and/or it is salified by mineral or organic acid action; - or, in order to prepare the compounds of formula (I), in which X has the above-defined meaning and Y represents a radical of the -OR formula, in which R has the above-defined meaning, or a radical of the -NR1R2 formula, in which R1 and R2 have the above-defined meanings, the acid of formula (I), in which X has the above-defined meaning and Y represents a hydroxyl radical, may or may not be activated, is reacted with either an alcohol of the H-OR formula, in which R has the above-defined meaning, or with an amine of the H-NR1R2 formula, in which R1 and R2 have the above-defined meanings, then the corresponding derivative sought is obtained, which is isolated and, if desired, its enantiomers are separated and/or it is salified by mineral or organic acid action.</sentence>
+<sentence id="s425">A process for the preparation of derivatives of general formula (I): in which Y may represent either a hydroxyl radical or an -OR group radical, in which R is a straight or branched lower alkyl radical, or Y represents a radical of the formula: in which either R1 and R2, identical or different, represent a hydrogen atom or a straight or branched lower alkyl group; or R1 and R2 form together and with the nitrogen atom to which they are attached a heterocycle which may or may not include a second heteroatom chosen from the group containing oxygen and nitrogen, wherein the latter may be substituted by a lower alkyl or benzyl radical which may or may not be substituted; and X represents a hydrogen or halogen atom, or a lower alkyl radical; and their the addition salts with pharmaceutically acceptable mineral or organic acids if Y represents a radical of the -OR formula or of the ---NR1R2 formula; R, R1 and R2 having the above-defined meanings, or with mineral bases if Y represents a hydroxyl radical; as well as the 2 enantiomers or their mixture of these compounds of formula (I); wherein: - either, in order to prepare the esters of formula (I), in which Y represents a radical of the -OR formula, in which R has the above-defined meaning, and X has the above-defined meaning, the 4,5,6,7-tetrahydro-thieno[3,2-c]pyridine of formula (II) is condensed: on a &amp;#945;-chlorophenylacetate of formula (III): in which R and X have the above-defined meanings, then the derivative sought is obtained, which is isolated and, if desired, its enantiomers are separated and/or it is salified by mineral or organic acid action; - or, in order to prepare the acid of formula (I) in which Y represents a hydroxyl radical and X has the above-defined meaning, the ester of formula (I), in which Y represents a radical of the -OR formula in which R and X have the above-defined meanings, is saponified, then the derivative sought is obtained, which is isolated and, if desired, its enantiomers are separated and/or it is salified by mineral or organic acid action; - or, in order to prepare the compounds of formula (I), in which X has the above-defined meaning and Y represents a radical of the -OR formula, in which R has the above-defined meaning, or a radical of the -NR1R2 formula, in which R1 and R2 have the above-defined meanings, the acid of formula (I), in which X has the above-defined meaning and Y represents a hydroxyl radical, may or may not be activated, is reacted with either an alcohol of the H-OR formula, in which R has the above-defined meaning, or with an amine of the H-NR1R2 formula, in which R1 and R2 have the above-defined meanings, then the corresponding derivative sought is obtained, which is isolated and, if desired, its enantiomers are separated and/or it is salified by mineral or organic acid action.</sentence>
 <sentence id="s426">... 8.</sentence>
-<sentence id="s427">Process according to claim 1, for the preparation of methyl &#945;-[4,5,6,7-tetrahydro-thieno[3,2-c]-5-pyridyl]-o.chlorophenylacetate, wherein the 4,5,6,7-tetrahydro thieno[3,2-c]pyridine is condensed over the methyl 2-chloro-o.chlorophenylacetate, and the derivative sought, which is isolated, is obtained.</sentence>
+<sentence id="s427">Process according to claim 1, for the preparation of methyl &amp;#945;-[4,5,6,7-tetrahydro-thieno[3,2-c]-5-pyridyl]-o.chlorophenylacetate, wherein the 4,5,6,7-tetrahydro thieno[3,2-c]pyridine is condensed over the methyl 2-chloro-o.chlorophenylacetate, and the derivative sought, which is isolated, is obtained.</sentence>
 <sentence id="s428">... 14.</sentence>
 <sentence id="s429">Derivatives of general formula (I): in which Y may represent either a hydroxyl radical or an -OR group radical, in which R is a straight or branched lower alkyl radical, or Y represents a radical of the formula: in which R1 and R2, identical or different, represent a hydrogen atom or a straight or branched lower alkyl group; or R1 and R2 form together and with the nitrogen atom to which they are attached a heterocycle which may or may not include a second heteroatom chosen from the group containing oxygen and nitrogen, wherein the latter may be substituted by a lower alkyl or benzyl radical which may or may not be substituted; and X represents a hydrogen or halogen atom, or a lower alkyl radical; and their addition salts with pharmaceutically acceptable mineral or organic acids if Y represents a radical of the -OR formula or of the ---NR1R2 forrnula; R, R1 and R2 having the above-defined meanings, or with mineral bases if Y represents a hydroxyl radical; as well as the 2 enantiomers or their mixture of these compounds of formula (I); each time they are obtained by the process of claim 1 or its manifest chemical equivalents.</sentence>
 <sentence id="s430">15.</sentence>
-<sentence id="s431">Methyl &#945;-[4,5,6,7-tetrahydro-thieno[3,2-c]-5-pyridyl]-o.chlorophenyl-acetate, each time it is obtained by the process of claim 8 or its manifest chemical equivalents.</sentence>
+<sentence id="s431">Methyl &amp;#945;-[4,5,6,7-tetrahydro-thieno[3,2-c]-5-pyridyl]-o.chlorophenyl-acetate, each time it is obtained by the process of claim 8 or its manifest chemical equivalents.</sentence>
 <sentence id="s432">" (Emphasis added.</sentence>
 <sentence id="s433">) 
 43 The phrase in s 100(1)(g) of the 1952 Act, "was not novel in Australia", is similar in substance to the phrase in s 7(1) of the 1990 Act "not novel in the light of" various kinds of information.</sentence>
@@ -665,7 +665,7 @@ Prior claiming is not a ground available in this case because of the received wi
 <sentence id="s456">48 The claims for the separate enantiomers could be described as bare claims for efficacy without any foundation being shown for them in any part of the complete specification.</sentence>
 <sentence id="s457">There is no basis for knowing what, if any, efficacy or toxicity would apply to either enantiomer of any particular racemate.</sentence>
 <sentence id="s458">It is now known, of course, that one of the enantiomers of PCR 4099 was not only almost completely ineffective but was significantly more toxic than the other.</sentence>
-<sentence id="s459">That may have been exorbitant or covetous claiming (cf Mullard Radio Valve Co Ltd v Philco Radio &amp; Television Corporation of Great Britain Ltd [1936] 2 All ER 920, (1936) 53 RPC 323 at 349).</sentence>
+<sentence id="s459">That may have been exorbitant or covetous claiming (cf Mullard Radio Valve Co Ltd v Philco Radio &amp;amp; Television Corporation of Great Britain Ltd [1936] 2 All ER 920, (1936) 53 RPC 323 at 349).</sentence>
 <sentence id="s460">No doubt, if only the racemate were claimed, there would be a large risk that this would not protect against competition from a drug with one of the enantiomers as the active ingredient, which might be as efficacious as, and perhaps more efficacious than, the racemate as an active ingredient.</sentence>
 <sentence id="s461">The covetous nature of the claim does not advance Sanofi-Aventis' position.</sentence>
 <sentence id="s462">The dextro-rotatory enantiomer of PCR 4099 was identified as a compound with useful qualities concerning platelet aggregation.</sentence>
@@ -674,14 +674,14 @@ Prior claiming is not a ground available in this case because of the received wi
 <sentence id="s465">By way of introduction, it is worth remarking that the phrase "enabling disclosure" was brought to prominence by the speech of Lord Hoffmann in Biogen Inc v Medeva plc [1996] UKHL 18 ; [1997] RPC 1 , (1996) 36 IPR 438.</sentence>
 <sentence id="s466">That decision concerned the requirements for a valid patent under the 1997 United Kingdom Act (based upon the European Patent Convention) but did not concern the question of anticipation.</sentence>
 <sentence id="s467">The most important question was whether a later patent could claim an earlier priority date because it was "supported" by the earlier specification.</sentence>
-<sentence id="s468">That is a concept similar to, but narrower than, whether a later patent is fairly based upon an earlier specification in our law (cf F Hoffman-La Roche &amp; Co AG v Commissioner of Patents [1971] HCA 3 ; (1971) 123 CLR 529 ; CCOM Pty Ltd v Jiejing Pty Ltd [1994] FCA 1168 ; (1994) 51 FCR 260 ; Lockwood Security Products Pty Ltd v Doric Products Pty Ltd [2004] HCA 58 ; (2004) 217 CLR 274).</sentence>
+<sentence id="s468">That is a concept similar to, but narrower than, whether a later patent is fairly based upon an earlier specification in our law (cf F Hoffman-La Roche &amp;amp; Co AG v Commissioner of Patents [1971] HCA 3 ; (1971) 123 CLR 529 ; CCOM Pty Ltd v Jiejing Pty Ltd [1994] FCA 1168 ; (1994) 51 FCR 260 ; Lockwood Security Products Pty Ltd v Doric Products Pty Ltd [2004] HCA 58 ; (2004) 217 CLR 274).</sentence>
 <sentence id="s469">It may be accepted that, in the case of a claim for a chemical compound by formula, in order to be valid, the specification would have to disclose how it might be manufactured (s 40).</sentence>
 <sentence id="s470">The phrase was also used in the speech of Lord Oliver in Asahi Kasei Kogyo KK's Application [1991] RPC 485 , to which I shall return.</sentence>
 <sentence id="s471">The phrase is reasonable shorthand in relation to the disclosure required for there to be anticipation of a process or method claim but, in my opinion, has little, if any, relevance to anticipation of a product claim or a claim for a chemical compound by formula.</sentence>
 <sentence id="s472">Indeed, it is apt to mislead in relation to the latter.</sentence>
-<sentence id="s473">For a product claim, the novelty must lie in the product not the means of producing it ( May &amp; Baker Ltd v Boots Pure Drug Co Ltd (1948) 65 RPC 255 at 281---282).</sentence>
+<sentence id="s473">For a product claim, the novelty must lie in the product not the means of producing it ( May &amp;amp; Baker Ltd v Boots Pure Drug Co Ltd (1948) 65 RPC 255 at 281---282).</sentence>
 <sentence id="s474">By the same token, a new process to obtain an old product will have novelty.</sentence>
-<sentence id="s475">50 The usual starting point in discussion of anticipation is the judgment of Lord Westbury LC in Hill v Evans (1862) 1A IPR 1 , (1862) 4 De GF &amp; J 288, (1862) 31 LJ Ch 457 , (1862) 6 LT 90, (1862) 45 ER 1195 , particularly the following (1A IPR 1 at 6---7):
+<sentence id="s475">50 The usual starting point in discussion of anticipation is the judgment of Lord Westbury LC in Hill v Evans (1862) 1A IPR 1 , (1862) 4 De GF &amp;amp; J 288, (1862) 31 LJ Ch 457 , (1862) 6 LT 90, (1862) 45 ER 1195 , particularly the following (1A IPR 1 at 6---7):
  "the antecedent statement must be such that a person of ordinary knowledge of the subject would at once perceive, understand, and be able practically to apply the discovery without the necessity of making further experiments and gaining further information before the invention can be made useful.</sentence>
 <sentence id="s476">If something remains to be ascertained which is necessary for the useful application of the discovery, that affords sufficient room for another valid patent.</sentence>
 <sentence id="s477">...</sentence>
@@ -715,12 +715,12 @@ In that case, the question was whether a skilled reader would infer from photogr
 <sentence id="s501">But in this case I think that it is proved that the ordinary skilled man would have had good grounds for reaching the conclusion that these wheels were ground driven.</sentence>
 <sentence id="s502">He could not have been certain, but practical men act on something less than absolute certainty.</sentence>
 <sentence id="s503">" 
-52 The reference by Lord Reid to "clearly and unmistakably" no doubt refers to the same source as lay behind the well-known passage from the later Court of Appeal judgment in General Tire &amp; Rubber Co v Firestone Tyre and Rubber Co Ltd [1972] RPC 457 at 485---486:
+52 The reference by Lord Reid to "clearly and unmistakably" no doubt refers to the same source as lay behind the well-known passage from the later Court of Appeal judgment in General Tire &amp;amp; Rubber Co v Firestone Tyre and Rubber Co Ltd [1972] RPC 457 at 485---486:
  
  "If the prior inventor's publication contains a clear description of, or clear instructions to do or make , something that would infringe the patentee's claim if carried out after the grant of the patentee's patent, the patentee's claim will have been shown to lack the necessary novelty, that is to say, it will have been anticipated.</sentence>
 <sentence id="s504">The prior inventor, however, and the patentee may have approached the same device from different starting points and may for this reason, or it may be for other reasons, have so described their devices that it cannot be immediately discerned from a reading of the language which they have respectively used that they have discovered in truth the same device; but if carrying out the directions contained in the prior inventor's publication will inevitably result in something being made or done which, if the patentee's patent were valid, would constitute an infringement of the patentee's claim, this circumstance demonstrates that the patentee's claim has in fact been anticipated.</sentence>
 <sentence id="s505">If, on the other hand, the prior publication contains a direction which is capable of being carried out in a manner which would infringe the patentee's claim, but would be at least as likely to be carried out in a way which would not do so, the patentee's claim will not have been anticipated, although it may fail on the ground of obviousness.</sentence>
-<sentence id="s506">To anticipate the patentee's claim the prior publication must contain clear and unmistakeable directions to do what the patentee claims to have invented : Flour Oxidizing Co. Ltd. v. Carr &amp; Co. Ltd. ((1908) 25 R.P.C.</sentence>
+<sentence id="s506">To anticipate the patentee's claim the prior publication must contain clear and unmistakeable directions to do what the patentee claims to have invented : Flour Oxidizing Co. Ltd. v. Carr &amp;amp; Co. Ltd. ((1908) 25 R.P.C.</sentence>
 <sentence id="s507">428 at 457, line 34, approved in B.T.H.</sentence>
 <sentence id="s508">Co Ltd v Metropolitan Vickers Electrical Co. Ltd. (1928) 45 R.P.C.</sentence>
 <sentence id="s509">1 at 24, line 1).</sentence>
@@ -729,10 +729,10 @@ In that case, the question was whether a skilled reader would infer from photogr
 <sentence id="s512">[Emphasis added.</sentence>
 <sentence id="s513">] 
  
-53 The source, Flour Oxidizing Co Ltd v Carr &amp; Co Ltd (1908) 25 RPC 428 , concerned an invention for "[i]mprovements in conditioning or improving the quality of recently ground flour, semolina, or the like", one of the claims of the relevant patent being for a "process of conditioning flour and the like, passing the same with full exposure through an atmosphere containing a gaseous oxide of nitrogen or chlorine or bromine oxidising agent in the gaseous or vapourised state".</sentence>
+53 The source, Flour Oxidizing Co Ltd v Carr &amp;amp; Co Ltd (1908) 25 RPC 428 , concerned an invention for "[i]mprovements in conditioning or improving the quality of recently ground flour, semolina, or the like", one of the claims of the relevant patent being for a "process of conditioning flour and the like, passing the same with full exposure through an atmosphere containing a gaseous oxide of nitrogen or chlorine or bromine oxidising agent in the gaseous or vapourised state".</sentence>
 <sentence id="s514">The alleged anticipation being discussed by Parker J in the relevant passage ( Flour Oxidizing Co Ltd 25 RPC 428 at 457) was entitled "[i]mprovements in and relating to the treatment of alimentary substances and beverages" essentially by subjecting the substances to the action of electricity.</sentence>
-<sentence id="s515">54 The patent in suit in General Tire &amp; Rubber Co [1972] RPC 457 was for a process for making a compound suitable for tyre treads by mixing synthetic rubber with oil and carbon black and for the compound thus made (at 470).</sentence>
-<sentence id="s516">The issue in General Tire &amp; Rubber Co [1972] RPC 457 , as appears from the general treatment of anticipation from 486---497, focussed upon the method or process.</sentence>
+<sentence id="s515">54 The patent in suit in General Tire &amp;amp; Rubber Co [1972] RPC 457 was for a process for making a compound suitable for tyre treads by mixing synthetic rubber with oil and carbon black and for the compound thus made (at 470).</sentence>
+<sentence id="s516">The issue in General Tire &amp;amp; Rubber Co [1972] RPC 457 , as appears from the general treatment of anticipation from 486---497, focussed upon the method or process.</sentence>
 <sentence id="s517">The references to a signpost and a flag, which have excited later imaginations, deal with a situation in which the language and the directions given as to process or method were equivocal.</sentence>
 <sentence id="s518">The main principle is that, if the prior inventor's publication contains a clear description of something that would infringe the patentee's claim if carried out after the grant of the patentee's patent, the patentee's claim will have been shown to lack the necessary novelty.</sentence>
 <sentence id="s519">Alternatively, if the prior inventor's publication contains clear instructions to do or make something that would infringe the patentee's claim if carried out after the grant of the patentee's patent, the patentee's claim will have been shown to lack the necessary novelty.</sentence>
@@ -751,7 +751,7 @@ The House of Lords upheld the contrary view of Falconer J in Re Genentech Inc's 
 <sentence id="s530">The 1977 Act, in s 2(2), included the words "made available to the public".</sentence>
 <sentence id="s531">Counsel in Asahi [1991] RPC 485 suggested this may have made a difference to the test.</sentence>
 <sentence id="s532">Falconer J's reasoning did not appear to depend upon that distinction, although he did refer to a decision of the Technical Board of Appeal of the European Patent Office supporting his position.</sentence>
-<sentence id="s533">Falconer J expressly declined to follow decisions of the Patents Appeal Tribunal in Gyogyszeripara Kurato Interzet's Application [1958] RPC 51 and Smith Kline &amp; French Laboratories' Application [1968] RPC 415 and the established practice of the Comptroller.</sentence>
+<sentence id="s533">Falconer J expressly declined to follow decisions of the Patents Appeal Tribunal in Gyogyszeripara Kurato Interzet's Application [1958] RPC 51 and Smith Kline &amp;amp; French Laboratories' Application [1968] RPC 415 and the established practice of the Comptroller.</sentence>
 <sentence id="s534">Counsel for the petitioner for revocation in that case submitted that this was a departure from the long standing law in the United Kingdom as to anticipation and I agree with that submission.</sentence>
 <sentence id="s535">57 Lord Hoffman's speech in SmithKline Beecham (Paroxetine Methanesulfonate) Patent [2006] RPC 323 spells out the current United Kingdom position with clarity.</sentence>
 <sentence id="s536">Under the 1977 United Kingdom Act "disclosure" and "enablement" are separate concepts and are cumulative requirements for anticipation, although there may be circumstances where disclosure will also satisfy enablement.</sentence>
@@ -784,7 +784,7 @@ Then, at 336 ([32]):
 61 The applicants contend that, in any event, the methods of resolving the enantiomers were part of the common knowledge of skilled persons in Australia at the priority date and would be applied as a matter of routine.</sentence>
 <sentence id="s558">
  
-62 It was submitted on behalf of Sanofi-Aventis that neither PCR 4099 nor either of the enantiomers of that compound were "taught" in the sense of recommended by the French patent, citing Bristol-Myers Squibb Co v FH Faulding &amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 at [67] per Black CJ and Lehane J.</sentence>
+62 It was submitted on behalf of Sanofi-Aventis that neither PCR 4099 nor either of the enantiomers of that compound were "taught" in the sense of recommended by the French patent, citing Bristol-Myers Squibb Co v FH Faulding &amp;amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 at [67] per Black CJ and Lehane J.</sentence>
 <sentence id="s559">That case concerned a method of administration of a naturally occurring drug to a patient.</sentence>
 <sentence id="s560">The full passage is as follows:
  "What all those authorities contemplate, in our view, is that a prior publication, if it is to destroy novelty, must give a direction or make a recommendation or suggestion which will result, if the skilled reader follows it, in the claimed invention.</sentence>
@@ -797,7 +797,7 @@ Then, at 336 ([32]):
 <sentence id="s565">Indeed, the 3 hours infusion time administration schedule proved to be feasible, if given concomitantly to profylactic [sic] measures as high dose dexamethasone, cimetidine and difenhydramine.</sentence>
 <sentence id="s566">This makes even outpatient treatment with this first available representative of this new class of antitumor agents possible.</sentence>
 <sentence id="s567">" 
-(cf Merck &amp; Co Inc v Arrow Pharmaceuticals Ltd [2006] FCAFC 91 ; (2006) 154 FCR 31 at 60).</sentence>
+(cf Merck &amp;amp; Co Inc v Arrow Pharmaceuticals Ltd [2006] FCAFC 91 ; (2006) 154 FCR 31 at 60).</sentence>
 <sentence id="s568">In any event, the problem does not arise in the present case.</sentence>
 <sentence id="s569">The invention disclosed and claimed by the French patent necessarily carried the implication of a direction, recommendation or suggestion.</sentence>
 <sentence id="s570">That is the consideration for which the monopoly was granted.</sentence>
@@ -811,7 +811,7 @@ Then, at 336 ([32]):
  "If the invention discloses a principle capable of general application, the claims may be in correspondingly general terms.</sentence>
 <sentence id="s578">The patentee need not show that he has proved its application in every individual instance.</sentence>
 <sentence id="s579">On the other hand, if the claims include a number of discrete methods or products, the patentee must enable the invention to be performed in respect of each of them.</sentence>
-<sentence id="s580">Thus if the patentee has hit upon a new product which has a beneficial effect but cannot demonstrate that there is a common principle by which that effect will be shared by other products of the same class, he will be entitled to a patent for that product but not for the class, even though some may subsequently turn out to have the same beneficial effect: see May &amp; Baker Ltd v Boots Pure Drug Co Ltd [1950] RPC 23 at 50.</sentence>
+<sentence id="s580">Thus if the patentee has hit upon a new product which has a beneficial effect but cannot demonstrate that there is a common principle by which that effect will be shared by other products of the same class, he will be entitled to a patent for that product but not for the class, even though some may subsequently turn out to have the same beneficial effect: see May &amp;amp; Baker Ltd v Boots Pure Drug Co Ltd [1950] RPC 23 at 50.</sentence>
 <sentence id="s581">On the other hand, if he has disclosed a beneficial property which is common to the class, he will be entitled to a patent for all products of that class (assuming them to be new) even though he has not himself made more than one or two of them.</sentence>
 <sentence id="s582">" 
 65 In other words, examples are used to show the utility of the invention as a whole by providing a basis for generalising from them to the balance of the class claimed.</sentence>
@@ -827,10 +827,10 @@ Then, at 336 ([32]):
 <sentence id="s592">His reasoning included the following ( Alphapharm [2008] FCA 559 at [118] ---[119]):
  "The only context that I take into account in arriving at this conclusion is that it was part of common general knowledge: 
  
- &#8226; that racemates contained in equal parts (+) and (---) enantiomers;
- &#8226; that the enantiomers of a racemate were potentially separable, and it was a possibility that an enantiomer might have a stable existence as a compound distinct from being part of the racemate;
- &#8226; that some racemates had in fact been resolved into their separate enantiomers; and
- &#8226; that racemates were commonly represented by the symbol (+/-) to indicate the presence of both enantiomers.</sentence>
+ &amp;#8226; that racemates contained in equal parts (+) and (---) enantiomers;
+ &amp;#8226; that the enantiomers of a racemate were potentially separable, and it was a possibility that an enantiomer might have a stable existence as a compound distinct from being part of the racemate;
+ &amp;#8226; that some racemates had in fact been resolved into their separate enantiomers; and
+ &amp;#8226; that racemates were commonly represented by the symbol (+/-) to indicate the presence of both enantiomers.</sentence>
 <sentence id="s593">
  
  It is not that the (+)-citalopram compound does not exist when it is part of the racemate.</sentence>
@@ -838,7 +838,7 @@ Then, at 336 ([32]):
 <sentence id="s595">The (+) or (---) symbol, devoid of any context suggesting otherwise, implies distinctness from the racemate.</sentence>
 <sentence id="s596">" 
 In Alphapharm [2008] FCA 559 , Professor Martin Banwell was called by the applicant for revocation, as he was in these cases.</sentence>
-<sentence id="s597">68 After referring to the well-known passage from General Tire &amp; Rubber Co [1972] RPC 457 at 485---486 and citing various other cases, his Honour said ( Alphapharm [2008] FCA 559 at [161] ):
+<sentence id="s597">68 After referring to the well-known passage from General Tire &amp;amp; Rubber Co [1972] RPC 457 at 485---486 and citing various other cases, his Honour said ( Alphapharm [2008] FCA 559 at [161] ):
  "What does "enabling disclosure" mean in the context of a product claim?</sentence>
 <sentence id="s598">It means that the earlier disclosure must point unmistakeably to the (+)-enantiomer of citalopram, as distinct from the racemate, as a drug desirable to obtain.</sentence>
 <sentence id="s599">" 
@@ -906,7 +906,7 @@ Young J referred to decisions on the same patent in England and the United State
 <sentence id="s649">The common general knowledge found by Lindgren J to relate to the enantiomer patent and by Young J to relate to the broader patent was very much in the same time band as that relevant to construction of the patent in suit here.</sentence>
 <sentence id="s650">Naturally, the field of each invention is somewhat different but the principles of stereochemistry as they were understood at the time should not have varied much.</sentence>
 <sentence id="s651">There is no suggestion of any crucial and widely known developments during the years in question.</sentence>
-<sentence id="s652">74 In the Encyclopedia of United Kingdom and European Patent Law (Sweet &amp; Maxwell Limited, 1977---2007), footnote 3 on page 1109 includes the following: 
+<sentence id="s652">74 In the Encyclopedia of United Kingdom and European Patent Law (Sweet &amp;amp; Maxwell Limited, 1977---2007), footnote 3 on page 1109 includes the following: 
  "It has, for instance, been held that publication of the existence of an "optically active" compound is not publication of the separated optically active forms, even though any chemist would appreciate that they must exist and could be prepared: I.C.I. (1971) unrep.</sentence>
 <sentence id="s653">(No.</sentence>
 <sentence id="s654">1,069,343 opposed by Sandoz, P.A.T.).</sentence>
@@ -928,29 +928,29 @@ Later, the authors said (5-110 on page 1110):
 75 I return to selection patents.</sentence>
 <sentence id="s666">There has been little discussion of that topic in the Australian authorities and I was not referred to any Australian judicial decision based upon it.</sentence>
 <sentence id="s667">Counsel for the applicants submit that it is not referred to in the 1952 Act or the 1990 Act and that there is no warrant for recognizing a special class of patent in Australia.</sentence>
-<sentence id="s668">The commentary in Lahore, Patents Trade Marks &amp; Related Rights (LexisNexis Butterworths, Australia, 2006) at [12,910] can be described as lukewarm.</sentence>
+<sentence id="s668">The commentary in Lahore, Patents Trade Marks &amp;amp; Related Rights (LexisNexis Butterworths, Australia, 2006) at [12,910] can be described as lukewarm.</sentence>
 <sentence id="s669">Even in the United Kingdom, where the topic has been dealt with in a number of authorities and is firmly entrenched, the commentators remain somewhat sceptical about the principle.</sentence>
 <sentence id="s670">The situation there is now affected by the 1977 United Kingdom Act based upon the European Patent Convention.</sentence>
-<sentence id="s671">( Encyclopedia of United Kingdom and European Patent Law at 5-109, 5-110; Thorley S, Miller R, Burkill G, Birss C, Campbell D, Terrell on the Law of Patents , (16 th edn, Sweet &amp; Maxwell, London, 2006) at 7-42).</sentence>
+<sentence id="s671">( Encyclopedia of United Kingdom and European Patent Law at 5-109, 5-110; Thorley S, Miller R, Burkill G, Birss C, Campbell D, Terrell on the Law of Patents , (16 th edn, Sweet &amp;amp; Maxwell, London, 2006) at 7-42).</sentence>
 <sentence id="s672">76 The most recent reference to the topic in Australia is that by the Full Court in Ranbaxy [2008] FCAFC 82 at [105] :
  "A patent application will overcome a prior publication, as a selection patent, if the following criteria are met: 
  
- &#8226; there must be some substantial advantage to be secured by the use of the selected members;
- &#8226; the whole of the selected members must possess the advantage in question;
- &#8226; the selection must be in respect of a quality of a special character, which can fairly be said to be peculiar to the group; and
- &#8226; the advantage possessed by the selected members must be clearly disclosed in the specification.</sentence>
+ &amp;#8226; there must be some substantial advantage to be secured by the use of the selected members;
+ &amp;#8226; the whole of the selected members must possess the advantage in question;
+ &amp;#8226; the selection must be in respect of a quality of a special character, which can fairly be said to be peculiar to the group; and
+ &amp;#8226; the advantage possessed by the selected members must be clearly disclosed in the specification.</sentence>
 <sentence id="s673">
  
 (see Re IG Farbenindustrie AG's Patents (1930) 47 RPC 289 at 322-3).</sentence>
 <sentence id="s674">" 
 However, that was said in considering the ground of false suggestion rather than lack of novelty.</sentence>
 <sentence id="s675">It is a fair brief summary of the position as it was understood at the time of the 1952 Act based upon the authority to which reference was made --- Re IG Farbenindustrie AG's Patents (1930) 47 RPC 289.</sentence>
-<sentence id="s676">This remained the basis of the law in the United Kingdom, at least until the decision of the House of Lords in EI Du Pont De Nemours &amp; Co (Witsiepe's) Application [1982] FSR 303.</sentence>
+<sentence id="s676">This remained the basis of the law in the United Kingdom, at least until the decision of the House of Lords in EI Du Pont De Nemours &amp;amp; Co (Witsiepe's) Application [1982] FSR 303.</sentence>
 <sentence id="s677">77 The first case in the United Kingdom Court of Appeal to consider selection patents was In the matter of Esso Research and Engineering Co's Application (Shell) [1960] RPC 35 where the principle was explained as follows ([1960] RPC 35 at 53):
  "So it is that you may have first the scientist who discovers and discloses the whole range and who may obtain patent protection for the subject-matter of his discovery or the means of manufacturing them --- what Maugham, J. called the "originating patent".</sentence>
 <sentence id="s678">But within such a range there is room also for the second scientist whose researches may discover and disclose that certain of the items or a section of them have advantages peculiar to themselves, hitherto unknown; and, if so, then there would appear to be no ground on reason or principle why patent protection should not be, in proper cases, available to the second scientist.</sentence>
 <sentence id="s679">" 
-(See also Institut Francais du Petrole des Carburants et Lubricants' Application, Re [1972] FSR 147, [1972] RPC 364; May &amp; Baker Ltd (1948) 65 RPC 255.</sentence>
+(See also Institut Francais du Petrole des Carburants et Lubricants' Application, Re [1972] FSR 147, [1972] RPC 364; May &amp;amp; Baker Ltd (1948) 65 RPC 255.</sentence>
 <sentence id="s680">) 
  
 78 Crennan J made a passing reference to patents of addition (to which I shall return) and selection patents in Imperial Chemicals Industries Pty Ltd v Commissioner of Patents [2004] FCA 1658 ; (2004) 213 ALR 399 , (2004) 63 IPR 476 , (2005) AIPC 92-055 at [66] .</sentence>
@@ -962,26 +962,26 @@ However, that was said in considering the ground of false suggestion rather than
 As I said earlier, the decision of Falconer J appeared to be and, in my opinion, was, a departure from the manner in which the law of anticipation had been understood in the United Kingdom and in Australia up to that time.</sentence>
 <sentence id="s685">79 It seems to me that it is too late in the day to find that the principles explained by Maugham J in IG Farbenindustrie AG's Patents (1930) 47 RPC 289 are not relevant to the question of anticipation under the 1952 Act (and the 1990 Act, for that matter).</sentence>
 <sentence id="s686">That is not to recognise a special class of patents --- the reference to a selection patent is a convenient shorthand to pick up the relevant principles concerning anticipation.</sentence>
-<sentence id="s687">I approach the United Kingdom cases from and including EI Du Pont De Nemours &amp; Co (Witsiepe's) Application [1982] FSR 303 with caution.</sentence>
+<sentence id="s687">I approach the United Kingdom cases from and including EI Du Pont De Nemours &amp;amp; Co (Witsiepe's) Application [1982] FSR 303 with caution.</sentence>
 <sentence id="s688">I must also endeavour to keep separate questions of anticipation, on the one hand, and obviousness, on the other.</sentence>
 <sentence id="s689">The distinction is not always easy to discern in the authorities on this topic, including the seminal judgment of Maugham J.</sentence>
 <sentence id="s690">80 There is a question as to whether the selection patent principles apply to a compound specifically identified in the early specification as a member of the larger class (eg as an example or derivative) or whether it is restricted to the express identification (for the first time) of a particular member of the larger class with the special characteristic.</sentence>
-<sentence id="s691">The latter was conceded by the patentee in EI Du Pont De Nemours &amp; Co (Witsiepe's) Application [1982] FSR 303.</sentence>
+<sentence id="s691">The latter was conceded by the patentee in EI Du Pont De Nemours &amp;amp; Co (Witsiepe's) Application [1982] FSR 303.</sentence>
 <sentence id="s692">In the Court of Appeal, Buckley LJ had favoured the view that the concession was necessary (395) but, in the House of Lords, Lord Simon preferred to leave the point open ([1982] FSR 303 at 315).</sentence>
 <sentence id="s693">I favour the view of Buckley LJ as more in accordance with the rationale as explained by Maugham J and with his description of the class as follows ( IG Farbenindustrie AG's Patents (1930) 47 RPC at 321):
  "The second class comprises patents (the so-called selection patents) based on a selection of related compounds such as the homologues and substitution derivatives of the original compounds which presumably have been described in general terms and claimed in the originating patent.</sentence>
 <sentence id="s694">" 
 81 If that view is correct, then the patent in suit is not a selection patent in the ordinary sense as PCR 4099 and each of the enantiomers were expressly disclosed and claimed in the earlier patents and are expressly referred to in the patent in suit.</sentence>
 <sentence id="s695">In one sense, the dextro-rotatory enantiomer is selected from that sub-class.</sentence>
-<sentence id="s696">There is authority to suggest that selection can be from a small class (per Buckley LJ in Beecham Group Ltd's (Amoxycillin) Application, Re [1980] RPC 261 at 292; EI Du Pont De Nemours &amp; Co (Witsiepe's) Application [1982] FSR 303 per Lord Wilberforce at 310; but, cf Institut Francais du Petrole des Carburants et Lubricants' Application, Re [1972] FSR 147 at 154, [1972] RPC 364).</sentence>
+<sentence id="s696">There is authority to suggest that selection can be from a small class (per Buckley LJ in Beecham Group Ltd's (Amoxycillin) Application, Re [1980] RPC 261 at 292; EI Du Pont De Nemours &amp;amp; Co (Witsiepe's) Application [1982] FSR 303 per Lord Wilberforce at 310; but, cf Institut Francais du Petrole des Carburants et Lubricants' Application, Re [1972] FSR 147 at 154, [1972] RPC 364).</sentence>
 <sentence id="s697">I will therefore assume, contrary to my own opinion, that the principle can apply to the present case on that basis if the requirements are met.</sentence>
 <sentence id="s698">82 It is convenient to state once again the summary of those requirements from the Full Court decision in Ranbaxy [2008] FCAFC 82 at [105] :
  
  
- "&#8226; there must be some substantial advantage to be secured by the use of the selected members;
- &#8226; the whole of the selected members must possess the advantage in question;
- &#8226; the selection must be in respect of a quality of a special character, which can fairly be said to be peculiar to the group; and
- &#8226; the advantage possessed by the selected members must be clearly disclosed in the specification.</sentence>
+ "&amp;#8226; there must be some substantial advantage to be secured by the use of the selected members;
+ &amp;#8226; the whole of the selected members must possess the advantage in question;
+ &amp;#8226; the selection must be in respect of a quality of a special character, which can fairly be said to be peculiar to the group; and
+ &amp;#8226; the advantage possessed by the selected members must be clearly disclosed in the specification.</sentence>
 <sentence id="s699">"
  
  
@@ -1008,7 +1008,7 @@ The claims were not limited to any particular result.</sentence>
 <sentence id="s715">...</sentence>
 <sentence id="s716">I will summarise the conclusion at which I have arrived by saying that in a selection patent the inventive step lies in the selection for a useful and special property or characteristic adequately defined; and this is the proposition which has to be kept in mind in considering the application to amend and the Petition for revocation.</sentence>
 <sentence id="s717">" 
-86 The phrase in In the matter of Esso Research and Engineering Co's Application (Shell) [1960] RPC 35 at 53 was "advantages peculiar to themselves" or, as Lord Wilberforce put it in EI Du Pont De Nemours &amp; Co (Witsiepe's) Application [1982] FSR 303 at 309 "unrecognised advantages".</sentence>
+86 The phrase in In the matter of Esso Research and Engineering Co's Application (Shell) [1960] RPC 35 at 53 was "advantages peculiar to themselves" or, as Lord Wilberforce put it in EI Du Pont De Nemours &amp;amp; Co (Witsiepe's) Application [1982] FSR 303 at 309 "unrecognised advantages".</sentence>
 <sentence id="s718">Buckley LJ said in Beecham Group Ltd's (Amoxycillin) Application, Re [1980] RPC 261 at 292:
  "... the substance must be truly new and the advantage to be gained from its selection must be the inventor's own discovery as opposed to mere verification by him of previous predictions or of what was previously predictable; in other words, it must be unexpected.</sentence>
 <sentence id="s719">" 
@@ -1121,11 +1121,11 @@ PARTICULARS
 <sentence id="s756">96 A threshold question of law arises.</sentence>
 <sentence id="s757">It is submitted for the patentee that, once it is accepted that clopidogrel was not part of common general knowledge in Australia, let alone the broader teachings of the French patent, the ground of lack of inventive step is misconceived and has no possibility of success.</sentence>
 <sentence id="s758">It is pointed out that the statutory phrase is "what was known or used in Australia", before the priority date.</sentence>
-<sentence id="s759">It is well-established that that phrase refers to common general knowledge in the relevant field in Australia, that is to say, "the background knowledge and experience which is available to all in the trade in considering the making of new products, or the making of improvements in old" ( Minnesota Mining &amp; Manufacturing Co v Beiersdorf (Aust) Ltd [1980] HCA 9 ; (1980) 144 CLR 253 at 292).</sentence>
+<sentence id="s759">It is well-established that that phrase refers to common general knowledge in the relevant field in Australia, that is to say, "the background knowledge and experience which is available to all in the trade in considering the making of new products, or the making of improvements in old" ( Minnesota Mining &amp;amp; Manufacturing Co v Beiersdorf (Aust) Ltd [1980] HCA 9 ; (1980) 144 CLR 253 at 292).</sentence>
 <sentence id="s760">97 The applicants seek to sidestep this considerable obstacle by relying upon the description of the inventive step in the complete specification which makes it clear that the step was to go from the racemic mixture corresponding to the formula methyl alpha-5 (4,5,6,7-tetrahydro (3,2-c) thieno pyridyl) (2-chlorophenyl) acetate, described as derivative 1 in the French patent, to the dextro-rotatory enantiomer of that racemic mixture.</sentence>
 <sentence id="s761">The inventiveness of that step would then be judged according to Australian common general knowledge.</sentence>
-<sentence id="s762">It was submitted that this approach is consistent with that of the majority of the High Court in Aktiebolaget H&auml;ssle v Alphapharm Pty Ltd [2002] HCA 59 ; (2002) 212 CLR 411 at [41] and [52]---[53].</sentence>
-<sentence id="s763">That was consistent with the way in which that case had been conducted below ( Aktiebolaget H&auml;ssle v Alphapharm Pty Ltd [2000] FCA 1303 , (2000) 51 IPR 375 at [15] ---[24] and [44]).</sentence>
+<sentence id="s762">It was submitted that this approach is consistent with that of the majority of the High Court in Aktiebolaget H&amp;auml;ssle v Alphapharm Pty Ltd [2002] HCA 59 ; (2002) 212 CLR 411 at [41] and [52]---[53].</sentence>
+<sentence id="s763">That was consistent with the way in which that case had been conducted below ( Aktiebolaget H&amp;auml;ssle v Alphapharm Pty Ltd [2000] FCA 1303 , (2000) 51 IPR 375 at [15] ---[24] and [44]).</sentence>
 <sentence id="s764">98 An inventive step does not require any particular process of invention such as a flash of genius.</sentence>
 <sentence id="s765">However, there must be a step from one thing to another.</sentence>
 <sentence id="s766">In the case of a seminal invention, it may be from very little to something.</sentence>
@@ -1155,7 +1155,7 @@ PARTICULARS
 <sentence id="s788">There is no indication in that case that any of the patent specifications relied upon were cited in the patent in suit, that they had any connection with the patentee or that the patentee was aware of them.</sentence>
 <sentence id="s789">It was not a selection patent in any sense.</sentence>
 <sentence id="s790">103 The position established in Minnesota Mining [1980] HCA 9 ; 144 CLR 253 was of relatively short duration.</sentence>
-<sentence id="s791">Until then, the wider view of Williams J in HPM Industries Pty Ltd v Gerard Industries Ltd [1957] HCA 47 ; (1957) 98 CLR 424 had applied (see Graham Hart (1971) Pty Ltd v SW Hart &amp; Co Pty Ltd [1978] HCA 61 ; (1978) 141 CLR 305 per Aickin J at 329---330).</sentence>
+<sentence id="s791">Until then, the wider view of Williams J in HPM Industries Pty Ltd v Gerard Industries Ltd [1957] HCA 47 ; (1957) 98 CLR 424 had applied (see Graham Hart (1971) Pty Ltd v SW Hart &amp;amp; Co Pty Ltd [1978] HCA 61 ; (1978) 141 CLR 305 per Aickin J at 329---330).</sentence>
 <sentence id="s792">The 1990 Act widens the prior art base, but does not change the nature of the issue.</sentence>
 <sentence id="s793">Leaving aside Aktiebolaget [2002] HCA 59 ; 212 CLR 411 , the principal survey of the topic by the High Court since Minnesota Mining [1980] HCA 9 ; 144 CLR 253 was in Lockwood Security Products Pty Ltd v Doric Products Pty Ltd (No 2) [2007] HCA 21 ; (2007) 235 ALR 202 , (2007) 81 ALJR 1070 , particularly at [31]---[66].</sentence>
 <sentence id="s794">That case did not involve the problem that arises here.</sentence>
@@ -1277,14 +1277,14 @@ In NV Philips Gloeilampenfabrieken v Mirabella International Pty Ltd [1995] HCA 
 <sentence id="s894">But the case cited [ie Microcell] shows also that even if the process is within the concept the Commissioner is not bound to accept the allegation of the applicant that it is new, if it is apparent on the face of the specification, when properly construed, that the allegation is unfounded".</sentence>
 <sentence id="s895">120 The latter decision has subsequently been discussed by the High Court in Advanced Building Systems Pty Ltd v Ramset Fasteners (Aust) Pty Ltd [1998] HCA 19 ; (1998) 194 CLR 171 , particularly at [36]---[40] per Brennan CJ, Gaudron, McHugh and Gummow JJ and in Lockwood Security Products [2007] HCA 21 ; 235 ALR 202 ; (2007) 81 ALJR 1070 at [106] ---[107].</sentence>
 <sentence id="s896">It is made clear that external evidence cannot be relied upon.</sentence>
-<sentence id="s897">The same ground of invalidity was examined in some detail by the Full Court in Merck &amp; Co Inc [2006] FCAFC 91 ; 154 FCR 31 at [20] ---[75] (cf at first instance Arrow Pharmaceuticals Ltd v Merck &amp; Co Inc (2004) 213 ALR 182 , (2004) 63 IPR 85 at [80]---[97]).</sentence>
-<sentence id="s898">The true scope of this ground of invalidity is difficult to discern in a case such as the present where the claims are for conventional products (albeit defined by chemical formula) and processes for the manufacture of products compared, say, with Merck &amp; Co Inc [2006] FCAFC 91 ; 154 FCR 31 which dealt with a variation of a dosage regime.</sentence>
+<sentence id="s897">The same ground of invalidity was examined in some detail by the Full Court in Merck &amp;amp; Co Inc [2006] FCAFC 91 ; 154 FCR 31 at [20] ---[75] (cf at first instance Arrow Pharmaceuticals Ltd v Merck &amp;amp; Co Inc (2004) 213 ALR 182 , (2004) 63 IPR 85 at [80]---[97]).</sentence>
+<sentence id="s898">The true scope of this ground of invalidity is difficult to discern in a case such as the present where the claims are for conventional products (albeit defined by chemical formula) and processes for the manufacture of products compared, say, with Merck &amp;amp; Co Inc [2006] FCAFC 91 ; 154 FCR 31 which dealt with a variation of a dosage regime.</sentence>
 <sentence id="s899">It is clear that the grounds of novelty and obviousness must be considered as such rather than through this prism ( CCOM Pty Ltd [1994] FCA 1168 ; 51 FCR 260 at 295---295).</sentence>
 <sentence id="s900">121 In my opinion, it cannot be said that the patent in suit claims an invention that is not new on the face of the specification without regard to what may be described as external evidence.</sentence>
 <sentence id="s901">Indeed, the specification has been drawn in a fashion which is designed to ensure that the claims are new if the contents of the specification are accepted.</sentence>
 <sentence id="s902">I do not agree that the French specification is incorporated by reference as a whole and for all purposes into the specification in suit.</sentence>
 <sentence id="s903">It is incorporated sufficiently to understand the reference to the racemic compound in the specification in suit.</sentence>
-<sentence id="s904">Even if that be wrong, and it is incorporated as a whole (as appeared to be the case with some prior documents in the Full Court decision in Merck &amp; Co Inc [2006] FCAFC 91 ; 154 FCR 31) , it would take the matter no further than the decision to which I have come on novelty.</sentence>
+<sentence id="s904">Even if that be wrong, and it is incorporated as a whole (as appeared to be the case with some prior documents in the Full Court decision in Merck &amp;amp; Co Inc [2006] FCAFC 91 ; 154 FCR 31) , it would take the matter no further than the decision to which I have come on novelty.</sentence>
 <sentence id="s905">False suggestion or representation 
  
 122 The next ground to be considered is that the patent was obtained on a false suggestion or representation (1952 Act, s 100(1)(k); 1990 Act, s 138(3)(d)).</sentence>
@@ -1313,7 +1313,7 @@ It was suggested that the use of the expression "racemic mixture" impliedly repr
 The same point would apply here.</sentence>
 <sentence id="s921">125 As I have found that claim 1 and dependent claims lack novelty, this ground adds nothing to that result.</sentence>
 <sentence id="s922">The 1990 Act contemplates revocation claim by claim (s 138(3)); the 1952 Act ground is "that the patent was obtained on a false suggestion or representation" (s 100(1)(k)).</sentence>
-<sentence id="s923">Nonetheless, the Full Court in ICI Chemicals &amp; Polymers Ltd v Lubrizol Corp Inc [2000] FCA 1349 ; (2000) 106 FCR 214 at [93] held that the opening words of s 100(1) of the 1952 Act contemplated claim by claim revocation.</sentence>
+<sentence id="s923">Nonetheless, the Full Court in ICI Chemicals &amp;amp; Polymers Ltd v Lubrizol Corp Inc [2000] FCA 1349 ; (2000) 106 FCR 214 at [93] held that the opening words of s 100(1) of the 1952 Act contemplated claim by claim revocation.</sentence>
 <sentence id="s924">126 It was submitted for the patentee that the descriptions "unexpected" and "interesting" are expressions of opinion and can only be falsified or made misleading by establishing that they were not genuinely held.</sentence>
 <sentence id="s925">That distinction is well-known in the fields of misrepresentation, misleading conduct contrary to s 52 of the Trade Practices Act 1974 (Cth) and defamation.</sentence>
 <sentence id="s926">There is a good deal to commend the approach in this context.</sentence>

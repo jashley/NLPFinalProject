@@ -3,18 +3,18 @@
 <name>Tramanco Pty Ltd v BPW Transpec Pty Ltd [2009] FCA 509 (13 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/509.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patents</catchphrase>
-<catchphrase "id=c1">interlocutory injunction</catchphrase>
-<catchphrase "id=c2">alleged infringement of patent</catchphrase>
-<catchphrase "id=c3">application to restrain respondent from marketing an electronic road monitoring system</catchphrase>
-<catchphrase "id=c4">alleged infringement</catchphrase>
-<catchphrase "id=c5">whether serious question to be tried</catchphrase>
-<catchphrase "id=c6">factors relevant to the balance of convenience</catchphrase>
-<catchphrase "id=c7">respondent proposing to continue to market the allegedly infringing product in knowledge of the applicant's claim to be entitled to the patent</catchphrase>
-<catchphrase "id=c8">held serious question to be tried</catchphrase>
-<catchphrase "id=c9">had adverse impact on applicant's business not quantifiable in damages were interlocutory injunction not granted</catchphrase>
-<catchphrase "id=c10">interlocutory injunction granted</catchphrase>
-<catchphrase "id=c11">intellectual property</catchphrase>
+<catchphrase id="c0">patents</catchphrase>
+<catchphrase id="c1">interlocutory injunction</catchphrase>
+<catchphrase id="c2">alleged infringement of patent</catchphrase>
+<catchphrase id="c3">application to restrain respondent from marketing an electronic road monitoring system</catchphrase>
+<catchphrase id="c4">alleged infringement</catchphrase>
+<catchphrase id="c5">whether serious question to be tried</catchphrase>
+<catchphrase id="c6">factors relevant to the balance of convenience</catchphrase>
+<catchphrase id="c7">respondent proposing to continue to market the allegedly infringing product in knowledge of the applicant's claim to be entitled to the patent</catchphrase>
+<catchphrase id="c8">held serious question to be tried</catchphrase>
+<catchphrase id="c9">had adverse impact on applicant's business not quantifiable in damages were interlocutory injunction not granted</catchphrase>
+<catchphrase id="c10">interlocutory injunction granted</catchphrase>
+<catchphrase id="c11">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -124,7 +124,7 @@
 <sentence id="s79">I infer that to be so, because it seems that the arrangements for the placement of a display at the show were made by BPW Transpec in April, whereas the alleged infringement did not come to Tramanco's attention until earlier this month.</sentence>
 <sentence id="s80">There can be no question that Tramanco and its advisors have acted with anything other than due dispatch in bringing the application to the Court once the alleged infringement had come to Tramanco's attention.</sentence>
 <sentence id="s81">Further, Tramanco, by its solicitors on 11 May 2009, gave a detailed recitation to BPW Transpec of the basis upon which an infringement was said to arise, and foreshadowed the making today of an application for interlocutory injunctive relief in the even that satisfactory arrangements were not reached informally.</sentence>
-<sentence id="s82">Madgwicks, a solicitor's firm practising in Melbourne, made a detailed response on behalf of BPW Transpec to Bennett &amp; Philp, the solicitors for Tramanco.</sentence>
+<sentence id="s82">Madgwicks, a solicitor's firm practising in Melbourne, made a detailed response on behalf of BPW Transpec to Bennett &amp;amp; Philp, the solicitors for Tramanco.</sentence>
 <sentence id="s83">Some of the factors telling against an interlocutory injunction, which I have already mentioned, are highlighted in that letter.</sentence>
 <sentence id="s84">Another matter highlighted is the possibility of a defence on the basis that the patent was not validly granted because, it seems, of an allegation that the basis for the patent was nothing more than a reflection of common prior knowledge.</sentence>
 <sentence id="s85">I take that into account in weighing up whether or not an interlocutory injunction should go.</sentence>
@@ -165,7 +165,7 @@ Dated: 20 May 2009
  
  Counsel for the Applicant: Mr J O'Sullivan 
  
- Solicitor for the Applicant: Bennett &amp; Philp Solicitors 
+ Solicitor for the Applicant: Bennett &amp;amp; Philp Solicitors 
  
  Solicitor for the Respondent: MacDonnells Law as town agent for Madgwicks Lawyers (Melbourne) 
  Date of Hearing: 13 May 2009 

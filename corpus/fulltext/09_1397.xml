@@ -3,29 +3,29 @@
 <name>Shaw v Minister for Families, Housing, Community Services and Indigenous Affairs [2009] FCA 1397 (26 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1397.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">s 47 northern territory national emergency response act 2007 (cth)</catchphrase>
-<catchphrase "id=c1">whether the power of the commonwealth minister to give a notice under s 47 to compulsorily acquire prescribed areas is conditioned upon affording procedural fairness to the residents of the land the subject of the notice when they occupy parts of the land under tenancy agreements with the principal lessor</catchphrase>
-<catchphrase "id=c2">whether the commonwealth minister had afforded procedural fairness in the circumstances</catchphrase>
-<catchphrase "id=c3">associations incorporated under associations act (nt)</catchphrase>
-<catchphrase "id=c4">whether the associations will breach their constitutions, contractual duties owed to members and whether the executive committees will breach their fiduciary duties owed to members by entering into a transaction under which the land leased by the associations will be subleased to the commonwealth for a period of 40 years (the proposed subleases)</catchphrase>
-<catchphrase "id=c5">whether execution of the proposed subleases is contrary to the interests of the associations</catchphrase>
-<catchphrase "id=c6">question of a fair reading of the constitutions of the associations</catchphrase>
-<catchphrase "id=c7">whether, upon a fair reading of their constitutions, it is an integral object of the associations that they continue to have direct control and management of particular lands leased by them in perpetuity, so that they may not enter into the proposed subleases</catchphrase>
-<catchphrase "id=c8">corporations incorporated under corporations (aboriginal and torres strait islander) act 2006 (cth)</catchphrase>
-<catchphrase "id=c9">whether the corporations will breach their rule books, contractual duties owed to members and whether the executive committees will breach their fiduciary duties owed to members by entering into a transaction under which the land leased by the corporations will be subleased to the commonwealth for a period of 40 years (the proposed subleases)</catchphrase>
-<catchphrase "id=c10">whether execution of the proposed subleases is contrary to the interests of the corporations</catchphrase>
-<catchphrase "id=c11">question of a fair reading of the rule books of the corporations</catchphrase>
-<catchphrase "id=c12">whether, upon a fair reading of their rule books, it is an integral object of the corporations that they continue to have direct control and management of particular lands leased by them in perpetuity, so that they may not enter into the proposed subleases</catchphrase>
-<catchphrase "id=c13">representative proceedings</catchphrase>
-<catchphrase "id=c14">whether expedited proceedings would provide an efficient and effective means of dealing with the claims of group members</catchphrase>
-<catchphrase "id=c15">whether it would be in the interests of justice to order that proceedings no longer continue as representative proceedings</catchphrase>
-<catchphrase "id=c16">tenancy agreements granted other than for specific fixed term</catchphrase>
-<catchphrase "id=c17">whether periodic tenancies</catchphrase>
-<catchphrase "id=c18">administrative law</catchphrase>
-<catchphrase "id=c19">associations and clubs</catchphrase>
-<catchphrase "id=c20">corporations</catchphrase>
-<catchphrase "id=c21">practice and procedure</catchphrase>
-<catchphrase "id=c22">landlord and tenant</catchphrase>
+<catchphrase id="c0">s 47 northern territory national emergency response act 2007 (cth)</catchphrase>
+<catchphrase id="c1">whether the power of the commonwealth minister to give a notice under s 47 to compulsorily acquire prescribed areas is conditioned upon affording procedural fairness to the residents of the land the subject of the notice when they occupy parts of the land under tenancy agreements with the principal lessor</catchphrase>
+<catchphrase id="c2">whether the commonwealth minister had afforded procedural fairness in the circumstances</catchphrase>
+<catchphrase id="c3">associations incorporated under associations act (nt)</catchphrase>
+<catchphrase id="c4">whether the associations will breach their constitutions, contractual duties owed to members and whether the executive committees will breach their fiduciary duties owed to members by entering into a transaction under which the land leased by the associations will be subleased to the commonwealth for a period of 40 years (the proposed subleases)</catchphrase>
+<catchphrase id="c5">whether execution of the proposed subleases is contrary to the interests of the associations</catchphrase>
+<catchphrase id="c6">question of a fair reading of the constitutions of the associations</catchphrase>
+<catchphrase id="c7">whether, upon a fair reading of their constitutions, it is an integral object of the associations that they continue to have direct control and management of particular lands leased by them in perpetuity, so that they may not enter into the proposed subleases</catchphrase>
+<catchphrase id="c8">corporations incorporated under corporations (aboriginal and torres strait islander) act 2006 (cth)</catchphrase>
+<catchphrase id="c9">whether the corporations will breach their rule books, contractual duties owed to members and whether the executive committees will breach their fiduciary duties owed to members by entering into a transaction under which the land leased by the corporations will be subleased to the commonwealth for a period of 40 years (the proposed subleases)</catchphrase>
+<catchphrase id="c10">whether execution of the proposed subleases is contrary to the interests of the corporations</catchphrase>
+<catchphrase id="c11">question of a fair reading of the rule books of the corporations</catchphrase>
+<catchphrase id="c12">whether, upon a fair reading of their rule books, it is an integral object of the corporations that they continue to have direct control and management of particular lands leased by them in perpetuity, so that they may not enter into the proposed subleases</catchphrase>
+<catchphrase id="c13">representative proceedings</catchphrase>
+<catchphrase id="c14">whether expedited proceedings would provide an efficient and effective means of dealing with the claims of group members</catchphrase>
+<catchphrase id="c15">whether it would be in the interests of justice to order that proceedings no longer continue as representative proceedings</catchphrase>
+<catchphrase id="c16">tenancy agreements granted other than for specific fixed term</catchphrase>
+<catchphrase id="c17">whether periodic tenancies</catchphrase>
+<catchphrase id="c18">administrative law</catchphrase>
+<catchphrase id="c19">associations and clubs</catchphrase>
+<catchphrase id="c20">corporations</catchphrase>
+<catchphrase id="c21">practice and procedure</catchphrase>
+<catchphrase id="c22">landlord and tenant</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -2056,7 +2056,7 @@ The nominees from the Housing Associations are to consult with the residents of 
 <sentence id="s897">There is the prospect that over time, through the Executive Director, the rents might further increase.</sentence>
 <sentence id="s898">That can only occur to the extent that the tenancy agreements in force permit.</sentence>
 <sentence id="s899">There is a loss of control as members of the Housing Association of the selection, from the members, of who gets a tenancy of new dwellings in the town camp, but the subleases are subject to the head lease, and so only members of the Housing Associations are eligible.</sentence>
-<sentence id="s900">There was no dispute that the proposed subleases would be subject to the terms of the head leases, entitled to the benefits and subject to the burdens of their covenants: Stewart v Goldman &amp; Co Pty Ltd (1947) 64 WN (NSW) 155 at 158.</sentence>
+<sentence id="s900">There was no dispute that the proposed subleases would be subject to the terms of the head leases, entitled to the benefits and subject to the burdens of their covenants: Stewart v Goldman &amp;amp; Co Pty Ltd (1947) 64 WN (NSW) 155 at 158.</sentence>
 <sentence id="s901">There is also a loss of control as members over the income and expenditure of the Housing Associations, and over what action is taken in the event of non-payment of rent or of other breaches of the terms of a tenancy agreement, because those matters become the function and responsibility of the Executive Director, the Northern Territory or Territory Housing, and then through the Housing Authority.</sentence>
 <sentence id="s902">Those decisions may only be made after the consultation with the Housing Associations imposed by clause 10.1(c).</sentence>
 <sentence id="s903">As a matter of strict interpretation, despite the consultation provided for, the Executive Director or a Housing Authority may adopt a stricter or different view of what is appropriate on those matters than the Housing Associations have done in the past.</sentence>
@@ -2274,7 +2274,7 @@ Mason CJ in Northside Developments Pty Ltd v Registrar-General [1990] HCA 32 ; (
 <sentence id="s1083">The leased land was to be used for Aboriginal community living and ancillary activities.</sentence>
 <sentence id="s1084">The Residents contend that the proposed subleases, for such a lengthy period, removes the sub-stratum for the creation and continuing operation of the Housing Associations as their objects contemplate.</sentence>
 <sentence id="s1085">However, it is necessary to pay proper regard to the current Constitutions and Rule Books of those Housing Associations.</sentence>
-<sentence id="s1086">In HA Stephenson &amp; Son Ltd (In Liquidation) v Gillanders Arbuthnot &amp; Co [1931] HCA 47 ; (1931) 45 CLR 476 Dixon J at 487 said that the question of corporate capacity 
+<sentence id="s1086">In HA Stephenson &amp;amp; Son Ltd (In Liquidation) v Gillanders Arbuthnot &amp;amp; Co [1931] HCA 47 ; (1931) 45 CLR 476 Dixon J at 487 said that the question of corporate capacity 
  
  must be ascertained according to the true meaning of the memorandum interpreted by a fair reading of the whole instrument.</sentence>
 <sentence id="s1087">
@@ -2359,7 +2359,7 @@ Mason CJ in Northside Developments Pty Ltd v Registrar-General [1990] HCA 32 ; (
 
  The Minister did not rely upon s 96.1 of the CATSI Act as providing the foundation for the Housing Associations incorporated under it to be enabled to enter into the proposed subleases.</sentence>
 <sentence id="s1150">That may be simply because there are only three of them, and the condition precedent to the activation of each proposed sublease in clause 2.1(a)(i) referred to above would not be satisfied.</sentence>
-<sentence id="s1151">It may also be because, notwithstanding its apparent effect, there is some authority to suggest its role is confined to validating corporate dealings with outsiders despite deficiencies in corporate capacity, but not to abrogating restrictions on the exercise of shareholders' or directors' powers: see eg per McPherson J (with whom Lee and McKenzie JJ agreed) in ANZ Executors &amp; Trustee Co Ltd v Qintex Australia Ltd (receiver and managers appointed) (1990) 8 ACLC 980 at 988.</sentence>
+<sentence id="s1151">It may also be because, notwithstanding its apparent effect, there is some authority to suggest its role is confined to validating corporate dealings with outsiders despite deficiencies in corporate capacity, but not to abrogating restrictions on the exercise of shareholders' or directors' powers: see eg per McPherson J (with whom Lee and McKenzie JJ agreed) in ANZ Executors &amp;amp; Trustee Co Ltd v Qintex Australia Ltd (receiver and managers appointed) (1990) 8 ACLC 980 at 988.</sentence>
 <sentence id="s1152">There may be other reasons.</sentence>
 <sentence id="s1153">It may be that such a provision does not inhibit a member of such an association from asserting that the common understanding of the members and their general intention was for the association to control the use and development of those town camps, and seeking to enforce that position.</sentence>
 <sentence id="s1154">That sort of contention has been used to support the winding up of a corporation or the just and equitable ground: see Ford's Principles of Corporations Law (13 th ed, 2007, Butterworths) at [12.130] p 744 and the cases there cited.</sentence>
@@ -2408,13 +2408,13 @@ Mason CJ in Northside Developments Pty Ltd v Registrar-General [1990] HCA 32 ; (
  To the contrary, in New South Wales Rugby League v Wayde (1985) 1 NSWLR 86 it was expressly decided at 96 by the Court (Street CJ, Kirby P and Hope JA) that the phrase "the interests of the members as a whole" in s 320 of the Companies (New South Wales) Code is synonymous with "the benefit of the company as a whole" because the only legitimate interests of the members would be their interests as corporators.</sentence>
 <sentence id="s1188">An appeal to the High Court was dismissed: Wayde v New South Wales Rugby League Inc [1985] HCA 68 ; (1985) 180 CLR 459.</sentence>
 <sentence id="s1189">No comment was made upon the view of the Court of Appeal on that topic, although Brennan J in agreeing with the result of the plurality judgment at 471 made some additional comments upon it.</sentence>
-<sentence id="s1190">Besanko J in Millar v Houghton Table Tennis &amp; Sports Club Inc [2003] SASC 1 at [135] appears to have adopted the same view.</sentence>
+<sentence id="s1190">Besanko J in Millar v Houghton Table Tennis &amp;amp; Sports Club Inc [2003] SASC 1 at [135] appears to have adopted the same view.</sentence>
 <sentence id="s1191">Szencorp Pty Ltd v Clean Energy Council Limited (2009) 69 ACSR 365 , was also an "oppression" case brought in reliance upon the current statutory equivalent, s 232 of the Corporations Act 2001 (Cth), in relation to the conduct of the affairs of an unlisted not-for-profit public company limited by guarantee.</sentence>
 <sentence id="s1192">It was an entity formed to effect a merger of two existing sustainable energy industry associations.</sentence>
 <sentence id="s1193">Goldberg J at [59] remarked in the course of his reasons: 
  
  The "contrary to the interests" provision now contained in subpar (d) of s 232 has a separate and distinct area of operation from the "oppression" provisions in subpar (e) of s 232.</sentence>
-<sentence id="s1194">The manner in which a company is being administered and in which its affairs are conducted may fall within the category of conduct contrary to the interests of the company's members as a whole although it may not be described as oppressive, unfairly prejudicial to, or unfairly discriminatory against members of the company: Turnbull v National Roads &amp; Motorists' Association Limited [2004] NSWSC 577 ; (2004) 50 ACSR 44 at 52, 57; Campbell v BackOffice Investments Pty Ltd [2008] NSWCA 95 ; (2008) 66 ACSR 359 at 400.</sentence>
+<sentence id="s1194">The manner in which a company is being administered and in which its affairs are conducted may fall within the category of conduct contrary to the interests of the company's members as a whole although it may not be described as oppressive, unfairly prejudicial to, or unfairly discriminatory against members of the company: Turnbull v National Roads &amp;amp; Motorists' Association Limited [2004] NSWSC 577 ; (2004) 50 ACSR 44 at 52, 57; Campbell v BackOffice Investments Pty Ltd [2008] NSWCA 95 ; (2008) 66 ACSR 359 at 400.</sentence>
 <sentence id="s1195">(See also Re Spargos Mining NL (1990) 3 ACSR 1 at 42; Shelton v NRMA Limited (2005) 51 ACSR 278.</sentence>
 <sentence id="s1196">) An example of such conduct may be found where a company is formed for the purpose of undertaking particular activities but the directors and management disregard those activities and direct the company into different commercial areas.</sentence>
 <sentence id="s1197">
@@ -2528,19 +2528,19 @@ And they immediately continue:
 Dated: 26 November 2009
  
  In proceeding No 547 of 2009: 
- Counsel for the Applicant: J Beach QC, D Harding &amp; F Forsyth 
+ Counsel for the Applicant: J Beach QC, D Harding &amp;amp; F Forsyth 
  
  Solicitor for the Applicant: Human Rights Law Resource Centre Ltd 
  
- Counsel for the Respondent: S Lloyd SC, L Clegg &amp; A Mitchelmore 
+ Counsel for the Respondent: S Lloyd SC, L Clegg &amp;amp; A Mitchelmore 
  
  Solicitor for the Respondent: Australian Government Solicitor 
  In proceeding No 558 of 2009: 
- Counsel for the Applicants: J Beach QC, D Harding &amp; F Forsyth 
+ Counsel for the Applicants: J Beach QC, D Harding &amp;amp; F Forsyth 
  
  Solicitor for the Applicants: Human Rights Law Resource Centre Ltd 
  
- Counsel for the First and Second Respondents: S Lloyd SC, L Clegg &amp; A Mitchelmore 
+ Counsel for the First and Second Respondents: S Lloyd SC, L Clegg &amp;amp; A Mitchelmore 
  
  Solicitor for the First and Second Respondents: Australian Government Solicitor 
  

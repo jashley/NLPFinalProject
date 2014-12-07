@@ -3,11 +3,11 @@
 <name>Wright Rubber Products Pty Ltd v Bayer AG (No 2) [2009] FCA 1317 (13 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1317.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">motion to strike-out pleading under o 11 r 16 of the federal court rules</catchphrase>
-<catchphrase "id=c1">level of precision at which group member definitions must be pleaded in group actions</catchphrase>
-<catchphrase "id=c2">level of precision at which a "market" must be pleaded in actions arising under the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c3">whether a global market can include a market in australia for the purposes of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase id="c0">motion to strike-out pleading under o 11 r 16 of the federal court rules</catchphrase>
+<catchphrase id="c1">level of precision at which group member definitions must be pleaded in group actions</catchphrase>
+<catchphrase id="c2">level of precision at which a "market" must be pleaded in actions arising under the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c3">whether a global market can include a market in australia for the purposes of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -207,7 +207,7 @@
  
 
  In a case such as the present where an applicant alleges the existence of a global market or a market extending beyond the bounds of Australia (but which includes Australia), it is necessary that that market be identified in any pleading.</sentence>
-<sentence id="s131">It is a material fact or particular: see Auskay International Manufacturing &amp; Trade Pty Ltd v Qantas Airways Ltd [2008] FCA 1458 ; (2008) 251 ALR 166 at 173.</sentence>
+<sentence id="s131">It is a material fact or particular: see Auskay International Manufacturing &amp;amp; Trade Pty Ltd v Qantas Airways Ltd [2008] FCA 1458 ; (2008) 251 ALR 166 at 173.</sentence>
 <sentence id="s132">The pleadings must identify the relevant goods or services, the geographic boundaries of the market and those involved in close competition within the market whom it is said have engaged in anti-competitive conduct.</sentence>
 <sentence id="s133">A single market will thus be identified, which will include a "market in Australia".</sentence>
 <sentence id="s134">The applicant has pleaded that there is a global market for the supply of rubber chemicals and an Australian market for those products.</sentence>
@@ -267,7 +267,7 @@ Dated: 13 November 2009
  
  Counsel for the First and Second Respondents: Mr C Moore 
  
- Solicitor for the First and Second Respondents: Baker &amp; McKenzie 
+ Solicitor for the First and Second Respondents: Baker &amp;amp; McKenzie 
  
  Counsel for the Third and Fifth Respondents: Mr P Crutchfield 
  

@@ -3,11 +3,11 @@
 <name>The University of Sydney v ResMed Ltd (No 2) [2008] FCA 1969 (23 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1969.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pleading s</catchphrase>
-<catchphrase "id=c1">motion to strike out</catchphrase>
-<catchphrase "id=c2">both parties having measure of success</catchphrase>
-<catchphrase "id=c3">no order as to costs.</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase id="c0">pleading s</catchphrase>
+<catchphrase id="c1">motion to strike out</catchphrase>
+<catchphrase id="c2">both parties having measure of success</catchphrase>
+<catchphrase id="c3">no order as to costs.</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -233,7 +233,7 @@ Item (l) was information that it was possible to make a children's version which
 <sentence id="s120">The construction of the Provisional Specification, the Patent , and disclosures in the prior art are matters that are too complex and arguable to provide the basis for a striking out.</sentence>
 <sentence id="s121">On a related point, ResMed also complains that the University has not pleaded that the Information remained confidential at the time of the alleged breaches of the equitable obligation of confidentiality pleaded in paras 18A, 18B and 38 of the SFASOC.</sentence>
 <sentence id="s122">ResMed points to the fact that by applying for the Patent, the University made public the information contained in the complete specification.</sentence>
-<sentence id="s123">I agree with the University that it is for ResMed to plead in its defence that particular items of the Information or particular parts of such items were made public by the University and therefore lost their confidential character: see, for example Bullen &amp; Leake &amp; Jacob's Precedents of Pleadings (16 th ed, London, Sweet &amp; Maxwell, 2008) vol 2, 66-R3, 66-R6, pp 1062-1063.</sentence>
+<sentence id="s123">I agree with the University that it is for ResMed to plead in its defence that particular items of the Information or particular parts of such items were made public by the University and therefore lost their confidential character: see, for example Bullen &amp;amp; Leake &amp;amp; Jacob's Precedents of Pleadings (16 th ed, London, Sweet &amp;amp; Maxwell, 2008) vol 2, 66-R3, 66-R6, pp 1062-1063.</sentence>
 <sentence id="s124">As I understand it, ResMed's defence will so allege (without admitting that the items of the Information were ever confidential in the first place).</sentence>
 <sentence id="s125">Finally, ResMed referred to numerous legal authorities in support of an argument that the Information is too "vague" or "imprecise" to be subject to an equitable obligation of confidentiality.</sentence>
 <sentence id="s126">I discussed two particular items of the Information at [36] above.</sentence>
@@ -298,7 +298,7 @@ Item (l) was information that it was possible to make a children's version which
  
  ... logically, use of the Intellectual Property in developing the Mirage Masks could constitute a breach of clause 3.3 only if those masks are not Products within the meaning of the Agreement.</sentence>
 <sentence id="s166">However, the SFASOC does not indicate that the allegations made at SFASOC [18]-[18D] are limited to those circumstances.</sentence>
-<sentence id="s167">Indeed, it is not clear whether, in repeating SFASOC [15](a) --- (g) at SFASOC [18] &amp; [18A], the University should be taken to repeat the assertion at SFASOC [15] that "each Mirage Mask is a Product within the meaning of the Agreement".</sentence>
+<sentence id="s167">Indeed, it is not clear whether, in repeating SFASOC [15](a) --- (g) at SFASOC [18] &amp;amp; [18A], the University should be taken to repeat the assertion at SFASOC [15] that "each Mirage Mask is a Product within the meaning of the Agreement".</sentence>
 <sentence id="s168">For this reason also, the pleading at SFASOC [18]-[18D] tends to cause embarrassment.</sentence>
 <sentence id="s169">...it would be implausible to suggest that the use by ResMed of the Intellectual Property for the purpose of manufacturing and marketing the Product, being expressly authorised under clause 3.1 of the Agreement, constituted a breach of an equitable obligation of confidence owed by ResMed to the University.</sentence>
 <sentence id="s170">Logically, use of the Intellectual Property in developing the Mirage Masks could only be in breach of an obligation of confidence if those masks are not Products within the meaning of the Agreement.</sentence>

@@ -3,19 +3,19 @@
 <name>Reading v Partnership of Western Diagnostic Pathology [2008] FCA 1381 (9 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1381.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">written complaint lodged with human rights and equal opportunity commission alleging unlawful discrimination</catchphrase>
-<catchphrase "id=c1">termination of complaint pursuant to s 46ph of the human rights and equal opportunity commission act 1986 (cth)</catchphrase>
-<catchphrase "id=c2">application made to this court for relief pursuant to s 46po of the hreoc act</catchphrase>
-<catchphrase "id=c3">different parties named to complaint</catchphrase>
-<catchphrase "id=c4">in part different conduct the subject of the terminated complaint</catchphrase>
-<catchphrase "id=c5">question of striking out claims based on different parties and the different conduct</catchphrase>
-<catchphrase "id=c6">summary judgment application and strike out application</catchphrase>
-<catchphrase "id=c7">relevant principles for each</catchphrase>
-<catchphrase "id=c8">claim against non-parties to hreoc complaint before the commission struck out</catchphrase>
-<catchphrase "id=c9">elements of claim which were not the same or arising out of the same or substantially the same acts also struck out</catchphrase>
-<catchphrase "id=c10">leave to amend</catchphrase>
-<catchphrase "id=c11">human rights</catchphrase>
-<catchphrase "id=c12">practice and procedure</catchphrase>
+<catchphrase id="c0">written complaint lodged with human rights and equal opportunity commission alleging unlawful discrimination</catchphrase>
+<catchphrase id="c1">termination of complaint pursuant to s 46ph of the human rights and equal opportunity commission act 1986 (cth)</catchphrase>
+<catchphrase id="c2">application made to this court for relief pursuant to s 46po of the hreoc act</catchphrase>
+<catchphrase id="c3">different parties named to complaint</catchphrase>
+<catchphrase id="c4">in part different conduct the subject of the terminated complaint</catchphrase>
+<catchphrase id="c5">question of striking out claims based on different parties and the different conduct</catchphrase>
+<catchphrase id="c6">summary judgment application and strike out application</catchphrase>
+<catchphrase id="c7">relevant principles for each</catchphrase>
+<catchphrase id="c8">claim against non-parties to hreoc complaint before the commission struck out</catchphrase>
+<catchphrase id="c9">elements of claim which were not the same or arising out of the same or substantially the same acts also struck out</catchphrase>
+<catchphrase id="c10">leave to amend</catchphrase>
+<catchphrase id="c11">human rights</catchphrase>
+<catchphrase id="c12">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -252,7 +252,7 @@ At [69] it was said:
 <sentence id="s97">24 The proposition raised by Dr Reading, however, is that by naming WDP as the respondent in the Commission, she effectively encompassed Dr Armstrong and Dr Latham even though at the time of lodging her complaint they were no longer partners of WDP.</sentence>
 <sentence id="s98">25 Order 42 of the Rules would permit the action to have been commenced against WDP.</sentence>
 <sentence id="s99">The extent to which, if any, joint and several liability may or may not apply as between parties would then be determined by substantive law including legislation governing the dealings of partnership in the context of potential liability, inter alia, under the HREOC Act.</sentence>
-<sentence id="s100">It is true that one who sues partners in the name of their firm is in reality suing them individually just as much as if the names of the partners were all set out: Western Bank of City of New York v Perez, Triana &amp; Co [1891] 1 QB 304 at 314 per Lindley LJ.</sentence>
+<sentence id="s100">It is true that one who sues partners in the name of their firm is in reality suing them individually just as much as if the names of the partners were all set out: Western Bank of City of New York v Perez, Triana &amp;amp; Co [1891] 1 QB 304 at 314 per Lindley LJ.</sentence>
 <sentence id="s101">In Jadwan Pty Ltd v Middletons (A Firm) [2007] TASSC 74 , Evans J observed at [20]:
  A partnership is not a distinct legal entity.</sentence>
 <sentence id="s102">The members of the partnership do not form a collective whole, distinct from the individuals who make up the partnership, Rose v Federal Commissioner of Taxation [1951] HCA 68 ; (1951) 84 CLR 118 at 124.</sentence>
@@ -330,10 +330,10 @@ At [69] it was said:
 <sentence id="s146">Ms Reading states that she is a senior partner of the Partnership and has been with the Partnership for nearly 20 years.</sentence>
 <sentence id="s147">Ms Reading states that over the last three years of her partnership she has been treated less favourably than her male colleagues in that she has been: 
  
- &#61912; required to work longer hours than her male colleagues;
- &#61912; paid less than her male colleagues, including male colleagues who are junior to her;
- &#61912; denied the opportunity to work a four day week, despite this flexibility being granted to some of her male colleagues; and
- &#61912; requested to perform junior staff duties.</sentence>
+ &amp;#61912; required to work longer hours than her male colleagues;
+ &amp;#61912; paid less than her male colleagues, including male colleagues who are junior to her;
+ &amp;#61912; denied the opportunity to work a four day week, despite this flexibility being granted to some of her male colleagues; and
+ &amp;#61912; requested to perform junior staff duties.</sentence>
 <sentence id="s148">
  
  I have attached a copy of Ms Reading's complaint, together with copies of sections 5 , 8 and 17 of the SDA which the complaint suggests may have been contravened.</sentence>
@@ -475,15 +475,15 @@ For remedies, there are three boxes requiring ticking, the first being 'Apology 
 <sentence id="s227">It is common to raise a point of law when there is a point of law which if decided in one way is going to be decisive of the litigation: Everett v Ribbands (1952) 2 QB 198 at 206 but this is usually in a defence, not in a statement or points of claim.</sentence>
 <sentence id="s228">50 The many objections of the first, fifth and tenth respondents to the very extensive content of the original complaint constituted in the Form 167, can be reduced to the assertions that Dr Reading has:
  
-&#8226; irrelevantly pleaded evidence;
+&amp;#8226; irrelevantly pleaded evidence;
  
-&#8226; unnecessarily pleaded law;
+&amp;#8226; unnecessarily pleaded law;
  
-&#8226; been imprecise in identifying the particular facts on which reliance is based on the pleading in its current form whether it be under the original application or as revised in the points of claim; 
+&amp;#8226; been imprecise in identifying the particular facts on which reliance is based on the pleading in its current form whether it be under the original application or as revised in the points of claim; 
  
-&#8226; raised many matters which exceed the Court's jurisdiction as they go beyond the entitlement provided for by s 46PO(3)(a) and (b) of the HREOC Act ; 
+&amp;#8226; raised many matters which exceed the Court's jurisdiction as they go beyond the entitlement provided for by s 46PO(3)(a) and (b) of the HREOC Act ; 
  
-&#8226; the complaints raised are not the same or the same in substance as the unlawful discrimination that was the subject of the terminated complaint.</sentence>
+&amp;#8226; the complaints raised are not the same or the same in substance as the unlawful discrimination that was the subject of the terminated complaint.</sentence>
 <sentence id="s229">Nor does the unlawful discrimination alleged in the application arise out of the same (or substantially the same) acts, omissions or practices that were the subject of the terminated complaint.</sentence>
 <sentence id="s230">51 The first, fifth and tenth respondents complain that the most significant of the deficiencies in the points of claim is that despite the order made on 25 June 2008, the points of claim does not identify the dates or approximate dates of the alleged unlawful conduct.</sentence>
 <sentence id="s231">Clearly this is important as partners come and go, that is, retire, join and/or reconstitute the partnership.</sentence>
@@ -591,7 +591,7 @@ Dated: 9 September 2008
  
  Counsel for the 3 rd and 4 th Respondents: TJ Carmady 
  
- Solicitor for the 3 rd and 4 th Respondents: Williams &amp; Hughes 
+ Solicitor for the 3 rd and 4 th Respondents: Williams &amp;amp; Hughes 
  
  R Gill appeared on behalf of the 8 th Respondent 
  

@@ -3,13 +3,13 @@
 <name>Zhong v Minister for Immigration and Citizenship [2008] FCA 507 (21 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/507.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">where notice of intention to consider cancellation sent pursuant to s 107</catchphrase>
-<catchphrase "id=c1">whether a notice issued under s 107 must assert that the delegate or minister considers the visa holder has not complied</catchphrase>
-<catchphrase "id=c2">whether the delegate had concluded the appellant did not comply with the requirements of the act before sending a notice pursuant to s 107</catchphrase>
-<catchphrase "id=c3">whether the notice was sufficiently particularised</catchphrase>
-<catchphrase "id=c4">whether the tribunal was required to specifically consider reg 2.14(k)</catchphrase>
-<catchphrase "id=c5">appeal allowed.</catchphrase>
-<catchphrase "id=c6">migration</catchphrase>
+<catchphrase id="c0">where notice of intention to consider cancellation sent pursuant to s 107</catchphrase>
+<catchphrase id="c1">whether a notice issued under s 107 must assert that the delegate or minister considers the visa holder has not complied</catchphrase>
+<catchphrase id="c2">whether the delegate had concluded the appellant did not comply with the requirements of the act before sending a notice pursuant to s 107</catchphrase>
+<catchphrase id="c3">whether the notice was sufficiently particularised</catchphrase>
+<catchphrase id="c4">whether the tribunal was required to specifically consider reg 2.14(k)</catchphrase>
+<catchphrase id="c5">appeal allowed.</catchphrase>
+<catchphrase id="c6">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -182,9 +182,9 @@
  
  
  
- &#9679; why you think you have complied, or why you have not complied, with section 101 ; and
+ &amp;#9679; why you think you have complied, or why you have not complied, with section 101 ; and
  
- &#9679; why you think your visa should not be cancelled (even if you think you have complied).</sentence>
+ &amp;#9679; why you think your visa should not be cancelled (even if you think you have complied).</sentence>
 <sentence id="s63">
  
  
@@ -243,11 +243,11 @@ The solicitors continued:
 <sentence id="s105">The solicitors wrote:
  
  
- &#61912; He was not married, or in a defacto marital relationship, or engaged, or in a long-term relationship, at the time he made the subclass 104 visa application.</sentence>
-<sentence id="s106">&#61912; He was not married, or in a defacto marital relationship, or engaged, or in a long-term relationship, at the time the subclass 104 visa application was decided.</sentence>
-<sentence id="s107">&#61912; Lu Bao Lin is his son.</sentence>
+ &amp;#61912; He was not married, or in a defacto marital relationship, or engaged, or in a long-term relationship, at the time he made the subclass 104 visa application.</sentence>
+<sentence id="s106">&amp;#61912; He was not married, or in a defacto marital relationship, or engaged, or in a long-term relationship, at the time the subclass 104 visa application was decided.</sentence>
+<sentence id="s107">&amp;#61912; Lu Bao Lin is his son.</sentence>
 <sentence id="s108">Ms Lu Sun Lun is the mother of the child.</sentence>
-<sentence id="s109">&#61912; He supported Lu Bao Lin financially, as his mother could not (as his son was a "black child") but he did not live with his son or his now wife.</sentence>
+<sentence id="s109">&amp;#61912; He supported Lu Bao Lin financially, as his mother could not (as his son was a "black child") but he did not live with his son or his now wife.</sentence>
 <sentence id="s110">His son was born out of wedlock and without approval from the authorities.</sentence>
 <sentence id="s111">
  

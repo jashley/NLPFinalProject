@@ -3,11 +3,11 @@
 <name>eircom Holdings Limited, in the matter of eircom Holdings Limited [2009] FCA 1418 (1 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1418.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application under s 411(1) of corporations act 2001 (cth) for order for convening of meeting of shareholders of target company to consider scheme under which their shares would be acquired</catchphrase>
-<catchphrase "id=c1">scheme implementation agreement between offeror company and target company providing for payment of "break fee" of 1.9% of equity value of target company</catchphrase>
-<catchphrase "id=c2">break fee exceeding 1% guideline of takeovers panel</catchphrase>
-<catchphrase "id=c3">special circumstances held: orders made for convening of meeting</catchphrase>
-<catchphrase "id=c4">corporations</catchphrase>
+<catchphrase id="c0">application under s 411(1) of corporations act 2001 (cth) for order for convening of meeting of shareholders of target company to consider scheme under which their shares would be acquired</catchphrase>
+<catchphrase id="c1">scheme implementation agreement between offeror company and target company providing for payment of "break fee" of 1.9% of equity value of target company</catchphrase>
+<catchphrase id="c2">break fee exceeding 1% guideline of takeovers panel</catchphrase>
+<catchphrase id="c3">special circumstances held: orders made for convening of meeting</catchphrase>
+<catchphrase id="c4">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -28,7 +28,7 @@ The Court granted leave to ECC to be heard as an "interested person": see Federa
  ERC is a public company incorporated in Australia.</sentence>
 <sentence id="s10">Its shares are on the official list of the Australian Securities Exchange (ASX).</sentence>
 <sentence id="s11">There are currently 167,904,914 ERC shares on issue.</sentence>
-<sentence id="s12">Prior to 27 April 2009, ERC was called "Babcock &amp; Brown Capital Limited".</sentence>
+<sentence id="s12">Prior to 27 April 2009, ERC was called "Babcock &amp;amp; Brown Capital Limited".</sentence>
 <sentence id="s13">In substance, ERC has two classes of asset: cash of approximately $32 million (which will be reduced to approximately $24 million if the Scheme becomes effective because certain contingent liabilities will become actual liabilities) and 57.1% of the shares in eircom Group Limited (eircom).</sentence>
 <sentence id="s14">In the Scheme Booklet, eircom is described as "Ireland's incumbent telecommunications provider" (para 7.1(b)).</sentence>
 <sentence id="s15">It is heavily indebted.</sentence>
@@ -89,7 +89,7 @@ The Court granted leave to ECC to be heard as an "interested person": see Federa
 <sentence id="s54">Exclusivity provisions
  Sections 13.1 to 13.3 of the SIA included fairly common exclusivity provisions including no-shop and no-talk restrictions on ERC.</sentence>
 <sentence id="s55">The period of operation of those provisions is from the date of the SIA to the earliest of: There is evidence that the exclusivity provisions were agreed to following normal commercial negotiations of those terms by ERC, ECC and STTC, and that it was the view of the ERC Board that ECC and STTC would not have agreed to enter into the SIA without them.</sentence>
-<sentence id="s56">The evidence of the consideration given by the ERC's Board to the constraints sought by the bidder is generally in accordance with the approach that I discussed in Re APN News &amp; Media Ltd [2007] FCA 770 ; (2007) 62 ACSR 400 ( APN ) at [55].</sentence>
+<sentence id="s56">The evidence of the consideration given by the ERC's Board to the constraints sought by the bidder is generally in accordance with the approach that I discussed in Re APN News &amp;amp; Media Ltd [2007] FCA 770 ; (2007) 62 ACSR 400 ( APN ) at [55].</sentence>
 <sentence id="s57">Warranty of freedom from encumbrances 
  Clause 8.3(a) of the Scheme provides that the Scheme Participants are deemed to have warranted to ERC in its own right and on behalf of ECC that they have full power and capacity to sell and to transfer the Scheme Shares to ECC, and that their ERC shares are transferred fully paid and free from all mortgages, liens, charges, pledges, and other interests or restrictions on transfer of any kind.</sentence>
 <sentence id="s58">Clause 13.14 of the Scheme Booklet draws attention to this warranty.</sentence>
@@ -133,11 +133,11 @@ The Court granted leave to ECC to be heard as an "interested person": see Federa
 <sentence id="s77">This percentage has been determined in accordance with para 7.17 of the Takeovers Panel's Guidance Note 7: Lock-up Devices , which I discussed in APN at [55].</sentence>
 <sentence id="s78">The calculation was:
  
-$4,000,000 &#247; (167,904,914 ERC shares x the closing price of ERC shares of $1.27 as at 14 September 2009) x 100
+$4,000,000 &amp;#247; (167,904,914 ERC shares x the closing price of ERC shares of $1.27 as at 14 September 2009) x 100
  
 (b) 4.4% of the total value of the proposal determined in accordance with the principles set out in APN as follows: 
  
-$4,000,000 &#247; (167,904,914 ERC shares x the total consideration offered under the proposal being $0.545 per ERC share) x 100
+$4,000,000 &amp;#247; (167,904,914 ERC shares x the total consideration offered under the proposal being $0.545 per ERC share) x 100
  
 (c) 0.06% of the enterprise value of ERC as set out in the consolidated pro forma balance sheet at s 10.5(e) of the Scheme Booklet.</sentence>
 <sentence id="s79">The "total consideration offered under the proposal" referred to in (b) above is arrived at by adding to the Cash Consideration of $0.40 per ERC share, the Capital Reduction Amount of $0.145 per ERC share.</sentence>
@@ -159,17 +159,17 @@ The "enterprise value of ERC" referred to in [45](c) above was arrived at as des
 <sentence id="s90">Second, an estimate of ECC's costs of pursuing the Scheme was in evidence in the order of $10 million.</sentence>
 <sentence id="s91">According to a letter dated 6 November 2009 from ECC's solicitors to ASIC, ECC's estimate of its costs was as follows: 
  
- &#9679; external adviser costs (legal, financial and accounting advisers across several jurisdictions, including Mallesons, Mathesons and Conyers (Caymans)) approximately AUD$7M; 
+ &amp;#9679; external adviser costs (legal, financial and accounting advisers across several jurisdictions, including Mallesons, Mathesons and Conyers (Caymans)) approximately AUD$7M; 
  
 
  
  
- &#9679; management time (including senior management, internal teams from various business units and intensive due diligence in commercial, operational and technical areas from May to July) approximately AUD$2M; and 
+ &amp;#9679; management time (including senior management, internal teams from various business units and intensive due diligence in commercial, operational and technical areas from May to July) approximately AUD$2M; and 
  
 
  
  
- &#9679; expenses and disbursements (including airfares) approximately AUD$1M.</sentence>
+ &amp;#9679; expenses and disbursements (including airfares) approximately AUD$1M.</sentence>
 <sentence id="s92">
  
 
@@ -219,7 +219,7 @@ While each case turns on its own facts and, in any event, I must make my own ass
 Dated: 1 December 2009
  Counsel for the Plaintiff: Mr T F Bathurst QC 
  
- Solicitor for the Plaintiff: Gilbert &amp; Tobin 
+ Solicitor for the Plaintiff: Gilbert &amp;amp; Tobin 
  
  Counsel for Emerald Communications (Cayman) SPC: Mr K Andronos 
  

@@ -3,15 +3,15 @@
 <name>Fegan v Jackson [2009] FCA 319 (6 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/319.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">organisations</catchphrase>
-<catchphrase "id=c1">special general meeting called under rules of the union</catchphrase>
-<catchphrase "id=c2">whether interim orders should be granted to cancel or adjourn the special general meeting</catchphrase>
-<catchphrase "id=c3">whether a serious question that the challenged rules are invalid as contravening s 142 of schedule 1 to the workplace relations act 1996 (cth) as being oppressive, unreasonable or unjust</catchphrase>
-<catchphrase "id=c4">whether balance of convenience favours grant of interim orders</catchphrase>
-<catchphrase "id=c5">application refused</catchphrase>
-<catchphrase "id=c6">test to be applied on an application for interim orders</catchphrase>
-<catchphrase "id=c7">industrial law</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
+<catchphrase id="c0">organisations</catchphrase>
+<catchphrase id="c1">special general meeting called under rules of the union</catchphrase>
+<catchphrase id="c2">whether interim orders should be granted to cancel or adjourn the special general meeting</catchphrase>
+<catchphrase id="c3">whether a serious question that the challenged rules are invalid as contravening s 142 of schedule 1 to the workplace relations act 1996 (cth) as being oppressive, unreasonable or unjust</catchphrase>
+<catchphrase id="c4">whether balance of convenience favours grant of interim orders</catchphrase>
+<catchphrase id="c5">application refused</catchphrase>
+<catchphrase id="c6">test to be applied on an application for interim orders</catchphrase>
+<catchphrase id="c7">industrial law</catchphrase>
+<catchphrase id="c8">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -83,10 +83,10 @@ In her second affidavit, Ms Fegan stated that, as a Branch member, she had not r
 <sentence id="s30">
  In their affidavits, Ms Fegan and Ms Jackson disagreed as to whether, or to what extent, the timing of the proposed meeting would prevent or deter Branch members from attending.</sentence>
 <sentence id="s31">
-&#8226; In her first affidavit, Ms Fegan stated that the proposed Special General Meeting in Melbourne was to be held at a time "when many members may not be able to attend".</sentence>
+&amp;#8226; In her first affidavit, Ms Fegan stated that the proposed Special General Meeting in Melbourne was to be held at a time "when many members may not be able to attend".</sentence>
 <sentence id="s32">Ms Fegan also said that "[h]istorically the Branch Committee have had a lot of difficulty holding meetings in the evening as members from regional areas can not attend.</sentence>
 <sentence id="s33">To accommodate members meetings are generally held at either 11am or 2.00pm".</sentence>
-<sentence id="s34">&#8226; Ms Jackson responded that, from discussions with Branch members, she was "aware that a number of members of the [Branch] have made arrangements --- such as re- arranging work rosters --- so that they may attend the Special General Meeting on 8 April 2009".</sentence>
+<sentence id="s34">&amp;#8226; Ms Jackson responded that, from discussions with Branch members, she was "aware that a number of members of the [Branch] have made arrangements --- such as re- arranging work rosters --- so that they may attend the Special General Meeting on 8 April 2009".</sentence>
 <sentence id="s35">Ms Jackson added that:
  
  I am informed by Mr Jackson that approximately 10,600 [Branch] members (out of a total of 15,449) list their home address at a location within a 70 kilometre radius of Dallas Brooks Hall.</sentence>
@@ -422,7 +422,7 @@ Dated: 6 April 2009
  
  Counsel for the Applicant: Mr H Borenstein SC and Mr W Friend 
  
- Solicitor for the Applicant: Macpherson &amp; Kelley 
+ Solicitor for the Applicant: Macpherson &amp;amp; Kelley 
  
  Counsel for the First Respondent: Mr M Bromberg SC with Mr C Dowling 
  Solicitor for the First Respondent: 
@@ -430,7 +430,7 @@ Dated: 6 April 2009
  
  Counsel for the Second Respondent: Mr R Reitano 
  Solicitor for the Second Respondent 
- Slater &amp; Gordon 
+ Slater &amp;amp; Gordon 
  
  Date of Hearing: 31 March 2009 
  

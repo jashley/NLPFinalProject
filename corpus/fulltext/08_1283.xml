@@ -3,23 +3,23 @@
 <name>Interpharma Pty Ltd v Commissioner of Patents [2008] FCA 1283 (21 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1283.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c1">"in trade or commerce"</catchphrase>
-<catchphrase "id=c2">application to commissioner of patents for extension of patent term</catchphrase>
-<catchphrase "id=c3">application alleged to contain misleading and deceptive statements</catchphrase>
-<catchphrase "id=c4">whether statements made in trade or commerce.</catchphrase>
-<catchphrase "id=c5">extension of patent term</catchphrase>
-<catchphrase "id=c6">application for review of decision to grant</catchphrase>
-<catchphrase "id=c7">standing of applicant</catchphrase>
-<catchphrase "id=c8">whether person aggrieved</catchphrase>
-<catchphrase "id=c9">delay in making application</catchphrase>
-<catchphrase "id=c10">whether disentitling.</catchphrase>
-<catchphrase "id=c11">summary judgment</catchphrase>
-<catchphrase "id=c12">application by defendant</catchphrase>
-<catchphrase "id=c13">applicable principles.</catchphrase>
-<catchphrase "id=c14">trade practices</catchphrase>
-<catchphrase "id=c15">administrative law</catchphrase>
-<catchphrase "id=c16">practice and procedure</catchphrase>
+<catchphrase id="c0">misleading and deceptive conduct</catchphrase>
+<catchphrase id="c1">"in trade or commerce"</catchphrase>
+<catchphrase id="c2">application to commissioner of patents for extension of patent term</catchphrase>
+<catchphrase id="c3">application alleged to contain misleading and deceptive statements</catchphrase>
+<catchphrase id="c4">whether statements made in trade or commerce.</catchphrase>
+<catchphrase id="c5">extension of patent term</catchphrase>
+<catchphrase id="c6">application for review of decision to grant</catchphrase>
+<catchphrase id="c7">standing of applicant</catchphrase>
+<catchphrase id="c8">whether person aggrieved</catchphrase>
+<catchphrase id="c9">delay in making application</catchphrase>
+<catchphrase id="c10">whether disentitling.</catchphrase>
+<catchphrase id="c11">summary judgment</catchphrase>
+<catchphrase id="c12">application by defendant</catchphrase>
+<catchphrase id="c13">applicable principles.</catchphrase>
+<catchphrase id="c14">trade practices</catchphrase>
+<catchphrase id="c15">administrative law</catchphrase>
+<catchphrase id="c16">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -113,23 +113,23 @@
  [Adapting] that language to the design context, the expression would embrace any person having a real interest in having the entry expunged and thus would include any person who would be or in respect of whom there is a reasonable possibility of his or her being 'appreciably disadvantaged in a legal or practical sense' by the entry not being expunged.</sentence>
 <sentence id="s47">19 The applicant's claim to be a person aggrieved is put on the following basis:
  
-&#8226; since its incorporation in 2002 it has been involved in the business of marketing, selling and supplying pharmaceutical products
+&amp;#8226; since its incorporation in 2002 it has been involved in the business of marketing, selling and supplying pharmaceutical products
  
-&#8226; in October 2007 it applied to the Therapeutic Goods Administration (TGA) to register GEMCITABINE EBEWE, gemcitabine hydrochloride formulation for the treatment of cancer, which is intended to be manufactured by EBEWE Pharma (the product)
+&amp;#8226; in October 2007 it applied to the Therapeutic Goods Administration (TGA) to register GEMCITABINE EBEWE, gemcitabine hydrochloride formulation for the treatment of cancer, which is intended to be manufactured by EBEWE Pharma (the product)
  
-&#8226; it believes it will obtain TGA approval for registration in the third quarter of 2008
+&amp;#8226; it believes it will obtain TGA approval for registration in the third quarter of 2008
  
-&#8226; it will not import and sell the product until it has received TGA registration and EBEWE Pharma is able to supply the product
+&amp;#8226; it will not import and sell the product until it has received TGA registration and EBEWE Pharma is able to supply the product
  
-&#8226; Lilly is the registered owner of the Patent and claims that it has the exclusive right to import and sell the product in Australia while the Patent remains in force
+&amp;#8226; Lilly is the registered owner of the Patent and claims that it has the exclusive right to import and sell the product in Australia while the Patent remains in force
  
-&#8226; Lilly has not authorised the applicant or EBEWE Pharma to exploit the Patent
+&amp;#8226; Lilly has not authorised the applicant or EBEWE Pharma to exploit the Patent
  
-&#8226; Lilly has informed the applicant that it will commence legal proceedings for an injunction unless the applicant undertakes that it will not, prior to the expiration of the term of the Patent, import and sell products containing gemcitabine hydrochloride without Lilly's approval
+&amp;#8226; Lilly has informed the applicant that it will commence legal proceedings for an injunction unless the applicant undertakes that it will not, prior to the expiration of the term of the Patent, import and sell products containing gemcitabine hydrochloride without Lilly's approval
  
-&#8226; the applicant has declined to provide the undertaking and denies that the manufacture, importation and sale of the product infringes the Patent
+&amp;#8226; the applicant has declined to provide the undertaking and denies that the manufacture, importation and sale of the product infringes the Patent
  
-&#8226; if the product falls within the claims of the Patent (which is denied), the period during which the applicant may be prevented from importing and selling such products in Australia has been prolonged by the extension of the term of the Patent.</sentence>
+&amp;#8226; if the product falls within the claims of the Patent (which is denied), the period during which the applicant may be prevented from importing and selling such products in Australia has been prolonged by the extension of the term of the Patent.</sentence>
 <sentence id="s48">20 As I understand the position, Lilly did not attack that formulation of the applicant's claim to be a person aggrieved.</sentence>
 <sentence id="s49">What it relies on, so as to assert that the applicant's standing has evaporated, is the decision of an Austrian court on 7 July 2008 enjoining EBEWE Pharma from making and exporting the product.</sentence>
 <sentence id="s50">Lilly contends that on the present pleadings the applicant cannot establish an interest in the outcome of the proceeding because, even with the extension of the term in place, it is not in a position to launch a product sourced from EBEWE Pharma in Austria.</sentence>
@@ -259,7 +259,7 @@ Dated: 21 August 2008
 
  Counsel for the Applicant: BN Caine SC and H Rofe 
  
- Solicitor for the Applicant: Stephens Lawyers &amp; Consultants 
+ Solicitor for the Applicant: Stephens Lawyers &amp;amp; Consultants 
  
  Counsel for the Second Respondent: SCG Burley SC and NR Murray 
  

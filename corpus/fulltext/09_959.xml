@@ -3,24 +3,24 @@
 <name>Lennox v Amcor Limited trading as Amcor Cartonboard [2009] FCA 959 (25 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/959.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">s24(1)(a) of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c1">application for leave to appeal from interlocutory decision of federal magistrate</catchphrase>
-<catchphrase "id=c2">late application to adjourn trial and vacate previous orders refused</catchphrase>
-<catchphrase "id=c3">non-compliance by both parties with pre-trial orders</catchphrase>
-<catchphrase "id=c4">advanced settlement negotiations of parties failed</catchphrase>
-<catchphrase "id=c5">parties not ready for trial</catchphrase>
-<catchphrase "id=c6">proceedings at an early stage</catchphrase>
-<catchphrase "id=c7">discovery not yet undertaken</catchphrase>
-<catchphrase "id=c8">respondent supports application</catchphrase>
-<catchphrase "id=c9">whether judgment attended by sufficient doubt to warrant being reconsidered</catchphrase>
-<catchphrase "id=c10">whether substantial injustice would result if leave refused</catchphrase>
-<catchphrase "id=c11">parties not given an opportunity to make submissions</catchphrase>
-<catchphrase "id=c12">possibility for the imposition of civil penalties</catchphrase>
-<catchphrase "id=c13">medical fitness of applicant a live issue requiring medical reports</catchphrase>
-<catchphrase "id=c14">numerous witnesses</catchphrase>
-<catchphrase "id=c15">no affidavits prepared</catchphrase>
-<catchphrase "id=c16">denial of natural justice</catchphrase>
-<catchphrase "id=c17">practice and procedure</catchphrase>
+<catchphrase id="c0">s24(1)(a) of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c1">application for leave to appeal from interlocutory decision of federal magistrate</catchphrase>
+<catchphrase id="c2">late application to adjourn trial and vacate previous orders refused</catchphrase>
+<catchphrase id="c3">non-compliance by both parties with pre-trial orders</catchphrase>
+<catchphrase id="c4">advanced settlement negotiations of parties failed</catchphrase>
+<catchphrase id="c5">parties not ready for trial</catchphrase>
+<catchphrase id="c6">proceedings at an early stage</catchphrase>
+<catchphrase id="c7">discovery not yet undertaken</catchphrase>
+<catchphrase id="c8">respondent supports application</catchphrase>
+<catchphrase id="c9">whether judgment attended by sufficient doubt to warrant being reconsidered</catchphrase>
+<catchphrase id="c10">whether substantial injustice would result if leave refused</catchphrase>
+<catchphrase id="c11">parties not given an opportunity to make submissions</catchphrase>
+<catchphrase id="c12">possibility for the imposition of civil penalties</catchphrase>
+<catchphrase id="c13">medical fitness of applicant a live issue requiring medical reports</catchphrase>
+<catchphrase id="c14">numerous witnesses</catchphrase>
+<catchphrase id="c15">no affidavits prepared</catchphrase>
+<catchphrase id="c16">denial of natural justice</catchphrase>
+<catchphrase id="c17">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -72,7 +72,7 @@
  An appeal from an interlocutory judgment of a Federal Magistrate is not competent unless the Federal Court or a Judge of this Court gives leave to appeal: s 24(1A) of the Federal Court of Australia Act 1976 (Cth).</sentence>
 <sentence id="s44">It is not in dispute in this case that decision to refuse to adjourn a hearing is an interlocutory decision ( Aon v Australian National University [2009] HCA 27 at [150] ).</sentence>
 <sentence id="s45">Principles applicable to the issue of leave to appeal in this jurisdiction are well-settled.</sentence>
-<sentence id="s46">The key questions in determining such an application are whether the judgment was attended by sufficient doubt to warrant it being reconsidered, and whether substantial injustice would result if leave were refused: D&eacute;cor Corporation Pty Ltd v Dart Industries (1991) 33 FCR 399 , Telstra Corporation Ltd v AAPT Ltd (1997) 38 IPR 539.</sentence>
+<sentence id="s46">The key questions in determining such an application are whether the judgment was attended by sufficient doubt to warrant it being reconsidered, and whether substantial injustice would result if leave were refused: D&amp;eacute;cor Corporation Pty Ltd v Dart Industries (1991) 33 FCR 399 , Telstra Corporation Ltd v AAPT Ltd (1997) 38 IPR 539.</sentence>
 <sentence id="s47">In this case I am satisfied that leave to appeal from the decisions of his Honour should be granted.</sentence>
 <sentence id="s48">In my view his Honour's decisions are attended by sufficient doubt to warrant them being reconsidered, for the following reasons: The decision of his Honour to refuse to adjourn the trial was made without hearing submissions from the parties in support of the adjournment.</sentence>
 <sentence id="s49">While case management issues in the Court are of clear importance in managing the Court's workload, it is contrary to natural justice to make such an order without hearing the submissions of the parties in relation to the order.</sentence>
@@ -112,7 +112,7 @@ Dated: 25 August 2009
  
  Counsel for the Respondent: Mr C O'Grady 
  
- Solicitor for the Respondent: Trindade Farr &amp; Pill 
+ Solicitor for the Respondent: Trindade Farr &amp;amp; Pill 
  Date of Hearing: 25 August 2009 
  
  Date of Judgment: 25 August 2009 

@@ -3,15 +3,15 @@
 <name>Leonie's Travel Pty Limited v International Air Transport Association [2009] FCA 280 (30 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/280.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">claim brought on behalf of travel agents challenging the calculation of commission on airline tickets sold by agents</catchphrase>
-<catchphrase "id=c1">whether the agents were entitled to commission on fuel surcharge component of airlines tickets</catchphrase>
-<catchphrase "id=c2">construction of contractual documents</catchphrase>
-<catchphrase "id=c3">uniform construction of standard form agreements</catchphrase>
-<catchphrase "id=c4">whether the court should follow the decision in association of british travel agents ltd and others v british airways plc and others [2000] 2 all er (comm) 204</catchphrase>
-<catchphrase "id=c5">whether the applicants are estopped from asserting a right to commission on the fuel surcharge component of airline tickets</catchphrase>
-<catchphrase "id=c6">whether the respondent engaged in misleading and deceptive conduct by requiring agents to include the fuel surcharge within the "taxes, fees and charges" descriptor on airline tickets</catchphrase>
-<catchphrase "id=c7">representative proceedings</catchphrase>
-<catchphrase "id=c8">trade practices</catchphrase>
+<catchphrase id="c0">claim brought on behalf of travel agents challenging the calculation of commission on airline tickets sold by agents</catchphrase>
+<catchphrase id="c1">whether the agents were entitled to commission on fuel surcharge component of airlines tickets</catchphrase>
+<catchphrase id="c2">construction of contractual documents</catchphrase>
+<catchphrase id="c3">uniform construction of standard form agreements</catchphrase>
+<catchphrase id="c4">whether the court should follow the decision in association of british travel agents ltd and others v british airways plc and others [2000] 2 all er (comm) 204</catchphrase>
+<catchphrase id="c5">whether the applicants are estopped from asserting a right to commission on the fuel surcharge component of airline tickets</catchphrase>
+<catchphrase id="c6">whether the respondent engaged in misleading and deceptive conduct by requiring agents to include the fuel surcharge within the "taxes, fees and charges" descriptor on airline tickets</catchphrase>
+<catchphrase id="c7">representative proceedings</catchphrase>
+<catchphrase id="c8">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -392,7 +392,7 @@ In paragraph 13 of its defence Qantas admitted this allegation, and referred to 
 <sentence id="s270">Are they inconsistent and, if so, what did the parties intend and how should any inconsistency be resolved?</sentence>
 <sentence id="s271">It is convenient to refer to some general principles.</sentence>
 <sentence id="s272">As to inconsistent contractual provisions generally, the following observations of Finn J in GEC Marconi Systems Pty Limited v BHP Information Technology Pty Limited [2003] FCA 50 ; (2003) 128 FCR 1 at [306] are apt: 
- There is a large body of case law dealing with how a contract should be construed when it contains inconsistent provisions, having regard to the nature and cause of the inconsistency: see generally Cheshire and Fifoot, Law of Contract, 213 (8 th Aust ed); Chitty on Contracts, vol 1, para 12-076 (28 th ed); Lewison, The Interpretation of Contracts, para 8 --- 08ff (2 nd ed); Farnsworth, Contracts, &#167;7.11 (3 rd ed).</sentence>
+ There is a large body of case law dealing with how a contract should be construed when it contains inconsistent provisions, having regard to the nature and cause of the inconsistency: see generally Cheshire and Fifoot, Law of Contract, 213 (8 th Aust ed); Chitty on Contracts, vol 1, para 12-076 (28 th ed); Lewison, The Interpretation of Contracts, para 8 --- 08ff (2 nd ed); Farnsworth, Contracts, &amp;#167;7.11 (3 rd ed).</sentence>
 <sentence id="s273">It is unnecessary here to outline in detail the various "rules" of construction that have evolved to resolve inconsistencies.</sentence>
 <sentence id="s274">These rules reflect the types and causes of inconsistencies: if specially tailored terms contradict standard terms, the specially tailored terms will prevail over the standard terms: cf Re Theodorou [1993] 1 Qd R 588 ; "[i]f a later clause cannot be reconciled with an earlier one creating an obligation, then if it altogether destroys the obligation it must be treated as void": Australian Guarantee Corporation Ltd v Balding [1930] HCA 10 ; (1930) 43 CLR 140 at 151; if the terms of a document incorporated into an agreement conflict with expressly agreed terms in that agreement, the expressly agreed terms prevail: Modern Building Wales Ltd v Lemmer and Trinidad Co Ltd [1975] 1 WLR 1281 at 1289; etc.</sentence>
 <sentence id="s275">The common thread in the cases is that effect is given to that part of an agreement "which is calculated to carry into effect the real intention of the parties as gathered from the instrument as a whole, and that part which would defeat it must be rejected": Chitty on Contracts, para 12-076.</sentence>
@@ -400,7 +400,7 @@ In paragraph 13 of its defence Qantas admitted this allegation, and referred to 
  As to conflict between express and incorporated terms and how they should be construed, Finkelstein J observed in Ford Motor Company of Australia Ltd v Arrowcrest Group Pty Ltd [2002] FCA 1156 at [8] : 
  ... Finding an inconsistency is not a novel situation when standard terms are incorporated into an agreement.</sentence>
 <sentence id="s277">The proper approach is to disregard those incorporated terms that conflict with the expressly agreed terms.</sentence>
-<sentence id="s278">In Modern Buildings Wales Ltd v Limmer &amp; Trinidad Co Ltd [1975] 1 WLR 1281 (at 1289) Buckley LJ said, "if any of the imported terms in any way conflict with the expressly agreed terms, the latter must prevail over what would otherwise be imported": see also Hamilton and Co v Mackie and Sons (1889) 5 TLR 677 ; T W Thomas and Company Ltd v Portsea Steamship Co Ltd [1912] AC 1.</sentence>
+<sentence id="s278">In Modern Buildings Wales Ltd v Limmer &amp;amp; Trinidad Co Ltd [1975] 1 WLR 1281 (at 1289) Buckley LJ said, "if any of the imported terms in any way conflict with the expressly agreed terms, the latter must prevail over what would otherwise be imported": see also Hamilton and Co v Mackie and Sons (1889) 5 TLR 677 ; T W Thomas and Company Ltd v Portsea Steamship Co Ltd [1912] AC 1.</sentence>
 <sentence id="s279">
 
 The question of whether either or both the primary contractual document and another incorporated into it, are a standard form document will inform the interaction between the two as to how they should be construed.</sentence>
@@ -429,7 +429,7 @@ Similarly, Dillon LJ was of the view that the first task in construing seemingly
 <sentence id="s293">
  
  
-The approach of the Court of Appeal in Pagnan SpA has been cited by Australian courts on at least two occasions: National Gallery of Australia v Jane Douglas [1999] ACTSC 79 at [37] ; Queensland Alumina Ltd v Alinta DQP Pty Ltd &amp; Ano r [2006] QSC 391 at [90] --- [92].</sentence>
+The approach of the Court of Appeal in Pagnan SpA has been cited by Australian courts on at least two occasions: National Gallery of Australia v Jane Douglas [1999] ACTSC 79 at [37] ; Queensland Alumina Ltd v Alinta DQP Pty Ltd &amp;amp; Ano r [2006] QSC 391 at [90] --- [92].</sentence>
 <sentence id="s294">The starting point, in my opinion, is whether the terms of clause 9 of the Agency Agreement, viewed in isolation, might be thought to confer a contractual right on an airline to determine the manner and the amount to be paid to an agent as remuneration and the correlative right in the agent to be paid that remuneration.</sentence>
 <sentence id="s295">If the answer is yes, the next question is whether, as a matter of construction, section 9 of the Sales Agency Rules (which forms part of the Agency Agreement), at least in relation to remuneration by commission, identifies more precisely the rights of an airline and agent, and potentially limits the rights of an airline, and does not do so in a way that engages clause 2.4 of the Agency Agreement as a "conflict, contradiction or inconsistency".</sentence>
 <sentence id="s296">In my respectful opinion, it is not a question (as Clarke LJ put it), of whether or not clause 9 of the Agency Agreement confers a right to vary rights conferred by section 9 of the Sales Agency Rules.</sentence>
@@ -601,7 +601,7 @@ The approach of the Court of Appeal in Pagnan SpA has been cited by Australian c
 <sentence id="s457">The direction or requirement is but the first step in the misleading or deceptive conduct attending the characterisation of the fuel surcharge, having regard to where the amount representing the surcharge is located on the ticket.</sentence>
 <sentence id="s458">It is the publication of the ticket to the passenger (in the sense of creating the ticket in a paper form and giving it to the passenger or providing it to the passenger in electronic form) that perfects or completes the misleading or deceptive conduct.</sentence>
 <sentence id="s459">The amendment was made after the hearing and the parties have not addressed the case it raises.</sentence>
-<sentence id="s460">I assume I am not being invited to enter the territory marked out by cases such as Butcher v Lachlan Elder Realty Pty Ltd [2004] HCA 60 ; (2004) 218 CLR 592 and perhaps Cassidy v Saatchi &amp; Saatchi Australia Pty Ltd [2004] FCAFC 34 ; (2004) 134 FCR 585.</sentence>
+<sentence id="s460">I assume I am not being invited to enter the territory marked out by cases such as Butcher v Lachlan Elder Realty Pty Ltd [2004] HCA 60 ; (2004) 218 CLR 592 and perhaps Cassidy v Saatchi &amp;amp; Saatchi Australia Pty Ltd [2004] FCAFC 34 ; (2004) 134 FCR 585.</sentence>
 <sentence id="s461">I have proceeded on the basis that the conduct challenged by the applicant includes the ultimate publication to the passenger of the ticket either in a paper form or electronically.</sentence>
 <sentence id="s462">The sample paper ticket is annexure A to these reasons and contains the following information.</sentence>
 <sentence id="s463">The total amount the passenger had to pay to purchase the ticket was $7565.46, comprised of the following: $7391.00, designated on the ticket on the left in the middle as the "fare"; $38.00 "tax/fee/charge" designated on the ticket below the fare by the AU code (which represents the Australian Departure Tax); $3.40 "tax/fee/charge" designated on the ticket below the AU code by the QK code (which represents the Noise Levy Tax Australia); and $133.06 "tax/fee/charge" designated on the ticket below the QK code by the XT code.</sentence>
@@ -654,7 +654,7 @@ Dated: 30 March 2009
  
  Counsel for the Applicant: B Coles QC with N Beaumont 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater &amp;amp; Gordon 
  
  Counsel for the Second Respondent: D Yates SC with J Lockhart 
  

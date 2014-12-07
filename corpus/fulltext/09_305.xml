@@ -3,27 +3,27 @@
 <name>Dale v Veda Advantage Information Services and Solutions Limited [2009] FCA 305 (1 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/305.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">credit reporting agency's reports to credit providers</catchphrase>
-<catchphrase "id=c1">reports allegedly defamatory of applicants in respect of their creditworthiness</catchphrase>
-<catchphrase "id=c2">allegation that they were refused credit by credit providers who relied on erroneous credit reports</catchphrase>
-<catchphrase "id=c3">respondent's computerised database</catchphrase>
-<catchphrase "id=c4">credit providers who subscribe (respondent's customers) enter information in the database electronically and extract information from it electronically, in each case without respondent's intervention</catchphrase>
-<catchphrase "id=c5">whether respondent credit reporting agency communicated to subscribing credit provider the information that that credit provider extracted electronically</catchphrase>
-<catchphrase "id=c6">in some cases credit provider's computer rejects application for credit automatically upon receipt of adverse credit report</catchphrase>
-<catchphrase "id=c7">essential to cause of action in defamation that the defamatory publication be published to a human mind</catchphrase>
-<catchphrase "id=c8">whether publication to a human mind proved</catchphrase>
-<catchphrase "id=c9">qualified privilege</catchphrase>
-<catchphrase "id=c10">whether credit reports of credit reporting agency attracted defence of qualified privilege.</catchphrase>
-<catchphrase "id=c11">credit reporting agency's reports to credit providers</catchphrase>
-<catchphrase "id=c12">allegation that applicants refused credit by credit providers who relied on erroneous credit reports</catchphrase>
-<catchphrase "id=c13">respondent's computerised database</catchphrase>
-<catchphrase "id=c14">credit providers who subscribe (respondent's customers) enter information into the system electronically and extract information from it electronically, in each case without respondent's intervention</catchphrase>
-<catchphrase "id=c15">whether respondent credit reporting agency communicated to subscribing credit provider the information that that credit provider extracted electronically</catchphrase>
-<catchphrase "id=c16">in some cases credit provider's computer rejects application for credit automatically upon receipt of adverse credit report</catchphrase>
-<catchphrase "id=c17">whether credit reporting agency owed a duty of care to persons seeking credit to ensure that information stored in database was accurate</catchphrase>
-<catchphrase "id=c18">if so, whether breach of duty established.</catchphrase>
-<catchphrase "id=c19">defamation</catchphrase>
-<catchphrase "id=c20">negligence</catchphrase>
+<catchphrase id="c0">credit reporting agency's reports to credit providers</catchphrase>
+<catchphrase id="c1">reports allegedly defamatory of applicants in respect of their creditworthiness</catchphrase>
+<catchphrase id="c2">allegation that they were refused credit by credit providers who relied on erroneous credit reports</catchphrase>
+<catchphrase id="c3">respondent's computerised database</catchphrase>
+<catchphrase id="c4">credit providers who subscribe (respondent's customers) enter information in the database electronically and extract information from it electronically, in each case without respondent's intervention</catchphrase>
+<catchphrase id="c5">whether respondent credit reporting agency communicated to subscribing credit provider the information that that credit provider extracted electronically</catchphrase>
+<catchphrase id="c6">in some cases credit provider's computer rejects application for credit automatically upon receipt of adverse credit report</catchphrase>
+<catchphrase id="c7">essential to cause of action in defamation that the defamatory publication be published to a human mind</catchphrase>
+<catchphrase id="c8">whether publication to a human mind proved</catchphrase>
+<catchphrase id="c9">qualified privilege</catchphrase>
+<catchphrase id="c10">whether credit reports of credit reporting agency attracted defence of qualified privilege.</catchphrase>
+<catchphrase id="c11">credit reporting agency's reports to credit providers</catchphrase>
+<catchphrase id="c12">allegation that applicants refused credit by credit providers who relied on erroneous credit reports</catchphrase>
+<catchphrase id="c13">respondent's computerised database</catchphrase>
+<catchphrase id="c14">credit providers who subscribe (respondent's customers) enter information into the system electronically and extract information from it electronically, in each case without respondent's intervention</catchphrase>
+<catchphrase id="c15">whether respondent credit reporting agency communicated to subscribing credit provider the information that that credit provider extracted electronically</catchphrase>
+<catchphrase id="c16">in some cases credit provider's computer rejects application for credit automatically upon receipt of adverse credit report</catchphrase>
+<catchphrase id="c17">whether credit reporting agency owed a duty of care to persons seeking credit to ensure that information stored in database was accurate</catchphrase>
+<catchphrase id="c18">if so, whether breach of duty established.</catchphrase>
+<catchphrase id="c19">defamation</catchphrase>
+<catchphrase id="c20">negligence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -1572,10 +1572,10 @@ In fact, at that time (28 April 2005) Ms Shields had a default listed by "RSL Co
 <sentence id="s788">CMS Asset Solutions produced no credit report.</sentence>
 <sentence id="s789">A handwritten working sheet dated 23 May 2005 was produced on subpoena by QPF Finance.</sentence>
 <sentence id="s790">That was six days after its accessing of Ms Shield's credit information file on 17 May 2005.</sentence>
-<sentence id="s791">It related to an application by Baby Boomers Face &amp; Body Clinic Pty Ltd and showed "Dianne Maureen Malloch" against "Directors/Guarantors".</sentence>
+<sentence id="s791">It related to an application by Baby Boomers Face &amp;amp; Body Clinic Pty Ltd and showed "Dianne Maureen Malloch" against "Directors/Guarantors".</sentence>
 <sentence id="s792">The sheet noted that there were three defaults that were "Settled/Paid (explanation attached)".</sentence>
 <sentence id="s793">The only other documents produced by QPF Finance were a number of ICCRs and Company Reports, all sourced from Veda.</sentence>
-<sentence id="s794">These are a Company Report relating to Baby Boomers Face &amp; Body Clinic Pty Ltd and two ICCRs relating to Ms Shields (one in the name of Malloch) dated 17 May 2005 and another such Company Report and two ICCRs dated 3 March 2006.</sentence>
+<sentence id="s794">These are a Company Report relating to Baby Boomers Face &amp;amp; Body Clinic Pty Ltd and two ICCRs relating to Ms Shields (one in the name of Malloch) dated 17 May 2005 and another such Company Report and two ICCRs dated 3 March 2006.</sentence>
 <sentence id="s795">The three dated 3 March 2006 can be disregarded since they post-date the handwritten sheet and therefore could not have contained the "explanation attached".</sentence>
 <sentence id="s796">The Company Report dated 17 May 2005 shows no defaults.</sentence>
 <sentence id="s797">The Malloch ICCR dated 17 May 2005 shows one default and the Shields ICCR dated 17 May 2005 shows two defaults --- a total of three defaults.</sentence>
@@ -1720,7 +1720,7 @@ This shows that the Payment Default appeared for only some 14 days without the "
 <sentence id="s897">They rely on Macintosh v Dun [1908] UKPCHCA 3 ; (1908) 6 CLR 303 ; [1908] AC 390.</sentence>
 <sentence id="s898">Veda submits that Macintosh v Dun was wrongly decided and should not be followed.</sentence>
 <sentence id="s899">In Bashford v Information Australia (Newsletters) Pty Ltd [2004] HCA 5 ; (2004) 218 CLR 366 ( Bashford ), Gleeson CJ, Hayne and Heydon JJ said in a joint judgment that the principles to be applied in determining whether an occasion of publication was one of qualified privilege are well known.</sentence>
-<sentence id="s900">Their Honours referred to Toogood v Spyring (1834) 1 Cr M &amp; R 181 (149 ER 1044) and Adam v Ward [1917] AC 309.</sentence>
+<sentence id="s900">Their Honours referred to Toogood v Spyring (1834) 1 Cr M &amp;amp; R 181 (149 ER 1044) and Adam v Ward [1917] AC 309.</sentence>
 <sentence id="s901">They quoted (at [9]) the following oft cited statement made by Parke B in Toogood v Spyring (at 193) (ER 1049-1050): 
  In general, an action lies for the malicious publication of statements which are false in fact, and injurious to the character of another (within the well-known limits as to verbal slander), and the law considers such publication as malicious, unless it is fairly made by a person in the discharge of some public or private duty, whether legal or moral, or in the conduct of his own affairs, in matters where his interest is concerned.</sentence>
 <sentence id="s902">In such cases, the occasion prevents the inference of malice, which the law draws from unauthorized communications, and affords a qualified defence depending upon the absence of actual malice.</sentence>
@@ -1853,7 +1853,7 @@ arising directly or indirectly out of the use or reliance on the information sup
 <sentence id="s968">Like the defendants in Macintosh v Dun : Veda is motivated by the desire for pecuniary gain; Veda is not itself in the business of providing credit but is in the different business of collecting and providing, for reward to itself, creditworthiness information sought by credit providers.</sentence>
 <sentence id="s969">
 On the other hand, as in Greenlands :
- Macintosh v Dun does not represent, even at a minimum,the predominant view of the law in the United States: see 15A Am Jur 2d, Collections and Credit Agencies , &#167; 28 and Petition of Retailers Commercial Agency Inc , 174 NE 2d 376 (Mass., 1961).</sentence>
+ Macintosh v Dun does not represent, even at a minimum,the predominant view of the law in the United States: see 15A Am Jur 2d, Collections and Credit Agencies , &amp;#167; 28 and Petition of Retailers Commercial Agency Inc , 174 NE 2d 376 (Mass., 1961).</sentence>
 <sentence id="s970">The United States position is summarised in American Jurisprudence 2d in the paragraph cited (footnotes omitted): 
  Though there is authority to the contrary, reports of mercantile or other credit-reporting agencies, furnished in good faith to one having a legitimate interest in the information, are privileged.</sentence>
 <sentence id="s971">
@@ -1932,9 +1932,9 @@ I need not set out Schedule A, although it is interesting to note para 7 of it:
  In their joint judgment, Gleeson CJ, Hayne and Heydon JJ thought it important to recognise that the Privy Council in Macintosh v Dun did not endorse the proposition that had been urged in the Full Court that payment for information necessarily denies that the occasion of its communication is privileged (at [20]).</sentence>
 <sentence id="s1018">Similarly, their Honours considered that the Privy Council did not hold that the voluntary assumption of obligation (whether by contract or otherwise) was necessarily inconsistent with the existence of mutual duty or interest.</sentence>
 <sentence id="s1019">Their Honours said (at [20]): 
- What distinguished Macintosh from Howe &amp; McColough was the nature of the information conveyed and the manner of its collection.</sentence>
-<sentence id="s1020">In Macintosh information which included private or confidential material gathered from and about third parties was being conveyed; in Howe &amp; McColough , information about a transaction to which the maker of the statement was a party was passed on.</sentence>
-<sentence id="s1021">In Macintosh , the fear was that inappropriate methods would be used to assemble the information; in Howe &amp; McColough , the person who made the communication already possessed relevant knowledge.</sentence>
+ What distinguished Macintosh from Howe &amp;amp; McColough was the nature of the information conveyed and the manner of its collection.</sentence>
+<sentence id="s1020">In Macintosh information which included private or confidential material gathered from and about third parties was being conveyed; in Howe &amp;amp; McColough , information about a transaction to which the maker of the statement was a party was passed on.</sentence>
+<sentence id="s1021">In Macintosh , the fear was that inappropriate methods would be used to assemble the information; in Howe &amp;amp; McColough , the person who made the communication already possessed relevant knowledge.</sentence>
 <sentence id="s1022">
 
  It is noteworthy that s 30(5) of the uniform Defamation Act 2005 now reflects the view expressed in Bashford that the defence of qualified privilege is not defeated simply by the fact that the defamatory matter is published for reward.</sentence>
@@ -2060,7 +2060,7 @@ In the present case, the only difference between the two matters published is th
 <sentence id="s1110">In the result, in my view s 14B(2003) does not apply to causes of action based on the publication of defamatory matter that accrued after the commencement of that section on 17 February 2003, where the only difference between that defamatory matter and the defamatory matter published before 17 February 2003 on which the relevant applicant sues Veda in the same proceeding, is the addition of the line of data referring to payment or settlement.</sentence>
 <sentence id="s1111">Order 13 rr 2 and 3A of the Federal Court Rules 
  Prior to the amendment of the Federal Court of Australia Act 1976 (Cth) (FCA Act) by the insertion of subs (2B) in s 59 by the Law and Justice Legislation Amendment Act 1994 (No 84 of 1994), it was generally accepted that the Court could not, under its rule-making power, deprive a litigant of the benefit of a limitation defence.</sentence>
-<sentence id="s1112">This idea can be traced back to Weldon v Neal (1887) 19 QBD 394 ; and see the annotations to O 13 r 2 in Practice &amp; Procedure High Court and Federal Court of Australia at [40,455.15].</sentence>
+<sentence id="s1112">This idea can be traced back to Weldon v Neal (1887) 19 QBD 394 ; and see the annotations to O 13 r 2 in Practice &amp;amp; Procedure High Court and Federal Court of Australia at [40,455.15].</sentence>
 <sentence id="s1113">Subsection (2B) was introduced into s 59 of the FCA Act on 23 June 1994.</sentence>
 <sentence id="s1114">It provides: 
  The Rules of Court may make provision for: 
@@ -2130,7 +2130,7 @@ In the present case, the only difference between the two matters published is th
 <sentence id="s1163">The Privacy Act accepts the lawfulness of credit reporting businesses and, if it so happens, the causing of economic harm to the seekers of credit by the carrying on of such a business.</sentence>
 <sentence id="s1164">(For present purposes I will assume that a denial of credit by any particular enquiring credit provider will necessarily cause the individual economic harm, but I do not in fact accept that this is so).</sentence>
 <sentence id="s1165">The applicants do not submit that Veda was subject to the broad duty of care that I have described.</sentence>
-<sentence id="s1166">They quoted from the following summary by McDougall J in OzEcom &amp; Anor v Hudson Investment Group &amp; Ors [2007] NSWSC 719 ( OzEcom ) at [321] of the elements of the cause of action in negligence causing pure economic loss extracted from recent High Court judgments: 
+<sentence id="s1166">They quoted from the following summary by McDougall J in OzEcom &amp;amp; Anor v Hudson Investment Group &amp;amp; Ors [2007] NSWSC 719 ( OzEcom ) at [321] of the elements of the cause of action in negligence causing pure economic loss extracted from recent High Court judgments: 
  (1) Reasonable foreseeability of loss is not of itself a sufficient basis to impose a duty of care: Tame v New South Wales [2002] HCA 35 ; (2002) 211 CLR 317 at 329 [6] (Gleeson CJ; Tame was a case of alleged psychiatric injury, but what his Honour said applies a fortiori to a case of pure economic loss); Sullivan v Moody And Others [2001] HCA 59 ; (2001) 207 CLR 562 at 576 [420] (another case of alleged psychiatric and other injury; the comment just made in relation to Tame applies).</sentence>
 <sentence id="s1167">
 
@@ -2255,8 +2255,8 @@ I do not understand the applicants to dispute this summary.</sentence>
 <sentence id="s1203">The Privacy Act affords the individual the opportunity of complaining to the Privacy Commissioner who may make a determination of the kind referred to at [66] above.</sentence>
 <sentence id="s1204">Apart from the provisions of the Privacy Act to which I have referred, I would have characterised the applicants as vulnerable.</sentence>
 <sentence id="s1205">However, I think that the Privacy Act removes their vulnerability.</sentence>
-<sentence id="s1206">The Privacy Act establishes a r&eacute;gime that acknowledges that the role of the credit reporting agency is nothing more than a recorder, and that any dispute is between the individual and the listing credit provider.</sentence>
-<sentence id="s1207">It is not possible for an individual to be refused credit based wholly or in part on information derived from a credit report without the r&eacute;gime being activated.</sentence>
+<sentence id="s1206">The Privacy Act establishes a r&amp;eacute;gime that acknowledges that the role of the credit reporting agency is nothing more than a recorder, and that any dispute is between the individual and the listing credit provider.</sentence>
+<sentence id="s1207">It is not possible for an individual to be refused credit based wholly or in part on information derived from a credit report without the r&amp;eacute;gime being activated.</sentence>
 <sentence id="s1208">Vis-a-vis the credit reporting agency, the individual is not in a vulnerable position.</sentence>
 <sentence id="s1209">3.</sentence>
 <sentence id="s1210">Assumption of responsibility coupled with known reliance.</sentence>
@@ -2376,7 +2376,7 @@ Finally, Callinan J, (at [323], [325]) stated (citations omitted):
  Whilst it may be accepted that a plaintiff is entitled to avail herself of whatever remedies are available to her, it is important that a decision and the reasoning leading to it, in an unusual case, which this one is, be in harmony with, so far as is possible, available related causes of action, and the common law as a whole or, as it was put by this Court in Sullivan v Moody , ... that they not offend the "coherence of the law".</sentence>
 <sentence id="s1305">The facts of this case might conceivably have given rise to actions in negligent misstatement (if that action is not confined to claims for economic loss) and defamation.</sentence>
 <sentence id="s1306">That these causes of action may also be available on the facts of the case, and would then be governed by special rules affected by policy considerations, is relevant to the question whether the appellant should recover damages for "nervous shock" on the basis of those facts.</sentence>
-<sentence id="s1307">As to the former cause of action, Barwick CJ in Mutual Life &amp; Citizens' Assurance Co Ltd v Evatt ... said: 
+<sentence id="s1307">As to the former cause of action, Barwick CJ in Mutual Life &amp;amp; Citizens' Assurance Co Ltd v Evatt ... said: 
  "But I think it is quite clear that the relationship of proximity, adequate for compensation of injury caused by physical acts or omissions, would be inappropriate in the case of utterance by way of information or advice which causes loss or damage.</sentence>
 <sentence id="s1308">The necessary relationship in that connexion must needs be more specific.</sentence>
 <sentence id="s1309">" 
@@ -2405,7 +2405,7 @@ Finally, Callinan J, (at [323], [325]) stated (citations omitted):
 <sentence id="s1328">The applicants relied on evidence given by their expert witness, Kosta Patsan that Veda could have introduced a "checklist".</sentence>
 <sentence id="s1329">In substance, Mr Patsan's suggestion was that the operator in the credit provider's office would be required to respond to a number of mandatory queries which would bring home to that person the seriousness of listing a default.</sentence>
 <sentence id="s1330">For example, the operator would be required to enter the date of the initial default and the date of a warning letter, and to respond to the question whether the individual had entered into an arrangement with the credit provider.</sentence>
-<sentence id="s1331">Mr Patsan said that the checklist would serve three purposes which he identified in his report as follows: Ensures that the subscriber user need[ed] to enter information (&amp; thus ascertained the information), before entering it into ... the Veda database The dates entered would be cross checked automatically against the date of entry, to ensure that the correct number of days had elapsed before a default could be listed Provide Veda with an audit record of information from the subscriber, indicating to Veda from the subscriber that the dates were correct and thus the requirements for listing were met.</sentence>
+<sentence id="s1331">Mr Patsan said that the checklist would serve three purposes which he identified in his report as follows: Ensures that the subscriber user need[ed] to enter information (&amp;amp; thus ascertained the information), before entering it into ... the Veda database The dates entered would be cross checked automatically against the date of entry, to ensure that the correct number of days had elapsed before a default could be listed Provide Veda with an audit record of information from the subscriber, indicating to Veda from the subscriber that the dates were correct and thus the requirements for listing were met.</sentence>
 <sentence id="s1332">On the face of his report, Mr Patsan's suggestion does not deal with the more than eighty-five percent of data entries that are totally automated, that is to say, do not involve an operator at all.</sentence>
 <sentence id="s1333">When this was put to him in cross-examination, he said that when he wrote his report he had had computer-to-computer listings as well as manual listings in mind.</sentence>
 <sentence id="s1334">It became clear, however, that Mr Patsan had not considered the fundamental and costly restructuring of both the business and computer systems that would be required if a manual element were to be injected into the fully automated default listing procedures used by banks and other large organisations at present.</sentence>
@@ -2737,7 +2737,7 @@ The letter gave him a new account number, identified his "brokerage" as "Sydney 
 <sentence id="s1640">Also on 20 October 2000 Ford Credit wrote to Richgrove advising it of the same details of overdue payments and default charges, and giving the same warning concerning notification to a credit reporting agency.</sentence>
 <sentence id="s1641">Ms Shields knew that her husband (and co-director and co-guarantor) had invited Ford Credit to repossess the car and that he was paying Ford Credit afterwards.</sentence>
 <sentence id="s1642">On 23 January 2001 Ford Credit wrote to Ms Shields referring to a "repossession" on 19 January 2001 and advising that initial indications showed that a loss would eventuate after the sale of the vehicle.</sentence>
-<sentence id="s1643">The letter invited Ms Shields to contact the writer to discuss a suitable repayment schedule and stated that it enclosed an "Asset &amp; Liability Statement and Income &amp; Expenditure Forms" for her to complete and return.</sentence>
+<sentence id="s1643">The letter invited Ms Shields to contact the writer to discuss a suitable repayment schedule and stated that it enclosed an "Asset &amp;amp; Liability Statement and Income &amp;amp; Expenditure Forms" for her to complete and return.</sentence>
 <sentence id="s1644">The letter advised that Ford Credit intended to list the default on Ms Shields's personal file with Veda.</sentence>
 <sentence id="s1645">On 8 March 2001 Ford Credit wrote to Ms Shields advising that the vehicle had been sold for $21,800 and that the net proceeds of $21,002.50 had been credited to her account, leaving a deficiency of $16,598.06 for which she remained responsible.</sentence>
 <sentence id="s1646">The letter advised that Ford Credit had lodged a default listing with Veda and transferred the file to Ford Credit's Loan Recovery Department with a recommendation that legal proceedings be commenced unless a mutually agreeable arrangement to pay the shortfall was made and kept.</sentence>
@@ -3047,11 +3047,11 @@ Dated: 1 April 2009
  Counsel for the Applicant: Mr T S Hale SC and Mr P W Bates
 Mr D F C Thomas (on 1 April 2008 alone, when the constitutional issue was argued) 
  
- Solicitor for the Applicant: Gerard Malouf &amp; Partners 
+ Solicitor for the Applicant: Gerard Malouf &amp;amp; Partners 
  
  Counsel for the Respondent: Mr B R McClintock SC and Mr M S White 
  
- Solicitor for the Respondent: Ebsworth &amp; Ebsworth Lawyers 
+ Solicitor for the Respondent: Ebsworth &amp;amp; Ebsworth Lawyers 
  
  Counsel for the intervener,
 the Attorney-General for the

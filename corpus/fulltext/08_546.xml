@@ -3,9 +3,9 @@
 <name>Duus v Dalvella Pty Ltd (No. 3) [2008] FCA 546 (23 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/546.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an application to strike out an amended statement of claim</catchphrase>
-<catchphrase "id=c1">consideration of contentions relating to s 121 of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase id="c0">consideration of an application to strike out an amended statement of claim</catchphrase>
+<catchphrase id="c1">consideration of contentions relating to s 121 of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c2">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -548,7 +548,7 @@
  
  
  
- 31.1 Jefferson &amp; Stevenson, the DCT, the BSA and the Liquidator of Delvine were either creditors, contingent creditors or anticipated creditors for large sums of money and that inevitably there would come a time when these creditors would press Mr and Mrs Waters for payment of monies or obtain judgments that Mr and Mrs Waters would not be able to pay.</sentence>
+ 31.1 Jefferson &amp;amp; Stevenson, the DCT, the BSA and the Liquidator of Delvine were either creditors, contingent creditors or anticipated creditors for large sums of money and that inevitably there would come a time when these creditors would press Mr and Mrs Waters for payment of monies or obtain judgments that Mr and Mrs Waters would not be able to pay.</sentence>
 <sentence id="s112">
  
  
@@ -650,7 +650,7 @@
 <sentence id="s142">It is true that the particulars of 30 March 2007 of para 22 use the term 'future creditors' to define, in part, the field of creditors Waters is said to have sought to defraud as 'then present creditors and all future creditors' and para 23.1 uses the term 'contingent creditors or anticipated creditors'.</sentence>
 <sentence id="s143">It seems to me the distinction is not a real one in the context of the pleading.</sentence>
 <sentence id="s144">As I said at [29] of Duus v Dalvella , there must be a relation between the steps taken as part of the contended scheme and an intention to defraud identified creditors.</sentence>
-<sentence id="s145">Those creditors however might be existing creditors with provable debts or future creditors or any present or future creditors ( Barton v Deputy Federal Commissioner of Taxation [1974] HCA 43 ; (1974) 131 CLR 370 at 374; PT Garuda Indonesia Ltd v Grellman (1992) 35 FCR 515 at 525-526; DM Cannane &amp; Anor v J Cannane Pty Ltd [1998] HCA 26 ; (1998) 192 CLR 557 at 566 and 593; Ebner v Official Trustee in Bankruptcy [1999] FCA 110 ; (1999) 91 FCR 353 at 370-371).</sentence>
+<sentence id="s145">Those creditors however might be existing creditors with provable debts or future creditors or any present or future creditors ( Barton v Deputy Federal Commissioner of Taxation [1974] HCA 43 ; (1974) 131 CLR 370 at 374; PT Garuda Indonesia Ltd v Grellman (1992) 35 FCR 515 at 525-526; DM Cannane &amp;amp; Anor v J Cannane Pty Ltd [1998] HCA 26 ; (1998) 192 CLR 557 at 566 and 593; Ebner v Official Trustee in Bankruptcy [1999] FCA 110 ; (1999) 91 FCR 353 at 370-371).</sentence>
 <sentence id="s146">Future creditors include anticipated creditors (such as the liquidators of Freedom Homes or the BSA) or contingent creditors.</sentence>
 <sentence id="s147">42 The following further observations should be made.</sentence>
 <sentence id="s148">43 Plainly enough, paras 22 and 23 are to be read together; para 23 is the expression of at least two creditors which fall within the broader class of present or future creditors; paras 22 (and the particulars of para 22) and para 23 assert facts arising out of the identified chronological events which give rise as a matter of pleading to an inference that Waters knew particular entities would inevitably pursue claims against them of substance.</sentence>
@@ -669,7 +669,7 @@
 <sentence id="s161">Considerations 
  
 51 Before dealing with each of these contentions, the case pleaded by the Trustees against Waters needs to be examined in the context of the pleading overall so as to test whether the Statement of Claim makes clear to Waters the case advanced against them which they must answer especially having regard to their contention that the 1996 transactions have no coherent relationship, within the pleading, with the 1997 and 1999 transactions in terms of remedial relief.</sentence>
-<sentence id="s162">The principles guiding the exercise of the discretion for the purposes of Order 11, r 16 are well settled ( Johnson Tiles Pty Ltd v Esso Australia Pty Ltd [2000] FCA 1572 ; (2000) 104 FCR 564 at 585-586 at [47] --- [51] per French J; Australian Competition and Consumer Commission v Fox Symes &amp; Associates Pty Ltd [2005] FCA 1071 at [92] to [109] per Lander J; BWK Elders Australia Pty Ltd v Westgate Wool Company Pty Ltd &amp; Ors (No.</sentence>
+<sentence id="s162">The principles guiding the exercise of the discretion for the purposes of Order 11, r 16 are well settled ( Johnson Tiles Pty Ltd v Esso Australia Pty Ltd [2000] FCA 1572 ; (2000) 104 FCR 564 at 585-586 at [47] --- [51] per French J; Australian Competition and Consumer Commission v Fox Symes &amp;amp; Associates Pty Ltd [2005] FCA 1071 at [92] to [109] per Lander J; BWK Elders Australia Pty Ltd v Westgate Wool Company Pty Ltd &amp;amp; Ors (No.</sentence>
 <sentence id="s163">2) [2002] FCA 87 at [2] , [3], [20] and [21] per Mansfield J; Pan Continental Mining Ltd v Posgold Investments Pty Ltd [1994] FCA 983 ; (1994) 121 ALR 405 at 414 per Beaumont J; General Steel Industries Inc v Commissioner for Railways (NSW) [1964] HCA 69 ; (1964) 112 CLR 125 at 129 and 130, per Barwick CJ).</sentence>
 <sentence id="s164">52 In sequence, the elements are these.</sentence>
 <sentence id="s165">53 From about February 1996 companies associated with Waters began to fail financially.</sentence>
@@ -762,7 +762,7 @@ Dated: 23 April 2008
 
  Counsel for the applicants on the Motion, the First and Second Respondents: Mr R Perry SC 
  
- Solicitors for the applicants on the Motion, the First and Second Respondents: Lynch &amp; Company, Solicitors 
+ Solicitors for the applicants on the Motion, the First and Second Respondents: Lynch &amp;amp; Company, Solicitors 
  
  Counsel for the respondents to the Motion, the First and Second Applicants: Mr T Sullivan 
  

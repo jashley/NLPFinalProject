@@ -3,11 +3,11 @@
 <name>Deputy Commissioner of Taxation v Platinum Builders Pty Ltd [2008] FCA 202 (29 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/202.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">insolvency</catchphrase>
-<catchphrase "id=c1">application for winding up order</catchphrase>
-<catchphrase "id=c2">supporting creditor applied previously for winding up order in supreme court of new south wales</catchphrase>
-<catchphrase "id=c3">order for supporting creditor's costs of supreme court proceeding to be paid out of the assets of the defendant</catchphrase>
-<catchphrase "id=c4">procedure</catchphrase>
+<catchphrase id="c0">insolvency</catchphrase>
+<catchphrase id="c1">application for winding up order</catchphrase>
+<catchphrase id="c2">supporting creditor applied previously for winding up order in supreme court of new south wales</catchphrase>
+<catchphrase id="c3">order for supporting creditor's costs of supreme court proceeding to be paid out of the assets of the defendant</catchphrase>
+<catchphrase id="c4">procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -54,7 +54,7 @@
 Dated: 10 March 2008
 
 
- Solicitor for the Plaintiff: Church &amp; Grace 
+ Solicitor for the Plaintiff: Church &amp;amp; Grace 
  
  The Defendant did not appear.</sentence>
 <sentence id="s37">Counsel for the Supporting Creditor: Mr A Davis 

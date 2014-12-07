@@ -3,14 +3,14 @@
 <name>Gardena (Australia) Pty Ltd v Nylex Corporation Pty Ltd [2008] FCA 1846 (5 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1846.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">remedies</catchphrase>
-<catchphrase "id=c1">interlocutory injunction</catchphrase>
-<catchphrase "id=c2">principles</catchphrase>
-<catchphrase "id=c3">damages inadequate remedy</catchphrase>
-<catchphrase "id=c4">balance of justice and balance of convenience</catchphrase>
-<catchphrase "id=c5">factors relevant to the exercise of the court's discretion</catchphrase>
-<catchphrase "id=c6">interlocutory injunction granted</catchphrase>
-<catchphrase "id=c7">breach of contract</catchphrase>
+<catchphrase id="c0">remedies</catchphrase>
+<catchphrase id="c1">interlocutory injunction</catchphrase>
+<catchphrase id="c2">principles</catchphrase>
+<catchphrase id="c3">damages inadequate remedy</catchphrase>
+<catchphrase id="c4">balance of justice and balance of convenience</catchphrase>
+<catchphrase id="c5">factors relevant to the exercise of the court's discretion</catchphrase>
+<catchphrase id="c6">interlocutory injunction granted</catchphrase>
+<catchphrase id="c7">breach of contract</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -340,7 +340,7 @@
  
 (b) Mitre 10 which operates a business which is very similar to that of Bunnings;
  
-(c) John Danks &amp; Sons.</sentence>
+(c) John Danks &amp;amp; Sons.</sentence>
 <sentence id="s146">This is a co-operative hardware and homeware group which bands together to utilise the buying power of its members as a group; and
  
 (d) Palmers' Garden World which operates a business in New Zealand similar to those operated by Bunnings and Mitre 10 in Australia.</sentence>

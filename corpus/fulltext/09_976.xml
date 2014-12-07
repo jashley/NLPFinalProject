@@ -3,9 +3,9 @@
 <name>Cape Australia Holdings Pty Ltd v Modern Industries Australia Pty Ltd [2009] FCA 976 (31 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/976.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">preliminary discovery under o 15a of the federal court rules</catchphrase>
-<catchphrase "id=c1">whether there was reasonable cause to believe that the applicants have, or may have, a right to obtain relief against the respondents.</catchphrase>
-<catchphrase "id=c2">practice and procedure</catchphrase>
+<catchphrase id="c0">preliminary discovery under o 15a of the federal court rules</catchphrase>
+<catchphrase id="c1">whether there was reasonable cause to believe that the applicants have, or may have, a right to obtain relief against the respondents.</catchphrase>
+<catchphrase id="c2">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -142,12 +142,12 @@
  PCH demands that Modern: 
 
  
- &#8226; remove any information owned by PCH from Modern's website; 
+ &amp;#8226; remove any information owned by PCH from Modern's website; 
 
  remove any material that states or implies that works undertaken by PCH were undertaken by Modern;
  confirm whether any confidential information owned by PCH was used by Modern in the tender for the Sinosteel project; and
  
- &#8226; provide the tender documents to Blake Dawson...by 5 pm, 20 August 2008.</sentence>
+ &amp;#8226; provide the tender documents to Blake Dawson...by 5 pm, 20 August 2008.</sentence>
 <sentence id="s62">
 
  

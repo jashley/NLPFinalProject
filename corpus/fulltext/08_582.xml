@@ -3,18 +3,18 @@
 <name>Palmer and Collis and Terraplanet Limited (in liquidation), in the matter of Terraplanet Limited (in liquidation) (No 2) [2008] FCA 582 (18 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/582.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by liquidators for order terminating winding up</catchphrase>
-<catchphrase "id=c1">liquidators had previously appointed themselves administrators pursuant to leave of court</catchphrase>
-<catchphrase "id=c2">deed of company arrangement (doca) entered into</catchphrase>
-<catchphrase "id=c3">doca implemented and term of doca expired</catchphrase>
-<catchphrase "id=c4">creditors' trust</catchphrase>
-<catchphrase "id=c5">recapitalisation of company by third party</catchphrase>
-<catchphrase "id=c6">resolution passed by shareholders in support of third party's recapitalisation proposal</catchphrase>
-<catchphrase "id=c7">payment of amount into a trust for benefit of participating creditors, and release of company from its obligation to pay creditors</catchphrase>
-<catchphrase "id=c8">interests of existing and future creditors, contributories and the public</catchphrase>
-<catchphrase "id=c9">relevant considerations</catchphrase>
-<catchphrase "id=c10">solvency of company recommencing its commercial life held : order made terminating winding up</catchphrase>
-<catchphrase "id=c11">corporations</catchphrase>
+<catchphrase id="c0">application by liquidators for order terminating winding up</catchphrase>
+<catchphrase id="c1">liquidators had previously appointed themselves administrators pursuant to leave of court</catchphrase>
+<catchphrase id="c2">deed of company arrangement (doca) entered into</catchphrase>
+<catchphrase id="c3">doca implemented and term of doca expired</catchphrase>
+<catchphrase id="c4">creditors' trust</catchphrase>
+<catchphrase id="c5">recapitalisation of company by third party</catchphrase>
+<catchphrase id="c6">resolution passed by shareholders in support of third party's recapitalisation proposal</catchphrase>
+<catchphrase id="c7">payment of amount into a trust for benefit of participating creditors, and release of company from its obligation to pay creditors</catchphrase>
+<catchphrase id="c8">interests of existing and future creditors, contributories and the public</catchphrase>
+<catchphrase id="c9">relevant considerations</catchphrase>
+<catchphrase id="c10">solvency of company recommencing its commercial life held : order made terminating winding up</catchphrase>
+<catchphrase id="c11">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -37,9 +37,9 @@
 <sentence id="s14">6 It was predicted that, if the proposal was approved and the DOCA was executed:
  
  
- &#8226; there would be sufficient funds to pay a preferential claim of the Department of Workplace Relations (DEWR) in respect of a GEERS payout to employees totalling $337,837; 
- &#8226; the ordinary unsecured creditors of Terraplanet would receive a distribution of approximately 15 cents in the dollar; and 
- &#8226; the approximately 2,500 shareholders of Terraplanet would retain one share for every eight shares currently held by them in Terraplanet, whose shares would again be traded on the ASX.</sentence>
+ &amp;#8226; there would be sufficient funds to pay a preferential claim of the Department of Workplace Relations (DEWR) in respect of a GEERS payout to employees totalling $337,837; 
+ &amp;#8226; the ordinary unsecured creditors of Terraplanet would receive a distribution of approximately 15 cents in the dollar; and 
+ &amp;#8226; the approximately 2,500 shareholders of Terraplanet would retain one share for every eight shares currently held by them in Terraplanet, whose shares would again be traded on the ASX.</sentence>
 <sentence id="s15">
  
 
@@ -80,10 +80,10 @@
 <sentence id="s46">By the Trust Deed, the Liquidators/Administrators as trustees undertook to distribute the Trust Fund (see [13] above) to pay:
  
  
- &#8226; first, all liquidation costs and administrators' costs;
- &#8226; second, the trustees' costs; 
- &#8226; third, employees' entitlements in the order specified in s 556 of the Act; and 
- &#8226; finally, admitted creditors of Terraplanet rateably.</sentence>
+ &amp;#8226; first, all liquidation costs and administrators' costs;
+ &amp;#8226; second, the trustees' costs; 
+ &amp;#8226; third, employees' entitlements in the order specified in s 556 of the Act; and 
+ &amp;#8226; finally, admitted creditors of Terraplanet rateably.</sentence>
 <sentence id="s47">
  
 
@@ -118,7 +118,7 @@ Dated: 30 April 2008
 
  Counsel for the First and Second Plaintiffs: Mr S Golledge 
  
- Solicitor for the First and Second Plaintiffs: John Walsh &amp; Partners 
+ Solicitor for the First and Second Plaintiffs: John Walsh &amp;amp; Partners 
 
  Date of Hearing: 18 April 2008 
  

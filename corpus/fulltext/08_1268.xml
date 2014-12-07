@@ -3,21 +3,21 @@
 <name>Australian Workers' Union of Employees, Queensland v Etheridge Shire Council (corrigendum dated 27 August 2008) [2008] FCA 1268 (20 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1268.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">workplace agreement purported to be lodged by the etheridge shire council under the workplace relations act 1996</catchphrase>
-<catchphrase "id=c1">whether the etheridge shire council is an "employer" pursuant to section 6 of the workplace relations act</catchphrase>
-<catchphrase "id=c2">answering that question dependant upon whether the council is a corporation to which section 51(xx) of the constitution applies</catchphrase>
-<catchphrase "id=c3">council held not to be such a corporation</catchphrase>
-<catchphrase "id=c4">council therefore held not to be an "employer"</catchphrase>
-<catchphrase "id=c5">council therefore held ineligible to lodge the relevant workplace agreement.</catchphrase>
-<catchphrase "id=c6">corporations power</catchphrase>
-<catchphrase "id=c7">"trading or financial corporations"</catchphrase>
-<catchphrase "id=c8">whether the etheridge shire council is a "trading corporation" or a "financial corporation" within section 51(xx) of the constitution</catchphrase>
-<catchphrase "id=c9">held that the test for characterising the nature of a corporation in the context of s 51(xx) is a consideration of the predominant or characteristic activity of the body, the extent of that activity and the relative significance of that activity in the affairs of the corporation</catchphrase>
-<catchphrase "id=c10">where the activities of the council were not limited to trading</catchphrase>
-<catchphrase "id=c11">where the predominant and characteristic activity of the council was that of a local government</catchphrase>
-<catchphrase "id=c12">council held not to be a "trading corporation" or a "financial corporation"</catchphrase>
-<catchphrase "id=c13">workplace relations</catchphrase>
-<catchphrase "id=c14">constitutional law</catchphrase>
+<catchphrase id="c0">workplace agreement purported to be lodged by the etheridge shire council under the workplace relations act 1996</catchphrase>
+<catchphrase id="c1">whether the etheridge shire council is an "employer" pursuant to section 6 of the workplace relations act</catchphrase>
+<catchphrase id="c2">answering that question dependant upon whether the council is a corporation to which section 51(xx) of the constitution applies</catchphrase>
+<catchphrase id="c3">council held not to be such a corporation</catchphrase>
+<catchphrase id="c4">council therefore held not to be an "employer"</catchphrase>
+<catchphrase id="c5">council therefore held ineligible to lodge the relevant workplace agreement.</catchphrase>
+<catchphrase id="c6">corporations power</catchphrase>
+<catchphrase id="c7">"trading or financial corporations"</catchphrase>
+<catchphrase id="c8">whether the etheridge shire council is a "trading corporation" or a "financial corporation" within section 51(xx) of the constitution</catchphrase>
+<catchphrase id="c9">held that the test for characterising the nature of a corporation in the context of s 51(xx) is a consideration of the predominant or characteristic activity of the body, the extent of that activity and the relative significance of that activity in the affairs of the corporation</catchphrase>
+<catchphrase id="c10">where the activities of the council were not limited to trading</catchphrase>
+<catchphrase id="c11">where the predominant and characteristic activity of the council was that of a local government</catchphrase>
+<catchphrase id="c12">council held not to be a "trading corporation" or a "financial corporation"</catchphrase>
+<catchphrase id="c13">workplace relations</catchphrase>
+<catchphrase id="c14">constitutional law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -376,7 +376,7 @@ This understanding of the power should be adopted.</sentence>
 <sentence id="s169">60 Menzies J said, at 552:
  It seems to me that trading corporations were in 1900 a well-recognized classification of companies.</sentence>
 <sentence id="s170">61 Later, at 552-553, Menzies J said:
- The difference between a trading corporation and a municipal corporation was noticed in this Court as early as 1908 in Huddart Parker &amp; Co. Pty.</sentence>
+ The difference between a trading corporation and a municipal corporation was noticed in this Court as early as 1908 in Huddart Parker &amp;amp; Co. Pty.</sentence>
 <sentence id="s171">Ltd. v. Moorehead when Isaacs J., in considering the language of s.</sentence>
 <sentence id="s172">51(xx.</sentence>
 <sentence id="s173">) of the Constitution , said [1909] HCA 36 ; [(1908) 8 C.L.R.</sentence>
@@ -426,7 +426,7 @@ This understanding of the power should be adopted.</sentence>
  The only sure guide to the nature of the company is a purview of its current activities, a judgment as to its nature being made after an overview of all those activities.</sentence>
 <sentence id="s205">69 The submissions on behalf of the applicants in QUD 481 of 2006 refer to cases decided by the High Court that have considered the question of whether particular entities are trading or financial corporations: a football club in Adamson's case ; a statutory corporation generating and selling electricity in Commonwealth v State of Tasmania [1983] HCA 21 ; (1983) 158 CLR 1 ( Tasmanian Dams case); a State Corporation conducting financial trading activities in order to finance and operate a superannuation scheme in State Superannuation Board v Trade Practices Commission [1982] HCA 72 ; (1982) 150 CLR 282 ; and a dormant shelf company which had not yet commenced to trade in any capacity in Fencott v Muller [1983] HCA 12 ; (1983) 152 CLR 570.</sentence>
 <sentence id="s206">70 Those submissions also referred to decisions in the Federal Court and other superior courts.</sentence>
-<sentence id="s207">Those cases were concerned with entities such as charities: E v Australian Red Cross Society [1991] FCA 20 ; (1991) 27 FCR 310 ; statutory corporations set up under State legislation which conduct various business activities: United Firefighters' Union of Australia v Metropolitan Fire and Emergency Services Board (1998) 83 FCR 346 ; corporations that conduct universities: Quickenden v O'Connor [2001] FCA 303 ; (2001) 109 FCR 243 ; and schools: Educang Limited v Queensland Industrial Relations Commission (2006) 154 IR 436; yachting organisations: Forbes &amp; Anor v Australian Yachting Federation Inc. (1996) 131 FLR 241; legal aid bodies: Aboriginal Legal Service of Western Australia Inc. v Lawrence [2007] WAIRC 435 ; and animal welfare organisations: Orion Pet Products Pty Ltd v Royal Society for the Prevention of Cruelty to Animals [2002] FCA 860 ; (2002) 120 FCR 191.</sentence>
+<sentence id="s207">Those cases were concerned with entities such as charities: E v Australian Red Cross Society [1991] FCA 20 ; (1991) 27 FCR 310 ; statutory corporations set up under State legislation which conduct various business activities: United Firefighters' Union of Australia v Metropolitan Fire and Emergency Services Board (1998) 83 FCR 346 ; corporations that conduct universities: Quickenden v O'Connor [2001] FCA 303 ; (2001) 109 FCR 243 ; and schools: Educang Limited v Queensland Industrial Relations Commission (2006) 154 IR 436; yachting organisations: Forbes &amp;amp; Anor v Australian Yachting Federation Inc. (1996) 131 FLR 241; legal aid bodies: Aboriginal Legal Service of Western Australia Inc. v Lawrence [2007] WAIRC 435 ; and animal welfare organisations: Orion Pet Products Pty Ltd v Royal Society for the Prevention of Cruelty to Animals [2002] FCA 860 ; (2002) 120 FCR 191.</sentence>
 <sentence id="s208">71 Reference should also be made to the judgment of Toohey J in Hughes v Western Australian Cricket Association (Inc) (1986) 19 FCR 10 ( Hughes ).</sentence>
 <sentence id="s209">72 Toohey J in Hughes summarised the position up until 1986, saying, at 20:
  The last few years have seen several decisions, particularly by the High Court, in which the notion of a trading corporation has been examined.</sentence>
@@ -457,7 +457,7 @@ This understanding of the power should be adopted.</sentence>
  Where all activities are income producing, it may not be hard to single out some as trading activities and quantify their significance, even if only in a broad way.</sentence>
 <sentence id="s234">But where some activities are income producing and others are not, the exercise is not so straightforward ... A trading activity may represent a significant part of a club's income but be relatively insignificant in an overall consideration of the club's activities.</sentence>
 <sentence id="s235">75 This observation has a particular resonance in the present case, as will appear later.</sentence>
-<sentence id="s236">Such trading activity of the Etheridge Shire Council is quite insignificant in relation to the overall consideration of the activities of the Etheridge Shire Council, which, as a local government, exercises extensive legislative and executive functions in the local government area, and is its raison d'&ecirc;tre.</sentence>
+<sentence id="s236">Such trading activity of the Etheridge Shire Council is quite insignificant in relation to the overall consideration of the activities of the Etheridge Shire Council, which, as a local government, exercises extensive legislative and executive functions in the local government area, and is its raison d'&amp;ecirc;tre.</sentence>
 <sentence id="s237">
  
 76 It was alleged in Mid Density Development v Rockdale Municipal Council [1992] FCA 634 ; (1992) 39 FCR 579 that the council concerned was a trading corporation.</sentence>
@@ -988,7 +988,7 @@ Solicitor for the Intervener
 
  QUD 39 of 2007 
 
-Counsel for the Applicant King &amp; Company
+Counsel for the Applicant King &amp;amp; Company
 
 Australian Government Solicitor
 
@@ -1012,7 +1012,7 @@ Crown Law
 
 Mr K Watson
 
-King &amp; Company
+King &amp;amp; Company
 
 Australian Government Solicitor
  

@@ -3,8 +3,8 @@
 <name>Australian Competition and Consumer Commission v ATS All Trades and Services Pty Ltd [2009] FCA 647 (17 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/647.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">when an employee of a corporation will be knowingly concerned in company's contravention.</catchphrase>
-<catchphrase "id=c1">trade practices: whether false and misleading representations under s 52 of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c0">when an employee of a corporation will be knowingly concerned in company's contravention.</catchphrase>
+<catchphrase id="c1">trade practices: whether false and misleading representations under s 52 of the trade practices act 1974 (cth)</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -358,7 +358,7 @@ It follows, according to the ACCC that ATS contravened s 52 of the TPA, relying 
 <sentence id="s236">Am I speaking to 
  I am calling about sending you Business from clients.</sentence>
 <sentence id="s237">I guess you could do with more Business 
- We have New Work Property Maintenance, (Owner Builders, Medium &amp; Large 
+ We have New Work Property Maintenance, (Owner Builders, Medium &amp;amp; Large 
  Construction, Extensions, Decks, Pergolas, Garages, Civil work, Industrial 
  Maintenance, on going maintenance, Shop fit Refurb).</sentence>
 <sentence id="s238">
@@ -366,7 +366,7 @@ It follows, according to the ACCC that ATS contravened s 52 of the TPA, relying 
 <sentence id="s239">(DONT SPEAK) (wait 6 sees) 
  Are you looking for more work?</sentence>
 <sentence id="s240">
- &gt; Each Week we will forward a list of clients wantinq work done 
+ &amp;gt; Each Week we will forward a list of clients wantinq work done 
  We give you your own web page, and (poodle) category.</sentence>
 <sentence id="s241">
  We even do direct mail for you.</sentence>

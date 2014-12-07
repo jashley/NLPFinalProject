@@ -3,13 +3,13 @@
 <name>In the Matter of ACN 005 408 462 Pty Ltd (formerly TEAC Australia Pty Ltd) [2008] FCA 964 (26 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/964.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">legal professional privilege</catchphrase>
-<catchphrase "id=c1">exceptions</catchphrase>
-<catchphrase "id=c2">debtor put assets beyond reach of creditor</catchphrase>
-<catchphrase "id=c3">possible conspiracy to defraud</catchphrase>
-<catchphrase "id=c4">deed administrator seeking to inspect documents over which privilege is claimed</catchphrase>
-<catchphrase "id=c5">scope of the "fraud or crime" exception</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
+<catchphrase id="c0">legal professional privilege</catchphrase>
+<catchphrase id="c1">exceptions</catchphrase>
+<catchphrase id="c2">debtor put assets beyond reach of creditor</catchphrase>
+<catchphrase id="c3">possible conspiracy to defraud</catchphrase>
+<catchphrase id="c4">deed administrator seeking to inspect documents over which privilege is claimed</catchphrase>
+<catchphrase id="c5">scope of the "fraud or crime" exception</catchphrase>
+<catchphrase id="c6">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -53,11 +53,11 @@
 <sentence id="s36">Most of the loan money was applied toward discharging Mr Muir's personal liabilities.</sentence>
 <sentence id="s37">7 On 16 September 2005 GMPL entered into a contract to sell Moule Avenue for $6,700,000.</sentence>
 <sentence id="s38">Settlement was due on 17 October 2005.</sentence>
-<sentence id="s39">8 On 20 September 2005, GMPL's solicitor, Mr Lewin of Mills Oakley Lawyers (MOL), telephoned Mr Groppi, a solicitor at DE Jones &amp; Associates, to enquire whether Mr Groppi's firm would act on behalf of Mrs Muir in relation to a matrimonial property settlement.</sentence>
+<sentence id="s39">8 On 20 September 2005, GMPL's solicitor, Mr Lewin of Mills Oakley Lawyers (MOL), telephoned Mr Groppi, a solicitor at DE Jones &amp;amp; Associates, to enquire whether Mr Groppi's firm would act on behalf of Mrs Muir in relation to a matrimonial property settlement.</sentence>
 <sentence id="s40">Later that day, Mr Lewin and Mrs Muir met Mr Groppi at his office.</sentence>
 <sentence id="s41">Mr Groppi agreed to act on Mrs Muir's behalf.</sentence>
-<sentence id="s42">Three days later DE Jones &amp; Associates lodged on behalf of Mrs Muir a caveat over the title to Moule Avenue in which she claimed to be the equitable owner of the property "pursuant to a constructive trust".</sentence>
-<sentence id="s43">9 By 11 October 2005 (that is, about a week before the settlement of the sale of Moule Avenue) DE Jones &amp; Associates and MOL had reached agreement on behalf of their respective clients that Mrs Muir would receive the proceeds of sale after payment of the debts due to secured creditors and the deduction of reasonable selling expenses.</sentence>
+<sentence id="s42">Three days later DE Jones &amp;amp; Associates lodged on behalf of Mrs Muir a caveat over the title to Moule Avenue in which she claimed to be the equitable owner of the property "pursuant to a constructive trust".</sentence>
+<sentence id="s43">9 By 11 October 2005 (that is, about a week before the settlement of the sale of Moule Avenue) DE Jones &amp;amp; Associates and MOL had reached agreement on behalf of their respective clients that Mrs Muir would receive the proceeds of sale after payment of the debts due to secured creditors and the deduction of reasonable selling expenses.</sentence>
 <sentence id="s44">A Deed of Settlement recording this agreement was executed by Mrs Muir, Mr Muir and GMPL.</sentence>
 <sentence id="s45">The deed contained the following recitals: 
  C. The Wife [Mrs Muir] has disputed the entitlement of the Trustee [GMPL] to dispose of the Wife's Home without first recognising the Wife's interest pursuant to a constructive trust in all net proceeds of sale [the "Constructive Trust Claim"] ... F. In addition to the Constructive Trust Claim the Wife and TVC [TV Connect Pty Ltd, a company controlled by Mrs Muir] have alleged that the Trustee is indebted to the Wife and to TVC for a total amount in excess of $4 million [the "Trust Debt"].</sentence>
@@ -114,7 +114,7 @@ I.</sentence>
 <sentence id="s88">It was not suggested that the authority had acted fraudulently or dishonestly.</sentence>
 <sentence id="s89">The allegation was that the authority had exercised its powers for an ulterior purpose.</sentence>
 <sentence id="s90">That was sufficient because the word "fraud" is wide enough to include "fraud on justice" ( Kearney 158 CLR at 514) or conduct that would "frustrate the processes of law" ( R v Bell; Ex parte Lees [1980] HCA 26 ; (1980) 146 CLR 141 , 156).</sentence>
-<sentence id="s91">The exception includes a communication to further any abuse or misuse of power or deliberate breach of a legal duty: Southern Equities Corporation Ltd (in Liq) v Arthur Anderson &amp; Co (1997) 70 SASR 166 , 174.</sentence>
+<sentence id="s91">The exception includes a communication to further any abuse or misuse of power or deliberate breach of a legal duty: Southern Equities Corporation Ltd (in Liq) v Arthur Anderson &amp;amp; Co (1997) 70 SASR 166 , 174.</sentence>
 <sentence id="s92">17 There is a strong prima facie case that Mr Muir deliberately organised the affairs of GMPL to ensure that its principal creditor, TEAC, would not recover its debt.</sentence>
 <sentence id="s93">This was in circumstances where GMPL was entitled to be indemnified against that liability from the trust assets.</sentence>
 <sentence id="s94">Indeed, for purposes of enforcing the indemnity GMPL had a charge or right of lien over those assets.</sentence>
@@ -126,9 +126,9 @@ I.</sentence>
 <sentence id="s100">Dishonest intention is not an element of the offence.</sentence>
 <sentence id="s101">18 In my view the public interest that supports legal professional privilege must give way in respect of the documents in light of Mr Muir's ostensibly illegal conduct.</sentence>
 <sentence id="s102">19 This conclusion is in line with the cases: see Barclays Bank Plc v Eustice [1995] 1 WLR 1238 (communications relating to a transaction entered into at an undervalue for purposes of defeating a creditor); Gartner v Carter [2004] FCA 258 (advice sought to restructure a corporate group to put assets beyond the reach of a secured creditor); Australian Securities and Investments Commission v Mercorella (No 3) (2006) 58 ACSR 40 (advice obtained about the grant of securities to one class of creditors that would defeat the rights of other creditors).</sentence>
-<sentence id="s103">20 My ruling is not intended to cover all the communications between Mrs Muir and her solicitors, DE Jones &amp; Associates.</sentence>
+<sentence id="s103">20 My ruling is not intended to cover all the communications between Mrs Muir and her solicitors, DE Jones &amp;amp; Associates.</sentence>
 <sentence id="s104">There is no evidence to suggest that Mrs Muir had any involvement in Mr Muir's scheme.</sentence>
-<sentence id="s105">In R v Central Criminal Court, Ex parte Francis &amp; Francis (1989) AC 346 , the House of Lords held that where a person intent on fraud uses an "innocent tool" to further his criminal purpose, the communications between the innocent person and his lawyers are not privileged.</sentence>
+<sentence id="s105">In R v Central Criminal Court, Ex parte Francis &amp;amp; Francis (1989) AC 346 , the House of Lords held that where a person intent on fraud uses an "innocent tool" to further his criminal purpose, the communications between the innocent person and his lawyers are not privileged.</sentence>
 <sentence id="s106">That must be a very exceptional case.</sentence>
 <sentence id="s107">Here I think it is appropriate to draw a distinction between, on the one hand, communications between Mrs Muir and her solicitors which ought remain confidential and, on the other hand, communications between her solicitors and MOL in respect of which privilege could not attach.</sentence>
 <sentence id="s108">I also think that communications between Mrs Muir and her solicitors which relate to or pass on the discussions between her solicitors and MOL are not privileged.</sentence>
@@ -147,9 +147,9 @@ Dated: 26 June 2008
  
  Solicitor for Gavin Muir Pty Ltd, Mills Oakley Lawyers and Ashley Muir: Mills Oakley Lawyers 
  
- Counsel for DE Jones &amp; Associates and Beverly Muir: M Wise 
+ Counsel for DE Jones &amp;amp; Associates and Beverly Muir: M Wise 
  
- Solicitor for DE Jones &amp; Associates and Beverly Muir: Middletons 
+ Solicitor for DE Jones &amp;amp; Associates and Beverly Muir: Middletons 
  
  Date of Hearing: 27 May 2008 
  

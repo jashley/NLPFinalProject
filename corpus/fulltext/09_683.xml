@@ -3,16 +3,16 @@
 <name>American Express International Inc v Commissioner of Taxation [2009] FCA 683 (19 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/683.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">goods and services tax</catchphrase>
-<catchphrase "id=c1">charges for late payments under charge card and credit card facilities</catchphrase>
-<catchphrase "id=c2">whether there was a relevant supply of an interest</catchphrase>
-<catchphrase "id=c3">whether such charges are consideration in connection with a financial supply</catchphrase>
-<catchphrase "id=c4">whether charge card and credit card facilities are payment systems within the meaning of r 40-5.12 of the a new tax system (goods and services tax) regulations 1999 (cth)</catchphrase>
-<catchphrase "id=c5">penalties</catchphrase>
-<catchphrase "id=c6">whether failure to comply with a taxation law</catchphrase>
-<catchphrase "id=c7">whether failure to take reasonable care to comply with a taxation law</catchphrase>
-<catchphrase "id=c8">taxation</catchphrase>
-<catchphrase "id=c9">taxation</catchphrase>
+<catchphrase id="c0">goods and services tax</catchphrase>
+<catchphrase id="c1">charges for late payments under charge card and credit card facilities</catchphrase>
+<catchphrase id="c2">whether there was a relevant supply of an interest</catchphrase>
+<catchphrase id="c3">whether such charges are consideration in connection with a financial supply</catchphrase>
+<catchphrase id="c4">whether charge card and credit card facilities are payment systems within the meaning of r 40-5.12 of the a new tax system (goods and services tax) regulations 1999 (cth)</catchphrase>
+<catchphrase id="c5">penalties</catchphrase>
+<catchphrase id="c6">whether failure to comply with a taxation law</catchphrase>
+<catchphrase id="c7">whether failure to take reasonable care to comply with a taxation law</catchphrase>
+<catchphrase id="c8">taxation</catchphrase>
+<catchphrase id="c9">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -267,9 +267,9 @@ The cardholder uses the credit card to acquire goods or services from the mercha
 The explanatory memorandum promulgated in connection with the Regulations in that form explained the legislative intention behind those words as follows:
  
  Amongst other supplies, this category includes:
- &#183; the fees charged by an electronic funds transfer terminal network owner to a card issuer for access to and use of the network;
- &#183; the fees charged between a card provider and a third party to a transaction with an account holder (that is, a merchant) regarding the transaction; and
- &#183; processing of transactions between a card account provider and the third party as above, such as a merchant.</sentence>
+ &amp;#183; the fees charged by an electronic funds transfer terminal network owner to a card issuer for access to and use of the network;
+ &amp;#183; the fees charged between a card provider and a third party to a transaction with an account holder (that is, a merchant) regarding the transaction; and
+ &amp;#183; processing of transactions between a card account provider and the third party as above, such as a merchant.</sentence>
 <sentence id="s217">For example transactions relating to direct debit and credit, cheque, electronic funds transfer, ATM, B-pay, Internet banking and GiroPost.</sentence>
 <sentence id="s218">
 

@@ -3,20 +3,20 @@
 <name>Delnorth Pty Ltd v Dura-Post (Aust) Pty Ltd [2008] FCA 1225 (13 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1225.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">innovation patents</catchphrase>
-<catchphrase "id=c1">patents in suit for "steel flex" roadside post comprised of flexible sheet spring steel</catchphrase>
-<catchphrase "id=c2">application for declaration of infringement of patents in suit by respondent through manufacture and sale of "flexi-steel" roadside post</catchphrase>
-<catchphrase "id=c3">cross-claim for revocation of patents in suit as invalid</catchphrase>
-<catchphrase "id=c4">whether flexi-steel post elastically bendable through 90 degrees about a transverse axis transverse to its longitudinal axis so as to infringe patents in suit</catchphrase>
-<catchphrase "id=c5">whether patents in suit entitled to priority date of provisional specification</catchphrase>
-<catchphrase "id=c6">whether steel flex post a manner of manufacture so as to be a patentable invention</catchphrase>
-<catchphrase "id=c7">whether steel flex post novel in light of prior art</catchphrase>
-<catchphrase "id=c8">whether steel flex post varies from prior art in ways that make a substantial contribution to the working of the invention so as to involve an innovative step</catchphrase>
-<catchphrase "id=c9">requirements for innovative step</catchphrase>
-<catchphrase "id=c10">whether claims of patents in suit clear and succinct</catchphrase>
-<catchphrase "id=c11">whether certain claims of patents in suit fairly based on matters set out in specifications in suit</catchphrase>
-<catchphrase "id=c12">whether claims have utility</catchphrase>
-<catchphrase "id=c13">patents</catchphrase>
+<catchphrase id="c0">innovation patents</catchphrase>
+<catchphrase id="c1">patents in suit for "steel flex" roadside post comprised of flexible sheet spring steel</catchphrase>
+<catchphrase id="c2">application for declaration of infringement of patents in suit by respondent through manufacture and sale of "flexi-steel" roadside post</catchphrase>
+<catchphrase id="c3">cross-claim for revocation of patents in suit as invalid</catchphrase>
+<catchphrase id="c4">whether flexi-steel post elastically bendable through 90 degrees about a transverse axis transverse to its longitudinal axis so as to infringe patents in suit</catchphrase>
+<catchphrase id="c5">whether patents in suit entitled to priority date of provisional specification</catchphrase>
+<catchphrase id="c6">whether steel flex post a manner of manufacture so as to be a patentable invention</catchphrase>
+<catchphrase id="c7">whether steel flex post novel in light of prior art</catchphrase>
+<catchphrase id="c8">whether steel flex post varies from prior art in ways that make a substantial contribution to the working of the invention so as to involve an innovative step</catchphrase>
+<catchphrase id="c9">requirements for innovative step</catchphrase>
+<catchphrase id="c10">whether claims of patents in suit clear and succinct</catchphrase>
+<catchphrase id="c11">whether certain claims of patents in suit fairly based on matters set out in specifications in suit</catchphrase>
+<catchphrase id="c12">whether claims have utility</catchphrase>
+<catchphrase id="c13">patents</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -334,7 +334,7 @@ It is submitted that the language of s 7(2) and s 7(4) cannot be relevantly dist
 <sentence id="s214">The test for this inventive level should be a modified form of the expanded novelty test set out in Griffin v Isaacs.</sentence>
 <sentence id="s215">The test would be worded something along the lines of: an innovation patent should not be granted if the innovation is not novel; if an innovation varies from a previously publicly available article, product or process, only in ways which make no substantial contribution to the effect of the product or working of the article or process, then it cannot be considered to be novel.</sentence>
 <sentence id="s216">56 In its formal response to the ACIP report [Government response to the Recommendations of the Advisory Council on Industrial Property "review of the Petty Patent system"] the government nominally accepted this proposal and agreed "in principle" that the test be a modified form of the novelty test set out in Griffin v Isaacs (1938) 1B IPR 619 , although there were ultimately significant differences between the wording of s 7(4) and that proposed by ACIP.</sentence>
-<sentence id="s217">In Griffin, a novelty case, the High Court there found that whilst an item of prior art did not possess all of the integers of the claims of the patent in suit, still the invention was not novel [the so-called "doctrine" in Griffin v Isaacs was the subject of detailed consideration by Waddell J in Windsurfing International inc v Petit [1984] 2 NSWLR 545 at 564 and in the decisions of the Full Court of the Federal Court in RD Werner &amp; Co Inc v Bailey Aluminium Products Pty Ltd (1988) 25 FCR 565 and Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 16 IPR 545 at 564].</sentence>
+<sentence id="s217">In Griffin, a novelty case, the High Court there found that whilst an item of prior art did not possess all of the integers of the claims of the patent in suit, still the invention was not novel [the so-called "doctrine" in Griffin v Isaacs was the subject of detailed consideration by Waddell J in Windsurfing International inc v Petit [1984] 2 NSWLR 545 at 564 and in the decisions of the Full Court of the Federal Court in RD Werner &amp;amp; Co Inc v Bailey Aluminium Products Pty Ltd (1988) 25 FCR 565 and Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 16 IPR 545 at 564].</sentence>
 <sentence id="s218">Dixon CJ said (at 624):
  
  
@@ -355,7 +355,7 @@ It is submitted that the language of s 7(2) and s 7(4) cannot be relevantly dist
 <sentence id="s227">The passage from Dixon J has been set out above.</sentence>
 <sentence id="s228">McTiernan J said:
  Although the applicant's counsel made the best possible use of all formal differences between the opponents construction and the alleged invention, I do not think the latter is a manner of manufacture which is substantially different.</sentence>
-<sentence id="s229">58 That decision has been discussed at some length in later cases in this Court, starting with Dennison Manufacturing Co v Monarch Marking Systems Inc (1983) 66 ALR 265 per Fox J at 274 and Franki J at 284; then in RD Werner &amp; Co Inc v Bailey Aluminium Products Pty Ltd (1989) 25 FCR 565 per Lockhart J at 580---581 and 583, and Gummow J (with whom Jenkinson J agreed) at 589---591 and 601---602; and then in Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 91 ALR 513 per Lockhart J (indirectly) at 517 and Gummow J (indirectly) at 527---528 in dealing with novelty and workshop improvements.</sentence>
+<sentence id="s229">58 That decision has been discussed at some length in later cases in this Court, starting with Dennison Manufacturing Co v Monarch Marking Systems Inc (1983) 66 ALR 265 per Fox J at 274 and Franki J at 284; then in RD Werner &amp;amp; Co Inc v Bailey Aluminium Products Pty Ltd (1989) 25 FCR 565 per Lockhart J at 580---581 and 583, and Gummow J (with whom Jenkinson J agreed) at 589---591 and 601---602; and then in Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 91 ALR 513 per Lockhart J (indirectly) at 517 and Gummow J (indirectly) at 527---528 in dealing with novelty and workshop improvements.</sentence>
 <sentence id="s230">59 These discussions indicate that a wider view of lack of novelty was taken in the High Court prior to the Patents Act 1952 (Cth) than could properly be taken thereafter, at least in relation to appeals from the Commissioner.</sentence>
 <sentence id="s231">Be that as it may, the feature of what Dixon J said was the disjunctive nature of the concepts --- one was "make no substantial contribution to the working of the thing"; the other was "involve no ingenuity or inventive step".</sentence>
 <sentence id="s232">The first alternative has been taken by Parliament virtually verbatim from the judgment.</sentence>
@@ -471,7 +471,7 @@ Exhibit JSD1 was as follows:
 <sentence id="s332">The somewhat awkward statutory phrase is "information made publicly available ... through doing [an] act".</sentence>
 <sentence id="s333">Construed liberally, this could encompass giving the prototype to Mr Michael Turner.</sentence>
 <sentence id="s334">72 This topic was discussed by the Full Court recently in Insta Image Pty Ltd v KD Kanopy Australasia Pty Ltd [2008] FCAFC 139 , the principle being discussed at [121]---[125].</sentence>
-<sentence id="s335">Reference was made to the earlier discussion of the topic by the Full Court in Jupiters Ltd v Neurizon Pty Ltd [2005] FCAFC 90 , (2005) 222 ALR 155 , (2005) 65 IPR 86 and Merck &amp; Co Inc v Arrow Pharmaceuticals Ltd [2006] FCAFC 91 ; (2006) 154 FCR 31 , particularly at [98]---[103].</sentence>
+<sentence id="s335">Reference was made to the earlier discussion of the topic by the Full Court in Jupiters Ltd v Neurizon Pty Ltd [2005] FCAFC 90 , (2005) 222 ALR 155 , (2005) 65 IPR 86 and Merck &amp;amp; Co Inc v Arrow Pharmaceuticals Ltd [2006] FCAFC 91 ; (2006) 154 FCR 31 , particularly at [98]---[103].</sentence>
 <sentence id="s336">73 The present case is not like Jupiters [2005] FCAFC 90 , 222 ALR 155 , 65 IPR 86 , where the system was operating in what amounted to a public place and could be observed.</sentence>
 <sentence id="s337">In my view, the evidence does not enable any such finding to be made here.</sentence>
 <sentence id="s338">Even if it was left around the factory, nobody was invited to look at it and nobody would have had any occasion to take any notice of it.</sentence>
@@ -550,7 +550,7 @@ Exhibit JSD1 was as follows:
 <sentence id="s406">It is contended for Dura-Post that there is a real and reasonably clear disclosure in the specification of a roadside post that will avoid the adverse consequences of creasing in the event of a wheel over.</sentence>
 <sentence id="s407">It is said that this will occur only where the post is used with a recess, but the roadside post claims contain no limitation that reflects the nature of the invention as disclosed and described in the body of the specification.</sentence>
 <sentence id="s408">It is submitted that the invention disclosed in the body of the specification is truly a use of a method of using a spring steel post in conjunction with a recess but that the claims are not so limited and are, therefore, not fairly based upon the specification.</sentence>
-<sentence id="s409">Reference was made to Pfizer Overseas Pharmaceuticals v Eli Lilly &amp; Co [2005] FCAFC 224 , (2005) 225 ALR 416 , (2005) 68 IPR 1 at [268] and following; Atlantis Corp Pty Ltd v Schindler (1997) 39 IPR 29 , discussed by the High Court in Lockwood Security Products Pty Ltd [2004] HCA 58 ; 217 CLR 274 at [87] .</sentence>
+<sentence id="s409">Reference was made to Pfizer Overseas Pharmaceuticals v Eli Lilly &amp;amp; Co [2005] FCAFC 224 , (2005) 225 ALR 416 , (2005) 68 IPR 1 at [268] and following; Atlantis Corp Pty Ltd v Schindler (1997) 39 IPR 29 , discussed by the High Court in Lockwood Security Products Pty Ltd [2004] HCA 58 ; 217 CLR 274 at [87] .</sentence>
 <sentence id="s410">86 I do not agree that the authorities cited lead to the conclusion sought to be drawn.</sentence>
 <sentence id="s411">The specification does not suggest that the roadside posts described could only be used if there was a recess.</sentence>
 <sentence id="s412">Short of that there is no reason why there should not be separate claims for the articles.</sentence>
@@ -587,7 +587,7 @@ Dated: 13 August 2008
 
  Counsel for the Applicant/ Cross-Respondent: Mr R Cobden SC, Mr C Dimitriadis 
  
- Counsel for the Applicant/ Cross-Respondent: Spruson &amp; Ferguson Lawyers 
+ Counsel for the Applicant/ Cross-Respondent: Spruson &amp;amp; Ferguson Lawyers 
  
  Counsel for the Respondent/ Cross-Claimant: Mr SCG Burley SC, Ms P Arcus 
  

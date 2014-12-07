@@ -3,14 +3,14 @@
 <name>Different Solutions Pty Limited v Commissioner, Australian Federal Police (No 2) [2008] FCA 1686 (14 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1686.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">search warrants</catchphrase>
-<catchphrase "id=c1">judicial review of issue of</catchphrase>
-<catchphrase "id=c2">construction of warrants</catchphrase>
-<catchphrase "id=c3">whether a broad approach should be taken toward the requirement that a warrant contain a sufficient indication of the offence by reference to which it authorises seizure of particular things</catchphrase>
-<catchphrase "id=c4">what matters a warrant should disclose</catchphrase>
-<catchphrase "id=c5">whether a search warrant should be 'read fairly, and not perversely' practice and procedure</catchphrase>
-<catchphrase "id=c6">court's discretion to refuse declaratory and injunctive relief in respect of the use of material said to fall outside the reach of a valid search warrant</catchphrase>
-<catchphrase "id=c7">criminal law</catchphrase>
+<catchphrase id="c0">search warrants</catchphrase>
+<catchphrase id="c1">judicial review of issue of</catchphrase>
+<catchphrase id="c2">construction of warrants</catchphrase>
+<catchphrase id="c3">whether a broad approach should be taken toward the requirement that a warrant contain a sufficient indication of the offence by reference to which it authorises seizure of particular things</catchphrase>
+<catchphrase id="c4">what matters a warrant should disclose</catchphrase>
+<catchphrase id="c5">whether a search warrant should be 'read fairly, and not perversely' practice and procedure</catchphrase>
+<catchphrase id="c6">court's discretion to refuse declaratory and injunctive relief in respect of the use of material said to fall outside the reach of a valid search warrant</catchphrase>
+<catchphrase id="c7">criminal law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -62,7 +62,7 @@
 <sentence id="s19">The primary difference related to the identification of the premises at which the searches were to be undertaken.</sentence>
 <sentence id="s20">In one case the search warrant related to the home of the second and third applicants at 2 Silex Road, Mosman, NSW ('Mosman').</sentence>
 <sentence id="s21">In the other case the relevant premises were those of the first applicant at 119/26-32 Pirrama Road, Pyrmont NSW ('Pyrmont').</sentence>
-<sentence id="s22">The other difference was, perhaps as a result of an inadvertent oversight, that in the Pyrmont warrant the names '&#8226; Linda DANIEL' and '&#8226; PKF Vanuatu' were included (twice), after the name '&#8226; Lynda MEEK', under the heading 'SECOND CONDITION', whereas in the Mosman warrant these two names did not appear at all.</sentence>
+<sentence id="s22">The other difference was, perhaps as a result of an inadvertent oversight, that in the Pyrmont warrant the names '&amp;#8226; Linda DANIEL' and '&amp;#8226; PKF Vanuatu' were included (twice), after the name '&amp;#8226; Lynda MEEK', under the heading 'SECOND CONDITION', whereas in the Mosman warrant these two names did not appear at all.</sentence>
 <sentence id="s23">One suspects that the two pages bearing the number '3' in the search warrants became transposed at some stage.</sentence>
 <sentence id="s24">There is no issue in these proceeding as to whether the transposition, if there was one, occurred before or after the warrants were issued.</sentence>
 <sentence id="s25">9 It is common ground that, at all material times, the second applicant, who is the wife of the third applicant, was the sole director and shareholder of the first applicant, although the first respondent has reserved the right to argue that the third applicant was in fact a shadow director of the first applicant.</sentence>
@@ -91,46 +91,46 @@ Including all rooms, safes, storerooms, storage areas and parking spaces, to whi
 
  
  
- &#8226; Travel documents
- &#8226; Australian or foreign passports
- &#8226; Photographs
- &#8226; Address and phone number record
- &#8226; Banking records and account opening authorities
- &#8226; Bank statements
- &#8226; Cheque records, including statements, butts and reconciliations
- &#8226; Correspondence, letters, facsimiles, telegrams
- &#8226; Deposit and Withdrawal records for bank accounts
- &#8226; Diary entries
- &#8226; EFTPOS records and reports
- &#8226; Employment records
- &#8226; Handwritten notes
- &#8226; Motor vehicle ownership/registration records
- &#8226; Motor vessel ownership/registration records
- &#8226; Invoices
- &#8226; Receipts/tax invoices
- &#8226; Signatory records and authorisations
- &#8226; Statements and records relating to bank account/s
- &#8226; Company Taxation Return records
- &#8226; Company Taxation Return working papers
- &#8226; Individual Taxation Return working papers
- &#8226; Individual Taxation Return records
- &#8226; Telephone records, including email, landline and mobile phone services
- &#8226; Export records including freight documents 
- &#8226; Import records
- &#8226; Activity Statement forms
- &#8226; Activity Statement working papers
- &#8226; Accounting documents and working papers
- &#8226; Contracts and Agreements
- &#8226; ASIC documents --- Registration documents and correspondence
- &#8226; Company documents--- Articles and Memorandum of Association
- &#8226; Financial Institution Loan correspondence --- loans and lines of credit
- &#8226; Non Financial Institution loan documentation
- &#8226; Non Financial Institution correspondence
- &#8226; Telegraphic transfer documents
- &#8226; Sales records --- local and foreign
- &#8226; Proof of identity documents
- &#8226; Drivers license, credit cards, bank cards
- &#8226; Business Consultant and Agent correspondence 
+ &amp;#8226; Travel documents
+ &amp;#8226; Australian or foreign passports
+ &amp;#8226; Photographs
+ &amp;#8226; Address and phone number record
+ &amp;#8226; Banking records and account opening authorities
+ &amp;#8226; Bank statements
+ &amp;#8226; Cheque records, including statements, butts and reconciliations
+ &amp;#8226; Correspondence, letters, facsimiles, telegrams
+ &amp;#8226; Deposit and Withdrawal records for bank accounts
+ &amp;#8226; Diary entries
+ &amp;#8226; EFTPOS records and reports
+ &amp;#8226; Employment records
+ &amp;#8226; Handwritten notes
+ &amp;#8226; Motor vehicle ownership/registration records
+ &amp;#8226; Motor vessel ownership/registration records
+ &amp;#8226; Invoices
+ &amp;#8226; Receipts/tax invoices
+ &amp;#8226; Signatory records and authorisations
+ &amp;#8226; Statements and records relating to bank account/s
+ &amp;#8226; Company Taxation Return records
+ &amp;#8226; Company Taxation Return working papers
+ &amp;#8226; Individual Taxation Return working papers
+ &amp;#8226; Individual Taxation Return records
+ &amp;#8226; Telephone records, including email, landline and mobile phone services
+ &amp;#8226; Export records including freight documents 
+ &amp;#8226; Import records
+ &amp;#8226; Activity Statement forms
+ &amp;#8226; Activity Statement working papers
+ &amp;#8226; Accounting documents and working papers
+ &amp;#8226; Contracts and Agreements
+ &amp;#8226; ASIC documents --- Registration documents and correspondence
+ &amp;#8226; Company documents--- Articles and Memorandum of Association
+ &amp;#8226; Financial Institution Loan correspondence --- loans and lines of credit
+ &amp;#8226; Non Financial Institution loan documentation
+ &amp;#8226; Non Financial Institution correspondence
+ &amp;#8226; Telegraphic transfer documents
+ &amp;#8226; Sales records --- local and foreign
+ &amp;#8226; Proof of identity documents
+ &amp;#8226; Drivers license, credit cards, bank cards
+ &amp;#8226; Business Consultant and Agent correspondence 
  
 
 
@@ -140,32 +140,32 @@ Including all rooms, safes, storerooms, storage areas and parking spaces, to whi
 
  
  
- &#8226; Owen T Daniel &amp; Co Chartered Accountants
- &#8226; Owen T Daniel &amp; Co
- &#8226; Owen Trevor DANIEL
- &#8226; Deborah Judith JANDAGI
- &#8226; Kevin ZERAFA
- &#8226; Carol ABIBADRA
- &#8226; Lynda MEEK
- &#8226; Billbury Limited
- &#8226; Uniton Limited
- &#8226; Security Life Nominees Limited
- &#8226; Biltmore Insurance Co Limited
- &#8226; International Finance Trust Company
- &#8226; Edgecumbe Finance Limited
- &#8226; Ashmore Finance &amp; Investment Pty Limited (New Zealand company)
- &#8226; Astolabe Limited (Vanuatu company)
- &#8226; Centurion Technology &amp; Marketing Incorporated (United States of America company)
- &#8226; International Finance Trust Company Limited (IFTCO)(Vanuatu company)
- &#8226; Different Solutions Pty Limited
- &#8226; Andrew D MATTINGLY
- &#8226; Andrew David MATTINGLY
- &#8226; Clarissa Elizabeth MATTINGLY
- &#8226; Andrew Karl DAVIS
- &#8226; ANZ
- &#8226; Westpac Bank
- &#8226; Goose's Bridal Limited (Vanuatu company)
- &#8226; Hercar Pty Limited 
+ &amp;#8226; Owen T Daniel &amp;amp; Co Chartered Accountants
+ &amp;#8226; Owen T Daniel &amp;amp; Co
+ &amp;#8226; Owen Trevor DANIEL
+ &amp;#8226; Deborah Judith JANDAGI
+ &amp;#8226; Kevin ZERAFA
+ &amp;#8226; Carol ABIBADRA
+ &amp;#8226; Lynda MEEK
+ &amp;#8226; Billbury Limited
+ &amp;#8226; Uniton Limited
+ &amp;#8226; Security Life Nominees Limited
+ &amp;#8226; Biltmore Insurance Co Limited
+ &amp;#8226; International Finance Trust Company
+ &amp;#8226; Edgecumbe Finance Limited
+ &amp;#8226; Ashmore Finance &amp;amp; Investment Pty Limited (New Zealand company)
+ &amp;#8226; Astolabe Limited (Vanuatu company)
+ &amp;#8226; Centurion Technology &amp;amp; Marketing Incorporated (United States of America company)
+ &amp;#8226; International Finance Trust Company Limited (IFTCO)(Vanuatu company)
+ &amp;#8226; Different Solutions Pty Limited
+ &amp;#8226; Andrew D MATTINGLY
+ &amp;#8226; Andrew David MATTINGLY
+ &amp;#8226; Clarissa Elizabeth MATTINGLY
+ &amp;#8226; Andrew Karl DAVIS
+ &amp;#8226; ANZ
+ &amp;#8226; Westpac Bank
+ &amp;#8226; Goose's Bridal Limited (Vanuatu company)
+ &amp;#8226; Hercar Pty Limited 
  
 
 
@@ -186,25 +186,25 @@ That between about 5 May 2004 and 30 July 2007, Clarissa Elizabeth MATTINLGY (si
 
  
  
- &#8226; enter the premises described above; 
+ &amp;#8226; enter the premises described above; 
  
 
 
  
  
- &#8226; search for and record fingerprints found at the premises and to take samples of things found at the premises for forensic purposes; 
+ &amp;#8226; search for and record fingerprints found at the premises and to take samples of things found at the premises for forensic purposes; 
  
 
 
  
  
- &#8226; search the premises for any evidential material that satisfies ALL of the THREE conditions specified above and seize any such evidential material that may be found; 
+ &amp;#8226; search the premises for any evidential material that satisfies ALL of the THREE conditions specified above and seize any such evidential material that may be found; 
  
 
 
  
  
- &#8226; seize any other things found at the premises in the course of the search that the executing officer or the constable assisting believes on reasonable grounds to be: 
+ &amp;#8226; seize any other things found at the premises in the course of the search that the executing officer or the constable assisting believes on reasonable grounds to be: 
  
 
 
@@ -224,7 +224,7 @@ That between about 5 May 2004 and 30 July 2007, Clarissa Elizabeth MATTINLGY (si
 
  
  
- &#8226; seize any other thing found at the premises in the course of the search that the executing officer or the constable assisting believes on reasonable grounds to be a seizable item, in that it is a thing that would present a danger to a person or that could be used to assist a person to escape from lawful custody.</sentence>
+ &amp;#8226; seize any other thing found at the premises in the course of the search that the executing officer or the constable assisting believes on reasonable grounds to be a seizable item, in that it is a thing that would present a danger to a person or that could be used to assist a person to escape from lawful custody.</sentence>
 <sentence id="s33">
  
 
@@ -238,19 +238,19 @@ That between about 5 May 2004 and 30 July 2007, Clarissa Elizabeth MATTINLGY (si
 
  
  
- &#8226; the executing officer may obtain such assistance as is necessary and reasonable in the circumstances; 
+ &amp;#8226; the executing officer may obtain such assistance as is necessary and reasonable in the circumstances; 
  
 
 
  
  
- &#8226; the executing officer, and any constable assisting in the execution of this warrant who is a police officer, may use such force against persons or things as is necessary and reasonable in the circumstances; and 
+ &amp;#8226; the executing officer, and any constable assisting in the execution of this warrant who is a police officer, may use such force against persons or things as is necessary and reasonable in the circumstances; and 
  
 
 
  
  
- &#8226; any person who has been authorised by the executing officer to assist in the execution of this warrant, but who is not a police officer, may use such force against things as is necessary and reasonable in the circumstances; 
+ &amp;#8226; any person who has been authorised by the executing officer to assist in the execution of this warrant, but who is not a police officer, may use such force against things as is necessary and reasonable in the circumstances; 
  
 
 
@@ -270,7 +270,7 @@ The offences to which this warrant relates are those specified above in the thir
  THIS WARRANT MAY BE EXECUTED BETWEEN THE HOURS OF 6.00 am AND 9.00pm; 
 
  
-&#8226; THE TIME AT WHICH THIS WARRANT EXPIRES IS MIDNIGHT AT THE END OF THE SEVENTH DAY AFTER THE DAY ON WHICH THE WARRANT IS ISSUED.</sentence>
+&amp;#8226; THE TIME AT WHICH THIS WARRANT EXPIRES IS MIDNIGHT AT THE END OF THE SEVENTH DAY AFTER THE DAY ON WHICH THE WARRANT IS ISSUED.</sentence>
 <sentence id="s39">
 
 
@@ -416,7 +416,7 @@ In the same subsection ' instrument of crime ' was defined as follows:
 26 The property seized at Mosman on 31 July 2007 was detailed on a number of 'PROPERTY SEIZURE RECORD' forms bearing serial nos.</sentence>
 <sentence id="s75">A094427, A094428, A094429, A094431, A094432 and A094433.</sentence>
 <sentence id="s76">27 The property apparently included originals or copies of letters, invoices, bank statements, financial accounts, tax records, corporate records, mobile telephone account records, credit cards and other documents along with two IBM Thinkpad laptop computers and a 'Seagate 250gb hard drive S/N SNDOT954' taken from the inside of a Dell Mini Tower P/C located on a desk in an upstairs office at Mosman.</sentence>
-<sentence id="s77">28 The documents included some in which Edgecumbe Finance Ltd, Centurian Technology &amp; Marketing Inc, International Finance Trust Company Ltd and/or Owen T Daniel &amp; Co were mentioned, along with the first applicant and/or the second applicant and/or the third applicant.</sentence>
+<sentence id="s77">28 The documents included some in which Edgecumbe Finance Ltd, Centurian Technology &amp;amp; Marketing Inc, International Finance Trust Company Ltd and/or Owen T Daniel &amp;amp; Co were mentioned, along with the first applicant and/or the second applicant and/or the third applicant.</sentence>
 <sentence id="s78">29 At or about 9.07am on 31 July 2007 Federal Agents Sperling and Rebecca Miller spoke with the second applicant.</sentence>
 <sentence id="s79">In the course of that conversation, the following exchange took place:
  
@@ -500,7 +500,7 @@ In the same subsection ' instrument of crime ' was defined as follows:
  Thereupon Mr Banach seized the Seagate hard drive, handed it to Federal Agent Gordon and proceeded to return to the Sydney headquarters of the Australian Federal Police.</sentence>
 <sentence id="s120">41 During the course of the execution of the Mosman warrant on 31 July 2007 Federal Agent Rebecca Miller had a conversation with Mr Banach the detail of which she cannot now recall.</sentence>
 <sentence id="s121">She did, however, form the belief that the computers which had been identified by the second applicant as being in the upstairs study might contain evidentiary material.</sentence>
-<sentence id="s122">She had previously seen emails and other electronically created documents which had been seized following the execution of a search warrant conducted on the premises of Owen T Daniel &amp; Co which:
+<sentence id="s122">She had previously seen emails and other electronically created documents which had been seized following the execution of a search warrant conducted on the premises of Owen T Daniel &amp;amp; Co which:
  '42.1.1 were apparently to and received from Mrs Mattingly 42.1.2 referred to an 'Andrew', who I believed to be Mr Mattingly [the third applicant].</sentence>
 <sentence id="s123">42.1.3 used the subject line of 'Centurion', which is one of the target bank accounts used in the round robin scheme of Operation Starlifter and is listed as an entity in the second condition of the warrant; 42.1.4 included Profit and Loss statements which had apparently been produced using a computer; 42.1.5 itemised memoranda of Professional service fees from companies such as Edgecumbe and PKF or other entities listed in the second condition of the warrant which appeared to charge fees for the transmission of emails;' 
 42 Federal Agent Miller's evidence also included the following:
@@ -528,7 +528,7 @@ In the same subsection ' instrument of crime ' was defined as follows:
 44 After having the conversation with Federal Agent Fox in which those words were spoken Mr Banach had the belief that the Dell PC (i.e.</sentence>
 <sentence id="s130">the Seagate hard drive (item (a))) and the Western Digital hard drive referred to in item (b) would contain relevant evidence which fitted the three conditions of the Mosman search warrant.</sentence>
 <sentence id="s131">45 On 30 July 2007 Federal Agent Fox had attended an operational briefing conducted by Federal Agents Miller and Phun.</sentence>
-<sentence id="s132">Information was provided to those present which suggested that the applicants were involved in a round-robin transaction scheme which was being investigated as part of 'Operation Starlifter' which itself involved an investigation into the chartered accounting firm known as Owen T Daniel &amp; Co and 19 of that firm's clients.</sentence>
+<sentence id="s132">Information was provided to those present which suggested that the applicants were involved in a round-robin transaction scheme which was being investigated as part of 'Operation Starlifter' which itself involved an investigation into the chartered accounting firm known as Owen T Daniel &amp;amp; Co and 19 of that firm's clients.</sentence>
 <sentence id="s133">46 Federal Agent Fox instructed Mr Banach to image the relevant hard drives as he held the belief that evidential material would be contained on the drives of the computers.</sentence>
 <sentence id="s134">His reasons for holding such a belief were stated as follows:
  
@@ -540,7 +540,7 @@ In the same subsection ' instrument of crime ' was defined as follows:
  
  
  
- (a) that email correspondence between OTD [Owen T Daniel &amp; Co] and Clarissa Mattingly [the second applicant] , of Different Solutions [the first applicant] , had been seized in hardcopy form during the search warrant executed on the premises of OTD; and 
+ (a) that email correspondence between OTD [Owen T Daniel &amp;amp; Co] and Clarissa Mattingly [the second applicant] , of Different Solutions [the first applicant] , had been seized in hardcopy form during the search warrant executed on the premises of OTD; and 
  
  (b) that the email correspondence between OTD and Clarissa Mattingly seized during the search warrant executed on the premises of OTD included communications regarding the transactions and entities being investigated as part of Operation Starlifter.</sentence>
 <sentence id="s135">' 
@@ -586,7 +586,7 @@ In the same subsection ' instrument of crime ' was defined as follows:
 <sentence id="s160">He formed the view that they had previously been part of the network connected via the Dell server but had since been 'retired'.</sentence>
 <sentence id="s161">62 On the basis that computer equipment is generally 'retired' every three years, Mr Bruce formed the belief that the two Hewlett Packard E-Vectras (item (e)) would have been part of the office network associated with the Dell server in the time period covered by the third condition of the Pyrmont search warrant.</sentence>
 <sentence id="s162">He considered that it would not be practicable to copy the two Hewlett Packard E-Vectras at the Pyrmont premises because they were likely to contain old and deleted data, the search and recovery of which, for the purposes of copying, was considered to be a complicated and slow process.</sentence>
-<sentence id="s163">63 Mr Bruce's involvement in Operation Starlifter was such that he had an understanding that it was targeting Owen T Daniel &amp; Co Chartered Accountants and 19 of that firm's clients in relation to tax fraud.</sentence>
+<sentence id="s163">63 Mr Bruce's involvement in Operation Starlifter was such that he had an understanding that it was targeting Owen T Daniel &amp;amp; Co Chartered Accountants and 19 of that firm's clients in relation to tax fraud.</sentence>
 <sentence id="s164">64 Federal Agent Serrano had a similar understanding in respect of Operation Starlifter.</sentence>
 <sentence id="s165">He attended a briefing on 30 July 2007 in relation to the first applicant's apparent involvement.</sentence>
 <sentence id="s166">65 During the course of the morning on 31 July 2007 Federal Agent Serrano conducted an interview with Michelle Forrester, the first applicant's Financial Services Officer.</sentence>
@@ -656,8 +656,8 @@ Later an A4 sized spiral detached page containing handwriting was shown to Ms Fo
 <sentence id="s199">1.2 Background The Australian Taxation Office has been looking into scheme activity involving Australian residents and foreign tax havens.</sentence>
 <sentence id="s200">A primary focus has been the country of Vanuatu.</sentence>
 <sentence id="s201">It is a low tax jurisdiction and Australia does not have a double tax agreement with this country.</sentence>
-<sentence id="s202">The ATO identified what appeared to be 'round robin' transactions involving 19 taxpayers who were all clients of the one tax agent, Owen T Daniel &amp; Co, located at 30 Burwood Road, Burwood NSW.</sentence>
-<sentence id="s203">Audits have been conducted on three taxpayers who were clients of Owen T Daniel &amp; Co.</sentence>
+<sentence id="s202">The ATO identified what appeared to be 'round robin' transactions involving 19 taxpayers who were all clients of the one tax agent, Owen T Daniel &amp;amp; Co, located at 30 Burwood Road, Burwood NSW.</sentence>
+<sentence id="s203">Audits have been conducted on three taxpayers who were clients of Owen T Daniel &amp;amp; Co.</sentence>
 <sentence id="s204">It was identified that all of the foreign companies involved in the round robin were owned or controlled by Robert Francis AGIUS.</sentence>
 <sentence id="s205">He is an ex-pat Australian now resident in Vanuatu.</sentence>
 <sentence id="s206">He is a partner of the accounting firm PKF Vanuatu.</sentence>

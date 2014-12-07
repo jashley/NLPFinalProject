@@ -3,11 +3,11 @@
 <name>Sydney Ferries Corporation v Australian Maritime Officers Union (No 3) [2008] FCA 960 (25 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/960.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by sydney ferries corporation (' sfc ') for interlocutory relief withdrawn before hearing</catchphrase>
-<catchphrase "id=c1">subsequent anti-suit injunctions granted against sfc</catchphrase>
-<catchphrase "id=c2">whether the application was instituted ' vexatiously or without reasonable cause ' for the purposes of the workplace relations act 1996 (cth)</catchphrase>
-<catchphrase "id=c3">whether sfc ' by an unreasonable act or omission ' caused another party to incur costs in connection with the proceeding</catchphrase>
-<catchphrase "id=c4">costs</catchphrase>
+<catchphrase id="c0">application by sydney ferries corporation (' sfc ') for interlocutory relief withdrawn before hearing</catchphrase>
+<catchphrase id="c1">subsequent anti-suit injunctions granted against sfc</catchphrase>
+<catchphrase id="c2">whether the application was instituted ' vexatiously or without reasonable cause ' for the purposes of the workplace relations act 1996 (cth)</catchphrase>
+<catchphrase id="c3">whether sfc ' by an unreasonable act or omission ' caused another party to incur costs in connection with the proceeding</catchphrase>
+<catchphrase id="c4">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -23,9 +23,9 @@
 <sentence id="s7">4 Each of the respondents now seeks costs orders against SFC in relation to the interlocutory proceedings:
  
  
- &#8226; AMOU submits that SFC should be ordered to pay AMOU's costs of SFC's application for interlocutory relief and AMOU's motion for an anti-suit injunction;
- &#8226; The second respondents make a similar submission in relation to their costs of both the application and the motion; and
- &#8226; AIMPE submits that SFC should pay AIMPE's costs of SFC's application for interlocutory relief.</sentence>
+ &amp;#8226; AMOU submits that SFC should be ordered to pay AMOU's costs of SFC's application for interlocutory relief and AMOU's motion for an anti-suit injunction;
+ &amp;#8226; The second respondents make a similar submission in relation to their costs of both the application and the motion; and
+ &amp;#8226; AIMPE submits that SFC should pay AIMPE's costs of SFC's application for interlocutory relief.</sentence>
 <sentence id="s8">
  
  LEGISLATION 
@@ -54,8 +54,8 @@
 <sentence id="s15">7 It follows that the respondents cannot obtain the costs orders they seek unless:
  
  
- &#8226; SFC instituted the proceeding ' vexatiously or without reasonable cause ' (s 824(1)); or
- &#8226; SFC, ' by an unreasonable act or omission ', has caused another party to the proceeding to incur costs in connection with the proceeding (s 824(2)).</sentence>
+ &amp;#8226; SFC instituted the proceeding ' vexatiously or without reasonable cause ' (s 824(1)); or
+ &amp;#8226; SFC, ' by an unreasonable act or omission ', has caused another party to the proceeding to incur costs in connection with the proceeding (s 824(2)).</sentence>
 <sentence id="s16">
  
  SUBMISSIONS 

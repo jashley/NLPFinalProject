@@ -3,15 +3,15 @@
 <name>Travaglini v Spencer [2008] FCA 1618 (31 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1618.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">claim that property transferred under value should be void as against the trustee in bankruptcy</catchphrase>
-<catchphrase "id=c1">motion for dismissal</catchphrase>
-<catchphrase "id=c2">transferor was not the subsequent bankrupt but an entity allegedly acting on his instruction and direction</catchphrase>
-<catchphrase "id=c3">property said to be held on bare trust on behalf of the bankrupt</catchphrase>
-<catchphrase "id=c4">whether trustee or agent</catchphrase>
-<catchphrase "id=c5">novel point</catchphrase>
-<catchphrase "id=c6">not obviously without reasonable prospects</catchphrase>
-<catchphrase "id=c7">not dismissed</catchphrase>
-<catchphrase "id=c8">bankruptcy and insolvency</catchphrase>
+<catchphrase id="c0">claim that property transferred under value should be void as against the trustee in bankruptcy</catchphrase>
+<catchphrase id="c1">motion for dismissal</catchphrase>
+<catchphrase id="c2">transferor was not the subsequent bankrupt but an entity allegedly acting on his instruction and direction</catchphrase>
+<catchphrase id="c3">property said to be held on bare trust on behalf of the bankrupt</catchphrase>
+<catchphrase id="c4">whether trustee or agent</catchphrase>
+<catchphrase id="c5">novel point</catchphrase>
+<catchphrase id="c6">not obviously without reasonable prospects</catchphrase>
+<catchphrase id="c7">not dismissed</catchphrase>
+<catchphrase id="c8">bankruptcy and insolvency</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -80,28 +80,28 @@
  
 7 The relevant pleaded facts and contentions as against these respondents are that:
  
-&#8226; at all relevant times until 2 January 2002, the registered owner of the property was Ladell Pty Ltd (Ladell).</sentence>
+&amp;#8226; at all relevant times until 2 January 2002, the registered owner of the property was Ladell Pty Ltd (Ladell).</sentence>
 <sentence id="s17">Thereafter the registered proprietor of the property was Mr Spencer;
  
-&#8226; the bankrupt was director and secretary of Ladell;
+&amp;#8226; the bankrupt was director and secretary of Ladell;
  
-&#8226; on or about 1 July 1999, Ladell granted an initial charge called the 'Ladell Charge' to these respondents;
+&amp;#8226; on or about 1 July 1999, Ladell granted an initial charge called the 'Ladell Charge' to these respondents;
  
-&#8226; in or about July 2001, the bankrupt entered into a so-called oral 'Front Man Agreement' with Mr Spencer.</sentence>
+&amp;#8226; in or about July 2001, the bankrupt entered into a so-called oral 'Front Man Agreement' with Mr Spencer.</sentence>
 <sentence id="s18">Under this agreement the bankrupt agreed that Mr Spencer was to acquire the property and to hold it for the bankrupt;
  
-&#8226; by a deed dated 6 July 2001 signed by Mr Spencer and by the bankrupt on behalf of Ladell as agent for the bankrupt's son, Antonio Raccuia, the third respondent (Antonio), the purported Antonio Trust was created;
+&amp;#8226; by a deed dated 6 July 2001 signed by Mr Spencer and by the bankrupt on behalf of Ladell as agent for the bankrupt's son, Antonio Raccuia, the third respondent (Antonio), the purported Antonio Trust was created;
  
-&#8226; under the Antonio Trust, Mr Spencer would hold the property on trust for Antonio and further, Mr Spencer would not deal with the property in any way without consulting Antonio or his agent, Ladell;
+&amp;#8226; under the Antonio Trust, Mr Spencer would hold the property on trust for Antonio and further, Mr Spencer would not deal with the property in any way without consulting Antonio or his agent, Ladell;
  
-&#8226; in or around August or September 2001, Mr Spencer acting on instructions and under the direction of the bankrupt entered into an agreement (the Paterson Agreement) with the fifth, sixth and seventh respondents.</sentence>
+&amp;#8226; in or around August or September 2001, Mr Spencer acting on instructions and under the direction of the bankrupt entered into an agreement (the Paterson Agreement) with the fifth, sixth and seventh respondents.</sentence>
 <sentence id="s19">Under this agreement, these respondents agreed to withdraw a caveat over the property in consideration of the bankrupt, Mr Spencer, Ladell and another entity entering a deed (the 'Paterson Deed');
  
-&#8226; on or about 29 October 2001, these respondents as lender, Mr Spencer as borrower and each of the bankrupt, Ladell and another corporation as guarantors entered into a deed known as the Paterson Deed.</sentence>
+&amp;#8226; on or about 29 October 2001, these respondents as lender, Mr Spencer as borrower and each of the bankrupt, Ladell and another corporation as guarantors entered into a deed known as the Paterson Deed.</sentence>
 <sentence id="s20">The effect of that Deed was that Mr Spencer acknowledged that he was indebted to these respondents in the principal sum of $100,000 plus interest.</sentence>
 <sentence id="s21">He granted to them a charge known as the Paterson Charge over the property in order to secure the debt; and
  
-&#8226; at all times Mr Spencer held the property on trust for and on behalf of the bankrupt.</sentence>
+&amp;#8226; at all times Mr Spencer held the property on trust for and on behalf of the bankrupt.</sentence>
 <sentence id="s22">8 Essentially the arguments of these respondents is that given that it is pleaded that Ladell and thereafter Mr Spencer were the registered proprietors of the property, there is no basis on which it can be alleged that the bankrupt (as opposed to Ladell or Mr Spencer) transferred the property, that is, by creating the Paterson Charge.</sentence>
 <sentence id="s23">For the purposes of the argument, it is accepted that the bankrupt controlled Ladell so while no issue is taken for present purposes concerning the bankrupt's control of Ladell, the question is how Mr Spencer as registered proprietor at the relevant time could effect a transfer by the bankrupt.</sentence>
 <sentence id="s24">The argument raised is that even assuming for present purposes the correctness of this assertion, there is no basis at law upon which the bankrupt as beneficial owner of the property (under a bare trust) actually 'did something' that 'results' in the charge over that property within the meaning of s 120(7)(b) BA.</sentence>
@@ -161,7 +161,7 @@ Dated: 31 October 2008
  
  Counsel for the 5 th , 6 th and 7 th Respondents: MD Cuerden 
  
- Solicitor for the 5 th , 6 th and 7 th Respondents: Michael Paterson &amp; Associates 
+ Solicitor for the 5 th , 6 th and 7 th Respondents: Michael Paterson &amp;amp; Associates 
 
  Date of Hearing: 16 October 2008 
  

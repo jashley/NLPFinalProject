@@ -3,14 +3,14 @@
 <name>Elliot v Secretary, Department of Education, Employment and Workplace Relations [2008] FCA 1293 (20 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1293.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">beneficiaries under a testamentary life discretionary trust</catchphrase>
-<catchphrase "id=c1">whether controlled private trust</catchphrase>
-<catchphrase "id=c2">whether rights of objects of the trust constitute "beneficial interests in the corpus or income of the trust" under par 1207v(2)(d) of the social security act 1991 (cth)</catchphrase>
-<catchphrase "id=c3">whether aggregation possible</catchphrase>
-<catchphrase "id=c4">control test not passed</catchphrase>
-<catchphrase "id=c5">no attribution of assets of the trust to the individual</catchphrase>
-<catchphrase "id=c6">decision of the administrative appeals tribunal set aside</catchphrase>
-<catchphrase "id=c7">social security</catchphrase>
+<catchphrase id="c0">beneficiaries under a testamentary life discretionary trust</catchphrase>
+<catchphrase id="c1">whether controlled private trust</catchphrase>
+<catchphrase id="c2">whether rights of objects of the trust constitute "beneficial interests in the corpus or income of the trust" under par 1207v(2)(d) of the social security act 1991 (cth)</catchphrase>
+<catchphrase id="c3">whether aggregation possible</catchphrase>
+<catchphrase id="c4">control test not passed</catchphrase>
+<catchphrase id="c5">no attribution of assets of the trust to the individual</catchphrase>
+<catchphrase id="c6">decision of the administrative appeals tribunal set aside</catchphrase>
+<catchphrase id="c7">social security</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -66,7 +66,7 @@
 <sentence id="s37">9 The reasoning of the Tribunal appears in the following two paragraphs:
  
  The [Elliotts] say they do not fit within s 1207V(2)(d) because --- as beneficiaries under a discretionary trust --- they do not have any beneficial interest in the income or corpus of the trust.</sentence>
-<sentence id="s38">They referred to a number of authorities for this proposition, including Commissioner of Stamp Duties (NSW) v Buckle [1998] HCA 4 ; (1998) 192 CLR 226 and Gartside v Inland Revenue Commissioners [1967] UKHL 6 ; [1968] AC 553 ; see also R &amp; I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1992) 10 WAR 59 at 79 per Owen J and Australian Securities Investments Commission; In the matter of Richstar Enterprises Pty Ltd v Carey (No 6) [2006] FCA 814 at para 28 per French J.</sentence>
+<sentence id="s38">They referred to a number of authorities for this proposition, including Commissioner of Stamp Duties (NSW) v Buckle [1998] HCA 4 ; (1998) 192 CLR 226 and Gartside v Inland Revenue Commissioners [1967] UKHL 6 ; [1968] AC 553 ; see also R &amp;amp; I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1992) 10 WAR 59 at 79 per Owen J and Australian Securities Investments Commission; In the matter of Richstar Enterprises Pty Ltd v Carey (No 6) [2006] FCA 814 at para 28 per French J.</sentence>
 <sentence id="s39">
  
  The [Secretary] say [s] the words of the section change whatever the position might be at general law.</sentence>
@@ -179,7 +179,7 @@ Hence, the Tribunal held that the trust was a "controlled private trust" within 
 <sentence id="s79">It followed, so they said, that they could not affect the outcome of the trustees' decision-making process in order to secure the payment of trust funds to themselves.</sentence>
 <sentence id="s80">In this circumstance, so they submitted, neither they nor their daughter (or any other discretionary beneficiary) could hold a beneficial interest in the corpus or income of the trust within the meaning of par 1207V(2)(d).</sentence>
 <sentence id="s81">Accordingly, so they contended, they could not satisfy par (d) of subs 1207V(2) since none of the discretionary beneficiaries held a beneficial interest capable of being aggregated.</sentence>
-<sentence id="s82">Counsel for the Elliotts supported this argument by reference to such authorities as Gartside v Inland Revenue Commissioners [1967] UKHL 6 ; [1968] AC 553 ( "Gartside" ), R &amp; I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 (" Anchorage ") and Australian Securities and Investments Commission v Carey (No 6) [2006] FCA 814 ; (2006) 153 FCR 509 (" Carey ").</sentence>
+<sentence id="s82">Counsel for the Elliotts supported this argument by reference to such authorities as Gartside v Inland Revenue Commissioners [1967] UKHL 6 ; [1968] AC 553 ( "Gartside" ), R &amp;amp; I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 (" Anchorage ") and Australian Securities and Investments Commission v Carey (No 6) [2006] FCA 814 ; (2006) 153 FCR 509 (" Carey ").</sentence>
 <sentence id="s83">18 The Elliotts had no power, so their counsel submitted, to terminate the trust, which would end only with the death of the survivor.</sentence>
 <sentence id="s84">This was not, so their counsel said, a case like Sir Moses Montefiore Jewish Home v Howell and Co (No 7) Pty Ltd [1984] 2 NSWLR 406 (" Montefiore "), which extended the rule in Saunders v Vautier [1841] EngR 765 ; (1841) 4 Beav 115 ; 41 ER 482 (" Saunders v Vautier ") to a discretionary trust, because the objects of the trust established under clause 5(b) of the will were not closed and extended to the unborn children of the Elliotts (if any) and the descendants of the Elliotts' children, including Susan Elliott's descendants (if any).</sentence>
 <sentence id="s85">19 Counsel for the Elliotts also referred to the policy that lay behind the enactment of Pt 3.18, as reflected in the responsible Minister's Second Reading Speech to the Social Security and Veterans' Entitlements Legislation Amendment (Private Trusts and Private Companies --- Integrity of Means Testing) Bill 2000 ("the Bill").</sentence>
@@ -436,7 +436,7 @@ His Honour noted that different considerations arose where a discretionary trust
 <sentence id="s250">It also draws attention to the fact that the degree of control, if any, that a discretionary beneficiary may enjoy under a discretionary trust depends on the terms of the trust, having regard to the circumstances of the case.</sentence>
 <sentence id="s251">Subsection 1207V(2) works on a similar assumption.</sentence>
 <sentence id="s252">It is therefore a mistake to treat all so-called discretionary trusts in the same way, as the Secretary's argument tends to do.</sentence>
-<sentence id="s253">46 Furthermore, Gartside , Anchorage , Carey and Livingston (see Weinberg J's discussion in Geeves at 143) make it plain that, although the object of a discretionary trust holds a bundle of rights, these rights do not necessarily amount to what can be termed an "interest" or "beneficial interest", when considered from the perspective of a particular statute: compare M Stone and V Lesnie, "Some Thoughts on Beneficial Interests and Beneficial Ownership in Revenue Law" (1996) 19(1) UNSW Law Journal 181 at 183 and David Hayton, Paul Matthews &amp; Charles Mitchell, Underhill and Hayton Law Relating to Trusts and Trustees (LexisNexis Butterworths, 17 th ed, 2006) at [1.1].</sentence>
+<sentence id="s253">46 Furthermore, Gartside , Anchorage , Carey and Livingston (see Weinberg J's discussion in Geeves at 143) make it plain that, although the object of a discretionary trust holds a bundle of rights, these rights do not necessarily amount to what can be termed an "interest" or "beneficial interest", when considered from the perspective of a particular statute: compare M Stone and V Lesnie, "Some Thoughts on Beneficial Interests and Beneficial Ownership in Revenue Law" (1996) 19(1) UNSW Law Journal 181 at 183 and David Hayton, Paul Matthews &amp;amp; Charles Mitchell, Underhill and Hayton Law Relating to Trusts and Trustees (LexisNexis Butterworths, 17 th ed, 2006) at [1.1].</sentence>
 <sentence id="s254">Of course, this is not to say that, in a particular statute, such rights might not be so regarded and described.</sentence>
 <sentence id="s255">The question, then, is whether or not the rights of the discretionary beneficiaries in this case amount to "beneficial interests in the corpus or income" such that they might be "aggregated" within the meaning of par 1207V(2)(d).</sentence>
 <sentence id="s256">47 I accept that, as the Secretary submitted, the word "aggregate" in par 1207V(2)(d) is used in its ordinary sense, signifying "[t]o gather into one whole or mass; to collect together, assemble; to mass": see Oxford English Dictionary .</sentence>

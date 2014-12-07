@@ -3,14 +3,14 @@
 <name>Australian Prudential Regulation Authority v Siminton (No 12) [2008] FCA 101 (21 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/101.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">notice of motion on behalf of the receiver</catchphrase>
-<catchphrase "id=c1">application seeking further funds to be included in the receivership, an extension of time of the receivership and for the respondent to attend for examination and file an affidavit of documents</catchphrase>
-<catchphrase "id=c2">whether respondent should be excused in limine from swearing affidavit or attending for examination</catchphrase>
-<catchphrase "id=c3">whether examination or affidavit of documents would expose respondent to self incrimination</catchphrase>
-<catchphrase "id=c4">application granted in part</catchphrase>
-<catchphrase "id=c5">" in limine objection"</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
-<catchphrase "id=c7">words and phrases</catchphrase>
+<catchphrase id="c0">notice of motion on behalf of the receiver</catchphrase>
+<catchphrase id="c1">application seeking further funds to be included in the receivership, an extension of time of the receivership and for the respondent to attend for examination and file an affidavit of documents</catchphrase>
+<catchphrase id="c2">whether respondent should be excused in limine from swearing affidavit or attending for examination</catchphrase>
+<catchphrase id="c3">whether examination or affidavit of documents would expose respondent to self incrimination</catchphrase>
+<catchphrase id="c4">application granted in part</catchphrase>
+<catchphrase id="c5">" in limine objection"</catchphrase>
+<catchphrase id="c6">practice and procedure</catchphrase>
+<catchphrase id="c7">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -39,11 +39,11 @@
 <sentence id="s21">5 When asked to identify the duties which it was alleged that Mr Nicol had failed to perform counsel referred to three matters.</sentence>
 <sentence id="s22">They were:
  
-&#8226; Mr Nicol's retention of Clayton Utz, solicitors, to advise him in relation to the performance of his duties;
+&amp;#8226; Mr Nicol's retention of Clayton Utz, solicitors, to advise him in relation to the performance of his duties;
  
-&#8226; an alleged lack of impartiality; and
+&amp;#8226; an alleged lack of impartiality; and
  
-&#8226; the making by the receiver, of what were said to be unsubstantiated and intimidatory allegations against the respondent's solicitor.</sentence>
+&amp;#8226; the making by the receiver, of what were said to be unsubstantiated and intimidatory allegations against the respondent's solicitor.</sentence>
 <sentence id="s23">6 Had I been persuaded (which I was not) that any of these complaints had substance, they may have warranted the termination of the appointment of the receiver.</sentence>
 <sentence id="s24">They would not have justified a refusal of an extension of time within which the receiver is required to prepare his interim report and complete the important work committed to him.</sentence>
 <sentence id="s25">I will, nevertheless, deal briefly with the submissions which were made on behalf of the respondent.</sentence>
@@ -64,7 +64,7 @@
 <sentence id="s40">The receiver has also respected the respondent's privilege claims and has done nothing to override such claims.</sentence>
 <sentence id="s41">What the receiver has done, on a number of occasions, has been to request the respondent to identify with precision the documents and information in respect of which the privilege claim is made and, in each case, an explanation of why it is said that the answering of questions or the production of documents would constitute an impermissible undermining of the privilege.</sentence>
 <sentence id="s42">10 The unsubstantiated and intimidatory allegations which were said to be made by the receiver against the respondent's solicitor were contained in a preliminary report, made to the Court, by the receiver which is dated 3 December 2007.</sentence>
-<sentence id="s43">In notes, subjoined to a table appearing in paragraph 2.2 of that document the receiver stated that two named accounts held by Technocash Pty Ltd "had been set up by Hardy Erhardt of Erhardt &amp; Associates via notification by electronic mail.".</sentence>
+<sentence id="s43">In notes, subjoined to a table appearing in paragraph 2.2 of that document the receiver stated that two named accounts held by Technocash Pty Ltd "had been set up by Hardy Erhardt of Erhardt &amp;amp; Associates via notification by electronic mail.".</sentence>
 <sentence id="s44">This was said by counsel to amount to an allegation that Mr Erhardt had been complicit in criminal offences which had been committed by the respondent.</sentence>
 <sentence id="s45">The criminal offences were said to be contraventions of ss 7 and 66 of the Banking Act 1959 (Cth) ("the Banking Act ").</sentence>
 <sentence id="s46">Section 7 makes it an offence for an unauthorised person to conduct any banking business.</sentence>
@@ -186,7 +186,7 @@ Dated: 21 February 2008
  
  Counsel for the Respondent: Mr D Sharp 
  
- Solicitor for the Respondent: Erhardt &amp; Associates 
+ Solicitor for the Respondent: Erhardt &amp;amp; Associates 
  
  Solicitor for the Receiver: Clayton Utz 
  

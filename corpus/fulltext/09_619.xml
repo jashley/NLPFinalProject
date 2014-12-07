@@ -3,16 +3,16 @@
 <name>Cassaniti v Tax Agents' Board of New South Wales [2009] FCA 619 (10 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/619.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">power to suspend registration of tax agent</catchphrase>
-<catchphrase "id=c1">whether multiple exercises of power in respect of same conduct infringed rule against double jeopardy</catchphrase>
-<catchphrase "id=c2">notice to give evidence issued pursuant to reg 168(a) of the income tax regulations 1936 (cth)</catchphrase>
-<catchphrase "id=c3">notice sought production of copies of documents</catchphrase>
-<catchphrase "id=c4">whether issue of notice obliged recipient to produce copies not already in existence</catchphrase>
-<catchphrase "id=c5">criminal proceeding pending in local court</catchphrase>
-<catchphrase "id=c6">whether real risk that conduct of parallel administrative investigation would prejudice criminal proceeding</catchphrase>
-<catchphrase "id=c7">administrative law</catchphrase>
-<catchphrase "id=c8">taxation law</catchphrase>
-<catchphrase "id=c9">contempt of court</catchphrase>
+<catchphrase id="c0">power to suspend registration of tax agent</catchphrase>
+<catchphrase id="c1">whether multiple exercises of power in respect of same conduct infringed rule against double jeopardy</catchphrase>
+<catchphrase id="c2">notice to give evidence issued pursuant to reg 168(a) of the income tax regulations 1936 (cth)</catchphrase>
+<catchphrase id="c3">notice sought production of copies of documents</catchphrase>
+<catchphrase id="c4">whether issue of notice obliged recipient to produce copies not already in existence</catchphrase>
+<catchphrase id="c5">criminal proceeding pending in local court</catchphrase>
+<catchphrase id="c6">whether real risk that conduct of parallel administrative investigation would prejudice criminal proceeding</catchphrase>
+<catchphrase id="c7">administrative law</catchphrase>
+<catchphrase id="c8">taxation law</catchphrase>
+<catchphrase id="c9">contempt of court</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -168,7 +168,7 @@ At its meeting on 19 March 2009, the Tax Agents' Board of New South Wales (the B
 <sentence id="s117">It follows, therefore, that the Board's power to suspend CAP arose independently of the error I have identified.</sentence>
 <sentence id="s118">However, whilst that may be so, the Board's view of the status of the cheque was obviously relevant to the extent of any suspension it imposed.</sentence>
 <sentence id="s119">That being so, it was the commission of an error of law which effected the discharge by the Board of its powers.</sentence>
-<sentence id="s120">It was, therefore, a jurisdictional error in the sense discussed in Craig v South Australia [1995] HCA 58 ; (1995) 184 CLR 163 at 179 per Brennan, Deane, Toohey, Gaudron &amp; McHugh JJ.</sentence>
+<sentence id="s120">It was, therefore, a jurisdictional error in the sense discussed in Craig v South Australia [1995] HCA 58 ; (1995) 184 CLR 163 at 179 per Brennan, Deane, Toohey, Gaudron &amp;amp; McHugh JJ.</sentence>
 <sentence id="s121">There are, so it seems to me, no discretionary reasons not to quash the Board's suspension.</sentence>
 <sentence id="s122">On 30 March 2009, the Board also suspended David's registration as a tax agent.</sentence>
 <sentence id="s123">A number of complaints were made about that step.</sentence>
@@ -463,7 +463,7 @@ Dated: 10 June 2009
  
  Counsel for the Applicants: Mr R Dubler SC with Mr DA Allen 
  
- Solicitor for the Applicants: Proctor &amp; Associates 
+ Solicitor for the Applicants: Proctor &amp;amp; Associates 
  
  Counsel for the Respondents: Mr R Wright SC with Mrs M Hirschhorn 
  

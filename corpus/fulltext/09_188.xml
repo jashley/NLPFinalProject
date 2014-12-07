@@ -3,16 +3,16 @@
 <name>Whittaker v Child Support Registrar [2009] FCA 188 (4 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/188.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">pleading</catchphrase>
-<catchphrase "id=c1">motion to strike out paragraphs of pleading</catchphrase>
-<catchphrase "id=c2">distinction between pleading of material facts and giving of "particulars".</catchphrase>
-<catchphrase "id=c3">direct interference with contractual relations by unlawful means</catchphrase>
-<catchphrase "id=c4">inducement of breach of contract</catchphrase>
-<catchphrase "id=c5">distinction between the two grounds of tortious liability</catchphrase>
-<catchphrase "id=c6">requirement as to alleged tortfeasor's state of mind</catchphrase>
-<catchphrase "id=c7">pleading.</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
-<catchphrase "id=c9">torts</catchphrase>
+<catchphrase id="c0">pleading</catchphrase>
+<catchphrase id="c1">motion to strike out paragraphs of pleading</catchphrase>
+<catchphrase id="c2">distinction between pleading of material facts and giving of "particulars".</catchphrase>
+<catchphrase id="c3">direct interference with contractual relations by unlawful means</catchphrase>
+<catchphrase id="c4">inducement of breach of contract</catchphrase>
+<catchphrase id="c5">distinction between the two grounds of tortious liability</catchphrase>
+<catchphrase id="c6">requirement as to alleged tortfeasor's state of mind</catchphrase>
+<catchphrase id="c7">pleading.</catchphrase>
+<catchphrase id="c8">practice and procedure</catchphrase>
+<catchphrase id="c9">torts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -136,12 +136,12 @@ His Lordship said (at 712) that a statement of the material facts is a statement
 <sentence id="s73">It may be a room but it may be an open area marked off in some way from the public concourse.</sentence>
 <sentence id="s74">The allegation must be made clear.</sentence>
 <sentence id="s75">In a claim of false imprisonment, the precise nature of the alleged confinement is important.</sentence>
-<sentence id="s76">Some precedents for the pleading of false imprisonment can be found in Bullen &amp; Leake &amp; Jacob's Precedents of Pleadings (London, Sweet &amp; Maxwell, 2008) at pp 58 ff (2-A13 ff) ( Bullen &amp; Leake) .</sentence>
+<sentence id="s76">Some precedents for the pleading of false imprisonment can be found in Bullen &amp;amp; Leake &amp;amp; Jacob's Precedents of Pleadings (London, Sweet &amp;amp; Maxwell, 2008) at pp 58 ff (2-A13 ff) ( Bullen &amp;amp; Leake) .</sentence>
 <sentence id="s77">The respondents' first objection is sustained.</sentence>
 <sentence id="s78">The respondents' second contention is that the ASC fails to plead unlawfulness.</sentence>
 <sentence id="s79">The respondents contend that the pleading is deficient for a failure of the applicants to plead that the conduct of the Commonwealth's officers was not authorised by s 72U of the Collection Act because the officers did not have the relevant belief on reasonable grounds.</sentence>
 <sentence id="s80">The respondents point out that the pleading (at para 14) acknowledges that a DPO was at least purportedly made, which, on the face of things, would be sufficient to provide a basis for reasonable belief under s 72U.</sentence>
-<sentence id="s81">All of the relevant pleadings of false imprisonment in Bullen &amp; Leake incorporate the word "wrongfully" and I think that that word should be incorporated into the text of paras 6 and 7.</sentence>
+<sentence id="s81">All of the relevant pleadings of false imprisonment in Bullen &amp;amp; Leake incorporate the word "wrongfully" and I think that that word should be incorporated into the text of paras 6 and 7.</sentence>
 <sentence id="s82">But that is as far as the applicants need go.</sentence>
 <sentence id="s83">I do not accept that the applicants must plead, and later prove, the absence of reasonable belief.</sentence>
 <sentence id="s84">It will be for the respondents to plead and prove by way of defence facts showing that s 72U of the Collection Act made the officers' conduct lawful.</sentence>
@@ -154,7 +154,7 @@ His Lordship said (at 712) that a statement of the material facts is a statement
 <sentence id="s91">False imprisonment is often accompanied by an assault and a battery.</sentence>
 <sentence id="s92">Battery requires physical contact, whereas assault does not.</sentence>
 <sentence id="s93">An assault is: 
- an act involving an imminent threat to touch another in a hostile manner with the capability to carry out such threat: a menacing attitude, such as holding up a hand or a stick to strike a person who is within reach at the time, constitutes an assault... A person may commit an assault without committing a battery ( Bullen &amp; Leake at 2-01, p 38) 
+ an act involving an imminent threat to touch another in a hostile manner with the capability to carry out such threat: a menacing attitude, such as holding up a hand or a stick to strike a person who is within reach at the time, constitutes an assault... A person may commit an assault without committing a battery ( Bullen &amp;amp; Leake at 2-01, p 38) 
 
  
 The physical contact that constitutes battery is physical touching, whether by hand, weapon or missile.</sentence>
@@ -233,7 +233,7 @@ Unfortunately the respondents do not acknowledge the source of this quotation.</
 <sentence id="s155">This is whether the action lies for the benefit of Mr Whittaker and Rotary at all.</sentence>
 <sentence id="s156">The action for inducement of breach of contract does not lie for the benefit of the contract breaker.</sentence>
 <sentence id="s157">It lies only for the benefit of the other contracting party.</sentence>
-<sentence id="s158">Much of the debate on the hearing treated the claim as a species of inducement of breach of contract of the Lumley v Gye (1853) 2 El &amp; Bl 216 (118 ER 749) kind, yet this point was not raised.</sentence>
+<sentence id="s158">Much of the debate on the hearing treated the claim as a species of inducement of breach of contract of the Lumley v Gye (1853) 2 El &amp;amp; Bl 216 (118 ER 749) kind, yet this point was not raised.</sentence>
 <sentence id="s159">Is the position different when the claim is for direct interference with contractual relations by unlawful means?</sentence>
 <sentence id="s160">It may well be.</sentence>
 <sentence id="s161">On the other hand, the argument is open that it is no different, and that the applicants' remedy includes a claim for their economic loss in the damages they seek to recover for some other tort, such as, false imprisonment.</sentence>
@@ -371,12 +371,12 @@ Unfortunately the respondents do not acknowledge the source of this quotation.</
  Particulars 
 
  Section 30 of the Child Support (Assessment) Act 1989 purports to require the First Respondent to determine the First Applicant's Liability to pay Child Support under the administrative formula in Part 5 of the Act.</sentence>
-<sentence id="s238">Section 10(2) of the Child Support (Registration &amp; Collection) Act 1988, prior to amendment in 2001, nominated the Commissioner of Taxation as holding the Office of the Child Support Registrar having powers under the Child Support (Assessment) Act 1989 .</sentence>
+<sentence id="s238">Section 10(2) of the Child Support (Registration &amp;amp; Collection) Act 1988, prior to amendment in 2001, nominated the Commissioner of Taxation as holding the Office of the Child Support Registrar having powers under the Child Support (Assessment) Act 1989 .</sentence>
 <sentence id="s239">Section 8WD (Repealed in 2001 after the commencement of the original administrative assessment) of the Taxation Administration Act 1953 authorised the Commissioner of Taxation to take, store and use the First Applicant's Tax File Number to determine the First Applicant's Child Support Income Amount upon which the Liability is assessed.</sentence>
 <sentence id="s240">Section 117(2) of the Child Support (Assessment) Act 1989 prevents judicial review or recourse unless a special circumstance exists by the establishment of one of the particular statutory grounds.</sentence>
 <sentence id="s241">The grounds of review or of judicial recourse do not allow an administrative assessment to be reviewed or considered in a case where the sole ground is that the assessment is unjust or inequitable.</sentence>
 <sentence id="s242">As a consequence, section 30 of the Child Support (Assessment) Act 1989 purports to compel the First Applicant to pay the administratively assessed Child Support Liability.</sentence>
-<sentence id="s243">The applicants (at para 24) argue that the Child Support (Assessment) Act 1989 (Cth) (Assessment Act) is invalid because it purports to confer a taxation power upon the Registrar in contravention of ss 53 and 55 of the Commonwealth of Australia Constitution Act 1900 (Imp) 63 &amp; 64 Vict, c 12, s 9 (the Constitution ) and (at para 25) purports to confer judicial power on the Registrar in contravention of s 71 of the Constitution .</sentence>
+<sentence id="s243">The applicants (at para 24) argue that the Child Support (Assessment) Act 1989 (Cth) (Assessment Act) is invalid because it purports to confer a taxation power upon the Registrar in contravention of ss 53 and 55 of the Commonwealth of Australia Constitution Act 1900 (Imp) 63 &amp;amp; 64 Vict, c 12, s 9 (the Constitution ) and (at para 25) purports to confer judicial power on the Registrar in contravention of s 71 of the Constitution .</sentence>
 <sentence id="s244">There is no substance in these attacks: see Luton v Lessels [2002] HCA 13 ; (2002) 210 CLR 333.</sentence>
 <sentence id="s245">Mr Whittaker has previously taken these contentions to the stage of a special leave application before the High Court: see Whittaker v Child Support Registrar [2004] HCATrans 252.</sentence>
 <sentence id="s246">Special leave was refused.</sentence>
@@ -396,7 +396,7 @@ Unfortunately the respondents do not acknowledge the source of this quotation.</
  These paragraphs are as follows: Further or alternatively, prior to making the DPO on or about 6 December 2006, the First Respondent negligently or in breach of his duty of confidence to the First Applicant used the First Applicant's tax file number to identify the First Applicant for the purpose of making the DPO.</sentence>
 <sentence id="s260">Particulars 
 
- The First Respondent did not at any time make a request to the First Applicant to give the First Respondent a written statement of the First Applicant's tax file number under section 16B of the Child Support (Registration &amp; Collection) Act 1988 or otherwise.</sentence>
+ The First Respondent did not at any time make a request to the First Applicant to give the First Respondent a written statement of the First Applicant's tax file number under section 16B of the Child Support (Registration &amp;amp; Collection) Act 1988 or otherwise.</sentence>
 <sentence id="s261">The First Applicant did not at any time give to the First Respondent a written statement of the First Applicant's tax file number.</sentence>
 <sentence id="s262">The First Applicant did not at any time give to the First Respondent a written statement of any kind authorising the Commissioner of Taxation to provide the First Respondent with information about the First Applicant, including tax file numbers, being information that is in the possession of the Commissioner of Taxation.</sentence>
 <sentence id="s263">The First Applicant did not at any time give to the First Respondent a statement in writing that the First Applicant has a tax file number but does not know what it is and has not asked the Commissioner of Taxation to inform the First Applicant of the First Applicant's tax file number and authorising the Commissioner of Taxation to tell the First Respondent the tax file number.</sentence>

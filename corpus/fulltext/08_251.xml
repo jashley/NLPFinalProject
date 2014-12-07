@@ -3,16 +3,16 @@
 <name>Rountree v Minister for Immigration and Citizenship [2008] FCA 251 (6 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/251.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for an extension of time to appeal from a decision of the administrative appeals tribunal affirming minister's decision to cancel visa</catchphrase>
-<catchphrase "id=c1">privative clause decision</catchphrase>
-<catchphrase "id=c2">no appeal from tribunal decision</catchphrase>
-<catchphrase "id=c3">limited to judicial review</catchphrase>
-<catchphrase "id=c4">cancellation of visa by minister on character grounds</catchphrase>
-<catchphrase "id=c5">whether failure to give adequate weight to relevant considerations</catchphrase>
-<catchphrase "id=c6">whether denial of procedural fairness</catchphrase>
-<catchphrase "id=c7">new evidence</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
-<catchphrase "id=c9">migration</catchphrase>
+<catchphrase id="c0">application for an extension of time to appeal from a decision of the administrative appeals tribunal affirming minister's decision to cancel visa</catchphrase>
+<catchphrase id="c1">privative clause decision</catchphrase>
+<catchphrase id="c2">no appeal from tribunal decision</catchphrase>
+<catchphrase id="c3">limited to judicial review</catchphrase>
+<catchphrase id="c4">cancellation of visa by minister on character grounds</catchphrase>
+<catchphrase id="c5">whether failure to give adequate weight to relevant considerations</catchphrase>
+<catchphrase id="c6">whether denial of procedural fairness</catchphrase>
+<catchphrase id="c7">new evidence</catchphrase>
+<catchphrase id="c8">administrative law</catchphrase>
+<catchphrase id="c9">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -56,17 +56,17 @@
 <sentence id="s19">Whether the Tribunal should exercise its discretion to set aside or affirm the decision made by the delegate of the Minister to cancel the applicant's visa.</sentence>
 <sentence id="s20">11 The background facts as found by the Tribunal may be summarised as follows:
  
-&#8226; The applicant was born in New Zealand in 1954 and first arrived in Australia in 1996.</sentence>
+&amp;#8226; The applicant was born in New Zealand in 1954 and first arrived in Australia in 1996.</sentence>
 <sentence id="s21">In New Zealand the applicant had accumulated a substantial criminal record.</sentence>
 <sentence id="s22">In all, he was sentenced to over 11 years imprisonment in New Zealand, not including sentences which were served concurrently.</sentence>
-<sentence id="s23">&#8226; On arrival in Australia the applicant was granted a special category visa class TY subclass 444.</sentence>
+<sentence id="s23">&amp;#8226; On arrival in Australia the applicant was granted a special category visa class TY subclass 444.</sentence>
 <sentence id="s24">He did not, however, satisfy the requirements for an absorbed person visa under s 34(2) Migration Act .</sentence>
-<sentence id="s25">&#8226; His lengthy New South Wales criminal history commenced on 11 November 1997.</sentence>
+<sentence id="s25">&amp;#8226; His lengthy New South Wales criminal history commenced on 11 November 1997.</sentence>
 <sentence id="s26">On three separate occasions he has been sentenced to terms of imprisonment of 12 months or more.</sentence>
 <sentence id="s27">Nine of his more serious custodial sentences were confirmed on appeal and none appear to have been reversed or reduced.</sentence>
-<sentence id="s28">&#8226; On 6 June 2006 the applicant was convicted at Coffs Harbour District Court of the offence supplying a prohibited drug in an indictable quantity (not cannabis), for which he was sentenced to three years imprisonment with a non-parole period of 15 months.</sentence>
+<sentence id="s28">&amp;#8226; On 6 June 2006 the applicant was convicted at Coffs Harbour District Court of the offence supplying a prohibited drug in an indictable quantity (not cannabis), for which he was sentenced to three years imprisonment with a non-parole period of 15 months.</sentence>
 <sentence id="s29">At the same time he was convicted of two counts of possessing a prohibited drug for which he was sentenced to six months imprisonment, to be served concurrently.</sentence>
-<sentence id="s30">&#8226; On 1 February 2007 the applicant was notified of the Minister's intention to consider cancelling the applicant's visa under s 501(2) Migration Act .</sentence>
+<sentence id="s30">&amp;#8226; On 1 February 2007 the applicant was notified of the Minister's intention to consider cancelling the applicant's visa under s 501(2) Migration Act .</sentence>
 <sentence id="s31">After considering the applicant's response, the delegate of the Minister made the decision to cancel the applicant's visa on 23 May 2007.</sentence>
 <sentence id="s32">12 The Tribunal noted that, at the hearing before it, the applicant had had no access to writing material at the Brisbane City Watchhouse, and that he had had little time to prepare a statement for transmission to the Tribunal and the respondent.</sentence>
 <sentence id="s33">However the Tribunal also noted that at earlier telephone directions the applicant had been informed of the importance of ensuring that all witness statements were filed and served on time (at [24]).</sentence>
@@ -127,10 +127,10 @@
 <sentence id="s64">The Tribunal noted that para 2.2 of Direction No 21 provided that a decision-maker should have regard to three primary considerations as set out in para 2.3, as well as a number of other considerations (for example, para 2.8).</sentence>
 <sentence id="s65">In summary, the Tribunal made the following findings:
  
-&#8226; In considering the first primary consideration, namely the need to protect the Australian community, the Tribunal took into account the nature of the Coffs Harbour offence, as well as several prior separate occasions when the applicant had received custodial terms of 12 months and several other shorter sentences of imprisonment for breaches of apprehended violence orders (at [75]).</sentence>
+&amp;#8226; In considering the first primary consideration, namely the need to protect the Australian community, the Tribunal took into account the nature of the Coffs Harbour offence, as well as several prior separate occasions when the applicant had received custodial terms of 12 months and several other shorter sentences of imprisonment for breaches of apprehended violence orders (at [75]).</sentence>
 <sentence id="s66">The Tribunal considered that there was a low to medium risk of recidivism in light of, inter alia , the applicant's "particularly long and sustained criminal record, both in Australia and New Zealand" (at [79]).</sentence>
-<sentence id="s67">&#8226; In considering the second primary consideration, namely the expectations of the Australian community, the Tribunal found that the community would expect that the visa of a person with such a sustained and serious record of criminal activity while in Australia should be cancelled, but at the same time it would be expected that the interests of the three children involved would be carefully considered.</sentence>
-<sentence id="s68">&#8226; In considering the third primary consideration, namely the best interests of the child, the Tribunal identified as relevant the decisions of the Full Court in Wan v Minister for Immigration and Multicultural Affairs [2001] FCA 568 ; (2001) 107 FCR 133 and Vaitaiki v Minister for Immigration and Ethnic Affairs (1998) 150 ALR 608.</sentence>
+<sentence id="s67">&amp;#8226; In considering the second primary consideration, namely the expectations of the Australian community, the Tribunal found that the community would expect that the visa of a person with such a sustained and serious record of criminal activity while in Australia should be cancelled, but at the same time it would be expected that the interests of the three children involved would be carefully considered.</sentence>
+<sentence id="s68">&amp;#8226; In considering the third primary consideration, namely the best interests of the child, the Tribunal identified as relevant the decisions of the Full Court in Wan v Minister for Immigration and Multicultural Affairs [2001] FCA 568 ; (2001) 107 FCR 133 and Vaitaiki v Minister for Immigration and Ethnic Affairs (1998) 150 ALR 608.</sentence>
 <sentence id="s69">The Tribunal considered the evidence before it and observed that:
  
  
@@ -169,11 +169,11 @@
 <sentence id="s88">The substance of his complaint was that he was unable to obtain that evidence because he was in prison, with the result that the assessment of his character by both the Minister's delegate and the Tribunal was insufficiently balanced (TS p 4 ll 17-19).</sentence>
 <sentence id="s89">In doing so, the applicant raised what in effect is a further ground of review, which, at best, could be framed in the following terms:
  
-&#8226; he was unable to put additional material before the Tribunal because he was in prison and could not access relevant material
+&amp;#8226; he was unable to put additional material before the Tribunal because he was in prison and could not access relevant material
  
-&#8226; as a result, the Tribunal could not conduct a balanced assessment of the risk he posed to the public from his continued presence in Australia, or of the best interests of his step-children
+&amp;#8226; as a result, the Tribunal could not conduct a balanced assessment of the risk he posed to the public from his continued presence in Australia, or of the best interests of his step-children
  
-&#8226; therefore the decision of the Tribunal to cancel the applicant's visa was flawed.</sentence>
+&amp;#8226; therefore the decision of the Tribunal to cancel the applicant's visa was flawed.</sentence>
 <sentence id="s90">23 I propose to consider in turn each of the five grounds raised by the applicant in his draft notice of appeal as well as the further ground raised at the hearing.</sentence>
 <sentence id="s91">In doing so, however, I note that the grounds of review raised by the applicant, while broad ranging, are only relevant in these proceedings in so far as they present the possibility of jurisdictional error on the part of the Tribunal in reaching its decision.</sentence>
 <sentence id="s92">A review of the factual findings of the Tribunal, or the weighing of facts by the Tribunal, has no place in such a review.</sentence>
@@ -264,13 +264,13 @@
 <sentence id="s138">Further, the Tribunal is empowered by statute to obtain evidence by compulsion if necessary: s 40(1A) AAT Act .</sentence>
 <sentence id="s139">40 At the hearing before me, the primary issue raised by the applicant was that, because he had been in prison, he had not been able to access certain material to put before the Tribunal which supported what the applicant described as a more balanced and proper view of his character, including:
  
-&#8226; recent prison reports which were favourable to him, which indicated that he was not a risk to the community or at risk of recidivism
+&amp;#8226; recent prison reports which were favourable to him, which indicated that he was not a risk to the community or at risk of recidivism
  
-&#8226; a letter from one of the children in support of the continuation of his visa
+&amp;#8226; a letter from one of the children in support of the continuation of his visa
  
-&#8226; a letter from a prison sponsor in support of the continuation of his visa
+&amp;#8226; a letter from a prison sponsor in support of the continuation of his visa
  
-&#8226; a letter affirming his participation in Alcoholics Anonymous meetings in Sydney.</sentence>
+&amp;#8226; a letter affirming his participation in Alcoholics Anonymous meetings in Sydney.</sentence>
 <sentence id="s140">41 At the hearing before me the applicant sought leave to tender a letter from one of the children and a letter of support from a prison sponsor.</sentence>
 <sentence id="s141">I refused leave on the basis that the material represented new evidence, and there was no basis in the context of the judicial review before me which supported the introduction of this new factual evidence.</sentence>
 <sentence id="s142">For the same reason, I also refused to adjourn the proceedings before me to allow the applicant more time to put in additional evidence, in particular the prison reports.</sentence>
@@ -308,7 +308,7 @@
 <sentence id="s170">However the Tribunal was persuaded by other relevant factors detailed in the Reasons for Decision that the applicant was at low-medium risk of recidivism.</sentence>
 <sentence id="s171">51 In my view, the Tribunal hearing was fairly conducted, and on the basis of information both favourable and unfavourable to the applicant.</sentence>
 <sentence id="s172">From the applicant's description of the information in the prison reports he was unable to access (TS p 11 ll 12-38), it appears unlikely that it would have added to the case he put to the Tribunal.</sentence>
-<sentence id="s173">In such circumstances, it is not procedurally unfair for the Tribunal to make a decision in the absence of such material, without an adjournment to allow the applicant an opportunity to obtain it: EG &amp; H Nominees Pty Ltd v General Mutual Insurance Co Ltd (in liq) (1976) 50 ALJR 460.</sentence>
+<sentence id="s173">In such circumstances, it is not procedurally unfair for the Tribunal to make a decision in the absence of such material, without an adjournment to allow the applicant an opportunity to obtain it: EG &amp;amp; H Nominees Pty Ltd v General Mutual Insurance Co Ltd (in liq) (1976) 50 ALJR 460.</sentence>
 <sentence id="s174">Conclusion 
  
 52 As no ground of review raised by the applicant demonstrates jurisdictional error in the Tribunal's decision, the appropriate order is that the application be dismissed with costs.</sentence>

@@ -3,10 +3,10 @@
 <name>McBain (Trustee) in the matter of Turner (Bankrupt) v Palffy [2009] FCA 260 (24 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/260.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether a transfer is void against the applicant pursuant to s 120 of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c1">whether the transfer of property was effected for less than market value</catchphrase>
-<catchphrase "id=c2">whether the bankrupt was solvent at the date of the transfer</catchphrase>
-<catchphrase "id=c3">bankruptcy</catchphrase>
+<catchphrase id="c0">whether a transfer is void against the applicant pursuant to s 120 of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c1">whether the transfer of property was effected for less than market value</catchphrase>
+<catchphrase id="c2">whether the bankrupt was solvent at the date of the transfer</catchphrase>
+<catchphrase id="c3">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -246,9 +246,9 @@ After discussing what his Honour called a "clear line of authorities", his Honou
 <sentence id="s199">Any possibility of recovering monies was uncertain at best in 2002.</sentence>
 <sentence id="s200">It is highly unlikely that any possible insurance claim would have crystallised by 10 April 2002, as litigation on this issue is ongoing.</sentence>
 <sentence id="s201">Proceeds of Jones litigation
- PWB commenced proceedings against one of its valuers, RL Jones &amp; Associates Pty Ltd in 2001.</sentence>
+ PWB commenced proceedings against one of its valuers, RL Jones &amp;amp; Associates Pty Ltd in 2001.</sentence>
 <sentence id="s202">After December 2001, Mr Hamilton, as liquidator of the Fund, stepped into PWB's shoes in relation to the litigation.</sentence>
-<sentence id="s203">Mr Hamilton also instituted a separate proceeding against RL Jones &amp; Associates Pty Ltd in 2005.</sentence>
+<sentence id="s203">Mr Hamilton also instituted a separate proceeding against RL Jones &amp;amp; Associates Pty Ltd in 2005.</sentence>
 <sentence id="s204">Ultimately, Mr Hamilton was able to recover $1.2 million, which was a mediated settlement and was inclusive of costs.</sentence>
 <sentence id="s205">As at April 2002, that litigation had not been settled and any foreseeable recovery through that litigation could not have been available to creditors by April, or even June, 2002.</sentence>
 <sentence id="s206">
@@ -290,7 +290,7 @@ Dated: 24 March 2009
  
  Counsel for the Applicant: Mr S McElwaine 
  
- Solicitor for the Respondents: Wallace Wilkinson &amp; Webster 
+ Solicitor for the Respondents: Wallace Wilkinson &amp;amp; Webster 
  
  Counsel for the Respondents: Mr G Bigmore QC with Mr D Wallace 
  Dates of Hearing: 7, 8, 9, 10 October 2008, 4, 5 December 2008, 3 February 2009 

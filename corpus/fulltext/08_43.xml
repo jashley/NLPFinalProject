@@ -3,10 +3,10 @@
 <name>Horn v Australian Electoral Commission [2008] FCA 43 (30 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/43.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">submission that there be no order as to costs in relation to litigation said to be pursued in the public interest</catchphrase>
-<catchphrase "id=c1">submission rejected</catchphrase>
-<catchphrase "id=c2">costs awarded on the basis of conventional principles recognising degree of success of each party</catchphrase>
-<catchphrase "id=c3">costs</catchphrase>
+<catchphrase id="c0">submission that there be no order as to costs in relation to litigation said to be pursued in the public interest</catchphrase>
+<catchphrase id="c1">submission rejected</catchphrase>
+<catchphrase id="c2">costs awarded on the basis of conventional principles recognising degree of success of each party</catchphrase>
+<catchphrase id="c3">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -93,7 +93,7 @@ Earlier in the judgment at [20] there was reference to the factors mentioned by 
 
 10 In Ruddock v Vadarlis (No 2) [2001] FCA 1865 ; (2001) 115 FCR 229 at [10] , Black CJ and French J referred to Bray CJ in Cretazzo v Lombardi (1975) 13 SASR 4 (at 11) where he said: 
  
- I think the guiding principle still stands as it left the House of Lords in the famous case of Donald Campbell &amp; Co v Pollak, that the general discretion is absolute and unfettered, except that it must be exercised judicially, not arbitrarily or capriciously, and that it cannot be exercised on grounds unconnected with the litigation.</sentence>
+ I think the guiding principle still stands as it left the House of Lords in the famous case of Donald Campbell &amp;amp; Co v Pollak, that the general discretion is absolute and unfettered, except that it must be exercised judicially, not arbitrarily or capriciously, and that it cannot be exercised on grounds unconnected with the litigation.</sentence>
 <sentence id="s35">
 
 11 It was observed in Ruddock (No 2) [2001] FCA 1865 ; 115 FCR 229 at [10] that:
@@ -107,11 +107,11 @@ Earlier in the judgment at [20] there was reference to the factors mentioned by 
  11 Within the general discretion of the courts to award costs it is accepted by decisions in both Australian and English jurisdictions that: 
  
  
- &#8226; Ordinarily costs follow the event and a successful litigant receives costs in the absence of special circumstances justifying some other order.</sentence>
+ &amp;#8226; Ordinarily costs follow the event and a successful litigant receives costs in the absence of special circumstances justifying some other order.</sentence>
 <sentence id="s37">
- &#8226; Where a litigant has succeeded only upon a portion of the claim, the circumstances may make it reasonable that the litigant bear the expense of litigating that portion upon which he or she has failed.</sentence>
+ &amp;#8226; Where a litigant has succeeded only upon a portion of the claim, the circumstances may make it reasonable that the litigant bear the expense of litigating that portion upon which he or she has failed.</sentence>
 <sentence id="s38">
- &#8226; A successful party who has failed on certain issues may not only be deprived of the costs of those issues but may be ordered as well to pay the other parties' costs of them.</sentence>
+ &amp;#8226; A successful party who has failed on certain issues may not only be deprived of the costs of those issues but may be ordered as well to pay the other parties' costs of them.</sentence>
 <sentence id="s39">In this sense "issue" does not mean a precise issue in the technical pleading sense but any disputed question of fact or law.</sentence>
 <sentence id="s40">
  
@@ -179,7 +179,7 @@ Earlier in the judgment at [20] there was reference to the factors mentioned by 
 <sentence id="s71">I agree with this submission.</sentence>
 <sentence id="s72">19 Finally the Commission suggests that the application raised a question of statutory interpretation, not difficult and important questions calling for clarification and of interest to a significant number of enrolled voters and the public.</sentence>
 <sentence id="s73">While this submission may be correct, clearly if Mr Horn had succeeded, there was great capacity for the public to be affected.</sentence>
-<sentence id="s74">20 But the opportunities to challenge the decisions and conduct of Commonwealth agencies provided for under s 39B of the Judiciary Act does not mean that the agency proceeded against should be deprived of an order in respect of its costs ( Save The Ridge Inc v Commonwealth (2006) 230 ALR 411 at [17]-[18] and Williams v Minister for Environment &amp; Heritage (2004) 132 LGERA 368 per Gray J with Tamberlin J in agreement at [40].</sentence>
+<sentence id="s74">20 But the opportunities to challenge the decisions and conduct of Commonwealth agencies provided for under s 39B of the Judiciary Act does not mean that the agency proceeded against should be deprived of an order in respect of its costs ( Save The Ridge Inc v Commonwealth (2006) 230 ALR 411 at [17]-[18] and Williams v Minister for Environment &amp;amp; Heritage (2004) 132 LGERA 368 per Gray J with Tamberlin J in agreement at [40].</sentence>
 <sentence id="s75">Even if it could be said the present proceedings were brought in the public interest there is no special rule as to costs in such proceedings.</sentence>
 <sentence id="s76">Espousing the public interest alone is not a grant of general immunity from costs ( Oshlack [1998] HCA 11 ; 193 CLR 72 per Kirby J at 123).</sentence>
 <sentence id="s77">There is no general principle from Oshlack [1998] HCA 11 ; 193 CLR 72 that usual costs orders should not apply if the subject matter of the litigation is a matter of public interest ( Ruddock (No 2) [2001] FCA 1865 ; 115 FCR 229 at [21] ).</sentence>

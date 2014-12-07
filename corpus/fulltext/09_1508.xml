@@ -3,13 +3,13 @@
 <name>Pinot Nominees Pty Ltd v Commissioner of Taxation [2009] FCA 1508 (15 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1508.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">parties attended a court ordered mediation conference</catchphrase>
-<catchphrase "id=c1">whether evidence of communications of offer of compromise made at the mediation conference admissible on the question of costs.</catchphrase>
-<catchphrase "id=c2">whether commissioner acted unreasonably in not accepting offer of compromise</catchphrase>
-<catchphrase "id=c3">obligation on commonwealth to act as a model litigant</catchphrase>
-<catchphrase "id=c4">whether compassionate considerations a relevant factor.</catchphrase>
-<catchphrase "id=c5">evidence</catchphrase>
-<catchphrase "id=c6">costs</catchphrase>
+<catchphrase id="c0">parties attended a court ordered mediation conference</catchphrase>
+<catchphrase id="c1">whether evidence of communications of offer of compromise made at the mediation conference admissible on the question of costs.</catchphrase>
+<catchphrase id="c2">whether commissioner acted unreasonably in not accepting offer of compromise</catchphrase>
+<catchphrase id="c3">obligation on commonwealth to act as a model litigant</catchphrase>
+<catchphrase id="c4">whether compassionate considerations a relevant factor.</catchphrase>
+<catchphrase id="c5">evidence</catchphrase>
+<catchphrase id="c6">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -39,7 +39,7 @@
  In support of its contention, Pinot relied upon the affidavit of Mr Daniel Steven Romano sworn 7 August 2009.</sentence>
 <sentence id="s23">In paras 15-20 of his affidavit, Mr Romano sets out in detail the terms of the offer that Pinot made during the course of the mediation conference held on 23 January 2009 and on 31 March 2009.</sentence>
 <sentence id="s24">The affidavit also describes what occurred at the mediation conference on 19 March 2009.</sentence>
-<sentence id="s25">In addition, the affidavit referred to and exhibited the "without prejudice" letter on 23 July 2009 written by Wilson &amp; Atkinson, Pinot's solicitors, to the Australian Government Solicitor, the Commission's solicitor, which sets out the details of a proposed compromise.</sentence>
+<sentence id="s25">In addition, the affidavit referred to and exhibited the "without prejudice" letter on 23 July 2009 written by Wilson &amp;amp; Atkinson, Pinot's solicitors, to the Australian Government Solicitor, the Commission's solicitor, which sets out the details of a proposed compromise.</sentence>
 <sentence id="s26">OBJECTION TO MR ROMANO'S EVIDENCE 
  The Commissioner objected to the evidence in paras 15-20 of Mr Romano's affidavit.</sentence>
 <sentence id="s27">The Commissioner contended that the evidence was inadmissible because s 53B of the Federal Court of Australia Act 1976 (Cth) (the Federal Court Act) precluded the admission into evidence of anything said during the course of a mediation conference ordered by the Court.</sentence>
@@ -223,7 +223,7 @@
 
  
  
- "Misconduct" in this context means misconduct relating to the litigation ( King &amp; Co v Gillard &amp; Co [1905] 2 Ch 7 ; Donald Campbell &amp; Co Ltd v Pollak [1927] AC 732 at 812), or the circumstances leading up to the litigation ( Bostock v Ramsey Urban District Council [1900] 2 QB 616).</sentence>
+ "Misconduct" in this context means misconduct relating to the litigation ( King &amp;amp; Co v Gillard &amp;amp; Co [1905] 2 Ch 7 ; Donald Campbell &amp;amp; Co Ltd v Pollak [1927] AC 732 at 812), or the circumstances leading up to the litigation ( Bostock v Ramsey Urban District Council [1900] 2 QB 616).</sentence>
 <sentence id="s97">Thus, the court may properly depart from the usual order as to costs when the successful party by its lax conduct effectively invites the litigation ( Jones v McKie [1964] 1 WLR 960 ; [1964] 2 All ER 842 ; Bostock [1900] 2 QB 616 at 622, 625, 627); unnecessarily protracts the proceedings ( Forbes v Samuel [1913] 3 KB 706) ; succeeds on a point not argued before a lower court ( Armstrong v Boulton [1990] VR 215 at 223); prosecutes the matter solely for the purpose of increasing the costs recoverable ( Hobbs v Marlowe [1978] AC 16) ; or obtains relief which the unsuccessful party had already offered in settlement of the dispute ( Jenkins v Hope [1896] 1 Ch 278).</sentence>
 <sentence id="s98">
  
@@ -258,7 +258,7 @@ Dated: 15 December 2009
  
  Counsel for the Applicant: Mr D Romano 
  
- Solicitor for the Applicant: Wilson &amp; Atkinson 
+ Solicitor for the Applicant: Wilson &amp;amp; Atkinson 
  
  Counsel for the Respondent: Mr JC Vaughan 
  

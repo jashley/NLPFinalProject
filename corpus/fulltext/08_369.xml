@@ -3,14 +3,14 @@
 <name>Hoy Mobile Pty Ltd v Allphones Retail Pty Ltd [2008] FCA 369 (26 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/369.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">admissibility of evidence</catchphrase>
-<catchphrase "id=c1">affidavit sworn by solicitor of party and read by it as evidence in earlier interlocutory proceeding</catchphrase>
-<catchphrase "id=c2">subsequently at trial, affidavit sought to be adduced as evidence of admission by solicitor's client</catchphrase>
-<catchphrase "id=c3">whether, for the purposes of s 87(1)(a) of evidence act 1995 (cth), solicitor had authority to make admission on client's behalf</catchphrase>
-<catchphrase "id=c4">whether representations in solicitor's affidavit constituted an 'admission'</catchphrase>
-<catchphrase "id=c5">whether hearsay rule did not apply pursuant to s 81(1) of evidence act</catchphrase>
-<catchphrase "id=c6">whether, for purposes of definition of 'previous representation' in evidence act , earlier interlocutory proceedings were same proceedings as the trial within meaning of 'the proceeding in which evidence of the representation is sought to be adduced'</catchphrase>
-<catchphrase "id=c7">evidence</catchphrase>
+<catchphrase id="c0">admissibility of evidence</catchphrase>
+<catchphrase id="c1">affidavit sworn by solicitor of party and read by it as evidence in earlier interlocutory proceeding</catchphrase>
+<catchphrase id="c2">subsequently at trial, affidavit sought to be adduced as evidence of admission by solicitor's client</catchphrase>
+<catchphrase id="c3">whether, for the purposes of s 87(1)(a) of evidence act 1995 (cth), solicitor had authority to make admission on client's behalf</catchphrase>
+<catchphrase id="c4">whether representations in solicitor's affidavit constituted an 'admission'</catchphrase>
+<catchphrase id="c5">whether hearsay rule did not apply pursuant to s 81(1) of evidence act</catchphrase>
+<catchphrase id="c6">whether, for purposes of definition of 'previous representation' in evidence act , earlier interlocutory proceedings were same proceedings as the trial within meaning of 'the proceeding in which evidence of the representation is sought to be adduced'</catchphrase>
+<catchphrase id="c7">evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -145,7 +145,7 @@ Here, of course, Mr Lloyd's statements were not statements made by counsel addre
 <sentence id="s67">Rather, they were statements put forward by him, on behalf of his client, in an affidavit tendered as evidence of the facts.</sentence>
 <sentence id="s68">18 It has long been the law that in civil cases a solicitor has implied authority to make admissions receivable by the Court against his or her client during the actual progress of litigation, either for the purposes of dispensing with proof at trial or in certain other respects.</sentence>
 <sentence id="s69">Thus formal admissions made by attorneys of both sides at a first trial could be relied on at the second trial after the first verdict had been set aside.</sentence>
-<sentence id="s70">Lord Denman CJ said that there was no doubt that the admissions were receivable at the second trial, albeit that they had been made before, and for the purposes of, the first trial: see Doe d. Wetherell v Bird (1835) 7 C &amp; P 6 at 7.</sentence>
+<sentence id="s70">Lord Denman CJ said that there was no doubt that the admissions were receivable at the second trial, albeit that they had been made before, and for the purposes of, the first trial: see Doe d. Wetherell v Bird (1835) 7 C &amp;amp; P 6 at 7.</sentence>
 <sentence id="s71">And in Langley v Earl of Oxford (1836) 5 LJ Exch 166 at 167, Lord Abinger CB held that an admission to be used at the trial of a cause, whenever it should take place, was admissible.</sentence>
 <sentence id="s72">It did not matter that the admission had been made before the first trial.</sentence>
 <sentence id="s73">Once made, it could be used at the second trial: see also Phipson, The Law of Evidence (8 th edition, 1942) at p 234.</sentence>
@@ -245,14 +245,14 @@ Here, of course, Mr Lloyd's statements were not statements made by counsel addre
 34 Allphones also argued that what Mr Lloyd had said in his affidavit could not be read against it.</sentence>
 <sentence id="s148">In British Thomson-Houston Co Limited v British Insulated and Helsby Cables Limited [1924] 2 Ch 160 at 164-165 (see also at 170-171 per Atkin LJ) Pollock MR said that affidavits or documents which a party knowingly used as true in a judicial proceeding for the purpose of proving a particular fact are capable of being evidence against that party in subsequent proceedings to prove the same fact.</sentence>
 <sentence id="s149">He said that the principle applied in cases where the party adducing the document, whether an affidavit or deposition, knew of its contents beforehand and elected to put it forward in support of the party's case.</sentence>
-<sentence id="s150">He referred to what Crompton J had said in Richards v Morgan (1863) 4 B &amp; S 641 at 659, namely:
+<sentence id="s150">He referred to what Crompton J had said in Richards v Morgan (1863) 4 B &amp;amp; S 641 at 659, namely:
  
  'It must always be remembered that it is not the obtaining the affidavit or deposition but the making use of it as true with knowledge of the contents, which is the ground on which such evidence is supposed to be receivable.</sentence>
 <sentence id="s151">' 
 
 
  
-Cockburn CJ in the same case said (4 B &amp; S at 661):
+Cockburn CJ in the same case said (4 B &amp;amp; S at 661):
  
  'It cannot be doubted that a man's assertions are admissions, whether made in the course of a judicial proceeding or otherwise, and, in the former case, whether he was himself a party to such proceeding or not.</sentence>
 <sentence id="s152">It may be given in evidence against him in any suit or action in which the fact so asserted or admitted becomes material to the issue to be determined.</sentence>
@@ -261,7 +261,7 @@ Cockburn CJ in the same case said (4 B &amp; S at 661):
 <sentence id="s155">' 
  
 
-35 In Prangley v Evans (1896) 17 NSWLR 416 at 418, Owen J (with whom Simpson J, citing the above passage from Cockburn CJ in Richards 4 B &amp; S at 661, and Cohen J agreed at 419-420) said:
+35 In Prangley v Evans (1896) 17 NSWLR 416 at 418, Owen J (with whom Simpson J, citing the above passage from Cockburn CJ in Richards 4 B &amp;amp; S at 661, and Cohen J agreed at 419-420) said:
  
  'A client who uses an affidavit of a solicitor for a particular purpose must be taken to admit statements in the affidavit which are pertinent to the purpose for which the affidavit is prepared.</sentence>
 <sentence id="s156">But if there are statements in it that are irrelevant to the purpose for which it is prepared, the client is not bound by those statements.</sentence>
@@ -269,7 +269,7 @@ Cockburn CJ in the same case said (4 B &amp; S at 661):
  
 
 36 Here, of course, Allphones, being a corporation, can only act by others.</sentence>
-<sentence id="s158">It can have no opinions because it has no mind, but it can have attributed to it a state of mind or knowledge based on what those whom it authorises to act on its behalf say or do: Lloyd v David Syme &amp; Co Ltd [1986] AC 350 at 366; (1985) 3 NSWLR 728 at 736 per Lord Keith of Kinkel.</sentence>
+<sentence id="s158">It can have no opinions because it has no mind, but it can have attributed to it a state of mind or knowledge based on what those whom it authorises to act on its behalf say or do: Lloyd v David Syme &amp;amp; Co Ltd [1986] AC 350 at 366; (1985) 3 NSWLR 728 at 736 per Lord Keith of Kinkel.</sentence>
 <sentence id="s159">For these reasons, I am of opinion that Mr Lloyd was a person whose evidence can be treated as being an admission by Allphones.</sentence>
 <sentence id="s160">WAS THE QUALITY OF MR LLOYD'S EVIDENCE INCAPABLE OF AMOUNTING TO AN ADMISSION?</sentence>
 <sentence id="s161">

@@ -3,13 +3,13 @@
 <name>Dais Studio Pty Ltd v Bullet Creative Pty Ltd [2008] FCA 42 (31 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/42.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">offer by respondent to settle proceedings before trial</catchphrase>
-<catchphrase "id=c1">offer rejected by applicants</catchphrase>
-<catchphrase "id=c2">respondent wholly successful at trial</catchphrase>
-<catchphrase "id=c3">whether applicants' rejection unreasonable</catchphrase>
-<catchphrase "id=c4">whether respondent entitled to his costs incurred after rejection of offer on indemnity basis</catchphrase>
-<catchphrase "id=c5">whether offer conformed to calderbank principle.</catchphrase>
-<catchphrase "id=c6">costs</catchphrase>
+<catchphrase id="c0">offer by respondent to settle proceedings before trial</catchphrase>
+<catchphrase id="c1">offer rejected by applicants</catchphrase>
+<catchphrase id="c2">respondent wholly successful at trial</catchphrase>
+<catchphrase id="c3">whether applicants' rejection unreasonable</catchphrase>
+<catchphrase id="c4">whether respondent entitled to his costs incurred after rejection of offer on indemnity basis</catchphrase>
+<catchphrase id="c5">whether offer conformed to calderbank principle.</catchphrase>
+<catchphrase id="c6">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -49,7 +49,7 @@
 <sentence id="s32">That case did not involve the rejection of an offer of settlement.</sentence>
 <sentence id="s33">His Honour's reference to "an imprudent refusal of an offer to compromise" was contained within a statement of general "principles or guidelines" that he distilled from certain authorities which had decided claims for indemnity costs.</sentence>
 <sentence id="s34">The authorities to which his Honour referred in relation to an imprudent refusal were Messiter v Hutchinson (1987) 10 NSWLR 525, Maitland Hospital v Fisher (No 2) (1992) 27 NSWLR 721 and Crisp v Keng , an unreported judgment of the NSW Court of Appeal given on 27 September 1993.</sentence>
-<sentence id="s35">I would, however, and with respect to Sheppard J, echo the note of caution expressed with respect to the use of those authorities by Hill J in John S Hayes &amp; Associates Pty Ltd v Kimberly-Clark Australia Pty Ltd (1994) 52 FCR 201, 204.</sentence>
+<sentence id="s35">I would, however, and with respect to Sheppard J, echo the note of caution expressed with respect to the use of those authorities by Hill J in John S Hayes &amp;amp; Associates Pty Ltd v Kimberly-Clark Australia Pty Ltd (1994) 52 FCR 201, 204.</sentence>
 <sentence id="s36">As Hill J pointed out, the authorities do not appear to sustain the proposition that the "imprudent" refusal of an offer to compromise should incline the court, in an appropriate case, to make a costs order on an indemnity basis.</sentence>
 <sentence id="s37">Messiter did not involve a claim for indemnity costs.</sentence>
 <sentence id="s38">Both Maitland and Crisp did, but the claim in each case arose under the NSW equivalent of O 23 r 11(4)(d) of the Federal Court Rules , under which a presumptive entitlement to indemnity costs arises where a plaintiff succeeds for an amount more than a sum for which he or she had previously offered to settle.</sentence>
@@ -188,7 +188,7 @@ Dated: 31 January 2008
 
  Counsel for the Applicant: Mr Fisher 
  
- Solicitor for the Applicant: Kenny &amp; Co Solicitors 
+ Solicitor for the Applicant: Kenny &amp;amp; Co Solicitors 
  
  Counsel for the Respondent: Mr Crowe 
  

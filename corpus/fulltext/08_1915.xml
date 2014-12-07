@@ -3,21 +3,21 @@
 <name>Coles Supermarkets Australia Pty Ltd v FKP Limited [2008] FCA 1915 (18 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1915.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">inconsistent contracts</catchphrase>
-<catchphrase "id=c1">whether later contract inconsistent with earlier contract will, without more, constitute breach of the earlier contract</catchphrase>
-<catchphrase "id=c2">exchange of draft contracts by email</catchphrase>
-<catchphrase "id=c3">when a communication or group of communications will constitute a binding agreement in the absence of a signed, formal contract</catchphrase>
-<catchphrase "id=c4">contractual negotiations distinguished from variations and novations where there is no objective manifestation of present intent to be bound</catchphrase>
-<catchphrase "id=c5">whether equitable obligation of confidence exists when there is a contractual obligation of confidentiality</catchphrase>
-<catchphrase "id=c6">whether equity will intervene when there is an adequate remedy at law</catchphrase>
-<catchphrase "id=c7">when a contractual promise or representation may form the basis of misleading or deceptive conduct claim under ss 51a and 52 of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c8">whether claims of misrepresentation by silence or implication arising out of a contract are actionable</catchphrase>
-<catchphrase "id=c9">whether s 52 imposes an obligation on one contracting party to advise another of the former's subjective interpretation of the contract and whether particular clauses will be adhered to or enforced</catchphrase>
-<catchphrase "id=c10">"implied representation," "representation by silence"</catchphrase>
-<catchphrase "id=c11">contracts</catchphrase>
-<catchphrase "id=c12">equity</catchphrase>
-<catchphrase "id=c13">trade practices</catchphrase>
-<catchphrase "id=c14">words and phrases</catchphrase>
+<catchphrase id="c0">inconsistent contracts</catchphrase>
+<catchphrase id="c1">whether later contract inconsistent with earlier contract will, without more, constitute breach of the earlier contract</catchphrase>
+<catchphrase id="c2">exchange of draft contracts by email</catchphrase>
+<catchphrase id="c3">when a communication or group of communications will constitute a binding agreement in the absence of a signed, formal contract</catchphrase>
+<catchphrase id="c4">contractual negotiations distinguished from variations and novations where there is no objective manifestation of present intent to be bound</catchphrase>
+<catchphrase id="c5">whether equitable obligation of confidence exists when there is a contractual obligation of confidentiality</catchphrase>
+<catchphrase id="c6">whether equity will intervene when there is an adequate remedy at law</catchphrase>
+<catchphrase id="c7">when a contractual promise or representation may form the basis of misleading or deceptive conduct claim under ss 51a and 52 of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c8">whether claims of misrepresentation by silence or implication arising out of a contract are actionable</catchphrase>
+<catchphrase id="c9">whether s 52 imposes an obligation on one contracting party to advise another of the former's subjective interpretation of the contract and whether particular clauses will be adhered to or enforced</catchphrase>
+<catchphrase id="c10">"implied representation," "representation by silence"</catchphrase>
+<catchphrase id="c11">contracts</catchphrase>
+<catchphrase id="c12">equity</catchphrase>
+<catchphrase id="c13">trade practices</catchphrase>
+<catchphrase id="c14">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,7 +30,7 @@
 <sentence id="s4">3 The Offer Letter was, on its face, executed by Coles as lessee and FKP as lessor.</sentence>
 <sentence id="s5">However, the respondents contend that, notwithstanding the way in which the Offer Letter is drafted, Lifestyle is the correct party when the intent of the parties is viewed objectively.</sentence>
 <sentence id="s6">Coles does not appear to be particularly concerned either way, but has pleaded its case in the alternative, probably out of an abundance of caution.</sentence>
-<sentence id="s7">4 My present view is that the proper party to the Offer Letter, objectively considered, was and remains Lifestyle, primarily because it is the owner of the Tarneit Property and thus the only party directly capable of conveying a leasehold interest in the property to Coles: see Carminco Gold &amp; Resources Ltd v Findlay &amp; Co Stockbrokers (Underwriters) Pty Ltd (2007) 243 ALR 472 at [22] (stating that the identity of the parties is a "simple question as to who, objectively considered, were intended to be the parties to the contract").</sentence>
+<sentence id="s7">4 My present view is that the proper party to the Offer Letter, objectively considered, was and remains Lifestyle, primarily because it is the owner of the Tarneit Property and thus the only party directly capable of conveying a leasehold interest in the property to Coles: see Carminco Gold &amp;amp; Resources Ltd v Findlay &amp;amp; Co Stockbrokers (Underwriters) Pty Ltd (2007) 243 ALR 472 at [22] (stating that the identity of the parties is a "simple question as to who, objectively considered, were intended to be the parties to the contract").</sentence>
 <sentence id="s8">Another reason for this view is that the negotiations resulting in the Offer Letter were carried over from a period when FKP was not even in the picture (ie when Lifestyle was still Wilbow and was not owned by FKP), objectively suggesting that for Coles it was never a question of doing a deal with FKP but was rather a question of doing a deal with the owner of the Tarneit Property, whoever that was.</sentence>
 <sentence id="s9">5 There is of course room to take the opposing view.</sentence>
 <sentence id="s10">For example, cl 14(b)(3) of the Offer Letter permits Coles to terminate the agreement if the "Lessor" does not own all of the land comprising the Centre by 1 March 2008.</sentence>
@@ -151,7 +151,7 @@ The reference to "approvals' is a reference to approval by the management and bo
  
  
 
-"Centre" is defined as the "Coles Supermarkets Australia Pty Ltd from FKP Limited, Proposed lease at Cnr Hogans &amp; Tarneit Roads, Tarneit".</sentence>
+"Centre" is defined as the "Coles Supermarkets Australia Pty Ltd from FKP Limited, Proposed lease at Cnr Hogans &amp;amp; Tarneit Roads, Tarneit".</sentence>
 <sentence id="s52">16 Finally, cl 26 of the Offer Letter, headed "Documentation," provided that:
  
  
@@ -225,8 +225,8 @@ The reference to "approvals' is a reference to approval by the management and bo
 <sentence id="s95">On 13 November 2007, Mr Delaney received by email from Mr Smith a copy of a 'Concept Plan' that had been provided to him by Mr Terry McCoy, a Commercial Manager at FKP.</sentence>
 <sentence id="s96">Mr Delaney was asked to provide any comments or concerns about the plan.</sentence>
 <sentence id="s97">On 15 November 2007, Mr Delaney requested Mr McCoy to provide the proposed development plan for the Tarneit site as a CAD file which would provide Mr Delaney with measurements accurate enough for him to undertake the design assessment task asked of him by Mr Smith.</sentence>
-<sentence id="s98">Later that day, Ben Hunter, an architect at i2C Design &amp; Management who had been retained by FKP to prepare the proposed development plan, sent the CAD file to Mr Delaney.</sentence>
-<sentence id="s99">25 After reviewing the plan provided by i2C Design &amp; Management, Mr Delaney spoke to Mr McCoy on 19 November 2007 and told him that he had approved the proposed development plan subject to two matters - first, the entry to the mall needed shifting 6 metres to the right to accommodate Coles' stock room and to enable the "correct look through into the fresh food area of the store" and, secondly, the location and size of the trolley storage area required resolution.</sentence>
+<sentence id="s98">Later that day, Ben Hunter, an architect at i2C Design &amp;amp; Management who had been retained by FKP to prepare the proposed development plan, sent the CAD file to Mr Delaney.</sentence>
+<sentence id="s99">25 After reviewing the plan provided by i2C Design &amp;amp; Management, Mr Delaney spoke to Mr McCoy on 19 November 2007 and told him that he had approved the proposed development plan subject to two matters - first, the entry to the mall needed shifting 6 metres to the right to accommodate Coles' stock room and to enable the "correct look through into the fresh food area of the store" and, secondly, the location and size of the trolley storage area required resolution.</sentence>
 <sentence id="s100">Later that afternoon, FKP provided a copy of the development plan which had been amended to take account of the changes proposed by Mr Delaney.</sentence>
 <sentence id="s101">Upon receipt of the amended development plan, Mr Delaney emailed Mr McCoy of FKP, Mr Hunter of i2C and Mr Smith of Coles stating that he was satisfied with the altered plan.</sentence>
 <sentence id="s102">No other correspondence passed between Coles and FKP about the plan for Tarneit.</sentence>

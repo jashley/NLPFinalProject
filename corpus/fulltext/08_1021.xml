@@ -3,17 +3,17 @@
 <name>Ann Street Mezzanine Pty Ltd (In Liquidation) (ACN 102 854 866) v Beck (No 1) [2008] FCA 1021 (30 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1021.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">freezing orders</catchphrase>
-<catchphrase "id=c1">action by regulator in name of corporation</catchphrase>
-<catchphrase "id=c2">action brought pursuant to statutory power</catchphrase>
-<catchphrase "id=c3">claims against directors</catchphrase>
-<catchphrase "id=c4">breach of duties</catchphrase>
-<catchphrase "id=c5">claim for interlocutory relief</catchphrase>
-<catchphrase "id=c6">whether any risk of dissipation of assets</catchphrase>
-<catchphrase "id=c7">limited freezing order granted</catchphrase>
-<catchphrase "id=c8">no undertaking required</catchphrase>
-<catchphrase "id=c9">liberty to apply at short notice to vary or discharge restraint.</catchphrase>
-<catchphrase "id=c10">corporations</catchphrase>
+<catchphrase id="c0">freezing orders</catchphrase>
+<catchphrase id="c1">action by regulator in name of corporation</catchphrase>
+<catchphrase id="c2">action brought pursuant to statutory power</catchphrase>
+<catchphrase id="c3">claims against directors</catchphrase>
+<catchphrase id="c4">breach of duties</catchphrase>
+<catchphrase id="c5">claim for interlocutory relief</catchphrase>
+<catchphrase id="c6">whether any risk of dissipation of assets</catchphrase>
+<catchphrase id="c7">limited freezing order granted</catchphrase>
+<catchphrase id="c8">no undertaking required</catchphrase>
+<catchphrase id="c9">liberty to apply at short notice to vary or discharge restraint.</catchphrase>
+<catchphrase id="c10">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -39,7 +39,7 @@
 <sentence id="s16">Plainly, the power under s 1323 can be exercised where there is a civil proceeding pending but the structure of the section, which includes provision for interim orders and the absence of any requirement to offer an undertaking as to damages in interim orders in proceedings under that section, rather suggests that it is to be treated as self-contained and collateral to, rather than an element of, the civil proceeding upon which it may rely.</sentence>
 <sentence id="s17">I do not need to give a concluded opinion on that matter.</sentence>
 <sentence id="s18">6 The argument put by ASIC in relation to the s 1323 element of its application was that I should make an order under s 23 as an incident of my power to make an order under s 1323.</sentence>
-<sentence id="s19">This would be on the basis that I was satisfied that receivers could be appointed under s 1323 and could then resort to s 23 as a fallback position: see Australian Securities &amp; Investments Commission; In the Matter of Richstar Enterprises Pty Ltd ACN 099 071 968 v Carey (No 14) [2007] FCA 310.</sentence>
+<sentence id="s19">This would be on the basis that I was satisfied that receivers could be appointed under s 1323 and could then resort to s 23 as a fallback position: see Australian Securities &amp;amp; Investments Commission; In the Matter of Richstar Enterprises Pty Ltd ACN 099 071 968 v Carey (No 14) [2007] FCA 310.</sentence>
 <sentence id="s20">I think the preferable course here is to go directly to s 23 and the power it confers in aid of the jurisdiction invoked in these proceedings.</sentence>
 <sentence id="s21">In my opinion, at least for the purposes of making an interim order under s 23 and allowing parties further time to consider their position and also to consider the position of third parties who have not been served, there is sufficient to warrant my making an interlocutory freezing order.</sentence>
 <sentence id="s22">7 ASIC relies largely upon evidence which it adduced before this Court in WAD 83 of 2006 in relation to Mr Carey.</sentence>
@@ -77,7 +77,7 @@ Counsel for the Fourth Defendant:
 Solicitor for the Fourth Defendant: Mr SJ Lemonis
 
 
-Fairweather &amp; Lemonis
+Fairweather &amp;amp; Lemonis
 
 
 Mr M De Kerloy

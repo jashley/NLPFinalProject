@@ -3,23 +3,23 @@
 <name>Defence Force Retirement and Death Benefits Authority v House [2009] FCA 302 (1 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/302.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">tribunal review of decision of the defence force retirement and death benefits authority</catchphrase>
-<catchphrase "id=c2">defence force retirement and death benefits act 1973 (cth)</catchphrase>
-<catchphrase "id=c3">invalidity pension</catchphrase>
-<catchphrase "id=c4">invalidity classification</catchphrase>
-<catchphrase "id=c5">percentage incapacity for civil employment under s 34(1a)(a)</catchphrase>
-<catchphrase "id=c6">physical and mental impairment</catchphrase>
-<catchphrase "id=c7">alcoholism</catchphrase>
-<catchphrase "id=c8">personality disorder</catchphrase>
-<catchphrase "id=c9">whether error of law on part of tribunal</catchphrase>
-<catchphrase "id=c10">whether tribunal considered a serious submission regarding previous tribunal decision</catchphrase>
-<catchphrase "id=c11">whether tribunal failed to take into account relevant considerations</catchphrase>
-<catchphrase "id=c12">improvement of condition</catchphrase>
-<catchphrase "id=c13">range of civil employment available</catchphrase>
-<catchphrase "id=c14">whether reasons of tribunal inadequate</catchphrase>
-<catchphrase "id=c15">relevance of previous related decision of tribunal</catchphrase>
-<catchphrase "id=c16">administrative law</catchphrase>
+<catchphrase id="c0">appeal from administrative appeals tribunal</catchphrase>
+<catchphrase id="c1">tribunal review of decision of the defence force retirement and death benefits authority</catchphrase>
+<catchphrase id="c2">defence force retirement and death benefits act 1973 (cth)</catchphrase>
+<catchphrase id="c3">invalidity pension</catchphrase>
+<catchphrase id="c4">invalidity classification</catchphrase>
+<catchphrase id="c5">percentage incapacity for civil employment under s 34(1a)(a)</catchphrase>
+<catchphrase id="c6">physical and mental impairment</catchphrase>
+<catchphrase id="c7">alcoholism</catchphrase>
+<catchphrase id="c8">personality disorder</catchphrase>
+<catchphrase id="c9">whether error of law on part of tribunal</catchphrase>
+<catchphrase id="c10">whether tribunal considered a serious submission regarding previous tribunal decision</catchphrase>
+<catchphrase id="c11">whether tribunal failed to take into account relevant considerations</catchphrase>
+<catchphrase id="c12">improvement of condition</catchphrase>
+<catchphrase id="c13">range of civil employment available</catchphrase>
+<catchphrase id="c14">whether reasons of tribunal inadequate</catchphrase>
+<catchphrase id="c15">relevance of previous related decision of tribunal</catchphrase>
+<catchphrase id="c16">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -98,7 +98,7 @@ the Authority noted that it had extensively canvassed the question of a possible
  
 (5) Making a statement of reasons that was manifestly inadequate.</sentence>
 <sentence id="s63">I am satisfied that these are proper questions of law for consideration by this Court.</sentence>
-<sentence id="s64">The grounds of appeal of the Authority are as follows: The Tribunal erred in law in not considering a serious submission of the applicant that, adopting the principle that having regard to the dictates of fairness and expedition "previous Tribunal decisions should generally be regarded as establishing the matters actually decided and the grounds for determination unless there is reason not to do so": Re Quinn &amp; Australian Postal Corporation (1992) 15 AAR 519 at 526, the question for the Tribunal is what has changed since the operative date for the previous Tribunal determination of the respondent's incapacity.</sentence>
+<sentence id="s64">The grounds of appeal of the Authority are as follows: The Tribunal erred in law in not considering a serious submission of the applicant that, adopting the principle that having regard to the dictates of fairness and expedition "previous Tribunal decisions should generally be regarded as establishing the matters actually decided and the grounds for determination unless there is reason not to do so": Re Quinn &amp;amp; Australian Postal Corporation (1992) 15 AAR 519 at 526, the question for the Tribunal is what has changed since the operative date for the previous Tribunal determination of the respondent's incapacity.</sentence>
 <sentence id="s65">The Tribunal erred in law in failing to take into account a relevant consideration, ie that the respondent's condition had improved since 2001.</sentence>
 <sentence id="s66">The Tribunal was required to take into account this consideration by s 34(1) of the Act.</sentence>
 <sentence id="s67">The Tribunal erred in law in failing to take into account a relevant consideration, ie that a person with the applicant's skills, qualifications and experience would reasonably be expected to undertake a wider range of civil employment than security officer and foreman.</sentence>
@@ -296,7 +296,7 @@ c) in that the Tribunal's finding that the Appellant's alcoholism and personalit
 <sentence id="s134">It is unnecessary for me, in these proceedings, to look further into previous deliberations and decisions of the Tribunal.</sentence>
 <sentence id="s135">The submission of the Authority in relation to its submission before the Tribunal in these proceedings is that the issue whether Mr House has a personality disorder has previously been before the Tribunal.</sentence>
 <sentence id="s136">The excerpts from her Honour's judgment and the reasons for decision of the Tribunal in House and Defence Force Retirement and Death Benefits Authority [2004] AATA 667 support this submission.</sentence>
-<sentence id="s137">In re Quinn &amp; Australian Postal Corporation (1992) 15 AAR 519 at 526 the Tribunal stated: 
+<sentence id="s137">In re Quinn &amp;amp; Australian Postal Corporation (1992) 15 AAR 519 at 526 the Tribunal stated: 
  It would seem inappropriate and unreasonable to us for there to be relitigation without reason of the same issues before the Tribunal.</sentence>
 <sentence id="s138">It would be unjust to applicants to have to face a situation where a decision may be made today and relitigated tomorrow on the very same facts.</sentence>
 <sentence id="s139">The Tribunal should not generally allow relitigation of issues already decided and previous Tribunal decisions should be regarded as establishing the matters actually decided and of the grounds for the determination.</sentence>
@@ -318,7 +318,7 @@ c) in that the Tribunal's finding that the Appellant's alcoholism and personalit
 <sentence id="s147">However in this case, aside from a bare reference by the Tribunal to the existence of its 2004 decision (at [4]), there is no indication that it had taken into consideration the submission of the Authority concerning previous consideration by the Tribunal of issues relating to Mr House's personality disorder.</sentence>
 <sentence id="s148">This absence of reference to its earlier decision is particularly surprising where the Tribunal has found that Mr House had greater incapacity than that found by the Tribunal in 2004, notwithstanding the evidence before the Tribunal in these proceedings that, between August 2001 and November 2004, inter alia , Mr House had stopped drinking ( House [2008] AATA 38 at [15] ), was no longer an active alcoholic ( House [2008] AATA 38 at [52] ), and Mr House was maturing and less affected by his personality disorder ( House [2008] AATA 38 at [60] ).</sentence>
 <sentence id="s149">In my view this is not a case where the Court can infer that the Tribunal has considered the issue raised by the submission without referring directly to it, or used loose language in addressing the submission made by the Authority.</sentence>
-<sentence id="s150">The law is clear that failure to consider a submission of substance which, if accepted, would be capable of affecting the outcome of the case, constitutes an error of law ( Applicant WAEE v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCAFC 184 ; Casarotto v Australian Postal Corporation [1989] FCA 116 ; (1989) 86 ALR 399 at 403; Dennis Willcox Pty Ltd v FCT (1988) 79 ALR 267 at 276; Sellick [2008] FCA 236 at [35] ).</sentence>
+<sentence id="s150">The law is clear that failure to consider a submission of substance which, if accepted, would be capable of affecting the outcome of the case, constitutes an error of law ( Applicant WAEE v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2003] FCAFC 184 ; Casarotto v Australian Postal Corporation [1989] FCA 116 ; (1989) 86 ALR 399 at 403; Dennis Willcox Pty Ltd v FCT (1988) 79 ALR 267 at 276; Sellick [2008] FCA 236 at [35] ).</sentence>
 <sentence id="s151">Was the submission of the Authority in relation to previous consideration of the issue of Mr House's personality disorder a submission of substance?</sentence>
 <sentence id="s152">In my view it was.</sentence>
 <sentence id="s153">While the Tribunal was not necessarily bound by its early decision --- indeed the decision of the Full Court in Morales (1998) 82 FCR 374 indicates that the issue was one of discretion --- nevertheless the submission should have been considered by the Tribunal in reaching its decision.</sentence>

@@ -3,12 +3,12 @@
 <name>Lohse v Arthur (No 3) [2009] FCA 1118 (2 October 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1118.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">natural justice and procedural fairness</catchphrase>
-<catchphrase "id=c1">bias and apprehension of bias</catchphrase>
-<catchphrase "id=c2">failure to comply with agency head's procedures employment</catchphrase>
-<catchphrase "id=c3">suspected breach of australian public service code of conduct</catchphrase>
-<catchphrase "id=c4">imposition of sanctions including reduction in classification</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase id="c0">natural justice and procedural fairness</catchphrase>
+<catchphrase id="c1">bias and apprehension of bias</catchphrase>
+<catchphrase id="c2">failure to comply with agency head's procedures employment</catchphrase>
+<catchphrase id="c3">suspected breach of australian public service code of conduct</catchphrase>
+<catchphrase id="c4">imposition of sanctions including reduction in classification</catchphrase>
+<catchphrase id="c5">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -516,7 +516,7 @@ A decision-maker will be biased if he or she does not approach the decision-maki
 <sentence id="s218">The requirement that justice should both be done and be seen to be done is one which reflects the fundamental importance of the principle that a decision-maker determining whether or not the Code of Conduct has been breached be independent and impartial ('unbiased').</sentence>
 <sentence id="s219">Where an administrative decision is made in private, the test for apprehended bias is whether a hypothetical fair-minded lay person properly informed as to the nature of the proceedings or process, might reasonably apprehend that the decision-maker might not have brought an impartial mind to the making of the decision.</sentence>
 <sentence id="s220">In deciding such a matter, the Court determines the issues objectively (see per McHugh J in Hot Holdings Pty Limited v Creasy [2002] HCA 51 ; (2002) 210 CLR 438 ('Hot Holdings) at [68] where his Honour effectively paraphrased what had been said by Gleeson CJ, Gaudron and Gummow JJ in Re Refugee Review Tribunal; Ex parte H [2001] HCA 28 ; (2001) 179 ALR 425 ('Re RRT; Ex parte H') at [27]-[28]).</sentence>
-<sentence id="s221">In relation to an alleged apprehension of bias on the part of a judge, Kirby and Crennan JJ said in Concrete Pty Ltd v Parramatta Design &amp; Developments Pty Ltd [2006] HCA 55 ; (2006) 229 CLR 577 ('Parramatta Design') at [110]-[112]: 
+<sentence id="s221">In relation to an alleged apprehension of bias on the part of a judge, Kirby and Crennan JJ said in Concrete Pty Ltd v Parramatta Design &amp;amp; Developments Pty Ltd [2006] HCA 55 ; (2006) 229 CLR 577 ('Parramatta Design') at [110]-[112]: 
  
  '110 The appeal [in Parramatta Design] involves the application of well-established principles, which were not in dispute and were both reiterated and explained in Ebner v Official Trustee in Bankruptcy in the joint reasons of Gleeson CJ, McHugh, Gummow and Hayne JJ: 
  
@@ -765,7 +765,7 @@ In my opinion the applicant's submission that the word 'debriefing' was one sugg
 <sentence id="s342">The first issue in the 'scope' of Mr Arthur's engagement to which he was required to adhere when conducting his investigation (see [13] above) was:
  
  
- '&#9679; As a threshold matter, determine if any of Mr Lohse's alleged behaviour(s) occurred while Mr Lohse was acting in the course of APS employment; ...' 
+ '&amp;#9679; As a threshold matter, determine if any of Mr Lohse's alleged behaviour(s) occurred while Mr Lohse was acting in the course of APS employment; ...' 
  
 
  

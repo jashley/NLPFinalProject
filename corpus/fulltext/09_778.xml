@@ -3,20 +3,20 @@
 <name>Combis, Trustee of the Property of Peter Jensen (Bankrupt) v Jensen [2009] FCA 778 (23 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/778.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">jurisdiction</catchphrase>
-<catchphrase "id=c1">application for stay pursuant to order 20 rule 5 of the federal court rules</catchphrase>
-<catchphrase "id=c2">abuse of process</catchphrase>
-<catchphrase "id=c3">application for leave to amend statement of claim</catchphrase>
-<catchphrase "id=c4">financial agreement between former husband and wife under section 90c of the family law act 1975 (cth)</catchphrase>
-<catchphrase "id=c5">trustee in bankruptcy of husband applied in substantive proceedings to set aside transfer of property to respondent pursuant to financial agreement under section 120 and section 121 of the bankruptcy act</catchphrase>
-<catchphrase "id=c6">whether trustee in bankruptcy should have commenced proceedings under section 90 k of the family law act to set aside financial agreement in the family court</catchphrase>
-<catchphrase "id=c7">whether abuse of process to bring action under section 120 and section 121 of the bankruptcy act instead of under section 90k of the family law act</catchphrase>
-<catchphrase "id=c8">whether matter should be transferred from the federal court to the family court under section 35a of the bankruptcy act</catchphrase>
-<catchphrase "id=c9">interaction of provisions of the bankruptcy act and part viiia of the family law act</catchphrase>
-<catchphrase "id=c10">impact of bankruptcy and family law legislation amendment act 2005 (cth)</catchphrase>
-<catchphrase "id=c11">whether federal court can entertain an application under section 120 and section 121 of the bankruptcy act to set aside a transfer of property pursuant to a financial agreement</catchphrase>
-<catchphrase "id=c12">practice and procedure</catchphrase>
-<catchphrase "id=c13">bankruptcy and insolvency</catchphrase>
+<catchphrase id="c0">jurisdiction</catchphrase>
+<catchphrase id="c1">application for stay pursuant to order 20 rule 5 of the federal court rules</catchphrase>
+<catchphrase id="c2">abuse of process</catchphrase>
+<catchphrase id="c3">application for leave to amend statement of claim</catchphrase>
+<catchphrase id="c4">financial agreement between former husband and wife under section 90c of the family law act 1975 (cth)</catchphrase>
+<catchphrase id="c5">trustee in bankruptcy of husband applied in substantive proceedings to set aside transfer of property to respondent pursuant to financial agreement under section 120 and section 121 of the bankruptcy act</catchphrase>
+<catchphrase id="c6">whether trustee in bankruptcy should have commenced proceedings under section 90 k of the family law act to set aside financial agreement in the family court</catchphrase>
+<catchphrase id="c7">whether abuse of process to bring action under section 120 and section 121 of the bankruptcy act instead of under section 90k of the family law act</catchphrase>
+<catchphrase id="c8">whether matter should be transferred from the federal court to the family court under section 35a of the bankruptcy act</catchphrase>
+<catchphrase id="c9">interaction of provisions of the bankruptcy act and part viiia of the family law act</catchphrase>
+<catchphrase id="c10">impact of bankruptcy and family law legislation amendment act 2005 (cth)</catchphrase>
+<catchphrase id="c11">whether federal court can entertain an application under section 120 and section 121 of the bankruptcy act to set aside a transfer of property pursuant to a financial agreement</catchphrase>
+<catchphrase id="c12">practice and procedure</catchphrase>
+<catchphrase id="c13">bankruptcy and insolvency</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -103,7 +103,7 @@
 <sentence id="s64">
 
  As observed by the majority of the High Court in Williams v Spautz [1992] HCA 34 ; (1992) 174 CLR 509 at 518, it is well established that Australian superior courts have inherent jurisdiction to stay proceedings which are an abuse of process.</sentence>
-<sentence id="s65">So, a superior court has power to prevent an abuse of process when process is predominantly used as a means of obtaining an advantage for which the proceedings were not intended ( Williams v Spautz [1992] HCA 34 ; (1992) 174 CLR 509 at 521-522, 529, Goldsmith v Sperrings Ltd (1977) 1 WLR 478 , Metall &amp; Rohstoff AG v Donaldson Inc [1990] 1 QB 391).</sentence>
+<sentence id="s65">So, a superior court has power to prevent an abuse of process when process is predominantly used as a means of obtaining an advantage for which the proceedings were not intended ( Williams v Spautz [1992] HCA 34 ; (1992) 174 CLR 509 at 521-522, 529, Goldsmith v Sperrings Ltd (1977) 1 WLR 478 , Metall &amp;amp; Rohstoff AG v Donaldson Inc [1990] 1 QB 391).</sentence>
 <sentence id="s66">A manifestation of this principle can be seen in cases where a litigant, having been unsuccessful in respect of one application, seeks to bring substantially the same application in the same or another court ( Reichel v Magrath (1889) 14 App Cas 665 at 668-669, Williams v Hunt [1905] 1 KB 512 , Wilson v Commonwealth of Australia [1999] FCA 1308 at [11] - [12] ), Lindsey v Philip Morris Ltd [2004] FCA 797 , Coffey v Secretary, Department of Social Security [1999] FCA 375 ; (1999) 86 FCR 434).</sentence>
 <sentence id="s67">In order for the Court to stay a proceeding on the basis of abuse of process the Court must be satisfied that the case is: 
  "so obviously untenable that it cannot possibly succeed"; "manifestly groundless"; "so manifestly faulty that it does not admit of argument"; "discloses a case which the Court is satisfied cannot succeed"; "under no possibility can there be a good cause of action"; [or] "be manifest that to allow them" (the pleadings) "to stand would involve useless expense".</sentence>
@@ -245,7 +245,7 @@
 
  Financial agreements are binding on the parties thereto without the necessity for order of the Family Court (s 90G).</sentence>
 <sentence id="s98">The Family Court may set aside financial agreements in the circumstances provided by s 90K of the Family Law Act .</sentence>
-<sentence id="s99">Section 90K was inserted by the Family Law Amendment Act 2000 (Cth) following the decision of the Family Court in ASIC v Rich &amp; Rich (2004) Fam LR 31,667 where O'Ryan J found that the Family Court had no jurisdiction to set aside a binding financial agreement at the request of a third p arty.</sentence>
+<sentence id="s99">Section 90K was inserted by the Family Law Amendment Act 2000 (Cth) following the decision of the Family Court in ASIC v Rich &amp;amp; Rich (2004) Fam LR 31,667 where O'Ryan J found that the Family Court had no jurisdiction to set aside a binding financial agreement at the request of a third p arty.</sentence>
 <sentence id="s100">So far as relevant, s 90K provides: 
  Circumstances in which court may set aside a financial agreement or termination agreement 
 
@@ -388,7 +388,7 @@
 <sentence id="s167">In support of her claim of abuse of process, the respondent contends in summary that: In my view, the highest at which the respondent can place her case for abuse of process is in terms of Mr Griffin QC's contention that the applicant has sought to "stifle the respondent's legitimate claims" under the Family Law Act .</sentence>
 <sentence id="s168">However, no evidence to that effect has been produced, nor motive demonstrated to substantiate that claim other than the lawful entitlement of the applicant to pursue his rights under the Bankruptcy Act , and put a case based upon those rights to the Court.</sentence>
 <sentence id="s169">Second, in my view a more accurate articulation of the respondent's claim in these interlocutory proceedings is that the Federal Court lacks jurisdiction to deal with the applicant's claims, allegedly because the correct forum for the claim of the applicant is the Family Court, and because the applicant should have commenced proceedings pursuant to s 90K of the Family Law Act in the Family Court.</sentence>
-<sentence id="s170">Clearly this Court has power to permanently stay or dismiss proceedings where the Court has no jurisdiction because of lack of power, absence of legislative grant of jurisdiction, or otherwise ( Rahman v Director-General Department of Education &amp; Training [2005] NSWCA 285 , Ramsay v Accident Compensation Corporation [2007] NZCA 367 , Simundic v University of Newcastle [2007] FCA 676 , Mentyn v Westpac Banking Corporation [2003] FCA 1521 , Coffey v Secretary, Department of Social Security [1999] FCA 375 ; (1999) 86 FCR 434).</sentence>
+<sentence id="s170">Clearly this Court has power to permanently stay or dismiss proceedings where the Court has no jurisdiction because of lack of power, absence of legislative grant of jurisdiction, or otherwise ( Rahman v Director-General Department of Education &amp;amp; Training [2005] NSWCA 285 , Ramsay v Accident Compensation Corporation [2007] NZCA 367 , Simundic v University of Newcastle [2007] FCA 676 , Mentyn v Westpac Banking Corporation [2003] FCA 1521 , Coffey v Secretary, Department of Social Security [1999] FCA 375 ; (1999) 86 FCR 434).</sentence>
 <sentence id="s171">A claim by a litigant that the court has no jurisdiction is however distinguishable from a claim that the litigation constitutes an abuse of process, unless of course the commencement of process for an improper purpose in the sense explained in Williams v Spautz [1992] HCA 34 ; (1992) 174 CLR 509 can also be identified.</sentence>
 <sentence id="s172">Absence of jurisdiction is commonly pleaded as an alternative to a claim for abuse of process.</sentence>
 <sentence id="s173">However even if I am wrong as to the basis of the respondent's claim in these interlocutory proceedings, the respondent has clearly contended that it was appropriate for the Court to permanently stay the substantive proceedings on the grounds that the proper course of the applicant in seeking to impugn the transfer of the Carrara property by Mr Jensen was to apply to the Family Court to have the entire financial agreement set aside pursuant to s 90K(1)(aa) of the Family Law Act .</sentence>

@@ -3,13 +3,13 @@
 <name>IGT v Commissioner of Patents [2008] FCA 15 (17 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/15.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review</catchphrase>
-<catchphrase "id=c1">decision of commissioner of patents refusing leave to adduce further evidence in opposition proceedings</catchphrase>
-<catchphrase "id=c2">proposed consent order to set aside decision</catchphrase>
-<catchphrase "id=c3">whether arguable error of law demonstrated</catchphrase>
-<catchphrase "id=c4">arguable error of law demonstrated</catchphrase>
-<catchphrase "id=c5">proposed order within power and appropriate</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
+<catchphrase id="c0">judicial review</catchphrase>
+<catchphrase id="c1">decision of commissioner of patents refusing leave to adduce further evidence in opposition proceedings</catchphrase>
+<catchphrase id="c2">proposed consent order to set aside decision</catchphrase>
+<catchphrase id="c3">whether arguable error of law demonstrated</catchphrase>
+<catchphrase id="c4">arguable error of law demonstrated</catchphrase>
+<catchphrase id="c5">proposed order within power and appropriate</catchphrase>
+<catchphrase id="c6">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -148,7 +148,7 @@ The delegate agreed with a submission made by Aristocrat's representative that t
  
 18 The joint submissions first addressed the question of the Court's jurisdiction to review the decision under the ADJR Act.</sentence>
 <sentence id="s75">The parties contended that the decision was one of an administrative character made under an enactment, being reg 5.10 of the Patents Regulations .</sentence>
-<sentence id="s76">Reference was made to A Goninan &amp; Co Ltd v Commissioner of Patents [1997] FCA 424 ; (1997) 75 FCR 200 which involved review under the ADJR Act of a decision made pursuant to reg 5.10(2) of the Patents Regulations to allow further time for the filing of evidence.</sentence>
+<sentence id="s76">Reference was made to A Goninan &amp;amp; Co Ltd v Commissioner of Patents [1997] FCA 424 ; (1997) 75 FCR 200 which involved review under the ADJR Act of a decision made pursuant to reg 5.10(2) of the Patents Regulations to allow further time for the filing of evidence.</sentence>
 <sentence id="s77">I am satisfied that the Court has jurisdiction and power to make the order sought.</sentence>
 <sentence id="s78">19 IGT submits to the Court as part of the joint submissions, that the making of the decision was an improper exercise of the power conferred by reg 5.10(4) in that: 
  
@@ -189,11 +189,11 @@ Dated: 17 January 2008
 
  Counsel for the Applicant: Mr P Mallon 
  
- Solicitor for the Applicant: Mallon &amp; Co Lawyers Pty Ltd 
+ Solicitor for the Applicant: Mallon &amp;amp; Co Lawyers Pty Ltd 
  
  Counsel for the Second Respondent: Ms Taliadoros 
  
- Solicitor for the Second Respondent: Gilbert &amp; Tobin 
+ Solicitor for the Second Respondent: Gilbert &amp;amp; Tobin 
  
  Date of Joint Submissions: 15 January 2008 
  

@@ -3,12 +3,12 @@
 <name>Beconwood Securities Pty Ltd v Australia and New Zealand Banking Group Ltd [2009] FCA 131 (19 February 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/131.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">winding up</catchphrase>
-<catchphrase "id=c1">stay of proceedings</catchphrase>
-<catchphrase "id=c2">action for rectification</catchphrase>
-<catchphrase "id=c3">company in liquidation a necessary party</catchphrase>
-<catchphrase "id=c4">leave to proceed</catchphrase>
-<catchphrase "id=c5">corporations law</catchphrase>
+<catchphrase id="c0">winding up</catchphrase>
+<catchphrase id="c1">stay of proceedings</catchphrase>
+<catchphrase id="c2">action for rectification</catchphrase>
+<catchphrase id="c3">company in liquidation a necessary party</catchphrase>
+<catchphrase id="c4">leave to proceed</catchphrase>
+<catchphrase id="c5">corporations law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -44,7 +44,7 @@
 <sentence id="s29">The problem, however, is that relief by way of rectification that Beconwood seeks cannot be granted in the absence of Opes.</sentence>
 <sentence id="s30">It is well settled that a court will not order the rectification of a contract in the absence of the parties to that contract: Rigg v Standard Bank of Australia Ltd (1896) 22 VLR 419 , 430---1 (rectification of a charge could not be ordered in the absence of the contracting parties who "are necessary parties to the action"); Zdrojkowski v Pacholczak (1959) WN (NSW) 503 , 509 ("If all necessary parties have been joined, then the original vendors .... might well have been entitled to have the transfers rectified"); Craddock Brothers v Hunt [1923] 2 Ch 136, 153 ("[I]t is quite clear that the contract cannot be rectified in this action at the instance of the plaintiffs and in the absence of the vendors").</sentence>
 <sentence id="s31">The same rule should apply to an action for rectification pursuant to statute.</sentence>
-<sentence id="s32">On the question of leave, where the plaintiff is claiming his own property from a company in liquidation, leave to proceed is granted as a matter of course: Re David Lloyd &amp; Co (1877) 6 Ch D 339.</sentence>
+<sentence id="s32">On the question of leave, where the plaintiff is claiming his own property from a company in liquidation, leave to proceed is granted as a matter of course: Re David Lloyd &amp;amp; Co (1877) 6 Ch D 339.</sentence>
 <sentence id="s33">This case is different.</sentence>
 <sentence id="s34">Beconwood does not seek to recover its property from Opes.</sentence>
 <sentence id="s35">Rather, as I have explained, it seeks relief in relation to its agreement with Opes as a step to establishing its case against ANZ.</sentence>

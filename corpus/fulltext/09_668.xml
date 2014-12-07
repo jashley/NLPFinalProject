@@ -3,15 +3,15 @@
 <name>JMB Beverages Pty Ltd v Commissioner of Taxation [2009] FCA 668 (22 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/668.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">goods and services tax</catchphrase>
-<catchphrase "id=c1">division 38 of a new tax system (goods and services tax) act 1999 (cth) (gst act): gst-free supplies</catchphrase>
-<catchphrase "id=c2">subdivision 38-a: food- schedule 2: beverages that are gst-free</catchphrase>
-<catchphrase "id=c3">item 11: non-alcoholic carbonated beverages if they consist wholly of juices of fruits or vegetables</catchphrase>
-<catchphrase "id=c4">item 12: non-alcoholic non-carbonated beverages if they consist of at least 90% by volume of juices of fruit or vegetables</catchphrase>
-<catchphrase "id=c5">meaning of 'juices of fruits'</catchphrase>
-<catchphrase "id=c6">ordinary meaning or trade meaning of a sub-set phrase</catchphrase>
-<catchphrase "id=c7">meaning of 'consist of'- contrast to 'contained'- whether de-alcoholised wine at supply point is a non-alcoholic beverage that consists of the requisite measure of juices of fruits for it to be gst-free.</catchphrase>
-<catchphrase "id=c8">taxation</catchphrase>
+<catchphrase id="c0">goods and services tax</catchphrase>
+<catchphrase id="c1">division 38 of a new tax system (goods and services tax) act 1999 (cth) (gst act): gst-free supplies</catchphrase>
+<catchphrase id="c2">subdivision 38-a: food- schedule 2: beverages that are gst-free</catchphrase>
+<catchphrase id="c3">item 11: non-alcoholic carbonated beverages if they consist wholly of juices of fruits or vegetables</catchphrase>
+<catchphrase id="c4">item 12: non-alcoholic non-carbonated beverages if they consist of at least 90% by volume of juices of fruit or vegetables</catchphrase>
+<catchphrase id="c5">meaning of 'juices of fruits'</catchphrase>
+<catchphrase id="c6">ordinary meaning or trade meaning of a sub-set phrase</catchphrase>
+<catchphrase id="c7">meaning of 'consist of'- contrast to 'contained'- whether de-alcoholised wine at supply point is a non-alcoholic beverage that consists of the requisite measure of juices of fruits for it to be gst-free.</catchphrase>
+<catchphrase id="c8">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -75,7 +75,7 @@ Edenvale Shiraz 0.26% v/v
 Edenvale Rose 0.22% v/v
  
 Edenvale Sparkling Cuvee 0.27% v/v
- The de-alcoholised wine is transported in bulk from the Loxton Winery to a bottling plant owned and operated by G. Patritti &amp; Co Pty Ltd. All the Edenvale products are tested upon arrival at the bottling plant.</sentence>
+ The de-alcoholised wine is transported in bulk from the Loxton Winery to a bottling plant owned and operated by G. Patritti &amp;amp; Co Pty Ltd. All the Edenvale products are tested upon arrival at the bottling plant.</sentence>
 <sentence id="s40">Small amounts of sulphur dioxide may be added at the bottling plant in order to ensure that the Edenvale products are within specifications.</sentence>
 <sentence id="s41">The de-alcoholised Edenvale Chardonnay, Edenvale Shiraz and Edenvale Rose are filtered before being bottled with screw caps.</sentence>
 <sentence id="s42">The bottled products are then pasteurised at the lowest possible heat.</sentence>
@@ -147,9 +147,9 @@ By s 182-15 of the GST Act, the second column cannot be taken into account in in
 <sentence id="s76">To qualify for exemption, both issues must be answered in the affirmative.</sentence>
 <sentence id="s77">A negative answer to either will mean that the applicant fails.</sentence>
 <sentence id="s78">LEGISLATIVE HISTORY AND EARLIER JUDICIAL CONSIDERATION 
- Items 11 and 12 of the Table had their origin in Item 36(3) in the Schedule to the Sales Tax Exemptions Act 1935 (Cth) which was subsequently renamed the Sales Tax (Exemptions and Classifications) Act 1935 (Cth) ('the E &amp; C Act').</sentence>
+ Items 11 and 12 of the Table had their origin in Item 36(3) in the Schedule to the Sales Tax Exemptions Act 1935 (Cth) which was subsequently renamed the Sales Tax (Exemptions and Classifications) Act 1935 (Cth) ('the E &amp;amp; C Act').</sentence>
 <sentence id="s79">Item 36(3) exempted from sales tax: 'Essences (being substantially juices of Australian fruits) from which non-alcoholic beverages are made'.</sentence>
-<sentence id="s80">In Federal Commissioner of Taxation v F H Faulding &amp; Co Limited [1950] HCA 42 ; (1950) 83 CLR 594 , the High Court of Australia had occasion to consider Item 36(3) of, what was then, the First Schedule to the E &amp; C Act, when it was in the following terms: 'Essences, concentrates and cordials, consisting wholly or principally of juices of Australian fruits, for the making of non-alcoholic beverages; non-alcoholic beverages consisting wholly of Australian fruits'.</sentence>
+<sentence id="s80">In Federal Commissioner of Taxation v F H Faulding &amp;amp; Co Limited [1950] HCA 42 ; (1950) 83 CLR 594 , the High Court of Australia had occasion to consider Item 36(3) of, what was then, the First Schedule to the E &amp;amp; C Act, when it was in the following terms: 'Essences, concentrates and cordials, consisting wholly or principally of juices of Australian fruits, for the making of non-alcoholic beverages; non-alcoholic beverages consisting wholly of Australian fruits'.</sentence>
 <sentence id="s81">It is important to an appreciation of what was said in the Full High Court and its relevance to this case, that the framework of the issues which came up to the Full Court be understood.</sentence>
 <sentence id="s82">It was not disputed that the liquids sold were cordials nor that they were cordials for the making of non-alcoholic beverages or that they contained substantial quantities of juices of Australian fruits.</sentence>
 <sentence id="s83">They did not consist wholly of such juices.</sentence>
@@ -227,20 +227,20 @@ By s 182-15 of the GST Act, the second column cannot be taken into account in in
 
  I have referred at some length to the Pepsi-Cola case because of the reliance placed on it by counsel for the applicant for his submission, or the first alternative of it, that the Edenvale products consist of the requisite measures by volume of the juices of fruits at the point of supply notwithstanding the anterior fermentation and de-alcoholisation processes.</sentence>
 <sentence id="s113">For reasons I will come to, reliance on the Pepsi-Cola case for that submission, in my view, is flawed.</sentence>
-<sentence id="s114">Immediately before the commencement of the GST Act, Item 11 of the Table found expression in Item 13(4) of the Second Schedule to the E &amp; C Act 1992 : 'non-alcoholic carbonated beverages, if they consist wholly of juices of fruits or vegetables', and Item 12 of the Table found expression in Item 13(3) of the Second Schedule to the E &amp; C Act, although the bar for the volume requirement of juices of fruits or vegetables was set much lower: 'non-alcoholic non-carbonated beverages, if they consist of at least 25% by volume of juices of fruits or vegetables'.</sentence>
+<sentence id="s114">Immediately before the commencement of the GST Act, Item 11 of the Table found expression in Item 13(4) of the Second Schedule to the E &amp;amp; C Act 1992 : 'non-alcoholic carbonated beverages, if they consist wholly of juices of fruits or vegetables', and Item 12 of the Table found expression in Item 13(3) of the Second Schedule to the E &amp;amp; C Act, although the bar for the volume requirement of juices of fruits or vegetables was set much lower: 'non-alcoholic non-carbonated beverages, if they consist of at least 25% by volume of juices of fruits or vegetables'.</sentence>
 <sentence id="s115">In both cases they were subject to 10% sales tax rather than being, as under the GST Act, tax free.</sentence>
-<sentence id="s116">Item 11, but not Item 12, of the Table came up for judicial consideration in P &amp; N Beverages Australia Pty Ltd v Commissioner of Taxation [2007] NSWSC 338 ; (2007) 210 FLR 202.</sentence>
-<sentence id="s117">The plaintiff taxpayer (P &amp; N) manufactured carbonated fruit drinks by reconstituting a fruit concentrate with water and non-fruit based additives.</sentence>
+<sentence id="s116">Item 11, but not Item 12, of the Table came up for judicial consideration in P &amp;amp; N Beverages Australia Pty Ltd v Commissioner of Taxation [2007] NSWSC 338 ; (2007) 210 FLR 202.</sentence>
+<sentence id="s117">The plaintiff taxpayer (P &amp;amp; N) manufactured carbonated fruit drinks by reconstituting a fruit concentrate with water and non-fruit based additives.</sentence>
 <sentence id="s118">It sought declarations that supplies of the fruit drinks were exempt from GST in reliance on Item 11 of the Table.</sentence>
 <sentence id="s119">The Supreme Court of New South Wales (Gzell J) dismissed the claim for relief and in doing so rejected a number of submissions concerning the phrase 'juices of fruits', at least three of which were repeated by the applicant in the present case.</sentence>
 <sentence id="s120">His Honour observed at [24] that it was common ground that the phrase 'juices of fruits' does not have a trade meaning.</sentence>
 <sentence id="s121">At [36] he referred to what was said by a Full Court of this Court in Zeroz Pty Ltd v Deputy Commissioner of Taxation (1997) 35 ATR 349 at 357, 'if there is no trade usage then a fortiori the expression must be used in its ordinary English sense'.</sentence>
-<sentence id="s122">But P &amp; N in that case, like the applicant in this case, made a number of submissions which, at the risk of doing the applicant a disservice, went something like this: 
+<sentence id="s122">But P &amp;amp; N in that case, like the applicant in this case, made a number of submissions which, at the risk of doing the applicant a disservice, went something like this: 
 (1) While the phrase 'juices of fruits' does not have a trade meaning, the phrase is synonymous with 'fruit juice' and that term had a trade meaning as defined in the Food Standards Code .</sentence>
 <sentence id="s123">(The Food Standards Code is a reference to the Australia New Zealand Food Standards Code as defined in the Food Standards Australia New Zealand Act 1991 (Cth).</sentence>
 <sentence id="s124">The Food Standards Code , standard 2.6.1, with respect to fruit juice and vegetable juice, defined fruit juice or vegetable juice as the liquid portion, with or without pulp, obtained from fruit or vegetables respectively and in the case of citrus fruit, other than lime, the endocarp only of the fruit and included products that had been concentrated and later reconstituted with water to a concentration consistent with that of the undiluted juice from which it had been made.</sentence>
-<sentence id="s125">At [21] and [22], his Honour observed that it was common ground that the fruit drinks supplied by P &amp; N met the Food Standards Code requirements.</sentence>
-<sentence id="s126">It was also common ground that P &amp; N fruit drinks contained non-fruit based additives, vitamins and minerals or used processing aids within the limits permitted by the Food Standards Code .</sentence>
+<sentence id="s125">At [21] and [22], his Honour observed that it was common ground that the fruit drinks supplied by P &amp;amp; N met the Food Standards Code requirements.</sentence>
+<sentence id="s126">It was also common ground that P &amp;amp; N fruit drinks contained non-fruit based additives, vitamins and minerals or used processing aids within the limits permitted by the Food Standards Code .</sentence>
 <sentence id="s127">The evidence was that the fruit drinks contained 98% - 99% fruit juice and 1% - 2% additives and processing aids not directly derived from fruit.</sentence>
 <sentence id="s128">)
  
@@ -307,7 +307,7 @@ By s 182-15 of the GST Act, the second column cannot be taken into account in in
 <sentence id="s168">There is also a policy predisposition against 'hot food' which is not prepared in the home --- the consequence being that standard takeaway food is liable for GST, for example, hamburgers, chips, BBQ chickens, pies, pizzas, as well as takeaways in plastic food containers.</sentence>
 <sentence id="s169">As the express purpose of the amendments identified in the Explanatory Memorandum was to ensure that only 'basic food for human consumption' was GST-free, it is also unlikely, the Commissioner submitted, that it was intended to encompass beverages where the essential character of the original 'natural' nature of the product has been altered due to it having undergone a process.</sentence>
 <sentence id="s170">Such a legislative purpose is also discernable both from the circumstances in which the amendments arose, and the context in which Items 11 and 12 appear in the Table.</sentence>
-<sentence id="s171">This was recognised by Gzell J in P &amp; N at [32]: 
+<sentence id="s171">This was recognised by Gzell J in P &amp;amp; N at [32]: 
  There is a lot to be said for the submission of the Commissioner that when the compromise was made for a qualified exemption for food to ensure the passage of legislation, as Sundberg J points out Cascade Brewery Co Pty Ltd v Commissioner of Taxation [2006] FCA 821 ; (2006) 153 FCR 11 at [40] , the legislature seems to have drawn the line between exempt and non-exempt food supplies in favour of food that is fresh, natural or unprocessed.</sentence>
 <sentence id="s172">For example, the beverages that are not included in the table to cl 1 of Sch 2 of the GST Act and are therefore not GST-free, include soft drinks and cordials, flavoured milk (Item 2) and flavoured soy milk and rice milk (Item 4).</sentence>
 <sentence id="s173">The only carbonated beverages that are GST-free are those satisfying Item 11, and water (Item 14), is GST-free only if it is non-carbonated and without any other additives.</sentence>
@@ -316,7 +316,7 @@ By s 182-15 of the GST Act, the second column cannot be taken into account in in
  First Issue: Whether the Edenvale products consist wholly (Item 11) or at least 90% by volume (Item 12) of the juices of fruits?</sentence>
 <sentence id="s175">The phrase 'juices of fruits'
  It is common ground that the phrase 'juices of fruits' does not have a trade meaning.</sentence>
-<sentence id="s176">The applicant submitted, through the line of reasoning rejected in P &amp; N (see [55] and [58] above), that 'juices of fruits' is 'fruit juice' as defined in the Food Standards Code , which defines 'fruit juice' to include products that have been concentrated and later reconstituted with water to a concentration consistent with that of the undiluted juice from which it was made.</sentence>
+<sentence id="s176">The applicant submitted, through the line of reasoning rejected in P &amp;amp; N (see [55] and [58] above), that 'juices of fruits' is 'fruit juice' as defined in the Food Standards Code , which defines 'fruit juice' to include products that have been concentrated and later reconstituted with water to a concentration consistent with that of the undiluted juice from which it was made.</sentence>
 <sentence id="s177">The Commissioner did not accept that 'juices of fruits' is synonymous with 'fruit juice', the first step in the applicant's line of reasoning.</sentence>
 <sentence id="s178">Insofar as the applicant called in aid the second column of the Table, the Commissioner submitted that this was not permissible: s 182-15 of the GST Act.</sentence>
 <sentence id="s179">According to the Commissioner, there is no ambiguity, obscurity or manifestly absurd or unreasonable result flowing from the ordinary meaning of the text, taking into account its context and the purpose or object underlying it, which would mandate such recourse: see subs 182-10(2).</sentence>
@@ -348,7 +348,7 @@ The Oxford English Dictionary :
 <sentence id="s190">The specific discussion of the treatment of beverages stated that 'the only beverages and ingredients that will be GST-free are those beverages and ingredients specifically listed' in cl 1 of Sch 2, which included 'fruit and vegetable juices if they consist of at least 90% by volume of juices of fruits or vegetables': Further Supplementary Explanatory Memorandum (Senate) to the A New Tax System (Goods and Services Tax) Bill 1998 , paras 1.54 and 1.55.</sentence>
 <sentence id="s191">The Commissioner submitted that the legislative background to the food amendments and the apparently deliberate adoption of drafting previously used in the sales tax legislation is indicative of continuity in the use and meaning of 'juice' between the 'old' sales tax regime and the GST Act.</sentence>
 <sentence id="s192">The Commissioner further submitted that it is self-evident from the GST Act that there was an intention to narrow the scope of those fruit or vegetable juice products that would receive GST-free treatment compared to those products that were subject to the concessional WST rate of 10% immediately prior to the introduction of the GST.</sentence>
-<sentence id="s193">For example, under Item 13 in Sch 2 to the E &amp; C Act the respective percentages for concentrates, and non-alcoholic non-carbonated beverages moved from 25% to 90% by volume of juices of fruits.</sentence>
+<sentence id="s193">For example, under Item 13 in Sch 2 to the E &amp;amp; C Act the respective percentages for concentrates, and non-alcoholic non-carbonated beverages moved from 25% to 90% by volume of juices of fruits.</sentence>
 <sentence id="s194">This change in percentages was to restrict the availability of the exemption and supports the view that the meaning of 'juices of fruits' should not be seen to have expanded on the introduction of the GST.</sentence>
 <sentence id="s195">Reference was made to Cascade Brewery Company Pty Ltd v Commissioner of Taxation [2006] FCA 821 ; 153 FCR 11 where Sundberg J said at [40]: 
  The reason for the qualified exemption of food from GST is well-known, and was common ground.</sentence>
@@ -379,7 +379,7 @@ The Oxford English Dictionary :
 <sentence id="s211">[p 359 --- 360] 
 
  Similarly in the current proceedings the Food Standards Code could have no relevance for the same reason.</sentence>
-<sentence id="s212">As Gzell J said in P &amp; N at [33]: 
+<sentence id="s212">As Gzell J said in P &amp;amp; N at [33]: 
  ...</sentence>
 <sentence id="s213">The phrase had its origin in 'juices of Australian fruits' in 1935 well before the gazettal of the Foods Standards Code in 1987.</sentence>
 <sentence id="s214">It was unreal to say that the code preceded the GST Act when the origin of Item 11 in the table in cl 1 of Sch 2 preceded the code.</sentence>
@@ -423,7 +423,7 @@ The Oxford English Dictionary :
 <sentence id="s243">However, the applicant argues that the additional volume largely consists of rainwater added to the beverage as part of the reconstitution process and, accordingly, the rainwater should properly be regarded as part of the grape juice.</sentence>
 <sentence id="s244">Once an adjustment is made for the rainwater (and taken into account as being part of the juices of fruits, but see [96] below), the product consists of 99.1% by volume of juices of fruits.</sentence>
 <sentence id="s245">It is then suggested by the applicant that the de minimis rule should apply to the remainder.</sentence>
-<sentence id="s246">Subject to the de minimis rule applying, which was not argued in P &amp; N , Gzell J stated that 'wholly' meant 100%: 
+<sentence id="s246">Subject to the de minimis rule applying, which was not argued in P &amp;amp; N , Gzell J stated that 'wholly' meant 100%: 
 At [36] --- [37]:
  
  [I]n my view ...</sentence>
@@ -434,7 +434,7 @@ At [36] --- [37]:
  ... 
 
  
- The concession by P &amp; N that the word 'wholly' meant 100% was a proper one.</sentence>
+ The concession by P &amp;amp; N that the word 'wholly' meant 100% was a proper one.</sentence>
 <sentence id="s249">Items 10 and 12 in the table to cl 1 in Sch 2 of the GST Act are, respectively, concentrates for making non-alcoholic beverages if the concentrates consist of at least 90% by volume of juices of fruit, and non-alcoholic non-carbonated beverages if they consist of at least 90% by volume of juices of fruit or vegetables.</sentence>
 <sentence id="s250">In that context, 'wholly' must, in my view, mean 100%.</sentence>
 <sentence id="s251">
@@ -442,9 +442,9 @@ At [36] --- [37]:
  
 And later at [41]:
  
- It follows from my finding that any trade meaning derived from the Foods Standards Code is not attracted by the legislation and my rejection of the argument that the ordinary meaning of the phrase 'wholly of juices of fruits' encompasses fruit drinks with non-fruit based additives, that P &amp; N must fail.</sentence>
-<sentence id="s252">Having accepted that to qualify for exemption, the fruit drinks of P &amp; N must consist of 100% of juices of fruits, the introduction of even 1 % of non-fruit based additives means that the exemption is not attracted.</sentence>
-<sentence id="s253">No de minimis argument was raised on behalf of P &amp; N. 
+ It follows from my finding that any trade meaning derived from the Foods Standards Code is not attracted by the legislation and my rejection of the argument that the ordinary meaning of the phrase 'wholly of juices of fruits' encompasses fruit drinks with non-fruit based additives, that P &amp;amp; N must fail.</sentence>
+<sentence id="s252">Having accepted that to qualify for exemption, the fruit drinks of P &amp;amp; N must consist of 100% of juices of fruits, the introduction of even 1 % of non-fruit based additives means that the exemption is not attracted.</sentence>
+<sentence id="s253">No de minimis argument was raised on behalf of P &amp;amp; N. 
 
  The de minimis rule does not arise for consideration in the current context unless the rainwater that is added to the beverage is regarded as being part of the 'juices of fruit'.</sentence>
 <sentence id="s254">Dr Brooke-Taylor in his further report (annexed to his affidavit sworn on 2 April 2009) describes the product to which the 'reconstitution' (by way of the addition of rainwater) is made as follows (at para (3)): 
@@ -472,7 +472,7 @@ The reference to 'fruit juice product' in the above extract is not a reference t
 <sentence id="s271">Reference was also made to the canon of statutory construction that terms used in statutes that are in pari materia should be given the same meaning unless there is a clear indication to the contrary: Attorney-General v Prince Ernest Augustus of Hanover [1957] AC 436 at 461 per Viscount Simonds; The Wik Peoples v The State of Queensland (1996) 187 CLR 1 at 171 per Gummow J.</sentence>
 <sentence id="s272">Various benchmarks were referred to in regulatory legislation in Australia and overseas.</sentence>
 <sentence id="s273">Liquor licensing and control statutes in various States of Australia --- where 'liquor' means either a beverage that contains more than 0.5% alcohol by volume or a beverage that contains more than 1.15% alcohol by volume.</sentence>
-<sentence id="s274">Reference was also made to the distinction between alcoholic beverages and non-alcoholic beverages previously drawn under the E &amp; C Act where a benchmark of 1.15% by volume of alcohol was adopted.</sentence>
+<sentence id="s274">Reference was also made to the distinction between alcoholic beverages and non-alcoholic beverages previously drawn under the E &amp;amp; C Act where a benchmark of 1.15% by volume of alcohol was adopted.</sentence>
 <sentence id="s275">The applicant submitted that the Customs Tariff Act 1995 (Cth) is legislation that is in pari materia to the GST Act.</sentence>
 <sentence id="s276">Under Sch 3 'Classification of goods and general and special rates of duty' of the Customs Tariff Act 1995 there is a distinction between, inter alia , preparations of fruit juices (Chapter 20) and beverages (Chapter 22).</sentence>
 <sentence id="s277">Note 5 to Chapter 20 provides that: 

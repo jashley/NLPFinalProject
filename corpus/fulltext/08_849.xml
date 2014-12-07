@@ -3,15 +3,15 @@
 <name>H K Systems Australia Pty Ltd v Debus [2008] FCA 849 (6 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/849.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interrogatories in proceedings for judicial review</catchphrase>
-<catchphrase "id=c1">proposed questioning of respondents in relation to decision by minister to order detention of firearms</catchphrase>
-<catchphrase "id=c2">challenge to grounds of review</catchphrase>
-<catchphrase "id=c3">obligations of minister under s 77ea of customs act</catchphrase>
-<catchphrase "id=c4">whether departure of minister from practice of predecessors creates potentially reviewable error</catchphrase>
-<catchphrase "id=c5">whether applicant experienced discrimination based on non-detention of similar firearms</catchphrase>
-<catchphrase "id=c6">whether s 31a of federal court of australia act capable of being invoked in relation to untenable grounds of review</catchphrase>
-<catchphrase "id=c7">whether interrogatories objectionable on the basis of "fishing"</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
+<catchphrase id="c0">interrogatories in proceedings for judicial review</catchphrase>
+<catchphrase id="c1">proposed questioning of respondents in relation to decision by minister to order detention of firearms</catchphrase>
+<catchphrase id="c2">challenge to grounds of review</catchphrase>
+<catchphrase id="c3">obligations of minister under s 77ea of customs act</catchphrase>
+<catchphrase id="c4">whether departure of minister from practice of predecessors creates potentially reviewable error</catchphrase>
+<catchphrase id="c5">whether applicant experienced discrimination based on non-detention of similar firearms</catchphrase>
+<catchphrase id="c6">whether s 31a of federal court of australia act capable of being invoked in relation to untenable grounds of review</catchphrase>
+<catchphrase id="c7">whether interrogatories objectionable on the basis of "fishing"</catchphrase>
+<catchphrase id="c8">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -469,7 +469,7 @@ And the respondents are required to answer interrogatories numbered 1 to 4 after
 <sentence id="s165">Before discovery can be ordered, there must be some evidence that can support an arguable case for review, proof of which is likely to be aided by requiring production of relevant documents.</sentence>
 <sentence id="s166">47 The same approach should be taken to the grant of leave to deliver interrogatories.</sentence>
 <sentence id="s167">48 It should not be thought that I reject absolutely the use of additional evidence on judicial review.</sentence>
-<sentence id="s168">While generally the state of mind of the decision maker would be irrelevant in judicial review, there are cases which warrant the reception of such evidence: see, for example, Percerep v Minister for Immigration and Multicultural Affairs [1998] FCA 1088 ; (1998) 86 FCR 483 and McCormack v Deputy Commissioner of Taxation Large Business &amp; International [2001] FCA 1700 at [38] .</sentence>
+<sentence id="s168">While generally the state of mind of the decision maker would be irrelevant in judicial review, there are cases which warrant the reception of such evidence: see, for example, Percerep v Minister for Immigration and Multicultural Affairs [1998] FCA 1088 ; (1998) 86 FCR 483 and McCormack v Deputy Commissioner of Taxation Large Business &amp;amp; International [2001] FCA 1700 at [38] .</sentence>
 <sentence id="s169">For example, allegations of actual bias may require evidence relating to extraneous matters going far beyond the material before the decision maker.</sentence>
 <sentence id="s170">Claims of improper purpose typically present evidentiary difficulties.</sentence>
 <sentence id="s171">The Court must determine, in cases of that type, whether a stated purpose was in fact the real purpose.</sentence>
@@ -496,7 +496,7 @@ Dated: 6 June 2008
 
  Counsel for the Applicant: Mr T. Hurley 
  
- Solicitors for the Applicant: Balmer &amp; Associates 
+ Solicitors for the Applicant: Balmer &amp;amp; Associates 
  
  Counsel for the Respondents: Mr P.R.D.</sentence>
 <sentence id="s190">Gray with Ms Z.E.</sentence>

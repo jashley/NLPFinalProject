@@ -3,25 +3,25 @@
 <name>Lynx Engineering Consultants Pty Ltd v The ANI Corporation Limited trading as ANI Bradken Rail Transportation Group (No 2) [2009] FCA 363 (17 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/363.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to strike out statement of claim</catchphrase>
-<catchphrase "id=c1">application for summary judgment</catchphrase>
-<catchphrase "id=c2">whether pleadings disclose reasonable cause of action</catchphrase>
-<catchphrase "id=c3">pleadings struck out</catchphrase>
-<catchphrase "id=c4">whether leave to re-plead should be granted</catchphrase>
-<catchphrase "id=c5">applicant claims designs and technical information of railway wagons confidential</catchphrase>
-<catchphrase "id=c6">claimed misuse of confidential information</catchphrase>
-<catchphrase "id=c7">elements of breach of confidence</catchphrase>
-<catchphrase "id=c8">whether confidential information precisely identified in pleadings</catchphrase>
-<catchphrase "id=c9">whether breach of confidential information adequately pleaded</catchphrase>
-<catchphrase "id=c10">claimed copyright in documentary materials evidencing design of wagons</catchphrase>
-<catchphrase "id=c11">copyright infringement pleaded</catchphrase>
-<catchphrase "id=c12">whether applicant identified works alleged to have been reproduced or the manner of alleged reproduction</catchphrase>
-<catchphrase "id=c13">misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c14">conduct said to be misleading not pleaded</catchphrase>
-<catchphrase "id=c15">practice and procedure</catchphrase>
-<catchphrase "id=c16">equity</catchphrase>
-<catchphrase "id=c17">copyright</catchphrase>
-<catchphrase "id=c18">trade practices</catchphrase>
+<catchphrase id="c0">application to strike out statement of claim</catchphrase>
+<catchphrase id="c1">application for summary judgment</catchphrase>
+<catchphrase id="c2">whether pleadings disclose reasonable cause of action</catchphrase>
+<catchphrase id="c3">pleadings struck out</catchphrase>
+<catchphrase id="c4">whether leave to re-plead should be granted</catchphrase>
+<catchphrase id="c5">applicant claims designs and technical information of railway wagons confidential</catchphrase>
+<catchphrase id="c6">claimed misuse of confidential information</catchphrase>
+<catchphrase id="c7">elements of breach of confidence</catchphrase>
+<catchphrase id="c8">whether confidential information precisely identified in pleadings</catchphrase>
+<catchphrase id="c9">whether breach of confidential information adequately pleaded</catchphrase>
+<catchphrase id="c10">claimed copyright in documentary materials evidencing design of wagons</catchphrase>
+<catchphrase id="c11">copyright infringement pleaded</catchphrase>
+<catchphrase id="c12">whether applicant identified works alleged to have been reproduced or the manner of alleged reproduction</catchphrase>
+<catchphrase id="c13">misleading and deceptive conduct</catchphrase>
+<catchphrase id="c14">conduct said to be misleading not pleaded</catchphrase>
+<catchphrase id="c15">practice and procedure</catchphrase>
+<catchphrase id="c16">equity</catchphrase>
+<catchphrase id="c17">copyright</catchphrase>
+<catchphrase id="c18">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -34,7 +34,7 @@
 <sentence id="s4">Alternatively, those respondents seek pursuant to O 11 r 16 FCR the striking out of [5]-[41], [42]-[51] and [52]-[58] of the amended statement of claim.</sentence>
 <sentence id="s5">The amended motion for WorleyParsons is more complex.</sentence>
 <sentence id="s6">In essence, its seeks the same relief but also dismissal pursuant to s 31A FCA or O 11 r 16 FCR of the whole of the claims of misuse of confidential information or, alternatively, so much of them as is constituted by information: disclosed in Australian Patent Application No.</sentence>
-<sentence id="s7">749848 (31293/99); disclosed in the journal article 'R&amp;D Optimises Stainless Steel Optimises Ore Car Bodies', Railway Gazette International, October 1999, pp 643-646; and/or otherwise in the public domain, including by reason of the public use of the Lynx Golynx Wagon.</sentence>
+<sentence id="s7">749848 (31293/99); disclosed in the journal article 'R&amp;amp;D Optimises Stainless Steel Optimises Ore Car Bodies', Railway Gazette International, October 1999, pp 643-646; and/or otherwise in the public domain, including by reason of the public use of the Lynx Golynx Wagon.</sentence>
 <sentence id="s8">In relation to the copyright claim, WorleyParsons seeks dismissal in these terms: 
 (a) the whole of the applicant's claimed infringements of copyright in artistic works by the manufacture of ore wagons be dismissed pursuant to s 77 of the Copyright Act 1968 (CA) and s 31A FCA;
  
@@ -124,7 +124,7 @@ for it to have no reasonable prospect of success.</sentence>
 <sentence id="s56">Lynx relies in part upon that judgment as support for the argument that it is arguable that it will be entitled to relief against WorleyParsons.</sentence>
 <sentence id="s57">(I consider the earlier decision does not directly afford support of this nature.</sentence>
 <sentence id="s58">The relevant tests for non party-discovery and for summary dismissal are different).</sentence>
-<sentence id="s59">There was a further decision in WAD 219 of 2006 ( Lynx Engineering Consultants Pty Ltd v ANI Corporation Limited &amp; Others (No 2) [2007] FCA 1510 ; (2007) 163 FCR 372 by Siopis J).</sentence>
+<sentence id="s59">There was a further decision in WAD 219 of 2006 ( Lynx Engineering Consultants Pty Ltd v ANI Corporation Limited &amp;amp; Others (No 2) [2007] FCA 1510 ; (2007) 163 FCR 372 by Siopis J).</sentence>
 <sentence id="s60">The issue concerned preliminary discovery.</sentence>
 <sentence id="s61">Additionally, I gave a further brief decision in each of the matters on 23 April 2008 ( Lynx Engineering Consultants Pty Ltd v The ANI Corporation Limited trading as ANI Bradken Rail Transportation Group [2008] FCA 555).</sentence>
 <sentence id="s62">This concerned orders for confidential undertakings.</sentence>
@@ -180,7 +180,7 @@ the substance of which information was concerned with and related to the means o
  
 (b) the design features of the Lynx 3CR12 Wagon had the effect of providing a significant improvement in respect of the payload to tare ratio, reduction of operational costs (fuel savings), as well as an improved fatigue life, which carried with it the advantage of the wagon requiring less maintenance;
  
-(c) the prospect of further reductions in weight of the Lynx 3CR12 Wagon were possible, due to improvements, modifications or enhancements of the said design, which was then the subject of ongoing R&amp;D by the applicant;
+(c) the prospect of further reductions in weight of the Lynx 3CR12 Wagon were possible, due to improvements, modifications or enhancements of the said design, which was then the subject of ongoing R&amp;amp;D by the applicant;
  
 (d) the requirement for refurbishment of side walls and floors, in terms of maintenance costs, were produced as a result of the said design features of the Lynx 3CR12 Wagon; and
  
@@ -473,7 +473,7 @@ If the precise feature was specified, it is argued, it would then be open to the
 <sentence id="s178">Assertions of confidentiality at high levels of abstraction will not establish a basis for relief against a disclosee.</sentence>
 <sentence id="s179">In the case of an innocent third party who simply seeks reliance upon a contract struck without notice of a relationship of confidentiality between the primary disclosor and any other party or breach, the requirement for precision is even more acute.</sentence>
 <sentence id="s180">The starting point is the identification of the relevant confidential information: Moorgate Tobacco Co Ltd v Philip Morris Ltd (No.</sentence>
-<sentence id="s181">2) (above) per Deane J at CLR 438; ALR 208; IPR 560; Corrs Pavey Whiting &amp; Byrne v Collector of Customs (Vic) (1987) 14 FCR 434 at 443 [1987] HCA 37 ; ; 74 ALR 428 at 438; 10 IPR 53 at 63 [1987] HCA 37 ; ; 13 ALD 254 at 263 per Gummow J; O'Brien v Komesaroff [1982] HCA 33 ; (1982) 150 CLR 310 at 326-8 [1982] HCA 33 ; ; 41 ALR 255 at 266 per Mason J; Liberty Financial Pty Ltd v Scott (No 4) (2005) 11 VR 629 ; [2005] VSC 26 at [13] and [35] per Harper J; Pioneer Concrete Service Ltd v Galli (1985) VR 675 at 711; 4 IPR 227 at 241 per Crockett, Murphy &amp; Ormiston JJ.</sentence>
+<sentence id="s181">2) (above) per Deane J at CLR 438; ALR 208; IPR 560; Corrs Pavey Whiting &amp;amp; Byrne v Collector of Customs (Vic) (1987) 14 FCR 434 at 443 [1987] HCA 37 ; ; 74 ALR 428 at 438; 10 IPR 53 at 63 [1987] HCA 37 ; ; 13 ALD 254 at 263 per Gummow J; O'Brien v Komesaroff [1982] HCA 33 ; (1982) 150 CLR 310 at 326-8 [1982] HCA 33 ; ; 41 ALR 255 at 266 per Mason J; Liberty Financial Pty Ltd v Scott (No 4) (2005) 11 VR 629 ; [2005] VSC 26 at [13] and [35] per Harper J; Pioneer Concrete Service Ltd v Galli (1985) VR 675 at 711; 4 IPR 227 at 241 per Crockett, Murphy &amp;amp; Ormiston JJ.</sentence>
 <sentence id="s182">(emphasis added) 
  As observed by Mason J, as his Honour then was, in O'Brien v Komesaroff [1982] HCA 33 ; (1982) 150 CLR 310 at 326-328, a global claim for protection will not be sufficient.</sentence>
 <sentence id="s183">The party asserting confidentiality must be able to identify some particular pieces of information and show that they were confidential or that an obligation of confidence had arisen in respect to them.</sentence>
@@ -512,9 +512,9 @@ If the precise feature was specified, it is argued, it would then be open to the
 <sentence id="s200">
  Lynx also contends that another answer to the complaints of the respondents is that it relies upon the springboard doctrine.</sentence>
 <sentence id="s201">I must observe that I struggle to see where this doctrine has been clearly pleaded but in any event it is no answer to the absence of the requisite precision.</sentence>
-<sentence id="s202">In Meagher, Gummow &amp; Lehane's Equity Doctrines and Remedies (4 th ed) at [41-075] the springboard doctrine is described as follows: 
+<sentence id="s202">In Meagher, Gummow &amp;amp; Lehane's Equity Doctrines and Remedies (4 th ed) at [41-075] the springboard doctrine is described as follows: 
  [41-075] This "doctrine" is attributed to Roxburgh J in Terrapin Ltd v Builders Supply Co (Hayes) Ltd [1967] RPC 375 ; the Court of Appeal in the same case ( Terrapin Ltd v Builders Supply Co (Hayes) Ltd [1960] RPC 128 at 130) expressed the principle as forbidding use of information by a defendant "as a springboard" for activities detrimental to the plaintiff, even when all the information has otherwise reached the public domain; because he has a start over other members of the public, the defendant must be placed under a special disability in the field of competition.</sentence>
-<sentence id="s203">He therefore may be restrained from use for that period which competitors would need to put their produce on the market by, for example, "tooling-up" and organising production and distribution: Potters-Ballotini Ltd v Weston-Baker [1977] RPC 202 at 206; Harrison v Project &amp; Design (Redcar) [1978] FSR 81.</sentence>
+<sentence id="s203">He therefore may be restrained from use for that period which competitors would need to put their produce on the market by, for example, "tooling-up" and organising production and distribution: Potters-Ballotini Ltd v Weston-Baker [1977] RPC 202 at 206; Harrison v Project &amp;amp; Design (Redcar) [1978] FSR 81.</sentence>
 <sentence id="s204">If the defendant has only known of and has not wrongly used the information before it became public, then the doctrine does not apply to him and he is subject to no special restraint thereafter: Peter Pan Manufacturing Corp v Corsets Silhouette Ltd [1963] RPC 45 t 55; [1963] 3 All ER 402 at 408; [1964] 1 WLR 96 .</sentence>
 <sentence id="s205">(emphasis added) 
  However when one approaches a claimed breach of confidential information, the starting point must be the identification of the relevant confidential information.</sentence>

@@ -3,20 +3,20 @@
 <name>Dandaven v Harbeth Holdings Pty Ltd [2008] FCA 955 (25 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/955.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">motions for dismissal of proceedings pursuant to federal court of australia act 1976 (cth) s 31a</catchphrase>
-<catchphrase "id=c1">alternatively for statement of claim to be struck out</catchphrase>
-<catchphrase "id=c2">federal court rules order 11 rule 16 or order 20 rule 2</catchphrase>
-<catchphrase "id=c3">construction of option in contract to lease and subsequent deed of lease</catchphrase>
-<catchphrase "id=c4">consideration of evidence of extrinsic material in aid of construction</catchphrase>
-<catchphrase "id=c5">common intention unilateral mistake</catchphrase>
-<catchphrase "id=c6">estoppel</catchphrase>
-<catchphrase "id=c7">equitable estoppel</catchphrase>
-<catchphrase "id=c8">breach of warranty</catchphrase>
-<catchphrase "id=c9">unconscionable conduct</catchphrase>
-<catchphrase "id=c10">ss 51aa and 51ac of trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c11">misleading and deceptive conduct</catchphrase>
-<catchphrase "id=c12">ss 6(3) and 52 trade practices act and s 10 fair trading act 1987 (wa).</catchphrase>
-<catchphrase "id=c13">practice and procedure</catchphrase>
+<catchphrase id="c0">motions for dismissal of proceedings pursuant to federal court of australia act 1976 (cth) s 31a</catchphrase>
+<catchphrase id="c1">alternatively for statement of claim to be struck out</catchphrase>
+<catchphrase id="c2">federal court rules order 11 rule 16 or order 20 rule 2</catchphrase>
+<catchphrase id="c3">construction of option in contract to lease and subsequent deed of lease</catchphrase>
+<catchphrase id="c4">consideration of evidence of extrinsic material in aid of construction</catchphrase>
+<catchphrase id="c5">common intention unilateral mistake</catchphrase>
+<catchphrase id="c6">estoppel</catchphrase>
+<catchphrase id="c7">equitable estoppel</catchphrase>
+<catchphrase id="c8">breach of warranty</catchphrase>
+<catchphrase id="c9">unconscionable conduct</catchphrase>
+<catchphrase id="c10">ss 51aa and 51ac of trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c11">misleading and deceptive conduct</catchphrase>
+<catchphrase id="c12">ss 6(3) and 52 trade practices act and s 10 fair trading act 1987 (wa).</catchphrase>
+<catchphrase id="c13">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -155,7 +155,7 @@ It contained at Annexure "A" the proposed "Option to Purchase" in the following 
 21 The respondents contend that the defined meaning of "Leased Premises" clearly and unequivocally describes part only of the Land.</sentence>
 <sentence id="s69">22 The applicants submit however that the "context otherwise requires" that the term "Leased Premises", when used in the option provision in special cl 11(2) of the Schedule, should not be given its defined meaning if that meaning is construed to refer to part only of the Land.</sentence>
 <sentence id="s70">Such a construction, it submits, would impute to the parties the absurd and commercially unreasonable intention of recording the grant of a void option.</sentence>
-<sentence id="s71">They point to the traditional doctrine that courts should be astute to adopt a construction that will preserve the validity of the contract: Meehan v Jones [1982] HCA 52 ; (1982) 149 CLR 571 at 589, and to prefer a construction which will encourage performance rather than avoidance of contractual relations: Ankar Pty Ltd &amp; Arnick Holdings Ltd v National Westminster Finance (Australia) Ltd [1987] HCA 15 ; (1987) 162 CLR 549 at 556-557; Westminster Properties Pty Ltd v Comco Constructions Pty Ltd (1991) 5 WAR 191 at 202.</sentence>
+<sentence id="s71">They point to the traditional doctrine that courts should be astute to adopt a construction that will preserve the validity of the contract: Meehan v Jones [1982] HCA 52 ; (1982) 149 CLR 571 at 589, and to prefer a construction which will encourage performance rather than avoidance of contractual relations: Ankar Pty Ltd &amp;amp; Arnick Holdings Ltd v National Westminster Finance (Australia) Ltd [1987] HCA 15 ; (1987) 162 CLR 549 at 556-557; Westminster Properties Pty Ltd v Comco Constructions Pty Ltd (1991) 5 WAR 191 at 202.</sentence>
 <sentence id="s72">The Contract to Lease and the Lease each created a valid demise in that a demise of part of the Land for less than 20 years did not contravene the subdivision provisions of the Planning Act : s 136(1)(a).</sentence>
 <sentence id="s73">However the option to purchase would contravene s 136(1)(d) of the Planning Act and hence would be void, if it is construed as referrable to a purchase of part only of the Land.</sentence>
 <sentence id="s74">The proper construction, in that context, the applicants submit, is that the option is in respect of the whole of the Land.</sentence>
@@ -242,7 +242,7 @@ Dated: 25 June 2008
  
  Solicitor for the First Respondent: Lavan Legal 
  
- Solicitor for the Second and Third Respondents: Dean &amp; Rowick 
+ Solicitor for the Second and Third Respondents: Dean &amp;amp; Rowick 
 
  Date of Hearing: 9 April 2008 
  

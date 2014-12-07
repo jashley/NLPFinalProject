@@ -3,36 +3,36 @@
 <name>Ra v Nationwide News Pty Ltd [2009] FCA 1308 (13 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1308.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">defamation</catchphrase>
-<catchphrase "id=c1">jury trial</catchphrase>
-<catchphrase "id=c2">ss 39 and 40 federal court of australia act 1976 (cth) usual mode of trial in federal court by judge alone unless the court otherwise orders</catchphrase>
-<catchphrase "id=c3">proceeding for damages for injury to reputation by reason of publication of defamatory matter together with representations in contravention of s 53b of trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c4">s 21 of defamation act 2005 (nsw) giving party right to elect for trial by jury unless court otherwise orders</catchphrase>
-<catchphrase "id=c5">whether court should order that trial be heard by a jury</catchphrase>
-<catchphrase "id=c6">factors that weigh in exercise of discretion</catchphrase>
-<catchphrase "id=c7">matters where resolution will involve consideration of the moral and ethical values of community</catchphrase>
-<catchphrase "id=c8">where substance of proceeding is claim for damages to reputation, court should have regard to the procedural law of the lex loci delicti and historical mode of trial by jury of such actions</catchphrase>
-<catchphrase "id=c9">issues in defamation actions quintessentially more appropriate for resolution by a jury</catchphrase>
-<catchphrase "id=c10">defamation</catchphrase>
-<catchphrase "id=c11">jury trial</catchphrase>
-<catchphrase "id=c12">ss 39 and 40 federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c13">whether jury should consider trade practices act allegations</catchphrase>
-<catchphrase "id=c14">where representations identical or similar to defamatory imputations</catchphrase>
-<catchphrase "id=c15">defamation</catchphrase>
-<catchphrase "id=c16">jury trial</catchphrase>
-<catchphrase "id=c17">s 40 federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c18">whether court should order damages to be decided by the jury when s 22(3) of defamation act 2005 (nsw) requires hearing by judge</catchphrase>
-<catchphrase "id=c19">procedural law of the lex loci delicti indicates policy preference to withhold consideration of damages from jury</catchphrase>
-<catchphrase "id=c20">any damages for defamation and under s 82 should be decided by judge</catchphrase>
-<catchphrase "id=c21">size of jury</catchphrase>
-<catchphrase "id=c22">4 or 12 members</catchphrase>
-<catchphrase "id=c23">s 20 jury act 1977</catchphrase>
-<catchphrase "id=c24">where plaintiff or applicant is contentious or prominent person and matter complained of relates to allegations of criminal conduct and contentious moral issues</catchphrase>
-<catchphrase "id=c25">need for a more representative spread of views of the community in larger jury</catchphrase>
-<catchphrase "id=c26">procedure</catchphrase>
-<catchphrase "id=c27">procedure</catchphrase>
-<catchphrase "id=c28">procedure</catchphrase>
-<catchphrase "id=c29">jury</catchphrase>
+<catchphrase id="c0">defamation</catchphrase>
+<catchphrase id="c1">jury trial</catchphrase>
+<catchphrase id="c2">ss 39 and 40 federal court of australia act 1976 (cth) usual mode of trial in federal court by judge alone unless the court otherwise orders</catchphrase>
+<catchphrase id="c3">proceeding for damages for injury to reputation by reason of publication of defamatory matter together with representations in contravention of s 53b of trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c4">s 21 of defamation act 2005 (nsw) giving party right to elect for trial by jury unless court otherwise orders</catchphrase>
+<catchphrase id="c5">whether court should order that trial be heard by a jury</catchphrase>
+<catchphrase id="c6">factors that weigh in exercise of discretion</catchphrase>
+<catchphrase id="c7">matters where resolution will involve consideration of the moral and ethical values of community</catchphrase>
+<catchphrase id="c8">where substance of proceeding is claim for damages to reputation, court should have regard to the procedural law of the lex loci delicti and historical mode of trial by jury of such actions</catchphrase>
+<catchphrase id="c9">issues in defamation actions quintessentially more appropriate for resolution by a jury</catchphrase>
+<catchphrase id="c10">defamation</catchphrase>
+<catchphrase id="c11">jury trial</catchphrase>
+<catchphrase id="c12">ss 39 and 40 federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c13">whether jury should consider trade practices act allegations</catchphrase>
+<catchphrase id="c14">where representations identical or similar to defamatory imputations</catchphrase>
+<catchphrase id="c15">defamation</catchphrase>
+<catchphrase id="c16">jury trial</catchphrase>
+<catchphrase id="c17">s 40 federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c18">whether court should order damages to be decided by the jury when s 22(3) of defamation act 2005 (nsw) requires hearing by judge</catchphrase>
+<catchphrase id="c19">procedural law of the lex loci delicti indicates policy preference to withhold consideration of damages from jury</catchphrase>
+<catchphrase id="c20">any damages for defamation and under s 82 should be decided by judge</catchphrase>
+<catchphrase id="c21">size of jury</catchphrase>
+<catchphrase id="c22">4 or 12 members</catchphrase>
+<catchphrase id="c23">s 20 jury act 1977</catchphrase>
+<catchphrase id="c24">where plaintiff or applicant is contentious or prominent person and matter complained of relates to allegations of criminal conduct and contentious moral issues</catchphrase>
+<catchphrase id="c25">need for a more representative spread of views of the community in larger jury</catchphrase>
+<catchphrase id="c26">procedure</catchphrase>
+<catchphrase id="c27">procedure</catchphrase>
+<catchphrase id="c28">procedure</catchphrase>
+<catchphrase id="c29">jury</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -215,7 +215,7 @@
 <sentence id="s68">That simple question embraces two elements of the cause of action: the meaning of the words used (the imputation) and the defamatory character of the imputation.</sentence>
 <sentence id="s69">Whether the alleged libel is established depends upon the understanding of the hypothetical referees who are taken to have a uniform view of the meaning of the language used, and upon the standards, moral or social, by which they evaluate the imputation they understand to have been made.</sentence>
 <sentence id="s70">They are taken to share a moral or social standard by which to judge the defamatory character of that imputation ( Byrne v. Deane [1937] 1 KB 818 , at p. 833, being a standard common to society generally ( Miller v. David (1874) LR 9 CP 118 ; Myroft v. Sleight (1921) 90 LJKB 883 ; Tolley v. J.S.</sentence>
-<sentence id="s71">Fry &amp; Sons Ltd. [1930] 1 KB 467, at p.</sentence>
+<sentence id="s71">Fry &amp;amp; Sons Ltd. [1930] 1 KB 467, at p.</sentence>
 <sentence id="s72">479).</sentence>
 <sentence id="s73">" (emphasis added) 
  

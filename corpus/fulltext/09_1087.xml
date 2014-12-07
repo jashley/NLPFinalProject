@@ -3,23 +3,23 @@
 <name>BHPB Freight Pty Ltd v Cosco Oceania Chartering Pty Ltd (No 3) [2009] FCA 1087 (25 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1087.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">warranty of authority</catchphrase>
-<catchphrase "id=c1">shipbroker purportedly acting for one party but actually acting for another</catchphrase>
-<catchphrase "id=c2">measure of damages</catchphrase>
-<catchphrase "id=c3">misleading conduct</catchphrase>
-<catchphrase "id=c4">damages recoverable under s 82</catchphrase>
-<catchphrase "id=c5">whether possible to avoid operation of s 82(1b) by claiming compensation under s 87</catchphrase>
-<catchphrase "id=c6">shipbroking contract</catchphrase>
-<catchphrase "id=c7">implication of terms</catchphrase>
-<catchphrase "id=c8">no implied obligation to provide copies of documents relating to charterparty</catchphrase>
-<catchphrase "id=c9">implication of term requiring broker to exercise reasonable skill and care</catchphrase>
-<catchphrase "id=c10">whether term breached</catchphrase>
-<catchphrase "id=c11">"sponsorship, approval or affiliation"</catchphrase>
-<catchphrase "id=c12">whether agency relationship constitutes approval or affiliation</catchphrase>
-<catchphrase "id=c13">agency</catchphrase>
-<catchphrase "id=c14">trade practices</catchphrase>
-<catchphrase "id=c15">admiralty</catchphrase>
-<catchphrase "id=c16">words and phrases</catchphrase>
+<catchphrase id="c0">warranty of authority</catchphrase>
+<catchphrase id="c1">shipbroker purportedly acting for one party but actually acting for another</catchphrase>
+<catchphrase id="c2">measure of damages</catchphrase>
+<catchphrase id="c3">misleading conduct</catchphrase>
+<catchphrase id="c4">damages recoverable under s 82</catchphrase>
+<catchphrase id="c5">whether possible to avoid operation of s 82(1b) by claiming compensation under s 87</catchphrase>
+<catchphrase id="c6">shipbroking contract</catchphrase>
+<catchphrase id="c7">implication of terms</catchphrase>
+<catchphrase id="c8">no implied obligation to provide copies of documents relating to charterparty</catchphrase>
+<catchphrase id="c9">implication of term requiring broker to exercise reasonable skill and care</catchphrase>
+<catchphrase id="c10">whether term breached</catchphrase>
+<catchphrase id="c11">"sponsorship, approval or affiliation"</catchphrase>
+<catchphrase id="c12">whether agency relationship constitutes approval or affiliation</catchphrase>
+<catchphrase id="c13">agency</catchphrase>
+<catchphrase id="c14">trade practices</catchphrase>
+<catchphrase id="c15">admiralty</catchphrase>
+<catchphrase id="c16">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -70,7 +70,7 @@
 <sentence id="s29">The email reads: 
  
  "Can kindly decline Chtr's offer and re-offer firm as follows, valid until 15:00 Melbourne today 11-Oct-04,
- Acct: NCI Leasing (please advise full-style address &amp; references?</sentence>
+ Acct: NCI Leasing (please advise full-style address &amp;amp; references?</sentence>
 <sentence id="s30">)
  MV: Global Hawk as described ...
  Itinerary: ETD Lianyungang PM 11-Oct-04 ...
@@ -175,7 +175,7 @@ Mr Reker explained that he asked for a copy of the voyage orders so that they co
  At 0322 hours the Master sent BHPB the voyage instructions he had received from Super Shipping Ltd.</sentence>
 <sentence id="s73">The voyage instructions read: 
  
- Dear Captain &amp; Crew Members,
+ Dear Captain &amp;amp; Crew Members,
  We are pleased to inform you that we, Super shipping Hong Kong being the operator on behalf of yr charter messrs. Nera Shipping Ltd for a Time-Chartered trip of about 16-25days w/out g'tee.</sentence>
 <sentence id="s74">We, welcome you, your officers and crew to join us and working together to achieve mutual benefit.</sentence>
 <sentence id="s75">We wish you all runs in luck.</sentence>
@@ -184,7 +184,7 @@ Mr Reker explained that he asked for a copy of the voyage orders so that they co
 
  
 The instructions also gave Super Shipping's "full style" (ie its address, telephone, facsimile and telex numbers and email addresses).</sentence>
-<sentence id="s77">On the second page of the instructions there was this statement: "Upon delivery, please advise us (supership@netvigator.com) and Chtrs Messrs NERA shipping (email: jacky@nerashpg.com) the date, time (both in gmt &amp; local time) and bunkers remain onboard.</sentence>
+<sentence id="s77">On the second page of the instructions there was this statement: "Upon delivery, please advise us (supership@netvigator.com) and Chtrs Messrs NERA shipping (email: jacky@nerashpg.com) the date, time (both in gmt &amp;amp; local time) and bunkers remain onboard.</sentence>
 <sentence id="s78">" This was followed by detailed instructions concerning the cargo and sailing.</sentence>
 <sentence id="s79">There are two things to notice about the voyage instructions.</sentence>
 <sentence id="s80">First, the charterer is identified as Nera Shipping Ltd. Second, the operator is identified as Super Shipping of Hong Kong.</sentence>
@@ -249,8 +249,8 @@ The instructions also gave Super Shipping's "full style" (ie its address, teleph
 <sentence id="s136">The cause of action most beneficial to BHPB, and the one it presses first, is breach of warranty of authority.</sentence>
 <sentence id="s137">The cases establish that where a person (the first person) falsely represents that he has authority to act on behalf of another person in a particular transaction and the person to whom the representation is made (the second person) is induced to act on the faith of the representation and suffers loss, the second person may recover the amount of the loss from the first person in an action for breach of a collateral contract.</sentence>
 <sentence id="s138">It matters not that the first person acted in good faith, believing he had the authority which he purported to have.</sentence>
-<sentence id="s139">See generally Bowstead and Reynolds on Agency (18th ed 2006) 541; Chitty on Contracts, (30th ed, 2008) vol 2 65; Dal Pont, The Law of Agency (2 nd ed 2008) 697; Collen v Wright (1857) 8 E &amp; B 647.</sentence>
-<sentence id="s140">The action is based on collateral contract: Penn v Bristol &amp; West Building Society [1997] EWCA Civ 1416 ; [1997] 1 WLR 1356.</sentence>
+<sentence id="s139">See generally Bowstead and Reynolds on Agency (18th ed 2006) 541; Chitty on Contracts, (30th ed, 2008) vol 2 65; Dal Pont, The Law of Agency (2 nd ed 2008) 697; Collen v Wright (1857) 8 E &amp;amp; B 647.</sentence>
+<sentence id="s140">The action is based on collateral contract: Penn v Bristol &amp;amp; West Building Society [1997] EWCA Civ 1416 ; [1997] 1 WLR 1356.</sentence>
 <sentence id="s141">The first element of the cause of action which BHPB must establish is that Cosco represented it had authority to act on behalf of NCI.</sentence>
 <sentence id="s142">There is no doubt this is the effect of the emails from Cosco to Seawise.</sentence>
 <sentence id="s143">Mr Muller, a shipbroking expert called by Cosco, acknowledged that shipbrokers rely on statements made by fellow brokers.</sentence>
@@ -308,7 +308,7 @@ The instructions also gave Super Shipping's "full style" (ie its address, teleph
 
  
  That is to say, it is not necessary for the plaintiff to enter into a transaction with the supposed principal in order to establish an action for breach of warranty of authority.</sentence>
-<sentence id="s182">The cause of action is established even if the plaintiff enters into a transaction with another person: see also Penn v Bristol &amp; West Building Society [1997] EWCA Civ 1416 ; [1997] 1 WLR 1356.</sentence>
+<sentence id="s182">The cause of action is established even if the plaintiff enters into a transaction with another person: see also Penn v Bristol &amp;amp; West Building Society [1997] EWCA Civ 1416 ; [1997] 1 WLR 1356.</sentence>
 <sentence id="s183">As regards causation, if Cosco had actual instructions from NCI to enter into a charterparty Seawise would not have concluded the charterparty with Jacky and the vessel would not have been delivered to Nera.</sentence>
 <sentence id="s184">Cosco's failure to hold the authority which it warranted caused the loss that BHPB has suffered.</sentence>
 <sentence id="s185">That the vessel was delivered prior to the payment of the first hire in accordance with the usual practice, does not affect this conclusion.</sentence>
@@ -477,7 +477,7 @@ H N G Austin
  Counsel for the Second Respondent: T Scotter 
  
  Solicitor for the Second Respondent: DLA Phillips Fox 
- Date of Hearing: 16, 17, 18, 19 &amp; 22 June 2009 
+ Date of Hearing: 16, 17, 18, 19 &amp;amp; 22 June 2009 
  
  Date of Judgment: 25 September 2009 
  

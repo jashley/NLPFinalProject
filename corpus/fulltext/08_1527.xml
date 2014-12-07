@@ -3,11 +3,11 @@
 <name>Newcrest Mining Limited v Apache Northwest Pty Ltd [2008] FCA 1527 (17 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1527.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discovery</catchphrase>
-<catchphrase "id=c1">preliminary discovery</catchphrase>
-<catchphrase "id=c2">whether court lacks jurisdiction</catchphrase>
-<catchphrase "id=c3">whether federal claim colourable or bound to fail</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase id="c0">discovery</catchphrase>
+<catchphrase id="c1">preliminary discovery</catchphrase>
+<catchphrase id="c2">whether court lacks jurisdiction</catchphrase>
+<catchphrase id="c3">whether federal claim colourable or bound to fail</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -49,11 +49,11 @@
 <sentence id="s26">9 On 2 August 2008 Santos wrote to Newcrest advising that:
  
  
- &#8226; It was expected that there would be a partial reinstatement of gas processing and deliveries from early August 2008.</sentence>
-<sentence id="s27">&#8226; Initially total gas production would be of the order of 75 to 120 TJ/ day.</sentence>
-<sentence id="s28">&#8226; By mid to late August production was expected to increase to 200 to 230 TJ/per day.</sentence>
-<sentence id="s29">&#8226; 200 to 230 TJ/day did not represent the full processing capacity on Varanus Island.</sentence>
-<sentence id="s30">&#8226; Santos would distribute its share of available gas to its customers "on the basis of a pro-rated share of firm gas delivery obligations.</sentence>
+ &amp;#8226; It was expected that there would be a partial reinstatement of gas processing and deliveries from early August 2008.</sentence>
+<sentence id="s27">&amp;#8226; Initially total gas production would be of the order of 75 to 120 TJ/ day.</sentence>
+<sentence id="s28">&amp;#8226; By mid to late August production was expected to increase to 200 to 230 TJ/per day.</sentence>
+<sentence id="s29">&amp;#8226; 200 to 230 TJ/day did not represent the full processing capacity on Varanus Island.</sentence>
+<sentence id="s30">&amp;#8226; Santos would distribute its share of available gas to its customers "on the basis of a pro-rated share of firm gas delivery obligations.</sentence>
 <sentence id="s31">" 
  
 
@@ -68,11 +68,11 @@
 <sentence id="s39">As a result Newcrest had terminated some of its interim gas supply arrangements with other suppliers.</sentence>
 <sentence id="s40">12 On 30 August 2008 Apache Energy advised Newcrest that its allocations were forecast to be:
  
-&#8226; 1 --- 15 September: 21.5-22.2 TJ/day
+&amp;#8226; 1 --- 15 September: 21.5-22.2 TJ/day
  
-&#8226; 16 --- 30 September: 19.5-20.4 TJ/day
+&amp;#8226; 16 --- 30 September: 19.5-20.4 TJ/day
  
-&#8226; 1 --- 31 October: 16.8-17.5 TJ/day.</sentence>
+&amp;#8226; 1 --- 31 October: 16.8-17.5 TJ/day.</sentence>
 <sentence id="s41">13 On 1 September 2008 Newcrest asked Apache Energy to provide it with the reasons for the anticipated reductions in supply from 16 September onwards.</sentence>
 <sentence id="s42">A week later Apache Energy advised Newcrest that the allocation "reflects the supply obligations we have, including existing commitments, contracts that expire and contracts that pre-date the FM event that had a scheduled nomination in place for firm deliveries.</sentence>
 <sentence id="s43">" No attempt was made to provide Newcrest with a detailed explanation of the kind which Santos had supplied on 2 August.</sentence>
@@ -100,19 +100,19 @@
 <sentence id="s57">It did so on Apache Energy letterhead.</sentence>
 <sentence id="s58">It answered questions (c) to (e) as follows:
  
-&#8226; As to question (c):
+&amp;#8226; As to question (c):
  "Response: As we advised you in our correspondence of 3 August 2008, Apache has been allocating gas to its customers, including Newcrest, as follows: Based on our analysis and communications with you over the past several weeks, we have determined to make allocations to all customers receiving gas from Varanus Island equitability in accordance with the principles described below.</sentence>
 <sentence id="s59">Without any way prejudicing our right to adjust or reconsider these allocations, your allocation for gas day ...</sentence>
 <sentence id="s60">This is based on the lesser of: 1. your daily gas nomination before the forced majeure occurred (reduced proportionately by the amount of gas not available during the forced majeure); 2. the maximum amount you can take and consume in your operations without reselling the gas (provided that this does not prevent customers who were Gas Retailers on 3 June 2008 from making retail gas sales); or 3. the volume you have told us you need.</sentence>
 <sentence id="s61">If you are unable actually to use the above volume in your operations, please notify us of that so that we can reallocate it to other customers who will be able to use the gas in their operations.</sentence>
 <sentence id="s62">..." 
 [I interpolate here that the evidence suggests that Newcrest had not earlier received the 3 August 2008 correspondence].</sentence>
-<sentence id="s63">&#8226; As to question (d):
+<sentence id="s63">&amp;#8226; As to question (d):
  "Response: As we advised you on 8 September 2008, the allocation reflects the supply obligations we have, including existing commitments, contracts that expire and contracts that pre-date the FM event that had a scheduled nomination in place for firm deliveries.</sentence>
 <sentence id="s64">We have provided you with a projected allocation through 31 October 2008.</sentence>
 <sentence id="s65">We have not provided one to you yet for November or December.</sentence>
 <sentence id="s66">" 
-&#8226; As to question (e):
+&amp;#8226; As to question (e):
  "Response: The Force Majeure provisions in clause 17 of the Contract.</sentence>
 <sentence id="s67">" JURISDICTION 
  
@@ -122,7 +122,7 @@
 <sentence id="s70">18 It is convenient to deal first with Apache's jurisdictional objection.</sentence>
 <sentence id="s71">It is not in dispute that, in the absence of the claims which are founded on the TPA, Newcrest could not pursue a case based on allegations of breach of contract in this Court.</sentence>
 <sentence id="s72">Nor is it in dispute that the Court will lack jurisdiction to deal with a controversy in circumstances in which the only federal claims relied are either colourable (in the sense of not being bona fide but rather relied on solely to attract the Court's jurisdiction) or trivial or insubstantial.</sentence>
-<sentence id="s73">In WG &amp; B Manufacturing Pty Ltd v Tesla Farad Pty Ltd [1999] FCA 1776 Finkelstein J stated the relevant principles (at [11] to [14]) as follows:
+<sentence id="s73">In WG &amp;amp; B Manufacturing Pty Ltd v Tesla Farad Pty Ltd [1999] FCA 1776 Finkelstein J stated the relevant principles (at [11] to [14]) as follows:
  "[11] This then requires me to determine whether the non-federal claims are justiciable in the Federal Court.</sentence>
 <sentence id="s74">The relevant cases show that if a federal claim which is said to enliven the accrued jurisdiction of the court to dispose of non-federal claims is trivial or unsubstantial, that will not be sufficient to attract that jurisdiction.</sentence>
 <sentence id="s75">The cases are collected in the judgment of Merkel J in Johnson Tiles Pty Ltd v Esso Australia Ltd [1999] FCA 165.</sentence>
@@ -150,11 +150,11 @@
 <sentence id="s92">It relies on ss 51A and 52 of the TPA.</sentence>
 <sentence id="s93">The particular opinions and forecasts are said to be found in the following documents:
  
-&#8226; The late June 2008 press release;
+&amp;#8226; The late June 2008 press release;
  
-&#8226; The 30 July 2008 letter from Apache; and
+&amp;#8226; The 30 July 2008 letter from Apache; and
  
-&#8226; The 2 August 2008 letter from Santos.</sentence>
+&amp;#8226; The 2 August 2008 letter from Santos.</sentence>
 <sentence id="s94">20 It is said that those documents contain representations that, by mid-August, the respondents would be supplying Newcrest with its full gas entitlement under the contract.</sentence>
 <sentence id="s95">Newcrest says that, acting on these representations, it cancelled some temporary arrangements and then was forced to make further alternative arrangements when, in mid-August, full supply had not been restored.</sentence>
 <sentence id="s96">This led to Newcrest incurring substantial losses.</sentence>
@@ -189,15 +189,15 @@
  
 29 In its application Newcrest seeks discovery, by Apache, of documents in its possession, custody or power which contain the following information:
  
-&#8226; The allocation or proposed allocation of gas by Apache to its customers, including Newcrest, during the period between 3 June 2008 and 15 December 2008 (both dates inclusive) as shall be processed through the East Spar Joint Venture processing facility on Varanus Island;
+&amp;#8226; The allocation or proposed allocation of gas by Apache to its customers, including Newcrest, during the period between 3 June 2008 and 15 December 2008 (both dates inclusive) as shall be processed through the East Spar Joint Venture processing facility on Varanus Island;
  
-&#8226; The processing capacity or forecast processing capacity of the East Spar Joint Venture processing facility on Varanus Island during the period between 3 June 2008 and 15 December 2008 (both dates inclusive);
+&amp;#8226; The processing capacity or forecast processing capacity of the East Spar Joint Venture processing facility on Varanus Island during the period between 3 June 2008 and 15 December 2008 (both dates inclusive);
  
-&#8226; The firm commitments of Apache to other customers for the sale and purchase of gas from the Brookes gas field (including but not limited to agreements for the supply of gas to those customers), for delivery at any time between 3 June 2008 and 15 December 2008 (both dates inclusive);
+&amp;#8226; The firm commitments of Apache to other customers for the sale and purchase of gas from the Brookes gas field (including but not limited to agreements for the supply of gas to those customers), for delivery at any time between 3 June 2008 and 15 December 2008 (both dates inclusive);
  
-&#8226; The proposed step-down in allocation of gas by Apache to Newcrest from 1 October 2008; and
+&amp;#8226; The proposed step-down in allocation of gas by Apache to Newcrest from 1 October 2008; and
  
-&#8226; The proposed step-up in allocation of gas by Apache to Newcrest from 15 December 2008.</sentence>
+&amp;#8226; The proposed step-up in allocation of gas by Apache to Newcrest from 15 December 2008.</sentence>
 <sentence id="s125">30 In order for Newcrest to obtain the orders which it seeks it is necessary that the conditions, prescribed by O 15A r 6 be satisfied.</sentence>
 <sentence id="s126">The rule provides: 
  "Where: (a) there is reasonable cause to believe that the applicant has or may have the right to obtain relief in the Court from a person whose description has been ascertained; (b) after making all reasonable enquiries, the applicant has not sufficient information to enable a decision to be made whether to commence a proceeding in the Court to obtain that relief; and (c) there is reasonable cause to believe that the person has or is likely to have or has had or is likely to have had possession of any document relating to the question whether the applicant has the right to obtain the relief and that inspection of the document by the applicant would assist in making the decision; the Court may order that the person shall make discovery to the applicant of any document of the kind described in paragraph (c).</sentence>

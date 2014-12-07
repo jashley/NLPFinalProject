@@ -3,18 +3,18 @@
 <name>Centrestage Management Pty Ltd v Riedle [2008] FCA 938 (20 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/938.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">computer programs</catchphrase>
-<catchphrase "id=c1">contract for supply</catchphrase>
-<catchphrase "id=c2">implied licence in purchaser to use program without thereby infringing vendor's copyright</catchphrase>
-<catchphrase "id=c3">whether implied term that purchaser have access to source code.</catchphrase>
-<catchphrase "id=c4">implied terms</catchphrase>
-<catchphrase "id=c5">terms implied by law in contracts of a particular type independently of parties' actual or presumed intention</catchphrase>
-<catchphrase "id=c6">terms implied to give business efficacy to a particular contract</catchphrase>
-<catchphrase "id=c7">contract for supply of computer program</catchphrase>
-<catchphrase "id=c8">implied licence in purchaser to use program without thereby infringing vendor's copyright</catchphrase>
-<catchphrase "id=c9">whether implied term that purchaser have access to source code</catchphrase>
-<catchphrase "id=c10">copyright</catchphrase>
-<catchphrase "id=c11">contract</catchphrase>
+<catchphrase id="c0">computer programs</catchphrase>
+<catchphrase id="c1">contract for supply</catchphrase>
+<catchphrase id="c2">implied licence in purchaser to use program without thereby infringing vendor's copyright</catchphrase>
+<catchphrase id="c3">whether implied term that purchaser have access to source code.</catchphrase>
+<catchphrase id="c4">implied terms</catchphrase>
+<catchphrase id="c5">terms implied by law in contracts of a particular type independently of parties' actual or presumed intention</catchphrase>
+<catchphrase id="c6">terms implied to give business efficacy to a particular contract</catchphrase>
+<catchphrase id="c7">contract for supply of computer program</catchphrase>
+<catchphrase id="c8">implied licence in purchaser to use program without thereby infringing vendor's copyright</catchphrase>
+<catchphrase id="c9">whether implied term that purchaser have access to source code</catchphrase>
+<catchphrase id="c10">copyright</catchphrase>
+<catchphrase id="c11">contract</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -46,20 +46,20 @@
 <sentence id="s23">The respondent did not supply the source code, and in February 2006 the appellant brought proceedings in the Federal Magistrates Court claiming, inter alia, that the respondent's refusal to hand over the source code was a breach of his contract of employment with the appellant.</sentence>
 <sentence id="s24">The appellant sought
  
-&#8226; an injunction restraining the respondent from copying, using or disclosing the updated home collection program and its source code (the materials)
+&amp;#8226; an injunction restraining the respondent from copying, using or disclosing the updated home collection program and its source code (the materials)
  
-&#8226; an order that the respondent deliver up the materials to the appellant
+&amp;#8226; an order that the respondent deliver up the materials to the appellant
  
-&#8226; a declaration that the appellant is the proprietor of the copyright in the materials
+&amp;#8226; a declaration that the appellant is the proprietor of the copyright in the materials
  
-&#8226; damages for breach of contract.</sentence>
+&amp;#8226; damages for breach of contract.</sentence>
 <sentence id="s25">6 The respondent cross claimed for
  
-&#8226; a declaration that he owned the copyright in the updated program
+&amp;#8226; a declaration that he owned the copyright in the updated program
  
-&#8226; an injunction restraining the appellant from reproducing the source code in the program
+&amp;#8226; an injunction restraining the appellant from reproducing the source code in the program
  
-&#8226; an order that the appellant pay him $6,600 for work done on the third stage of the project.</sentence>
+&amp;#8226; an order that the appellant pay him $6,600 for work done on the third stage of the project.</sentence>
 <sentence id="s26">7 The Magistrate dismissed the application, and on the cross claim granted the injunction and ordered the payment of $275 for work done on the third stage of the project.</sentence>
 <sentence id="s27">8 The Magistrate rejected the appellant's claim that the respondent was its employee, dismissed its claim that it was an implied term of their contract that the appellant was entitled to delivery up of the source code, and its claim that it was the proprietor of the copyright in the updated program.</sentence>
 <sentence id="s28">ISSUES ON APPEAL 
@@ -88,7 +88,7 @@
 <sentence id="s44">The approach of this Court has been to regard it merely as one of a number of indicia which must be considered in the determination of that question .... Other relevant matters include, but are not limited to, the mode of remuneration, the provision and maintenance of equipment, the obligation to work, the hours of work and provision for holidays, the deduction of income tax and the delegation of work by the putative employee.</sentence>
 <sentence id="s45">12 In Roy Morgan Research Centre Pty Ltd v Commissioner of State Revenue (Victoria) (1997) 37 ATR 528 at 533 the Victorian Court of Appeal said that the determination of the employee/independent contractor question involves identifying factors or indicia that are capable of pointing in one direction or another, none of which is conclusive, and weighing or balancing them in order to reach a conclusion.</sentence>
 <sentence id="s46">13 The cases have identified many indicia, in addition to those to which Mason J referred, that are relevant to the inquiry.</sentence>
-<sentence id="s47">See, for example, Vabu Pty Ltd v Commissioner of Taxation (1996) 33 ATR 537 at 538 and D &amp; D Tolhurst Pty Ltd v Commissioner of State Revenue (1997) 38 ATR 1001 at 1013-1014.</sentence>
+<sentence id="s47">See, for example, Vabu Pty Ltd v Commissioner of Taxation (1996) 33 ATR 537 at 538 and D &amp;amp; D Tolhurst Pty Ltd v Commissioner of State Revenue (1997) 38 ATR 1001 at 1013-1014.</sentence>
 <sentence id="s48">14 The Magistrate first instructed herself in accordance with the relevant authorities, including those referred to above.</sentence>
 <sentence id="s49">She then noted various indicia relevant to the characterisation process.</sentence>
 <sentence id="s50">They included that the respondent was a sole operator, had an ABN, sent invoices which included GST, used his own motor vehicle and secretarial facilities without expenses or allowances from the appellant, was at liberty to take other work, worked at home without supervision, and attended meetings with the appellant's clients without the appellant being present.</sentence>
@@ -158,7 +158,7 @@
 <sentence id="s102">Thus Chitty says:
  While the expression of the parties' intention may be a relevant factor, it is not a conclusive factor in deciding what is the true nature of the contract, and where there is no written contract, the court is entitled to find contractual terms by implication.</sentence>
 <sentence id="s103">See Chitty on Contracts --- Specific Contracts 29 th ed (2004) 39-025.</sentence>
-<sentence id="s104">Chitty then quotes a passage from the reasons of Ackner LJ in Young &amp; Woods Ltd v West [1980] EWCA Civ 6 ; [1980] IRLR 201 at 208:
+<sentence id="s104">Chitty then quotes a passage from the reasons of Ackner LJ in Young &amp;amp; Woods Ltd v West [1980] EWCA Civ 6 ; [1980] IRLR 201 at 208:
  It is by now well settled that the label which the parties choose to use to describe their relationship cannot alter or decide their true relationship; but in deciding what their relationship is, the expression by them of their true intention is relevant but not conclusive.</sentence>
 <sentence id="s105">Its importance may vary according to the facts of the case.</sentence>
 <sentence id="s106">25 See also Australian Mutual Provident Society v Chaplin (1978) 18 ALR 385 at 389 (Privy Council), Narich Pty Ltd v Commissioner of Pay-roll Tax (1983) 50 ALR 417 (Privy Council) and Buildings Workers' Industrial Union v Odco Pty Ltd (1991) 99 ALR 735 at 755-756 (Full Court of this Court).</sentence>
@@ -419,13 +419,13 @@
 58 It is important to note that the review committee considered submissions from industry stakeholders, many of them summarised in the 1995 Report.</sentence>
 <sentence id="s269">The passages above reveal that
  
-&#8226; the manufacturer of a program will often have exclusive access to the source code
+&amp;#8226; the manufacturer of a program will often have exclusive access to the source code
  
-&#8226; users of a program on a complex network or multi-user system will have sufficient expertise to correct errors by direct modification of the source code, if they have access to it
+&amp;#8226; users of a program on a complex network or multi-user system will have sufficient expertise to correct errors by direct modification of the source code, if they have access to it
  
-&#8226; licences expressly granting a right to correct errors are usually limited to a small number of clients (usually universities or research institutions)
+&amp;#8226; licences expressly granting a right to correct errors are usually limited to a small number of clients (usually universities or research institutions)
  
-&#8226; modification of the source code or object code will infringe copyright if not fully within the terms of the licensed use of the program.</sentence>
+&amp;#8226; modification of the source code or object code will infringe copyright if not fully within the terms of the licensed use of the program.</sentence>
 <sentence id="s270">To the same effect is the statement of the Minister in the Second Reading Speech that the usual form in which computer programs are sold or supplied to users is "in machine-readable language, called 'object code'" and not in source code.</sentence>
 <sentence id="s271">See [55].</sentence>
 <sentence id="s272">59 It is apparent from the Report and the Speech that Division 4A was constructed on the legislative assumption that the purchaser of a computer program will generally not have a licence conferring a right of access to the source code.</sentence>
@@ -448,7 +448,7 @@
  the engagement for reward of a person to produce material of a nature which is capable of being the subject of copyright implies a permission, or consent, or licence in the person giving the engagement to use the material in the manner and for the purpose in which and for which it was contemplated between the parties that it would be used at the time of the engagement.</sentence>
 <sentence id="s288">That of itself would not assist the appellant.</sentence>
 <sentence id="s289">It is common ground that the appellant is entitled to use the computer program without infringing copyright.</sentence>
-<sentence id="s290">64 The appellant also relied on the observations of Kirby and Crennan JJ in Concrete Pty Ltd v Parramatta Design &amp; Developments Pty Ltd [2006] HCA 55 ; (2006) 229 CLR 577 at [59] and [69] to [73].</sentence>
+<sentence id="s290">64 The appellant also relied on the observations of Kirby and Crennan JJ in Concrete Pty Ltd v Parramatta Design &amp;amp; Developments Pty Ltd [2006] HCA 55 ; (2006) 229 CLR 577 at [59] and [69] to [73].</sentence>
 <sentence id="s291">However, those passages go no further than to recognise, as in Beck , the existence of an implied right of a property owner or a successor in title to use architectural plans.</sentence>
 <sentence id="s292">It is true that at [60] their Honours referred to a line of patent cases where an implied licence to use and repair a patented item has been upheld as an implied licence that runs with the patented item itself.</sentence>
 <sentence id="s293">But they pointed out that the licence arises because of the rights conferred by letters patent to "make, use, exercise and vend" which can be reflected in the terms of a patent specification.</sentence>
@@ -556,7 +556,7 @@ Dated: 20 June 2008
 
  Counsel for the Appellant: R Dean 
  
- Solicitor for the Appellant: R &amp; G Lawyers 
+ Solicitor for the Appellant: R &amp;amp; G Lawyers 
  
  Counsel for the Respondent: M Rivette 
  

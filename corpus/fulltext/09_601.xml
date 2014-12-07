@@ -3,16 +3,16 @@
 <name>Davidova v Murphy [2009] FCA 601 (10 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/601.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for annulment</catchphrase>
-<catchphrase "id=c1">dismissed</catchphrase>
-<catchphrase "id=c2">appeal</catchphrase>
-<catchphrase "id=c3">appeal</catchphrase>
-<catchphrase "id=c4">want of prosecution</catchphrase>
-<catchphrase "id=c5">failure by appellant to prepare an appeal book</catchphrase>
-<catchphrase "id=c6">an appeal in the nature of a "rehearing"</catchphrase>
-<catchphrase "id=c7">further evidence on appeal</catchphrase>
-<catchphrase "id=c8">bankruptcy</catchphrase>
-<catchphrase "id=c9">practice and procedure</catchphrase>
+<catchphrase id="c0">application for annulment</catchphrase>
+<catchphrase id="c1">dismissed</catchphrase>
+<catchphrase id="c2">appeal</catchphrase>
+<catchphrase id="c3">appeal</catchphrase>
+<catchphrase id="c4">want of prosecution</catchphrase>
+<catchphrase id="c5">failure by appellant to prepare an appeal book</catchphrase>
+<catchphrase id="c6">an appeal in the nature of a "rehearing"</catchphrase>
+<catchphrase id="c7">further evidence on appeal</catchphrase>
+<catchphrase id="c8">bankruptcy</catchphrase>
+<catchphrase id="c9">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -349,7 +349,7 @@ Clearly, the Federal Magistrate was not satisfied that the sequestration order o
 <sentence id="s249">The order dismissing the application made under s 153B was correct, albeit not for the reasons provided.</sentence>
 <sentence id="s250">When entertaining an appeal against a decision concluding that a sequestration order ought to be annulled pursuant to s 153B , French J (as His Honour then was) in Rigg v Baker [2006] FCAFC 179 , 155 FCR 531 observed: 
  [64] Generally speaking the true facts, which if known to the person making the order may have led him or her to refuse the order, relate to the financial circumstances of the debtor.</sentence>
-<sentence id="s251">They may, however, extend to procedural issues: Maxwell-Smith v S &amp; E Hill ; In the matter of Maxwell-Smith [2004] FCA 840 at [20] (Moore J).</sentence>
+<sentence id="s251">They may, however, extend to procedural issues: Maxwell-Smith v S &amp;amp; E Hill ; In the matter of Maxwell-Smith [2004] FCA 840 at [20] (Moore J).</sentence>
 <sentence id="s252">
 
  
@@ -516,7 +516,7 @@ In the absence of any reason to reach a contrary conclusion, it is thus consider
 <sentence id="s359">
 
  
-By way of example, in Maxwell-Smith v S &amp; E Hall Pty Ltd [2006] FCA 825 , 233 ALR 81 Jacobson J was prepared to infer that the purpose in issuing a bankruptcy notice was to put pressure on the debtor rather than to genuinely invoke the court's bankruptcy jurisdiction in circumstances where the bankruptcy notice sought payment of a debt for a small amount based on a judgment debt which was over 5 years old; where the judgment creditor was aware of the probability of solvency; and where the judgment debtor owned assets which greatly exceeded the debt.</sentence>
+By way of example, in Maxwell-Smith v S &amp;amp; E Hall Pty Ltd [2006] FCA 825 , 233 ALR 81 Jacobson J was prepared to infer that the purpose in issuing a bankruptcy notice was to put pressure on the debtor rather than to genuinely invoke the court's bankruptcy jurisdiction in circumstances where the bankruptcy notice sought payment of a debt for a small amount based on a judgment debt which was over 5 years old; where the judgment creditor was aware of the probability of solvency; and where the judgment debtor owned assets which greatly exceeded the debt.</sentence>
 <sentence id="s360">See also: Cavoli v Etl [2007] FCA 1191 at [17] per Heerey J; Slack v Bottoms English Solicitors [2002] FCA 1445 at [15] to [18] per Spender J.</sentence>
 <sentence id="s361">It is an abuse of process for a judgment creditor to pursue bankruptcy proceedings " for the purpose of stifling litigation ": Bayne v Baillieu; Bayne v Riggall [1908] HCA 39 ; (1908) 6 CLR 382 at 396 per Griffith CJ.</sentence>
 <sentence id="s362">This was the jurisdiction that the Appellant sought to invoke.</sentence>
@@ -571,7 +571,7 @@ Dated: 10 June 2009
  
  Counsel for the Respondent: Ms J Merkel 
  
- Solicitor for the Respondent: Eleanor Murphy &amp; Company 
+ Solicitor for the Respondent: Eleanor Murphy &amp;amp; Company 
  
  Solicitor for the Trustee in Bankruptcy Mr S Mullette (Bartier Perry) 
  Date of Hearing: 5, 7 May 2009 

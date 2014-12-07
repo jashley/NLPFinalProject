@@ -3,22 +3,22 @@
 <name>Skiwing Pty Limited trading as Cafe Tiffany's v Trust Company of Australia Ltd (Stockland Property Management Ltd) [2009] FCA 347 (15 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/347.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">misleading or deceptive conduct</catchphrase>
-<catchphrase "id=c1">representations as to future matters</catchphrase>
-<catchphrase "id=c2">onus of proof in establishing 'reasonable grounds' for making representation</catchphrase>
-<catchphrase "id=c3">onus of proof when a corporate representor adduces some evidence it has reasonable grounds for making a representation</catchphrase>
-<catchphrase "id=c4">whether onus remains with a corporate representor or whether a deeming provision to that effect ceases to operate</catchphrase>
-<catchphrase "id=c5">non-fulfilment of a representation</catchphrase>
-<catchphrase "id=c6">whether part of a cause of action or connected with loss being suffered</catchphrase>
-<catchphrase "id=c7">limitation upon commencement of action</catchphrase>
-<catchphrase "id=c8">meaning of expression "date on which the cause of action accrued".</catchphrase>
-<catchphrase "id=c9">when non-negligible damage is first suffered.</catchphrase>
-<catchphrase "id=c10">joinder of a party</catchphrase>
-<catchphrase "id=c11">limitation period</catchphrase>
-<catchphrase "id=c12">whether joinder or amendment would be permitted where new material facts would be pleaded.</catchphrase>
-<catchphrase "id=c13">trade practices</catchphrase>
-<catchphrase "id=c14">damages</catchphrase>
-<catchphrase "id=c15">practice and procedure</catchphrase>
+<catchphrase id="c0">misleading or deceptive conduct</catchphrase>
+<catchphrase id="c1">representations as to future matters</catchphrase>
+<catchphrase id="c2">onus of proof in establishing 'reasonable grounds' for making representation</catchphrase>
+<catchphrase id="c3">onus of proof when a corporate representor adduces some evidence it has reasonable grounds for making a representation</catchphrase>
+<catchphrase id="c4">whether onus remains with a corporate representor or whether a deeming provision to that effect ceases to operate</catchphrase>
+<catchphrase id="c5">non-fulfilment of a representation</catchphrase>
+<catchphrase id="c6">whether part of a cause of action or connected with loss being suffered</catchphrase>
+<catchphrase id="c7">limitation upon commencement of action</catchphrase>
+<catchphrase id="c8">meaning of expression "date on which the cause of action accrued".</catchphrase>
+<catchphrase id="c9">when non-negligible damage is first suffered.</catchphrase>
+<catchphrase id="c10">joinder of a party</catchphrase>
+<catchphrase id="c11">limitation period</catchphrase>
+<catchphrase id="c12">whether joinder or amendment would be permitted where new material facts would be pleaded.</catchphrase>
+<catchphrase id="c13">trade practices</catchphrase>
+<catchphrase id="c14">damages</catchphrase>
+<catchphrase id="c15">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,7 +27,7 @@
  
  Introduction 
  Litigation between the applicant ("Skiwing") and the respondent ("Stockland") has been going on since April 2003 in the Retail Leases Division of the Administrative Decisions Tribunal (NSW) ("the ADT"), the Appeal Panel of the ADT, the New South Wales Court of Appeal and the High Court of Australia (see e.g.</sentence>
-<sentence id="s1">Skiwing Pty Limited v Trust Company of Australia Ltd (No 2) [2003] NSWADT 243 ; Skiwing Pty Limited v Trust Co of Australia Ltd (No 3) [2004] NSWADT 94 ; Trust Company of Australia Ltd (Stockland Property Management Ltd) v Skiwing Pty Limited (No 2) (RLD) [2005] NSWADTAP 78 ; Trust Company of Australia Ltd (t/as Stockland Property Management) v Skiwing Pty Limited (t/as Caf&eacute; Tiffany's) [2006] NSWCA 185 , (2006) 66 NSWLR 77 ; Skiwing Pty Limited v Trust Company of Australia Ltd (t/as Stockland Property Management) [2006] NSWCA 276 ; Trust Company of Australia Ltd v Skiwing Pty Limited [2006] NSWCA 387 , (2006) 68 NSWLR 366 ; Skiwing Pty Limited v Trust Company of Australia [2007] HCA trans 488; Skiwing Pty Limited v Trust Company of Australia Limited [2008] HCASL 229).</sentence>
+<sentence id="s1">Skiwing Pty Limited v Trust Company of Australia Ltd (No 2) [2003] NSWADT 243 ; Skiwing Pty Limited v Trust Co of Australia Ltd (No 3) [2004] NSWADT 94 ; Trust Company of Australia Ltd (Stockland Property Management Ltd) v Skiwing Pty Limited (No 2) (RLD) [2005] NSWADTAP 78 ; Trust Company of Australia Ltd (t/as Stockland Property Management) v Skiwing Pty Limited (t/as Caf&amp;eacute; Tiffany's) [2006] NSWCA 185 , (2006) 66 NSWLR 77 ; Skiwing Pty Limited v Trust Company of Australia Ltd (t/as Stockland Property Management) [2006] NSWCA 276 ; Trust Company of Australia Ltd v Skiwing Pty Limited [2006] NSWCA 387 , (2006) 68 NSWLR 366 ; Skiwing Pty Limited v Trust Company of Australia [2007] HCA trans 488; Skiwing Pty Limited v Trust Company of Australia Limited [2008] HCASL 229).</sentence>
 <sentence id="s2">Skiwing persuaded the Appeal Panel of the ADT that the ADT had jurisdiction to hear a claim under s 52 of the Trade Practices Act 1974 (Cth) ("the TP Act").</sentence>
 <sentence id="s3">The New South Wales Court of Appeal reversed that decision on 13 July 2006.</sentence>
 <sentence id="s4">After a further period of time proceedings were commenced in this Court In the proceedings in this Court, which were commenced on 27 March 2008 by application supported by a statement of claim, Skiwing has again alleged that Stockland breached s 52 of the TP Act.</sentence>
@@ -215,7 +215,7 @@ See also Bill Acceptance Corporation Ltd v GWA Limited [1983] FCA 269 ; (1983) 5
 <sentence id="s113">
 
  
- Although the mere fact that a representation as to future conduct or the happening of a future event does not occur does not make the representation misleading or deceptive, such a representation can ripen into misleading or deceptive conduct for the purposes of s 52 in a number of circumstances; namely, if there is an implied statement in the representation as to a present or past fact; if the representation represents impliedly that the representor has a present intention to make good the promise or has the means or ability to do so; if the representation involves a representation that the representor has a present state of mind; or if a representation is made, which having regard to relevant circumstances at the time, requires a qualification because of the possibility of its non-fulfilment (see James v Australia and New Zealand Banking Group Ltd (supra); Global Sportsman Pty Ltd v Mirror Newspapers Pty Ltd (supra); Wheeler Grace &amp; Pierucci Pty Ltd v Wright (1989) ATPR p40-940).</sentence>
+ Although the mere fact that a representation as to future conduct or the happening of a future event does not occur does not make the representation misleading or deceptive, such a representation can ripen into misleading or deceptive conduct for the purposes of s 52 in a number of circumstances; namely, if there is an implied statement in the representation as to a present or past fact; if the representation represents impliedly that the representor has a present intention to make good the promise or has the means or ability to do so; if the representation involves a representation that the representor has a present state of mind; or if a representation is made, which having regard to relevant circumstances at the time, requires a qualification because of the possibility of its non-fulfilment (see James v Australia and New Zealand Banking Group Ltd (supra); Global Sportsman Pty Ltd v Mirror Newspapers Pty Ltd (supra); Wheeler Grace &amp;amp; Pierucci Pty Ltd v Wright (1989) ATPR p40-940).</sentence>
 <sentence id="s114">In any of these circumstances it is necessary to plead more than simply the fact of the representation as to the future matter and the fact that it does not occur.</sentence>
 <sentence id="s115">One has to plead material facts in relation to the implication in the statement of the present or past fact, the present intention and the means to carry it out, the relevant state of mind and the fact that there was no basis for it, and the relevant circumstance giving rise to the qualification.</sentence>
 <sentence id="s116">Without pleading such matters all the material facts necessary to complete the cause of action have not been stated and the respondent does not know what case it has to meet.</sentence>

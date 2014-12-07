@@ -1,30 +1,30 @@
 <?xml version="1.0"?>
 <case>
-<name>Telstra Corporation Ltd v Australian Competition &amp; Consumer Commission [2008] FCA 1436 (19 September 2008)</name>
+<name>Telstra Corporation Ltd v Australian Competition &amp;amp; Consumer Commission [2008] FCA 1436 (19 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1436.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">telecommunications access regime under pt xic of trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c1">access disputes between three access seekers and carrier (telstra corporation ltd</catchphrase>
-<catchphrase "id=c2">telstra)</catchphrase>
-<catchphrase "id=c3">australian competition and consumer commission (accc) arbitrating disputes under div 8 of pt xic</catchphrase>
-<catchphrase "id=c4">accc makes final determination under s 152cp</catchphrase>
-<catchphrase "id=c5">telstra challenges final determinations on judicial review grounds</catchphrase>
-<catchphrase "id=c6">statutory list of mandatory relevant considerations</catchphrase>
-<catchphrase "id=c7">whether one or more should be given priority</catchphrase>
-<catchphrase "id=c8">exhortatory provisions</catchphrase>
-<catchphrase "id=c9">whether final determinations invalid because period exceeded period of declaration of line sharing service as a declared service</catchphrase>
-<catchphrase "id=c10">telecommunications access regime under pt xic of trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c11">access disputes between three access seekers and carrier (telstra corporation ltd</catchphrase>
-<catchphrase "id=c12">telstra)</catchphrase>
-<catchphrase "id=c13">australian competition and consumer commission (accc) arbitrating disputes under div 8 of pt xic</catchphrase>
-<catchphrase "id=c14">accc makes final determination under s 152cp</catchphrase>
-<catchphrase "id=c15">telstra challenges final determinations on judicial review grounds</catchphrase>
-<catchphrase "id=c16">statutory list of mandatory relevant considerations</catchphrase>
-<catchphrase "id=c17">whether one or more should be given priority</catchphrase>
-<catchphrase "id=c18">exhortatory provisions</catchphrase>
-<catchphrase "id=c19">whether final determinations invalid because period exceeded period of declaration of line sharing service as a declared service</catchphrase>
-<catchphrase "id=c20">administrative law</catchphrase>
-<catchphrase "id=c21">trade practices</catchphrase>
+<catchphrase id="c0">telecommunications access regime under pt xic of trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c1">access disputes between three access seekers and carrier (telstra corporation ltd</catchphrase>
+<catchphrase id="c2">telstra)</catchphrase>
+<catchphrase id="c3">australian competition and consumer commission (accc) arbitrating disputes under div 8 of pt xic</catchphrase>
+<catchphrase id="c4">accc makes final determination under s 152cp</catchphrase>
+<catchphrase id="c5">telstra challenges final determinations on judicial review grounds</catchphrase>
+<catchphrase id="c6">statutory list of mandatory relevant considerations</catchphrase>
+<catchphrase id="c7">whether one or more should be given priority</catchphrase>
+<catchphrase id="c8">exhortatory provisions</catchphrase>
+<catchphrase id="c9">whether final determinations invalid because period exceeded period of declaration of line sharing service as a declared service</catchphrase>
+<catchphrase id="c10">telecommunications access regime under pt xic of trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c11">access disputes between three access seekers and carrier (telstra corporation ltd</catchphrase>
+<catchphrase id="c12">telstra)</catchphrase>
+<catchphrase id="c13">australian competition and consumer commission (accc) arbitrating disputes under div 8 of pt xic</catchphrase>
+<catchphrase id="c14">accc makes final determination under s 152cp</catchphrase>
+<catchphrase id="c15">telstra challenges final determinations on judicial review grounds</catchphrase>
+<catchphrase id="c16">statutory list of mandatory relevant considerations</catchphrase>
+<catchphrase id="c17">whether one or more should be given priority</catchphrase>
+<catchphrase id="c18">exhortatory provisions</catchphrase>
+<catchphrase id="c19">whether final determinations invalid because period exceeded period of declaration of line sharing service as a declared service</catchphrase>
+<catchphrase id="c20">administrative law</catchphrase>
+<catchphrase id="c21">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -90,18 +90,18 @@ In certain circumstances, Pt XIC permits an access dispute to be arbitrated by t
  
 15 Division 1 (ss 152AA-152AK) within Pt XIC is headed "Introduction".</sentence>
 <sentence id="s37">16 Section 152AA, the first section in Div 1, gives the following simplified outline of Pt XIC: 
- &#9679; This Part sets out a telecommunications access regime.</sentence>
-<sentence id="s38">&#9679; The Commission may declare carriage services and related services to be declared services.</sentence>
-<sentence id="s39">&#9679; Carriers and carriage service providers who provide declared services are required to comply with standard access obligations in relation to those services.</sentence>
-<sentence id="s40">&#9679; The standard access obligations facilitate the provision of access to declared services by service providers in order that service providers can provide carriage services and/or content services.</sentence>
-<sentence id="s41">&#9679; The terms and conditions on which carriers and carriage service providers are required to comply with the standard access obligations are subject to agreement.</sentence>
-<sentence id="s42">&#9679; If agreement cannot be reached, but the carrier or carriage service provider has given an access undertaking, the terms and conditions are as set out in the access undertaking.</sentence>
-<sentence id="s43">&#9679; If agreement cannot be reached, but no access undertaking is in operation, the terms and conditions are to be determined by the Commission acting as an arbitrator.</sentence>
-<sentence id="s44">&#9679; An access undertaking (other than a special access undertaking) may adopt the terms and conditions set out in a telecommunications access code.</sentence>
-<sentence id="s45">&#9679; The Commission may conduct an arbitration of a dispute about access to declared services.</sentence>
+ &amp;#9679; This Part sets out a telecommunications access regime.</sentence>
+<sentence id="s38">&amp;#9679; The Commission may declare carriage services and related services to be declared services.</sentence>
+<sentence id="s39">&amp;#9679; Carriers and carriage service providers who provide declared services are required to comply with standard access obligations in relation to those services.</sentence>
+<sentence id="s40">&amp;#9679; The standard access obligations facilitate the provision of access to declared services by service providers in order that service providers can provide carriage services and/or content services.</sentence>
+<sentence id="s41">&amp;#9679; The terms and conditions on which carriers and carriage service providers are required to comply with the standard access obligations are subject to agreement.</sentence>
+<sentence id="s42">&amp;#9679; If agreement cannot be reached, but the carrier or carriage service provider has given an access undertaking, the terms and conditions are as set out in the access undertaking.</sentence>
+<sentence id="s43">&amp;#9679; If agreement cannot be reached, but no access undertaking is in operation, the terms and conditions are to be determined by the Commission acting as an arbitrator.</sentence>
+<sentence id="s44">&amp;#9679; An access undertaking (other than a special access undertaking) may adopt the terms and conditions set out in a telecommunications access code.</sentence>
+<sentence id="s45">&amp;#9679; The Commission may conduct an arbitration of a dispute about access to declared services.</sentence>
 <sentence id="s46">The Commission's determination on the arbitration must not be inconsistent with the standard access obligations or an access undertaking.</sentence>
-<sentence id="s47">&#9679; The Commission may register agreements about access to declared services.</sentence>
-<sentence id="s48">&#9679; A carrier, carriage service provider or related body must not prevent or hinder the fulfilment of a standard access obligation.</sentence>
+<sentence id="s47">&amp;#9679; The Commission may register agreements about access to declared services.</sentence>
+<sentence id="s48">&amp;#9679; A carrier, carriage service provider or related body must not prevent or hinder the fulfilment of a standard access obligation.</sentence>
 <sentence id="s49">There is no access undertaking in operation relevant to these proceedings.</sentence>
 <sentence id="s50">17 Section 152AB(1) sets out the single object of Pt XIC.</sentence>
 <sentence id="s51">Subsections (1) to (3) of s 152AB are as follows:
@@ -534,8 +534,8 @@ This provision is relevant to cl 5A(i) of the Final Determination which provides
 <sentence id="s202">54 The charges payable by Request to Telstra in relation to the LSS that arise for consideration in the present proceedings include:
  
  
- &#8226; charges for the connection and disconnection of ULLs; and
- &#8226; periodic charges for the ongoing use of the high frequency spectrum of the ULL to provide the LSS, usually expressed as an annual or equivalent monthly charge (LSS periodic charges --- also referred to as LSS monthly charges and LSS annual charges).</sentence>
+ &amp;#8226; charges for the connection and disconnection of ULLs; and
+ &amp;#8226; periodic charges for the ongoing use of the high frequency spectrum of the ULL to provide the LSS, usually expressed as an annual or equivalent monthly charge (LSS periodic charges --- also referred to as LSS monthly charges and LSS annual charges).</sentence>
 <sentence id="s203">
  
  The ULLS 
@@ -876,7 +876,7 @@ As can be seen, the words "Summary of" were absent from the LSS Index.</sentence
 <sentence id="s425">Of course, this said nothing as to the correctness or reliability of the integers.</sentence>
 <sentence id="s426">145 Telstra's submissions to ACCC addressed "SPECIFIC COSTS" in Section D of Part 2.</sentence>
 <sentence id="s427">They asserted (paras 53ff) :
- &#9679; that Telstra had developed a model in order to model adequately LSS-specific costs for the purpose of calculating monthly charges payable for LSS; &#9679; that Telstra's newly developed model estimated Telstra's costs of providing the LSS; &#9679; that the model was a top-down model and was consistent with the statutory criteria set out in s 152CR of the Act; and &#9679; that application of the model gave estimated LSS-specific costs per SIO (service in operation) as between $4.56 and $4.75 per month.</sentence>
+ &amp;#9679; that Telstra had developed a model in order to model adequately LSS-specific costs for the purpose of calculating monthly charges payable for LSS; &amp;#9679; that Telstra's newly developed model estimated Telstra's costs of providing the LSS; &amp;#9679; that the model was a top-down model and was consistent with the statutory criteria set out in s 152CR of the Act; and &amp;#9679; that application of the model gave estimated LSS-specific costs per SIO (service in operation) as between $4.56 and $4.75 per month.</sentence>
 <sentence id="s428">146 In para 54 on p 10 of Part 2, Telstra stated that it had "estimated the top down LSS specific costs using ' the Telstra model' ", and to this expression (in bold) there was a footnote reading "[ LSS Index: 93 ]; and [ LSS Index: 94 ] (using high WACC)".</sentence>
 <sentence id="s429">Clearly, this reference was to the LSS Index (on the CD), not to the emailed "Index of Documents Relied on in the Request Dispute".</sentence>
 <sentence id="s430">If an ACCC officer had read the footnote and gone to the LSS Index on the CD he or she would have seen references to the two top-down models without the words "Summary of", but if the officer had gone to those two models on the Spreadsheets, he or she would have seen the "Summary of".</sentence>
@@ -908,11 +908,11 @@ As can be seen, the words "Summary of" were absent from the LSS Index.</sentence
 <sentence id="s452">154 ACCC went on to note that the cost estimate that it had proposed to the parties of $2.43 was rounded to give a monthly charge of $2.50 per LSS per month (although I note that ACCC mistakenly referred to that amount as the "annual charge").</sentence>
 <sentence id="s453">155 Telstra submits that while ACCC understood that Telstra claimed that its costs were $4.56, the figure set out in Telstra's written submission, in the passage set out above ACCC made it clear that because it did not have Telstra's cost model, it:
  
-&#9679; could only "expect" or surmise that the difference between ACCC's figure of $2.50 and Telstra's $4.56 was attributable to the five integers mentioned; 
+&amp;#9679; could only "expect" or surmise that the difference between ACCC's figure of $2.50 and Telstra's $4.56 was attributable to the five integers mentioned; 
  
-&#9679; remained uninformed as to the varying degrees to which each of the five influenced the ultimate per-unit cost for LSS claimed by Telstra; and
+&amp;#9679; remained uninformed as to the varying degrees to which each of the five influenced the ultimate per-unit cost for LSS claimed by Telstra; and
  
-&#9679; remained ignorant as to how Telstra's cost model worked and as to whether it permitted sensitivity testing to be undertaken.</sentence>
+&amp;#9679; remained ignorant as to how Telstra's cost model worked and as to whether it permitted sensitivity testing to be undertaken.</sentence>
 <sentence id="s454">156 Mr Little's affidavit shows that sensitivity testing was a reference to calculating the contribution of each of the integers to the per-unit cost of the LSS, and necessarily involved manipulating Telstra's cost model by the input of different numbers to calculate the contribution of the five integers.</sentence>
 <sentence id="s455">According to Telstra's submission, Telstra's cost model was designed to allow this very kind of sensitivity testing.</sentence>
 <sentence id="s456">Mr Little's affidavit set out three sample manipulations of Telstra's cost model by reference to three of the five factors referred to by ACCC, namely, capital costs, LSS demand, and post-tax WACC.</sentence>
@@ -953,7 +953,7 @@ As can be seen, the words "Summary of" were absent from the LSS Index.</sentence
 <sentence id="s488">For example, absence of care (perhaps arising indirectly from excessive speed) could give rise to an overlooking of a relevant consideration or a failure to accord procedural fairness.</sentence>
 <sentence id="s489">It is not obvious what ground of judicial review, if any, might arise directly from a failure to act "speedily" or to inquire "quickly".</sentence>
 <sentence id="s490">It is another question whether the decision-maker could invoke the requirement of speed "in defence" against the consequences, in terms of grounds of judicial review, of a lack of care, but it is to be doubted.</sentence>
-<sentence id="s491">167 In so far as Telstra relies on an alleged failure by ACCC to seek further material from Telstra, Request submits that ACCC's decision would be vulnerable to attack under the ADJR Act for a failure in this respect only if the failure was so unreasonable that no reasonable decision-maker would have failed to make the inquiry (Request cites Prasad v Minister for Immigration &amp; Ethnic Affairs [1985] FCA 47 ; (1985) 6 FCR 155 at 169-170).</sentence>
+<sentence id="s491">167 In so far as Telstra relies on an alleged failure by ACCC to seek further material from Telstra, Request submits that ACCC's decision would be vulnerable to attack under the ADJR Act for a failure in this respect only if the failure was so unreasonable that no reasonable decision-maker would have failed to make the inquiry (Request cites Prasad v Minister for Immigration &amp;amp; Ethnic Affairs [1985] FCA 47 ; (1985) 6 FCR 155 at 169-170).</sentence>
 <sentence id="s492">Telstra's Ground 1 
  
  To what extent, if at all, did ACCC in fact engage with the Telstra cost model?</sentence>
@@ -993,7 +993,7 @@ As can be seen, the words "Summary of" were absent from the LSS Index.</sentence
 <sentence id="s523">This is then unitised over LSS-only demand to give an annual charge.</sentence>
 <sentence id="s524">Telstra provides no analysis of the efficiency of its cost claims, other than to point to TFP studies for the entirety of Telstra's business and certain US telecoms.</sentence>
 <sentence id="s525">Telstra's proposed model is contrary to the ACT's [Australian Competition Tribunal's] LSS ruling: it allocates and unitises incremental costs on a LSS only basis [that is, it does not adopt the a pooling and allocation approach]: it does not adopt a levelisation approach; and the TFP study provides little if any comfort that the claimed costs were efficiently incurred or forward-looking.</sentence>
-<sentence id="s526">For instance, a $[CONFIDENTIAL] million current asset comprising unpaid LSS charges (&gt;[CONFIDENTIAL]% claimed asset base) has not been adjusted down to reflect the pending reduction in LSS charges.</sentence>
+<sentence id="s526">For instance, a $[CONFIDENTIAL] million current asset comprising unpaid LSS charges (&amp;gt;[CONFIDENTIAL]% claimed asset base) has not been adjusted down to reflect the pending reduction in LSS charges.</sentence>
 <sentence id="s527">While there could be a basis to include an allowance for indirect capital costs, Telstra hasn't provided information that allows us to calculate the cost that should be allowed.</sentence>
 <sentence id="s528">We propose to not make any allowance, rather than give another opportunity to substantiate a proper claim.</sentence>
 <sentence id="s529">177 It is clear that the writer of the memorandum considered that he knew the features of Telstra's proposed "entirely new cost model".</sentence>
@@ -1137,7 +1137,7 @@ As can be seen, the words "Summary of" were absent from the LSS Index.</sentence
  
 206 The parties agree on the principles that govern the motion for leave to reopen.</sentence>
 <sentence id="s633">207 Telstra could not have adduced the evidence in question during the hearing: it did not come into existence until 20 December 2007 --- some 13 days after the last day of the hearing.</sentence>
-<sentence id="s634">208 The ultimate question for the Court is whether it is in the interests of justice that the further evidence be admitted (see, for example, Inspector-General in Bankruptcy v Bradshaw [2006] FCA 22 at [24] ; Daniel v State of Western Australia [2004] FCA 849 ; (2004) 138 FCR 254 ( Daniel ) at 269; Urban Transit Authority of NSW v Nweiser (1992) 28 NSWLR 471 at 478-479 (per Clarke JA, Mahoney &amp; Meagher JJA agreeing); Dumitrov v SC Johnson and Son Superannuation Pty Ltd (No 2) [2007] NSWSC 42 at [7] ).</sentence>
+<sentence id="s634">208 The ultimate question for the Court is whether it is in the interests of justice that the further evidence be admitted (see, for example, Inspector-General in Bankruptcy v Bradshaw [2006] FCA 22 at [24] ; Daniel v State of Western Australia [2004] FCA 849 ; (2004) 138 FCR 254 ( Daniel ) at 269; Urban Transit Authority of NSW v Nweiser (1992) 28 NSWLR 471 at 478-479 (per Clarke JA, Mahoney &amp;amp; Meagher JJA agreeing); Dumitrov v SC Johnson and Son Superannuation Pty Ltd (No 2) [2007] NSWSC 42 at [7] ).</sentence>
 <sentence id="s635">209 The particular criterion relevant to the present circumstances is whether it is probable to the required degree that the additional evidence will affect the result.</sentence>
 <sentence id="s636">There is not a single formulation in the cases as to the degree of probability required.</sentence>
 <sentence id="s637">In Australasian Meat Industry Employees' Union (WA Branch); ex parte Ferguson (1986) 67 ALR 491 , Toohey J said (at 493-494):
@@ -1242,7 +1242,7 @@ ACCC went on to note that no party had suggested that ACCC's cost model could no
  
 228 Telstra submits that it cannot be assumed that ACCC "would have" decided in relation to Telstra's cost model in the same way in the Request/Telstra and Adam/Telstra arbitrations.</sentence>
 <sentence id="s704">Each arbitration must be decided on its own merits and there is no principle of stare decisis in administrative decision making.</sentence>
-<sentence id="s705">Telstra cites statements by Tobias JA in Segal v Waverley Council (2005) 64 NSWLR 177 at [96] and by Deane J in Nevistic v Minister for Immigration &amp; Ethnic Affairs (1981) 34 ALR 639 at 646-647, generally to the effect that an administrative decision-maker must decide each case on its facts and merits, and must not blindly follow a fixed policy.</sentence>
+<sentence id="s705">Telstra cites statements by Tobias JA in Segal v Waverley Council (2005) 64 NSWLR 177 at [96] and by Deane J in Nevistic v Minister for Immigration &amp;amp; Ethnic Affairs (1981) 34 ALR 639 at 646-647, generally to the effect that an administrative decision-maker must decide each case on its facts and merits, and must not blindly follow a fixed policy.</sentence>
 <sentence id="s706">It seems to be inherent in the submission that it should be accepted that ACCC may properly determine different charges for the supply of the (identical) LSS by Telstra to different access seekers, such as Request and Adam.</sentence>
 <sentence id="s707">229 Telstra submits that if it succeeds in either this proceeding or the Adam/Telstra proceeding, it is not "inconceivable" that ACCC might take a different view of Telstra's cost model from that which it adopted in the FD Statement of Reasons based on what has transpired in this proceeding and the Court's reasons for judgment.</sentence>
 <sentence id="s708">As well, according to Telstra, any subsequent consideration of Telstra's cost model may be affected by the outcome of other grounds of review, in particular, those relating to the Pooling and Allocation Method (see Section C (Pooling and Allocation Method)) which might be relevant to a consideration of Telstra's cost model.</sentence>
@@ -1261,9 +1261,9 @@ ACCC went on to note that no party had suggested that ACCC's cost model could no
 <sentence id="s719">233 Telstra draws attention to differences between the LSS Pricing Principles and the 2007 LSS Pricing Principles:
  
  
- &#8226; unlike the LSS Pricing Principles, the 2007 LSS Pricing Principles specifically adopt the Pooling and Allocation Method;
- &#8226; unlike the LSS Pricing Principles, the 2007 LSS Pricing Principles set out indicative prices for the supply of the LSS (in respect of both periodic charges and connection and disconnection charges);
- &#8226; the indicative prices, including the LSS periodic charge, are stated to apply only from 1 January 2008 to 31 July 2009, which is beyond the period of the Final Determination which expired on 31 December 2007.</sentence>
+ &amp;#8226; unlike the LSS Pricing Principles, the 2007 LSS Pricing Principles specifically adopt the Pooling and Allocation Method;
+ &amp;#8226; unlike the LSS Pricing Principles, the 2007 LSS Pricing Principles set out indicative prices for the supply of the LSS (in respect of both periodic charges and connection and disconnection charges);
+ &amp;#8226; the indicative prices, including the LSS periodic charge, are stated to apply only from 1 January 2008 to 31 July 2009, which is beyond the period of the Final Determination which expired on 31 December 2007.</sentence>
 <sentence id="s720">
  
 
@@ -1330,15 +1330,15 @@ ACCC itself recognised in the Adam FD Statement of Reasons that the 2007 LSS Pri
 <sentence id="s759">However, so the argument proceeds, to the extent that the Final Determination was to apply in respect of a period after 31 October 2007, it was to apply in respect of a service that was not a declared service and was therefore made beyond ACCC's jurisdiction.</sentence>
 <sentence id="s760">253 Telstra points to the following provisions of the Act and makes the following submissions in support of its "context argument":
  
-&#8226; Section 152CM(1): This section allows an access seeker or the carrier or provider to notify ACCC that an access dispute exists only in respect of a declared service that is supplied, or proposed to be supplied, and to which one or more SAOs apply or will apply.</sentence>
+&amp;#8226; Section 152CM(1): This section allows an access seeker or the carrier or provider to notify ACCC that an access dispute exists only in respect of a declared service that is supplied, or proposed to be supplied, and to which one or more SAOs apply or will apply.</sentence>
 <sentence id="s761">Accordingly, ACCC's jurisdiction to arbitrate the dispute is limited by reference to the continued subsistence of a declared service.</sentence>
-<sentence id="s762">&#8226; Section 152CP(2): This section provides that a determination "may deal with any matter relating to access by the access seeker to the declared service including matters that were not the basis of the notification of the dispute".</sentence>
+<sentence id="s762">&amp;#8226; Section 152CP(2): This section provides that a determination "may deal with any matter relating to access by the access seeker to the declared service including matters that were not the basis of the notification of the dispute".</sentence>
 <sentence id="s763">Accordingly, ACCC's jurisdiction is confined to matters relating to access by an access seeker to a declared service: matters relating to access to a service that has ceased to be declared fall outside that scope.</sentence>
 <sentence id="s764">The Final Determination, in so far as it related to the period after 31 October 2007, did not deal with matters relating to access by an access seeker to a declared service.</sentence>
 <sentence id="s765">Furthermore, paras (a) to (e) of s 152CP(2) provide examples of matters with which a determination may deal, and relate to the present supply of a declared service and assume that SAOs apply.</sentence>
 <sentence id="s766">These matters have no place where a service has ceased to be declared.</sentence>
 <sentence id="s767">It could not have been intended that ACCC have jurisdiction in circumstances in which a determination would have no operational effect.</sentence>
-<sentence id="s768">&#8226; Section 152ALA: This section provides that a declaration of a service (under s 152AL) must specify an expiry date for the declaration (s 152ALA(1)) within the five year period beginning when the declaration was made (s 152ALA(2)).</sentence>
+<sentence id="s768">&amp;#8226; Section 152ALA: This section provides that a declaration of a service (under s 152AL) must specify an expiry date for the declaration (s 152ALA(1)) within the five year period beginning when the declaration was made (s 152ALA(2)).</sentence>
 <sentence id="s769">ACCC must conduct a public inquiry within the 12 months prior to the expiry date of a declaration to determine whether, inter alia, the declaration should be extended, revoked, varied or allowed to expire (s 152ALA(7)).</sentence>
 <sentence id="s770">A determination which pre-empts ACCC's decision on the future of a declaration would undermine the legislative intention that declarations be reviewed at regular intervals.</sentence>
 <sentence id="s771">254 Request, on the other hand, submits that the only requirement to enliven ACCC's jurisdiction is that the service be a declared service at the time when ACCC is notified that an access dispute exists.</sentence>
@@ -1347,10 +1347,10 @@ ACCC itself recognised in the Adam FD Statement of Reasons that the 2007 LSS Pri
 <sentence id="s774">There is no requirement limiting ACCC's power to make a determination that the service be a declared service at any other time.</sentence>
 <sentence id="s775">255 Request and ACCC (as mentioned at [102] above, ACCC made submissions on the question of construction relevant to this ground) point to the following provisions of the Act and make the following submissions in support of the construction they advance:
  
-&#8226; Section 152CQ: This section imposes various restrictions on ACCC's power to make determinations, but imposes none by reference to any time limitation or to the duration of the declaration of the relevant service.</sentence>
-<sentence id="s776">&#8226; Section 152ALA(1) and (2): By these provisions, the legislature expressly imposed restrictions on expiry dates for, and the duration of, declarations.</sentence>
+&amp;#8226; Section 152CQ: This section imposes various restrictions on ACCC's power to make determinations, but imposes none by reference to any time limitation or to the duration of the declaration of the relevant service.</sentence>
+<sentence id="s776">&amp;#8226; Section 152ALA(1) and (2): By these provisions, the legislature expressly imposed restrictions on expiry dates for, and the duration of, declarations.</sentence>
 <sentence id="s777">It can not be assumed that the legislature intended a similar restriction in respect of final determinations where none is expressed.</sentence>
-<sentence id="s778">&#8226; Section 152DNA: This section permits ACCC to backdate a determination, although only to a time no earlier than when the parties commenced negotiations and therefore to a time after the service became a declared service.</sentence>
+<sentence id="s778">&amp;#8226; Section 152DNA: This section permits ACCC to backdate a determination, although only to a time no earlier than when the parties commenced negotiations and therefore to a time after the service became a declared service.</sentence>
 <sentence id="s779">It follows that a final determination may have a role to play even though a declaration has expired and that a final determination is therefore not dependent on the continued subsistence of the declaration, so long as the service was declared at the time of notification.</sentence>
 <sentence id="s780">256 Request also draws attention to the practical consequences of the limitation on ACCC's power inherent in Telstra's argument.</sentence>
 <sentence id="s781">Request submits that it would provide an undesirable incentive for access providers (such as Telstra) to delay the outcome of an arbitration for as long as possible, and ideally until after the service ceased to be a declared service.</sentence>
@@ -1446,7 +1446,7 @@ ACCC itself recognised in the Adam FD Statement of Reasons that the 2007 LSS Pri
 <sentence id="s853">283 Telstra's Ground 6 also depends on s 152CR(1)(d) of the Act.</sentence>
 <sentence id="s854">It is that ACCC made an error of law in its construction of that provision.</sentence>
 <sentence id="s855">Telstra argues that, properly construed, s 152CR(1)(d) requires ACCC to take into account "the direct cost of providing access to the declared service [through the access charge for that declared service]".</sentence>
-<sentence id="s856">In support, Telstra refers to the Access Pricing Principles guide; a decision of the Tribunal in Application by Optus Mobile Pty Limited &amp; Optus Networks Pty Limited (2006) 205 FLR 29 ( Optus Mobile ) at [137]-[138]; and the LTIE.</sentence>
+<sentence id="s856">In support, Telstra refers to the Access Pricing Principles guide; a decision of the Tribunal in Application by Optus Mobile Pty Limited &amp;amp; Optus Networks Pty Limited (2006) 205 FLR 29 ( Optus Mobile ) at [137]-[138]; and the LTIE.</sentence>
 <sentence id="s857">Telstra submits that ACCC's conclusion that the Pooling and Allocation Method allows Telstra to recover its direct costs of providing Request with access to the LSS (see [299] below) involves a misconstruction of s 152CR(1)(d) and therefore an error of law.</sentence>
 <sentence id="s858">284 Telstra emphasises that its submission is not that s 152CR(1)(d) requires ACCC to ensure that Telstra's direct costs are in fact recovered via the access charge for the LSS, but rather that ACCC is required to take into account the correct matter when determining the access charge for the LSS, which is the direct costs of providing access to that service.</sentence>
 <sentence id="s859">By concluding that the direct costs criterion of s 152CR(1)(d) was satisfied when Telstra did not recover the direct costs of providing Request with access to the LSS through the access charge to be made for the LSS alone, ACCC did not take into account the correct consideration made mandatory by s 152CR(1)(d).</sentence>
@@ -1555,9 +1555,9 @@ ACCC itself recognised in the Adam FD Statement of Reasons that the 2007 LSS Pri
 <sentence id="s950">303 In section 3.3.4 ACCC accepted:
  
  
- &#8226; that the direct costs referred to in para (d) of s 152CR(1) were costs incurred (or caused) by the provision of access and included the incremental costs of providing access;
- &#8226; that the criterion did not extend to permitting compensation for loss of any "monopoly profits" that occurred as a result of increased competition; and
- &#8226; that the Tribunal had considered that the direct costs criterion was concerned with ensuring that the costs of providing the service were "recovered".</sentence>
+ &amp;#8226; that the direct costs referred to in para (d) of s 152CR(1) were costs incurred (or caused) by the provision of access and included the incremental costs of providing access;
+ &amp;#8226; that the criterion did not extend to permitting compensation for loss of any "monopoly profits" that occurred as a result of increased competition; and
+ &amp;#8226; that the Tribunal had considered that the direct costs criterion was concerned with ensuring that the costs of providing the service were "recovered".</sentence>
 <sentence id="s951">
  
 
@@ -1621,7 +1621,7 @@ ACCC's expression "More recently" is odd, since both passages occur in the same 
 <sentence id="s995">318 ACCC subsequently adopted an approach that pooled and allocated costs, and the rationale for doing so has been explained in the documents referred to at [292] above.</sentence>
 <sentence id="s996">319 Essentially, in ACCC's view, there was a problem associated with the existing method of charging the access seekers alone.</sentence>
 <sentence id="s997">This was that because Telstra (Bigpond) did not purchase the particular declared service from Telstra, it did not incur certain service-specific costs that were incurred by its competitor access seekers.</sentence>
-<sentence id="s998">If all of those costs were passed on to the access seekers, they could be expected to pass them on to their customers and would be placed at a competitive disadvantage vis-&agrave;-vis Telstra.</sentence>
+<sentence id="s998">If all of those costs were passed on to the access seekers, they could be expected to pass them on to their customers and would be placed at a competitive disadvantage vis-&amp;agrave;-vis Telstra.</sentence>
 <sentence id="s999">This would not be in the LTIE because end-users, acting rationally, would purchase from Telstra and not from the access seekers, with the result that the latter would disappear from the market and Telstra would be left without competitors.</sentence>
 <sentence id="s1000">320 As noted above, in the FD Statement of Reasons ACCC explained its reason for adopting the Pooling and Allocation Method.</sentence>
 <sentence id="s1001">ACCC gave serious consideration to Telstra's direct costs.</sentence>
@@ -1636,9 +1636,9 @@ ACCC's expression "More recently" is odd, since both passages occur in the same 
 <sentence id="s1008">323 Telstra points to:
  
  
- &#8226; aspects of its submissions which did not elicit a specific response in the FD Statement of Reasons;
- &#8226; a statement by ACCC in the 1997 Access Pricing Principles guide that the access charge should allow vertically integrated firms to exploit economies of scale and scope to deliver services to end-users at least cost; and
- &#8226; a statement by ACCC referring to economies of scale and scope in Optus Mobile (at [124]).</sentence>
+ &amp;#8226; aspects of its submissions which did not elicit a specific response in the FD Statement of Reasons;
+ &amp;#8226; a statement by ACCC in the 1997 Access Pricing Principles guide that the access charge should allow vertically integrated firms to exploit economies of scale and scope to deliver services to end-users at least cost; and
+ &amp;#8226; a statement by ACCC referring to economies of scale and scope in Optus Mobile (at [124]).</sentence>
 <sentence id="s1009">
  
 
@@ -1680,13 +1680,13 @@ ACCC's expression "More recently" is odd, since both passages occur in the same 
 <sentence id="s1030">ACCC then described TSLRIC in some detail as follows:
  The concept of TRSLRIC can be understood by breaking it up into its components: 
  
- &#8226; 'Total service' refers to it being the cost of production of an entire service (or a production element) not to the cost of a particular unit.</sentence>
+ &amp;#8226; 'Total service' refers to it being the cost of production of an entire service (or a production element) not to the cost of a particular unit.</sentence>
 <sentence id="s1031">However, with respect to carriage services, it is usually expressed on a per-minute (or per line) basis by dividing the annual total service cost by the number of minutes or lines carried.</sentence>
-<sentence id="s1032">&#8226; 'Long run' refers to it being a long-run cost concept in contrast to a short-run one.</sentence>
+<sentence id="s1032">&amp;#8226; 'Long run' refers to it being a long-run cost concept in contrast to a short-run one.</sentence>
 <sentence id="s1033">In the short run the amount of at least one factor of production (usually capital equipment) is fixed, while in the long run all factors of production can be varied.</sentence>
-<sentence id="s1034">&#8226; 'Incremental cost' means that it is a form of 'marginal cost', although not the more familiar 'marginal cost' of the change in cost incurred through a change in the amount of output produced.</sentence>
+<sentence id="s1034">&amp;#8226; 'Incremental cost' means that it is a form of 'marginal cost', although not the more familiar 'marginal cost' of the change in cost incurred through a change in the amount of output produced.</sentence>
 <sentence id="s1035">[a footnote states 'incremental' and 'marginal' are synonymous and used interchangeably]
- &#8226; In it also an attributable cost concept as it refers only to those costs that can be attributed to the production of the service.</sentence>
+ &amp;#8226; In it also an attributable cost concept as it refers only to those costs that can be attributed to the production of the service.</sentence>
 <sentence id="s1036">Costs common to more than one service cannot be attributed to a particular service and therefore do not form part of TSLRIC.</sentence>
 <sentence id="s1037">However, in practice, it is sometimes defined to include a contribution to indirect and overhead costs ('TSLRIC+).</sentence>
 <sentence id="s1038">Sometimes an additional supplement is also included in recognition of an access deficit ('TSLRIC++').</sentence>
@@ -1694,8 +1694,8 @@ ACCC's expression "More recently" is odd, since both passages occur in the same 
  
 Given these attributed TSLRIC can be defined in the following alternative ways: 
  
- &#8226; It is the incremental or additional cost --- on an annual basis --- the firm incurs in the long run in providing a particular service (or production element) as a whole, assuming the scale of all of its other production activities remain unchanged; or
- &#8226; It is the total cost (on an annual basis) the firm would avoid in the long run if it ceased to provide the services as a whole.</sentence>
+ &amp;#8226; It is the incremental or additional cost --- on an annual basis --- the firm incurs in the long run in providing a particular service (or production element) as a whole, assuming the scale of all of its other production activities remain unchanged; or
+ &amp;#8226; It is the total cost (on an annual basis) the firm would avoid in the long run if it ceased to provide the services as a whole.</sentence>
 <sentence id="s1040">
  
 For the purposes of estimating a TSLRIC figure, the TSLRIC of supplying a service can be expressed as the sum of the operating and maintenance costs and the capital costs (both physical and the risk-adjusted opportunity cost of capital) that the firm incurs in providing the service as a whole over a certain forward-looking period, typically annually.</sentence>
@@ -1801,17 +1801,17 @@ ACCC went on to say:
 <sentence id="s1109">This is because efficient line costs are being recovered through other charges imposed in respect of the line, such as line rental charges, and, in the absence of reductions in these other charges, to recognise a contribution to line costs as a cost component in LSS annual charges would lead to an over-recovery of efficient line costs [a footnote referred to the confidential versions of the LSS Undertaking Final Report and ULLS and LSS Undertakings Final Report].</sentence>
 <sentence id="s1110">The Second Draft ID Issues Paper went on to invite the parties to make submissions on a number of issues, including whether it was "appropriate for the purposes of an ID for the Commission to not include a contribution to line costs".</sentence>
 <sentence id="s1111">358 Telstra's submissions of October 2006 in response to the Second Draft ID Issues Paper addressed the issue of line costs in the following paragraphs (footnotes omitted):
- A practical consequence of [the definition of the LSS as contained in the LSS Declaration] is that wherever LSS is provided, the local loop involved is being used to provide two types of services: &#8226; voiceband PSTN services; and &#8226; broadband data services.</sentence>
+ A practical consequence of [the definition of the LSS as contained in the LSS Declaration] is that wherever LSS is provided, the local loop involved is being used to provide two types of services: &amp;#8226; voiceband PSTN services; and &amp;#8226; broadband data services.</sentence>
 <sentence id="s1112">The service definition does not require that the LSS access seeker who provides the broadband data services to end-users also be the provider of the voiceband PSTN services.</sentence>
 <sentence id="s1113">...</sentence>
 <sentence id="s1114">This raises a material issue regarding how the costs of providing the local loop should be most efficiently and equitably shared between the services that make use of it.</sentence>
 <sentence id="s1115">359 Telstra went on to quote statements from the LSS Pricing Principles that recognised:
  
  
- &#8226; that a LSS price should include both specific and line costs;
- &#8226; that ACCC believed that Telstra already fully recovered its line costs through a range of revenue sources;
- &#8226; that the price of a LSS should therefore include only LSS-specific costs; but
- &#8226; that if Telstra were to change its pricing structure so that it no longer recovered all of its line related costs through the other revenue sources, it may be appropriate to include an allocation of line costs in the price of the LSS.</sentence>
+ &amp;#8226; that a LSS price should include both specific and line costs;
+ &amp;#8226; that ACCC believed that Telstra already fully recovered its line costs through a range of revenue sources;
+ &amp;#8226; that the price of a LSS should therefore include only LSS-specific costs; but
+ &amp;#8226; that if Telstra were to change its pricing structure so that it no longer recovered all of its line related costs through the other revenue sources, it may be appropriate to include an allocation of line costs in the price of the LSS.</sentence>
 <sentence id="s1116">
  
 
@@ -1996,11 +1996,11 @@ The decision by Telstra to propose a new pricing structure, and the statement th
 <sentence id="s1251">406 In my view, in circumstances in which Telstra:
  
  
- &#8226; was aware of ACCC's repeatedly expressed view that Telstra was already recovering its line costs; 
- &#8226; was given notice that ACCC would take documents expressing that view into account in making the Final Determination;
- &#8226; had the opportunity of making submissions and providing evidence to the contrary but did not do so;
- &#8226; did not contradict that view;
- &#8226; expressly adopted that view itself for the purposes of the Final Determination; 
+ &amp;#8226; was aware of ACCC's repeatedly expressed view that Telstra was already recovering its line costs; 
+ &amp;#8226; was given notice that ACCC would take documents expressing that view into account in making the Final Determination;
+ &amp;#8226; had the opportunity of making submissions and providing evidence to the contrary but did not do so;
+ &amp;#8226; did not contradict that view;
+ &amp;#8226; expressly adopted that view itself for the purposes of the Final Determination; 
  
 
 there was material before ACCC entitling it to make the finding that it did.</sentence>
@@ -2242,9 +2242,9 @@ there was material before ACCC entitling it to make the finding that it did.</se
 459 Telstra submits that:
  
  
- &#8226; ACCC did not have information before it as to the practical difficulties associated with any other "more precise test" than that of Option 2 (the only information of practical difficulties being those in relation to the 30-day waiting period);
- &#8226; ACCC did not seek to obtain such information;
- &#8226; ACCC therefore did not have the information before it necessary to support a finding that any more precise test than that of Option 2 was precluded by "practical difficulties".</sentence>
+ &amp;#8226; ACCC did not have information before it as to the practical difficulties associated with any other "more precise test" than that of Option 2 (the only information of practical difficulties being those in relation to the 30-day waiting period);
+ &amp;#8226; ACCC did not seek to obtain such information;
+ &amp;#8226; ACCC therefore did not have the information before it necessary to support a finding that any more precise test than that of Option 2 was precluded by "practical difficulties".</sentence>
 <sentence id="s1421">
  
 
@@ -2252,26 +2252,26 @@ there was material before ACCC entitling it to make the finding that it did.</se
 <sentence id="s1422">Telstra submits that ACCC knew or ought reasonably to have known that information on this issue was readily available from Telstra.</sentence>
 <sentence id="s1423">461 Telstra gives the following example of an option that it says would have been "more precise" in eliminating the "avoidable costs" identified by ACCC: no disconnection charge to be payable by Request to Telstra if:
  
-&#8226; Telstra (Bigpond) is the gaining service provider;
+&amp;#8226; Telstra (Bigpond) is the gaining service provider;
  
-&#8226; Request is the losing service provider;
+&amp;#8226; Request is the losing service provider;
  
-&#8226; Telstra (Bigpond) is not a participant in the Telstra LSS churn process; and
+&amp;#8226; Telstra (Bigpond) is not a participant in the Telstra LSS churn process; and
  
-&#8226; Request is a participant in the Telstra LSS churn process.</sentence>
+&amp;#8226; Request is a participant in the Telstra LSS churn process.</sentence>
 <sentence id="s1424">This differs from Option 2 in that it would exclude the disconnection charge only where the churn is from Request to Telstra (Bigpond).</sentence>
 <sentence id="s1425">Unlike Option 2, it does not have the potential to disentitle Telstra to a disconnection charge on a churn from Request to Primus, for example, or on a simple cancellation of a LSS provided by Request.</sentence>
 <sentence id="s1426">462 Request submits that s 152DB(1)(b) does not assist Telstra.</sentence>
 <sentence id="s1427">It contends that the following matters need to be taken into account when applying s 152DB(1)(b):
  
-&#8226; ACCC first received notification of the LSS access dispute on 18 April 2006.</sentence>
+&amp;#8226; ACCC first received notification of the LSS access dispute on 18 April 2006.</sentence>
 <sentence id="s1428">
  
- &#8226; ACCC had been enquiring of Telstra for information about details of the Telstra LSS Transfer Process since April 2006 but Telstra did not provide it with any information until Telstra's DFD Submissions of 4 May 2007.</sentence>
-<sentence id="s1429">&#8226; By the time the Final Determination was made (on 1 August 2007 with effect on and from 22 August 2007), the LSS Declaration had only two to three months left to run (until 31 October 2007, although it was later extended), and the Final Determination itself was to operate for only a little more than four months (from 22 August 2007 to 31 December 2007), so that the impact of Option 2 would be felt by Telstra for only that period.</sentence>
+ &amp;#8226; ACCC had been enquiring of Telstra for information about details of the Telstra LSS Transfer Process since April 2006 but Telstra did not provide it with any information until Telstra's DFD Submissions of 4 May 2007.</sentence>
+<sentence id="s1429">&amp;#8226; By the time the Final Determination was made (on 1 August 2007 with effect on and from 22 August 2007), the LSS Declaration had only two to three months left to run (until 31 October 2007, although it was later extended), and the Final Determination itself was to operate for only a little more than four months (from 22 August 2007 to 31 December 2007), so that the impact of Option 2 would be felt by Telstra for only that period.</sentence>
 <sentence id="s1430">Furthermore, Mr Pradhan's statement showed that the number of single disconnections in which Request was the losing service provider was likely to be small.</sentence>
-<sentence id="s1431">&#8226; The relatively limited nature of this part of the Final Determination was recognised by ACCC when it referred in its FD Statement of Reasons to potential changes to the system in the future (see [452] above).</sentence>
-<sentence id="s1432">&#8226; Option 2 was in fact more favourable to Telstra than other models that had been considered by ACCC up to that time (although, as Telstra points out, it is less favourable with respect to quantum than the "Request Access Agreement" dated 30 August 2000 which had been in place between the parties and which allowed Telstra to charge Request in respect of all LSS disconnections).</sentence>
+<sentence id="s1431">&amp;#8226; The relatively limited nature of this part of the Final Determination was recognised by ACCC when it referred in its FD Statement of Reasons to potential changes to the system in the future (see [452] above).</sentence>
+<sentence id="s1432">&amp;#8226; Option 2 was in fact more favourable to Telstra than other models that had been considered by ACCC up to that time (although, as Telstra points out, it is less favourable with respect to quantum than the "Request Access Agreement" dated 30 August 2000 which had been in place between the parties and which allowed Telstra to charge Request in respect of all LSS disconnections).</sentence>
 <sentence id="s1433">
  
 
@@ -2352,8 +2352,8 @@ there was material before ACCC entitling it to make the finding that it did.</se
 <sentence id="s1499">Request submits that Option 2 fell within the general issue of disconnection charges as disclosed to the parties, because:
  
  
- &#8226; Telstra knew that its LSS Transfer Process, which it disclosed to ACCC, was a consideration relevant to the calculation of disconnection charges; and
- &#8226; the non-participation of Telstra (Bigpond) in the LSS Transfer Process was raised in the submissions of the other parties (of which Telstra had received copies).</sentence>
+ &amp;#8226; Telstra knew that its LSS Transfer Process, which it disclosed to ACCC, was a consideration relevant to the calculation of disconnection charges; and
+ &amp;#8226; the non-participation of Telstra (Bigpond) in the LSS Transfer Process was raised in the submissions of the other parties (of which Telstra had received copies).</sentence>
 <sentence id="s1500">
  
 
@@ -2742,7 +2742,7 @@ Dated: 19 September 2008
  
  Counsel for the Second Applicant: Mr N J O'Bryan SC and Mr M J Hoyne 
  
- Solicitor for the Second Applicant: Herbert Geer &amp; Rundle 
+ Solicitor for the Second Applicant: Herbert Geer &amp;amp; Rundle 
 
  Date of Hearing: 3, 4, 5, 6, 7 December 2007, 4 March 2008 
  
@@ -2762,7 +2762,7 @@ Dated: 19 September 2008
  
  Counsel for the Second Applicant: Mr N J O'Bryan SC and Mr M J Hoyne 
  
- Solicitor for the Second Applicant: Herbert Geer &amp; Rundle 
+ Solicitor for the Second Applicant: Herbert Geer &amp;amp; Rundle 
 
  Date of Hearing: 3, 4, 5, 6, 7 December 2007, 4 March 2008 
  
@@ -2779,7 +2779,7 @@ Dated: 19 September 2008
  
  Counsel for the Second Applicant: Mr N J O'Bryan SC and Mr M J Hoyne 
  
- Solicitor for the Second Applicant: Herbert Geer &amp; Rundle 
+ Solicitor for the Second Applicant: Herbert Geer &amp;amp; Rundle 
 
  Date of Hearing: 3, 4, 5, 6, 7 December 2007, 4 March 2008 
  

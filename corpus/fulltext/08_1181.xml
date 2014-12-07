@@ -3,13 +3,13 @@
 <name>Deputy Commissioner of Taxation; in the matter of James Hardie Australia Finance Pty Ltd (Deregistered) [2008] FCA 1181 (8 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1181.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for reinstatement of registration of company to enable deputy commissioner of taxation (commissioner) to make a determination under part iva of the income tax assessment act 1936 (cth) and to issue amended assessment of taxable income of, and of tax payable by, former company</catchphrase>
-<catchphrase "id=c1">commissioner's desire to have liquidator again in place to investigate recoverability of assets disposed of by company to enable recovery of tax</catchphrase>
-<catchphrase "id=c2">whether commissioner "a person aggrieved by the deregistration" within meaning of s 601ah of corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c3">whether it was "just" that registration be reinstated</catchphrase>
-<catchphrase "id=c4">whether court should exercise its discretion to order reinstatement</catchphrase>
-<catchphrase "id=c5">whether former liquidator, or a different person, should be appointed as liquidator.</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase id="c0">application for reinstatement of registration of company to enable deputy commissioner of taxation (commissioner) to make a determination under part iva of the income tax assessment act 1936 (cth) and to issue amended assessment of taxable income of, and of tax payable by, former company</catchphrase>
+<catchphrase id="c1">commissioner's desire to have liquidator again in place to investigate recoverability of assets disposed of by company to enable recovery of tax</catchphrase>
+<catchphrase id="c2">whether commissioner "a person aggrieved by the deregistration" within meaning of s 601ah of corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c3">whether it was "just" that registration be reinstated</catchphrase>
+<catchphrase id="c4">whether court should exercise its discretion to order reinstatement</catchphrase>
+<catchphrase id="c5">whether former liquidator, or a different person, should be appointed as liquidator.</catchphrase>
+<catchphrase id="c6">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -20,7 +20,7 @@
 1 The plaintiff (I will use the term "Commissioner" to refer generically to the Commissioner and to the Deputy Commissioner of Taxation, but will also sometimes refer to the "ATO" (Australian Taxation Office)) applies under s 601AH of the Corporations Act 2001 (Cth) (Corporations Act) for an order reinstating the registration of James Hardie Australia Finance Pty Ltd (ACN 089 600 760) (Deregistered) (JHAF), and for an order that Max Christopher Donnelly of Ferrier Hodgson replace the former liquidator, John Duncan Green, as liquidator of JHAF.</sentence>
 <sentence id="s1">The originating process was filed on 18 June 2008.</sentence>
 <sentence id="s2">2 The Commissioner's application was supported by an affidavit of Kevin William O'Farrell, made on 23 April 2008, and other affidavits.</sentence>
-<sentence id="s3">Mr O'Farrell is employed by the ATO as a Tax Technical Leader, National Client Group, in the Large Business &amp; International Business Line.</sentence>
+<sentence id="s3">Mr O'Farrell is employed by the ATO as a Tax Technical Leader, National Client Group, in the Large Business &amp;amp; International Business Line.</sentence>
 <sentence id="s4">In his affidavit, Mr O'Farrell makes reference to various records and documents obtained by the Commissioner.</sentence>
 <sentence id="s5">3 The originating process named JHAF as a defendant.</sentence>
 <sentence id="s6">In my opinion, it should not have done so because upon deregistration JHAF ceased to exist: see s 601AD(1) of the Corporations Act .</sentence>
@@ -128,9 +128,9 @@
 <sentence id="s100">The James Hardie Industries Group responded on 27 February 2004.</sentence>
 <sentence id="s101">37 According to Mr O'Farrell's affidavit, on the basis of information provided by the James Hardie Industries Group:
  
-&#8226; the Commissioner was unable to identify any basis on which JHAF might have an undisclosed tax liability for the year ended 31 March 2002; and
+&amp;#8226; the Commissioner was unable to identify any basis on which JHAF might have an undisclosed tax liability for the year ended 31 March 2002; and
  
-&#8226; the audit team concentrated on investigating other issues from the 2002 audit and issues in relation to another ongoing audit of the James Hardie Industries Group for the income years ended 31 March 1999 to 31 March 2001.</sentence>
+&amp;#8226; the audit team concentrated on investigating other issues from the 2002 audit and issues in relation to another ongoing audit of the James Hardie Industries Group for the income years ended 31 March 1999 to 31 March 2001.</sentence>
 <sentence id="s102">38 On 23 May 2005, Mr Green filed with ASIC a notice that he had convened the final meeting of members and creditors of JHAF on 17 May 2005 and that no quorum had been present.</sentence>
 <sentence id="s103">According to his account of the winding up dated 12 April 2005, Mr Green had received no creditors' claims against JHAF, and JHAF's assets had been distributed to its shareholders "in accordance with the resolution passed at the meeting on 19 September 2003".</sentence>
 <sentence id="s104">This is a further error.</sentence>
@@ -154,14 +154,14 @@
  
 46 Mr O'Farrell's affidavit provides evidence that the auditors have completed their investigations into the REPO arrangement and that an assessment is expected to be made and a notice issued to JHAF that will include:
  
-&#8226; JHAF's taxable income for the income year ended 31 March 2002 in the sum of $338,382,221;
+&amp;#8226; JHAF's taxable income for the income year ended 31 March 2002 in the sum of $338,382,221;
  
-&#8226; the amount of tax payable (the tax shortfall) on that taxable income in the sum of $101,514,666;
+&amp;#8226; the amount of tax payable (the tax shortfall) on that taxable income in the sum of $101,514,666;
  
-&#8226; an estimate of the "General Interest Charge/Shortfall Interest Charge" on the tax shortfall (calculated from 1 September 2002 to 30 June 2008) in the sum of $87,726,176; and
+&amp;#8226; an estimate of the "General Interest Charge/Shortfall Interest Charge" on the tax shortfall (calculated from 1 September 2002 to 30 June 2008) in the sum of $87,726,176; and
  
-&#8226; penalty tax of $50,757,333 being 50% of the tax shortfall in accordance with s 226 of the ITAA 1936.</sentence>
-<sentence id="s122">Mark Warren Beacom, who is employed by the ATO as a Tax Technical Leader, National Client Group, in the Large Business &amp; International Business Line, estimates that the tax and shortfall penalties (but excluding shortfall interest) would exceed $150,000,000.</sentence>
+&amp;#8226; penalty tax of $50,757,333 being 50% of the tax shortfall in accordance with s 226 of the ITAA 1936.</sentence>
+<sentence id="s122">Mark Warren Beacom, who is employed by the ATO as a Tax Technical Leader, National Client Group, in the Large Business &amp;amp; International Business Line, estimates that the tax and shortfall penalties (but excluding shortfall interest) would exceed $150,000,000.</sentence>
 <sentence id="s123">47 According to Mr O'Farrell's affidavit, the Deputy Chief Tax Counsel examining the REPO arrangement has advised the audit team that Part IVA applies.</sentence>
 <sentence id="s124">Mr O'Farrell states that the Commissioner has completed his internal processes relating to the application of Part IVA.</sentence>
 <sentence id="s125">Mr O'Farrell states that it is believed that a determination should be made on the basis that a "tax benefit" has been obtained pursuant to a "scheme" within the meaning of Part IVA , and that an assessment should be issued to JHAF once the Part IVA determination is made.</sentence>
@@ -230,23 +230,23 @@
 <sentence id="s180">The effect of that section is that a liquidator must not, without the Commissioner's permission, part with any of the company's assets before receiving a "tax clearance certificate" from the Commissioner.</sentence>
 <sentence id="s181">The facts in relation to the liquidator's failure to obtain a tax clearance certificate are established by the affidavit of Mr O'Farrell.</sentence>
 <sentence id="s182">He deposes to the following facts as revealed by ATO records which he identifies.</sentence>
-<sentence id="s183">&#8226; On 26 September 2001, an operator in the "Debt Collections" area of the ATO noted that the LB&amp;I (Large Business &amp; International) area in the ATO had contacted "Debt Collections" to ask if any request had been received from JHAF or its parent company for a tax clearance.</sentence>
+<sentence id="s183">&amp;#8226; On 26 September 2001, an operator in the "Debt Collections" area of the ATO noted that the LB&amp;amp;I (Large Business &amp;amp; International) area in the ATO had contacted "Debt Collections" to ask if any request had been received from JHAF or its parent company for a tax clearance.</sentence>
 <sentence id="s184">The note concluded, "[i]t is very important that no insolvency tax clearance be granted ... without prior contact with LBI".</sentence>
-<sentence id="s185">&#8226; On 8 January 2004, an operator in the "Insolvencies" area noted correspondence dated 2 December 2003, advising that Mr Green had been appointed liquidator of JHAF on 22 May 2003 (the date was wrong), and that he was seeking a s 260 clearance.</sentence>
-<sentence id="s186">&#8226; On 12 January 2004, an operator in Insolvencies noted that Greg Dick (Gregory Craig Dickson, of LB&amp;I, who made an affidavit in the proceeding) had telephoned advising that no clearance was to be issued, and that LB&amp;I needed to be contacted if there were any further requests from the liquidator.</sentence>
-<sentence id="s187">&#8226; On 2 February 2004, an operator in Insolvencies recorded that Mr Dick had advised that no clearance was to issue "as the James Hardie Group [is] currently undertaking a large business audit and significant revenue risks are perceived".</sentence>
+<sentence id="s185">&amp;#8226; On 8 January 2004, an operator in the "Insolvencies" area noted correspondence dated 2 December 2003, advising that Mr Green had been appointed liquidator of JHAF on 22 May 2003 (the date was wrong), and that he was seeking a s 260 clearance.</sentence>
+<sentence id="s186">&amp;#8226; On 12 January 2004, an operator in Insolvencies noted that Greg Dick (Gregory Craig Dickson, of LB&amp;amp;I, who made an affidavit in the proceeding) had telephoned advising that no clearance was to be issued, and that LB&amp;amp;I needed to be contacted if there were any further requests from the liquidator.</sentence>
+<sentence id="s187">&amp;#8226; On 2 February 2004, an operator in Insolvencies recorded that Mr Dick had advised that no clearance was to issue "as the James Hardie Group [is] currently undertaking a large business audit and significant revenue risks are perceived".</sentence>
 <sentence id="s188">The operator recorded that the liquidator had asked for a clearance.</sentence>
-<sentence id="s189">&#8226; On 2 February 2004, an operator in Insolvencies noted that a second request for a tax clearance had been received from Mr Green dated 20 January 2004, the request had been referred to Mr Dick, and Insolvencies was awaiting a response from Mr Dick.</sentence>
-<sentence id="s190">&#8226; On 20 July 2005, an operator in the "Audit" area noted that the James Hardie Group was being audited and that JHAF "has particular interest for the audit".</sentence>
+<sentence id="s189">&amp;#8226; On 2 February 2004, an operator in Insolvencies noted that a second request for a tax clearance had been received from Mr Green dated 20 January 2004, the request had been referred to Mr Dick, and Insolvencies was awaiting a response from Mr Dick.</sentence>
+<sentence id="s190">&amp;#8226; On 20 July 2005, an operator in the "Audit" area noted that the James Hardie Group was being audited and that JHAF "has particular interest for the audit".</sentence>
 <sentence id="s191">The operator noted that if there was a request for a clearance, it should not be given until the audit was completed 
  
-&#8226; On 2 December 2003, Mr Green wrote to the ATO advising, relevantly, that JHAF had been placed into members' voluntary liquidation at an extraordinary general meeting held on 22 May 2003, and that he (Mr Green) was appointed liquidator.</sentence>
+&amp;#8226; On 2 December 2003, Mr Green wrote to the ATO advising, relevantly, that JHAF had been placed into members' voluntary liquidation at an extraordinary general meeting held on 22 May 2003, and that he (Mr Green) was appointed liquidator.</sentence>
 <sentence id="s192">Mr Green asserted that JHAF's income tax return for the year ended 30 September 2002 had been recently lodged and that no tax was payable.</sentence>
 <sentence id="s193">He therefore sought a clearance pursuant to s 260-45(4) of the TA Act to enable the winding up and distribution of the property of JHAF to be completed.</sentence>
-<sentence id="s194">&#8226; Not having received a response, Mr Green again wrote to the ATO on 20 January 2004 seeking a clearance certificate.</sentence>
-<sentence id="s195">&#8226; On 2 February 2004, the ATO wrote to Mr Green advising that a proof of debt might be lodged when the Business Activity Statement (BAS) for the October to December 2003 period was lodged.</sentence>
+<sentence id="s194">&amp;#8226; Not having received a response, Mr Green again wrote to the ATO on 20 January 2004 seeking a clearance certificate.</sentence>
+<sentence id="s195">&amp;#8226; On 2 February 2004, the ATO wrote to Mr Green advising that a proof of debt might be lodged when the Business Activity Statement (BAS) for the October to December 2003 period was lodged.</sentence>
 <sentence id="s196">The letter added that a tax clearance pursuant to s 260-45(4) of the TA Act could not be issued until the BAS was lodged.</sentence>
-<sentence id="s197">&#8226; On 19 March 2004, the ATO wrote to Mr Green in relation to his request for a tax clearance in respect of, inter alia, "James Hardie Australia Pty Ltd", advising that the ATO could not provide the tax clearance at that time.</sentence>
+<sentence id="s197">&amp;#8226; On 19 March 2004, the ATO wrote to Mr Green in relation to his request for a tax clearance in respect of, inter alia, "James Hardie Australia Pty Ltd", advising that the ATO could not provide the tax clearance at that time.</sentence>
 <sentence id="s198">It seems clear that this was a misnomer for JHAF, since
  
  o James Hardie Australia Pty Ltd was not in liquidation;
@@ -254,12 +254,12 @@
  o the other three companies mentioned in the ATO's letter were all companies of which Mr Green had been appointed liquidator; and 
  
  o Mr Green had specifically requested a tax clearance in respect of JHAF (including by a later letter dated 6 May 2004).</sentence>
-<sentence id="s199">&#8226; On 5 April 2004 and again on 28 September 2004, Mr Green lodged a "Presentation of Accounts and Statement by Liquidator" with ASIC, which indicated that the only cause that might delay termination of the winding up was "tax clearance".</sentence>
-<sentence id="s200">&#8226; On 15 April 2005, Mr Green lodged a "Presentation of Accounts and Statement by Liquidator" with ASIC, indicating that the only cause that might delay the termination of the winding up was a "final meeting".</sentence>
-<sentence id="s201">&#8226; On 2 February 2004, Mr Dick advised the Insolvency section within the ATO that there was to be no tax clearance granted for, relevantly, JHAF.</sentence>
+<sentence id="s199">&amp;#8226; On 5 April 2004 and again on 28 September 2004, Mr Green lodged a "Presentation of Accounts and Statement by Liquidator" with ASIC, which indicated that the only cause that might delay termination of the winding up was "tax clearance".</sentence>
+<sentence id="s200">&amp;#8226; On 15 April 2005, Mr Green lodged a "Presentation of Accounts and Statement by Liquidator" with ASIC, indicating that the only cause that might delay the termination of the winding up was a "final meeting".</sentence>
+<sentence id="s201">&amp;#8226; On 2 February 2004, Mr Dick advised the Insolvency section within the ATO that there was to be no tax clearance granted for, relevantly, JHAF.</sentence>
 <sentence id="s202">Mr O'Farrell states in his affidavit that given that there is no record of Mr Dick's having authorised a tax clearance for JHAF, he believes that Mr Dick did not subsequently authorise one.</sentence>
 <sentence id="s203">Mr Dick's own affidavit confirms that Mr Dick gave instructions that no tax clearance was to be given for JHAF.</sentence>
-<sentence id="s204">&#8226; On 29 November 2007, the ATO wrote to Mr Green enclosing a notice under para 264(1)(b) of the ITAA 1936 requiring production of documents relating to any application for a tax clearance certificate under s 260-45 of the TA Act in relation to JHAF and any document relating to a grant or refusal of such a certificate.</sentence>
+<sentence id="s204">&amp;#8226; On 29 November 2007, the ATO wrote to Mr Green enclosing a notice under para 264(1)(b) of the ITAA 1936 requiring production of documents relating to any application for a tax clearance certificate under s 260-45 of the TA Act in relation to JHAF and any document relating to a grant or refusal of such a certificate.</sentence>
 <sentence id="s205">Mr O'Farrell states that no such document has been produced.</sentence>
 <sentence id="s206">72 I accept that on the evidence summarised above, in December 2003 and January 2004 Mr Green applied for a tax clearance certificate which would permit him to part with JHAF's assets, and that none was ever issued to him.</sentence>
 <sentence id="s207">73 The Commissioner makes this submission:

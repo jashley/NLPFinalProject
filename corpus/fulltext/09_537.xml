@@ -3,20 +3,20 @@
 <name>SZLSM v Minister for Immigration and Citizenship [2009] FCA 537 (25 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/537.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether appellants' father acted as common law guardian</catchphrase>
-<catchphrase "id=c1">whether information provided by appellants' father was information for purpose of s 424a of migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c2">whether letter sent to appellants' father was information provided to the appellants for purposes of s 424a(2) of migration act</catchphrase>
-<catchphrase "id=c3">whether jurisdictional error to provide information for purposes of s 424a(1) of the migration act if information not required to be provided</catchphrase>
-<catchphrase "id=c4">whether tribunal intended to use discretionary provision of s 424aa of migration act</catchphrase>
-<catchphrase "id=c5">whether 'information' is the same for s 424a and s 424aa of migration act</catchphrase>
-<catchphrase "id=c6">whether information had to be provided to appellants</catchphrase>
-<catchphrase "id=c7">whether a further ground of review that was not expressly made was apparent on evidence before tribunal</catchphrase>
-<catchphrase "id=c8">whether to refer an appeal from a migration decision of the federal magistrates court of australia to a full bench of the full federal court</catchphrase>
-<catchphrase "id=c9">s 25(1aa)(b) of federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c10">migration</catchphrase>
-<catchphrase "id=c11">migration</catchphrase>
-<catchphrase "id=c12">migration</catchphrase>
-<catchphrase "id=c13">practice and procedure</catchphrase>
+<catchphrase id="c0">whether appellants' father acted as common law guardian</catchphrase>
+<catchphrase id="c1">whether information provided by appellants' father was information for purpose of s 424a of migration act 1958 (cth)</catchphrase>
+<catchphrase id="c2">whether letter sent to appellants' father was information provided to the appellants for purposes of s 424a(2) of migration act</catchphrase>
+<catchphrase id="c3">whether jurisdictional error to provide information for purposes of s 424a(1) of the migration act if information not required to be provided</catchphrase>
+<catchphrase id="c4">whether tribunal intended to use discretionary provision of s 424aa of migration act</catchphrase>
+<catchphrase id="c5">whether 'information' is the same for s 424a and s 424aa of migration act</catchphrase>
+<catchphrase id="c6">whether information had to be provided to appellants</catchphrase>
+<catchphrase id="c7">whether a further ground of review that was not expressly made was apparent on evidence before tribunal</catchphrase>
+<catchphrase id="c8">whether to refer an appeal from a migration decision of the federal magistrates court of australia to a full bench of the full federal court</catchphrase>
+<catchphrase id="c9">s 25(1aa)(b) of federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c10">migration</catchphrase>
+<catchphrase id="c11">migration</catchphrase>
+<catchphrase id="c12">migration</catchphrase>
+<catchphrase id="c13">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -58,7 +58,7 @@
 <sentence id="s32">His Honour stated that the appellants' father acted in his capacity as the appellants' common law guardian, and was responsible for the entirety of the conduct of the review before the Tribunal.</sentence>
 <sentence id="s33">In the circumstances it was therefore correct for the Tribunal to have treated the appellants' father's evidence as being the evidence of the appellants.</sentence>
 <sentence id="s34">Such information was thereby excluded from the operation of s 424A(1) of the Act by s 424A(3)(b).</sentence>
-<sentence id="s35">Nicholls FM observed in relation to the second ground that 'information' for the purposes of s 424AA of the Act has the same meaning as 'information' in s 424A of the Act citing SZLTC &amp; Ors v Minister for Immigration &amp; Anor [2008] FMCA 384 at [18] .</sentence>
+<sentence id="s35">Nicholls FM observed in relation to the second ground that 'information' for the purposes of s 424AA of the Act has the same meaning as 'information' in s 424A of the Act citing SZLTC &amp;amp; Ors v Minister for Immigration &amp;amp; Anor [2008] FMCA 384 at [18] .</sentence>
 <sentence id="s36">His Honour found that there was no obligation to give the independent country information to the appellants under s 424AA as that information, being information not specifically about the appellants, was excluded from s 424A(1) of the Act by reason of s 424A(3)(a) of the Act.</sentence>
 <sentence id="s37">His Honour noted that, in any event, the independent country information was put to the appellants' father at the hearing.</sentence>
 <sentence id="s38">His Honour also found that neither the independent country information nor the appellants' father's 'previous claims' that he had made plans to leave Bangladesh were the reason or part of the reason for affirming the delegate's decision.</sentence>
@@ -104,7 +104,7 @@
 <sentence id="s70">The first and second appellants were eight and two years old respectively at the time.</sentence>
 <sentence id="s71">The Court considers that the appellants' father had clearly adopted the role of a guardian by signing the necessary application form, by corresponding with the Tribunal and by giving oral evidence on their behalf.</sentence>
 <sentence id="s72">Accordingly, the Federal Magistrate was entitled to consider whether the appellants' father was acting as a common law guardian.</sentence>
-<sentence id="s73">The Court adopts the approach of Smith FM in SZKDB &amp; Anor v Minister for Immigration &amp; Anor [2007] FMCA 1036 at [28] - [30] , in which his Honour found that an application brought by a mother for herself and her infant daughter should be treated as if the mother was the guardian of her child.</sentence>
+<sentence id="s73">The Court adopts the approach of Smith FM in SZKDB &amp;amp; Anor v Minister for Immigration &amp;amp; Anor [2007] FMCA 1036 at [28] - [30] , in which his Honour found that an application brought by a mother for herself and her infant daughter should be treated as if the mother was the guardian of her child.</sentence>
 <sentence id="s74">In the absence of any evidence that the appellants were capable of conducting their appeal, the Court is unable to find any error in Nicholls FM's finding that the appellants' father was acting as their guardian and representative.</sentence>
 <sentence id="s75">His Honour's application of Re Woolley was without error.</sentence>
 <sentence id="s76">Information provided by the appellants' father
@@ -148,7 +148,7 @@ Recent decisions of this Court have adopted such principle: see SZLKY v Minister
 <sentence id="s101">Because of s 424A(3)(ba) of the Act the passport was excluded from the definition of 'information' for the purposes of s 424A(1) and was accordingly excluded from the operation of s 424A(1)(b).</sentence>
 <sentence id="s102">It was accordingly not necessary for the Tribunal to have referred to this issue in its letter issued under s 424(1)(a) of the Act.</sentence>
 <sentence id="s103">Further, no consequences flow from the fact that the Tribunal referred in its s 424A(1) letter to material which it was not obliged to supply.</sentence>
-<sentence id="s104">The Court respectfully adopts the findings of Nicholls FM in SZJHJ v Minister for Immigration and Citizenship &amp; Anor [2008] FMCA 1044 at [81] , [85].</sentence>
+<sentence id="s104">The Court respectfully adopts the findings of Nicholls FM in SZJHJ v Minister for Immigration and Citizenship &amp;amp; Anor [2008] FMCA 1044 at [81] , [85].</sentence>
 <sentence id="s105">His Honour held that the provision of material in a s 424A letter which is excluded from the operation of such section by s 424A(3) does not constitute a jurisdictional error on the part of the Tribunal.</sentence>
 <sentence id="s106">Breach of s 424A(2) of the Act
  The appellants submit that the Tribunal's s 424A letter failed to comply with s 424A(2) of the Act as such letter was addressed to the appellants' father instead of being addressed to the appellants themselves when the appellants' father had not been voluntarily appointed as the appellants' representative for the purposes of the review application in the Tribunal.</sentence>

@@ -3,12 +3,12 @@
 <name>LeasePlan Australia Limited v Commissioner of Taxation of the Commonwealth of Australia [2009] FCA 1309 (13 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1309.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">gst</catchphrase>
-<catchphrase "id=c1">input tax credits</catchphrase>
-<catchphrase "id=c2">the application of s 66-5(1) of the a new tax system (goods and services tax) act 1999 (cth)</catchphrase>
-<catchphrase "id=c3">whether sale was 'a purpose' for which second-hand goods were acquired</catchphrase>
-<catchphrase "id=c4">lease-back schemes.</catchphrase>
-<catchphrase "id=c5">taxation</catchphrase>
+<catchphrase id="c0">gst</catchphrase>
+<catchphrase id="c1">input tax credits</catchphrase>
+<catchphrase id="c2">the application of s 66-5(1) of the a new tax system (goods and services tax) act 1999 (cth)</catchphrase>
+<catchphrase id="c3">whether sale was 'a purpose' for which second-hand goods were acquired</catchphrase>
+<catchphrase id="c4">lease-back schemes.</catchphrase>
+<catchphrase id="c5">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -320,7 +320,7 @@ Dated: 13 November 2009
  
  Counsel for the Applicant: Mr M Robertson with Mr J Geale 
  
- Solicitor for the Applicant: Ernst &amp; Young Law 
+ Solicitor for the Applicant: Ernst &amp;amp; Young Law 
  
  Counsel for the Respondent: Mr P D Nicholas 
  

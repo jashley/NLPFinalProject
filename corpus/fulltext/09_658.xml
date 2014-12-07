@@ -3,12 +3,12 @@
 <name>TT-Line Company Pty Ltd v Commissioner of Taxation [2009] FCA 658 (18 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/658.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">a new tax system (goods and services tax) act 1999</catchphrase>
-<catchphrase "id=c1">s 9-15</catchphrase>
-<catchphrase "id=c2">whether rebate paid under the bass strait passenger vehicle equalisation scheme attracts gst</catchphrase>
-<catchphrase "id=c3">meaning of "specifically covered" in s 9-15(3)(c)</catchphrase>
-<catchphrase "id=c4">meaning of "consideration" in s 9-15</catchphrase>
-<catchphrase "id=c5">taxation</catchphrase>
+<catchphrase id="c0">a new tax system (goods and services tax) act 1999</catchphrase>
+<catchphrase id="c1">s 9-15</catchphrase>
+<catchphrase id="c2">whether rebate paid under the bass strait passenger vehicle equalisation scheme attracts gst</catchphrase>
+<catchphrase id="c3">meaning of "specifically covered" in s 9-15(3)(c)</catchphrase>
+<catchphrase id="c4">meaning of "consideration" in s 9-15</catchphrase>
+<catchphrase id="c5">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -201,7 +201,7 @@
 <sentence id="s146">The applicant's right to reimbursement of the rebate allowed to Mr Egan was contingent upon the supply of travel services to him.</sentence>
 <sentence id="s147">If the applicant had failed to provide those services then pursuant to clause 13.2 of the Scheme, the reimbursement would have to be repaid.</sentence>
 <sentence id="s148">Two further decisions of the European Court of Justice to which the applicant referred can be similarly distinguished.</sentence>
-<sentence id="s149">They are Mohr v Finanzamt Bad Segeberg [1996] BVC 293 and Landboden-Agrardienste GmbH &amp; Co KG v Finanzamt Calau [1998] BVC 70.</sentence>
+<sentence id="s149">They are Mohr v Finanzamt Bad Segeberg [1996] BVC 293 and Landboden-Agrardienste GmbH &amp;amp; Co KG v Finanzamt Calau [1998] BVC 70.</sentence>
 <sentence id="s150">Both these cases concerned responses to government incentives in relation to agricultural production which were held not to constitute the provision of a supply.</sentence>
 <sentence id="s151">The objects of the GST Act
  The final argument put by the applicant is that the interpretation favoured by the Commissioner is inconsistent with the fundamental principles of the GST Act in that it would result in the applicant bearing the burden of the GST without any means to pass that burden on to the recipient of the supply, in this case Mr Egan.</sentence>

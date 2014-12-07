@@ -3,12 +3,12 @@
 <name>Pascoe v Boensch [2009] FCA 1240 (3 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1240.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal from an interlocutory judgment of the federal magistrates court</catchphrase>
-<catchphrase "id=c1">relevant principles</catchphrase>
-<catchphrase "id=c2">amendment of pleadings</catchphrase>
-<catchphrase "id=c3">summary dismissal under s 17a of the federal magistrates act 1999 (cth)</catchphrase>
-<catchphrase "id=c4">application dismissed</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">application for leave to appeal from an interlocutory judgment of the federal magistrates court</catchphrase>
+<catchphrase id="c1">relevant principles</catchphrase>
+<catchphrase id="c2">amendment of pleadings</catchphrase>
+<catchphrase id="c3">summary dismissal under s 17a of the federal magistrates act 1999 (cth)</catchphrase>
+<catchphrase id="c4">application dismissed</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -828,7 +828,7 @@ Dated: 3 November 2009
  
  Counsel for the Applicant: A P Spencer 
  
- Solicitor for the Applicant: McLean &amp; Associates 
+ Solicitor for the Applicant: McLean &amp;amp; Associates 
  
  Counsel for the First Respondent: M J Heath 
  

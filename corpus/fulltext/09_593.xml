@@ -3,11 +3,11 @@
 <name>VIP Plastic Packaging Pty Ltd v B.M.W. Plastics Pty Ltd [2009] FCA 593 (2 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/593.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">standard patent</catchphrase>
-<catchphrase "id=c1">whether a direction should be given to the commissioner under s 97(3) of the patents act 1990 (cth) to re-examine the patent in suit</catchphrase>
-<catchphrase "id=c2">whether commissioner's report under s 100 of the act will reduce cost of proceeding and expedite its determination</catchphrase>
-<catchphrase "id=c3">application dismissed</catchphrase>
-<catchphrase "id=c4">patents</catchphrase>
+<catchphrase id="c0">standard patent</catchphrase>
+<catchphrase id="c1">whether a direction should be given to the commissioner under s 97(3) of the patents act 1990 (cth) to re-examine the patent in suit</catchphrase>
+<catchphrase id="c2">whether commissioner's report under s 100 of the act will reduce cost of proceeding and expedite its determination</catchphrase>
+<catchphrase id="c3">application dismissed</catchphrase>
+<catchphrase id="c4">patents</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -56,7 +56,7 @@ By virtue of subs 98(2), the Commissioner is limited to considering the prior ar
  In written submissions, B.M.W.</sentence>
 <sentence id="s30">Plastics submitted that the Court should order re-examination because the matters in issue were appropriate to be determined by the expertise of the Patents Office and determination of these issues was likely to avoid expense.</sentence>
 <sentence id="s31">According to B.M.W.</sentence>
-<sentence id="s32">Plastics, resolution of the cross-claim would require: (1) the interpretation of the claims of the patent in suit to determine their scope; (2) the interpretation of the disclosure in a US patent known as the Hancock et al patent; (3) consequential on (1) &amp; (2), determination of the novelty of claims; (4) determination of the content of the "common general knowledge"; and (5) consequential on (1), (2) &amp; (4), determination of the inventiveness of the claims.</sentence>
+<sentence id="s32">Plastics, resolution of the cross-claim would require: (1) the interpretation of the claims of the patent in suit to determine their scope; (2) the interpretation of the disclosure in a US patent known as the Hancock et al patent; (3) consequential on (1) &amp;amp; (2), determination of the novelty of claims; (4) determination of the content of the "common general knowledge"; and (5) consequential on (1), (2) &amp;amp; (4), determination of the inventiveness of the claims.</sentence>
 <sentence id="s33">B.M.W.</sentence>
 <sentence id="s34">Plastics argued that the interpretation of the patent in suit and the Hancock et al patent would require expertise in the relevant technological art, which the Commissioner (but not a judge) might be said to have.</sentence>
 <sentence id="s35">B.M.W.</sentence>
@@ -98,7 +98,7 @@ Dated: 2 June 2009
  
  Counsel for the Respondent/Cross-Claimant: Mr A J Evans 
  
- Solicitor for the Respondent/Cross-Claimant: F R Monotti &amp; Co 
+ Solicitor for the Respondent/Cross-Claimant: F R Monotti &amp;amp; Co 
  Date of Hearing: 2 June 2009 
  
  Date of Judgment: 2 June 2009 

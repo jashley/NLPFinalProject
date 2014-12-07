@@ -3,14 +3,14 @@
 <name>Rana v Commonwealth of Australia [2008] FCA 907 (17 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/907.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application alleging discrimination brought by applicant</catchphrase>
-<catchphrase "id=c1">application by respondents to dismiss the applicant's proceeding as an abuse of process or on the ground that the proceeding is vexatious</catchphrase>
-<catchphrase "id=c2">where applicant already sought judicial review of two decisions of the second respondent</catchphrase>
-<catchphrase "id=c3">whether issues said to arise in this proceeding should have been raised in earlier proceeding</catchphrase>
-<catchphrase "id=c4">whether proceeding brought for a collateral purpose and thereby improper purpose</catchphrase>
-<catchphrase "id=c5">whether proceeding should be summarily dismissed pursuant to s 31a of the federal court of australia act (1976)</catchphrase>
-<catchphrase "id=c6">application dismissed.</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
+<catchphrase id="c0">application alleging discrimination brought by applicant</catchphrase>
+<catchphrase id="c1">application by respondents to dismiss the applicant's proceeding as an abuse of process or on the ground that the proceeding is vexatious</catchphrase>
+<catchphrase id="c2">where applicant already sought judicial review of two decisions of the second respondent</catchphrase>
+<catchphrase id="c3">whether issues said to arise in this proceeding should have been raised in earlier proceeding</catchphrase>
+<catchphrase id="c4">whether proceeding brought for a collateral purpose and thereby improper purpose</catchphrase>
+<catchphrase id="c5">whether proceeding should be summarily dismissed pursuant to s 31a of the federal court of australia act (1976)</catchphrase>
+<catchphrase id="c6">application dismissed.</catchphrase>
+<catchphrase id="c7">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -131,7 +131,7 @@
 <sentence id="s91">On 22 April 2008 Simpson FM dismissed that application: Rana v Chief of Army [2008] FMCA 518.</sentence>
 <sentence id="s92">Notwithstanding the applicant's application to set aside the bankruptcy notice, the first respondent has filed a creditor's petition which was required to be done within six months from the date of bankruptcy.</sentence>
 <sentence id="s93">39 The respondents acknowledged that although it is only in the clearest of cases that an application for summary dismissal would succeed: Dey v Victorian Railways Commissioners [1949] HCA 1 ; (1949) 78 CLR 62 at 91 per Dixon J, in this case, because the applicant's claim failed to disclose a reasonable cause of action, it was appropriate for the Court to exercise its power and dismiss the proceeding.</sentence>
-<sentence id="s94">40 In support of the abuse of process ground, the respondents contended "that in making his application ... the predominant purpose of the [a]pplicant [was] not to prosecute the proceeding to a conclusion, but instead to use it as a means of obtaining an advantage for which it [was] not designed ...": Metall &amp; Rohstoff AG v Donaldson Lufkin [1990] 1 QB 391 at 469.</sentence>
+<sentence id="s94">40 In support of the abuse of process ground, the respondents contended "that in making his application ... the predominant purpose of the [a]pplicant [was] not to prosecute the proceeding to a conclusion, but instead to use it as a means of obtaining an advantage for which it [was] not designed ...": Metall &amp;amp; Rohstoff AG v Donaldson Lufkin [1990] 1 QB 391 at 469.</sentence>
 <sentence id="s95">In particular, the respondents submitted that the purpose of the applicant was to delay and/or frustrate the bankruptcy proceedings against the applicant.</sentence>
 <sentence id="s96">41 The respondents submitted that the applicant was seeking to re-litigate issues already decided such that there was a collateral attack on several Full Court decisions.</sentence>
 <sentence id="s97">The respondents stated that, in effect, the applicant was seeking to re-agitate issues already the subject of a decision and order of the Full Court.</sentence>

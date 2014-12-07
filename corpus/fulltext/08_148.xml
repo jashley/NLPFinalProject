@@ -3,14 +3,14 @@
 <name>Glueck v Stang [2008] FCA 148 (27 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/148.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for summary dismissal</catchphrase>
-<catchphrase "id=c1">substantive application based on alleged contravention of s 52 of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c2">alleged contravention consisting of misrepresentations made to australian patent office and united states patent and trademark office, leading to grant of australian patent and us patents respectively</catchphrase>
-<catchphrase "id=c3">applicant alleging that it had been misrepresented that third respondent was entitled to the grants of the patents and that applicant had consented to such grants</catchphrase>
-<catchphrase "id=c4">whether making of alleged misrepresentations was conduct "in trade or commerce" within s 52</catchphrase>
-<catchphrase "id=c5">whether attack on title to foreign patent</catchphrase>
-<catchphrase "id=c6">if so, whether such attack justiciable within the court. held : (1) alleged misrepresentations not conduct "in trade or commerce"; (2) question whether proceeding amounted to an impugning of title to foreign property discussed.</catchphrase>
-<catchphrase "id=c7">trade practices</catchphrase>
+<catchphrase id="c0">application for summary dismissal</catchphrase>
+<catchphrase id="c1">substantive application based on alleged contravention of s 52 of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c2">alleged contravention consisting of misrepresentations made to australian patent office and united states patent and trademark office, leading to grant of australian patent and us patents respectively</catchphrase>
+<catchphrase id="c3">applicant alleging that it had been misrepresented that third respondent was entitled to the grants of the patents and that applicant had consented to such grants</catchphrase>
+<catchphrase id="c4">whether making of alleged misrepresentations was conduct "in trade or commerce" within s 52</catchphrase>
+<catchphrase id="c5">whether attack on title to foreign patent</catchphrase>
+<catchphrase id="c6">if so, whether such attack justiciable within the court. held : (1) alleged misrepresentations not conduct "in trade or commerce"; (2) question whether proceeding amounted to an impugning of title to foreign property discussed.</catchphrase>
+<catchphrase id="c7">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -117,15 +117,15 @@ Undoubtedly, the Court has jurisdiction to entertain Mr Glueck's application in 
 <sentence id="s72">35 In the result, the proposed amended application and the proposed amended statement of claim should not be allowed to be filed because the former would claim relief, including accessorial relief, based on alleged contraventions of s 52 of the TP Act , and the latter would plead claims for such relief.</sentence>
 <sentence id="s73">36 I turn now to the respondents' second ground of attack.</sentence>
 <sentence id="s74">This is based on the proposition that the proceeding impugns title to foreign property, namely, the US Patents.</sentence>
-<sentence id="s75">37 In The British South Africa Company v The Companhia de Mo&ccedil;ambique [1893] AC 602 ( Mo&ccedil;ambique ), the House of Lords held that the Supreme Court of Judicature had no jurisdiction to entertain an action to recover damages for a trespass to land situate abroad.</sentence>
-<sentence id="s76">Mo&ccedil;ambique recognised a distinction between "transitory" and "local" actions.</sentence>
+<sentence id="s75">37 In The British South Africa Company v The Companhia de Mo&amp;ccedil;ambique [1893] AC 602 ( Mo&amp;ccedil;ambique ), the House of Lords held that the Supreme Court of Judicature had no jurisdiction to entertain an action to recover damages for a trespass to land situate abroad.</sentence>
+<sentence id="s76">Mo&amp;ccedil;ambique recognised a distinction between "transitory" and "local" actions.</sentence>
 <sentence id="s77">The English courts would exercise jurisdiction in respect of the former but not the latter.</sentence>
 <sentence id="s78">Actions in which title to land or infringement of rights and interest in real property were in issue were prime examples of local actions.</sentence>
-<sentence id="s79">38 The " Mo&ccedil;ambique rule" has been held to apply to intellectual property rights.</sentence>
+<sentence id="s79">38 The " Mo&amp;ccedil;ambique rule" has been held to apply to intellectual property rights.</sentence>
 <sentence id="s80">In Potter v The Broken Hill Pty Co Ltd [1906] HCA 88 ; (1906) 3 CLR 479 ( Potter ), the High Court held that a cause of action for infringement in New South Wales by a Victorian company carrying on mining operations in New South Wales, of the plaintiff's patent issued under the Patents Act 1899 (NSW), was not justiciable in Victoria.</sentence>
 <sentence id="s81">39 In Tyburn Productions Limited v Conan Doyle (1990) 19 IPR 455, the High Court of England held that an issue as to the existence or non-existence of rights under United States copyright, unfair competition and trademark laws was not justiciable in the English courts.</sentence>
-<sentence id="s82">40 In Tritech Technology Pty Ltd v Gordon (2000) 48 IPR 52, Finkelstein J recognised that the Mo&ccedil;ambique rule was subject to exceptions.</sentence>
-<sentence id="s83">41 In Potter the High Court described one exception to the Mo&ccedil;ambique rule (at 498-499 per Griffith CJ):
+<sentence id="s82">40 In Tritech Technology Pty Ltd v Gordon (2000) 48 IPR 52, Finkelstein J recognised that the Mo&amp;ccedil;ambique rule was subject to exceptions.</sentence>
+<sentence id="s83">41 In Potter the High Court described one exception to the Mo&amp;ccedil;ambique rule (at 498-499 per Griffith CJ):
  
  The Courts will no doubt entertain such a question of title if it arises merely incidentally in a case in which the foundation of the jurisdiction is a personal obligation arising from contract or quasi-contractual relationship between the parties.</sentence>
 <sentence id="s84">
@@ -170,7 +170,7 @@ Dated: 27 February 2008
  The Applicant appeared in person.</sentence>
 <sentence id="s113">Counsel for the First, Second, Third and Fifth Respondents: Mr J M Ireland QC and Mr J S Cooke 
  
- Solicitor for the First, Second, Third and Fifth Respondents: Spruson &amp; Ferguson Lawyers 
+ Solicitor for the First, Second, Third and Fifth Respondents: Spruson &amp;amp; Ferguson Lawyers 
  
  Date of Hearing: 18 February 2008 
  

@@ -3,13 +3,13 @@
 <name>Ranallo v The Australian Community Pharmacy Authority [2009] FCA 113 (19 February 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/113.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for review of decision of australian community pharmacy authority</catchphrase>
-<catchphrase "id=c1">authority recommended that the applicant not be approved to supply pharmaceutical benefits from proposed premises</catchphrase>
-<catchphrase "id=c2">approval denied because premises did not have the 'equivalent of at least 8 full-time prescribing medical practitioners' practising at the centre</catchphrase>
-<catchphrase "id=c3">error of law alleged</catchphrase>
-<catchphrase "id=c4">interpretation of terms 'equivalent' and 'full-time'</catchphrase>
-<catchphrase "id=c5">terms held to be directed at hours worked not output</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
+<catchphrase id="c0">application for review of decision of australian community pharmacy authority</catchphrase>
+<catchphrase id="c1">authority recommended that the applicant not be approved to supply pharmaceutical benefits from proposed premises</catchphrase>
+<catchphrase id="c2">approval denied because premises did not have the 'equivalent of at least 8 full-time prescribing medical practitioners' practising at the centre</catchphrase>
+<catchphrase id="c3">error of law alleged</catchphrase>
+<catchphrase id="c4">interpretation of terms 'equivalent' and 'full-time'</catchphrase>
+<catchphrase id="c5">terms held to be directed at hours worked not output</catchphrase>
+<catchphrase id="c6">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -188,7 +188,7 @@ In the interpretation of a provision of an Act or statutory rule, a construction
 <sentence id="s70">The meaning of the provision must be determined "by reference to the language of the instrument viewed as a whole" [ Cooper Brookes (Wollongong) Pty Ltd v Federal Commissioner of Taxation [1981] HCA 26 ; (1981) 147 CLR 297 at 320, per Mason and Wilson JJ.</sentence>
 <sentence id="s71">See also South West Water Authority v Rumble's [1985] AC 609 at 617, per Lord Scarman, "in the context of the legislation read as a whole".].</sentence>
 <sentence id="s72">In Commissioner for Railways (NSW) v Agalianos [1955] HCA 27 ; [(1955) 92 CLR 390 at 397], Dixon CJ pointed out that "the context, the general purpose and policy of a provision and its consistency and fairness are surer guides to its meaning than the logic with which it is constructed".</sentence>
-<sentence id="s73">Thus, the process of construction must always begin by examining the context of the provision that is being construed [ Toronto Suburban Railway Co v Toronto Corporation [1915] AC 590 at 597; Minister for Lands (NSW) v Jeremias [1917] HCA 41 ; (1917) 23 CLR 322 at 332; K &amp; S Lake City Freighters Pty Ltd v Gordon &amp; Gotch Ltd [1985] HCA 48 ; (1985) 157 CLR 309 at 312, per Gibbs CJ; at 315, per Mason J; at 321, per Deane J].</sentence>
+<sentence id="s73">Thus, the process of construction must always begin by examining the context of the provision that is being construed [ Toronto Suburban Railway Co v Toronto Corporation [1915] AC 590 at 597; Minister for Lands (NSW) v Jeremias [1917] HCA 41 ; (1917) 23 CLR 322 at 332; K &amp;amp; S Lake City Freighters Pty Ltd v Gordon &amp;amp; Gotch Ltd [1985] HCA 48 ; (1985) 157 CLR 309 at 312, per Gibbs CJ; at 315, per Mason J; at 321, per Deane J].</sentence>
 <sentence id="s74">
  It follows that context must be considered in the first instance, not merely after 'ambiguity' is identified.</sentence>
 <sentence id="s75">In the High Court's reconsideration of the correctness of Mills v Meeking [1990] HCA 6 ; 169 CLR 214 in Judge Byrne [1999] HCA 16 ; 196 CLR 141 in which the authority of Mills v Meeking was upheld, Gaudron J held: 

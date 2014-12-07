@@ -3,15 +3,15 @@
 <name>Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union [2008] FCA 678 (16 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/678.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">restrictive trade practices</catchphrase>
-<catchphrase "id=c1">accessorial liability for contravention of s 45e(3) of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c2">existence of an "arrangement or understanding"</catchphrase>
-<catchphrase "id=c3">lack of necessary "meeting of the minds"</catchphrase>
-<catchphrase "id=c4">admissibility under s 45 of the evidence act 1995 (cth) of document witness taken to in cross-examination</catchphrase>
-<catchphrase "id=c5">admissibility of witness statement where witness not called</catchphrase>
-<catchphrase "id=c6">admissibility of answers to s 155 trade practices act 1974 (cth) notices</catchphrase>
-<catchphrase "id=c7">trade practices</catchphrase>
-<catchphrase "id=c8">evidence</catchphrase>
+<catchphrase id="c0">restrictive trade practices</catchphrase>
+<catchphrase id="c1">accessorial liability for contravention of s 45e(3) of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c2">existence of an "arrangement or understanding"</catchphrase>
+<catchphrase id="c3">lack of necessary "meeting of the minds"</catchphrase>
+<catchphrase id="c4">admissibility under s 45 of the evidence act 1995 (cth) of document witness taken to in cross-examination</catchphrase>
+<catchphrase id="c5">admissibility of witness statement where witness not called</catchphrase>
+<catchphrase id="c6">admissibility of answers to s 155 trade practices act 1974 (cth) notices</catchphrase>
+<catchphrase id="c7">trade practices</catchphrase>
+<catchphrase id="c8">evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -1186,7 +1186,7 @@ and on his comment that, after Noonan first spoke to him:
 <sentence id="s805">Such admissions as he made are also able to be used in the case against him personally.</sentence>
 <sentence id="s806">The s 155 answers 
  
-131 I will assume the answers given to the ACCC by Sutton and Lancsar were confidential in the sense that they were given (a) in relation to one of the limited matters specified in s 155(1) of the TP Act and (b) in furtherance of the performance of the ACCC's functions under the TP Act in relation to those matters, but not otherwise: cf Smith Kline &amp; French Laboratories (Aust) Ltd v Department of Community Services and Health [1989] FCA 384 ; (1990) 22 FCR 73 at 110.</sentence>
+131 I will assume the answers given to the ACCC by Sutton and Lancsar were confidential in the sense that they were given (a) in relation to one of the limited matters specified in s 155(1) of the TP Act and (b) in furtherance of the performance of the ACCC's functions under the TP Act in relation to those matters, but not otherwise: cf Smith Kline &amp;amp; French Laboratories (Aust) Ltd v Department of Community Services and Health [1989] FCA 384 ; (1990) 22 FCR 73 at 110.</sentence>
 <sentence id="s807">This said, the use proposed to be made of the information so provided falls squarely within the scope of the purpose for which the answers were given, ie the ACCC's enforcement of the Act in respect of an alleged contravention of it.</sentence>
 <sentence id="s808">The information was not said to be the subject of any privilege.</sentence>
 <sentence id="s809">And while the answers were given under compulsion of law: ss 155(5) and (6A); there is no statutory preclusion of their use in civil --- as distinct from criminal: s 155(7) --- proceedings.</sentence>
@@ -1207,7 +1207,7 @@ Dated: 16 May 2008
  
  Counsel for the First and Third Respondents: Mr G Inatey SC with Mr J Pearce 
  
- Solicitor for the First and Third Respondents: Taylor &amp; Scott Solicitors 
+ Solicitor for the First and Third Respondents: Taylor &amp;amp; Scott Solicitors 
  
  Counsel for the Fourth Respondent: Mr M Gibian 
  

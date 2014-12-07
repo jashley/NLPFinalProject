@@ -3,27 +3,27 @@
 <name>McLellan, in the matter of The Stake Man Pty Ltd v Carroll [2009] FCA 1415 (30 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1415.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether debts incurred in relevant period</catchphrase>
-<catchphrase "id=c1">whether company insolvent at time debts incurred or became insolvent by incurring debts</catchphrase>
-<catchphrase "id=c2">whether director aware of grounds for suspecting insolvency</catchphrase>
-<catchphrase "id=c3">whether reasonable grounds to suspect insolvency</catchphrase>
-<catchphrase "id=c4">whether a reasonable person in the position of director of a company in the circumstances would have been aware of insolvency</catchphrase>
-<catchphrase "id=c5">failure of director to prevent company incurring debts</catchphrase>
-<catchphrase "id=c6">creditors suffered loss and damage</catchphrase>
-<catchphrase "id=c7">whether reasonable grounds to expect solvency</catchphrase>
-<catchphrase "id=c8">whether reasonable grounds to believe a competent and reliable person was responsible for providing adequate information about company's solvency</catchphrase>
-<catchphrase "id=c9">whether director ought fairly to be excused for contravention</catchphrase>
-<catchphrase "id=c10">trading while insolvent</catchphrase>
-<catchphrase "id=c11">whether director aware of grounds for suspecting insolvency</catchphrase>
-<catchphrase "id=c12">whether reasonable grounds to suspect insolvency</catchphrase>
-<catchphrase "id=c13">whether a reasonable person in the position of director of a company in the circumstances would have been aware of insolvency</catchphrase>
-<catchphrase "id=c14">failure of director to prevent company incurring debts</catchphrase>
-<catchphrase "id=c15">creditors suffered loss and damage</catchphrase>
-<catchphrase "id=c16">whether reasonable grounds to expect solvency</catchphrase>
-<catchphrase "id=c17">whether reasonable grounds to believe a competent and reliable person was responsible for providing adequate information about company's solvency</catchphrase>
-<catchphrase "id=c18">whether director ought fairly to be excused for contravention</catchphrase>
-<catchphrase "id=c19">bankruptcy and insolvency</catchphrase>
-<catchphrase "id=c20">corporations</catchphrase>
+<catchphrase id="c0">whether debts incurred in relevant period</catchphrase>
+<catchphrase id="c1">whether company insolvent at time debts incurred or became insolvent by incurring debts</catchphrase>
+<catchphrase id="c2">whether director aware of grounds for suspecting insolvency</catchphrase>
+<catchphrase id="c3">whether reasonable grounds to suspect insolvency</catchphrase>
+<catchphrase id="c4">whether a reasonable person in the position of director of a company in the circumstances would have been aware of insolvency</catchphrase>
+<catchphrase id="c5">failure of director to prevent company incurring debts</catchphrase>
+<catchphrase id="c6">creditors suffered loss and damage</catchphrase>
+<catchphrase id="c7">whether reasonable grounds to expect solvency</catchphrase>
+<catchphrase id="c8">whether reasonable grounds to believe a competent and reliable person was responsible for providing adequate information about company's solvency</catchphrase>
+<catchphrase id="c9">whether director ought fairly to be excused for contravention</catchphrase>
+<catchphrase id="c10">trading while insolvent</catchphrase>
+<catchphrase id="c11">whether director aware of grounds for suspecting insolvency</catchphrase>
+<catchphrase id="c12">whether reasonable grounds to suspect insolvency</catchphrase>
+<catchphrase id="c13">whether a reasonable person in the position of director of a company in the circumstances would have been aware of insolvency</catchphrase>
+<catchphrase id="c14">failure of director to prevent company incurring debts</catchphrase>
+<catchphrase id="c15">creditors suffered loss and damage</catchphrase>
+<catchphrase id="c16">whether reasonable grounds to expect solvency</catchphrase>
+<catchphrase id="c17">whether reasonable grounds to believe a competent and reliable person was responsible for providing adequate information about company's solvency</catchphrase>
+<catchphrase id="c18">whether director ought fairly to be excused for contravention</catchphrase>
+<catchphrase id="c19">bankruptcy and insolvency</catchphrase>
+<catchphrase id="c20">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -359,7 +359,7 @@ The letter then stated that the Company held Brunner-Hildebrand responsible for 
  "The owners [of the Company] have a total investment of approximately $5,600,000 and are not in a position to inject any further funds.</sentence>
 <sentence id="s188">
  ... 
- If the requested capital injection can not be sourced, The Stakeman Pty Ltd does not possess sufficient cash resources to recover from the loss of funds in the R &amp; D phase and as such would have to look at alternative avenues to recoup its losses.</sentence>
+ If the requested capital injection can not be sourced, The Stakeman Pty Ltd does not possess sufficient cash resources to recover from the loss of funds in the R &amp;amp; D phase and as such would have to look at alternative avenues to recoup its losses.</sentence>
 <sentence id="s189">" 
  
 
@@ -387,7 +387,7 @@ The letter then stated that the Company held Brunner-Hildebrand responsible for 
 <sentence id="s210">On 6 February 2006 a stock take as at 31 January 2006 was calculated which gave timber on hand a value of $1,041,534.37.</sentence>
 <sentence id="s211">From the time when Mr Bright was engaged by the Company in or about April 2005 the Company's stock on hand was valued in accordance with figures provided by Mr Bright as representing appropriate values.</sentence>
 <sentence id="s212">These values were as follows: 
-(a) rough cut green timber; including timber in the pre-dryers, was valued at $550/m&#179;;
+(a) rough cut green timber; including timber in the pre-dryers, was valued at $550/m&amp;#179;;
  
  
 (b) rough cut material ready to be processed into stakes was valued between $0.80 and $2.75 depending on length and thickness;
@@ -423,7 +423,7 @@ The letter then stated that the Company held Brunner-Hildebrand responsible for 
 <sentence id="s237">" 
  
 
- Around April 2006 at the request of the Company's solicitors, the valuers Lockwood &amp; Co Pty Ltd provided the solicitors with a valuation of the plant and equipment of the Company on a market value for existing use basis of $1,363,460 and on an auction realisation basis of $503,955.</sentence>
+ Around April 2006 at the request of the Company's solicitors, the valuers Lockwood &amp;amp; Co Pty Ltd provided the solicitors with a valuation of the plant and equipment of the Company on a market value for existing use basis of $1,363,460 and on an auction realisation basis of $503,955.</sentence>
 <sentence id="s238">On 3 May 2006 an officer from the Australian Taxation Office telephoned Mr Carroll and told him that the Company owed the Australian Taxation Office $110,000 and that Mr Carroll had until 17 May 2006 to review how he was going to reduce the debt over the next eighteen months.</sentence>
 <sentence id="s239">On the following day Mr Carroll spoke to Mr Bright about this conversation and said that the Company did not have $110,000 on hand to pay the tax bill.</sentence>
 <sentence id="s240">Mr Bright told him that he had to do something and that he had met a business restructure specialist, Mr Andrew McLellan, who had impressed him and who might be able to assist Mr Carroll to deal with the matter.</sentence>
@@ -657,7 +657,7 @@ His answer was:
  "it is thus of no consequence, of itself, that assets exceed liabilities, the important point being whether the company can pay its way in carrying on its business": see A R Keay, "The insolvency factor in the avoidance of antecedent transactions in corporate liquidations" (1995) 21 Monash Univ LR 305 at 307); 
  "the question is not whether the debtor would be able, if time were given to him, to pay his debts out of his assets, but whether he is presently able to do so with moneys actually available": Bank of Australasia v Hall [1907] HCA 78 ; (1907) 4 CLR 1514 at 1528 per Griffith CJ; 
  "It is the debtor's inability, utilising such cash resources as he has or can command through the use of his assets, to meet his debts as they fall due which indicates insolvency": Sandell v Porter [1966] HCA 28 ; (1966) 115 CLR 666 at 670 per Barwick CJ;
- "If, as a matter of substance, the company is not able to pay its debts as they become due, the circumstance that the relevant creditors may give the company some time before they actually seek to enforce their remedies, and the company may well be able to pay them out given that time, will not negative the application of the section": Standard Chartered Bank of Australia Ltd v Antico (Nos 1 &amp; 2) [1995] NSWSC 31 ; (1995) 38 NSWLR 290 at 331 per Hodgson J; 
+ "If, as a matter of substance, the company is not able to pay its debts as they become due, the circumstance that the relevant creditors may give the company some time before they actually seek to enforce their remedies, and the company may well be able to pay them out given that time, will not negative the application of the section": Standard Chartered Bank of Australia Ltd v Antico (Nos 1 &amp;amp; 2) [1995] NSWSC 31 ; (1995) 38 NSWLR 290 at 331 per Hodgson J; 
  "for the purpose of assessing insolvency, a contractual debt is taken to be payable at the time stipulated for payment in the contract, unless there is evidence of an express or implied agreement between the company and creditor for extension of time, or a course of conduct sufficient to give rise to an estoppel against the creditor, or an established practice in the industry or between the company and its creditors whereby debts are taken to be payable at some other time than provided for in the contract: Southern Cross Interiors at NSWLR 225; ALR 125 ; ACSR 317.</sentence>
 <sentence id="s398">" 
  The cashflow test enables there to be taken into account in determining solvency or insolvency assets which are available to the Company which can be realised in order to answer indebtedness.</sentence>
@@ -774,7 +774,7 @@ It is apparent from Mr Carroll's evidence and, in particular, the answers to whi
  
  "Trade creditors $ 558,206.09 
  Credit card debts $ 14,838.00 
- Tax debts (payroll &amp; GST) $ 122,243.83 
+ Tax debts (payroll &amp;amp; GST) $ 122,243.83 
  Centrepoint Finance $ 36,003.56 
  Suncorp Metway $ 36,381.36 
  Toyota Finance $ 4,168.96 
@@ -1104,7 +1104,7 @@ The amount of $277.95 relates to medical services supplied to two employees.</se
 The amount of $42.90 relates to medical services supplied to an employee.</sentence>
 <sentence id="s655">Mr Carroll submitted that this amount was payable by Workcover.</sentence>
 <sentence id="s656">I accept the submission of the plaintiffs that Workcover only covers costs if the initial $546 of an injured worker's medical expenses in each instance is paid by the Company.</sentence>
-<sentence id="s657">Clark &amp; Co 
+<sentence id="s657">Clark &amp;amp; Co 
 The amount of $50 is claimed in respect of a rental property at Mansfield.</sentence>
 <sentence id="s658">As the invoice is dated 31 May 2006 I am not satisfied that the rental had accrued as at 10 May 2006.</sentence>
 <sentence id="s659">Mansfield District Hospital 
@@ -1115,7 +1115,7 @@ The amount of $131 relates to medical services supplied to employees.</sentence>
 The amount of $1,178.50 relates to medical services supplied to five employees.</sentence>
 <sentence id="s663">Mr Carroll submitted that these amounts were payable by Workcover.</sentence>
 <sentence id="s664">I accept the submission of the plaintiffs that Workcover only covers costs if the initial $546 of an injured worker's medical expenses in each instance is paid by the Company.</sentence>
-<sentence id="s665">Ryan &amp; McNulty 
+<sentence id="s665">Ryan &amp;amp; McNulty 
 The plaintiffs conceded that $4,749.90 of this debt was not due and owing and $1,114.27 was in issue.</sentence>
 <sentence id="s666">I have considered the invoices and am not satisfied that the balance of the debt was incurred subsequent to 31 December 2005.</sentence>
 <sentence id="s667">Sawmaster Industries 
@@ -1453,7 +1453,7 @@ Dated: 30 November 2009
  Counsel for the Defendant: J L Evans 
  
  Solicitor for the Defendant: Voitin Lawyers 
- Date of Hearing: 20, 21, 22 &amp; 23 October 2008 
+ Date of Hearing: 20, 21, 22 &amp;amp; 23 October 2008 
  
  Date of Final Submissions: 18 November 2008 
  

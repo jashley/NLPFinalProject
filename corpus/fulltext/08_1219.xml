@@ -3,25 +3,25 @@
 <name>SBLF v Minister for Immigration and Citizenship [2008] FCA 1219 (14 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1219.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">visa</catchphrase>
-<catchphrase "id=c1">protection visa</catchphrase>
-<catchphrase "id=c2">tribunal hearing</catchphrase>
-<catchphrase "id=c3">adjournment</catchphrase>
-<catchphrase "id=c4">appellant sought adjournment on the ground that his case was not ready to proceed to hearing, after consulting new solicitor/migration agent</catchphrase>
-<catchphrase "id=c5">tribunal refused adjournment on ground that hearing already adjourned twice</catchphrase>
-<catchphrase "id=c6">no finding that reasons for previous adjournments not legitimate</catchphrase>
-<catchphrase "id=c7">no finding that reason now advanced for adjournment not legitimate</catchphrase>
-<catchphrase "id=c8">whether tribunal denied appellant opportunity to give evidence and present arguments</catchphrase>
-<catchphrase "id=c9">visa</catchphrase>
-<catchphrase "id=c10">protection visa</catchphrase>
-<catchphrase "id=c11">review of decision to refuse visa</catchphrase>
-<catchphrase "id=c12">tribunal member gave no weight to unsigned statement of appellant's mother</catchphrase>
-<catchphrase "id=c13">failed to take into account solicitor's account of how statement had been obtained</catchphrase>
-<catchphrase "id=c14">if solicitor's account accepted, statement manifestly had some weight</catchphrase>
-<catchphrase "id=c15">fact-finding function of tribunal</catchphrase>
-<catchphrase "id=c16">whether tribunal failed to perform its statutory function to review decision to refuse visa</catchphrase>
-<catchphrase "id=c17">migration</catchphrase>
-<catchphrase "id=c18">migration</catchphrase>
+<catchphrase id="c0">visa</catchphrase>
+<catchphrase id="c1">protection visa</catchphrase>
+<catchphrase id="c2">tribunal hearing</catchphrase>
+<catchphrase id="c3">adjournment</catchphrase>
+<catchphrase id="c4">appellant sought adjournment on the ground that his case was not ready to proceed to hearing, after consulting new solicitor/migration agent</catchphrase>
+<catchphrase id="c5">tribunal refused adjournment on ground that hearing already adjourned twice</catchphrase>
+<catchphrase id="c6">no finding that reasons for previous adjournments not legitimate</catchphrase>
+<catchphrase id="c7">no finding that reason now advanced for adjournment not legitimate</catchphrase>
+<catchphrase id="c8">whether tribunal denied appellant opportunity to give evidence and present arguments</catchphrase>
+<catchphrase id="c9">visa</catchphrase>
+<catchphrase id="c10">protection visa</catchphrase>
+<catchphrase id="c11">review of decision to refuse visa</catchphrase>
+<catchphrase id="c12">tribunal member gave no weight to unsigned statement of appellant's mother</catchphrase>
+<catchphrase id="c13">failed to take into account solicitor's account of how statement had been obtained</catchphrase>
+<catchphrase id="c14">if solicitor's account accepted, statement manifestly had some weight</catchphrase>
+<catchphrase id="c15">fact-finding function of tribunal</catchphrase>
+<catchphrase id="c16">whether tribunal failed to perform its statutory function to review decision to refuse visa</catchphrase>
+<catchphrase id="c17">migration</catchphrase>
+<catchphrase id="c18">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -31,7 +31,7 @@
 <sentence id="s1">Each is concerned with the question whether a decision of the Refugee Review Tribunal ("the Tribunal") is vitiated by jurisdictional error.</sentence>
 <sentence id="s2">The first issue concerns the refusal by the Tribunal to adjourn its hearing, when it was notified in advance by a solicitor and migration agent acting on behalf of the appellant that the appellant's case was not ready to proceed at the hearing.</sentence>
 <sentence id="s3">The second issue concerns the Tribunal's refusal to give any weight at all to a statement submitted to it containing information supplied by the appellant's mother in Albania, because the statement was not signed.</sentence>
-<sentence id="s4">2 The proceeding before this Court is an appeal from a judgment of the Federal Magistrates Court, published as SBLF v Minister for Immigration and Citizenship &amp; Anor [2007] FMCA 1477.</sentence>
+<sentence id="s4">2 The proceeding before this Court is an appeal from a judgment of the Federal Magistrates Court, published as SBLF v Minister for Immigration and Citizenship &amp;amp; Anor [2007] FMCA 1477.</sentence>
 <sentence id="s5">The learned federal magistrate dismissed an application by the appellant for judicial review of the decision of the Tribunal, signed on 7 August 2006 and handed down on 29 August 2006.</sentence>
 <sentence id="s6">The Tribunal affirmed a decision of a delegate of the Minister for Immigration and Multicultural Affairs (now the Minister for Immigration and Citizenship, the first respondent to this appeal) (in both cases "the Minister"), refusing to grant to the appellant a protection visa.</sentence>
 <sentence id="s7">3 It is accepted that the appellant is a citizen of Albania, who arrived in Australia on 2 November 2005, having obtained a visa to travel to Australia by using a false Italian passport.</sentence>
@@ -216,7 +216,7 @@
 <sentence id="s161">The requirement of s 420(1) of the Migration Act that the Tribunal pursue the objective of providing a mechanism of review that is quick cannot be relied on in disregard of the requirements (of at least equal weight) that the Tribunal pursue the objective of providing a mechanism of review that is fair and just.</sentence>
 <sentence id="s162">29 It is now well-established that the invitation that the Tribunal is required by s 425(1) of the Migration Act to give to an applicant is not a matter of form.</sentence>
 <sentence id="s163">The duty to give the invitation will not be performed if what the Tribunal then affords to an invited applicant is not a hearing that conforms with the requirements of s 425(1).</sentence>
-<sentence id="s164">This was made clear in Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SCAR [2003] FCAFC 126 (2003) 128 FCR 553 at [33] - [39] .</sentence>
+<sentence id="s164">This was made clear in Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs v SCAR [2003] FCAFC 126 (2003) 128 FCR 553 at [33] - [39] .</sentence>
 <sentence id="s165">Section 425(1) requires that the invitation be to a hearing at which the applicant is "to give evidence and present arguments relating to the issues arising in relation to the decision under review.</sentence>
 <sentence id="s166">" As SCAR itself makes clear, even if the Tribunal is unaware of the inability of the applicant to give evidence and present arguments about those issues, the hearing will have fallen short of the requirements of s 425(1) , so that the duty to invite the applicant to a hearing of the required kind will not have been fulfilled.</sentence>
 <sentence id="s167">In that case, the Tribunal was unaware that the applicant was undergoing medical treatment as a result of being affected badly by news of his father's recent death.</sentence>

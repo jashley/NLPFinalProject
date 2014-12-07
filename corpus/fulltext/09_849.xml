@@ -3,11 +3,11 @@
 <name>Allphones Retail Pty Ltd ACN 008 168 090 v Weimann [2009] FCA 849 (7 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/849.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal from an interlocutory decision to full court on whether a 'matter' has arisen for representative proceedings</catchphrase>
-<catchphrase "id=c1">novel and important point</catchphrase>
-<catchphrase "id=c2">best use of resources</catchphrase>
-<catchphrase "id=c3">suitable to depart from usual practice of single judge determining leave question</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
+<catchphrase id="c0">application for leave to appeal from an interlocutory decision to full court on whether a 'matter' has arisen for representative proceedings</catchphrase>
+<catchphrase id="c1">novel and important point</catchphrase>
+<catchphrase id="c2">best use of resources</catchphrase>
+<catchphrase id="c3">suitable to depart from usual practice of single judge determining leave question</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -17,11 +17,11 @@
 <sentence id="s3">Order 52 r 2AA of the Federal Court Rules (FCR) requires the application to be brought before a single judge in the first instance who is to hear and determine the matter unless a direction is made by a judge for the application to be heard and determined by a Full Court.</sentence>
 <sentence id="s4">A grant or refusal of leave is generally disposed of by a single judge ( Optiver Australia Pty Ltd v Tibra Trading Pty Ltd [2008] FCA 47 (at [8])).</sentence>
 <sentence id="s5">There is no right on the part of an applicant to 'elect' as to whether or not the application for leave is heard by a single judge or by the Full Court.</sentence>
-<sentence id="s6">But in an appropriate case, an applicant may satisfy the Court as to the reasons why the usual procedure of a single judge determining the application should be displaced by a direction that the application be heard and determined by a Full Court pursuant to O 52 r 2AA(a) FCR ( Wati v Minister for Immigration &amp; Multicultural Affairs (1997) 78 FCR 543 at 554 and Kristoffersen v Department of Employment, Workplace Relations and Small Business [2002] FCAFC 269 at [13] ).</sentence>
+<sentence id="s6">But in an appropriate case, an applicant may satisfy the Court as to the reasons why the usual procedure of a single judge determining the application should be displaced by a direction that the application be heard and determined by a Full Court pursuant to O 52 r 2AA(a) FCR ( Wati v Minister for Immigration &amp;amp; Multicultural Affairs (1997) 78 FCR 543 at 554 and Kristoffersen v Department of Employment, Workplace Relations and Small Business [2002] FCAFC 269 at [13] ).</sentence>
 <sentence id="s7">Matters identified by the Full Court in Kristoffersen for the single judge to take into account are expressed as follows: 
  [It] is for the Court to determine, having regard to considerations such as the importance of the issue raised and the efficient deployment of judicial resources and other matters, which forum will be constituted to deal with the application.</sentence>
 <sentence id="s8">
- As observed by French J (as his Honour then was) in Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v WAKX (2005) 218 ALR 274 at 280-282 ([28]-[32]), the referral of the matter to the Full Court is subject to the authority of the Chief Justice to determine finally whether the matter should be heard by a Full Court.</sentence>
+ As observed by French J (as his Honour then was) in Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs v WAKX (2005) 218 ALR 274 at 280-282 ([28]-[32]), the referral of the matter to the Full Court is subject to the authority of the Chief Justice to determine finally whether the matter should be heard by a Full Court.</sentence>
 <sentence id="s9">THE ISSUES UNDER CONSIDERATION 
  The issue which Allphones seeks to ventilate on appeal is the correctness of the Court's decision in Weimann [2009] FCA 673 that amendment to the application and pleadings should be permitted to (in effect), convert the proceeding to a representative proceeding pursuant to Pt IVA FCA.</sentence>
 <sentence id="s10">Section 33C FCA was the basis for the motion considered by his Honour.</sentence>
@@ -83,7 +83,7 @@ a proceeding may be commenced by one or more of those persons as representing so
 <sentence id="s33">The Group B members, it is said, raise existing claims of unconscionable conduct on the part of Allphones in threatening all franchisees that if they do not agree to execute Allphones' new franchise agreements, Allphones would require them to do so when they sought to renew their franchise agreements.</sentence>
 <sentence id="s34">Further, it is argued that the Group B members' claim is not hypothetical because they could have no confidence that Allphones would act in accordance with the Court's decision in the proceeding if they do not remain members of the represented class.</sentence>
 <sentence id="s35">It is argued that Allphones apparently seeks to re-litigate or at least not act consistently with all of the matters determined against it in Hoy Mobile Pty Ltd v Allphones Retail Pty Ltd [2008] FCA 369 ; (2008) 167 FCR 314 in the current proceedings.</sentence>
-<sentence id="s36">See also Australian Competition &amp; Consumer Commission v Allphones Retail Pty Ltd (No 2) (2009) 253 ALR 324, particularly at [121]-[122], [134] and [143].</sentence>
+<sentence id="s36">See also Australian Competition &amp;amp; Consumer Commission v Allphones Retail Pty Ltd (No 2) (2009) 253 ALR 324, particularly at [121]-[122], [134] and [143].</sentence>
 <sentence id="s37">It is submitted that against that background, his Honour was correct to hold that each Group B member has a real interest in the clarification of their current contractual position and the determination of the allegation of unconscionable conduct.</sentence>
 <sentence id="s38">Allphones says there is a distinction between these two claims.</sentence>
 <sentence id="s39">Even if it could be argued that the allegation of unconscionable conduct against the Group B members raised a current justiciable controversy, Allphones argues that the contractual claim does not do so.</sentence>
@@ -105,7 +105,7 @@ a proceeding may be commenced by one or more of those persons as representing so
 <sentence id="s54">Finally, Allphones contends that the application for leave to appeal and the appeal proper should be the subject of expedition.</sentence>
 <sentence id="s55">It undertakes to do all that is necessary on its part to achieve expedition.</sentence>
 <sentence id="s56">In that context, it points to the listing of the matter for trial in December and suggests that an appeal, if leave were granted, could at least theoretically be heard this month.</sentence>
-<sentence id="s57">The respondent to the motion focussed predominately on the absence of irreparable harm citing Auspine Ltd v H S Lawrence &amp; Son Pty Ltd &amp; Anor [1998] FCA 953 in which it was said that whether a litigant will suffer substantial injustice as a consequence of an interlocutory decision is a question of whether 'irreparable harm will be done to [the applicant] if the orders were allowed to stand or that [the applicant] will be prejudiced in an irremediable way in the manner in which [it] is able to conduct the trial'.</sentence>
+<sentence id="s57">The respondent to the motion focussed predominately on the absence of irreparable harm citing Auspine Ltd v H S Lawrence &amp;amp; Son Pty Ltd &amp;amp; Anor [1998] FCA 953 in which it was said that whether a litigant will suffer substantial injustice as a consequence of an interlocutory decision is a question of whether 'irreparable harm will be done to [the applicant] if the orders were allowed to stand or that [the applicant] will be prejudiced in an irremediable way in the manner in which [it] is able to conduct the trial'.</sentence>
 <sentence id="s58">It is the second limb of that passage, however, on which Allphones relies.</sentence>
 <sentence id="s59">But the respondent contends that Allphones has failed to identify any relevant prejudice.</sentence>
 <sentence id="s60">In particular, it is argued that, as far as discovery is concerned, an obligation to give more extensive discovery than would otherwise be required cannot constitute a substantial injustice ( Auspine per Goldberg J, (von Doussa and Mansfield JJ agreeing) at 5).</sentence>
@@ -148,7 +148,7 @@ Dated: 7 August 2009
  
  Counsel for the Applicant: RJ Whitington QC with BC Roberts 
  
- Solicitor for the Applicant: Kelly &amp; Co 
+ Solicitor for the Applicant: Kelly &amp;amp; Co 
  
  Counsel for the Respondent: GD Cobby 
  

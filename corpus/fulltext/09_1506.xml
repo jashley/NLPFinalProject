@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <case>
-<name>Westpac Banking Corporation v Australian Securities &amp; Investments Commission [2009] FCA 1506 (15 December 2009)</name>
+<name>Westpac Banking Corporation v Australian Securities &amp;amp; Investments Commission [2009] FCA 1506 (15 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1506.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">australian securities and investments commission act 2001 (cth) s 12dl</catchphrase>
-<catchphrase "id=c1">debit cards and credit cards</catchphrase>
-<catchphrase "id=c2">statutory prohibition on a person sending out a card to a current cardholder unless it was a "card of the same kind" and certain other conditions were met</catchphrase>
-<catchphrase "id=c3">westpac sent "westpac debit mastercard" cards to holders of "westpac handycards"</catchphrase>
-<catchphrase "id=c4">customer could only use handycard to withdraw money from atm or eftpos or to make purchases by entering personal identification number (pin)</catchphrase>
-<catchphrase "id=c5">debit mastercard card differed from handycard because it (1) allowed customers to make purchases without entering pin number (over internet, post or telephone) and (2) it was able to be used more widely</catchphrase>
-<catchphrase "id=c6">australian securities and investments commission alleged that the ability to make purchases without entering a pin increased the likelihood of fraud, thus conflicting with the consumer protection purpose of the section</catchphrase>
-<catchphrase "id=c7">instances of fraud trivial compared to overall use</catchphrase>
-<catchphrase "id=c8">other suggested differences did not change essential nature of cards as debit cards</catchphrase>
-<catchphrase "id=c9">provision imposing criminal and civil liability</catchphrase>
-<catchphrase "id=c10">purposive construction</catchphrase>
-<catchphrase "id=c11">consumer protection provisions</catchphrase>
-<catchphrase "id=c12">caution in imposing wider construction that expands meaning of criminal provision</catchphrase>
-<catchphrase "id=c13">relevance of headings in an act</catchphrase>
-<catchphrase "id=c14">heading should be taken into account, but must not impose an unnaturally constricted or expanded meaning</catchphrase>
-<catchphrase "id=c15">relevance of earlier, now repealed, legislation</catchphrase>
-<catchphrase "id=c16">where earlier legislation was differently worded, and current legislation is clear, past legislation should not guide meaning</catchphrase>
-<catchphrase "id=c17">banking and finance</catchphrase>
-<catchphrase "id=c18">statutes</catchphrase>
+<catchphrase id="c0">australian securities and investments commission act 2001 (cth) s 12dl</catchphrase>
+<catchphrase id="c1">debit cards and credit cards</catchphrase>
+<catchphrase id="c2">statutory prohibition on a person sending out a card to a current cardholder unless it was a "card of the same kind" and certain other conditions were met</catchphrase>
+<catchphrase id="c3">westpac sent "westpac debit mastercard" cards to holders of "westpac handycards"</catchphrase>
+<catchphrase id="c4">customer could only use handycard to withdraw money from atm or eftpos or to make purchases by entering personal identification number (pin)</catchphrase>
+<catchphrase id="c5">debit mastercard card differed from handycard because it (1) allowed customers to make purchases without entering pin number (over internet, post or telephone) and (2) it was able to be used more widely</catchphrase>
+<catchphrase id="c6">australian securities and investments commission alleged that the ability to make purchases without entering a pin increased the likelihood of fraud, thus conflicting with the consumer protection purpose of the section</catchphrase>
+<catchphrase id="c7">instances of fraud trivial compared to overall use</catchphrase>
+<catchphrase id="c8">other suggested differences did not change essential nature of cards as debit cards</catchphrase>
+<catchphrase id="c9">provision imposing criminal and civil liability</catchphrase>
+<catchphrase id="c10">purposive construction</catchphrase>
+<catchphrase id="c11">consumer protection provisions</catchphrase>
+<catchphrase id="c12">caution in imposing wider construction that expands meaning of criminal provision</catchphrase>
+<catchphrase id="c13">relevance of headings in an act</catchphrase>
+<catchphrase id="c14">heading should be taken into account, but must not impose an unnaturally constricted or expanded meaning</catchphrase>
+<catchphrase id="c15">relevance of earlier, now repealed, legislation</catchphrase>
+<catchphrase id="c16">where earlier legislation was differently worded, and current legislation is clear, past legislation should not guide meaning</catchphrase>
+<catchphrase id="c17">banking and finance</catchphrase>
+<catchphrase id="c18">statutes</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -70,8 +70,8 @@
 <sentence id="s38">The differences are: 
  (1) the standards prescribed for each of the EFTPOS and the ATM networks differed from the standards to which the MasterCard network was subject;
  
- (2) if the customer uses a Handycard, Westpac must pay the merchant an interchange fee of up to about 5&#162; per transaction for accessing the EFTPOS network.</sentence>
-<sentence id="s39">In contrast, if the customer uses the new card for the same purpose, the merchant, through its financial institution, must pay Westpac 12&#162; per transaction;
+ (2) if the customer uses a Handycard, Westpac must pay the merchant an interchange fee of up to about 5&amp;#162; per transaction for accessing the EFTPOS network.</sentence>
+<sentence id="s39">In contrast, if the customer uses the new card for the same purpose, the merchant, through its financial institution, must pay Westpac 12&amp;#162; per transaction;
  
  (3) the new card can be used by the holder in the following additional ways that the Handycard cannot:
  

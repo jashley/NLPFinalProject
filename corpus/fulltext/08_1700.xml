@@ -3,11 +3,11 @@
 <name>Australian Securities and Investments Commission, in the matter of GDK Financial Solutions Pty Ltd (in liq) v GDK Financial Solutions Pty Ltd (in liq) (No 5) [2008] FCA 1700 (14 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1700.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discharge of mortgage prior to the tender of the principal amount</catchphrase>
-<catchphrase "id=c1">amount due retained in a separate bank account</catchphrase>
-<catchphrase "id=c2">right to interest following the discharge of mortgage</catchphrase>
-<catchphrase "id=c3">whether interest should be calculated at the rate actually accrued on the deposit or the rate specified in the mortgage</catchphrase>
-<catchphrase "id=c4">mortgage</catchphrase>
+<catchphrase id="c0">discharge of mortgage prior to the tender of the principal amount</catchphrase>
+<catchphrase id="c1">amount due retained in a separate bank account</catchphrase>
+<catchphrase id="c2">right to interest following the discharge of mortgage</catchphrase>
+<catchphrase id="c3">whether interest should be calculated at the rate actually accrued on the deposit or the rate specified in the mortgage</catchphrase>
+<catchphrase id="c4">mortgage</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -20,7 +20,7 @@
 <sentence id="s5">The balance (after deducting the costs and expenses of sale) was about $13 million.</sentence>
 <sentence id="s6">This was less than the amount claimed by AVS to be secured by the second mortgage: it claimed it was owed in excess of $14 million.</sentence>
 <sentence id="s7">In those circumstances it was ordered that the balance be paid into an interest bearing account in the name of the receivers pending the determination of what was due to AVS: Australian Securities and Investments Commission v GDK Financial Solutions Pty Ltd (in liq) (No 3) (2008) 246 ALR 580 .</sentence>
-<sentence id="s8">On the taking of accounts it was established that the principal due to AVS was $4,100,282.64 and that interest calculated to 17 March 2008 (the day the money was paid into the receivers' account) was $1,573,613.32: Australian Securities &amp; Investment Commission v GDK Financial Solutions Pty Ltd (in liq) (No 4) [2008] FCA 1071 .</sentence>
+<sentence id="s8">On the taking of accounts it was established that the principal due to AVS was $4,100,282.64 and that interest calculated to 17 March 2008 (the day the money was paid into the receivers' account) was $1,573,613.32: Australian Securities &amp;amp; Investment Commission v GDK Financial Solutions Pty Ltd (in liq) (No 4) [2008] FCA 1071 .</sentence>
 <sentence id="s9">Those amounts were paid to AVS on 22 September 2008.</sentence>
 <sentence id="s10">The question in issue is whether AVS is also entitled to interest on its debt from 17 March 2008 to 22 September 2008 either at the rate specified in the mortgage (14.71 per cent per annum) or at the rate accruing on the deposit.</sentence>
 <sentence id="s11">2 To resolve the issue raised it is necessary to deal with two questions.</sentence>
@@ -37,12 +37,12 @@
 <sentence id="s22">5 Another instance where interest will cease to run before discharge is where the mortgagee wrongfully states or indicates that it will not discharge the mortgage on the due date.</sentence>
 <sentence id="s23">The old cases suggest that even in that circumstance a tender is an essential pre-requisite to stop interest from running: Bishop v Church [1751] EngR 97 ; (1751) 2 Ves Sen 371 , 372 ("if a strict tender is not made, the court cannot stop the interest: though cases may be, where the court would wish to do it"); Garforth v Bradley [1755] EngR 138 ; (1755) 2 Ves Sen 675 , 678 ("the rule is so strict, that, where a certain security is taken by the mortgagees, their interest shall not stop but upon a proper tender and notice" --- the reference to notice is to the rule of equity which required six months notice to be given of the mortgagor's intention to pay the mortgage debt).</sentence>
 <sentence id="s24">6 It is clear, however, that tender of the amount due is not always required.</sentence>
-<sentence id="s25">That was settled in Scarfe v Morgan [1838] EngR 253 ; (1838) 4 M&amp;W 270.</sentence>
+<sentence id="s25">That was settled in Scarfe v Morgan [1838] EngR 253 ; (1838) 4 M&amp;amp;W 270.</sentence>
 <sentence id="s26">There Parke B said (at 279) that a mortgagee could agree to waive the necessity of a tender.</sentence>
 <sentence id="s27">In Kerford v Mondel (1859) 28 LJ Ex 303 , after referring to Scarfe v Morgan , Bramwell B said (at 306) that if a mortgagee "goes on, and so conducts himself as to indicate that a tender of the one amount had been nugatory, he dispenses with the tender".</sentence>
 <sentence id="s28">This is consistent with modern authority.</sentence>
 <sentence id="s29">For example in Mahoney v Lindsey (1980) 55 ALJR 118 the High Court considered the need for a purchaser to tender the purchase price in order to obtain an order for the specific performance of a contract for the sale of land.</sentence>
-<sentence id="s30">Gibbs J (with whom the other judges agreed) said (at 603): "But a plaintiff may be dispensed from performing a condition by the defendant expressly or impliedly intimating that it is useless for him to perform it and requesting him not to do so", citing Dixon CJ in Turnbull (Peter) &amp; Co v Mundus Trading Co (Australasia) Pty Ltd [1954] HCA 25 ; (1954) 90 CLR 235 , 246-247.</sentence>
+<sentence id="s30">Gibbs J (with whom the other judges agreed) said (at 603): "But a plaintiff may be dispensed from performing a condition by the defendant expressly or impliedly intimating that it is useless for him to perform it and requesting him not to do so", citing Dixon CJ in Turnbull (Peter) &amp;amp; Co v Mundus Trading Co (Australasia) Pty Ltd [1954] HCA 25 ; (1954) 90 CLR 235 , 246-247.</sentence>
 <sentence id="s31">7 In the case at bar the second mortgagees made it clear that they would not discharge the second mortgage at the settlement unless AVS received the whole of the proceeds.</sentence>
 <sentence id="s32">It was for this reason that the vendor, Western Retirement Village Management Pty Ltd (in liq), took proceedings to obtain the discharge of the second mortgage and to have determined what was due under that mortgage.</sentence>
 <sentence id="s33">The money was paid into the receivers' account to protect AVS in the event it could establish a claim.</sentence>
@@ -85,9 +85,9 @@ Dated: 14 November 2008
 
  Written Submissions filed by the Mews Receivers: 31 October 2008 
  
- Written Submissions filed by the 7 th Defendant: 2 &amp; 20 October 2008 
+ Written Submissions filed by the 7 th Defendant: 2 &amp;amp; 20 October 2008 
  
- Written Submissions filed by AVS Property Pty Ltd: 9 &amp; 20 October 2008 
+ Written Submissions filed by AVS Property Pty Ltd: 9 &amp;amp; 20 October 2008 
  
  Date of Judgment: 14 November 2008 
 

@@ -3,11 +3,11 @@
 <name>SZBQS v Minister for Immigration and Citizenship [2009] FCA 1031 (16 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1031.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">refugee review tribunal</catchphrase>
-<catchphrase "id=c1">whether letter from tribunal to individual requesting verification of documents constituted 'additional information' for the purposes of s 424(2) of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c2">whether documents provided by appellant to tribunal constituted 'information'</catchphrase>
-<catchphrase "id=c3">whether falsified documents constituted 'information'</catchphrase>
-<catchphrase "id=c4">migration</catchphrase>
+<catchphrase id="c0">refugee review tribunal</catchphrase>
+<catchphrase id="c1">whether letter from tribunal to individual requesting verification of documents constituted 'additional information' for the purposes of s 424(2) of the migration act 1958 (cth)</catchphrase>
+<catchphrase id="c2">whether documents provided by appellant to tribunal constituted 'information'</catchphrase>
+<catchphrase id="c3">whether falsified documents constituted 'information'</catchphrase>
+<catchphrase id="c4">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -37,7 +37,7 @@
 <sentence id="s22">Such letter, purportedly written by the National Amir of the Ahmadia Muslim Jamat, Dhaka was dated 2 September 2007 and addressed 'TO WHOM IT MAY CONCERN'.</sentence>
 <sentence id="s23">Such letter stated: 
  
- He [the appellant] is permanent citizen of Bangladesh and also he is regular &amp; Permanent Member of Ahmadia Muslim Jamat, Bangladesh.</sentence>
+ He [the appellant] is permanent citizen of Bangladesh and also he is regular &amp;amp; Permanent Member of Ahmadia Muslim Jamat, Bangladesh.</sentence>
 <sentence id="s24">I know him.</sentence>
 <sentence id="s25">He is very good man.</sentence>
 <sentence id="s26">He bears a moral character.</sentence>
@@ -208,7 +208,7 @@ Before an earlier Tribunal hearing the appellant had provided a similar letter d
 <sentence id="s153">The reasoning grounding (4) is relevantly found in paragraph [99] of SZLPO where the Full Court said: 
  
  The view that "additional information" means "information additional to any information already possessed by the Tribunal, whether it came from the invitee or not" is problematic.</sentence>
-<sentence id="s154">The written invitation r&eacute;gime would then apply to all information that the Tribunal might invite a person to give after the Tribunal first became seized of any information at all unless a contrary indication could be found (cf SZKCQ at [49]-[51])).</sentence>
+<sentence id="s154">The written invitation r&amp;eacute;gime would then apply to all information that the Tribunal might invite a person to give after the Tribunal first became seized of any information at all unless a contrary indication could be found (cf SZKCQ at [49]-[51])).</sentence>
 <sentence id="s155">Presumably the first time the Tribunal becomes seized of information is when the Secretary sends documents to the Registrar under s 418(3).</sentence>
 <sentence id="s156">We suggest that a more limited meaning of "additional information" must be looked for.</sentence>
 <sentence id="s157">Again, that which suggests itself is "information additional to information previously given to the Tribunal by the invitee".</sentence>

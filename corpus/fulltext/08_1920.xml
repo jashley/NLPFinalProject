@@ -3,19 +3,19 @@
 <name>Imobilari Pty Ltd v Opes Prime Stockbroking Ltd [2008] FCA 1920 (17 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1920.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">differences between strike-out and summary judgment</catchphrase>
-<catchphrase "id=c1">test to be applied</catchphrase>
-<catchphrase "id=c2">defective pleadings</catchphrase>
-<catchphrase "id=c3">discovery in aid</catchphrase>
-<catchphrase "id=c4">whether permissible</catchphrase>
-<catchphrase "id=c5">constructive trust</catchphrase>
-<catchphrase "id=c6">barnes v addy knowing receipt claim</catchphrase>
-<catchphrase "id=c7">necessary elements</catchphrase>
-<catchphrase "id=c8">requisite state of knowledge</catchphrase>
-<catchphrase "id=c9">declaration of trust</catchphrase>
-<catchphrase "id=c10">whether substantial shareholder notice amounts to declaration</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
-<catchphrase "id=c12">trusts and trustees</catchphrase>
+<catchphrase id="c0">differences between strike-out and summary judgment</catchphrase>
+<catchphrase id="c1">test to be applied</catchphrase>
+<catchphrase id="c2">defective pleadings</catchphrase>
+<catchphrase id="c3">discovery in aid</catchphrase>
+<catchphrase id="c4">whether permissible</catchphrase>
+<catchphrase id="c5">constructive trust</catchphrase>
+<catchphrase id="c6">barnes v addy knowing receipt claim</catchphrase>
+<catchphrase id="c7">necessary elements</catchphrase>
+<catchphrase id="c8">requisite state of knowledge</catchphrase>
+<catchphrase id="c9">declaration of trust</catchphrase>
+<catchphrase id="c10">whether substantial shareholder notice amounts to declaration</catchphrase>
+<catchphrase id="c11">practice and procedure</catchphrase>
+<catchphrase id="c12">trusts and trustees</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -136,7 +136,7 @@
 <sentence id="s111">Accordingly, that part of the pleading alleging a declaration of trust in respect of the statutory notices must be struck out.</sentence>
 <sentence id="s112">27 It is convenient now to move to the question of knowledge.</sentence>
 <sentence id="s113">As noted earlier, actual knowledge is required to establish secondary liability in respect of the statutory claims.</sentence>
-<sentence id="s114">Precisely what constitutes knowledge for purposes of a Barnes v Addy knowing receipt claim has not been explicitly settled by the High Court, but I consider that the cases establish that it is sufficient to plead and prove knowledge of facts that would put an honest and reasonable person on notice (but not merely inquiry) of a real and not remote risk that the transfer was in breach of trust or fiduciary duty or involved the misapplication of trust property: Kalls Enterprises Pty Ltd (in liq) v Baloglow [2007] NSWCA 191 ; (2007) 63 ACSR 557 at [199] ; Spangaro at [60]; see also Baden v Societe Generale pour Favouriser le Development du Commerce et de l'Industrie en France SA [1993] 1 WLR 509, 575-76; Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 230 CLR 89 at [148]-[158]; Hancock Family Memorial Foundation Ltd v Porteous [1999] WASC 55 ; (1999) 32 ACSR 124 at [79] ; Koorootang Nominees Pty Ltd v Australia &amp; New Zealand Banking Group Ltd [1998] 3 VR 16, 85 and 105.</sentence>
+<sentence id="s114">Precisely what constitutes knowledge for purposes of a Barnes v Addy knowing receipt claim has not been explicitly settled by the High Court, but I consider that the cases establish that it is sufficient to plead and prove knowledge of facts that would put an honest and reasonable person on notice (but not merely inquiry) of a real and not remote risk that the transfer was in breach of trust or fiduciary duty or involved the misapplication of trust property: Kalls Enterprises Pty Ltd (in liq) v Baloglow [2007] NSWCA 191 ; (2007) 63 ACSR 557 at [199] ; Spangaro at [60]; see also Baden v Societe Generale pour Favouriser le Development du Commerce et de l'Industrie en France SA [1993] 1 WLR 509, 575-76; Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 230 CLR 89 at [148]-[158]; Hancock Family Memorial Foundation Ltd v Porteous [1999] WASC 55 ; (1999) 32 ACSR 124 at [79] ; Koorootang Nominees Pty Ltd v Australia &amp;amp; New Zealand Banking Group Ltd [1998] 3 VR 16, 85 and 105.</sentence>
 <sentence id="s115">28 However, what that formulation means is itself debatable.</sentence>
 <sentence id="s116">As I noted in Spangaro (at [58]), the proliferation and refinement of various categories of "knowledge" in this area of the law is unhelpful at best.</sentence>
 <sentence id="s117">In my view, it would be simpler to adopt a uniform approach to Barnes v Addy scienter based on the standard categories of mens rea (in descending order): (1) intent; (2) actual knowledge; (3) recklessness (which I would define in these circumstances as a conscious disregard of a substantial and unjustifiable risk that the property was subject to a trust and was received pursuant to a breach of trust or of fiduciary duty or a misapplication of trust property); (4) negligence (here, a failure to perceive a substantial and unjustifiable risk that the property was so received); and (5) strict liability.</sentence>
@@ -196,7 +196,7 @@
 <sentence id="s169">The appropriate course is to allow the banks time to consider any further amended statement of claim and then bring a renewed strike-out motion if they are so advised.</sentence>
 <sentence id="s170">41 Second, as to the class action issues, I think postponing them until after discovery is the better course as well.</sentence>
 <sentence id="s171">If it emerges that the applicant still cannot plead knowledge, the class action issues will become moot.</sentence>
-<sentence id="s172">Moreover, it is only with the benefit of discovery that the parties and the court will be properly positioned to assess whether there are common questions such as to justify the continuation of the proceeding in its present form: see eg Johnson v GEICO Casualty Co 516 FSupp2d 351 , 357 (DDel 2007) (declining to hear arguments relating to class certification in connection with a motion to dismiss and postponing their consideration until class certification proceedings to be conducted after discovery); see also Weiss v Regal Collections [2004] USCA3 218 ; 385 F3d 337 , 347 (3d Cir 2004) (stating that federal courts do not "require or encourage premature certification determinations"); Newton v Merrill Lynch, Pierce, Fenner &amp; Smith 259 F3d 154 , 166 (3d Cir 2001) (noting that issues related to class certification should be considered separately from strike-out issues because it may be necessary to go behind the pleadings to determine whether an action should proceed on a class basis); 7B Charles Alan Wright &amp; Arthur R. Miller, Federal Practice and Procedure SS 1785.3 (1969) ("[C]ourts frequently have ruled that discovery relating to the issue whether a class action is appropriate needs to be undertaken before deciding whether to allow the action to proceed on a class basis.").</sentence>
+<sentence id="s172">Moreover, it is only with the benefit of discovery that the parties and the court will be properly positioned to assess whether there are common questions such as to justify the continuation of the proceeding in its present form: see eg Johnson v GEICO Casualty Co 516 FSupp2d 351 , 357 (DDel 2007) (declining to hear arguments relating to class certification in connection with a motion to dismiss and postponing their consideration until class certification proceedings to be conducted after discovery); see also Weiss v Regal Collections [2004] USCA3 218 ; 385 F3d 337 , 347 (3d Cir 2004) (stating that federal courts do not "require or encourage premature certification determinations"); Newton v Merrill Lynch, Pierce, Fenner &amp;amp; Smith 259 F3d 154 , 166 (3d Cir 2001) (noting that issues related to class certification should be considered separately from strike-out issues because it may be necessary to go behind the pleadings to determine whether an action should proceed on a class basis); 7B Charles Alan Wright &amp;amp; Arthur R. Miller, Federal Practice and Procedure SS 1785.3 (1969) ("[C]ourts frequently have ruled that discovery relating to the issue whether a class action is appropriate needs to be undertaken before deciding whether to allow the action to proceed on a class basis.").</sentence>
 <sentence id="s173">42 For example, it will likely turn out that there are some investors whose shares went to only one of the banks, some whose shares went to none of the banks, and some whose shares went to both.</sentence>
 <sentence id="s174">It may also turn out, after discovery, that the banks had differing levels of knowledge or that they had knowledge only in respect of Opes' transactions with particular investors.</sentence>
 <sentence id="s175">Further, suppose that one bank makes a settlement offer but not the other.</sentence>
@@ -212,7 +212,7 @@ Dated: 17 December 2008
  Counsel for the Applicant: F Douglas QC
 L Armstrong 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater &amp;amp; Gordon 
  
  Counsel for the Second and Third Respondents: A C Archibald QC
 P Crutchfield

@@ -3,13 +3,13 @@
 <name>Drew v Dibb [2008] FCA 1057 (17 July 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1057.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">customs duties</catchphrase>
-<catchphrase "id=c1">when obligation incurred</catchphrase>
-<catchphrase "id=c2">obligation incurred on importation not entry for home consumption</catchphrase>
-<catchphrase "id=c3">whether lack of market value is relevant to whether goods are "dutiable goods"</catchphrase>
-<catchphrase "id=c4">whether section 35a duty to keep safe is applicable to warehouse licensees</catchphrase>
-<catchphrase "id=c5">whether a collector must be satisfied by an accounting for lost or stolen goods that the goods had little value at the time of the loss or theft</catchphrase>
-<catchphrase "id=c6">customs</catchphrase>
+<catchphrase id="c0">customs duties</catchphrase>
+<catchphrase id="c1">when obligation incurred</catchphrase>
+<catchphrase id="c2">obligation incurred on importation not entry for home consumption</catchphrase>
+<catchphrase id="c3">whether lack of market value is relevant to whether goods are "dutiable goods"</catchphrase>
+<catchphrase id="c4">whether section 35a duty to keep safe is applicable to warehouse licensees</catchphrase>
+<catchphrase id="c5">whether a collector must be satisfied by an accounting for lost or stolen goods that the goods had little value at the time of the loss or theft</catchphrase>
+<catchphrase id="c6">customs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -156,7 +156,7 @@ Dated: 17 July 2008
  
  Counsel for the Respondents: J Slonim 
  
- Solicitor for the Respondents: Moray &amp; Agnew 
+ Solicitor for the Respondents: Moray &amp;amp; Agnew 
 
  Date of Hearing: 5 June 2008 
  

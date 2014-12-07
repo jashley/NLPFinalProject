@@ -3,12 +3,12 @@
 <name>SZMIP v Minister for Immigration and Citizenship [2009] FCA 217 (12 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/217.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">failure to identify grounds of appeal from decision of magistrate</catchphrase>
-<catchphrase "id=c1">standard form notice of appeal</catchphrase>
-<catchphrase "id=c2">lack of consistency in decisions</catchphrase>
-<catchphrase "id=c3">no error in not resolving a claim not previously advanced</catchphrase>
-<catchphrase "id=c4">appeal dismissed</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase id="c0">failure to identify grounds of appeal from decision of magistrate</catchphrase>
+<catchphrase id="c1">standard form notice of appeal</catchphrase>
+<catchphrase id="c2">lack of consistency in decisions</catchphrase>
+<catchphrase id="c3">no error in not resolving a claim not previously advanced</catchphrase>
+<catchphrase id="c4">appeal dismissed</catchphrase>
+<catchphrase id="c5">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -225,13 +225,13 @@ The same construction was given to s 430 by the then Chief Justice: [2001] HCA 3
 
  
  [60] In SGBB v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCA 709 ; (2003) 199 ALR 364 at 368 [17] , Selway J referred to the observation by Kirby J in Dranichniko v, at 405, that '[t]he function of the Tribunal, as of the delegate, is to respond to the case that the applicant advances'.</sentence>
-<sentence id="s144">He also referred to the observation by von Doussa J in SCAL v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 548 that '[n]either the delegate nor the Tribunal is obliged to consider claims that have not been made' (at [16]).</sentence>
+<sentence id="s144">He also referred to the observation by von Doussa J in SCAL v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2003] FCA 548 that '[n]either the delegate nor the Tribunal is obliged to consider claims that have not been made' (at [16]).</sentence>
 <sentence id="s145">Selway J however went on to observe in SGBB (at [17]): 
 
  
 But this does not mean the application is to be treated as an exercise in 19th Century pleading.</sentence>
 <sentence id="s146">
- His Honour noted that the Full Court in Dranichnikov v Minister for Immigration &amp; Multicultural Affairs [2000] FCA 1801 at [49] had said: 
+ His Honour noted that the Full Court in Dranichnikov v Minister for Immigration &amp;amp; Multicultural Affairs [2000] FCA 1801 at [49] had said: 
 
  
 The Tribunal must, of course, deal with the case raised by the material and evidence before it.</sentence>

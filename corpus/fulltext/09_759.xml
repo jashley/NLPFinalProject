@@ -3,15 +3,15 @@
 <name>GG v Australian Crime Commission [2009] FCA 759 (20 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/759.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">challenge to two summonses issued by second respondent under australian crime commission act 2002 (cth)</catchphrase>
-<catchphrase "id=c1">whether summonses invalid because second respondent failed to record in writing reasons for issuing summonses</catchphrase>
-<catchphrase "id=c2">whether summonses invalid because second respondent failed to record in accordance with act reasons in writing for issuing summonses</catchphrase>
-<catchphrase "id=c3">whether second respondent could not have been satisfied that it was reasonable in all circumstances to issue summonses</catchphrase>
-<catchphrase "id=c4">whether second summons invalid because it did not require applicant to give evidence as "witness"</catchphrase>
-<catchphrase "id=c5">whether second summons invalid because it was not accompanied by written statement of rights and obligations</catchphrase>
-<catchphrase "id=c6">whether second summons invalid because copy of determination did not accompany summons or, alternatively, determination invalid</catchphrase>
-<catchphrase "id=c7">whether second respondent exercised power to issue summons correctly</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
+<catchphrase id="c0">challenge to two summonses issued by second respondent under australian crime commission act 2002 (cth)</catchphrase>
+<catchphrase id="c1">whether summonses invalid because second respondent failed to record in writing reasons for issuing summonses</catchphrase>
+<catchphrase id="c2">whether summonses invalid because second respondent failed to record in accordance with act reasons in writing for issuing summonses</catchphrase>
+<catchphrase id="c3">whether second respondent could not have been satisfied that it was reasonable in all circumstances to issue summonses</catchphrase>
+<catchphrase id="c4">whether second summons invalid because it did not require applicant to give evidence as "witness"</catchphrase>
+<catchphrase id="c5">whether second summons invalid because it was not accompanied by written statement of rights and obligations</catchphrase>
+<catchphrase id="c6">whether second summons invalid because copy of determination did not accompany summons or, alternatively, determination invalid</catchphrase>
+<catchphrase id="c7">whether second respondent exercised power to issue summons correctly</catchphrase>
+<catchphrase id="c8">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -73,12 +73,12 @@ The examiner sets out his conclusions under the heading "Consideration":
 <sentence id="s43">The examiner prepared written reasons for his decision to issue the second summons.</sentence>
 <sentence id="s44">There were some differences between the examiner's reasons for issuing the second summons and his reasons for issuing the first summons.</sentence>
 <sentence id="s45">The "federally relevant criminal activity" involved, not only the applicant's knowledge of the activity of others, but also his own activity.</sentence>
-<sentence id="s46">Furthermore, the material the examiner had regard to included, not only a Statement of Facts and Circumstances document dated 23 October 2008 and Legal Submissions document dated 22 October 2008, but also "&#169; My knowledge obtained from a recent examination".</sentence>
+<sentence id="s46">Furthermore, the material the examiner had regard to included, not only a Statement of Facts and Circumstances document dated 23 October 2008 and Legal Submissions document dated 22 October 2008, but also "&amp;#169; My knowledge obtained from a recent examination".</sentence>
 <sentence id="s47">The following appears under the heading "Material Facts": 
  "I had regard to the following material for the purposes of being satisfied under subsection 28(1A) of the Australian Crime Commission Act 2002 (Cth) (the Act) that it was reasonable in all the circumstances to issue the summons:
  (a) A statement of facts and circumstances dated 23 October 2008,
  (b) Legal submissions dated 22 October 2008 and
- &#169; My knowledge obtained from a recent examination.</sentence>
+ &amp;#169; My knowledge obtained from a recent examination.</sentence>
 <sentence id="s48">" 
 
  
@@ -582,7 +582,7 @@ There is no definition in the Act of "investigation".</sentence>
 <sentence id="s272">It seems to me that, looking at the documents as a whole, it has not been established that the second respondent misunderstood the nature of the instrument pursuant to which he was issuing the summons.</sentence>
 <sentence id="s273">It is more likely that some of the dangers of using a standard form document have been realised (see the observations of the Full Court of this Court in Australian Crime Commission v NTD8 [2009] FCAFC 86 at [34]).</sentence>
 <sentence id="s274">The second ground upon which the applicant challenged the second respondent's decision to issue the second summons was that he misunderstood the exercise he was performing.</sentence>
-<sentence id="s275">The applicant referred to the fact that the Legal Submissions document is referred to under the heading, "Material Facts" and to the fact that in one part of the reasons he states that he had regard to "&#169; My knowledge obtained from a recent examination" and yet when setting out his conclusions under the heading "Consideration" he makes no reference to that piece of information.</sentence>
+<sentence id="s275">The applicant referred to the fact that the Legal Submissions document is referred to under the heading, "Material Facts" and to the fact that in one part of the reasons he states that he had regard to "&amp;#169; My knowledge obtained from a recent examination" and yet when setting out his conclusions under the heading "Consideration" he makes no reference to that piece of information.</sentence>
 <sentence id="s276">It seems to me that, however one looks at those matters, neither of them establishes an error which is a jurisdictional error.</sentence>
 <sentence id="s277">The third ground upon which the applicant challenged the second respondent's decision to issue the second summons is that the second respondent did not consider, or properly consider, the inclusion of the notation referred to in s 29A of the Act.</sentence>
 <sentence id="s278">In formulating his reasons for including the notation, there is nothing to prevent the second respondent from relying on each of paragraphs (a), (b) and (c) in s 29A(2) (see [35] above).</sentence>
@@ -625,7 +625,7 @@ The subject of a notice under s 29(1) of the Act was irrelevant because such a n
 <sentence id="s303">First, it is based on the assumption that the first summons was as broad as it could have been on the material then available.</sentence>
 <sentence id="s304">The correctness of that assumption has not been established.</sentence>
 <sentence id="s305">Secondly, it requires me to draw inferences about the material before the second respondent at the time he issued the second summons in circumstances where there is no basis for me to do that.</sentence>
-<sentence id="s306">In fact, the reference to "&#169; My knowledge obtained from a recent examination" suggests that there was additional material.</sentence>
+<sentence id="s306">In fact, the reference to "&amp;#169; My knowledge obtained from a recent examination" suggests that there was additional material.</sentence>
 <sentence id="s307">The fifth ground upon which the applicant challenged the second respondent's decision to issue the second summons is that the second respondent did not take into account, in reaching his decision, the fact that the first summons had been issued and served on the applicant.</sentence>
 <sentence id="s308">The second respondent plainly had the power to issue the second summons (see s 33(1) of the Acts Interpretation Act ) and the fact is that, by mistake, the wrong time (that is, 1.00 am instead of 1.00 pm) was included on the first summons.</sentence>
 <sentence id="s309">Plainly, the second respondent would have been aware of the circumstances surrounding the first summons.</sentence>
@@ -713,7 +713,7 @@ I accepted that argument.</sentence>
  
  In my opinion, the Commissioner of the Australian Federal Police is mentioned or referred to in the ACC Act in general terms , such that the deeming provision in s 20 of the Acts Interpretation Act is engaged.</sentence>
 <sentence id="s367">I have reached that conclusion for a number of reasons.</sentence>
-<sentence id="s368">First, there are some authorities that touch on s 20 of the Acts Interpretation Act and, so far as they go, they suggest that there is no distinction of the type advanced by the applicant: Smith Kline &amp; French Laboratories (Aust) Ltd v Secretary, Department of Community Services and Health [1989] FCA 384 ; (1990) 22 FCR 73 at 75 per Gummow J; Registrar of Aboriginal Corporations v Barker (1997) 81 FCR 53 ; Lim v Secretary, Department of Education, Employment and Workplace Relations (No 2) [2008] FCA 1752 at [44] per Bennett J; Gazal Apparel Pty Ltd v Davies (2007) 247 LSJS 391 at 396 [35] per Doyle CJ.</sentence>
+<sentence id="s368">First, there are some authorities that touch on s 20 of the Acts Interpretation Act and, so far as they go, they suggest that there is no distinction of the type advanced by the applicant: Smith Kline &amp;amp; French Laboratories (Aust) Ltd v Secretary, Department of Community Services and Health [1989] FCA 384 ; (1990) 22 FCR 73 at 75 per Gummow J; Registrar of Aboriginal Corporations v Barker (1997) 81 FCR 53 ; Lim v Secretary, Department of Education, Employment and Workplace Relations (No 2) [2008] FCA 1752 at [44] per Bennett J; Gazal Apparel Pty Ltd v Davies (2007) 247 LSJS 391 at 396 [35] per Doyle CJ.</sentence>
 <sentence id="s369">Secondly, the subject of what is to be mentioned or referred to in general terms is not the office or position itself, but the person holding or occupying a particular office or position.</sentence>
 <sentence id="s370">There is no reason why that should be restricted only to those cases where the person is a member of a class of persons.</sentence>
 <sentence id="s371">The distinction suggested by the applicant seems to me to be an artificial one.</sentence>
@@ -978,7 +978,7 @@ Dated: 20 July 2009
  
  Counsel for the Applicant: Mr M L Abbott QC 
  
- Solicitor for the Applicant: Patsouris &amp; Associates 
+ Solicitor for the Applicant: Patsouris &amp;amp; Associates 
  
  Counsel for the Respondents: Ms S J Maharaj QC 
  

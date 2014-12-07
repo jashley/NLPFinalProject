@@ -3,13 +3,13 @@
 <name>Whittingham, in the matter of the Spanish Club Ltd [2009] FCA 1158 (19 October 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1158.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">deed of company arrangement (doca)</catchphrase>
-<catchphrase "id=c1">doca obliged doca administrator to cause company to convene general meeting of members for the purpose of their electing a new board of directors</catchphrase>
-<catchphrase "id=c2">s 249h(1) of corporations act 2001 (cth) (the act) required that at least 21 days' notice be given of a meeting of a company's members</catchphrase>
-<catchphrase "id=c3">company's constitution required that members have at least until 21 days before annual general meeting (agm) to nominate persons for election as directors at agm</catchphrase>
-<catchphrase "id=c4">s 444g of the act (within pt 5.3a) made doca binding on doca administrator</catchphrase>
-<catchphrase "id=c5">doca administrator could not comply with both s 249h(1) and s 444g and doca in so far as doca incorporated, by reference, company's constitution and its requirement touching agms. held : order made under s 447a of the act providing for closing of nominations earlier than 21 days before date fixed for agm.</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase id="c0">deed of company arrangement (doca)</catchphrase>
+<catchphrase id="c1">doca obliged doca administrator to cause company to convene general meeting of members for the purpose of their electing a new board of directors</catchphrase>
+<catchphrase id="c2">s 249h(1) of corporations act 2001 (cth) (the act) required that at least 21 days' notice be given of a meeting of a company's members</catchphrase>
+<catchphrase id="c3">company's constitution required that members have at least until 21 days before annual general meeting (agm) to nominate persons for election as directors at agm</catchphrase>
+<catchphrase id="c4">s 444g of the act (within pt 5.3a) made doca binding on doca administrator</catchphrase>
+<catchphrase id="c5">doca administrator could not comply with both s 249h(1) and s 444g and doca in so far as doca incorporated, by reference, company's constitution and its requirement touching agms. held : order made under s 447a of the act providing for closing of nominations earlier than 21 days before date fixed for agm.</catchphrase>
+<catchphrase id="c6">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -104,7 +104,7 @@ Dated: 19 October 2009
  
  
  
- 28 &amp; 29 September 2009 
+ 28 &amp;amp; 29 September 2009 
  
  
  

@@ -3,16 +3,16 @@
 <name>South Steyne Hotel Pty Ltd v Commissioner of Taxation (corrigendum 30 January 2009) [2009] FCA 13 (16 January 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/13.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">goods and services tax</catchphrase>
-<catchphrase "id=c1">characterisation of four categories of supply made in connection with individual lots in a strata plan used, together, as rooms in a hotel</catchphrase>
-<catchphrase "id=c2">supply by way of lease of the lots</catchphrase>
-<catchphrase "id=c3">supply by way of sale of the lots</catchphrase>
-<catchphrase "id=c4">supply by way of continuation of lease by purchaser of the lots subject to lease</catchphrase>
-<catchphrase "id=c5">supply of hotel room to guest</catchphrase>
-<catchphrase "id=c6">whether supplies were input taxed, gst-free or a taxable supply</catchphrase>
-<catchphrase "id=c7">" residential premises ", " commercial residential premises ", " residential accommodation "</catchphrase>
-<catchphrase "id=c8">taxation</catchphrase>
-<catchphrase "id=c9">words and phrases</catchphrase>
+<catchphrase id="c0">goods and services tax</catchphrase>
+<catchphrase id="c1">characterisation of four categories of supply made in connection with individual lots in a strata plan used, together, as rooms in a hotel</catchphrase>
+<catchphrase id="c2">supply by way of lease of the lots</catchphrase>
+<catchphrase id="c3">supply by way of sale of the lots</catchphrase>
+<catchphrase id="c4">supply by way of continuation of lease by purchaser of the lots subject to lease</catchphrase>
+<catchphrase id="c5">supply of hotel room to guest</catchphrase>
+<catchphrase id="c6">whether supplies were input taxed, gst-free or a taxable supply</catchphrase>
+<catchphrase id="c7">" residential premises ", " commercial residential premises ", " residential accommodation "</catchphrase>
+<catchphrase id="c8">taxation</catchphrase>
+<catchphrase id="c9">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,7 +36,7 @@
 <sentence id="s8">Each Apartment was sold subject to the applicable leave to MML.</sentence>
 <sentence id="s9">Each contract for sale permitted the purchaser to participate in a 'Management Rights Scheme', which mirrored the scheme provided for under the lease agreements.</sentence>
 <sentence id="s10">Each purchaser elected to participate in the Scheme;
- (f) On 17-18 October 2007, Ms Emily Young, an employee of the third applicant ("Morgan &amp; Banks"), stayed at Apartment 403 and made use of various services available to guests of the Sebel Complex.</sentence>
+ (f) On 17-18 October 2007, Ms Emily Young, an employee of the third applicant ("Morgan &amp;amp; Banks"), stayed at Apartment 403 and made use of various services available to guests of the Sebel Complex.</sentence>
 <sentence id="s11">
  The applicants' outline of submissions contains more detail, much of which is irrelevant to the question at issue; however some amplification of the bald facts provided by the respondent gives the flavour of the enterprise in which the applicants were engaged.</sentence>
 <sentence id="s12">The Hotel contains 83 guest rooms, a reception area, restaurant, bar, swimming pool and conference rooms.</sentence>
@@ -160,7 +160,7 @@
 <sentence id="s85">They recognise use of the expression in connection with hotels but generally suggest that such usage describes an hotel that caters for long-term residents.</sentence>
 <sentence id="s86">We accept that it is not uncommon to speak of long-term residents in an hotel, but when one speaks of persons who stay for shorter terms, the more common usage is to describe them as "guests".</sentence>
 <sentence id="s87">
- The Full Court referred to several English decisions in which it had been held that the expression "residential accommodation" was significantly wider than the term "residence" and encompassed lodging, sleeping or overnight accommodation irrespective of the term of the occupation: Urdd Gobaith Cymru v Commissioner of Customs and Excise [1997] V &amp; DR 273; Denman College v Commissioners of Customs and Excise [1998] V &amp; DR 399; Owen v Elliott (Inspector of Taxes) [1990] 1 Ch 786.</sentence>
+ The Full Court referred to several English decisions in which it had been held that the expression "residential accommodation" was significantly wider than the term "residence" and encompassed lodging, sleeping or overnight accommodation irrespective of the term of the occupation: Urdd Gobaith Cymru v Commissioner of Customs and Excise [1997] V &amp;amp; DR 273; Denman College v Commissioners of Customs and Excise [1998] V &amp;amp; DR 399; Owen v Elliott (Inspector of Taxes) [1990] 1 Ch 786.</sentence>
 <sentence id="s88">Rejecting this wider meaning of "residence" and "residential", the Full Court agreed with the trial judge that the statutory definition focused upon the word "residence" and held, at 310, that: 
  ... such definition, taken in isolation, can only include premises which are either used as a residence or are intended to be, and are capable of being so used.</sentence>
 <sentence id="s89">In common usage, that dictates the element of permanent or long-term occupation to which we have referred.</sentence>
@@ -498,7 +498,7 @@ The Tribunal accepted that the building was not a "residence" but said that it d
 <sentence id="s335">MML is not a natural person.</sentence>
 <sentence id="s336">I have therefore concluded that, pursuant to s 40-35(1), the third supply made by MBI to MML was input taxed.</sentence>
 <sentence id="s337">The fourth supply
- In September 2007 Ms Emily Young booked accommodation at the Hotel at the direction of her employer who is the third applicant, Morgan &amp; Banks Investments Pty Ltd. On 17 October 2007 Ms Young checked into the Hotel and spent the night in room 403.</sentence>
+ In September 2007 Ms Emily Young booked accommodation at the Hotel at the direction of her employer who is the third applicant, Morgan &amp;amp; Banks Investments Pty Ltd. On 17 October 2007 Ms Young checked into the Hotel and spent the night in room 403.</sentence>
 <sentence id="s338">A tax invoice issued by MHL in respect of Ms Young's accommodation shows that she made use of many of the Hotel's facilities such as room service for dinner and breakfast, car parking, mini bar snacks, and in-house movies.</sentence>
 <sentence id="s339">She checked out on 18 October and paid, by Visa card, the amount of $452.95 in accordance with the invoice provided by MHL.</sentence>
 <sentence id="s340">At issue between the parties is the characterisation of this supply by MML to Ms Young for the purposes of the GST Act .</sentence>
@@ -532,7 +532,7 @@ Dated: 16 January 2009
  
  Counsel for the Applicants: A Robertson SC, S Free 
  
- Solicitor for the Applicants: Baker &amp; McKenzie 
+ Solicitor for the Applicants: Baker &amp;amp; McKenzie 
  
  Counsel for the Respondent: M A Wigney SC, D F C Thomas 
  

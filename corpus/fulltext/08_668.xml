@@ -3,15 +3,15 @@
 <name>Muc v Commissioner of Taxation [2008] FCA 668 (16 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/668.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">administration</catchphrase>
-<catchphrase "id=c1">late payment penalties</catchphrase>
-<catchphrase "id=c2">general interest charge</catchphrase>
-<catchphrase "id=c3">application for judicial review of decision by a delegate of the deputy commissioner to disallow remission of gic</catchphrase>
-<catchphrase "id=c4">decision to uphold the earlier decision is the effective or operative decision in these proceedings</catchphrase>
-<catchphrase "id=c5">alleged error of law and improper exercise of power</catchphrase>
-<catchphrase "id=c6">discretion to remit all or part of the charge payable</catchphrase>
-<catchphrase "id=c7">respondent to reconsider the applicant's further application for remission</catchphrase>
-<catchphrase "id=c8">income tax</catchphrase>
+<catchphrase id="c0">administration</catchphrase>
+<catchphrase id="c1">late payment penalties</catchphrase>
+<catchphrase id="c2">general interest charge</catchphrase>
+<catchphrase id="c3">application for judicial review of decision by a delegate of the deputy commissioner to disallow remission of gic</catchphrase>
+<catchphrase id="c4">decision to uphold the earlier decision is the effective or operative decision in these proceedings</catchphrase>
+<catchphrase id="c5">alleged error of law and improper exercise of power</catchphrase>
+<catchphrase id="c6">discretion to remit all or part of the charge payable</catchphrase>
+<catchphrase id="c7">respondent to reconsider the applicant's further application for remission</catchphrase>
+<catchphrase id="c8">income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -33,7 +33,7 @@
 <sentence id="s13">BACKGROUND 
  
 6 The applicant is a solicitor.</sentence>
-<sentence id="s14">At all relevant times, she conducted a legal practice under the name of G H Healey &amp; Co, Sydney.</sentence>
+<sentence id="s14">At all relevant times, she conducted a legal practice under the name of G H Healey &amp;amp; Co, Sydney.</sentence>
 <sentence id="s15">7 On 15 January 2003, the Deputy Commissioner issued proceedings out of the District Court at Newcastle (later transferred to Sydney: No.</sentence>
 <sentence id="s16">3816 of 2004) against the applicant claiming $291,921.09 for income tax as assessed for the year ended 30 June 2000 plus GIC thereon less payments/credits (net $84,024.34) and running balance account ('RBA') deficit debt of $207,896.75.</sentence>
 <sentence id="s17">8 On 5 August 2003, the Deputy Commissioner issued proceedings out of the District Court at Newcastle (later transferred to Sydney: No.</sentence>
@@ -70,7 +70,7 @@ GIC = General interest charge
 <sentence id="s33">' THE EFFECTIVE OR OPERATIVE DECISION 
  
 16 In my view, there can be no real doubt that the effective or operative decision was the second decision.</sentence>
-<sentence id="s34">First, it was a review or reconsideration of the first decision; second, it was made by a delegate of the Deputy Commissioner who, at the relevant time, was at a higher level to the delegate of the Deputy Commissioner who made the first decision: see Amcor Ltd v Comptroller-General of Customs (1988) 79 ALR 221 at 226; Corinthian Industries (Syd) Pty Ltd v Comptroller-General of Customs &amp; Ors (1989) 86 ALR 387 at 388; Universal Magazines Pty Ltd v Comptroller-General of Customs [1990] FCA 244 ; (1990) 21 ALD 502 at 503, 504; and Post Office Agents Association Ltd &amp; Anor v Australian Postal Commission (1988) 84 ALR 563 at 571.</sentence>
+<sentence id="s34">First, it was a review or reconsideration of the first decision; second, it was made by a delegate of the Deputy Commissioner who, at the relevant time, was at a higher level to the delegate of the Deputy Commissioner who made the first decision: see Amcor Ltd v Comptroller-General of Customs (1988) 79 ALR 221 at 226; Corinthian Industries (Syd) Pty Ltd v Comptroller-General of Customs &amp;amp; Ors (1989) 86 ALR 387 at 388; Universal Magazines Pty Ltd v Comptroller-General of Customs [1990] FCA 244 ; (1990) 21 ALD 502 at 503, 504; and Post Office Agents Association Ltd &amp;amp; Anor v Australian Postal Commission (1988) 84 ALR 563 at 571.</sentence>
 <sentence id="s35">17 The applicant's written submissions were principally directed to alleged legal errors by the Deputy Commissioner in making the first decision.</sentence>
 <sentence id="s36">However, those same submissions contended that if the second decision '... is in truth to be regarded as the "operative decision", the later [second] decision is vitiated by the same legal errors as the first and should be quashed'.</sentence>
 <sentence id="s37">This is reflected in the form of the further amended application filed by the applicant after the hearing (see [5] above) in which the first and second decisions were assailed in the alternative, but on the same grounds.</sentence>
@@ -169,7 +169,7 @@ However, there is no suggestion in that letter, or in the Deputy Commissioner's 
 <sentence id="s66">
  
 
-This ground is totally flawed because it is clear from the applicant's letter of 14 July 2006 that the GIC on which she sought remission was not in respect of assessments of income tax but rather in respect of running balance accounts of her business trading as 'G H Healey &amp; Co.' Consequently, the fact that the applicant put into dispute the primary liabilities under such assessments by objection, or had sought extensions of time in which to lodge objections against such assessments, applications for which had not been dealt with or had been refused, is totally irrelevant.</sentence>
+This ground is totally flawed because it is clear from the applicant's letter of 14 July 2006 that the GIC on which she sought remission was not in respect of assessments of income tax but rather in respect of running balance accounts of her business trading as 'G H Healey &amp;amp; Co.' Consequently, the fact that the applicant put into dispute the primary liabilities under such assessments by objection, or had sought extensions of time in which to lodge objections against such assessments, applications for which had not been dealt with or had been refused, is totally irrelevant.</sentence>
 <sentence id="s67">(b) the Deputy Commissioner took irrelevant considerations into account in making the decision(s) (subs 5(2)(a)), namely:
  
  
@@ -239,7 +239,7 @@ Dated: 16 May 2008
 
  Counsel for the Applicant: Mr J Hmelnitsky 
  
- Solicitor for the Applicant: G H Healey &amp; Co 
+ Solicitor for the Applicant: G H Healey &amp;amp; Co 
  
  Counsel for the Respondent: Mr R Quinn 
  

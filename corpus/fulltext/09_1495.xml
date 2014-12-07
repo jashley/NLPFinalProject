@@ -3,16 +3,16 @@
 <name>Aristocrat Technologies Australia Pty Ltd v Global Gaming Supplies Pty Ltd [2009] FCA 1495 (15 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1495.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">copyright infringement in gaming machines parts and components</catchphrase>
-<catchphrase "id=c1">infringement inferred from circumstantial evidence</catchphrase>
-<catchphrase "id=c2">burden of proof</catchphrase>
-<catchphrase "id=c3">authorisation of copyright infringement</catchphrase>
-<catchphrase "id=c4">joint liability</catchphrase>
-<catchphrase "id=c5">claim in conversion for resale of components acquired from scrap dealer fails</catchphrase>
-<catchphrase "id=c6">scrap dealer not a bailee of the goods</catchphrase>
-<catchphrase "id=c7">infringement of copyright established</catchphrase>
-<catchphrase "id=c8">damages and additional damages ordered.</catchphrase>
-<catchphrase "id=c9">copyright</catchphrase>
+<catchphrase id="c0">copyright infringement in gaming machines parts and components</catchphrase>
+<catchphrase id="c1">infringement inferred from circumstantial evidence</catchphrase>
+<catchphrase id="c2">burden of proof</catchphrase>
+<catchphrase id="c3">authorisation of copyright infringement</catchphrase>
+<catchphrase id="c4">joint liability</catchphrase>
+<catchphrase id="c5">claim in conversion for resale of components acquired from scrap dealer fails</catchphrase>
+<catchphrase id="c6">scrap dealer not a bailee of the goods</catchphrase>
+<catchphrase id="c7">infringement of copyright established</catchphrase>
+<catchphrase id="c8">damages and additional damages ordered.</catchphrase>
+<catchphrase id="c9">copyright</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -108,7 +108,7 @@
  s 115(2) of the Copyright Act , no further claim for damages under the Trade Practices Act 1974 (Cth) would be appropriate.</sentence>
 <sentence id="s82">
  3.4 Conversion of Behong stock 
- The Aristocrat companies make a claim against the Tonita respondents for conversion of a large number of items of stock and equipment acquired by those respondents from Behong Import &amp; Export (Australia) Pty Ltd ("Behong"), a scrap merchant located in Sydney.</sentence>
+ The Aristocrat companies make a claim against the Tonita respondents for conversion of a large number of items of stock and equipment acquired by those respondents from Behong Import &amp;amp; Export (Australia) Pty Ltd ("Behong"), a scrap merchant located in Sydney.</sentence>
 <sentence id="s83">Behong was appointed by one of the Aristocrat companies as its authorised scrap collector.</sentence>
 <sentence id="s84">I will refer in more detail below to the basis upon which the claim of conversion is made.</sentence>
 <sentence id="s85">It is sufficient to say by way of introduction that the Aristocrat companies claim that the effect of their contractual arrangements with Behong was that Behong was prevented from on-selling for reuse as gaming machine equipment the stock obtained by Behong under the scrapping contract.</sentence>
@@ -154,7 +154,7 @@
 <sentence id="s115">It is engaged in the manufacture and supply of Aristocrat gaming machines in North and South America.</sentence>
 <sentence id="s116">The Aristocrat companies led evidence that under the Aristocrat corporate group's internal organisational arrangements, Aristocrat is the designated holder of all of their intellectual property.</sentence>
 <sentence id="s117">They summarised the relevant licence arrangements in the table below.</sentence>
-<sentence id="s118">Agreement title Parties Date of execution Term Summary of relevant IP provisions Head Distribution &amp; Intellectual Property Licence Agreement Aristocrat AI 19/07/2006 Commenced 1 Jan 2005.</sentence>
+<sentence id="s118">Agreement title Parties Date of execution Term Summary of relevant IP provisions Head Distribution &amp;amp; Intellectual Property Licence Agreement Aristocrat AI 19/07/2006 Commenced 1 Jan 2005.</sentence>
 <sentence id="s119">1 year term with automatic 1 year renewal periods.</sentence>
 <sentence id="s120">Aristocrat gives AI exclusive licence to intellectual property in respect of products worldwide other than Australia, but including products made for export outside of Australia.</sentence>
 <sentence id="s121">Distribution Agreement AI ATI 03/05/2006 Commenced 1 Jan 2006.</sentence>
@@ -855,7 +855,7 @@ Mr Andrews indicated that he believed that the reference to "tags" in this email
  The earlier "mail" referred to was then reproduced and stated relevantly: 
  
  G'Day Riad,
- On the CD you gave me with the MKVI games, I am missing MKVI Indian Dreaming &amp; MKVI Tiki Torch, can you please send ASAP via Email ... 
+ On the CD you gave me with the MKVI games, I am missing MKVI Indian Dreaming &amp;amp; MKVI Tiki Torch, can you please send ASAP via Email ... 
  
  This email was put to Mr Cragen and Mr Allam in cross-examination.</sentence>
 <sentence id="s561">Mr Cragen denied having read the email and said that he did not recall having seen the email at the time that it had been sent to him.</sentence>
@@ -1352,7 +1352,7 @@ CD-ROM which contained copies of software that were taken from a sample of the E
  9.5.5.2 THE LOOSE HDD 
  In his report, Mr McKemmish set out the following relevant features of the Loose HDD that was seized at the Georges Hall Premises: Mr Carson also examined a version of Windows that was once installed on the Loose HDD but had since been deleted.</sentence>
 <sentence id="s959">He said that there was evidence of file activity as early as 19 August 2003, under other user profiles which are no longer present, including "roro" and "nana", who are members of Mr Allam's family.</sentence>
-<sentence id="s960">Mr McKemmish also made a number of observations relating to what he described as "DATAMAN &amp; EPROM related activity" on the Loose HDD.</sentence>
+<sentence id="s960">Mr McKemmish also made a number of observations relating to what he described as "DATAMAN &amp;amp; EPROM related activity" on the Loose HDD.</sentence>
 <sentence id="s961">The Loose HDD contained Dataman software, the program that is used to burn EPROMs.</sentence>
 <sentence id="s962">Mr McKemmish noted that his examination of the files located on the Loose HDD, its Windows registry and the associated Windows Event logs revealed evidence of the operation of Dataman software.</sentence>
 <sentence id="s963">After carrying out an examination of the unused data areas of the Loose HDD, Mr McKemmish recovered certain file path information which he then analysed.</sentence>
@@ -1412,7 +1412,7 @@ CD-ROM which contained copies of software that were taken from a sample of the E
  The Georges Hall Desktop 2 was Mr Allam's computer which was located in the garage of the Georges Hall Premises.</sentence>
 <sentence id="s1014">The computer's registered name was "TONITA-4D3B76GS", the registered owner was "riad allam" and the registered organisation was "tonita enterprise pty ltd".</sentence>
 <sentence id="s1015">The Windows registry records recorded a user account named "riad".</sentence>
-<sentence id="s1016">Under the heading "DATAMAN &amp; EPROM related activity", Mr McKemmish made a number of observations about the Georges Hall Desktop 2 computer.</sentence>
+<sentence id="s1016">Under the heading "DATAMAN &amp;amp; EPROM related activity", Mr McKemmish made a number of observations about the Georges Hall Desktop 2 computer.</sentence>
 <sentence id="s1017">Mr McKemmish identified Dataman software on the Georges Hall Desktop 2 computer and indicated in his report that a number of binary files appeared to have been read and their contents written to an EPROM, including files with the names "G:\geisha jcl 0007311 602\u72" and "G:\ Indian jack car 10007611 628 6\u72".</sentence>
 <sentence id="s1018">"Geisha" and "Indian jack" are names of Aristocrat games.</sentence>
 <sentence id="s1019">Mr McKemmish concluded in his report that the Georges Hall Desktop 2 computer had been used to write binary file data to EPROM chips in the period between August 2006 and January 2007.</sentence>
@@ -1920,7 +1920,7 @@ CCC-14.</sentence>
 <sentence id="s1421">I reject the submission of the Tonita respondents that the materials were obtained from Behong.</sentence>
 <sentence id="s1422">The position here is quite different from that which existed in CBS Songs Ltd v Amstrad Consumer Electronics PLC [1988] UKHL 15 ; [1988] AC 1013.</sentence>
 <sentence id="s1423">There, the House of Lords held that the sale of a high speed twin-tape recorder capable of reproducing music cassettes onto blank tapes was not an authorisation of copyright infringement.</sentence>
-<sentence id="s1424">The reason for the House of Lords' decision appears to be the absence of control over the actions of the purchasers and the possibility of legitimate use rather than the inevitability of infringement: see 1053-1055; see also CBS Inc v Ames Records &amp; Tapes Ltd [1982] Ch 91 at 106 (per Whitford J).</sentence>
+<sentence id="s1424">The reason for the House of Lords' decision appears to be the absence of control over the actions of the purchasers and the possibility of legitimate use rather than the inevitability of infringement: see 1053-1055; see also CBS Inc v Ames Records &amp;amp; Tapes Ltd [1982] Ch 91 at 106 (per Whitford J).</sentence>
 <sentence id="s1425">This is to be contrasted with the facts of the present case as is well illustrated by the email set out at [312].</sentence>
 <sentence id="s1426">Mr Allam was requested to provide game software and blank chips.</sentence>
 <sentence id="s1427">I reject his denial that he knew the purpose to be the copying of the game software onto the chips in South America.</sentence>
@@ -2060,7 +2060,7 @@ CCC-14.</sentence>
 <sentence id="s1520">
  
  The prices payable by Behong to the Aristocrat companies for the materials are confidential.</sentence>
-<sentence id="s1521">It is sufficient to say that a specified price per tonne was payable by Behong to the Aristocrat companies for "Second Hand &amp; Obsolete Machines".</sentence>
+<sentence id="s1521">It is sufficient to say that a specified price per tonne was payable by Behong to the Aristocrat companies for "Second Hand &amp;amp; Obsolete Machines".</sentence>
 <sentence id="s1522">The practice which was adopted by the parties, apparently in pursuance of the Agreement, was for Behong to deliver to the Aristocrat companies certificates of destruction of the materials.</sentence>
 <sentence id="s1523">A large number of the certificates were in evidence.</sentence>
 <sentence id="s1524">They contained a declaration by Behong that: 
@@ -2077,7 +2077,7 @@ CCC-14.</sentence>
 <sentence id="s1529">He also submitted, though perhaps faintly, that Behong was a bailee of the goods.</sentence>
 <sentence id="s1530">It was not, in his submission, a purchaser of the goods, but a service provider under a contract for the provision of services.</sentence>
 <sentence id="s1531">It is a fundamental principle of the law of torts that to maintain an action for conversion, the plaintiff must have either actual possession of the goods or the immediate right to possession at the time of the conversion: Penfolds Wines Proprietary Limited v Elliott [1946] HCA 46 ; (1946) 74 CLR 204 at 226-227; Associated Midland Corporation Ltd v Bank of New South Wales [1983] 1 NSWLR 533 at 549; F.A.</sentence>
-<sentence id="s1532">Trindade, P. Cane &amp; M. Lunney, The Law of Torts in Australia (4 th ed, 2007) at 209-210.</sentence>
+<sentence id="s1532">Trindade, P. Cane &amp;amp; M. Lunney, The Law of Torts in Australia (4 th ed, 2007) at 209-210.</sentence>
 <sentence id="s1533">The essence of the tort of conversion is the commission of an intentional act by the defendant which constitutes a dealing with goods, without lawful justification, in a manner repugnant to the plaintiff's possession or immediate right to possession.</sentence>
 <sentence id="s1534">In my view, it is plain that under the terms of the Behong Agreement, the Aristocrat companies had no right to possession of the goods and, accordingly, the failure on the part of Behong to destroy the goods did not amount to a wrong to the Aristocrat companies' possessory rights.</sentence>
 <sentence id="s1535">Whether or not the Agreement was a contract for the sale of goods or a contract for the provision of services, the effect of it was that upon the collection of the materials from the Aristocrat companies' premises, the Aristocrat companies parted with possession as well as any right to recall possession from Behong.</sentence>
@@ -2105,7 +2105,7 @@ CCC-14.</sentence>
  Nevertheless, the Behong Agreement cannot be such a mutation.</sentence>
 <sentence id="s1554">This is evident from the nature of the obligations entailed by the relationship of bailment.</sentence>
 <sentence id="s1555">One of the obligations of a bailee is to redeliver the goods to the bailor.</sentence>
-<sentence id="s1556">The nature of the duty varies according to the circumstances in which and the purpose for which the goods are delivered to the bailee: Morris v C. W. Martin &amp; Sons Ltd [1966] 1 QB 716 at 731.</sentence>
+<sentence id="s1556">The nature of the duty varies according to the circumstances in which and the purpose for which the goods are delivered to the bailee: Morris v C. W. Martin &amp;amp; Sons Ltd [1966] 1 QB 716 at 731.</sentence>
 <sentence id="s1557">The authorities go so far as to establish that a bailment does not necessarily impose upon a bailee the obligation of redelivering the identical object that was bailed: Motor Mart v Webb at 781; Harding v Commissioner of Inland Revenue [1977] 1 NZLR 337 at 340.</sentence>
 <sentence id="s1558">But here, not only was there no obligation to return the goods, whether in their original or scrapped form, Behong's obligation was to scrap or destroy the goods.</sentence>
 <sentence id="s1559">The certificates of destruction, though not terms of the Behong Agreement, indicate that what was contemplated was that Behong would certify that it had scrapped the materials.</sentence>
@@ -2270,7 +2270,7 @@ CCC-14.</sentence>
 <sentence id="s1647">They point to a second invoice numbered 936 on which the relevant serial numbers are not recorded, which they say was the final invoice for this transaction.</sentence>
 <sentence id="s1648">This explanation is also given in relation to all but one of the remaining transactions in the DN category, transactions 13, 20, 28, 29, 41 and 46.</sentence>
 <sentence id="s1649">I do not propose to set out those transactions in great detail, however I will say the following.</sentence>
-<sentence id="s1650">Transactions 13, 20, 28, 29, 41 and 46 are all set out on Global invoices that are titled "Proforma invoice", "Commercial Invoice" or "Commercial Invoice &amp; Packing List".</sentence>
+<sentence id="s1650">Transactions 13, 20, 28, 29, 41 and 46 are all set out on Global invoices that are titled "Proforma invoice", "Commercial Invoice" or "Commercial Invoice &amp;amp; Packing List".</sentence>
 <sentence id="s1651">All of the invoices are addressed to different customers in different countries, including Peru, Cyprus and Mexico.</sentence>
 <sentence id="s1652">In answer to the claim that those invoices included serial numbers which duplicated the serial numbers on machines that had already been shipped, the Global respondents say that the Aristocrat companies relied upon invoices that had been superseded.</sentence>
 <sentence id="s1653">They say that the invoices listed above were interim invoices relating to transactions which did not proceed, and which do not represent the machines that were ultimately shipped.</sentence>
@@ -2421,7 +2421,7 @@ CCC-14.</sentence>
 <sentence id="s1786">That submission is without substance.</sentence>
 <sentence id="s1787">No suggestion was ever made by any of the respondents' witnesses that such a licence had been granted.</sentence>
 <sentence id="s1788">Nor is there any substance in the submission that the respondents had an implied licence to exploit the copyright in those components.</sentence>
-<sentence id="s1789">The position here is quite different from that which occurred in the well established authorities that have considered the question of implied licence to use copyright materials; see Beck v Montana Constructions Pty Ltd (1963) 5 FLR 298 ; Concrete Pty Limited v Parramatta Design &amp; Developments Pty Ltd [2006] HCA 55 ; (2006) 229 CLR 577.</sentence>
+<sentence id="s1789">The position here is quite different from that which occurred in the well established authorities that have considered the question of implied licence to use copyright materials; see Beck v Montana Constructions Pty Ltd (1963) 5 FLR 298 ; Concrete Pty Limited v Parramatta Design &amp;amp; Developments Pty Ltd [2006] HCA 55 ; (2006) 229 CLR 577.</sentence>
 <sentence id="s1790">Another submission pressed strongly by the respondents was the need for the Aristocrat companies to prove their claims to the requisite standard.</sentence>
 <sentence id="s1791">I am satisfied that the Aristocrat companies have proved their claims in respect of the 11 transactions set out above in accordance with the principles stated in section 12 of my reasons.</sentence>
 <sentence id="s1792">If it is necessary for me to reach a level of actual persuasion in relation to those claims (see [597]), I have reached that state of satisfaction.</sentence>
@@ -2431,7 +2431,7 @@ CCC-14.</sentence>
 <sentence id="s1796">Whilst I cannot be certain as to the actual infringing components, I consider it is more likely than not that they consisted of fake Aristocrat game software and fake compliance plates.</sentence>
 <sentence id="s1797">That is sufficient to meet any test of substantiality.</sentence>
 <sentence id="s1798">Whilst I have not been able to conduct a visual comparison of the infringing compliance plates with the Aristocrat companies' originals, the evidence is sufficient for me to infer that the test stated by the High Court in S.W.</sentence>
-<sentence id="s1799">Hart &amp; Co Proprietary Limited v Edwards Hot Water Systems [1985] HCA 59 ; (1985) 159 CLR 466 at 472, 478 and 479 is satisfied.</sentence>
+<sentence id="s1799">Hart &amp;amp; Co Proprietary Limited v Edwards Hot Water Systems [1985] HCA 59 ; (1985) 159 CLR 466 at 472, 478 and 479 is satisfied.</sentence>
 <sentence id="s1800">The Tonita respondents had prior access to the copyright works.</sentence>
 <sentence id="s1801">From the material before me going to infringement of compliance plates, in particular the evidence of Mr Parsons, I infer the elements of resemblance, actual use and causal connection.</sentence>
 <sentence id="s1802">The onus then passed to the Tonita respondents to rebut the inference of copying but they failed to discharge that onus: Designers Guild Ltd v Russell Williams (Textiles) Ltd [2000] UKHL 58 ; [2001] All ER 700 at 708-9.</sentence>

@@ -3,15 +3,15 @@
 <name>Stawiczny Family Trust Pty Ltd, in the matter of Global Maintenance Consulting Pty Ltd v Dunford [2009] FCA 1060 (21 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1060.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">injunctions</catchphrase>
-<catchphrase "id=c1">whether serious question to be tried</catchphrase>
-<catchphrase "id=c2">shareholders' agreement</catchphrase>
-<catchphrase "id=c3">whether meeting of board of directors valid, effective and properly convened</catchphrase>
-<catchphrase "id=c4">whether resolutions validly passed</catchphrase>
-<catchphrase "id=c5">whether general meeting of company validly convened</catchphrase>
-<catchphrase "id=c6">whether proposed resolution for members' meeting in breach of shareholders' agreement</catchphrase>
-<catchphrase "id=c7">balance of convenience.</catchphrase>
-<catchphrase "id=c8">practice and procedure</catchphrase>
+<catchphrase id="c0">injunctions</catchphrase>
+<catchphrase id="c1">whether serious question to be tried</catchphrase>
+<catchphrase id="c2">shareholders' agreement</catchphrase>
+<catchphrase id="c3">whether meeting of board of directors valid, effective and properly convened</catchphrase>
+<catchphrase id="c4">whether resolutions validly passed</catchphrase>
+<catchphrase id="c5">whether general meeting of company validly convened</catchphrase>
+<catchphrase id="c6">whether proposed resolution for members' meeting in breach of shareholders' agreement</catchphrase>
+<catchphrase id="c7">balance of convenience.</catchphrase>
+<catchphrase id="c8">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -407,8 +407,8 @@ Clause 68 provides:
  
  
  
- &#9679; noted recent attempts by Ireneusz Stawiczny to increase the proportion of the capital of the Company controlled by him, either through his associated company, Stawiczny Family Pty Ltd, or otherwise; and 
- &#9679; tabled various emails and attachments sent to staff of the Company by Ireneusz Stawiczny 
+ &amp;#9679; noted recent attempts by Ireneusz Stawiczny to increase the proportion of the capital of the Company controlled by him, either through his associated company, Stawiczny Family Pty Ltd, or otherwise; and 
+ &amp;#9679; tabled various emails and attachments sent to staff of the Company by Ireneusz Stawiczny 
  
  
  
@@ -418,14 +418,14 @@ Clause 68 provides:
  
  
  
- &#9679; Ireneusz Stawiczny has acted improperly as a director of the Company by seeking to gain an advantage for himself and by causing detriment to the Company; 
- &#9679; Ireneusz Stawiczny has breached the terms of the Shareholders Agreement, including by purporting to make decisions other than with the support of other directors.</sentence>
+ &amp;#9679; Ireneusz Stawiczny has acted improperly as a director of the Company by seeking to gain an advantage for himself and by causing detriment to the Company; 
+ &amp;#9679; Ireneusz Stawiczny has breached the terms of the Shareholders Agreement, including by purporting to make decisions other than with the support of other directors.</sentence>
 <sentence id="s169">
- &#9679; Ireneusz Stawiczny be directed to cease that conduct and not to further threaten or seek to intimidate staff of the Company and to conduct himself in a manner consistent with the published policies and accepted values and principles of the Company.</sentence>
+ &amp;#9679; Ireneusz Stawiczny be directed to cease that conduct and not to further threaten or seek to intimidate staff of the Company and to conduct himself in a manner consistent with the published policies and accepted values and principles of the Company.</sentence>
 <sentence id="s170">
- &#9679; the Company considers the existing contract with Stawiczny Family Pty Ltd for the provision of the services of Ireneusz Stawiczny to have been terminated by that conduct and accepts that termination; 
- &#9679; the meeting discussed the basis on which Stawiczny Family Pty Ltd and Ireneusz Stawiczny might reasonably continue to contribute to the executive management of the Company, if at all, and the Chair indicated a proposal relating to an alternative role for Stawiczny Family Pty Ltd and Ireneusz Stawiczny would be presented at an appropriate time; and 
- &#9679; a General Meeting of the members of the Company be called for the purpose of considering the business set out in a draft Notice of Meeting tabled by the Chair and to abbreviate the period of notice of that meeting, if the agreement of all shareholders to the holding of that meeting at an earlier time can be obtained.</sentence>
+ &amp;#9679; the Company considers the existing contract with Stawiczny Family Pty Ltd for the provision of the services of Ireneusz Stawiczny to have been terminated by that conduct and accepts that termination; 
+ &amp;#9679; the meeting discussed the basis on which Stawiczny Family Pty Ltd and Ireneusz Stawiczny might reasonably continue to contribute to the executive management of the Company, if at all, and the Chair indicated a proposal relating to an alternative role for Stawiczny Family Pty Ltd and Ireneusz Stawiczny would be presented at an appropriate time; and 
+ &amp;#9679; a General Meeting of the members of the Company be called for the purpose of considering the business set out in a draft Notice of Meeting tabled by the Chair and to abbreviate the period of notice of that meeting, if the agreement of all shareholders to the holding of that meeting at an earlier time can be obtained.</sentence>
 <sentence id="s171">
  
  
@@ -575,7 +575,7 @@ Dated: 21 September 2009
  
  Counsel for the Plaintiff: Mr M D Wyles 
  
- Solicitor for the Plaintiff: Baker &amp; Mackenzie 
+ Solicitor for the Plaintiff: Baker &amp;amp; Mackenzie 
  
  Counsel for the First, Second, Third, Fourth and Fifth Defendants: Dr A P Trichardt 
  

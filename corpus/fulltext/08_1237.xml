@@ -3,12 +3,12 @@
 <name>IO Group Inc v Prestige Club Australasia Pty Ltd (No 2) [2008] FCA 1237 (11 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1237.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">privilege</catchphrase>
-<catchphrase "id=c1">onus</catchphrase>
-<catchphrase "id=c2">communications with expert</catchphrase>
-<catchphrase "id=c3">draft report of expert</catchphrase>
-<catchphrase "id=c4">adequacy of description of documents</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">privilege</catchphrase>
+<catchphrase id="c1">onus</catchphrase>
+<catchphrase id="c2">communications with expert</catchphrase>
+<catchphrase id="c3">draft report of expert</catchphrase>
+<catchphrase id="c4">adequacy of description of documents</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -78,17 +78,17 @@
 <sentence id="s43">That course has not been considered necessary and no such inspection has thus taken place.</sentence>
 <sentence id="s44">16 The claim for privilege is thus upheld with respect to:
  
-&#8226; Document 2, being the email from Ms Chylek to the expert;
+&amp;#8226; Document 2, being the email from Ms Chylek to the expert;
  
-&#8226; Document 5, but only to the extent of the handwritten annotations of Ms Chylek;
+&amp;#8226; Document 5, but only to the extent of the handwritten annotations of Ms Chylek;
  
-&#8226; Document 9, but only to the extent of the handwritten annotations of Ms Chylek;
+&amp;#8226; Document 9, but only to the extent of the handwritten annotations of Ms Chylek;
  
-&#8226; Document 10, being the email from Ms Chylek to Ms Conoulty;
+&amp;#8226; Document 10, being the email from Ms Chylek to Ms Conoulty;
  
-&#8226; Document 11, to the extent of the handwritten annotations by Mr Simpson and Ms Chylek; and
+&amp;#8226; Document 11, to the extent of the handwritten annotations by Mr Simpson and Ms Chylek; and
  
-&#8226; Document 12, to the extent of the email correspondence from Ms Chylek.</sentence>
+&amp;#8226; Document 12, to the extent of the email correspondence from Ms Chylek.</sentence>
 <sentence id="s45">17 The claim for privilege in respect to the balance of those documents is rejected.</sentence>
 <sentence id="s46">18 All parties seek a quick resolution of the issues to be decided and more considered and comprehensive reasons are not sought.</sentence>
 <sentence id="s47">19 It should be noted that one revision to the ex tempore reasons as delivered has been to extend the claim for privilege to Document 10.</sentence>

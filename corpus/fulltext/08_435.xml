@@ -3,11 +3,11 @@
 <name>Australian Competition and Consumer Commission v Rana [2008] FCA 435 (20 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/435.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">sentencing</catchphrase>
-<catchphrase "id=c1">aiding, abetting, counselling or procuring the commission of an offence</catchphrase>
-<catchphrase "id=c2">refusing or failing to comply with a notice</catchphrase>
-<catchphrase "id=c3">s 155 of trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c4">criminal law</catchphrase>
+<catchphrase id="c0">sentencing</catchphrase>
+<catchphrase id="c1">aiding, abetting, counselling or procuring the commission of an offence</catchphrase>
+<catchphrase id="c2">refusing or failing to comply with a notice</catchphrase>
+<catchphrase id="c3">s 155 of trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c4">criminal law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -150,7 +150,7 @@ Dated: 15 July 2008
  
  Solicitor for the Defendant: Lawcorp Lawyers 
 
- Date of Hearing: 22 December 2007, 18 February &amp; 20 March 2008 
+ Date of Hearing: 22 December 2007, 18 February &amp;amp; 20 March 2008 
  
  Date of Judgment: 20 March 2008 
 

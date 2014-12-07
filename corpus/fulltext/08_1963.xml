@@ -3,22 +3,22 @@
 <name>Noble Investments Pty Ltd v Southern Cross Exploration NL; In the matter of Southern Cross Exploration NL ACN 000 716 012 [2008] FCA 1963 (22 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1963.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application pursuant to s 232 of the corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c1">whether possible for plaintiffs to obtain an order winding up publicly listed solvent company</catchphrase>
-<catchphrase "id=c2">if the court is satisfied of oppression or unfairness relief which is best suited</catchphrase>
-<catchphrase "id=c3">winding up order would be rare but not impossible</catchphrase>
-<catchphrase "id=c4">interlocutory application for summary judgment pursuant to s 31a of federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c5">whether proper use of the provision</catchphrase>
-<catchphrase "id=c6">s 31a not designed for striking out a defective or partially defective pleading</catchphrase>
-<catchphrase "id=c7">designed to give judgment where no reasonable prospect of success</catchphrase>
-<catchphrase "id=c8">application dismissed</catchphrase>
-<catchphrase "id=c9">whether relief sought in originating application</catchphrase>
-<catchphrase "id=c10">relief sought would only be struck out if the court convinced that relief would never be granted</catchphrase>
-<catchphrase "id=c11">two prayers for relief not pressed</catchphrase>
-<catchphrase "id=c12">application dismissed</catchphrase>
-<catchphrase "id=c13">corporations</catchphrase>
-<catchphrase "id=c14">practice and procedure</catchphrase>
-<catchphrase "id=c15">practice and procedure</catchphrase>
+<catchphrase id="c0">application pursuant to s 232 of the corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c1">whether possible for plaintiffs to obtain an order winding up publicly listed solvent company</catchphrase>
+<catchphrase id="c2">if the court is satisfied of oppression or unfairness relief which is best suited</catchphrase>
+<catchphrase id="c3">winding up order would be rare but not impossible</catchphrase>
+<catchphrase id="c4">interlocutory application for summary judgment pursuant to s 31a of federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c5">whether proper use of the provision</catchphrase>
+<catchphrase id="c6">s 31a not designed for striking out a defective or partially defective pleading</catchphrase>
+<catchphrase id="c7">designed to give judgment where no reasonable prospect of success</catchphrase>
+<catchphrase id="c8">application dismissed</catchphrase>
+<catchphrase id="c9">whether relief sought in originating application</catchphrase>
+<catchphrase id="c10">relief sought would only be struck out if the court convinced that relief would never be granted</catchphrase>
+<catchphrase id="c11">two prayers for relief not pressed</catchphrase>
+<catchphrase id="c12">application dismissed</catchphrase>
+<catchphrase id="c13">corporations</catchphrase>
+<catchphrase id="c14">practice and procedure</catchphrase>
+<catchphrase id="c15">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -232,7 +232,7 @@
 <sentence id="s173">I would strike out paragraph 9, not pursuant to s 31A but pursuant to O 11 r 16, on the basis that the pleading has a tendency to embarrass or delay the proceeding.</sentence>
 <sentence id="s174">57 That leaves for consideration the order sought in paragraph 11 which I think troubles the defendant most.</sentence>
 <sentence id="s175">The defendant claims that there is no prospect that a court could make an order for the winding up of the defendant in circumstances where the defendant is solvent and a publicly listed company.</sentence>
-<sentence id="s176">58 The defendant submitted that the winding up of a publicly listed company in the absence of insolvency even for oppression is virtually unheard of, citing, so it was contended, the last reported case Re William Brooks &amp; Co Ltd [1962] NSWLR 142 where a winding up order was set aside by consent in the High Court.</sentence>
+<sentence id="s176">58 The defendant submitted that the winding up of a publicly listed company in the absence of insolvency even for oppression is virtually unheard of, citing, so it was contended, the last reported case Re William Brooks &amp;amp; Co Ltd [1962] NSWLR 142 where a winding up order was set aside by consent in the High Court.</sentence>
 <sentence id="s177">59 I think that contention is incorrect.</sentence>
 <sentence id="s178">In Re Weedmans Ltd (1974) Qd R 377 the company was listed on the Brisbane Stock Exchange: p 382.</sentence>
 <sentence id="s179">The trial judge (Lucas J) found that the directors of the company had acted in the affairs of the company in their own interests rather than in the interests of the members as a whole.</sentence>
@@ -255,7 +255,7 @@
 <sentence id="s195">63 I do not think that s 233(1)(a) is not available as a remedy because the defendant is a publicly listed company.</sentence>
 <sentence id="s196">I agree, with respect, that there is nothing in s 233 or the Corporations Act which suggests that s 233(1)(a) has no application to a publicly listed company.</sentence>
 <sentence id="s197">64 I would accept, however, that it would be a rare circumstance where an order of that kind would be made and even rarer where the company is shown to be solvent.</sentence>
-<sentence id="s198">In the absence of a strong case and a clear need for the relief, the Court would not take the extreme step of winding up a solvent company: Cumberland Holdings Ltd v Washington H Soul Pattinson &amp; Company Ltd (1977) 2 ACLR 307.</sentence>
+<sentence id="s198">In the absence of a strong case and a clear need for the relief, the Court would not take the extreme step of winding up a solvent company: Cumberland Holdings Ltd v Washington H Soul Pattinson &amp;amp; Company Ltd (1977) 2 ACLR 307.</sentence>
 <sentence id="s199">65 Now is not the time to enquire into the financial health of the defendant or to determine whether it is solvent.</sentence>
 <sentence id="s200">It is not alleged by the plaintiffs that the defendant is insolvent.</sentence>
 <sentence id="s201">It is not in the plaintiffs' interests to make such a case.</sentence>

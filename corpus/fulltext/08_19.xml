@@ -3,12 +3,12 @@
 <name>Griffiths v Australian Postal Corporation [2008] FCA 19 (24 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/19.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">administrative tribunals</catchphrase>
-<catchphrase "id=c1">administrative appeals tribunal (cth)</catchphrase>
-<catchphrase "id=c2">procedure and evidence</catchphrase>
-<catchphrase "id=c3">costs</catchphrase>
-<catchphrase "id=c4">exercise of discretion to award costs under s 67(8) of the safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase id="c0">administrative tribunals</catchphrase>
+<catchphrase id="c1">administrative appeals tribunal (cth)</catchphrase>
+<catchphrase id="c2">procedure and evidence</catchphrase>
+<catchphrase id="c3">costs</catchphrase>
+<catchphrase id="c4">exercise of discretion to award costs under s 67(8) of the safety, rehabilitation and compensation act 1988 (cth)</catchphrase>
+<catchphrase id="c5">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -92,7 +92,7 @@ In deciding that nevertheless each party should bear its own costs, he relied in
 <sentence id="s50">However, that is not the case.</sentence>
 <sentence id="s51">An error of law must be shown.</sentence>
 <sentence id="s52">Where the exercise of a discretion is involved, this usually involves the application of some legally mistaken principle.</sentence>
-<sentence id="s53">In matters of practice and procedure and, perhaps especially, costs in a well-trodden field such as workers' compensation litigation, such an error ought not lightly be inferred, because the discretion is a broad one, confined only by considerations relevant to the case at hand: Oshlack v Richmond River Council [1998] HCA 11 ; (1998) 193 CLR 72 per Gaudron &amp; Gummow JJ at [22].</sentence>
+<sentence id="s53">In matters of practice and procedure and, perhaps especially, costs in a well-trodden field such as workers' compensation litigation, such an error ought not lightly be inferred, because the discretion is a broad one, confined only by considerations relevant to the case at hand: Oshlack v Richmond River Council [1998] HCA 11 ; (1998) 193 CLR 72 per Gaudron &amp;amp; Gummow JJ at [22].</sentence>
 <sentence id="s54">16 The principles governing the exercise of the discretion in a case such as this were articulated in a passage in Perry 150 FCR at [90]:
  
  [The] discretion was not fettered by any rule, policy or binding principle.</sentence>
@@ -117,7 +117,7 @@ Dated: 24 January 2008
 
  Counsel for the Applicant: McManamey 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater &amp;amp; Gordon 
  
  Counsel for the Respondent: P S Jones 
  

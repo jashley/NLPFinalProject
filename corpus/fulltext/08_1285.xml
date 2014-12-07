@@ -3,12 +3,12 @@
 <name>Village Building Co Limited v Airservices Australia (No 2) [2008] FCA 1285 (21 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1285.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">allegation of contempt</catchphrase>
-<catchphrase "id=c1">application for preliminary discovery to enable party to determine whether contempt proceedings should be instituted</catchphrase>
-<catchphrase "id=c2">whether the court accepted a party's undertaking</catchphrase>
-<catchphrase "id=c3">whether party resiled from an undertaking given to the court</catchphrase>
-<catchphrase "id=c4">whether undertaking given to court was ambiguous</catchphrase>
-<catchphrase "id=c5">procedure</catchphrase>
+<catchphrase id="c0">allegation of contempt</catchphrase>
+<catchphrase id="c1">application for preliminary discovery to enable party to determine whether contempt proceedings should be instituted</catchphrase>
+<catchphrase id="c2">whether the court accepted a party's undertaking</catchphrase>
+<catchphrase id="c3">whether party resiled from an undertaking given to the court</catchphrase>
+<catchphrase id="c4">whether undertaking given to court was ambiguous</catchphrase>
+<catchphrase id="c5">procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -84,8 +84,8 @@ the Court may order that that person shall make discovery to the applicant of an
 <sentence id="s43">I noted some relevant cases in Grout v Gunnedah Shire Council (1995) 129 ALR 372 at 381:
  
  The applicant referred to a number of cases concerning proceedings alleging contempt of Court, the first of which was Viner v Australian Building Construction Employees and Builders' Labourers' Federation (1981) 38 ALR 550 at 553.</sentence>
-<sentence id="s44">Northrop J had to consider whether the legislative predecessor of s347, s197A of the Conciliation and Arbitration Act 1904 ("C &amp; A Act"), limited the Federal Court's power to award costs.</sentence>
-<sentence id="s45">His Honour concluded that an application made by notice of motion alleging contempt of Court in relation to proceedings for the deregistration of an organisation brought under the C &amp; A Act, was a separate proceeding taken under s31 of the Federal Court Act and thus s197A had no application.</sentence>
+<sentence id="s44">Northrop J had to consider whether the legislative predecessor of s347, s197A of the Conciliation and Arbitration Act 1904 ("C &amp;amp; A Act"), limited the Federal Court's power to award costs.</sentence>
+<sentence id="s45">His Honour concluded that an application made by notice of motion alleging contempt of Court in relation to proceedings for the deregistration of an organisation brought under the C &amp;amp; A Act, was a separate proceeding taken under s31 of the Federal Court Act and thus s197A had no application.</sentence>
 <sentence id="s46">That conclusion has been affirmed by a Full Court in Cooke v Goodhew (1989) 91 ALR 447 at 458 per Sheppard J, 464 per Wilcox J and 474 per Gray J: see also Gregory v Phillip Morris Ltd (1987) 74 ALR 300.</sentence>
 <sentence id="s47">However Northrop J's conclusion in Viner, supra, turned on the special nature of contempt proceedings which are criminal in character and have historically been treated as proceedings separate from the proceedings which gave rise to the contempt.</sentence>
 <sentence id="s48">
@@ -306,7 +306,7 @@ Dated: 21 August 2008
 
  Counsel for the Appellant: B Salmon QC 
  
- Solicitor for the Appellant: JS O'Connor Harris &amp; Co 
+ Solicitor for the Appellant: JS O'Connor Harris &amp;amp; Co 
  
  Solicitor for the First Respondent: Minter Ellison 
  

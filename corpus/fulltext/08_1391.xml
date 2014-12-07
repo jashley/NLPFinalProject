@@ -3,14 +3,14 @@
 <name>Irving v Smith [2008] FCA 1391 (12 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1391.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">deed of company arrangement executed pursuant to resolution of creditors</catchphrase>
-<catchphrase "id=c1">appeal from decision of chair of creditors' meeting to accept proofs of debt where assignments of debts took place after meeting was convened</catchphrase>
-<catchphrase "id=c2">where result of assignment was a larger number of creditors entitled to vote at the meeting and resolution on deed of company arrangement was passed with the support of those creditors</catchphrase>
-<catchphrase "id=c3">whether debts were split as a result of assignments</catchphrase>
-<catchphrase "id=c4">whether there is a cut off time for lodgment of proofs of debt at the point where the notices convening the meeting were sent</catchphrase>
-<catchphrase "id=c5">whether assignments bona fide</catchphrase>
-<catchphrase "id=c6">whether deed of company arrangement should be terminated.</catchphrase>
-<catchphrase "id=c7">corporations</catchphrase>
+<catchphrase id="c0">deed of company arrangement executed pursuant to resolution of creditors</catchphrase>
+<catchphrase id="c1">appeal from decision of chair of creditors' meeting to accept proofs of debt where assignments of debts took place after meeting was convened</catchphrase>
+<catchphrase id="c2">where result of assignment was a larger number of creditors entitled to vote at the meeting and resolution on deed of company arrangement was passed with the support of those creditors</catchphrase>
+<catchphrase id="c3">whether debts were split as a result of assignments</catchphrase>
+<catchphrase id="c4">whether there is a cut off time for lodgment of proofs of debt at the point where the notices convening the meeting were sent</catchphrase>
+<catchphrase id="c5">whether assignments bona fide</catchphrase>
+<catchphrase id="c6">whether deed of company arrangement should be terminated.</catchphrase>
+<catchphrase id="c7">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -19,9 +19,9 @@
 1 The proceeding before the Court arises out of a resolution of creditors of Longreach Capital Pty Ltd (Administrators Appointed) ("the Company") passed at a meeting of creditors held on 14 August 2008 pursuant to s 439A of the Corporations Act 2001 (Cth) ("the Act ") that the Company execute a deed of company arrangement pursuant to the provisions of Pt 5.3A of the Act and the execution of a Deed of Company Arrangement by the Company on 21 August 2008.</sentence>
 <sentence id="s1">The plaintiff:
  
-&#8226; appeals from the decision of the chair of the meeting to accept certain proofs of debt, for the purposes of voting at the meeting, by assignees of debts due by the Company;
+&amp;#8226; appeals from the decision of the chair of the meeting to accept certain proofs of debt, for the purposes of voting at the meeting, by assignees of debts due by the Company;
  
-&#8226; seeks an order terminating the Deed of Company Arrangement executed on 21 August 2008.</sentence>
+&amp;#8226; seeks an order terminating the Deed of Company Arrangement executed on 21 August 2008.</sentence>
 <sentence id="s2">2 On 13 May 2008 Westpac Banking Corporation ("Westpac"), the holder of a fixed and floating charge over the whole of the Company's property, appointed Murray Campbell Smith and Colin McIntosh Nicol as Administrators of the Company pursuant to the provisions of s 436C(1) of the Act .</sentence>
 <sentence id="s3">On that date Mary Gaywin Irving, the plaintiff, was the sole director of the Company.</sentence>
 <sentence id="s4">3 On 23 May 2008 the first meeting of creditors of the Company required to be held pursuant to s 436E of the Act was held.</sentence>
@@ -82,9 +82,9 @@
 16 The reference to an independent valuation of $5.93 million was a reference to a valuation received by the Administrators earlier.</sentence>
 <sentence id="s52">17 In the report the Administrators estimated that:
  
-&#8226; under the Deed proposed by Mr Byrnes the total distribution to unsecured creditors would be between 1.44 cents to 4.01 cents in the dollar; 
+&amp;#8226; under the Deed proposed by Mr Byrnes the total distribution to unsecured creditors would be between 1.44 cents to 4.01 cents in the dollar; 
  
-&#8226; liquidation would result in a dividend to unsecured creditors of between 76.24 cents under a high scenario, 35.24 cents under a medium scenario and no dividend under a low scenario depending on the price received for the sale of the land.</sentence>
+&amp;#8226; liquidation would result in a dividend to unsecured creditors of between 76.24 cents under a high scenario, 35.24 cents under a medium scenario and no dividend under a low scenario depending on the price received for the sale of the land.</sentence>
 <sentence id="s53">Their analysis indicated to them that liquidation was likely to provide the best return to each class of creditors and on that basis, they recommended that the Company be wound up.</sentence>
 <sentence id="s54">18 It should be noted that the Administrators' estimates depended upon a number of assumptions which the Administrators set out in their report: 
  "The key assumptions are that: 
@@ -308,11 +308,11 @@ If an order is made under s 445D terminating a deed of company arrangement, the 
 <sentence id="s161">46 The submission that the Deed should be terminated because the chair of the meeting counted the votes of the assignees of the debts due to the Company is rejected having regard to my conclusion that the chair was entitled to count those votes because the Deeds of Assignment were effective.</sentence>
 <sentence id="s162">47 It does not follow simply because the Administrators said:
  
-&#8226; they could not recommend Mr Byrnes's proposed Deed to creditors,
+&amp;#8226; they could not recommend Mr Byrnes's proposed Deed to creditors,
  
-&#8226; that they considered that the return to creditors under that proposed Deed was not clearly superior to that under a liquidation, and
+&amp;#8226; that they considered that the return to creditors under that proposed Deed was not clearly superior to that under a liquidation, and
  
-&#8226; that they recommended that it was in the best interests of creditors that the Company was wound up,
+&amp;#8226; that they recommended that it was in the best interests of creditors that the Company was wound up,
 
 that effect cannot be given to the Deed without injustice or that the Deed will be oppressive or unfairly prejudicial to, or unfairly discriminatory against, one or more of the Company's creditors.</sentence>
 <sentence id="s163">48 The context in which those statements were made by the Administrators and the assumptions and analysis made by the Administrators in reaching their conclusions must be considered and evaluated.</sentence>

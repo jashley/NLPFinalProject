@@ -3,16 +3,16 @@
 <name>Qenos Pty Ltd v Ship 'APL Sydney' (includes Corrigendum dated 12 October 2009) [2009] FCA 1090 (25 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1090.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">limitation of liability</catchphrase>
-<catchphrase "id=c1">limitation fund</catchphrase>
-<catchphrase "id=c2">claim for damage caused by ship</catchphrase>
-<catchphrase "id=c3">anchor struck pipeline causing supply of ethane to stop</catchphrase>
-<catchphrase "id=c4">plaintiffs use gas in their business operations</catchphrase>
-<catchphrase "id=c5">plaintiff suffered only pure economic loss</catchphrase>
-<catchphrase "id=c6">whether plaintiffs claim subject to the limitation fund</catchphrase>
-<catchphrase "id=c7">interpretation of treaties</catchphrase>
-<catchphrase "id=c8">principles to be applied</catchphrase>
-<catchphrase "id=c9">admiralty</catchphrase>
+<catchphrase id="c0">limitation of liability</catchphrase>
+<catchphrase id="c1">limitation fund</catchphrase>
+<catchphrase id="c2">claim for damage caused by ship</catchphrase>
+<catchphrase id="c3">anchor struck pipeline causing supply of ethane to stop</catchphrase>
+<catchphrase id="c4">plaintiffs use gas in their business operations</catchphrase>
+<catchphrase id="c5">plaintiff suffered only pure economic loss</catchphrase>
+<catchphrase id="c6">whether plaintiffs claim subject to the limitation fund</catchphrase>
+<catchphrase id="c7">interpretation of treaties</catchphrase>
+<catchphrase id="c8">principles to be applied</catchphrase>
+<catchphrase id="c9">admiralty</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -171,7 +171,7 @@
 <sentence id="s66">The context includes the Article in which the word is found, as well as the whole treaty (and may also include the previous treaties).</sentence>
 <sentence id="s67">Third, the purpose and object of the treaty must be considered.</sentence>
 <sentence id="s68">But the third step should not be undertaken in isolation from the terms of the treaty, but rather as part of the context which can shed light on the meaning of particular terms.</sentence>
-<sentence id="s69">When following this approach it is necessary to be unconstrained by principles of domestic law, which usually have no role to play in the construction of international conventions: Stag Line Ltd v Foscolo Mango &amp; Co Ltd [1932] AC 328, 350; The Shipping Corporation of India Ltd v Gamlen Chemical Co (A/Asia) Pty Ltd [1980] HCA 51 ; (1980) 147 CLR 142 , 159.</sentence>
+<sentence id="s69">When following this approach it is necessary to be unconstrained by principles of domestic law, which usually have no role to play in the construction of international conventions: Stag Line Ltd v Foscolo Mango &amp;amp; Co Ltd [1932] AC 328, 350; The Shipping Corporation of India Ltd v Gamlen Chemical Co (A/Asia) Pty Ltd [1980] HCA 51 ; (1980) 147 CLR 142 , 159.</sentence>
 <sentence id="s70">In addition to the general rules of interpretation provided for in Art 31, Art 32 allows the use of supplementary means of interpretation in certain circumstances.</sentence>
 <sentence id="s71">For present purposes, it is sufficient to note that Art 32 permits consideration of the negotiating history leading to the conclusion of a treaty, to determine the meaning of a treaty when the interpretation according to Art 31 leaves the meaning ambiguous.</sentence>
 <sentence id="s72">With this background in mind, it is now appropriate to consider the interpretation of Art 2 of the 1976 Convention.</sentence>
@@ -186,7 +186,7 @@
 <sentence id="s81">By way of contrast Art 2(1)(b) and Art 2.1(c) deal solely with "abstract" loss not covered by Art 2.1(a).</sentence>
 <sentence id="s82">This, I think, is clear, in the case of Art 2.1(b) from the nature of the claim with which that paragraph is concerned (delay in carriage) and, in the case of Art 2.1(c), because it deals with claims in respect of "other loss", that is, loss other than of the kind covered by Art 2.1(a) and Art 2.1(b).</sentence>
 <sentence id="s83">What I have said to this point as regards the operation of Art 2.1 is reinforced by the preparatory works.</sentence>
-<sentence id="s84">By way of example, the following appears in the Chapeau (disambiguation) to the Hamburg Draft Convention (which forms part of the Travaux Pr&eacute;paratoires of the 1976 Convention): 
+<sentence id="s84">By way of example, the following appears in the Chapeau (disambiguation) to the Hamburg Draft Convention (which forms part of the Travaux Pr&amp;eacute;paratoires of the 1976 Convention): 
  
  Sub-paragraph (a) is the hard core in the definition of limitable claims: claims arising from loss of life or personal injury or loss of or damage to property.</sentence>
 <sentence id="s85">The words 'loss' and 'damage' in this connection are used in the concrete sense: physical loss and, broadly speaking, physical damage.</sentence>
@@ -203,7 +203,7 @@
 <sentence id="s93">For instance, S Derrington and J Turner, The Law and Practice of Admiralty Matters (2007) observe at 249: "There are two possible meanings which could be ascribed to the phrase .... [t]hey could relate to further loss (or damage) resulting from, eg, the loss of property (such as bunkers), such as pollution of beaches and resulting clean-up costs; alternatively, they may be confined to 'consequential loss' in the narrower sense, ie losses caused to the property owner consequential upon the loss of or damage to his property, such as loss of profits.</sentence>
 <sentence id="s94">" The authors accept (at 250) that the competing views are "finely balanced" but tentatively submit that "the narrower construction is the better one ... the absence of the words 'or damage' and the difficulty of applying any notion of 'consequential loss' (in the wider sense) to loss of life (to which the phrase also applies) tip the scale in favour of the narrow reading of the words".</sentence>
 <sentence id="s95">With great respect to the authors there is no difficulty with the idea of consequential loss (including financial loss) resulting from loss of life.</sentence>
-<sentence id="s96">Most common law countries have adopted the Fatal Accidents Act 1846 (9 &amp; 10 Vict.</sentence>
+<sentence id="s96">Most common law countries have adopted the Fatal Accidents Act 1846 (9 &amp;amp; 10 Vict.</sentence>
 <sentence id="s97">c.93) (often referred to as Lord Campbell's Act) which provides for the recovery of financial loss following death caused by a wrongful act, neglect or default.</sentence>
 <sentence id="s98">A similar position exists in some continental countries: see by way of example the German Environmental Liability Act of 10 December 1990 and the German Road Traffic Act of 19 December 1952.</sentence>
 <sentence id="s99">In any event, little if anything can be made from the failure (if it be a failure) to include the words "or damage" in the expression "consequential loss".</sentence>
@@ -327,7 +327,7 @@ S R Horgan SC
 R Scott 
  
  Solicitor for the Defendant in QUD 431 of 2008: Holman Fenwick Willan 
- Date of Hearing: 16, 17, 18, 19 &amp; 22 June 2009 
+ Date of Hearing: 16, 17, 18, 19 &amp;amp; 22 June 2009 
  
  Date of Judgment: 25 September 2009 
  

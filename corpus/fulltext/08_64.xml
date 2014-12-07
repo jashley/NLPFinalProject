@@ -3,15 +3,15 @@
 <name>Hostworks Group Limited ACN 008 010 820, in the matter of Hostworks Group Limited ACN 008 010 820 [2008] FCA 64 (12 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/64.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c1">corporations</catchphrase>
-<catchphrase "id=c2">scheme of arrangement</catchphrase>
-<catchphrase "id=c3">application for order under s 411(1) that company convene meeting of members to consider proposed scheme of arrangement</catchphrase>
-<catchphrase "id=c4">consideration of performance risk</catchphrase>
-<catchphrase "id=c5">"no stop" and "no talk provisions"</catchphrase>
-<catchphrase "id=c6">"break fee" clause</catchphrase>
-<catchphrase "id=c7">deemed warranty</catchphrase>
-<catchphrase "id=c8">corporations law</catchphrase>
+<catchphrase id="c0">corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c1">corporations</catchphrase>
+<catchphrase id="c2">scheme of arrangement</catchphrase>
+<catchphrase id="c3">application for order under s 411(1) that company convene meeting of members to consider proposed scheme of arrangement</catchphrase>
+<catchphrase id="c4">consideration of performance risk</catchphrase>
+<catchphrase id="c5">"no stop" and "no talk provisions"</catchphrase>
+<catchphrase id="c6">"break fee" clause</catchphrase>
+<catchphrase id="c7">deemed warranty</catchphrase>
+<catchphrase id="c8">corporations law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -67,7 +67,7 @@ On the same day, Hostworks made an announcement to the Australian Stock Exchange
 <sentence id="s37">The decision must first await the will of the members to be expressed at the scheme meeting.</sentence>
 <sentence id="s38">Assuming the members support the proposed scheme, when the Court is then called upon to approve it, dissenting members or other interested parties will have the opportunity to oppose the Court's granting approval: Re Sonodyne International Limited (1994) 15 ACSR 494 at 497 per Hayne J.</sentence>
 <sentence id="s39">16 However, the authorities indicate that, at this point, the Court should review the proposed scheme and the proposed explanatory statement, and may invite the plaintiff company to attend to any matters which seemed to the Court to require attention before the distribution of the documents.</sentence>
-<sentence id="s40">17 In FT Eastment &amp; Sons Pty Ltd v Metal Roof Decking Supplies Pty Ltd (1977) 3 ACLR 69 at 72, Street CJ said:
+<sentence id="s40">17 In FT Eastment &amp;amp; Sons Pty Ltd v Metal Roof Decking Supplies Pty Ltd (1977) 3 ACLR 69 at 72, Street CJ said:
  
  [T]he court will not ordinarily summon a meeting unless the scheme is of such a nature and cast in such terms, if it achieves the statutory majority at the creditor's meeting [in this case, the members' meeting] the court would be likely to approve it on the hearing of a petition which is unopposed.</sentence>
 <sentence id="s41">
@@ -116,7 +116,7 @@ That passage was cited with approval by the High Court in Australian Securities 
 <sentence id="s78">An arrangement may extend to any subject matter which is something which a company is able to agree with its members, and is likened to a contract between a company and its members.</sentence>
 <sentence id="s79">As noted earlier, there have been a number of cases in which a scheme involving the acquisition of a company's issued capital for cash, so that the company becomes a wholly owned subsidiary of an acquiring entity, is a common use of the Pt 5.1 procedure.</sentence>
 <sentence id="s80">See also e.g.</sentence>
-<sentence id="s81">Re Mincom Ltd (No 3) (2007) 25 ACLC 207; and Re APN News &amp; Media Ltd (2007) 62 ACSR 400.</sentence>
+<sentence id="s81">Re Mincom Ltd (No 3) (2007) 25 ACLC 207; and Re APN News &amp;amp; Media Ltd (2007) 62 ACSR 400.</sentence>
 <sentence id="s82">27 
  
 Generally, there is no apparent reason, at this stage, and on the material now before me, to consider that the proposed scheme is improper.</sentence>
@@ -245,7 +245,7 @@ As counsel for Hostworks pointed out, both those provisions are fully disclosed 
 <sentence id="s163">There is in the circumstances no reason why that provision of the Implementation Agreement should have impeded the Court from making the order for the convening of the proposed meeting.</sentence>
 <sentence id="s164">41 Under cl 7.3(a) of the Implementation Agreement, each scheme participant is deemed to have warranted that all of its shares in Hostworks which are transferred under the scheme will be free from all mortgages and encumbrances.</sentence>
 <sentence id="s165">Fryberg J in Re Mincom Ltd (No 3) (2007) 25 ACLC 207, regarded an almost identical deemed warranty clause as onerous and unreasonable and "calculated to catapult unsuspecting shareholders who have not read the small print of the arrangement in the schedule to the explanatory statement into a state of breach of warranty": at [21].</sentence>
-<sentence id="s166">In Re APN News &amp; Media Ltd 62 ACSR 400, Lindgren J disagreed with the approach of Fryberg J: see at [59]-[62].</sentence>
+<sentence id="s166">In Re APN News &amp;amp; Media Ltd 62 ACSR 400, Lindgren J disagreed with the approach of Fryberg J: see at [59]-[62].</sentence>
 <sentence id="s167">I respectfully agree with and adopt the views of Lindgren J.</sentence>
 <sentence id="s168">I share the understanding of his Honour that the purpose and effect of such a clause is simply to ensure that a scheme participant whose shares are subject to an encumbrance is not unfairly advantaged.</sentence>
 <sentence id="s169">The amount of the damages payable for breach of the warranty would be equal to the amount required to discharge the encumbrance.</sentence>
@@ -286,7 +286,7 @@ Dated: 12 February 2008
 
  Counsel for the Plaintiff: Mr B Roberts 
  
- Solicitor for the Plaintiff Kelly &amp; Co 
+ Solicitor for the Plaintiff Kelly &amp;amp; Co 
  
  Counsel for Broadcast Australia: Mr M Oakes SC 
  

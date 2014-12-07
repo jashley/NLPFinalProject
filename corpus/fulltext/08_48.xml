@@ -3,10 +3,10 @@
 <name>48/2008 BAE Systems Australia (NSW) Pty Limited v Commissioner of Taxation for the Commonwealth of Australia [2008] FCA 48 (5 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/48.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">notice of motion</catchphrase>
-<catchphrase "id=c1">adequacy of commissioner's appeal statement</catchphrase>
-<catchphrase "id=c2">any deficiency in appeal statement remedied by provision of further particulars</catchphrase>
-<catchphrase "id=c3">taxation</catchphrase>
+<catchphrase id="c0">notice of motion</catchphrase>
+<catchphrase id="c1">adequacy of commissioner's appeal statement</catchphrase>
+<catchphrase id="c2">any deficiency in appeal statement remedied by provision of further particulars</catchphrase>
+<catchphrase id="c3">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -33,17 +33,17 @@
 <sentence id="s12">Issues in the proceeding 
  
 6 The substantive issue in these proceedings is whether the applicant is entitled to deductions under s 73B of the Income Tax Assessment Act 1936 (Cth) ('ITAA').</sentence>
-<sentence id="s13">The deductions claimed are for expenditure incurred in each of the relevant years of income in carrying on research and development activities ('R&amp;D') in respect of the Jindalee Operational Radar Network Project ('Jindalee Project').</sentence>
-<sentence id="s14">7 Section 73B(9) provides that a deduction is not allowable if the R&amp;D is carried out "on behalf of any other person".</sentence>
-<sentence id="s15">Section 73CA(2) and (3) provide that certain deductions otherwise allowable under s 73B will not be allowable if the Commissioner is satisfied that the expenditure on R&amp;D was not at the risk of the taxpayer either in whole or in part.</sentence>
+<sentence id="s13">The deductions claimed are for expenditure incurred in each of the relevant years of income in carrying on research and development activities ('R&amp;amp;D') in respect of the Jindalee Operational Radar Network Project ('Jindalee Project').</sentence>
+<sentence id="s14">7 Section 73B(9) provides that a deduction is not allowable if the R&amp;amp;D is carried out "on behalf of any other person".</sentence>
+<sentence id="s15">Section 73CA(2) and (3) provide that certain deductions otherwise allowable under s 73B will not be allowable if the Commissioner is satisfied that the expenditure on R&amp;amp;D was not at the risk of the taxpayer either in whole or in part.</sentence>
 <sentence id="s16">8 The design and construction of the Jindalee Project was the subject of a number of agreements.</sentence>
 <sentence id="s17">According to the respondent's appeal statements, the Commonwealth of Australia entered into a contract (the 'Prime Contract') with the corporation now known as Telstra Limited, for the "design, development and supply of a fully tested and operational over the horizon radar network".</sentence>
 <sentence id="s18">Some of the work under the Prime Contract was subcontracted by Telstra to Marconi Overseas Ltd which in turn subcontracted some of that work to the applicant.</sentence>
 <sentence id="s19">Telstra also directly subcontracted the applicant to do some of the work under the Prime Contract.</sentence>
-<sentence id="s20">9 The respondent accepts that, within the meaning of s 73B(1) of the ITAA, the expenditure was incurred in respect of R&amp;D but alleges that the applicant is not entitled to the deduction because:
+<sentence id="s20">9 The respondent accepts that, within the meaning of s 73B(1) of the ITAA, the expenditure was incurred in respect of R&amp;amp;D but alleges that the applicant is not entitled to the deduction because:
  
  
- (a) the applicant carried on the R&amp;D "on behalf of" another person within the meaning of s 73B(9) ; or
+ (a) the applicant carried on the R&amp;amp;D "on behalf of" another person within the meaning of s 73B(9) ; or
  (b) the applicant was not "at risk" in relation to the expenditure within the meaning of s 73CA of the ITAA.</sentence>
 <sentence id="s21">
  
@@ -133,8 +133,8 @@ More recently, Greenwood J expressed a similar view in Clark v Commissioner of T
  
  Whether the research and development activities that were carried out by the applicant in relation to the [Jindalee] Project were carried out "on behalf of" any other person ... 
 
-Another issue is whether the concessional component of an otherwise allowable deduction in respect of R&amp;D expenditure incurred by the applicant is disallowed by s 73CA of the ITAA.</sentence>
-<sentence id="s66">This involves consideration of the concept of being "at risk" in respect of R&amp;D expenditure.</sentence>
+Another issue is whether the concessional component of an otherwise allowable deduction in respect of R&amp;amp;D expenditure incurred by the applicant is disallowed by s 73CA of the ITAA.</sentence>
+<sentence id="s66">This involves consideration of the concept of being "at risk" in respect of R&amp;amp;D expenditure.</sentence>
 <sentence id="s67">Section 73B 
  
 22 Section 73B(9) of the ITAA provides:
@@ -153,9 +153,9 @@ Another issue is whether the concessional component of an otherwise allowable de
 24 Both the Income Tax Rulings referred to in the respondent's appeal statements discuss the operation of s 73B(9) however neither uses the language employed in the statements.</sentence>
 <sentence id="s72">Ruling 2442 states that the subsection prevents "double deductions" and "restricts entitlement to section 73B deductions to the company that bears the financial risk ... and effectively owns the project results".</sentence>
 <sentence id="s73">It gives as an example a company asked by a client to develop a project for the client's business.</sentence>
-<sentence id="s74">25 According to the Ruling if the development was done at the risk of the company so that the client was required to pay only for the final product, the company would qualify under s 73B, "since it would in fact be performing the R&amp;D activities on its own behalf".</sentence>
+<sentence id="s74">25 According to the Ruling if the development was done at the risk of the company so that the client was required to pay only for the final product, the company would qualify under s 73B, "since it would in fact be performing the R&amp;amp;D activities on its own behalf".</sentence>
 <sentence id="s75">In contrast where the company carrying out the development is reimbursed by another for its expenditure then it would not be entitled to s 73B deductions unless it retained ownership of the results.</sentence>
-<sentence id="s76">Without that, it would be carrying on the R&amp;D on behalf of another.</sentence>
+<sentence id="s76">Without that, it would be carrying on the R&amp;amp;D on behalf of another.</sentence>
 <sentence id="s77">26 Ruling 2451, under the heading "General Principles" says that for research and development activities to be carried out by or on behalf of a company "there must be a close and direct link between the company and the work undertaken".</sentence>
 <sentence id="s78">It says that the company must "effectively own" the result and "have proper control over the conduct of those activities".</sentence>
 <sentence id="s79">Arrangements that "in substance" do not allow the company ownership and control "could compel the conclusion" that the development was not for or on behalf of that company.</sentence>
@@ -172,27 +172,27 @@ Another issue is whether the concessional component of an otherwise allowable de
 <sentence id="s90">The Rulings, as the respondent submits, "provide elaboration of potential application of the test".</sentence>
 <sentence id="s91">Relevant factors 
  
-28 The statements assert that the factors relevant to answering the question whether the research and development was carried out for the benefit of, or in the interests of, another person "include" whether the eligible company controls the research and development, whether it has "effective ownership" of the results and whether it bears the financial risk associated with the R&amp;D. It is true that the use of "include" after the words, "this question of fact", appears to indicate that other, relevant factors are not specified however, if this is so the provision of further particulars would resolve the matter.</sentence>
-<sentence id="s92">29 According to the appeal statements, the facts on which the respondent has based his view that the applicant's R&amp;D was carried out on behalf of another, are to be found in paragraphs 15, 16, 19 and 20 to 39 of the statements.</sentence>
-<sentence id="s93">The statements allege that these facts show that the applicant's R&amp;D was carried out "for the benefit of and in the ultimate interests" of Telstra.</sentence>
-<sentence id="s94">Specifically, it is alleged that (a) the facts in paragraph 16 show that Telstra had "ultimate control" of the R&amp;D carried out by Marconi and the applicant; (b) the facts in paragraphs 26 to 29 show that Telstra had "effective ownership of the results" of the applicant's R&amp;D; and (c) the facts in paragraphs 15, 19, and 20 to 25 show that the applicant did not bear any financial risk.</sentence>
-<sentence id="s95">30 Paragraph 16 of each of the statements contends that the terms of three of the contracts, namely those between the Commonwealth and Telstra (the "Prime Contract"), between Telstra and Marconi, and between Marconi and the applicant, show that Telstra was responsible for the Jindalee Project and had ultimate control in relation to the applicant's R&amp;D. The particulars given in respect of paragraph 16 refer to specific clauses of the latter two contracts but not to any provision of the Prime Contract.</sentence>
+28 The statements assert that the factors relevant to answering the question whether the research and development was carried out for the benefit of, or in the interests of, another person "include" whether the eligible company controls the research and development, whether it has "effective ownership" of the results and whether it bears the financial risk associated with the R&amp;amp;D. It is true that the use of "include" after the words, "this question of fact", appears to indicate that other, relevant factors are not specified however, if this is so the provision of further particulars would resolve the matter.</sentence>
+<sentence id="s92">29 According to the appeal statements, the facts on which the respondent has based his view that the applicant's R&amp;amp;D was carried out on behalf of another, are to be found in paragraphs 15, 16, 19 and 20 to 39 of the statements.</sentence>
+<sentence id="s93">The statements allege that these facts show that the applicant's R&amp;amp;D was carried out "for the benefit of and in the ultimate interests" of Telstra.</sentence>
+<sentence id="s94">Specifically, it is alleged that (a) the facts in paragraph 16 show that Telstra had "ultimate control" of the R&amp;amp;D carried out by Marconi and the applicant; (b) the facts in paragraphs 26 to 29 show that Telstra had "effective ownership of the results" of the applicant's R&amp;amp;D; and (c) the facts in paragraphs 15, 19, and 20 to 25 show that the applicant did not bear any financial risk.</sentence>
+<sentence id="s95">30 Paragraph 16 of each of the statements contends that the terms of three of the contracts, namely those between the Commonwealth and Telstra (the "Prime Contract"), between Telstra and Marconi, and between Marconi and the applicant, show that Telstra was responsible for the Jindalee Project and had ultimate control in relation to the applicant's R&amp;amp;D. The particulars given in respect of paragraph 16 refer to specific clauses of the latter two contracts but not to any provision of the Prime Contract.</sentence>
 <sentence id="s96">The applicant points out that despite its location in the part of the respondent's statements dealing with facts, paragraph 16 contains some of the respondent's contentions in relation to the issue of control.</sentence>
 <sentence id="s97">It submits that each of the statements "neither identifies all the facts on which the Respondent makes his contentions (for example, no provisions of the Prime Contract are identified) nor outlines how the Respondent says those facts have the stated effect".</sentence>
 <sentence id="s98">The failure to identify relevant terms of the Prime Contact could be remedied by provision of further particulars as can any deficiency in identifying the facts on which the respondent has based his contentions.</sentence>
 <sentence id="s99">The construction of the terms of the various contracts is a matter for another day.</sentence>
 <sentence id="s100">31 So long as the relevant terms and facts have been identified it is not incumbent on the Commissioner to make submissions on the construction of the contracts at this stage.</sentence>
-<sentence id="s101">It is necessary for the Commissioner to indicate what has led him to the conclusion that the relevant contracts provide for the R&amp;D to be carried out on behalf of someone other than the taxpayer, but it is not necessary for him to identify the persons on whose behalf the R&amp;D was allegedly carried out.</sentence>
-<sentence id="s102">32 Paragraphs 26 to 39 deal with the ownership and licensing of the intellectual property produced by the R&amp;D. The appeal statements detail the provisions of the various contracts that they allege deal with these issues and which ultimately give Telstra control of the intellectual property.</sentence>
+<sentence id="s101">It is necessary for the Commissioner to indicate what has led him to the conclusion that the relevant contracts provide for the R&amp;amp;D to be carried out on behalf of someone other than the taxpayer, but it is not necessary for him to identify the persons on whose behalf the R&amp;amp;D was allegedly carried out.</sentence>
+<sentence id="s102">32 Paragraphs 26 to 39 deal with the ownership and licensing of the intellectual property produced by the R&amp;amp;D. The appeal statements detail the provisions of the various contracts that they allege deal with these issues and which ultimately give Telstra control of the intellectual property.</sentence>
 <sentence id="s103">The respondent's contentions on this question may be right or wrong but that is not the issue here.</sentence>
 <sentence id="s104">The appeal statements provide a coherent account of the Commissioner's contentions on this issue and the facts on which they are based.</sentence>
 <sentence id="s105">Again, it may be that further particulars would provide greater illumination.</sentence>
-<sentence id="s106">33 According to the appeal statements, the factors relevant to the Commissioner's contentions on the financial risk of the R&amp;D are identified in paragraphs 15, 19, and 20 to 25.</sentence>
+<sentence id="s106">33 According to the appeal statements, the factors relevant to the Commissioner's contentions on the financial risk of the R&amp;amp;D are identified in paragraphs 15, 19, and 20 to 25.</sentence>
 <sentence id="s107">That issue is considered below in the context of the discussion of s 73CA.</sentence>
 <sentence id="s108">Section 73CA 
  
-34 As previously indicated, s 73CA provides that the deductions claimed by the taxpayer will not be allowable if the Commissioner is satisfied that the expenditure on R&amp;D was not at the risk of the taxpayer either in whole or in part.</sentence>
-<sentence id="s109">The appeal statements also identify as an issue in the proceedings whether the taxpayer bears the risk of the R&amp;D. In paragraph 55 of the appeal statements the Commissioner says:
+34 As previously indicated, s 73CA provides that the deductions claimed by the taxpayer will not be allowable if the Commissioner is satisfied that the expenditure on R&amp;amp;D was not at the risk of the taxpayer either in whole or in part.</sentence>
+<sentence id="s109">The appeal statements also identify as an issue in the proceedings whether the taxpayer bears the risk of the R&amp;amp;D. In paragraph 55 of the appeal statements the Commissioner says:
  
  The proper construction of the phrase "at risk" is that a company will not be "at risk" in respect of research and development expenditure where the relevant underlying expenditure is reasonably likely to be reimbursed, recouped or recompensed to the company in some way connected to the performance of the activities to which the expenditure relates, as distinct from any subsequent consideration arising from the exploitation of the results of the expenditure on normal commercial terms.</sentence>
 <sentence id="s110">
@@ -207,7 +207,7 @@ Another issue is whether the concessional component of an otherwise allowable de
 <sentence id="s113">As described in the appeal statements, by these contracts part or all of the obligations accepted by Telstra under the Prime Contract are subcontracted either directly to the applicant or to Marconi and thence from Marconi to the applicant.</sentence>
 <sentence id="s114">The respondent alleges in paragraphs 15 and 19 respectively, that the applicant was remunerated by Marconi for its work under the contract with Marconi and by Telstra for its work under the contract with Telstra.</sentence>
 <sentence id="s115">Paragraph 21 describes the flow of funds by way of progress payments from the Commonwealth to Telstra and thence to the applicant either directly or through Marconi.</sentence>
-<sentence id="s116">The respondent concludes in paragraph 25 that the "overall effect" of these provisions was that the applicant did not bear any financial risk, or at least any material financial risk, associated with the R&amp;D.
+<sentence id="s116">The respondent concludes in paragraph 25 that the "overall effect" of these provisions was that the applicant did not bear any financial risk, or at least any material financial risk, associated with the R&amp;amp;D.
  
 37 The Commissioner may be right or wrong in reaching this conclusion but, to my mind, it is a clear enough exposition of his view at the time of the appeal statements.</sentence>
 <sentence id="s117">The respondent submits that the applicant could discharge the onus of proof in relation to this issue by "adducing evidence or advancing submissions to show that, by proper alternative construction of the agreements, the Applicant was at risk in relation to the expenditure".</sentence>

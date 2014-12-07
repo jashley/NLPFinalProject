@@ -3,15 +3,15 @@
 <name>Bryant v Military Rehabilitation and Compensation Commission [2008] FCA 1424 (17 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1424.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">whether tribunal exceeded its jurisdiction by wrongly conceiving the reviewable decision</catchphrase>
-<catchphrase "id=c2">whether tribunal erred in finding other possible causes for the applicant's symptoms</catchphrase>
-<catchphrase "id=c3">whether tribunal applied an incorrect construction of the term minor interference</catchphrase>
-<catchphrase "id=c4">where tribunal wrongly considered whether impairment resulted from service life rather than the degree of permanent impairment resulting from the accepted injury</catchphrase>
-<catchphrase "id=c5">where tribunal erred in finding that other factors could account for symptoms without evidentiary support</catchphrase>
-<catchphrase "id=c6">where tribunal incorrectly applied a global approach to the term minor interference with activities of daily living</catchphrase>
-<catchphrase "id=c7">where appeal allowed</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
+<catchphrase id="c0">appeal from administrative appeals tribunal</catchphrase>
+<catchphrase id="c1">whether tribunal exceeded its jurisdiction by wrongly conceiving the reviewable decision</catchphrase>
+<catchphrase id="c2">whether tribunal erred in finding other possible causes for the applicant's symptoms</catchphrase>
+<catchphrase id="c3">whether tribunal applied an incorrect construction of the term minor interference</catchphrase>
+<catchphrase id="c4">where tribunal wrongly considered whether impairment resulted from service life rather than the degree of permanent impairment resulting from the accepted injury</catchphrase>
+<catchphrase id="c5">where tribunal erred in finding that other factors could account for symptoms without evidentiary support</catchphrase>
+<catchphrase id="c6">where tribunal incorrectly applied a global approach to the term minor interference with activities of daily living</catchphrase>
+<catchphrase id="c7">where appeal allowed</catchphrase>
+<catchphrase id="c8">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -299,7 +299,7 @@ ________________________________________________________
 <sentence id="s143">This issue was outside of Dr Lethlean's expertise.</sentence>
 <sentence id="s144">25 In support of these submissions, Mr Bryant pointed to observations by Mason J (as he then was) in Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40 ; (1985) 162 CLR 24 at 41 to the effect that a court may set aside an administrative decision that has failed to give adequate weight to a relevant factor of great importance, or has given excessive weight to a relevant factor of no great importance, on the ground that the decision is manifestly unreasonable.</sentence>
 <sentence id="s145">It was also noted, by reference to Federal Commissioner of Taxation v Swift and Ors (1989) 18 ALD 679 and Riddle v Telstra Corporation Limited [2006] FCA 58 ; (2006) 149 FCR 348 , that these principles apply equally to a decision of the Tribunal.</sentence>
-<sentence id="s146">26 The Commission submitted, by reference to the Full Court decision in Minister for Immigration &amp; Multicultural Affairs v Betkhoshabeh [1999] FCA 980 ; (1999) 55 ALD 609 , that the decision of the Tribunal, at most, falls within the scope of a decision where the facts were such that an opposite conclusion would have been open to the decision maker, and as such does not evidence an error of law.</sentence>
+<sentence id="s146">26 The Commission submitted, by reference to the Full Court decision in Minister for Immigration &amp;amp; Multicultural Affairs v Betkhoshabeh [1999] FCA 980 ; (1999) 55 ALD 609 , that the decision of the Tribunal, at most, falls within the scope of a decision where the facts were such that an opposite conclusion would have been open to the decision maker, and as such does not evidence an error of law.</sentence>
 <sentence id="s147">The Commission also pointed to the evidence before the Tribunal, particularly that of Dr Lethlean, which questioned the extent of the impairment resulting from the injury and submitted that it was therefore open to the Tribunal to proceed as it did.</sentence>
 <sentence id="s148">The Commission sought further to support these submissions by referring to the high threshold for a determination of " Wednesbury unreasonableness", citing Lord Green MR in Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223 at 230; and also the observation of Gummow J in Minister for Immigration and Multicultural Affairs v Eshetu [1999] HCA 21 ; (1999) 197 CLR 611 at 654, [137] , that it is very difficult to show unreasonableness where the facts are such that reasonable minds could reasonably differ.</sentence>
 <sentence id="s149">Table 13.1 
@@ -418,12 +418,12 @@ ________________________________________________________
 <sentence id="s232">48 In his most recent report, that of 3 November 2006, Dr Lethlean opined, inter alia:
  
  
- &#8226; "My impression is that psychological factors are the principal ones interfering with the wide range of activities as now described [by Mr Bryant].</sentence>
+ &amp;#8226; "My impression is that psychological factors are the principal ones interfering with the wide range of activities as now described [by Mr Bryant].</sentence>
 <sentence id="s233">I would not modify my assessment without the opportunity of re-assessing Mr Bryant clinically and discussing his condition, symptoms and restrictions.</sentence>
 <sentence id="s234">"
- &#8226; "Mr Bryant's Table 13'1 impairment might well be assessed at 10% WPI, or a higher impairment, but this should ... be made with clinical reassessment.</sentence>
+ &amp;#8226; "Mr Bryant's Table 13'1 impairment might well be assessed at 10% WPI, or a higher impairment, but this should ... be made with clinical reassessment.</sentence>
 <sentence id="s235">"
- &#8226; "On 31 October 2005 Mr Bryant reported that sleep apoena had been diagnosed.</sentence>
+ &amp;#8226; "On 31 October 2005 Mr Bryant reported that sleep apoena had been diagnosed.</sentence>
 <sentence id="s236">Sleep apnoea in itself can cause (or increase) headaches, concentration and tiredness difficulties.</sentence>
 <sentence id="s237">It's possible that this is relevant to his current and continuing difficulties.</sentence>
 <sentence id="s238">" (Emphasis added).</sentence>
@@ -511,7 +511,7 @@ Dated: 17 September 2008
 
  Counsel for the Applicant: Mr King-Scott of Counsel 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater &amp;amp; Gordon 
  
  Counsel for the Respondent: Mr Dube (Barrister and Solicitor, appearing as Counsel) 
  

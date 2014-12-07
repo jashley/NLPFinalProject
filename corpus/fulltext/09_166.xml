@@ -3,18 +3,18 @@
 <name>Toia v Minister for Immigration and Citizenship [2009] FCA 166 (27 February 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/166.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">migration act 1958 (cth), ss 474 , 476a and 477a</catchphrase>
-<catchphrase "id=c1">judicial review of a decision of the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c2">jurisdiction of the federal court</catchphrase>
-<catchphrase "id=c3">scope and grounds of review</catchphrase>
-<catchphrase "id=c4">s 39b and s 78b of the judiciary act 1903 (cth)</catchphrase>
-<catchphrase "id=c5">visas</catchphrase>
-<catchphrase "id=c6">process by which child is absorbed</catchphrase>
-<catchphrase "id=c7">purported cancellation of absorbed person visa on character grounds</catchphrase>
-<catchphrase "id=c8">whether child absorbed</catchphrase>
-<catchphrase "id=c9">administrative law</catchphrase>
-<catchphrase "id=c10">constitutional law</catchphrase>
-<catchphrase "id=c11">migration</catchphrase>
+<catchphrase id="c0">migration act 1958 (cth), ss 474 , 476a and 477a</catchphrase>
+<catchphrase id="c1">judicial review of a decision of the administrative appeals tribunal</catchphrase>
+<catchphrase id="c2">jurisdiction of the federal court</catchphrase>
+<catchphrase id="c3">scope and grounds of review</catchphrase>
+<catchphrase id="c4">s 39b and s 78b of the judiciary act 1903 (cth)</catchphrase>
+<catchphrase id="c5">visas</catchphrase>
+<catchphrase id="c6">process by which child is absorbed</catchphrase>
+<catchphrase id="c7">purported cancellation of absorbed person visa on character grounds</catchphrase>
+<catchphrase id="c8">whether child absorbed</catchphrase>
+<catchphrase id="c9">administrative law</catchphrase>
+<catchphrase id="c10">constitutional law</catchphrase>
+<catchphrase id="c11">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -114,7 +114,7 @@
  ... imposes a condition which is of the essence of a new right 
 
  
-(per Windeyer J in Australian Iron &amp; Steel Limited v Hoogland [1962] HCA 13 ; (1962) 108 CLR 471 at 488) and thus:
+(per Windeyer J in Australian Iron &amp;amp; Steel Limited v Hoogland [1962] HCA 13 ; (1962) 108 CLR 471 at 488) and thus:
  
  ... stipulates an essential condition or jurisdictional requirement ... 
 
@@ -124,7 +124,7 @@
 <sentence id="s84">They operate to bar the prosecution of actions otherwise not subject to such a time limit.</sentence>
 <sentence id="s85">In that sense, statutes of limitation are preventative.</sentence>
 <sentence id="s86">However, s 478 does not "bar an existing cause of action"; rather, "[i]t imposes a condition which is of the essence of a new right".</sentence>
-<sentence id="s87">[ Australian Iron &amp; Steel Ltd v Hoogland [1962] HCA 13 ; (1962) 108 CLR 471 at 488; Rudolphy v Lightfoot [1999] HCA 61 ; (1999) 197 CLR 500 at 507---8 [10]---[11]; [1999] HCA 61 ; 167 ALR 105 at 107.</sentence>
+<sentence id="s87">[ Australian Iron &amp;amp; Steel Ltd v Hoogland [1962] HCA 13 ; (1962) 108 CLR 471 at 488; Rudolphy v Lightfoot [1999] HCA 61 ; (1999) 197 CLR 500 at 507---8 [10]---[11]; [1999] HCA 61 ; 167 ALR 105 at 107.</sentence>
 <sentence id="s88">] Thus, s 478(1)(b) and (2) restrict what otherwise would be the conferral upon the Federal Court of jurisdiction by the parliament under ss 76(ii) and 77 (i) of the Constitution .</sentence>
 <sentence id="s89">The new jurisdiction so conferred is remedial in nature, although the remedy is confined by the time restriction upon the institution of the proceeding.</sentence>
 <sentence id="s90">The provision of information to the unsuccessful visa applicant by the RRT is a necessary step to equip the applicant with the wherewithal to institute such a proceeding in the Federal Court.</sentence>
@@ -428,7 +428,7 @@ and
 <sentence id="s281">These contentions will be considered in more detail when I come to consider the applicant's Grounds of Review.</sentence>
 <sentence id="s282">The Tribunal then summarised the evidence given by the main witnesses who gave evidence in the proceedings before it.</sentence>
 <sentence id="s283">These witnesses were the applicant, Mr Hamish McLelland, Dr Tran and Ms Pickersgill.</sentence>
-<sentence id="s284">Mr McLelland described himself as the applicant's fianc&eacute;.</sentence>
+<sentence id="s284">Mr McLelland described himself as the applicant's fianc&amp;eacute;.</sentence>
 <sentence id="s285">Dr Tran had prepared a report dated 16 April 2007 as a court assessment for use in relation to the applicant's court appearance on 16 April 2007 when she was called upon to answer in the District Court of New South Wales the charge that she had driven a motor vehicle whilst disqualified from doing so.</sentence>
 <sentence id="s286">Dr Tran was of the view that the applicant was suffering from attention deficit hyperactivity disorder/syndrome ( ADHD ).</sentence>
 <sentence id="s287">Dr Tran expressed the view that the applicant had manifested a disregard for risks and was at great risk from drugs.</sentence>
@@ -466,7 +466,7 @@ and
 <sentence id="s318">The Tribunal erred in failing to hold that the applicant was not the holder of an Absorbed Person Visa at that or any other time but was the holder of a Special Category Visa and that therefore the delegate of the first respondent was in error in purportedly cancelling a visa that the applicant did not hold.</sentence>
 <sentence id="s319">Particulars 
 
-The departmental advice of 20 October 2005 headed "Ms Patricia Carol Toia (dob 5/7/78) - a New Zealand Citizen - Whether Absorbed Person &amp; Whether then Johnson Affected - Release From Immigration Detention" relied upon by the first respondent to conclude that the applicant held an absorbed person visa was incorrect because the applicant did not hold any such visa at that or any other time.</sentence>
+The departmental advice of 20 October 2005 headed "Ms Patricia Carol Toia (dob 5/7/78) - a New Zealand Citizen - Whether Absorbed Person &amp;amp; Whether then Johnson Affected - Release From Immigration Detention" relied upon by the first respondent to conclude that the applicant held an absorbed person visa was incorrect because the applicant did not hold any such visa at that or any other time.</sentence>
 <sentence id="s320">The Tribunal erred by improperly adopting a prior decision of the Administrative Appeals Tribunal, namely, the earlier Toia Tribunal decision.</sentence>
 <sentence id="s321">The Tribunal erred in making the following findings with no evidential basis to do so.</sentence>
 <sentence id="s322">Particulars 
@@ -856,7 +856,7 @@ This list of factors is plainly not exhaustive.</sentence>
  The matters relied upon in support of this ground were: 
 (a) There was no evidence before the Tribunal to support a finding that only a minority within the Australian community would feel that the applicant's background is such that she should not be sent back to New Zealand (see the Tribunal's reasons at [69]);
  
-(b) There was no evidence before the Tribunal to support a finding that the applicant would suffer no hardship if deported to New Zealand or that there was nothing for her in Australia (reasons at [70] and [72]) nor was there evidence to support the finding that there was no reason why Mr McLelland, a person whom the applicant asserted was her fianc&eacute;, would not be permitted to join the applicant in New Zealand.</sentence>
+(b) There was no evidence before the Tribunal to support a finding that the applicant would suffer no hardship if deported to New Zealand or that there was nothing for her in Australia (reasons at [70] and [72]) nor was there evidence to support the finding that there was no reason why Mr McLelland, a person whom the applicant asserted was her fianc&amp;eacute;, would not be permitted to join the applicant in New Zealand.</sentence>
 <sentence id="s557">The Minister submitted generally in respect of this ground that the applicant could not logically or rationally advance the submissions which had been made on her behalf in circumstances where, as I have mentioned at [139] to [147] above, she was given every opportunity to provide information and material as well as submissions to the decision-makers during the course of the decision-making process but chose not to do so.</sentence>
 <sentence id="s558">The Minister submitted that, if a person in the position of the applicant, having been given the notices she was given in July and September 2007, did not expressly raise particular matters for the consideration of the decision-maker, then she can hardly turn around subsequently and complain that those matters were not taken into account by the decision-maker or not addressed by the Minister in evidence.</sentence>
 <sentence id="s559">The gravamen of this submission was that, in the absence of some statutory prescription requiring that the decision-maker take into account a particular matter, it was for the person in the position of the applicant to raise such matters as she considered appropriate going to the exercise of the discretion called for by s 501 of the Act.</sentence>
@@ -926,7 +926,7 @@ Dated: 27 February 2009
  
  Counsel for the Applicant: Ms RA Pepper and Mr JB Spinak 
  
- Solicitor for the Applicant: Chang, Pistilli &amp; Simmons 
+ Solicitor for the Applicant: Chang, Pistilli &amp;amp; Simmons 
  
  Counsel for the Respondents: Mr SB Lloyd SC 
  

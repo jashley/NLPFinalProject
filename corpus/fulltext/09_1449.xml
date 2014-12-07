@@ -3,10 +3,10 @@
 <name>Smith as Judicial Manager of Australian Family Assurance Limited v Australian Family Assurance Limited [2009] FCA 1449 (4 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1449.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for order giving effect to a course of action recommended by judicial manger in report under s 62zi of insurance act 1973 (cth)</catchphrase>
-<catchphrase "id=c1">recommendation that general insurer be wound up</catchphrase>
-<catchphrase "id=c2">order made under s 62zj(1)(b) of act giving effect to recommendation because it was course of action court considered most advantageous to general interest of policyholders, while promoting financial system stability in australia.</catchphrase>
-<catchphrase "id=c3">insurance</catchphrase>
+<catchphrase id="c0">application for order giving effect to a course of action recommended by judicial manger in report under s 62zi of insurance act 1973 (cth)</catchphrase>
+<catchphrase id="c1">recommendation that general insurer be wound up</catchphrase>
+<catchphrase id="c2">order made under s 62zj(1)(b) of act giving effect to recommendation because it was course of action court considered most advantageous to general interest of policyholders, while promoting financial system stability in australia.</catchphrase>
+<catchphrase id="c3">insurance</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -108,7 +108,7 @@ Dated: 4 December 2009
 John Austin Punch, Anthony Richard Royle, Brian Edward Smith: Ms J E Richards 
  
  Solicitor for Ross David Porter,
-John Austin Punch, Anthony Richard Royle, Brian Edward Smith: Shand &amp; Associates 
+John Austin Punch, Anthony Richard Royle, Brian Edward Smith: Shand &amp;amp; Associates 
  Date of Hearing: 27, 30 October 2009 
  
  Date of Judgment: 30 October 2009 

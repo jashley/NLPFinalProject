@@ -3,10 +3,10 @@
 <name>Sandos Painting Pty Limited (ACN 118 852 832) v Southern NSW Maintenance Pty Ltd (In Liquidation) (ACN 117 950740) [2007] FCA 975 (29 June 2007)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/975.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to set aside statutory demand</catchphrase>
-<catchphrase "id=c1">whether prospective or contingent liability</catchphrase>
-<catchphrase "id=c2">whether genuine dispute as to whether s 569 corporation act 2001 (cth) operates.</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase id="c0">application to set aside statutory demand</catchphrase>
+<catchphrase id="c1">whether prospective or contingent liability</catchphrase>
+<catchphrase id="c2">whether genuine dispute as to whether s 569 corporation act 2001 (cth) operates.</catchphrase>
+<catchphrase id="c3">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -20,11 +20,11 @@
 <sentence id="s4">The demand must:
  
  
- &#8226; specify the debt and its amount; and
- &#8226; require the company to pay the amount of the debt or to secure or compound for that amount within 21 days; and
- &#8226; be in writing; and
- &#8226; be in the prescribed form; and
- &#8226; be signed by or on behalf of the creditor.</sentence>
+ &amp;#8226; specify the debt and its amount; and
+ &amp;#8226; require the company to pay the amount of the debt or to secure or compound for that amount within 21 days; and
+ &amp;#8226; be in writing; and
+ &amp;#8226; be in the prescribed form; and
+ &amp;#8226; be signed by or on behalf of the creditor.</sentence>
 <sentence id="s5">
  
 
@@ -36,8 +36,8 @@ Unless the debt is a judgment debt, the demand must be accompanied by an affidav
 <sentence id="s10">4 Section 459H applies on an application under s 459G where the Court is satisfied of either or both of the following:
  
  
- &#8226; that there is a genuine dispute, between the company and the person who served the statutory demand, about the existence or amount of the debt to which the demand relates, 
- &#8226; that the company has an offsetting claim.</sentence>
+ &amp;#8226; that there is a genuine dispute, between the company and the person who served the statutory demand, about the existence or amount of the debt to which the demand relates, 
+ &amp;#8226; that the company has an offsetting claim.</sentence>
 <sentence id="s11">
  
 
@@ -46,8 +46,8 @@ The Court is required under s 459H(2) to calculate the substantiated amount of t
 <sentence id="s13">5 Further, under s 459J, the Court may, on an application under s 459G, set a statutory demand aside if it is satisfied that:
  
  
- &#8226; because of a defect in the demand, substantial injustice will be caused unless the demand is set aside; or
- &#8226; there is some other reason why the demand should be set aside.</sentence>
+ &amp;#8226; because of a defect in the demand, substantial injustice will be caused unless the demand is set aside; or
+ &amp;#8226; there is some other reason why the demand should be set aside.</sentence>
 <sentence id="s14">
  
 
@@ -129,9 +129,9 @@ Section 596 of the Act is concerned with frauds by officers.</sentence>
 <sentence id="s52">By their response of 8 March 2007, Sandos' solicitors asserted that the draft statutory demand was flawed in several respects as follows:
  
  
- &#8226; s 569 does not give rise to a debt but, at best, gives rise to a contingent or prospective liability, which can not be the subject of a statutory demand;
- &#8226; any such debt is, in any event, a liability owing to the Liquidators and not to Southern;
- &#8226; Sandos has a right of set off in respect of the costs of attachment and there can be no certainty as to the alleged liability until such time as the costs have been agreed or taxed.</sentence>
+ &amp;#8226; s 569 does not give rise to a debt but, at best, gives rise to a contingent or prospective liability, which can not be the subject of a statutory demand;
+ &amp;#8226; any such debt is, in any event, a liability owing to the Liquidators and not to Southern;
+ &amp;#8226; Sandos has a right of set off in respect of the costs of attachment and there can be no certainty as to the alleged liability until such time as the costs have been agreed or taxed.</sentence>
 <sentence id="s53">
  
 
@@ -193,9 +193,9 @@ Section 596 of the Act is concerned with frauds by officers.</sentence>
 <sentence id="s85">The exempt dispositions are:
  
  
- &#8226; a disposition made by the liquidator;
- &#8226; a disposition made in good faith by or with the consent of an administrator;
- &#8226; a disposition under a deed of company arrangement.</sentence>
+ &amp;#8226; a disposition made by the liquidator;
+ &amp;#8226; a disposition made in good faith by or with the consent of an administrator;
+ &amp;#8226; a disposition under a deed of company arrangement.</sentence>
 <sentence id="s86">
  
 
@@ -269,7 +269,7 @@ Dated: 29 June 2007
  
  Counsel for the Defendants: J Evans 
  
- Solicitor for the Defendants: Wollan &amp; Associates Pty Ltd 
+ Solicitor for the Defendants: Wollan &amp;amp; Associates Pty Ltd 
  
  Date of Hearing: 1 June 2007 
  

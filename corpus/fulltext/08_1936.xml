@@ -3,12 +3,12 @@
 <name>Lofthouse (Trustee) v Stirling [2008] FCA 1936 (19 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1936.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">breach of personal insolvency agreement</catchphrase>
-<catchphrase "id=c1">meeting of creditors to consider termination of agreement</catchphrase>
-<catchphrase "id=c2">whether requisite declaration of trustee that debtor in default sufficiently formal</catchphrase>
-<catchphrase "id=c3">signature by agent</catchphrase>
-<catchphrase "id=c4">failure to use word "satisfied"</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
+<catchphrase id="c0">breach of personal insolvency agreement</catchphrase>
+<catchphrase id="c1">meeting of creditors to consider termination of agreement</catchphrase>
+<catchphrase id="c2">whether requisite declaration of trustee that debtor in default sufficiently formal</catchphrase>
+<catchphrase id="c3">signature by agent</catchphrase>
+<catchphrase id="c4">failure to use word "satisfied"</catchphrase>
+<catchphrase id="c5">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -35,13 +35,13 @@
  
 4 The PIA by cl 2.1 provided for the respondent to pay $728,000 to the applicant as follows:
  
-&#8226; $200,000 within 30 days of the execution of the PIA;
+&amp;#8226; $200,000 within 30 days of the execution of the PIA;
  
-&#8226; $12,000 per month for the 12 months beginning 1 July 2008;
+&amp;#8226; $12,000 per month for the 12 months beginning 1 July 2008;
  
-&#8226; $15,000 per month for the 12 months beginning 1 July 2009;
+&amp;#8226; $15,000 per month for the 12 months beginning 1 July 2009;
  
-&#8226; $17,000 per month for the 12 months beginning 1 July 2010.</sentence>
+&amp;#8226; $17,000 per month for the 12 months beginning 1 July 2010.</sentence>
 <sentence id="s6">5 The major creditor of the respondent was the Australian Taxation Office ($713,812 out of a total of $743,812).</sentence>
 <sentence id="s7">Under cl 2.6 the respondent agreed to complete all future Business Activity Statements and Income Tax Returns and satisfy his obligations with respect to the remittance of amounts due and payable (if any) to the ATO in line with statutory requirements.</sentence>
 <sentence id="s8">By cl 2.7 the ATO was to provide the respondent with a seven day grace period from the due date with respect to such future requirements.</sentence>
@@ -104,15 +104,15 @@ The name "R J Cauchi" and the word "Per" are handwritten.</sentence>
 20 The respondent accepts that within the meaning of s 222B(1)(a) he was in default at the time of the passing of the resolution at the 30 September meeting.</sentence>
 <sentence id="s55">However, Mr Bigmore QC, who appeared with Mr Galvin on behalf of the respondent, contended in the respondent's written submissions that the 9 September notice was not the required "written declaration" within the meaning of s 222B(1)(b) because it
  
-&#8226; was not signed by the applicant as trustee, but rather by Mr Cauchi on his behalf; and
+&amp;#8226; was not signed by the applicant as trustee, but rather by Mr Cauchi on his behalf; and
  
-&#8226; did not contain an express statement to the effect that the applicant was personally satisfied that the respondent was in default.</sentence>
+&amp;#8226; did not contain an express statement to the effect that the applicant was personally satisfied that the respondent was in default.</sentence>
 <sentence id="s56">21 At the hearing the case was put perhaps slightly differently.</sentence>
 <sentence id="s57">Mr Bigmore said that the 9 September notice
  
-&#8226; was not the "formal statement" required by s 222B(1)(b) ;
+&amp;#8226; was not the "formal statement" required by s 222B(1)(b) ;
  
-&#8226; was not a written declaration of the applicant's state of mind, as distinct from Mr Cauchi's.</sentence>
+&amp;#8226; was not a written declaration of the applicant's state of mind, as distinct from Mr Cauchi's.</sentence>
 <sentence id="s58">Signature by the trustee 
  
 22 Neither the Act nor the Regulations specify any particular form for the declaration required by s 222B(1)(b).</sentence>

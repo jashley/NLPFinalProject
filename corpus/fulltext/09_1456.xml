@@ -3,17 +3,17 @@
 <name>HP MERCANTILE PTY LIMITED; IN THE MATTER OF TUMUT RIVER ORCHARD MANAGEMENT LTD (IN LIQUIDATION); IN THE MATTER OF MERILBAH INVESTMENTS PTY LIMITED (IN LIQUIDATION) V TUMUT RIVER ORCHARD MANAGEMENT LTD (IN LIQUIDATION), [2009] FCA 1456 (4 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1456.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">managed investment scheme (mis)</catchphrase>
-<catchphrase "id=c1">whether circumstances of liquidator soliciting funding from contingent creditors constituted unlawful mis</catchphrase>
-<catchphrase "id=c2">earlier mis in which company, trom, financed investors into that mis by lending them money</catchphrase>
-<catchphrase "id=c3">trom assigned the debts to other companies which, in turn, assigned them to merilbah, which assigned them to hpm</catchphrase>
-<catchphrase "id=c4">attempts by hpm to recover the debts from numerous investor-debtors in supreme court and district court</catchphrase>
-<catchphrase "id=c5">question whether assignments were valid</catchphrase>
-<catchphrase "id=c6">liquidators of trom and merilbah now soliciting funding from the numerous investor-debtors to enable them to challenge validity of assignments with a view to debts remaining the property of trom or merilbah</catchphrase>
-<catchphrase "id=c7">solicitation of funding on basis that any investor-debtor who provided funding would or might obtain a release of his or her debt from the liquidators</catchphrase>
-<catchphrase "id=c8">present application by hpm for interim injunction under s 1324(4) of corporations act 2001 (cth) restraining trom, merilbah and their liquidators from attempting to raise further funds and from expending any of the funds already raised on basis that the obtaining of the funding in all of the circumstances constituted an mis that was required to be registered but which was unlawful for non-registration. held: modified form of injunctive relief granted on interim basis.</catchphrase>
-<catchphrase "id=c9">(in liquidation), [2009] fca 1456</catchphrase>
-<catchphrase "id=c10">corporations</catchphrase>
+<catchphrase id="c0">managed investment scheme (mis)</catchphrase>
+<catchphrase id="c1">whether circumstances of liquidator soliciting funding from contingent creditors constituted unlawful mis</catchphrase>
+<catchphrase id="c2">earlier mis in which company, trom, financed investors into that mis by lending them money</catchphrase>
+<catchphrase id="c3">trom assigned the debts to other companies which, in turn, assigned them to merilbah, which assigned them to hpm</catchphrase>
+<catchphrase id="c4">attempts by hpm to recover the debts from numerous investor-debtors in supreme court and district court</catchphrase>
+<catchphrase id="c5">question whether assignments were valid</catchphrase>
+<catchphrase id="c6">liquidators of trom and merilbah now soliciting funding from the numerous investor-debtors to enable them to challenge validity of assignments with a view to debts remaining the property of trom or merilbah</catchphrase>
+<catchphrase id="c7">solicitation of funding on basis that any investor-debtor who provided funding would or might obtain a release of his or her debt from the liquidators</catchphrase>
+<catchphrase id="c8">present application by hpm for interim injunction under s 1324(4) of corporations act 2001 (cth) restraining trom, merilbah and their liquidators from attempting to raise further funds and from expending any of the funds already raised on basis that the obtaining of the funding in all of the circumstances constituted an mis that was required to be registered but which was unlawful for non-registration. held: modified form of injunctive relief granted on interim basis.</catchphrase>
+<catchphrase id="c9">(in liquidation), [2009] fca 1456</catchphrase>
+<catchphrase id="c10">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -145,14 +145,14 @@
 <sentence id="s59">Create uncertainty and delay in HP Mercantile's dealings and interactions with each of TROM, TROM's Liquidator, Merilbah and Merilbah's Liquidators, including in the proceedings particularised under paragraph 22(c) [perhaps a reference to para 22(ii)(c) --- see [21] above].</sentence>
 <sentence id="s60">Accordingly, so it is said (para 35 of the SOC), HPM is a person whose interests are or would be affected within s 1324 of the Act by the continued operation of the scheme.</sentence>
 <sentence id="s61">Further Facts
- Consequent upon a creditors' voluntary winding up on or about 28 April 1999, Maxwell William Prentice and Vince Christopher Barilla of Prentice Parbery &amp; Barilla were appointed joint liquidators of TROM.</sentence>
+ Consequent upon a creditors' voluntary winding up on or about 28 April 1999, Maxwell William Prentice and Vince Christopher Barilla of Prentice Parbery &amp;amp; Barilla were appointed joint liquidators of TROM.</sentence>
 <sentence id="s62">TROM was deregistered on 7 January 2006.</sentence>
 <sentence id="s63">On 7 July 2008 the Supreme Court of New South Wales ordered that the registration of TROM be reinstated and it appointed TROM's Liquidator.</sentence>
 <sentence id="s64">On 7 February 2008 the Supreme Court of Western Australia ordered that Merilbah be wound up and it appointed Merilbah's Liquidators.</sentence>
 <sentence id="s65">Funds were sought from the investor-debtors to constitute a "Fighting Fund" to enable the validity of the assignments to be tested.</sentence>
 <sentence id="s66">The money raised was paid into a bank account in the name of Merilbah.</sentence>
 <sentence id="s67">It seems that a company named Horticultural Operations Ltd (HOL) has played a leading role in the soliciting of the funds, but there is evidence that Mr Crouch has sought funds from the investor-debtors too.</sentence>
-<sentence id="s68">A firm of solicitors named Galic &amp; Co Lawyers and a chartered accountant named Barry Coates have also been involved.</sentence>
+<sentence id="s68">A firm of solicitors named Galic &amp;amp; Co Lawyers and a chartered accountant named Barry Coates have also been involved.</sentence>
 <sentence id="s69">In its circular to investor-debtors, HOL has misleadingly asserted that if the assignments are held to be invalid so that title to the debts remains with TROM or Merilbah, the debt of a funding investor-debtor will be discharged.</sentence>
 <sentence id="s70">For example, in its circular dated 19 May 2009 HOL stated: "Growers contributing to the HOL Legal Fund will obtain a discharge of loan obligations from the Liquidator".</sentence>
 <sentence id="s71">By contrast, in his circular to investor-debtors Mr Crouch has pointed out that while he will seek approval from the Court for such a favourable treatment of a funding investor-creditor, the matter is within the discretion of the Court (and see para 26(vi) of the statement of claim set out at [23] above).</sentence>
@@ -174,7 +174,7 @@
 <sentence id="s86">Palmer J pointed out in Australian Securities and Investments Commission v Mauer-Swisse Securities Ltd (2002) 42 ACSR 605 that when granting an injunction under s 1324(1) or (4) of the Act the Court is not exercising the traditional equitable jurisdiction to grant final or interlocutory injunctions.</sentence>
 <sentence id="s87">While considerations that are customarily relevant to the exercise of that jurisdiction may be also relevant to the exercise of the discretion under s 1324(1) or (4), the dominant consideration in cases under the section is the purpose of the provision of the Act that is said to have been contravened.</sentence>
 <sentence id="s88">Unfortunately, to a large extent the parties have not joined issue in their submissions.</sentence>
-<sentence id="s89">HPM emphasises that the purpose of Pt 5C of the Act is to establish a r&eacute;gime to protect those who contemplate acquiring or have acquired interests in MISs.</sentence>
+<sentence id="s89">HPM emphasises that the purpose of Pt 5C of the Act is to establish a r&amp;eacute;gime to protect those who contemplate acquiring or have acquired interests in MISs.</sentence>
 <sentence id="s90">Counsel for HPM submits that the arrangement established and implemented by the defendants was the very kind of arrangement that the legislature intended should be registered and regulated by Pt 5C.</sentence>
 <sentence id="s91">This submission, however, assumes what is to be decided --- that there was an MIS in the first place.</sentence>
 <sentence id="s92">Counsel for the defendants, on the other hand, places heavy reliance on s 564 of the Act.</sentence>

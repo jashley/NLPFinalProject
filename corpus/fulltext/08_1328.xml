@@ -3,15 +3,15 @@
 <name>Hamilton v Diprose (No 2) [2008] FCA 1328 (29 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1328.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">agreement dealing with contributions to legal costs in relation to criminal proceedings</catchphrase>
-<catchphrase "id=c1">whether funds held in trust according to agreement should be distributed</catchphrase>
-<catchphrase "id=c2">whether order in relation to criminal proceeding amounted to conviction</catchphrase>
-<catchphrase "id=c3">whether final determination of charges</catchphrase>
-<catchphrase "id=c4">costs of application for directions</catchphrase>
-<catchphrase "id=c5">whether reasonable</catchphrase>
-<catchphrase "id=c6">" final determination "</catchphrase>
-<catchphrase "id=c7">corporations</catchphrase>
-<catchphrase "id=c8">words and phrases</catchphrase>
+<catchphrase id="c0">agreement dealing with contributions to legal costs in relation to criminal proceedings</catchphrase>
+<catchphrase id="c1">whether funds held in trust according to agreement should be distributed</catchphrase>
+<catchphrase id="c2">whether order in relation to criminal proceeding amounted to conviction</catchphrase>
+<catchphrase id="c3">whether final determination of charges</catchphrase>
+<catchphrase id="c4">costs of application for directions</catchphrase>
+<catchphrase id="c5">whether reasonable</catchphrase>
+<catchphrase id="c6">" final determination "</catchphrase>
+<catchphrase id="c7">corporations</catchphrase>
+<catchphrase id="c8">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -105,14 +105,14 @@
 <sentence id="s47">However, the Liquidator goes on to say that the sum of approximately $40,000 (including GST) "is attributed to such work carried out by my solicitors and Counsel" over the same period.</sentence>
 <sentence id="s48">18 In an earlier affidavit sworn on 29 May 2008 the Liquidator attributes $6,939.59 (excluding GST) to work in connection with the Deed carried out by his solicitors from 10 December 2007 to 21 April 2008.</sentence>
 <sentence id="s49">19 As far as I can see, the legal work between 21 April and 22 August 2008 for which approximately $33,000 is claimed amounted to:
- &#8226; The preparation of the application and the affidavit of 29 May.</sentence>
+ &amp;#8226; The preparation of the application and the affidavit of 29 May.</sentence>
 <sentence id="s50">The affidavit is of 21 paragraphs and has 18 exhibits.</sentence>
 <sentence id="s51">It sets out the background to the Deed and correspondence between the Liquidator and Messrs White and Diprose (on the face of the documents, the solicitors do not seem to have been involved in the correspondence).</sentence>
-<sentence id="s52">&#8226; An appearance by senior counsel on 20 June when substantive submissions were made.</sentence>
+<sentence id="s52">&amp;#8226; An appearance by senior counsel on 20 June when substantive submissions were made.</sentence>
 <sentence id="s53">I adjourned the application so that Mr Diprose, obviously a party affected, could be served.</sentence>
 <sentence id="s54">The hearing occupied 40 minutes.</sentence>
-<sentence id="s55">&#8226; A directions hearing on 21 July when the Liquidator was represented by his solicitor (45 minutes).</sentence>
-<sentence id="s56">&#8226; The further substantive hearing on 25 August when senior counsel appeared.</sentence>
+<sentence id="s55">&amp;#8226; A directions hearing on 21 July when the Liquidator was represented by his solicitor (45 minutes).</sentence>
+<sentence id="s56">&amp;#8226; The further substantive hearing on 25 August when senior counsel appeared.</sentence>
 <sentence id="s57">In substance the earlier submissions were repeated (54 minutes).</sentence>
 <sentence id="s58">20 While the Liquidator acted reasonably in seeking the directions of the Court, it could not be said that the questions raised were of any great legal or factual complexity.</sentence>
 <sentence id="s59">21 As trustee of the fund constituted by the Deed, the Liquidator is entitled to indemnity for costs but, as his application for directions acknowledges, costs properly and reasonably incurred.</sentence>
@@ -126,7 +126,7 @@ Dated: 29 August 2008
 
  Counsel for the Applicant: Mr P Tree SC 
  
- Solicitors for the Applicant: Toomey Maning &amp; Co 
+ Solicitors for the Applicant: Toomey Maning &amp;amp; Co 
  
  Counsel for the Respondent: Respondent appeared in person 
 

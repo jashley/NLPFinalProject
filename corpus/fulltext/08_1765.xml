@@ -3,12 +3,12 @@
 <name>Skouloudis v St George Bank Ltd [2008] FCA 1765 (26 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1765.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">notice disputing validity of bankruptcy notice for overstatement of judgment debt under s 41(5) of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c1">the operation of s 41(5)</catchphrase>
-<catchphrase "id=c2">whether an overstatement in a bankruptcy notice renders the notice invalid from the time of its issue if the requirements of s 41(5) are satisfied</catchphrase>
-<catchphrase "id=c3">notice under this act</catchphrase>
-<catchphrase "id=c4">whether a court has the power to amend a bankruptcy notice under s 33(1)(b) once it is invalid</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
+<catchphrase id="c0">notice disputing validity of bankruptcy notice for overstatement of judgment debt under s 41(5) of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c1">the operation of s 41(5)</catchphrase>
+<catchphrase id="c2">whether an overstatement in a bankruptcy notice renders the notice invalid from the time of its issue if the requirements of s 41(5) are satisfied</catchphrase>
+<catchphrase id="c3">notice under this act</catchphrase>
+<catchphrase id="c4">whether a court has the power to amend a bankruptcy notice under s 33(1)(b) once it is invalid</catchphrase>
+<catchphrase id="c5">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -178,11 +178,11 @@ Section 41(5) of the Bankruptcy Act reproduces the substance of the first part o
 <sentence id="s78">[47] Section 41(5) of the Bankruptcy Act incorporates the drafting changes suggested by the Clyne Committee and differs from the first part of proviso (ii) to s 53 in several respects.</sentence>
 <sentence id="s79">These are as follows: 
  
- &#8226; Section 41(5) is not expressed as a proviso to any other section.</sentence>
+ &amp;#8226; Section 41(5) is not expressed as a proviso to any other section.</sentence>
 <sentence id="s80">However, s 41(2) of the Bankruptcy Act , as originally enacted, was similar to the first part of s 53 of the 1924 Act to which par (ii) was a proviso.</sentence>
 <sentence id="s81">(Section 41(2), in its original form, was repealed in 1996 and replaced with a provision which merely requires the bankruptcy notice to be in accordance with the prescribed form).</sentence>
-<sentence id="s82">&#8226; The subsection uses the expression "the amount in fact due" to replace "the amount actually due" in proviso (ii).</sentence>
-<sentence id="s83">&#8226; The expression "the misstatement" is substituted for the phrase "such misstatement", which was used in proviso (ii).</sentence>
+<sentence id="s82">&amp;#8226; The subsection uses the expression "the amount in fact due" to replace "the amount actually due" in proviso (ii).</sentence>
+<sentence id="s83">&amp;#8226; The expression "the misstatement" is substituted for the phrase "such misstatement", which was used in proviso (ii).</sentence>
 <sentence id="s84">
  
 [48] None of these changes is in our view significant for present purposes.</sentence>

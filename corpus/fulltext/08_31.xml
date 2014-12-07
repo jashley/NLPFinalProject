@@ -3,18 +3,18 @@
 <name>Dunstan v Orr [2008] FCA 31 (25 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/31.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for judicial review under administrative decisions (judicial review) act 1977 (cth) ("adjr act")</catchphrase>
-<catchphrase "id=c1">where applicant former employee of commonwealth public service</catchphrase>
-<catchphrase "id=c2">where first respondent delegate of secretary under s 63b public service act 1922 (cth) ("psa act")</catchphrase>
-<catchphrase "id=c3">where first respondent suspended applicant from duty pursuant to s 63b psa act</catchphrase>
-<catchphrase "id=c4">where third respondent authorised officer under s 61(2) psa act</catchphrase>
-<catchphrase "id=c5">where first respondent suspended applicant after being informed by third respondent that third respondent of opinion that applicant may have failed to fulfil duty as officer</catchphrase>
-<catchphrase "id=c6">where second respondent authorised officer under s 61(2) psa act</catchphrase>
-<catchphrase "id=c7">where second respondent charged applicant with failing to fulfil duty as officer pursuant to s 61(2) psa act</catchphrase>
-<catchphrase "id=c8">whether third respondent made a decision to which adjr act applies</catchphrase>
-<catchphrase "id=c9">whether first respondent made a decision to which adjr act applies</catchphrase>
-<catchphrase "id=c10">whether second respondent made a decision to which adjr act applies</catchphrase>
-<catchphrase "id=c11">administrative law</catchphrase>
+<catchphrase id="c0">application for judicial review under administrative decisions (judicial review) act 1977 (cth) ("adjr act")</catchphrase>
+<catchphrase id="c1">where applicant former employee of commonwealth public service</catchphrase>
+<catchphrase id="c2">where first respondent delegate of secretary under s 63b public service act 1922 (cth) ("psa act")</catchphrase>
+<catchphrase id="c3">where first respondent suspended applicant from duty pursuant to s 63b psa act</catchphrase>
+<catchphrase id="c4">where third respondent authorised officer under s 61(2) psa act</catchphrase>
+<catchphrase id="c5">where first respondent suspended applicant after being informed by third respondent that third respondent of opinion that applicant may have failed to fulfil duty as officer</catchphrase>
+<catchphrase id="c6">where second respondent authorised officer under s 61(2) psa act</catchphrase>
+<catchphrase id="c7">where second respondent charged applicant with failing to fulfil duty as officer pursuant to s 61(2) psa act</catchphrase>
+<catchphrase id="c8">whether third respondent made a decision to which adjr act applies</catchphrase>
+<catchphrase id="c9">whether first respondent made a decision to which adjr act applies</catchphrase>
+<catchphrase id="c10">whether second respondent made a decision to which adjr act applies</catchphrase>
+<catchphrase id="c11">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -181,11 +181,11 @@
 <sentence id="s139">4.</sentence>
 <sentence id="s140">The third respondent formed the view that the applicant was seeking access to a number of files including the following: 
 
-&#61863; Files showing any variations to the normal pay of any staff member in the ATO;
+&amp;#61863; Files showing any variations to the normal pay of any staff member in the ATO;
  
-&#61863; Files worked on by people in the database area of the ATO which were used in the running of the ATO's mainframe, including a file belonging to one of those persons against whom the applicant had brought legal proceedings; and
+&amp;#61863; Files worked on by people in the database area of the ATO which were used in the running of the ATO's mainframe, including a file belonging to one of those persons against whom the applicant had brought legal proceedings; and
  
-&#61863; Files belonging to the ATO's senior security administrator, who was the RACF administrator for the ATO.</sentence>
+&amp;#61863; Files belonging to the ATO's senior security administrator, who was the RACF administrator for the ATO.</sentence>
 <sentence id="s141">This person could look at anything in the ATO's computer system.</sentence>
 <sentence id="s142">As the third respondent said, he has "the power to corrupt or destroy all the mainframe files that contain data about taxpayers".</sentence>
 <sentence id="s143">
@@ -266,9 +266,9 @@
 <sentence id="s188">Advice and comments in relation to each of the "recorded violations" in terms of: 
  
  
- &#61863; The opportunity of others to falsify the systems records or reports produced;
- &#61863; The contents of the data sets and their purpose in the ATO environment; and
- &#61863; An assessment of the security implications of each.</sentence>
+ &amp;#61863; The opportunity of others to falsify the systems records or reports produced;
+ &amp;#61863; The contents of the data sets and their purpose in the ATO environment; and
+ &amp;#61863; An assessment of the security implications of each.</sentence>
 <sentence id="s189">
  
  
@@ -467,20 +467,20 @@
 <sentence id="s302">
  
  
- &#61863; Mr Higham verified that the attempted accesses as outlined in the charge in fact occurred by reference to staff of the Computer Security Section.</sentence>
+ &amp;#61863; Mr Higham verified that the attempted accesses as outlined in the charge in fact occurred by reference to staff of the Computer Security Section.</sentence>
 <sentence id="s303">Those were the attempted accesses referred to in the record of interview with you by Mr Growder, Ms Orr and Mr Molineux of 4 June 1997, and also referred to by the external consultant in his report of 12 June 1997.</sentence>
-<sentence id="s304">&#61863; Mr Higham also verified, in an interview with the external consultant, that the attempted accesses occurred from the consultant's own independent analysis; the potential significance of those attempted breaches; and that no other attempted breaches or actual breaches occurred.</sentence>
-<sentence id="s305">&#61863; Mr Higham verified that you were not advised of the (then) recent internal campaign in relation to "Your Userid, Your Access, Your Responsibility" on your return to work.</sentence>
-<sentence id="s306">&#61863; Mr Higham verified the nature of the accesses attempted by you to NOMAD (staff records) data.</sentence>
-<sentence id="s307">&#61863; Mr Higham verified that where you were confronted by limitations to your attempted accesses, you did not approach your supervisor to raise this as an issue, not [sic] attempt through your supervisor to get your access changed in support of your work needs or for any other reason.</sentence>
-<sentence id="s308">&#61863; Mr Higham assessed the attempted breaches and verified that they were not necessary for you to meet the requirements of your assigned work.</sentence>
-<sentence id="s309">&#61863; Mr Higham verified the nature of your work at the time through examination of terms of reference for the work and the reports produced by you (as supplied by Mr Growder).</sentence>
-<sentence id="s310">&#61863; Mr Higham spoke with you by telephone and wrote to you about meeting to discuss the attempted accesses.</sentence>
+<sentence id="s304">&amp;#61863; Mr Higham also verified, in an interview with the external consultant, that the attempted accesses occurred from the consultant's own independent analysis; the potential significance of those attempted breaches; and that no other attempted breaches or actual breaches occurred.</sentence>
+<sentence id="s305">&amp;#61863; Mr Higham verified that you were not advised of the (then) recent internal campaign in relation to "Your Userid, Your Access, Your Responsibility" on your return to work.</sentence>
+<sentence id="s306">&amp;#61863; Mr Higham verified the nature of the accesses attempted by you to NOMAD (staff records) data.</sentence>
+<sentence id="s307">&amp;#61863; Mr Higham verified that where you were confronted by limitations to your attempted accesses, you did not approach your supervisor to raise this as an issue, not [sic] attempt through your supervisor to get your access changed in support of your work needs or for any other reason.</sentence>
+<sentence id="s308">&amp;#61863; Mr Higham assessed the attempted breaches and verified that they were not necessary for you to meet the requirements of your assigned work.</sentence>
+<sentence id="s309">&amp;#61863; Mr Higham verified the nature of your work at the time through examination of terms of reference for the work and the reports produced by you (as supplied by Mr Growder).</sentence>
+<sentence id="s310">&amp;#61863; Mr Higham spoke with you by telephone and wrote to you about meeting to discuss the attempted accesses.</sentence>
 <sentence id="s311">You responded in writing that you had comprehensively responded to questions by Mr Growder.</sentence>
 <sentence id="s312">Mr Higham therefore proceeded on the basis of those questions and your responses thereto.</sentence>
-<sentence id="s313">&#61863; Mr Higham was unable to determine the motives behind the alleged attempted breaches.</sentence>
+<sentence id="s313">&amp;#61863; Mr Higham was unable to determine the motives behind the alleged attempted breaches.</sentence>
 <sentence id="s314">Mr Higham did not pursue this aspect as it was not, in his opinion, essential to the notion that misconduct may have occurred.</sentence>
-<sentence id="s315">&#61863; Mr Higham considered that you may have attempted to breach security on the basis that the attempted accesses occurred, that a number of those, at least, were not necessary for the requirements of your work and that you, contrary to Mr Higham's expectations, did not raise issue with the limitations to your access ability.</sentence>
+<sentence id="s315">&amp;#61863; Mr Higham considered that you may have attempted to breach security on the basis that the attempted accesses occurred, that a number of those, at least, were not necessary for the requirements of your work and that you, contrary to Mr Higham's expectations, did not raise issue with the limitations to your access ability.</sentence>
 <sentence id="s316">Mr Higham believed that his conclusion was supported by the "need to know" principle, which he formulated thus: 
  
  
@@ -493,7 +493,7 @@
  
  
  
- &#61863; Mr Higham believed that it could reasonably be concluded that successful breaching of security by the accesses attempted as described in the charge and with further work having been performed following those breaches then the following scenarios could result:
+ &amp;#61863; Mr Higham believed that it could reasonably be concluded that successful breaching of security by the accesses attempted as described in the charge and with further work having been performed following those breaches then the following scenarios could result:
  (1) ability to gain access to production taxpayer data;
  (2) ability to gain access to sensitive ATO staff records data; 
  
@@ -506,10 +506,10 @@
  
  
  
- &#61863; Mr Higham concluded that as attempted breaches may have occurred and that the consequences of those breaches would have been extremely serious in relation to the security of taxpayer data, ATO staff records data and the ongoing viability of ATO core business systems that charges should be laid against you pursuant to paragraph 56(d) of the Public Service Act.</sentence>
-<sentence id="s320">&#61863; Mr Higham considered counselling as an option but, in the light of the potential seriousness of the matter, decided to proceed with the charges.</sentence>
+ &amp;#61863; Mr Higham concluded that as attempted breaches may have occurred and that the consequences of those breaches would have been extremely serious in relation to the security of taxpayer data, ATO staff records data and the ongoing viability of ATO core business systems that charges should be laid against you pursuant to paragraph 56(d) of the Public Service Act.</sentence>
+<sentence id="s320">&amp;#61863; Mr Higham considered counselling as an option but, in the light of the potential seriousness of the matter, decided to proceed with the charges.</sentence>
 <sentence id="s321">Mr Higham noted that if the system had not detected and inhibited the attempted accesses then there could potentially have been outcomes resulting in criminal charges being made, based on the data that could have been accessed.</sentence>
-<sentence id="s322">&#61863; Mr Higham also took into account legal advice.</sentence>
+<sentence id="s322">&amp;#61863; Mr Higham also took into account legal advice.</sentence>
 <sentence id="s323">
  
  

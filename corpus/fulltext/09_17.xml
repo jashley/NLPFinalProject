@@ -3,12 +3,12 @@
 <name>Australian Competition and Consumer Commission v Allphones Retail Pty Ltd (No 2) [2009] FCA 17 (19 January 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/17.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">unconscionable conduct</catchphrase>
-<catchphrase "id=c1">claim for interlocutory injunctions</catchphrase>
-<catchphrase "id=c2">whether threats made by the franchisor of a phone and accessories retailing group to ration or withhold stock from its franchisees amounted to unconscionable conduct within the meaning of s 51ac of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c3">in the circumstances of the present case a prima facie case was established</catchphrase>
-<catchphrase "id=c4">interlocutory injunctions granted</catchphrase>
-<catchphrase "id=c5">trade practices</catchphrase>
+<catchphrase id="c0">unconscionable conduct</catchphrase>
+<catchphrase id="c1">claim for interlocutory injunctions</catchphrase>
+<catchphrase id="c2">whether threats made by the franchisor of a phone and accessories retailing group to ration or withhold stock from its franchisees amounted to unconscionable conduct within the meaning of s 51ac of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c3">in the circumstances of the present case a prima facie case was established</catchphrase>
+<catchphrase id="c4">interlocutory injunctions granted</catchphrase>
+<catchphrase id="c5">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -289,7 +289,7 @@ The proceedings referred to in the letter were the main ACCC proceedings (ie.</s
 <sentence id="s185">The planned mediation was to occur between 24 and 30 November 2008.</sentence>
 <sentence id="s186">70 Having set up the dispute resolution process and procured the involvement of most of its existing franchisees on the old franchise agreement, Mr Baker sent an email on 20 October 2008 to all of the relevant franchisees.</sentence>
 <sentence id="s187">That email was in the following terms:
- "From: Tony Baker &lt;Tony.Baker@staff.allphones.com.au&gt; Date: 20 October 2008 11:24:04 AM To: Tony Baker &lt;Tonv.Baker@staff.allphones.com.au&gt; Subject: Stock --- Suppliers' credit terms Dear Franchisee Stock --- Suppliers' credit terms In order to provide stock to Allphones stores at current levels, Allphones depends to a large extent on the credit allowed by equipment suppliers.</sentence>
+ "From: Tony Baker &amp;lt;Tony.Baker@staff.allphones.com.au&amp;gt; Date: 20 October 2008 11:24:04 AM To: Tony Baker &amp;lt;Tonv.Baker@staff.allphones.com.au&amp;gt; Subject: Stock --- Suppliers' credit terms Dear Franchisee Stock --- Suppliers' credit terms In order to provide stock to Allphones stores at current levels, Allphones depends to a large extent on the credit allowed by equipment suppliers.</sentence>
 <sentence id="s188">With the overall growth of Allphones sales and the Christmas selling season approaching (accounting for some 30%+ of total annual sales), the level of this credit is of special importance.</sentence>
 <sentence id="s189">Several market "shocks" have recently affected suppliers' willingness to extend credit: 
  
@@ -797,7 +797,7 @@ Mr Pereira's reply was sent on 30 October 2008 --- three days after Mr Filipsons
 <sentence id="s485">137 I am not necessarily in agreement with that contention.</sentence>
 <sentence id="s486">However, for present purposes, I need not consider it further.</sentence>
 <sentence id="s487">138 In the present case, the ACCC argues that the sole or predominant or a substantial purpose of the stance adopted by Allphones reflected in the Baker email and in the terms of the subsequent conversations with the franchisees was to pressure those franchisees who remained on the old franchise agreement into giving up their existing rights to continue to remain on that agreement; into releasing Allphones from past breaches of that agreement and into entering into fresh contractual arrangements which were less favourable than those reflected in the old franchise agreement in so far as the franchisees' entitlement to a share of commissions and rebates is concerned and in respect of the supply of stock.</sentence>
-<sentence id="s488">139 In effect, the contention of the ACCC is that, in the context in which Allphones' conduct took place, the threat to exercise the contractual and practical powers of control over stock enjoyed by Allphones vis-&agrave;-vis its franchisees for a reason which is not legitimately connected to the requirements of the business as a whole, constituted unconscionable conduct.</sentence>
+<sentence id="s488">139 In effect, the contention of the ACCC is that, in the context in which Allphones' conduct took place, the threat to exercise the contractual and practical powers of control over stock enjoyed by Allphones vis-&amp;agrave;-vis its franchisees for a reason which is not legitimately connected to the requirements of the business as a whole, constituted unconscionable conduct.</sentence>
 <sentence id="s489">The ACCC argued that, in the present case, there was an actual exercise or a threatened exercise of those powers for such a purpose in that the motivation and objective of Allphones in engaging in the conduct of which complaint is being made was to pressure and bully franchisees engaged under the old franchise agreement into giving up their rights rather than to allocate rationally and fairly such stock as there was in the system on a basis which reflected the legitimate business needs of the system as a whole and of the individual stores comprising that system.</sentence>
 <sentence id="s490">140 One way of testing the matter in issue is to ask the question: Would the Baker email have been sent and would the alleged conversations have taken place if Allphones was not at the very same time that these events took place, seeking to pressure franchisees under the old agreement to migrate to the new arrangements.</sentence>
 <sentence id="s491">141 The ACCC's case is that the answer to that question is a resounding: No.</sentence>

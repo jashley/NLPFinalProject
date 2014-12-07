@@ -3,13 +3,13 @@
 <name>Webb v Teeling [2009] FCA 1094 (29 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1094.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">payment of a death benefit in superannuation fund</catchphrase>
-<catchphrase "id=c1">complaint to superannuation complaints tribunal</catchphrase>
-<catchphrase "id=c2">whether trustee's decision fair and reasonable</catchphrase>
-<catchphrase "id=c3">relevant considerations in determining whether decision fair and reasonable</catchphrase>
-<catchphrase "id=c4">scope of complaint</catchphrase>
-<catchphrase "id=c5">scope of tribunal's powers.</catchphrase>
-<catchphrase "id=c6">superannuation</catchphrase>
+<catchphrase id="c0">payment of a death benefit in superannuation fund</catchphrase>
+<catchphrase id="c1">complaint to superannuation complaints tribunal</catchphrase>
+<catchphrase id="c2">whether trustee's decision fair and reasonable</catchphrase>
+<catchphrase id="c3">relevant considerations in determining whether decision fair and reasonable</catchphrase>
+<catchphrase id="c4">scope of complaint</catchphrase>
+<catchphrase id="c5">scope of tribunal's powers.</catchphrase>
+<catchphrase id="c6">superannuation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -504,11 +504,11 @@ Dated: 29 September 2009
  
  Counsel for the Third Respondent: Mr A R R Vincent 
  
- Solicitor for the Applicant: Isho &amp; Associates 
+ Solicitor for the Applicant: Isho &amp;amp; Associates 
  
  Solicitor for the First Respondent: Marsdens Law Group 
  
- Solicitor for the Third Respondent: Bowring Macaulay &amp; Barrett 
+ Solicitor for the Third Respondent: Bowring Macaulay &amp;amp; Barrett 
  Date of Hearing: 21 August 2009 
  
  Date of Judgment: 29 September 2009 

@@ -3,14 +3,14 @@
 <name>SZIIF v Minister for Immigration and Citizenship [2008] FCA 913 (19 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/913.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">protection visa application</catchphrase>
-<catchphrase "id=c1">three refugee review tribunal hearings over almost four-year period</catchphrase>
-<catchphrase "id=c2">purported inconsistencies between statements by appellant to delegate of minister and to rrt hearings</catchphrase>
-<catchphrase "id=c3">failure by rrt to take into account effect of delay</catchphrase>
-<catchphrase "id=c4">failure by rrt to take into account effect of appellant having to repeat claims on numerous occasions</catchphrase>
-<catchphrase "id=c5">rrt error in finding multiple inconsistencies in appellant's evidence when none apparent on proper analysis</catchphrase>
-<catchphrase "id=c6">jurisdictional error</catchphrase>
-<catchphrase "id=c7">immigration</catchphrase>
+<catchphrase id="c0">protection visa application</catchphrase>
+<catchphrase id="c1">three refugee review tribunal hearings over almost four-year period</catchphrase>
+<catchphrase id="c2">purported inconsistencies between statements by appellant to delegate of minister and to rrt hearings</catchphrase>
+<catchphrase id="c3">failure by rrt to take into account effect of delay</catchphrase>
+<catchphrase id="c4">failure by rrt to take into account effect of appellant having to repeat claims on numerous occasions</catchphrase>
+<catchphrase id="c5">rrt error in finding multiple inconsistencies in appellant's evidence when none apparent on proper analysis</catchphrase>
+<catchphrase id="c6">jurisdictional error</catchphrase>
+<catchphrase id="c7">immigration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -492,7 +492,7 @@ Dated: 19 June 2008
  Counsel for the Appellant: Mr J.</sentence>
 <sentence id="s422">Young 
  
- Solicitor for the Appellant: Simon Diab &amp; Associates 
+ Solicitor for the Appellant: Simon Diab &amp;amp; Associates 
  
  Counsel for the First Respondent: Mr J. Smith 
  

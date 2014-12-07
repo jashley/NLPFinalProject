@@ -3,9 +3,9 @@
 <name>Parker, In the matter of Purcom No 34 Pty Limited (In Liq) (ACN 006 794 672) (includes corrigendum dated 30 November 2009) [2009] FCA 1359 (19 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1359.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">approval sought by receiver to enter into agreement</catchphrase>
-<catchphrase "id=c1">principles on which court will grant approval</catchphrase>
-<catchphrase "id=c2">corporations</catchphrase>
+<catchphrase id="c0">approval sought by receiver to enter into agreement</catchphrase>
+<catchphrase id="c1">principles on which court will grant approval</catchphrase>
+<catchphrase id="c2">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -172,7 +172,7 @@ Dated: 19 November 2009
  
  Counsel for the Receiver: Mr C Wood 
  
- Solicitor for the Receiver: Hugh &amp; Associates 
+ Solicitor for the Receiver: Hugh &amp;amp; Associates 
  Date of Hearing: 19 November 2009 
  
  Date of Judgment: 19 November 2009 

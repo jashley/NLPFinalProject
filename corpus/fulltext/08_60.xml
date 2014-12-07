@@ -3,13 +3,13 @@
 <name>Bonnell v Deputy Commissioner of Taxation [2008] FCA 60 (8 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/60.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">scope of privative provisions in the income tax assessment act 1936 (cth)</catchphrase>
-<catchphrase "id=c1">review proceedings under s 39b of the judiciary act 1903 (cth) relying on the hickman provisos</catchphrase>
-<catchphrase "id=c2">review of the commissioner's exercise or failure to exercise his discretion under s 227(3) of the income tax assessment act 1936 (cth) to remit the whole or part of the additional tax payable by a taxpayer under s 226k</catchphrase>
-<catchphrase "id=c3">availability of anshun estoppel following the dismissal, under order 35a rule 3(1)(a) of the federal court rules , of an appeal against an appealable objection decision under the taxation administration act 1953 (cth), as a result of an applicant's default by failing to attend a directions hearing</catchphrase>
-<catchphrase "id=c4">availability of anshun estoppel following recovery proceedings in the supreme court of new south wales</catchphrase>
-<catchphrase "id=c5">taxation</catchphrase>
-<catchphrase "id=c6">estoppel</catchphrase>
+<catchphrase id="c0">scope of privative provisions in the income tax assessment act 1936 (cth)</catchphrase>
+<catchphrase id="c1">review proceedings under s 39b of the judiciary act 1903 (cth) relying on the hickman provisos</catchphrase>
+<catchphrase id="c2">review of the commissioner's exercise or failure to exercise his discretion under s 227(3) of the income tax assessment act 1936 (cth) to remit the whole or part of the additional tax payable by a taxpayer under s 226k</catchphrase>
+<catchphrase id="c3">availability of anshun estoppel following the dismissal, under order 35a rule 3(1)(a) of the federal court rules , of an appeal against an appealable objection decision under the taxation administration act 1953 (cth), as a result of an applicant's default by failing to attend a directions hearing</catchphrase>
+<catchphrase id="c4">availability of anshun estoppel following recovery proceedings in the supreme court of new south wales</catchphrase>
+<catchphrase id="c5">taxation</catchphrase>
+<catchphrase id="c6">estoppel</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -509,18 +509,18 @@ In relation to the Hickman principle Brennan J had said at 194:
  
 45 The accompanying Statement of Claim filed 10 October 2006 contained a number of allegations of fact which may shortly be summarised as follows:
  
- &#8226; The applicant was a solicitor who provided taxation advice;
- &#8226; In about May 1998, when the applicant was a partner in Gadens Lawyers, the then First Assistant Commissioner, Mr N Petroulias, represented to the applicant that tax practitioners could avoid being targeted for investigation if arrangements which they considered tax effective were disclosed to the respondent's Strategic Intelligence Analysis Unit by seeking private rulings before they advised clients to implement arrangements;
- &#8226; In or about September 1998 the applicant lodged a ruling request which described a proposed controlling interest superannuation arrangement and which sought a ruling whether a contribution by the applicant to a non-complying superannuation fund would be deductible;
- &#8226; On or about 29 September 1998 the respondent issued a ruling that a contribution by the applicant to the proposed fund would be deductible;
- &#8226; The applicant made contributions totalling $5 million;
- &#8226; The applicant advised more than 300 clients on similar arrangements to that the subject of the ruling in respect of the applicant;
- &#8226; On 19 May 1999 the respondent issued a media release indicating that in his view controlling interest superannuation arrangements 'fail both at law and in their implementation';
- &#8226; In or about August 2000 clients of the applicant who had sought income tax rulings in respect of the deductibility of their contributions to controlling interest superannuation funds were advised by the respondent that rulings would not be provided and of an intention to carry out a tax audit in respect of them;
- &#8226; On 29 November 2001 the respondent agreed to remove all penalties imposed upon those clients of the applicant who had sought rulings in respect of the deductibility of their contributions to controlling interest superannuation funds on the applicant's advice on the basis that they would not pursue their request for binding rulings;
- &#8226; On or about 14 March 2003 the respondent announced that following Prebble v Commissioner of Taxation (2002) 51 ATR 459, which had been handed down on 22 November 2002, the respondent would 'waive all penalties in other controlling interest superannuation schemes provided a genuine contribution was made to a superannuation fund';
- &#8226; The penalties imposed by the respondent upon all of the clients of the applicant were remitted in full by the respondent; 
- &#8226; The Notice of Amended Assessment issued to the applicant on 29 July 2004 was invalid 'because the amendment decision to impose penalties was not a bona fide attempt by the Respondent or the Respondent's officers to exercise the Respondent's power to amend'.</sentence>
+ &amp;#8226; The applicant was a solicitor who provided taxation advice;
+ &amp;#8226; In about May 1998, when the applicant was a partner in Gadens Lawyers, the then First Assistant Commissioner, Mr N Petroulias, represented to the applicant that tax practitioners could avoid being targeted for investigation if arrangements which they considered tax effective were disclosed to the respondent's Strategic Intelligence Analysis Unit by seeking private rulings before they advised clients to implement arrangements;
+ &amp;#8226; In or about September 1998 the applicant lodged a ruling request which described a proposed controlling interest superannuation arrangement and which sought a ruling whether a contribution by the applicant to a non-complying superannuation fund would be deductible;
+ &amp;#8226; On or about 29 September 1998 the respondent issued a ruling that a contribution by the applicant to the proposed fund would be deductible;
+ &amp;#8226; The applicant made contributions totalling $5 million;
+ &amp;#8226; The applicant advised more than 300 clients on similar arrangements to that the subject of the ruling in respect of the applicant;
+ &amp;#8226; On 19 May 1999 the respondent issued a media release indicating that in his view controlling interest superannuation arrangements 'fail both at law and in their implementation';
+ &amp;#8226; In or about August 2000 clients of the applicant who had sought income tax rulings in respect of the deductibility of their contributions to controlling interest superannuation funds were advised by the respondent that rulings would not be provided and of an intention to carry out a tax audit in respect of them;
+ &amp;#8226; On 29 November 2001 the respondent agreed to remove all penalties imposed upon those clients of the applicant who had sought rulings in respect of the deductibility of their contributions to controlling interest superannuation funds on the applicant's advice on the basis that they would not pursue their request for binding rulings;
+ &amp;#8226; On or about 14 March 2003 the respondent announced that following Prebble v Commissioner of Taxation (2002) 51 ATR 459, which had been handed down on 22 November 2002, the respondent would 'waive all penalties in other controlling interest superannuation schemes provided a genuine contribution was made to a superannuation fund';
+ &amp;#8226; The penalties imposed by the respondent upon all of the clients of the applicant were remitted in full by the respondent; 
+ &amp;#8226; The Notice of Amended Assessment issued to the applicant on 29 July 2004 was invalid 'because the amendment decision to impose penalties was not a bona fide attempt by the Respondent or the Respondent's officers to exercise the Respondent's power to amend'.</sentence>
 <sentence id="s149">
 
 46 The applications which are presently before the Court are two Notices of Motion, one filed by the applicant and the other by the respondent.</sentence>
@@ -904,12 +904,12 @@ Thereupon the docket judge said:
 <sentence id="s255">'
  
 78 I would not conclude that the use of the heading 'Excision of the penalty and interest imposed is not warranted' constituted any decision by the Commissioner to refrain from exercising the Commissioner's discretion under s 227(3) to remit the whole or any part of the additional tax which was the subject of the Notice of Amended Assessment.</sentence>
-<sentence id="s256">79 The facts of this case are not on all fours with those which applied in Commissioner of Taxation v Queensland Trading &amp; Holding Company Ltd [2006] FCAFC 112 ; (2006) 152 FCR 456.</sentence>
+<sentence id="s256">79 The facts of this case are not on all fours with those which applied in Commissioner of Taxation v Queensland Trading &amp;amp; Holding Company Ltd [2006] FCAFC 112 ; (2006) 152 FCR 456.</sentence>
 <sentence id="s257">In that case the bench comprised Ryan, Heerey and Edmonds JJ.</sentence>
-<sentence id="s258">Queensland Trading &amp; Holding Company Ltd and its parent, Industrial Equity Ltd, had each been a transferee of losses from Spassked Pty Ltd, another member of the Industrial Equity Limited Group.</sentence>
-<sentence id="s259">By Notices of Amended Assessment issued on 11 and 14 April 2003, the Commissioner had disallowed losses transferred to each of Queensland Trading &amp; Holding Company Ltd and Industrial Equity Ltd.</sentence>
+<sentence id="s258">Queensland Trading &amp;amp; Holding Company Ltd and its parent, Industrial Equity Ltd, had each been a transferee of losses from Spassked Pty Ltd, another member of the Industrial Equity Limited Group.</sentence>
+<sentence id="s259">By Notices of Amended Assessment issued on 11 and 14 April 2003, the Commissioner had disallowed losses transferred to each of Queensland Trading &amp;amp; Holding Company Ltd and Industrial Equity Ltd.</sentence>
 <sentence id="s260">The Notices of Amended Assessment also notified the companies in question of an assessment of additional tax under Part VII of the Assessment Act.</sentence>
-<sentence id="s261">Each of Industrial Equity Ltd and Queensland Trading &amp; Holding Company Ltd objected against the amended assessments and each objection included a ground that additional tax assessed to each taxpayer should have been remitted pursuant to s 227 of the Assessment Act.</sentence>
+<sentence id="s261">Each of Industrial Equity Ltd and Queensland Trading &amp;amp; Holding Company Ltd objected against the amended assessments and each objection included a ground that additional tax assessed to each taxpayer should have been remitted pursuant to s 227 of the Assessment Act.</sentence>
 <sentence id="s262">The Commissioner disallowed each objection.</sentence>
 <sentence id="s263">80 In the course of their reasons for judgment the Full Court said at 457 --- 459:
  
@@ -921,7 +921,7 @@ Thereupon the docket judge said:
 <sentence id="s265">
  ... 
  
- ... Their case [the case of Queensland Trading &amp; Holding Company Ltd and Industrial Equity Ltd] is totally dependent on the premise that a decision not to further or fully remit the additional tax at the objection decision stage, is not part of the objection decision but a separate and discrete decision.</sentence>
+ ... Their case [the case of Queensland Trading &amp;amp; Holding Company Ltd and Industrial Equity Ltd] is totally dependent on the premise that a decision not to further or fully remit the additional tax at the objection decision stage, is not part of the objection decision but a separate and discrete decision.</sentence>
 <sentence id="s266">However, the premise is false; the Commissioner's refusal to further or fully remit the additional tax is subsumed in the objection decision and, as a result, the objection decision is no less a decision under s 14ZY of the TAA disallowing an objection to an assessment of tax than it would be if the objection on which the decision is made had been grounded solely in matters going to primary tax.</sentence>
 <sentence id="s267">
  ...' 
@@ -1040,7 +1040,7 @@ Thereupon the docket judge said:
  
 93 For 'Anshun' estoppel to arise, there must have been a matter which was the subject of 'adjudication' in the earlier litigation.</sentence>
 <sentence id="s305">94 What may come within the 'special circumstances' exception to a finding of 'Anshun' estoppel was dealt with by the Full Court in Wong.</sentence>
-<sentence id="s306">Those circumstances need to be 'exceptional' (see also BC v Minister for Immigration &amp; Multicultural Affairs [2002] FCAFC 221 ('BC') at [31] --- [33] and [38] and Thayananthan v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCA 1054 ; (2003) 132 FCR 222 at 237, [52] --- [53].</sentence>
+<sentence id="s306">Those circumstances need to be 'exceptional' (see also BC v Minister for Immigration &amp;amp; Multicultural Affairs [2002] FCAFC 221 ('BC') at [31] --- [33] and [38] and Thayananthan v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCA 1054 ; (2003) 132 FCR 222 at 237, [52] --- [53].</sentence>
 <sentence id="s307">) 
  
 95 In Spencer Bower, Turner and Handley's 'The Doctrine of Res Judicata' (3 rd edition 1996) the learned author of the third edition, Justice Handley, said in respect of 'Dismissal for want of prosecution' at paragraph 35:

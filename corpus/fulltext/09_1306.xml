@@ -3,18 +3,18 @@
 <name>Campaign Master (UK) Ltd v Forty Two International Pty Ltd (No 3) [2009] FCA 1306 (13 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1306.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether hearsay evidence of statements by persons overseas should be permitted</catchphrase>
-<catchphrase "id=c1">the extent to which the proposed evidence was first hand or more remote hearsay</catchphrase>
-<catchphrase "id=c2">no independent evidence corroborating any hearsay version</catchphrase>
-<catchphrase "id=c3">whether undue prejudice to the respondent.</catchphrase>
-<catchphrase "id=c4">application to take evidence by video link</catchphrase>
-<catchphrase "id=c5">requirement to make out a case for such an order where it is opposed</catchphrase>
-<catchphrase "id=c6">discussion of the possible difficulties associated with video evidence.</catchphrase>
-<catchphrase "id=c7">security for costs</catchphrase>
-<catchphrase "id=c8">consideration of application for further security.</catchphrase>
-<catchphrase "id=c9">evidence</catchphrase>
-<catchphrase "id=c10">practice and procedure</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
+<catchphrase id="c0">whether hearsay evidence of statements by persons overseas should be permitted</catchphrase>
+<catchphrase id="c1">the extent to which the proposed evidence was first hand or more remote hearsay</catchphrase>
+<catchphrase id="c2">no independent evidence corroborating any hearsay version</catchphrase>
+<catchphrase id="c3">whether undue prejudice to the respondent.</catchphrase>
+<catchphrase id="c4">application to take evidence by video link</catchphrase>
+<catchphrase id="c5">requirement to make out a case for such an order where it is opposed</catchphrase>
+<catchphrase id="c6">discussion of the possible difficulties associated with video evidence.</catchphrase>
+<catchphrase id="c7">security for costs</catchphrase>
+<catchphrase id="c8">consideration of application for further security.</catchphrase>
+<catchphrase id="c9">evidence</catchphrase>
+<catchphrase id="c10">practice and procedure</catchphrase>
+<catchphrase id="c11">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -33,7 +33,7 @@
 <sentence id="s10">The nature of the proceedings
  The proceedings commenced by the applicant are founded on allegations that the respondents (individually or in combination) engaged in conduct which was misleading and deceptive, as to current and future matters, within the meaning of the Trade Practices Act 1974 (Cth), that the first respondent breached two contracts made between it and the applicant on 22 May 2007, and that the applicant has suffered loss and damage as a result of the breaches alleged.</sentence>
 <sentence id="s11">The applicant has claimed substantial damages as a result (of which approx $1,200,000 has so far been quantified).</sentence>
-<sentence id="s12">Recent affidavits filed by the applicant (one affirmed by Mr Gurjeet Dhillon, the sole director and shareholder of the applicant, on 30 July 2009 and one sworn by Mr Lee McDermott, the business development manager of the applicant, also on 30 July 2009) are intended to provide evidentiary support for the proposition that the applicant has, due to the conduct of the respondents, lost &#163;172,528 of existing custom and failed to obtain new custom worth &#163;454,409 annually (the total figure of &#163;626,937 immediate loss alleged was said to be approximately $1,200,000 at that time).</sentence>
+<sentence id="s12">Recent affidavits filed by the applicant (one affirmed by Mr Gurjeet Dhillon, the sole director and shareholder of the applicant, on 30 July 2009 and one sworn by Mr Lee McDermott, the business development manager of the applicant, also on 30 July 2009) are intended to provide evidentiary support for the proposition that the applicant has, due to the conduct of the respondents, lost &amp;#163;172,528 of existing custom and failed to obtain new custom worth &amp;#163;454,409 annually (the total figure of &amp;#163;626,937 immediate loss alleged was said to be approximately $1,200,000 at that time).</sentence>
 <sentence id="s13">Proof of the components of the alleged loss, and the real reasons for it if it occurred, are important elements to be established by the applicant.</sentence>
 <sentence id="s14">All the elements of this, and other aspects of the claim, are directly in issue.</sentence>
 <sentence id="s15">The applicant's case concerning misleading and deceptive conduct is erected upon a series of factual premises which are not without their complicating factors but which, for present purposes at least, may be fairly shortly summarised.</sentence>
@@ -558,7 +558,7 @@ This is known as the "hearsay rule" (see the Dictionary to the Evidence Act ).</
 <sentence id="s261">The statements attributed to Mr Jarrett in paragraph 102 of Mr Dhillon's affidavit of 30 July 2009 will not be admitted for the same reasons as given in relation to Mr Whittle.</sentence>
 <sentence id="s262">It follows from the matters dealt with above that none of the evidence sought to be adduced from Mr Dhillon under s 64(2) of the Evidence Act will be allowed under that subsection.</sentence>
 <sentence id="s263">Mr McDermott's proposed evidence
- Mr McDermott's evidence is the only evidence to support the quantification (and perhaps the existence) of the major part of the amount claimed as damages (&#163;454,409 per annum).</sentence>
+ Mr McDermott's evidence is the only evidence to support the quantification (and perhaps the existence) of the major part of the amount claimed as damages (&amp;#163;454,409 per annum).</sentence>
 <sentence id="s264">The evidence sought to be adduced from Mr McDermott, relying on s 64(2) of the Evidence Act , attributes statements to 52 persons, all of whom were identified.</sentence>
 <sentence id="s265">The conversations, and the representations they contain, arose from apparent attempts by Mr McDermott to interest prospective clients in the Campaign Master software.</sentence>
 <sentence id="s266">About half of the conversations, or important parts of them, took place after the proceedings were commenced.</sentence>
@@ -569,7 +569,7 @@ This is known as the "hearsay rule" (see the Dictionary to the Evidence Act ).</
  
  
  
- I said: 'Looking at the volumes of emails being sent per month, you would be on a service agreement with Campaign Master for approximately &#163;3,000 per annum.</sentence>
+ I said: 'Looking at the volumes of emails being sent per month, you would be on a service agreement with Campaign Master for approximately &amp;#163;3,000 per annum.</sentence>
 <sentence id="s271">' 
  
  
@@ -815,7 +815,7 @@ General principles
 <sentence id="s402">As I have said, Mr McDermott is not said to be unavailable to come to Australia.</sentence>
 <sentence id="s403">There was no suggestion that it is beyond the power of the applicant to require him to do so as part of his duties.</sentence>
 <sentence id="s404">The estimate of the cost of him attending, apart from the general hearsay assertion of inconvenience to the applicant to which I earlier referred, is only $3,550.</sentence>
-<sentence id="s405">By comparison with the applicant's claim, and even the estimate given by Mr McDermott of lost business opportunities annually (&#163;454,409), the cost is insignificant.</sentence>
+<sentence id="s405">By comparison with the applicant's claim, and even the estimate given by Mr McDermott of lost business opportunities annually (&amp;#163;454,409), the cost is insignificant.</sentence>
 <sentence id="s406">Had I permitted the evidence in Mr McDermott's affidavit to be given I would not have directed, against the respondents' opposition, that the respondents be required to cross-examine him by video link or that he be permitted to attend for cross-examination in London by video link.</sentence>
 <sentence id="s407">Mr Mills
  The other witness is Mr Adam Mills, who is also located in the UK.</sentence>
@@ -897,7 +897,7 @@ General principles
 <sentence id="s473">One such order has already been made.</sentence>
 <sentence id="s474">Another will result from the present judgment.</sentence>
 <sentence id="s475">There is no evidence that the applicant has any assets in Australia, the UK or elsewhere or that it would, if a fund was not established, be in a position to meet a costs order made against it.</sentence>
-<sentence id="s476">In P S Chellaram &amp; Co v China Ocean Shipping Co [1991] HCA 36 ; (1991) 65 ALJR 642 ; 102 ALR 321 McHugh J said (at 643; 323): 
+<sentence id="s476">In P S Chellaram &amp;amp; Co v China Ocean Shipping Co [1991] HCA 36 ; (1991) 65 ALJR 642 ; 102 ALR 321 McHugh J said (at 643; 323): 
  
  To make or refuse to make an order for security for costs involves the exercise of a discretionary judgment.</sentence>
 <sentence id="s477">That means that the court exercising the discretion must weigh all the circumstances of the case.</sentence>
@@ -917,7 +917,7 @@ General principles
 <sentence id="s487">Whether or not a taxing officer accepts all the costs as reasonable in all the circumstances is not to the point at this stage.</sentence>
 <sentence id="s488">Mr Petrucco was not cross-examined.</sentence>
 <sentence id="s489">His evidence was not challenged except by the opinions of Mr Hansen who, as I have said, suffers from a lack of proximity to the preparation of the respondents' case.</sentence>
-<sentence id="s490">It is not necessary that the Court should set out to provide complete and certain protection to a respondent against the costs which might be incurred (see Brundza v Robbie &amp; Co (No 2) [1952] HCA 49 ; (1952) 88 CLR 171 at 175; Menhaden Pty Ltd v Citibank NA [1984] FCA 183 ; (1984) 1 FCR 542 at 547; Bryan E Fencott &amp; Associates Pty Ltd v Eretta Pty Ltd (1987) 16 FCR 497 at 515).</sentence>
+<sentence id="s490">It is not necessary that the Court should set out to provide complete and certain protection to a respondent against the costs which might be incurred (see Brundza v Robbie &amp;amp; Co (No 2) [1952] HCA 49 ; (1952) 88 CLR 171 at 175; Menhaden Pty Ltd v Citibank NA [1984] FCA 183 ; (1984) 1 FCR 542 at 547; Bryan E Fencott &amp;amp; Associates Pty Ltd v Eretta Pty Ltd (1987) 16 FCR 497 at 515).</sentence>
 <sentence id="s491">Apart from the disclosure, or estimate, of professional costs I think the approach taken by Mr Petrucco, of discounting to 60%, is a sensible one in the circumstances.</sentence>
 <sentence id="s492">Although there is no rule that there is a "conventional" approach requiring a discount of about this order, it is certainly appropriate to take into account the possibility that amounts properly assessed as solicitor/client costs will not all be allowed as taxation (see, for example, Farmitalia Carlo Erba SrL v Delta West Pty Ltd (1994) 281 IPR 336).</sentence>
 <sentence id="s493">No reason has been shown why Mr Petrucco's approach to this issue also, which he described as conservative, should not be accepted.</sentence>
@@ -951,7 +951,7 @@ Dated: 13 November 2009
  
  Counsel for the Applicant: M S White with R Gration 
  
- Solicitor for the Applicant: Harris &amp; Company 
+ Solicitor for the Applicant: Harris &amp;amp; Company 
  
  Counsel for the Respondents: J M Ireland QC with J S Cooke 
  

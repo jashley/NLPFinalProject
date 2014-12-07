@@ -3,12 +3,12 @@
 <name>Humane Society International Inc v Kyodo Senpaku Kaisha Ltd [2008] FCA 3 (15 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/3.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">contravention by respondent of environment protection and biodiversity conservation act 1999 (cth)</catchphrase>
-<catchphrase "id=c1">public interest injunction</catchphrase>
-<catchphrase "id=c2">discretion whether to grant relief</catchphrase>
-<catchphrase "id=c3">futility</catchphrase>
-<catchphrase "id=c4">environment</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">contravention by respondent of environment protection and biodiversity conservation act 1999 (cth)</catchphrase>
+<catchphrase id="c1">public interest injunction</catchphrase>
+<catchphrase id="c2">discretion whether to grant relief</catchphrase>
+<catchphrase id="c3">futility</catchphrase>
+<catchphrase id="c4">environment</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -285,7 +285,7 @@
 <sentence id="s78">It is the defendant who has the onus of showing that it has no assets within the jurisdiction which could be sequestrated in punishment for contempt: Hospital for Sick Children (Board of Governors) v Walt Disney Productions Inc [1968] Ch 52 at 71.</sentence>
 <sentence id="s79">
  
- Third, we consider that when asked to grant an injunction, the court should not necessarily contemplate that it would be disobeyed: In re Liddell's Settlement Trusts [1936] Ch 365 at 373-374; Castanho v Brown &amp; Root (UK) Ltd [1981] AC 557 at 574; Republic of Haiti v Duvalier [1990] 1 QB 202 at 216 ; South Bucks District Council v Porter [2003] UKHL 26 ; [2003] 2 AC 558 at 580.</sentence>
+ Third, we consider that when asked to grant an injunction, the court should not necessarily contemplate that it would be disobeyed: In re Liddell's Settlement Trusts [1936] Ch 365 at 373-374; Castanho v Brown &amp;amp; Root (UK) Ltd [1981] AC 557 at 574; Republic of Haiti v Duvalier [1990] 1 QB 202 at 216 ; South Bucks District Council v Porter [2003] UKHL 26 ; [2003] 2 AC 558 at 580.</sentence>
 <sentence id="s80">There are many cases where parties out of the jurisdiction have been subjected to an injunction regarding their conduct abroad.</sentence>
 <sentence id="s81">The cases to which we have referred show that if a person is properly served in accordance with the court's exorbitant jurisdiction, that person (so far as the jurisdiction of the court is concerned) is in the same position as a person who is within its territorial jurisdiction.</sentence>
 <sentence id="s82">Nevertheless, in an appropriate case the judge may refuse to grant an injunction because the defendant is outside the jurisdiction and is likely to ignore the order.</sentence>
@@ -349,14 +349,14 @@
 <sentence id="s121">In the circumstances, this proceeding has been conducted on the premise that JARPA (and later JARPA II) are not challenged as lawful permits under the Whaling Convention and thus it was not asserted that the impugned activity of the respondent was and is not scientific research.</sentence>
 <sentence id="s122">29 The amended statement of claim asserts the following:
  
-&#8226; That the respondent has intentionally engaged in a series of activities that have resulted in Antarctic minke whales and fin whales being killed, taken and interfered with, and humpback whales being taken and interfered with, within the Australian Whale Sanctuary, and subsequently intentionally treated and possessed in contravention of ss 229, 229A, 229B, 229C, 229D and 230 of the EPBC Act;
+&amp;#8226; That the respondent has intentionally engaged in a series of activities that have resulted in Antarctic minke whales and fin whales being killed, taken and interfered with, and humpback whales being taken and interfered with, within the Australian Whale Sanctuary, and subsequently intentionally treated and possessed in contravention of ss 229, 229A, 229B, 229C, 229D and 230 of the EPBC Act;
  
-&#8226; That the conduct was done in accordance with the Japanese Whaling Research Program under Special Permit in the Antarctic (JARPA) issued by the government of Japan under Article VIII of the Whaling Convention;
+&amp;#8226; That the conduct was done in accordance with the Japanese Whaling Research Program under Special Permit in the Antarctic (JARPA) issued by the government of Japan under Article VIII of the Whaling Convention;
  
-&#8226; That JARPA is not a recognised foreign authority for the purposes of subsection 7(1) of the Antarctic Treaty (Environment Protection) Act 1980 (Cth).</sentence>
-<sentence id="s123">&#8226; That the respondent is not permitted or authorised to kill, take, interfere with, treat or possess whales in accordance with ss 231, 232 or 238 of the EPBC Act;
+&amp;#8226; That JARPA is not a recognised foreign authority for the purposes of subsection 7(1) of the Antarctic Treaty (Environment Protection) Act 1980 (Cth).</sentence>
+<sentence id="s123">&amp;#8226; That the respondent is not permitted or authorised to kill, take, interfere with, treat or possess whales in accordance with ss 231, 232 or 238 of the EPBC Act;
  
-&#8226; That, unless restrained, the respondent will in the future intentionally kill, take and interfere with within the Australian Whale Sanctuary, and subsequently intentionally treat and possess Antarctic minke whales, fin whales and humpback whales in contravention of the EPBC Act.</sentence>
+&amp;#8226; That, unless restrained, the respondent will in the future intentionally kill, take and interfere with within the Australian Whale Sanctuary, and subsequently intentionally treat and possess Antarctic minke whales, fin whales and humpback whales in contravention of the EPBC Act.</sentence>
 <sentence id="s124">The hearing 
  
 30 The evidence reveals that the whaling activity in the waters off Antarctica was undertaken by a fleet of five vessels: the MV Kyoshin Maru No 2 , a sighting and survey vessel that steamed ahead of the fleet to locate whale pods; the MV Yushin Maru , the MV Kyo Maru No 1 and the MV Toshi Maru No 25 , being sampling or "catcher" vessels used for hunting and killing whales; and the MV Nisshin Maru, being the base ship where the slaughtered whales were processed and research carried out.</sentence>
@@ -513,7 +513,7 @@ Further, at [21], the majority said:
 <sentence id="s215">
  
 
-52 Further, one cannot ignore the public interest nature of the claim and the complete recognition by the Parliament of that type of claim and of the lack of wide international recognition of Australia's claim to the relevant part of Antarctica: see the majority of the Full Court reasons at [2006] FCAFC 116 ; 154 FCR 425 and [21] --- [24]; and see also Citron v Z&uuml;ndel (No 4) (2002) 41 CHRR D/274 at [298] --- [301].</sentence>
+52 Further, one cannot ignore the public interest nature of the claim and the complete recognition by the Parliament of that type of claim and of the lack of wide international recognition of Australia's claim to the relevant part of Antarctica: see the majority of the Full Court reasons at [2006] FCAFC 116 ; 154 FCR 425 and [21] --- [24]; and see also Citron v Z&amp;uuml;ndel (No 4) (2002) 41 CHRR D/274 at [298] --- [301].</sentence>
 <sentence id="s216">53 In the light of the reasons of the majority of the Full Court, I cannot conclude that the practical difficulty (if not impossibility) of enforcement is a reason to withhold relief.</sentence>
 <sentence id="s217">54 On the material placed before the Court, I am satisfied that the respondent has contravened ss 229, 229A, 229B, 229C, 229D and 230 of the EPBC Act in relation to Antarctic minke whales and fin whales by killing, injuring, taking and interfering with them and the treating and possessing of them and by injuring, interfering with and treating and possessing humpback whales and that, unless restrained, it will continue to kill, injure, take and interfere with them, and treat and possess them.</sentence>
 <sentence id="s218">55 In all the circumstances, the orders of the Court will be:

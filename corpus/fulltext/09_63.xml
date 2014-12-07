@@ -3,13 +3,13 @@
 <name>Levy v Reddy [2009] FCA 63 (6 February 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/63.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">bankruptcy act 1966 (cth) section 29</catchphrase>
-<catchphrase "id=c1">ex parte interlocutory application by trustee in bankruptcy appointed in united kingdom</catchphrase>
-<catchphrase "id=c2">application to restrain bankrupt from disposing of or dealing with his divisible property in australia</catchphrase>
-<catchphrase "id=c3">request from registrar of high court of justice of england and wales</catchphrase>
-<catchphrase "id=c4">assets only partially owned by bankrupt</catchphrase>
-<catchphrase "id=c5">appointment of receiver in australia</catchphrase>
-<catchphrase "id=c6">bankruptcy and insolvency</catchphrase>
+<catchphrase id="c0">bankruptcy act 1966 (cth) section 29</catchphrase>
+<catchphrase id="c1">ex parte interlocutory application by trustee in bankruptcy appointed in united kingdom</catchphrase>
+<catchphrase id="c2">application to restrain bankrupt from disposing of or dealing with his divisible property in australia</catchphrase>
+<catchphrase id="c3">request from registrar of high court of justice of england and wales</catchphrase>
+<catchphrase id="c4">assets only partially owned by bankrupt</catchphrase>
+<catchphrase id="c5">appointment of receiver in australia</catchphrase>
+<catchphrase id="c6">bankruptcy and insolvency</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -103,7 +103,7 @@
 <sentence id="s42">Associate:
 Dated: 6 February 2009
  
- Solicitor for the Applicant: Mr Michael Coates of Bennett &amp; Philp 
+ Solicitor for the Applicant: Mr Michael Coates of Bennett &amp;amp; Philp 
  
  Solicitor for the Respondent: The Respondent did not appear 
  Date of Hearing: 6 February 2009 

@@ -3,18 +3,18 @@
 <name>Armacel Pty Limited v Smurfit Stone Container Corporation [2008] FCA 592 (2 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/592.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">australian company claimed damages against us company for breaches of contract and of the trade practices act 1972 (cth)</catchphrase>
-<catchphrase "id=c1">contract provided new south wales law was applicable law and disputes were to be submitted to the jurisdiction of that state</catchphrase>
-<catchphrase "id=c2">prima facie case</catchphrase>
-<catchphrase "id=c3">motion to set aside service outside jurisdiction dismissed</catchphrase>
-<catchphrase "id=c4">motion for stay of australian proceedings</catchphrase>
-<catchphrase "id=c5">us company commenced action for negative declaratory relief in united states federal court prior to commencement of australian proceedings</catchphrase>
-<catchphrase "id=c6">issue estoppel arising from decision of us federal court that jurisdiction clause was non-exclusive</catchphrase>
-<catchphrase "id=c7">evidence that us federal court would have supplementary jurisdiction over trade practices claims</catchphrase>
-<catchphrase "id=c8">federal court of australia a clearly inappropriate forum in the circumstances</catchphrase>
-<catchphrase "id=c9">australian proceedings stayed</catchphrase>
-<catchphrase "id=c10">application for anti-suit injunction refused</catchphrase>
-<catchphrase "id=c11">private international law</catchphrase>
+<catchphrase id="c0">australian company claimed damages against us company for breaches of contract and of the trade practices act 1972 (cth)</catchphrase>
+<catchphrase id="c1">contract provided new south wales law was applicable law and disputes were to be submitted to the jurisdiction of that state</catchphrase>
+<catchphrase id="c2">prima facie case</catchphrase>
+<catchphrase id="c3">motion to set aside service outside jurisdiction dismissed</catchphrase>
+<catchphrase id="c4">motion for stay of australian proceedings</catchphrase>
+<catchphrase id="c5">us company commenced action for negative declaratory relief in united states federal court prior to commencement of australian proceedings</catchphrase>
+<catchphrase id="c6">issue estoppel arising from decision of us federal court that jurisdiction clause was non-exclusive</catchphrase>
+<catchphrase id="c7">evidence that us federal court would have supplementary jurisdiction over trade practices claims</catchphrase>
+<catchphrase id="c8">federal court of australia a clearly inappropriate forum in the circumstances</catchphrase>
+<catchphrase id="c9">australian proceedings stayed</catchphrase>
+<catchphrase id="c10">application for anti-suit injunction refused</catchphrase>
+<catchphrase id="c11">private international law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -120,9 +120,9 @@
 <sentence id="s69">It is that if Smurfit were provided with a licence and a machine:
  
  
- &#8226; the Jersey Shore facility was only a temporary location for the machine;
- &#8226; the machine would be relocated, within a short period, to a new location at Jersey Shore and operated there;
- &#8226; the new location would be a 'clean room' environment.</sentence>
+ &amp;#8226; the Jersey Shore facility was only a temporary location for the machine;
+ &amp;#8226; the machine would be relocated, within a short period, to a new location at Jersey Shore and operated there;
+ &amp;#8226; the new location would be a 'clean room' environment.</sentence>
 <sentence id="s70">
  
 
@@ -140,7 +140,7 @@
 <sentence id="s81">Prima facie case 
  
 43 In an application to set aside service under O 9 r 7, the Court conducts, by way of a re-hearing, a review of the original decision to grant leave to serve the originating process out of the jurisdiction: Bray v F Hoffman-La Roche Ltd [2003] FCAFC 153 ; (2003) 130 FCR 317.</sentence>
-<sentence id="s82">44 The rehearing is conducted on the basis that the respondent should have the opportunity to put before the Court any additional material which may suggest that leave ought not to have been granted under O 8 r 3: Bray at [53]; Clough v Oil &amp; Natural Gas Corporation Ltd [No 3] [2007] FCA 2082 at [12] .</sentence>
+<sentence id="s82">44 The rehearing is conducted on the basis that the respondent should have the opportunity to put before the Court any additional material which may suggest that leave ought not to have been granted under O 8 r 3: Bray at [53]; Clough v Oil &amp;amp; Natural Gas Corporation Ltd [No 3] [2007] FCA 2082 at [12] .</sentence>
 <sentence id="s83">45 The onus remains on an applicant to satisfy the Court in light of the additional materials, facts and arguments that leave ought to have been granted: Voth at 564; Clough at [12].</sentence>
 <sentence id="s84">46 The Court should not grant leave unless it is positively persuaded that it should do so: Voth at 564.</sentence>
 <sentence id="s85">However, the threshold is not high.</sentence>
@@ -164,12 +164,12 @@
 <sentence id="s103">55 Whether there ought to be a stay depends upon the answers to the remaining questions.</sentence>
 <sentence id="s104">Issue Estoppel 
  
-56 The High Court has adopted the formulation of Lord Guest in Carl Zeiss Stiftung v Rayner &amp; Keeler Ltd (No 2) [1967] 1 AC 853 at 935, of three requirements for the creation of an issue estoppel: Kuligowski v Metrobus [2004] HCA 34 ; (2004) 220 CLR 363 at [21] .</sentence>
+56 The High Court has adopted the formulation of Lord Guest in Carl Zeiss Stiftung v Rayner &amp;amp; Keeler Ltd (No 2) [1967] 1 AC 853 at 935, of three requirements for the creation of an issue estoppel: Kuligowski v Metrobus [2004] HCA 34 ; (2004) 220 CLR 363 at [21] .</sentence>
 <sentence id="s105">The requirements are: first, that the same question has been decided; second, that the decision was final; and third, that it was in proceedings between the same parties or their privies.</sentence>
 <sentence id="s106">57 Here, the third requirement is satisfied but there is a dispute as to whether the decision of the US District Court refusing to grant a stay (because of its finding that cl 21.3.1 was non-exclusive) satisfies the first and second conditions.</sentence>
 <sentence id="s107">58 The first requirement draws attention to the need to identify with precision the issue which was necessarily decided in the earlier proceeding to see whether it is identical with an issue sought to be raised in the later proceeding: Blair v Curran (1939) 62 CLR 464 at 531; Makhoul v Barnes (1995) 60 FCR 572 at 579.</sentence>
 <sentence id="s108">59 The observations of Dixon J in Blair v Curran at 531 make it plain that the question which is the subject of the first requirement may be one of fact or law.</sentence>
-<sentence id="s109">60 The second requirement may be satisfied even if the earlier judgment is interlocutory: Castillon v P&amp;O Ports Ltd [2007] QCA 364 at [49] ff.</sentence>
+<sentence id="s109">60 The second requirement may be satisfied even if the earlier judgment is interlocutory: Castillon v P&amp;amp;O Ports Ltd [2007] QCA 364 at [49] ff.</sentence>
 <sentence id="s110">The requirement of finality has been broken down into two separate conditions, namely that the decision must be "final and conclusive" and "on the merits": The Sennar (No 2) [1985] 1 WLR 490 (HL) at 499.</sentence>
 <sentence id="s111">61 Lord Brandon explained the meaning of "on the merits" in The Sennar (No 2) at 499 as follows:
  
@@ -177,10 +177,10 @@
 <sentence id="s112">
  
 
-62 This passage from Lord Brandon's speech was referred to with apparent approval in Schnabel v Lui [2002] NSWSC 15 at [112] ; Castillon v P&amp;O Ports Ltd at [54]; and Prestige Property Services Pty Ltd v Madzoski [2008] WASCA 58 at [66] .</sentence>
-<sentence id="s113">63 The need for caution in the application of the doctrine of issue estoppel is well established, especially where the estoppel is said to arise from a judgment of a foreign court, and in an interlocutory context: The Sennar (HL) at 500; Castillon v P&amp;O Ports at [55]; Desert Sun Loan Corp v Hill [1996] 2 All ER 847 at 858.</sentence>
+62 This passage from Lord Brandon's speech was referred to with apparent approval in Schnabel v Lui [2002] NSWSC 15 at [112] ; Castillon v P&amp;amp;O Ports Ltd at [54]; and Prestige Property Services Pty Ltd v Madzoski [2008] WASCA 58 at [66] .</sentence>
+<sentence id="s113">63 The need for caution in the application of the doctrine of issue estoppel is well established, especially where the estoppel is said to arise from a judgment of a foreign court, and in an interlocutory context: The Sennar (HL) at 500; Castillon v P&amp;amp;O Ports at [55]; Desert Sun Loan Corp v Hill [1996] 2 All ER 847 at 858.</sentence>
 <sentence id="s114">64 Nevertheless, in Desert Sun Loan , Evans LJ stated at 858 that an issue estoppel can arise from an interlocutory judgment of a foreign court on a procedural issue where there has been an express submission of the procedural or jurisdictional issue to the foreign court and the specific issue of fact has been raised and decided by that court.</sentence>
-<sentence id="s115">65 The Sennar is also authority for that proposition as was accepted by Holmes JA in Castillon v P&amp;O Ports at [54].</sentence>
+<sentence id="s115">65 The Sennar is also authority for that proposition as was accepted by Holmes JA in Castillon v P&amp;amp;O Ports at [54].</sentence>
 <sentence id="s116">66 Having approached the present matter with what, I hope, is the requisite degree of caution, I have come to the view that the present case is indistinguishable from The Sennar and that, accordingly, Armacel is barred by an issue estoppel from contending that cl 21.3.1 is an exclusive jurisdiction clause.</sentence>
 <sentence id="s117">In coming to this view, I have considered the decisions of the House of Lords, and the Court of Appeal in that case.</sentence>
 <sentence id="s118">The Court of Appeal decision is cited as "The Sennar" (No 2) [1984] 2 Lloyd's Rep 142.</sentence>
@@ -249,7 +249,7 @@
 <sentence id="s168">They did not specify the courts of New South Wales but the ordinary meaning of the phrase "the jurisdiction of that State (ie NSW)" would seem to be to the courts of that State.</sentence>
 <sentence id="s169">The Federal Court is not vested with the jurisdiction of New South Wales.</sentence>
 <sentence id="s170">Rather, it has, and applies, federal jurisdiction.</sentence>
-<sentence id="s171">93 Nevertheless, in certain circumstances the Federal Court picks up the laws of the States under s 79 of the Judiciary Act 1903 (Cth) in the exercise of federal jurisdiction: John Robertson &amp; Co Ltd v Ferguson Transformers Pty Ltd [1973] HCA 21 ; (1973) 129 CLR 65 at 95.</sentence>
+<sentence id="s171">93 Nevertheless, in certain circumstances the Federal Court picks up the laws of the States under s 79 of the Judiciary Act 1903 (Cth) in the exercise of federal jurisdiction: John Robertson &amp;amp; Co Ltd v Ferguson Transformers Pty Ltd [1973] HCA 21 ; (1973) 129 CLR 65 at 95.</sentence>
 <sentence id="s172">Thus, a matter heard in the New South Wales Registry of the Federal Court would pick up the rules of State law, at least in those instances in which the laws of New South Wales apply generally eg to matters of procedure.</sentence>
 <sentence id="s173">The federal jurisdiction also includes accrued jurisdiction over non-federal matters as referred to in Fencott v Muller .</sentence>
 <sentence id="s174">In addition, the Federal Court has jurisdiction in associated matters under s 32 of the Federal Court Act .</sentence>
@@ -305,12 +305,12 @@
 <sentence id="s213">109 The third reason why I consider I should accept Mr Smith's evidence is that 28 USC 
 SS 1367 bears considerable resemblance to the doctrine of the accrued jurisdiction of the Federal Court.</sentence>
 <sentence id="s214">It would be quite unusual for me to accept, as I do, that the contractual claims fall within the accrued jurisdiction of this Court while rejecting the proposition that the trade practices claims are part of the same controversy as the contract claims if the trade practices claims are pursued in the US District Court.</sentence>
-<sentence id="s215">110 The position seems to me to be unlike that which existed in Reinsurance Australia Corporation Ltd v HIH Casualty &amp; General Insurance Ltd (in Liquidation) [2003] FCA 56.</sentence>
+<sentence id="s215">110 The position seems to me to be unlike that which existed in Reinsurance Australia Corporation Ltd v HIH Casualty &amp;amp; General Insurance Ltd (in Liquidation) [2003] FCA 56.</sentence>
 <sentence id="s216">There, it was established on the evidence that the trade practices claims could not be maintained in the United States and that the remedies which would have been available in the English court were more restricted than those that were available under the Trade Practices Act : see at [217]-[218], [322].</sentence>
 <sentence id="s217">111 Accordingly, I am not satisfied that Armacel is deprived of a legitimate forensic disadvantage in being forced to bring its claim in the United States.</sentence>
 <sentence id="s218">112 There is some force in Dr Bell's submission that the dispute has a closer factual connection with the United States than it does with Australia.</sentence>
 <sentence id="s219">The principal issues in the contract claim appear to be the reasonableness of Smurfit's efforts to exploit the technology in the United States and whether it was entitled to disconnect Armacel's machine.</sentence>
-<sentence id="s220">The latter question may raise the application of United States environmental law issues including a complaint filed with the Occupational Health &amp; Safety Administration: see Smurfit's Complaint in the US District Court [26].</sentence>
+<sentence id="s220">The latter question may raise the application of United States environmental law issues including a complaint filed with the Occupational Health &amp;amp; Safety Administration: see Smurfit's Complaint in the US District Court [26].</sentence>
 <sentence id="s221">113 Moreover, the factual issues concerning Smurfit's decision to cease exploiting the technology centre upon what was, and what was not, done in the United States.</sentence>
 <sentence id="s222">It is not clear on the material that is presently before me whether or not this will entail the calling of evidence from third parties located in the United States although it seems likely that such evidence would be required to establish Armacel's loss.</sentence>
 <sentence id="s223">114 The key witnesses for Armacel are based in Sydney whereas Smurfit's key witnesses are present and former officers of that corporation located in the United States.</sentence>
@@ -370,7 +370,7 @@ Dated: 2 May 2008
 
  Counsel for the Applicant: A W Street SC, C D Wood and T D Anderson 
  
- Solicitor for the Applicant: Lawmark Solicitors &amp; Notaries 
+ Solicitor for the Applicant: Lawmark Solicitors &amp;amp; Notaries 
  
  Counsel for the Respondent: A S Bell, SC 
  

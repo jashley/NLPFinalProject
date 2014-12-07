@@ -3,15 +3,15 @@
 <name>SZNFR v Minister for Immigration and Citizenship [2009] FCA 851 (7 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/851.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">interlocutory decision of federal magistrate</catchphrase>
-<catchphrase "id=c1">application filed outside 21 day period</catchphrase>
-<catchphrase "id=c2">application 7 days out of time</catchphrase>
-<catchphrase "id=c3">application for extension of time and for leave to appeal</catchphrase>
-<catchphrase "id=c4">no explanation provided for non-compliance</catchphrase>
-<catchphrase "id=c5">application for extension of time refused</catchphrase>
-<catchphrase "id=c6">factors relevant to exercise of discretion</catchphrase>
-<catchphrase "id=c7">to do justice between the parties</catchphrase>
-<catchphrase "id=c8">migration</catchphrase>
+<catchphrase id="c0">interlocutory decision of federal magistrate</catchphrase>
+<catchphrase id="c1">application filed outside 21 day period</catchphrase>
+<catchphrase id="c2">application 7 days out of time</catchphrase>
+<catchphrase id="c3">application for extension of time and for leave to appeal</catchphrase>
+<catchphrase id="c4">no explanation provided for non-compliance</catchphrase>
+<catchphrase id="c5">application for extension of time refused</catchphrase>
+<catchphrase id="c6">factors relevant to exercise of discretion</catchphrase>
+<catchphrase id="c7">to do justice between the parties</catchphrase>
+<catchphrase id="c8">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -103,7 +103,7 @@ Compliance with O 52 r 5(2) was there dispensed with in circumstances where the 
 [Order 60 rule 6] provides that a court or a justice may enlarge the time appointed by the Rules for doing an act upon such terms, if any, as the justice of the case may require and that the enlargement may be ordered although the application is not made until after the expiration of the time appointed or fixed for doing the act.</sentence>
 <sentence id="s40">The grant of an extension of time under this rule is not automatic.</sentence>
 <sentence id="s41">The object of the rule is to ensure that those Rules which fix times for doing acts do not become instruments of injustice.</sentence>
-<sentence id="s42">The discretion to extend time is given for the sole purpose of enabling the court or justice to do justice between the parties: see Hughes v National Trustees Executors &amp; Agency Co of Australasia Ltd [1978] VR 257 at 262.</sentence>
+<sentence id="s42">The discretion to extend time is given for the sole purpose of enabling the court or justice to do justice between the parties: see Hughes v National Trustees Executors &amp;amp; Agency Co of Australasia Ltd [1978] VR 257 at 262.</sentence>
 <sentence id="s43">This means that the discretion can only be exercised in favour of an applicant upon proof that strict compliance with the rules will work an injustice upon the applicant.</sentence>
 <sentence id="s44">
  [40] There are two relevant matters concerning whether the Court should exercise its discretion to extend time.</sentence>

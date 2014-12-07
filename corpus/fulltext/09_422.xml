@@ -3,12 +3,12 @@
 <name>Optus Networks Ltd v Telstra Corporation Ltd (No. 2) (includes Corrigendum dated 7 July 2009) [2009] FCA 422 (9 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/422.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">principles of construction</catchphrase>
-<catchphrase "id=c1">the meaning of confidential information as defined by the contract</catchphrase>
-<catchphrase "id=c2">whether telecommunications traffic information is confidential information</catchphrase>
-<catchphrase "id=c3">whether telecommunications traffic information is subject to confidentiality requirements under the contract</catchphrase>
-<catchphrase "id=c4">whether use of such information in the preparation of market share reports and the subsequent use of such reports were permitted under the contract.</catchphrase>
-<catchphrase "id=c5">contract</catchphrase>
+<catchphrase id="c0">principles of construction</catchphrase>
+<catchphrase id="c1">the meaning of confidential information as defined by the contract</catchphrase>
+<catchphrase id="c2">whether telecommunications traffic information is confidential information</catchphrase>
+<catchphrase id="c3">whether telecommunications traffic information is subject to confidentiality requirements under the contract</catchphrase>
+<catchphrase id="c4">whether use of such information in the preparation of market share reports and the subsequent use of such reports were permitted under the contract.</catchphrase>
+<catchphrase id="c5">contract</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -929,8 +929,8 @@ I think it may assist in dealing with this matter if I outline for you the three
 <sentence id="s348">It relevantly reads:
  TELSTRA SECRET ---DO NOT COPY
  LONG DISTANCE BUSINESS UNIT
- B&amp;G
- STD &amp; IDD MARKET SHARE REPORT --- Week Ending December 6, 1997 
+ B&amp;amp;G
+ STD &amp;amp; IDD MARKET SHARE REPORT --- Week Ending December 6, 1997 
 
  
  MARKET SHARE REPORTING 
@@ -1106,7 +1106,7 @@ Dated: 30 April 2009
  
  Counsel for the Applicant: Mr RM Smith SC and Mr C Dimitriadis 
  
- Solicitor for the Applicant: Baker &amp; McKenzie 
+ Solicitor for the Applicant: Baker &amp;amp; McKenzie 
  
  Counsel for the Respondent: Mr CRC Newlinds SC and Mr IR Pike 
  

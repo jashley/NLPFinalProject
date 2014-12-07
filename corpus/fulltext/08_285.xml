@@ -3,22 +3,22 @@
 <name>Comcare v Maganga [2008] FCA 285 (11 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/285.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether administrative appeals tribunal denied comcare procedural fairness in refusing leave to inspect summonsed documents</catchphrase>
-<catchphrase "id=c1">documents related to previous injury of compensation claimant</catchphrase>
-<catchphrase "id=c2">credit of claimant main issue in proceedings</catchphrase>
-<catchphrase "id=c3">documents therefore not available for cross examination</catchphrase>
-<catchphrase "id=c4">tribunal must give parties a reasonable opportunity to present case</catchphrase>
-<catchphrase "id=c5">"reasonable opportunity" includes right to test evidence</catchphrase>
-<catchphrase "id=c6">tribunal's refusal potentially denied comcare opportunity to cross-examine effectively</catchphrase>
-<catchphrase "id=c7">whether access to documents should be denied as going only to credit</catchphrase>
-<catchphrase "id=c8">purpose for seeking documents clearly identifiable</catchphrase>
-<catchphrase "id=c9">not fishing to seek documents going to credit</catchphrase>
-<catchphrase "id=c10">wrong to determine questions of inspection by whether documents ought to be admitted into evidence</catchphrase>
-<catchphrase "id=c11">no need for documents to establish any specific fact</catchphrase>
-<catchphrase "id=c12">test of relevance is whether documents relate to issue in proceedings</catchphrase>
-<catchphrase "id=c13">discretion of tribunal under administrative appeals tribunal act 1975 (cth) is subject to overarching obligation of procedural fairness</catchphrase>
-<catchphrase "id=c14">procedural fairness denied</catchphrase>
-<catchphrase "id=c15">administrative law</catchphrase>
+<catchphrase id="c0">whether administrative appeals tribunal denied comcare procedural fairness in refusing leave to inspect summonsed documents</catchphrase>
+<catchphrase id="c1">documents related to previous injury of compensation claimant</catchphrase>
+<catchphrase id="c2">credit of claimant main issue in proceedings</catchphrase>
+<catchphrase id="c3">documents therefore not available for cross examination</catchphrase>
+<catchphrase id="c4">tribunal must give parties a reasonable opportunity to present case</catchphrase>
+<catchphrase id="c5">"reasonable opportunity" includes right to test evidence</catchphrase>
+<catchphrase id="c6">tribunal's refusal potentially denied comcare opportunity to cross-examine effectively</catchphrase>
+<catchphrase id="c7">whether access to documents should be denied as going only to credit</catchphrase>
+<catchphrase id="c8">purpose for seeking documents clearly identifiable</catchphrase>
+<catchphrase id="c9">not fishing to seek documents going to credit</catchphrase>
+<catchphrase id="c10">wrong to determine questions of inspection by whether documents ought to be admitted into evidence</catchphrase>
+<catchphrase id="c11">no need for documents to establish any specific fact</catchphrase>
+<catchphrase id="c12">test of relevance is whether documents relate to issue in proceedings</catchphrase>
+<catchphrase id="c13">discretion of tribunal under administrative appeals tribunal act 1975 (cth) is subject to overarching obligation of procedural fairness</catchphrase>
+<catchphrase id="c14">procedural fairness denied</catchphrase>
+<catchphrase id="c15">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -69,13 +69,13 @@
 <sentence id="s38">13 Comcare says that it had reason to believe that when Mr Maganga lodged the claim for workers' compensation in February 2006 for the first injury he may have falsely characterised that injury as a "journey" injury.</sentence>
 <sentence id="s39">In the claim form for the first injury, Mr Maganga had given the following history:
  
-&#8226; He injured his left knee.</sentence>
-<sentence id="s40">&#8226; He first sought medical treatment on 17 February 1997 (approximately) in Bourke.</sentence>
+&amp;#8226; He injured his left knee.</sentence>
+<sentence id="s40">&amp;#8226; He first sought medical treatment on 17 February 1997 (approximately) in Bourke.</sentence>
 <sentence id="s41">The doctor was not named.</sentence>
-<sentence id="s42">&#8226; He was referred to Dr Still in the ACT for orthopaedic review.</sentence>
-<sentence id="s43">&#8226; He answered "no" to the question: "have you ever had a similar symptom, injury or illness before, work-related or otherwise".</sentence>
-<sentence id="s44">&#8226; He answered "yes" to the question: "have you ever received medical treatment for a similar injury or illness" and referred to ' subsequent Comcare claims and AAT Review '.</sentence>
-<sentence id="s45">&#8226; He said that the injury occurred in Bourke, walking home from work; that he attempted to stop an assault; the assailants attacked him; he fell injuring his left knee; he took refuge in a house; the assailants threw rocks on the roof.</sentence>
+<sentence id="s42">&amp;#8226; He was referred to Dr Still in the ACT for orthopaedic review.</sentence>
+<sentence id="s43">&amp;#8226; He answered "no" to the question: "have you ever had a similar symptom, injury or illness before, work-related or otherwise".</sentence>
+<sentence id="s44">&amp;#8226; He answered "yes" to the question: "have you ever received medical treatment for a similar injury or illness" and referred to ' subsequent Comcare claims and AAT Review '.</sentence>
+<sentence id="s45">&amp;#8226; He said that the injury occurred in Bourke, walking home from work; that he attempted to stop an assault; the assailants attacked him; he fell injuring his left knee; he took refuge in a house; the assailants threw rocks on the roof.</sentence>
 <sentence id="s46">14 The history about the occurrence of the first injury was very similar to the account of the second injury that resulted in the victim claim payment.</sentence>
 <sentence id="s47">Dr Still was the doctor that Mr Maganga consulted in respect of the victim claim.</sentence>
 <sentence id="s48">15 As recorded in the Tribunal's reasons, Comcare's counsel sought access to the file produced by Mr Maganga's former solicitors in response to the summons in relation to the victim claim ('the summonsed documents').</sentence>
@@ -88,11 +88,11 @@
  
 18 The reasons for the Tribunal's refusal to give Comcare access to the summonsed documents were:
  
-&#8226; that it would have been ' unfair ' to admit the material;
+&amp;#8226; that it would have been ' unfair ' to admit the material;
  
-&#8226; that '... it was inappropriate for Comcare to be permitted to go on a fishing expedition to ascertain what the file contained, particularly when the documents sought (if they existed) were sought only to impugn the credit of a witness ...' citing Fried v National Australia Bank [2000] FCA 911 ; (2000) 175 ALR 194 at 200; and
+&amp;#8226; that '... it was inappropriate for Comcare to be permitted to go on a fishing expedition to ascertain what the file contained, particularly when the documents sought (if they existed) were sought only to impugn the credit of a witness ...' citing Fried v National Australia Bank [2000] FCA 911 ; (2000) 175 ALR 194 at 200; and
  
-&#8226; that there ' was no suggestion that the file may contain material relevant to the determination of the factual issue before [the Tribunal]'.</sentence>
+&amp;#8226; that there ' was no suggestion that the file may contain material relevant to the determination of the factual issue before [the Tribunal]'.</sentence>
 <sentence id="s55">19 Similarly, the Tribunal rejected the tender of other documents by Comcare which included 1997 medical reports.</sentence>
 <sentence id="s56">These reports were drafted after the first and second injuries and referred to one fall but not to two and to an injury occasioned on 15 February 1997, the second injury that resulted in the victim claim.</sentence>
 <sentence id="s57">There was also a description of the incident as an assault occurring outside a house where Mr Maganga had been sitting.</sentence>
@@ -100,7 +100,7 @@
 <sentence id="s59">Further, Comcare submitted to the Tribunal that the summonsed documents may well demonstrate that Mr Maganga had knowingly or recklessly given false evidence to the Tribunal.</sentence>
 <sentence id="s60">However, the Tribunal rejected the documents as not relevant to the issue in dispute and also on the ground that ' procedural fairness required that Comcare not be allowed to contradict Mr Maganga's answers to questions which went only to his credit '.</sentence>
 <sentence id="s61">20 The Tribunal noted that the rules of evidence did not apply in the Tribunal (s 33(1)(c) of the AAT Act) but accepted that they had ' a role to play '.</sentence>
-<sentence id="s62">The Tribunal cited Piddington v Bennett &amp; Wood Proprietary Limited [1940] HCA 2 ; (1940) 63 CLR 533 at 545 where Latham CJ stated:
+<sentence id="s62">The Tribunal cited Piddington v Bennett &amp;amp; Wood Proprietary Limited [1940] HCA 2 ; (1940) 63 CLR 533 at 545 where Latham CJ stated:
  
  Any witness may be cross-examined for the purpose of discrediting him.</sentence>
 <sentence id="s63">But if questions affect only the credit of a witness and are not relevant to the matters actually in issue in the case, the witness's answers cannot be contradicted by other evidence except in certain exceptional cases.</sentence>
@@ -221,7 +221,7 @@ Dated: 7 March 2008
  
  Counsel for Mr Maganga: S H Pilkinton 
  
- Solicitor for Mr Maganga: Pamela Coward &amp; Associates 
+ Solicitor for Mr Maganga: Pamela Coward &amp;amp; Associates 
  
  Date of Hearing: 3 October 2007 
  

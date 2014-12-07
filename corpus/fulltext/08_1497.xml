@@ -3,20 +3,20 @@
 <name>Lawrence v Commissioner of Taxation [2008] FCA 1497 (10 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1497.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">series of transactions involving diminutions (on revenue account) in value of shares held by companies in which taxpayer the only shareholder and corresponding increases (on capital account) in value of shares held by another company on trust for discretionary beneficiaries confined to taxpayer and his family</catchphrase>
-<catchphrase "id=c1">whether constituted "schemes"</catchphrase>
-<catchphrase "id=c2">whether schemes were by way of or in the nature of dividend stripping</catchphrase>
-<catchphrase "id=c3">whether schemes had substantially the effect of schemes by way of or in the nature of dividend stripping</catchphrase>
-<catchphrase "id=c4">whether schemes had tax avoidance as dominant purpose</catchphrase>
-<catchphrase "id=c5">whether schemes involved distribution of profits</catchphrase>
-<catchphrase "id=c6">whether s 177e of income tax assessment act 1936 (cth) had operation in context of transactions by which taxpayer expressly entitled to reduce assessable income under other provisions.</catchphrase>
-<catchphrase "id=c7">whether "scheme benefit" obtained from schemes</catchphrase>
-<catchphrase "id=c8">whether schemes entered into with dominant purpose of getting a scheme benefit</catchphrase>
-<catchphrase "id=c9">calculation of "base penalty amount"</catchphrase>
-<catchphrase "id=c10">whether reasonably arguable that adjustment provision does not apply</catchphrase>
-<catchphrase "id=c11">whether base penalty amount should be reduced upon voluntary disclosure of scheme details.</catchphrase>
-<catchphrase "id=c12">income tax</catchphrase>
-<catchphrase "id=c13">penalties</catchphrase>
+<catchphrase id="c0">series of transactions involving diminutions (on revenue account) in value of shares held by companies in which taxpayer the only shareholder and corresponding increases (on capital account) in value of shares held by another company on trust for discretionary beneficiaries confined to taxpayer and his family</catchphrase>
+<catchphrase id="c1">whether constituted "schemes"</catchphrase>
+<catchphrase id="c2">whether schemes were by way of or in the nature of dividend stripping</catchphrase>
+<catchphrase id="c3">whether schemes had substantially the effect of schemes by way of or in the nature of dividend stripping</catchphrase>
+<catchphrase id="c4">whether schemes had tax avoidance as dominant purpose</catchphrase>
+<catchphrase id="c5">whether schemes involved distribution of profits</catchphrase>
+<catchphrase id="c6">whether s 177e of income tax assessment act 1936 (cth) had operation in context of transactions by which taxpayer expressly entitled to reduce assessable income under other provisions.</catchphrase>
+<catchphrase id="c7">whether "scheme benefit" obtained from schemes</catchphrase>
+<catchphrase id="c8">whether schemes entered into with dominant purpose of getting a scheme benefit</catchphrase>
+<catchphrase id="c9">calculation of "base penalty amount"</catchphrase>
+<catchphrase id="c10">whether reasonably arguable that adjustment provision does not apply</catchphrase>
+<catchphrase id="c11">whether base penalty amount should be reduced upon voluntary disclosure of scheme details.</catchphrase>
+<catchphrase id="c12">income tax</catchphrase>
+<catchphrase id="c13">penalties</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -518,11 +518,11 @@ Specifically in relation to dividend stripping, s 177E provides as follows:
 <sentence id="s376">Their Honours in the Full Court continued (91 FCR at 561 [136]):
  These four cases had the following characteristics in common: 
  
- &#8226; a target company, which had substantial undistributed profits creating a potential tax liability either for the company or its shareholders;
- &#8226; the sale or allotment of shares in the target company to another party...; 
- &#8226; the payment of a dividend to the purchaser or allottee of the shares out of the target company's profits;
- &#8226; the purchaser escaping Australian income tax on the dividend so declared (whether by reason of a s 46 rebate, an offsetting loss on the sale of the shares, or the fact that the shareholders were resident outside Australia); and
- &#8226; the vendor shareholders receiving a capital sum for their shares in an amount the same as or very close to the dividends paid to the purchasers (there being no capital gains tax at the relevant times).</sentence>
+ &amp;#8226; a target company, which had substantial undistributed profits creating a potential tax liability either for the company or its shareholders;
+ &amp;#8226; the sale or allotment of shares in the target company to another party...; 
+ &amp;#8226; the payment of a dividend to the purchaser or allottee of the shares out of the target company's profits;
+ &amp;#8226; the purchaser escaping Australian income tax on the dividend so declared (whether by reason of a s 46 rebate, an offsetting loss on the sale of the shares, or the fact that the shareholders were resident outside Australia); and
+ &amp;#8226; the vendor shareholders receiving a capital sum for their shares in an amount the same as or very close to the dividends paid to the purchasers (there being no capital gains tax at the relevant times).</sentence>
 <sentence id="s377">
  
 
@@ -739,13 +739,13 @@ This table appears to have been prepared by those advising the applicant at some
 <sentence id="s515">84 To answer this question, as it seems to me, requires one to consider a notional scheme which did not in fact exist but which would have had the characteristics to which I refer; and to consider then the effect of that notional scheme.</sentence>
 <sentence id="s516">On the facts of the present case --- 
  
-&#8226; had the applicant sold his shares in Plaster Plus and Zinkris to another party (for example, but not necessarily, Clearmink);
+&amp;#8226; had the applicant sold his shares in Plaster Plus and Zinkris to another party (for example, but not necessarily, Clearmink);
  
-&#8226; had Plaster Plus and Zinkris then paid dividends to the new shareholder out of their profits; 
+&amp;#8226; had Plaster Plus and Zinkris then paid dividends to the new shareholder out of their profits; 
  
-&#8226; had the new shareholder escaped Australian income tax on that dividend; and
+&amp;#8226; had the new shareholder escaped Australian income tax on that dividend; and
  
-&#8226; had the applicant received a capital sum for his Plaster Plus and Zinkris shares in an amount the same as or very close to the dividends paid to the new shareholder; 
+&amp;#8226; had the applicant received a capital sum for his Plaster Plus and Zinkris shares in an amount the same as or very close to the dividends paid to the new shareholder; 
 the effect thereof would, in my view, have been substantially the same as the effect of the scheme in fact implemented in relation to Plaster Plus and Zinkris.</sentence>
 <sentence id="s517">Both in the notional scheme referred to and in the present case the taxpayer, otherwise presumptively entitled to dividends, would receive a capital payment (or benefit) which would have been funded by the profits of the target company.</sentence>
 <sentence id="s518">In the notional scheme the capital receipt would consist of the proceeds of the sale of his or her shares.</sentence>

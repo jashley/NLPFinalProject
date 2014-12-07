@@ -3,10 +3,10 @@
 <name>SZKMX v Minister for Immigration and Citizenship [2009] FCA 842 (6 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/842.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrate</catchphrase>
-<catchphrase "id=c1">no jurisdictional error</catchphrase>
-<catchphrase "id=c2">appeal dismissed</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase id="c0">appeal from federal magistrate</catchphrase>
+<catchphrase id="c1">no jurisdictional error</catchphrase>
+<catchphrase id="c2">appeal dismissed</catchphrase>
+<catchphrase id="c3">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -101,13 +101,13 @@
 <sentence id="s77">It is well established that a decision of the Tribunal is only available to be set aside upon judicial review if it involves "jurisdictional error".</sentence>
 <sentence id="s78">Absent that, a decision refusing an applicant a protection visa will be "privative clause decision" for the purpose of s 474 of the Act from which no appeal or relief on judicial review is available: Plaintiff S157/2002 v Commonwealth of Australia (2003) 211 CLR 476 at [76].</sentence>
 <sentence id="s79">Plaintiff S157/2002 held that an error by an administrative tribunal such as the Refugee Review Tribunal will only constitute jurisdictional error if the Tribunal: 
-&#9679; identifies a wrong issue;
+&amp;#9679; identifies a wrong issue;
  
-&#9679; asks the wrong question;
+&amp;#9679; asks the wrong question;
  
-&#9679; ignores relevant material; or
+&amp;#9679; ignores relevant material; or
  
-&#9679; relies on irrelevant material;
+&amp;#9679; relies on irrelevant material;
  
 in such a way that the Tribunal's exercise or purported exercise of power is thereby affected, resulting in a decision exceeding or failing to exercise the authority or powers given under the relevant statute.</sentence>
 <sentence id="s80">It is also accepted (see Plaintiff S157/2002 211 CLR 476 at [76]) that there may also be jurisdictional error if a tribunal fails to discharge "imperative duties" or to observe "inviolable limitations or restraints" upon which its exercise of administrative powers is conditioned.</sentence>

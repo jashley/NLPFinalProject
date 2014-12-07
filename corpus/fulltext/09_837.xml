@@ -3,29 +3,29 @@
 <name>Siam Polyethylene Co Ltd v Minister of State for Home Affairs [2009] FCA 837 (12 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/837.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">anti-dumping duty</catchphrase>
-<catchphrase "id=c1">review application of existing anti-dumping measures</catchphrase>
-<catchphrase "id=c2">customs act 1901 (cth) div 5 pt xvb</catchphrase>
-<catchphrase "id=c3">ss 269tae , 269tg , 269zda , 269zdb</catchphrase>
-<catchphrase "id=c4">nature of review process</catchphrase>
-<catchphrase "id=c5">chief executive officer of customs prepares statement of essential facts and report and makes recommendation to minister as to whether anti-dumping duty notice should remain unaltered, be revoked or varied</catchphrase>
-<catchphrase "id=c6">relevance to review application of statutory criteria governing initial declaration of anti-dumping duty, under s 269tg</catchphrase>
-<catchphrase "id=c7">whether ceo and minister required to consider again in review whether the dumping of imports is causing or threatening to cause material injury to an australian industry</catchphrase>
-<catchphrase "id=c8">whether the ceo and minister permitted to set a new non-injurious price by following customs' standard policy of using the unsuppressed selling price of australian like products without considering whether that price is affected by other factors than the dumping</catchphrase>
-<catchphrase "id=c9">administrative decision making</catchphrase>
-<catchphrase "id=c10">minister as decision-maker</catchphrase>
-<catchphrase "id=c11">discretion in making decision</catchphrase>
-<catchphrase "id=c12">decision must be made having regard to the subject matter, scope and purpose of the legislative scheme</catchphrase>
-<catchphrase "id=c13">decision must be made on the basis of the most current information available</catchphrase>
-<catchphrase "id=c14">importance of the decision maker actively considering a statutory requirement, rather than giving it cursory consideration and putting it to one side</catchphrase>
-<catchphrase "id=c15">statutes implementing international conventions</catchphrase>
-<catchphrase "id=c16">principles governing construction</catchphrase>
-<catchphrase "id=c17">using international instrument as an aid to construction</catchphrase>
-<catchphrase "id=c18">importance of construing implemented international instrument liberally</catchphrase>
-<catchphrase "id=c19">decisions of international tribunal on the implemented international instrument should be given significant weight in interpreting domestic legislation</catchphrase>
-<catchphrase "id=c20">administrative law</catchphrase>
-<catchphrase "id=c21">administrative law</catchphrase>
-<catchphrase "id=c22">statutes</catchphrase>
+<catchphrase id="c0">anti-dumping duty</catchphrase>
+<catchphrase id="c1">review application of existing anti-dumping measures</catchphrase>
+<catchphrase id="c2">customs act 1901 (cth) div 5 pt xvb</catchphrase>
+<catchphrase id="c3">ss 269tae , 269tg , 269zda , 269zdb</catchphrase>
+<catchphrase id="c4">nature of review process</catchphrase>
+<catchphrase id="c5">chief executive officer of customs prepares statement of essential facts and report and makes recommendation to minister as to whether anti-dumping duty notice should remain unaltered, be revoked or varied</catchphrase>
+<catchphrase id="c6">relevance to review application of statutory criteria governing initial declaration of anti-dumping duty, under s 269tg</catchphrase>
+<catchphrase id="c7">whether ceo and minister required to consider again in review whether the dumping of imports is causing or threatening to cause material injury to an australian industry</catchphrase>
+<catchphrase id="c8">whether the ceo and minister permitted to set a new non-injurious price by following customs' standard policy of using the unsuppressed selling price of australian like products without considering whether that price is affected by other factors than the dumping</catchphrase>
+<catchphrase id="c9">administrative decision making</catchphrase>
+<catchphrase id="c10">minister as decision-maker</catchphrase>
+<catchphrase id="c11">discretion in making decision</catchphrase>
+<catchphrase id="c12">decision must be made having regard to the subject matter, scope and purpose of the legislative scheme</catchphrase>
+<catchphrase id="c13">decision must be made on the basis of the most current information available</catchphrase>
+<catchphrase id="c14">importance of the decision maker actively considering a statutory requirement, rather than giving it cursory consideration and putting it to one side</catchphrase>
+<catchphrase id="c15">statutes implementing international conventions</catchphrase>
+<catchphrase id="c16">principles governing construction</catchphrase>
+<catchphrase id="c17">using international instrument as an aid to construction</catchphrase>
+<catchphrase id="c18">importance of construing implemented international instrument liberally</catchphrase>
+<catchphrase id="c19">decisions of international tribunal on the implemented international instrument should be given significant weight in interpreting domestic legislation</catchphrase>
+<catchphrase id="c20">administrative law</catchphrase>
+<catchphrase id="c21">administrative law</catchphrase>
+<catchphrase id="c22">statutes</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -263,11 +263,11 @@ Thus, the non-injurious price was the price "necessary" to prevent the injury or
 <sentence id="s127">However, this was a different methodology to that used in the original determination and earlier reviews.</sentence>
 <sentence id="s128">The earlier method used a constructed industry price based on the industry's cost to make and sell the product plus a rate of profit achieved on sales of a similar product, also ethylene based.</sentence>
 <sentence id="s129">The Report described the Australian market for the product in the review period as follows: 
-"&#183; the Australian market for LLDPE was around 235,000 tonnes in the review period --- the 12 months ended September 2007.</sentence>
-<sentence id="s130">&#183; the Australian industry has a larger market share than imports.</sentence>
-<sentence id="s131">&#183; imports from exporters subject to measures is significant.</sentence>
-<sentence id="s132">&#183; imports from exporters not subject to measures is also significant.</sentence>
-<sentence id="s133">&#183; the review shows the majority of the exports from exporters subject to measures were at dumped prices.</sentence>
+"&amp;#183; the Australian market for LLDPE was around 235,000 tonnes in the review period --- the 12 months ended September 2007.</sentence>
+<sentence id="s130">&amp;#183; the Australian industry has a larger market share than imports.</sentence>
+<sentence id="s131">&amp;#183; imports from exporters subject to measures is significant.</sentence>
+<sentence id="s132">&amp;#183; imports from exporters not subject to measures is also significant.</sentence>
+<sentence id="s133">&amp;#183; the review shows the majority of the exports from exporters subject to measures were at dumped prices.</sentence>
 <sentence id="s134">"
  
  Report 134 observed that Qenos' business relating to the product: 
@@ -690,7 +690,7 @@ Dated: 12 August 2009
  
  Counsel for the Applicant: NJ Williams SC; AM Mitchelmore 
  
- Solicitor for the Applicant: Baker &amp; McKenzie 
+ Solicitor for the Applicant: Baker &amp;amp; McKenzie 
  
  Counsel for the First and Second Respondents: A Robertson SC; SB Lloyd SC 
  

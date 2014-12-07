@@ -3,15 +3,15 @@
 <name>Amlaki FZ LLC v Pinnacle Network (Australia) Pty Ltd [2008] FCA 1491 (7 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1491.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">meeting of members</catchphrase>
-<catchphrase "id=c1">lack of quorum</catchphrase>
-<catchphrase "id=c2">procedural irregularity</catchphrase>
-<catchphrase "id=c3">declaration of validity</catchphrase>
-<catchphrase "id=c4">costs</catchphrase>
-<catchphrase "id=c5">oppression</catchphrase>
-<catchphrase "id=c6">majority shareholder agrees to purchase minority interest</catchphrase>
-<catchphrase "id=c7">costs</catchphrase>
-<catchphrase "id=c8">corporations</catchphrase>
+<catchphrase id="c0">meeting of members</catchphrase>
+<catchphrase id="c1">lack of quorum</catchphrase>
+<catchphrase id="c2">procedural irregularity</catchphrase>
+<catchphrase id="c3">declaration of validity</catchphrase>
+<catchphrase id="c4">costs</catchphrase>
+<catchphrase id="c5">oppression</catchphrase>
+<catchphrase id="c6">majority shareholder agrees to purchase minority interest</catchphrase>
+<catchphrase id="c7">costs</catchphrase>
+<catchphrase id="c8">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -32,7 +32,7 @@
 <sentence id="s13">4 It is convenient to deal first with the costs of the s 1322 application.</sentence>
 <sentence id="s14">The immediate background to the irregularly held meeting is as follows.</sentence>
 <sentence id="s15">On 29 February 2008 Mr Richards wrote to Mr Balfaqih giving 14 days notice of the termination of the consultancy agreement.</sentence>
-<sentence id="s16">This was followed by a letter dated 4 March 2008 from Baker &amp; McKenzie, acting on behalf of Amlaki FZ and Mr Balfaqih, requesting Mr Richards' "immediate resignation as a director and secretary of Amlaki Australia.</sentence>
+<sentence id="s16">This was followed by a letter dated 4 March 2008 from Baker &amp;amp; McKenzie, acting on behalf of Amlaki FZ and Mr Balfaqih, requesting Mr Richards' "immediate resignation as a director and secretary of Amlaki Australia.</sentence>
 <sentence id="s17">" On 1 April 2008 Mr Balfaqih wrote to Mr Richards advising him that his appointment as Chief Operations Officer was "terminated with immediate effect".</sentence>
 <sentence id="s18">In the same letter Mr Richards was invited to resign as a director and secretary.</sentence>
 <sentence id="s19">On the same day Pinnacle was served with a notice of a general meeting to be held on 8 April 2008 if there was consent to short notice, or if there be no consent, on 22 April 2008.</sentence>
@@ -41,14 +41,14 @@
 <sentence id="s22">5 Pinnacle did not consent to short notice.</sentence>
 <sentence id="s23">Accordingly, the meeting was held on 22 April 2008.</sentence>
 <sentence id="s24">There is some dispute regarding whether the parties agreed to postpone the meeting.</sentence>
-<sentence id="s25">Baker &amp; McKenzie were told Pinnacle's solicitors, Kliger Partners, were not available on 22 April 2008 and that Mr Richards would be away.</sentence>
+<sentence id="s25">Baker &amp;amp; McKenzie were told Pinnacle's solicitors, Kliger Partners, were not available on 22 April 2008 and that Mr Richards would be away.</sentence>
 <sentence id="s26">Kliger Partners asked that the meeting be deferred.</sentence>
 <sentence id="s27">They are of the view that an agreement had been reached to that effect.</sentence>
-<sentence id="s28">That view, however, was rejected by Baker &amp; McKenzie in an email sent minutes before the meeting commenced.</sentence>
+<sentence id="s28">That view, however, was rejected by Baker &amp;amp; McKenzie in an email sent minutes before the meeting commenced.</sentence>
 <sentence id="s29">In the end nothing turns on the point.</sentence>
 <sentence id="s30">6 The meeting commenced by teleconference at 6.10pm.</sentence>
 <sentence id="s31">Mr Balfaqih, with a lawyer for Amlaki FZ, attended the meeting from Dubai.</sentence>
-<sentence id="s32">Mr Hinz and two solicitors from Baker &amp; McKenzie were in attendance in Melbourne.</sentence>
+<sentence id="s32">Mr Hinz and two solicitors from Baker &amp;amp; McKenzie were in attendance in Melbourne.</sentence>
 <sentence id="s33">No representative of Pinnacle was present.</sentence>
 <sentence id="s34">Resolutions removing Mr Richards as a director and secretary were passed, as were resolutions appointing Mr Hinz to those positions.</sentence>
 <sentence id="s35">7 The resolutions were ineffective because there was an insufficient quorum.</sentence>
@@ -58,13 +58,13 @@
 <sentence id="s39">Prima facie, the resolutions carried at a meeting inquorate may be regularised.</sentence>
 <sentence id="s40">Here the matter is not so simple.</sentence>
 <sentence id="s41">Amlaki FZ knew that the meeting was without a quorum.</sentence>
-<sentence id="s42">There is dispute in the cases as regards whether a "procedural irregularity" includes the absence of a quorum that is the result of deliberate conduct: see Re P W Saddington &amp; Sons Pty Ltd (1990) 19 NSWLR 674; Re Pembury Pty Ltd [1993] 1 Qd R 125; McGellin v Mount King Mining NL (1998) 144 FLR 288; Whitehouse v Capital Radio Network Pty Ltd (2004) 13 Tas R 27.</sentence>
+<sentence id="s42">There is dispute in the cases as regards whether a "procedural irregularity" includes the absence of a quorum that is the result of deliberate conduct: see Re P W Saddington &amp;amp; Sons Pty Ltd (1990) 19 NSWLR 674; Re Pembury Pty Ltd [1993] 1 Qd R 125; McGellin v Mount King Mining NL (1998) 144 FLR 288; Whitehouse v Capital Radio Network Pty Ltd (2004) 13 Tas R 27.</sentence>
 <sentence id="s43">8 For the purposes of this case, I need not enter the debate.</sentence>
 <sentence id="s44">It is clearly undesirable for a member of a company to convene a meeting where the member knows that a quorum will not be present.</sentence>
 <sentence id="s45">In most cases the meeting should be postponed or adjourned.</sentence>
 <sentence id="s46">In this case, however, the particular circumstances warranted a pragmatic approach.</sentence>
 <sentence id="s47">Counsel for Pinnacle and Mr Richards accepted the reality of the situation, namely that Mr Richards was to be removed as a director and secretary come what may.</sentence>
-<sentence id="s48">There is also the countervailing rule that a minority shareholder is not entitled to frustrate the wishes of the majority by absenting himself from company meetings: Re H R Paul &amp; Son Ltd (1973) 118 Sol Jo 166.</sentence>
+<sentence id="s48">There is also the countervailing rule that a minority shareholder is not entitled to frustrate the wishes of the majority by absenting himself from company meetings: Re H R Paul &amp;amp; Son Ltd (1973) 118 Sol Jo 166.</sentence>
 <sentence id="s49">Accordingly I suggested to the parties it would have been an exercise in futility (and wasteful of costs) to require another meeting to achieve a known result.</sentence>
 <sentence id="s50">With but feint opposition I made the declaration that the absence of a quorum was a procedural irregularity that did not invalidate the resolutions.</sentence>
 <sentence id="s51">The costs were put to one side pending the resolution of the still threatened oppression proceeding.</sentence>
@@ -120,7 +120,7 @@ Dated: 7 October 2008
 
  Counsel for the Plaintiffs in VID 324 of 2008 and for the Defendants in VID 428 of 2008: O Bigos 
  
- Solicitor for the Plaintiffs in VID 324 of 2008 and for the Defendants in VID 428 of 2008: Baker &amp; McKenzie 
+ Solicitor for the Plaintiffs in VID 324 of 2008 and for the Defendants in VID 428 of 2008: Baker &amp;amp; McKenzie 
  
  Counsel for the Defendants in VID 324 of 2008 and for the Plaintiff in VID 428 of 2008: K Baker 
  

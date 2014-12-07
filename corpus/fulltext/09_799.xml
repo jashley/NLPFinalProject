@@ -3,14 +3,14 @@
 <name>Larrikin Music Publishing Pty Ltd v EMI Songs Australia Pty Limited [2009] FCA 799 (30 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/799.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">preliminary question on ownership of copyright</catchphrase>
-<catchphrase "id=c1">whether, by entering song into girl guides competition, author of copyright work assigned copyright to girl guides association</catchphrase>
-<catchphrase "id=c2">the phrase "all matter entered to become the property of the guide association" not effective to assign copyright</catchphrase>
-<catchphrase "id=c3">subsequent assignment of copyright to applicant effective</catchphrase>
-<catchphrase "id=c4">communications with third parties which occurred twenty to forty years after the date of purported assignment not admissible to determine intention of parties</catchphrase>
-<catchphrase "id=c5">informal admissions may be contradicted by maker, and it is for the court to determine on the evidence what weight is to be given to such admissions</catchphrase>
-<catchphrase "id=c6">copyright</catchphrase>
-<catchphrase "id=c7">evidence</catchphrase>
+<catchphrase id="c0">preliminary question on ownership of copyright</catchphrase>
+<catchphrase id="c1">whether, by entering song into girl guides competition, author of copyright work assigned copyright to girl guides association</catchphrase>
+<catchphrase id="c2">the phrase "all matter entered to become the property of the guide association" not effective to assign copyright</catchphrase>
+<catchphrase id="c3">subsequent assignment of copyright to applicant effective</catchphrase>
+<catchphrase id="c4">communications with third parties which occurred twenty to forty years after the date of purported assignment not admissible to determine intention of parties</catchphrase>
+<catchphrase id="c5">informal admissions may be contradicted by maker, and it is for the court to determine on the evidence what weight is to be given to such admissions</catchphrase>
+<catchphrase id="c6">copyright</catchphrase>
+<catchphrase id="c7">evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -316,7 +316,7 @@
 <sentence id="s126">As late as 1983, Ms Sinclair may be seen to have maintained the stance that she had copyright in "Kookaburra".</sentence>
 <sentence id="s127">In a letter dated 2 April 1983, Ms Sinclair said that the words and music were copyright and: 
  
- This should be acknowledged by the words "by permission, M. Sinclair" --- or just my name and the copyright symbol, &#169;, added.</sentence>
+ This should be acknowledged by the words "by permission, M. Sinclair" --- or just my name and the copyright symbol, &amp;#169;, added.</sentence>
 <sentence id="s128">
  
  Ms Sinclair went on to say that there was a fee of $10, unless the work was published by the "Girl Guide Movement" for which the round was written in 1934.</sentence>

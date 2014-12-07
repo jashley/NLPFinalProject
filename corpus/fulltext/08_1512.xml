@@ -3,15 +3,15 @@
 <name>Soliman v University of Technology, Sydney [2008] FCA 1512 (10 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1512.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">certified agreement</catchphrase>
-<catchphrase "id=c1">contract of employment</catchphrase>
-<catchphrase "id=c2">whether contract of employment incorporates certified agreement</catchphrase>
-<catchphrase "id=c3">whether certified agreement constitutes a contract</catchphrase>
-<catchphrase "id=c4">construction of contract of employment</catchphrase>
-<catchphrase "id=c5">construction of certified agreement</catchphrase>
-<catchphrase "id=c6">alleged breaches of certified agreement with respect to disciplinary action</catchphrase>
-<catchphrase "id=c7">remedies held: application dismissed</catchphrase>
-<catchphrase "id=c8">industrial law</catchphrase>
+<catchphrase id="c0">certified agreement</catchphrase>
+<catchphrase id="c1">contract of employment</catchphrase>
+<catchphrase id="c2">whether contract of employment incorporates certified agreement</catchphrase>
+<catchphrase id="c3">whether certified agreement constitutes a contract</catchphrase>
+<catchphrase id="c4">construction of contract of employment</catchphrase>
+<catchphrase id="c5">construction of certified agreement</catchphrase>
+<catchphrase id="c6">alleged breaches of certified agreement with respect to disciplinary action</catchphrase>
+<catchphrase id="c7">remedies held: application dismissed</catchphrase>
+<catchphrase id="c8">industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -329,7 +329,7 @@
  
 60 The applicant's case altered over time.</sentence>
 <sentence id="s169">The applicant initially submitted that the declarations and orders sought were available under ss 720, 847 and 849 of the Workplace Relations Act (as in force at the relevant time), s 39B(1A)(c) of the Judiciary Act , and Pt III of the Federal Court of Australia Act (specifically, ss 21, 22 , 23 and 32) on the basis that the agreement itself operated as a contract (indeed, a contract exclusive of any other agreement or contract) between the University and the applicant.</sentence>
-<sentence id="s170">In support of these submissions the applicant observed that: - (i) ss 719 and 720 of the Workplace Relations Act could not be a code as they were scant in the extreme, (ii) s 840 of the Workplace Relations Act preserved all other powers of the Court, (iii) the general powers of the Court are available in a matter arising under an Act unless the Act constitutes a code ( Patrick Stevedores Operations No 2 Pty Limited v Maritime Union of Australia (1998) 195 CLR 1 ; [1998] HCA 30 at [27] ) and are always available in the associated jurisdiction under s 32, (iv) older decisions, such as Byrne &amp; Frew v Australian Airlines Ltd [1995] HCA 24 ; (1995) 185 CLR 410 , have to be considered with care in the context of the current statutory regime, and (v) the decision in ACTEW Corporation Ltd v Pangallo (2002) 127 FCR 1 ; [2002] FCAFC 325 has to be considered in light of the terms of the agreement as a whole, particularly cll 5.1, 5.2 and 9.</sentence>
+<sentence id="s170">In support of these submissions the applicant observed that: - (i) ss 719 and 720 of the Workplace Relations Act could not be a code as they were scant in the extreme, (ii) s 840 of the Workplace Relations Act preserved all other powers of the Court, (iii) the general powers of the Court are available in a matter arising under an Act unless the Act constitutes a code ( Patrick Stevedores Operations No 2 Pty Limited v Maritime Union of Australia (1998) 195 CLR 1 ; [1998] HCA 30 at [27] ) and are always available in the associated jurisdiction under s 32, (iv) older decisions, such as Byrne &amp;amp; Frew v Australian Airlines Ltd [1995] HCA 24 ; (1995) 185 CLR 410 , have to be considered with care in the context of the current statutory regime, and (v) the decision in ACTEW Corporation Ltd v Pangallo (2002) 127 FCR 1 ; [2002] FCAFC 325 has to be considered in light of the terms of the agreement as a whole, particularly cll 5.1, 5.2 and 9.</sentence>
 <sentence id="s171">61 In consequence of the grant of leave on 25 September 2008 to amend the statement of claim and to re-open to tender the contract of employment the submissions altered (but the initial submissions were not abandoned).</sentence>
 <sentence id="s172">The applicant submitted that the contract of employment incorporated the whole (or at least, as I understand it, the disciplinary provisions) in the agreement.</sentence>
 <sentence id="s173">The contract of employment did so by reference, by operation of the Workplace Relations Act and by operation of the provisions of the agreement.</sentence>
@@ -345,9 +345,9 @@
 63 The first way in which the applicant submitted that the contract of employment incorporated the whole of the agreement (or at least its disciplinary provisions) was by reference.</sentence>
 <sentence id="s182">64 Riverwood International Australia Pty Ltd v McCormick (2000) 177 ALR 193 ; [2000] FCA 889 (North and Mansfield JJ) confirmed the principles applying to incorporation of documents by reference into employment contracts (adopting the principles identified by Weinberg J in McCormick v Riverwood International (Australia) Pty Ltd (1999) 167 ALR 689 ; [1999] FCA 1640 at [70] to [78]).</sentence>
 <sentence id="s183">First, it must be assumed that the contract of employment was made in good faith with the object of at least potential mutual benefit by due performance.</sentence>
-<sentence id="s184">Secondly, the meaning of the contract is to be determined objectively, the essential question being what reasonable business people in the position of the parties would have taken the clause to mean (citing Schenker &amp; Co (Aust) Pty Ltd v Maplas Equipment and Services Pty Ltd [1990] VR 834 at 840).</sentence>
+<sentence id="s184">Secondly, the meaning of the contract is to be determined objectively, the essential question being what reasonable business people in the position of the parties would have taken the clause to mean (citing Schenker &amp;amp; Co (Aust) Pty Ltd v Maplas Equipment and Services Pty Ltd [1990] VR 834 at 840).</sentence>
 <sentence id="s185">Thirdly, parties may be bound by the meaning to be reasonably inferred in the circumstances even if that meaning is not advanced by either party.</sentence>
-<sentence id="s186">Fourthly, the meaning of contractual terms is ascertained by considering them in context (including the "objective background of the transaction...its factual matrix, genesis and aim, and the common assumption of the parties" (citing Chesire &amp; Fifoot's Law of Contract , 7 th Aust ed, 1997).</sentence>
+<sentence id="s186">Fourthly, the meaning of contractual terms is ascertained by considering them in context (including the "objective background of the transaction...its factual matrix, genesis and aim, and the common assumption of the parties" (citing Chesire &amp;amp; Fifoot's Law of Contract , 7 th Aust ed, 1997).</sentence>
 <sentence id="s187">Fifthly, the terms of the contract are those the parties intended to incorporate including express terms, inferred terms based on actual intention, and implied terms based on presumed intention.</sentence>
 <sentence id="s188">Sixthly, "it is not enough that it is reasonable to imply a term; it must be necessary to do so to give business efficacy to the contract" (citing Codelfa Construction Pty Ltd v State Rail Authority of New South Wales [1982] HCA 24 ; (1982) 149 CLR 337 at 346).</sentence>
 <sentence id="s189">Seventhly, "evidence of surrounding circumstances is admissible to assist in the interpretation of the contract if the language is ambiguous or susceptible of more than one meaning.</sentence>
@@ -395,7 +395,7 @@
 <sentence id="s225">It was also said to result from the provisions of the agreement particularly cl 5.1 (which says the agreement is a closed agreement comprehensively regulating the relationship between the University and staff the subject of the agreement), cl 5.2 (which excludes all awards that would otherwise apply) and cl 9.1 (which makes the agreement binding on the National Tertiary Education Industry Union, the University and academic staff).</sentence>
 <sentence id="s226">70 The difficulty with these submissions is that nothing in the Workplace Relations Act or the agreement (including the provisions referred to by the applicant) supports the conclusion that their effect is contractual or that they operate to incorporate the agreement into the contract.</sentence>
 <sentence id="s227">The conclusion is also inconsistent with authority.</sentence>
-<sentence id="s228">Byrne &amp; Frew [1995] HCA 24 ; (1995) 185 CLR 410 established that awards operate by force of the statute.</sentence>
+<sentence id="s228">Byrne &amp;amp; Frew [1995] HCA 24 ; (1995) 185 CLR 410 established that awards operate by force of the statute.</sentence>
 <sentence id="s229">Pangallo (2002) 127 FCR 1 ; [2002] FCAFC 325 held that the same position applies to certified agreements.</sentence>
 <sentence id="s230">The observation of Whitlam and Gyles JJ at [33] in Pangallo is on point.</sentence>
 <sentence id="s231">A certified agreement now may be rather more like an award was at the time of that decision than it might be now.</sentence>
@@ -435,14 +435,14 @@
 <sentence id="s260">If their agreement is certified, it also has effect as an award.</sentence>
 <sentence id="s261">To the extent that an agreement provides in a manner that exceeds what is permitted either by the Constitution or by the legislation which gives the agreement effect as an award, it cannot operate with that effect.</sentence>
 <sentence id="s262">But the underlying agreement remains and the validity of that agreement depends on the general law, not the legislative provisions which give it effect as an award.</sentence>
-<sentence id="s263">77 In that case the High Court did not refer to Byrne &amp; Frew [1995] HCA 24 ; (1995) 185 CLR 410.</sentence>
-<sentence id="s264">Nothing in the observation at [34], when considered in the context of the issues the High Court had to decide, suggests that the High Court should be understood as saying anything to the contrary of Byrne &amp; Frew.</sentence>
+<sentence id="s263">77 In that case the High Court did not refer to Byrne &amp;amp; Frew [1995] HCA 24 ; (1995) 185 CLR 410.</sentence>
+<sentence id="s264">Nothing in the observation at [34], when considered in the context of the issues the High Court had to decide, suggests that the High Court should be understood as saying anything to the contrary of Byrne &amp;amp; Frew.</sentence>
 <sentence id="s265">
  
 78 In this case, the applicant is not a party to the agreement.</sentence>
 <sentence id="s266">He is bound by the agreement by operation of ss 347 and 351 of the Workplace Relations Act and cl 9.1(c) of the agreement.</sentence>
 <sentence id="s267">The applicant, however, did not negotiate or sign the agreement.</sentence>
-<sentence id="s268">The facts are thus different from those underlying the observation in Construction, Forestry, Mining &amp; Energy Union v Australian Industrial Relations Commission (2000) 203 CLR 645 ; [2001] HCA 16 at [34] .</sentence>
+<sentence id="s268">The facts are thus different from those underlying the observation in Construction, Forestry, Mining &amp;amp; Energy Union v Australian Industrial Relations Commission (2000) 203 CLR 645 ; [2001] HCA 16 at [34] .</sentence>
 <sentence id="s269">79 Thirdly, McAleer (2007) 159 IR 96; [2007] FCA 52 is also of no real assistance on this issue.</sentence>
 <sentence id="s270">Siopis J was careful to observe that both parties had conducted the trial on the basis of an apparent assumption that the certified agreement in that case was enforceable as a matter of general law.</sentence>
 <sentence id="s271">His Honour did not endorse that view but decided the case on the basis of the common position adopted by the parties.</sentence>
@@ -475,7 +475,7 @@
 <sentence id="s292">84 In this case the respondents sought to rely on evidence of earlier agreements and understandings of persons involved in their negotiation as aids to construction.</sentence>
 <sentence id="s293">The applicant objected to this evidence (which was admitted subject to relevance).</sentence>
 <sentence id="s294">The extent to which extrinsic material may be used is not settled.</sentence>
-<sentence id="s295">The decision in Short v F W Hercus Pty Limited [1993] FCA 51 ; (1993) 40 FCR 511 involved a more liberal approach to extrinsic material than certain earlier decisions (for example, Seamen's Union of Australia v Adelaide Steamship Co Ltd (1976) 46 FLR 444 and Printing &amp; Kindred Industries Union v Davies Bros Ltd (1986) 18 IR 444).</sentence>
+<sentence id="s295">The decision in Short v F W Hercus Pty Limited [1993] FCA 51 ; (1993) 40 FCR 511 involved a more liberal approach to extrinsic material than certain earlier decisions (for example, Seamen's Union of Australia v Adelaide Steamship Co Ltd (1976) 46 FLR 444 and Printing &amp;amp; Kindred Industries Union v Davies Bros Ltd (1986) 18 IR 444).</sentence>
 <sentence id="s296">It is not necessary to enter into that debate because there is no need to refer to the extrinsic material in order to resolve the dispute in the present case.</sentence>
 <sentence id="s297">The establishment of the committee issue 
  
@@ -591,7 +591,7 @@
 <sentence id="s402">In any event, breach of the time stipulation in cl 47.2(i) does not have the effect of invalidating subsequent actions.</sentence>
 <sentence id="s403">The lack of unanimity issue 
  
-99 The applicant submitted that the committee was required to make unanimous factual findings (relying on the discussion about the rule in Grindley v Barker (1798) 1 B&amp;P 229; 126 ER 875 in Bruce v Cole (1998) 45 NSWLR 163 at 205E --- 206).</sentence>
+99 The applicant submitted that the committee was required to make unanimous factual findings (relying on the discussion about the rule in Grindley v Barker (1798) 1 B&amp;amp;P 229; 126 ER 875 in Bruce v Cole (1998) 45 NSWLR 163 at 205E --- 206).</sentence>
 <sentence id="s404">As the committee had not made unanimous factual findings there were no findings of the committee and no capacity of the Vice-Chancellor to take disciplinary action.</sentence>
 <sentence id="s405">100 Grindley v Barker held that, where a power of a public nature was being exercised (namely, the sale of leather that had not been duly dried as required by statute), the opinion of the majority bound the minority.</sentence>
 <sentence id="s406">Priestley JA described Grindley v Barker as "not in itself a particularly persuasive decision" although followed from time to time by courts of high authority ( Bruce v Cole (1998) 45 NSWLR 163 at 205G).</sentence>
@@ -651,11 +651,11 @@ Dated: 10 October 2008
 
  Counsel for the Applicant: Mr B W Rayment QC with Mr D W Rayment 
  
- Solicitor for the Applicant: John McEncroe &amp; Company 
+ Solicitor for the Applicant: John McEncroe &amp;amp; Company 
  
  Counsel for the Respondent: Mr A Britt 
  
- Solicitor for the Respondent: Colin Biggers &amp; Paisley 
+ Solicitor for the Respondent: Colin Biggers &amp;amp; Paisley 
  
  Counsel for the Intervener: Mr M Moir 
 

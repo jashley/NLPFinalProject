@@ -3,12 +3,12 @@
 <name>Programmed Maintenance Services Ltd v Ranelagh House Pty Ltd (In Liquidation) [2008] FCA 1974 (19 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1974.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application by plaintiff creditor to defer dissolution of defendant company</catchphrase>
-<catchphrase "id=c1">final distribution of funds already made by liquidator</catchphrase>
-<catchphrase "id=c2">plaintiff claiming unpaid debt</catchphrase>
-<catchphrase "id=c3">continued existence of company necessary to effect proper purpose</catchphrase>
-<catchphrase "id=c4">application granted</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase id="c0">application by plaintiff creditor to defer dissolution of defendant company</catchphrase>
+<catchphrase id="c1">final distribution of funds already made by liquidator</catchphrase>
+<catchphrase id="c2">plaintiff claiming unpaid debt</catchphrase>
+<catchphrase id="c3">continued existence of company necessary to effect proper purpose</catchphrase>
+<catchphrase id="c4">application granted</catchphrase>
+<catchphrase id="c5">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -57,9 +57,9 @@ Dated: 27 January 2009
  
  Solicitor for the Plaintiff: Robert James Lawyers 
  
- Counsel for the First &amp; Second Defendants: P Doyle Gray 
+ Counsel for the First &amp;amp; Second Defendants: P Doyle Gray 
  
- Solicitor for the First &amp; Second Defendants: B Bilinsky &amp; Co, Solicitors 
+ Solicitor for the First &amp;amp; Second Defendants: B Bilinsky &amp;amp; Co, Solicitors 
 
  Date of Hearing: 19 December 2008 
  

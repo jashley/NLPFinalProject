@@ -3,10 +3,10 @@
 <name>Bitech Engineering v Garth Living Pty Ltd [2009] FCA 1393 (26 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1393.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">construction of patent for simulating flames with common application in domestic room heaters</catchphrase>
-<catchphrase "id=c1">whether the respondents' domestic room heaters infringed some of the claims in the patent</catchphrase>
-<catchphrase "id=c2">whether the patent is invalid and should be revoked</catchphrase>
-<catchphrase "id=c3">patents</catchphrase>
+<catchphrase id="c0">construction of patent for simulating flames with common application in domestic room heaters</catchphrase>
+<catchphrase id="c1">whether the respondents' domestic room heaters infringed some of the claims in the patent</catchphrase>
+<catchphrase id="c2">whether the patent is invalid and should be revoked</catchphrase>
+<catchphrase id="c3">patents</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -87,7 +87,7 @@
  The 1990 Act commenced on 30 April 1991.</sentence>
 <sentence id="s38">By the operation of s 234(2) and s 234(5), the 1990 Act applied to the application.</sentence>
 <sentence id="s39">However, the Patent cannot be revoked on a ground that would not have been available against the Patent under the 1952 Act.</sentence>
-<sentence id="s40">These propositions were confirmed by the Full Court in ICI Chemicals &amp; Polymers Ltd v The Lubrizol Corporation Inc (2000) 106 FCR 214 at [22]---[23] (p 224), where the Court said: 
+<sentence id="s40">These propositions were confirmed by the Full Court in ICI Chemicals &amp;amp; Polymers Ltd v The Lubrizol Corporation Inc (2000) 106 FCR 214 at [22]---[23] (p 224), where the Court said: 
  
  Applicable statutory regime 
  
@@ -116,11 +116,11 @@
 <sentence id="s52">It suffices for present purposes to refer to the following: 
  
  
- (i) the proper construction of a specification is a matter of law: D&eacute;cor Corporation Pty Ltd v Dart Industries Inc (1988) 13 IPR 385 at 400;
+ (i) the proper construction of a specification is a matter of law: D&amp;eacute;cor Corporation Pty Ltd v Dart Industries Inc (1988) 13 IPR 385 at 400;
  (ii) a patent specification should be given a purposive, not a purely literal, construction: Flexible Steel Lacing Co v Beltreco Ltd (2000) 49 IPR 331 ; [2000] FCA 890 at [81] ( Flexible Steel Lacing ); and it is not to be read in the abstract but is to be construed in the light of the common general knowledge and the art before the priority date: Kimberley-Clark Australia Pty Ltd v Arico Trading International Pty Ltd (2001) 207 CLR 1 ; 177 ALR 460 ; 50 IPR 513 ; [2001] HCA 8 at [24] ;
- (iii) the words used in a specification are to be given the meaning which the normal person skilled in the art would attach to them, having regard to his or her own general knowledge and to what is disclosed in the body of the specification: D&eacute;cor Corporation Pty Ltd at 391;
- (iv) while the claims are to be construed in the context of the specification as a whole, it is not legitimate to narrow or expand the boundaries of monopoly as fixed by the words of a claim by adding to those words glosses drawn from other parts of the specification, although terms in the claim which are unclear may be defined by reference to the body of the specification: Kimberley-Clark v Arico at [15]; Welch Perrin &amp; Co Pty Ltd v Worrel [1961] HCA 91 ; (1961) 106 CLR 588 at 610; Interlego AG v Toltoys Pty Ltd [1973] HCA 1 ; (1973) 130 CLR 461 at 478; the body of a specification cannot be used to change a clear claim for one subject matter into a claim for another and different subject matter: Electric &amp; Musical Industries Ltd v Lissen Ltd [1938] 4 All ER 221 at 224---5 ; (1938) 56 RPC 23 at 39;
- (v) experts can give evidence on the meaning which those skilled in the art would give to technical or scientific terms and phrases and on unusual or special meanings to be given by skilled addressees to words which might otherwise bear their ordinary meaning: Sartas No 1 Pty Ltd v Koukourou &amp; Partners Pty Lt d [1994] FCA 1529 ; (1994) 30 IPR 479 at 485---6 ( Sartas No 1 Pty Ltd ); the court is to place itself in the position of some person acquainted with the surrounding circumstances as to the state of the art and manufacture at the time ( Kimberley-Clark v Arico at [24]); and
+ (iii) the words used in a specification are to be given the meaning which the normal person skilled in the art would attach to them, having regard to his or her own general knowledge and to what is disclosed in the body of the specification: D&amp;eacute;cor Corporation Pty Ltd at 391;
+ (iv) while the claims are to be construed in the context of the specification as a whole, it is not legitimate to narrow or expand the boundaries of monopoly as fixed by the words of a claim by adding to those words glosses drawn from other parts of the specification, although terms in the claim which are unclear may be defined by reference to the body of the specification: Kimberley-Clark v Arico at [15]; Welch Perrin &amp;amp; Co Pty Ltd v Worrel [1961] HCA 91 ; (1961) 106 CLR 588 at 610; Interlego AG v Toltoys Pty Ltd [1973] HCA 1 ; (1973) 130 CLR 461 at 478; the body of a specification cannot be used to change a clear claim for one subject matter into a claim for another and different subject matter: Electric &amp;amp; Musical Industries Ltd v Lissen Ltd [1938] 4 All ER 221 at 224---5 ; (1938) 56 RPC 23 at 39;
+ (v) experts can give evidence on the meaning which those skilled in the art would give to technical or scientific terms and phrases and on unusual or special meanings to be given by skilled addressees to words which might otherwise bear their ordinary meaning: Sartas No 1 Pty Ltd v Koukourou &amp;amp; Partners Pty Lt d [1994] FCA 1529 ; (1994) 30 IPR 479 at 485---6 ( Sartas No 1 Pty Ltd ); the court is to place itself in the position of some person acquainted with the surrounding circumstances as to the state of the art and manufacture at the time ( Kimberley-Clark v Arico at [24]); and
  (vi) it is for the court, not for any witness however expert, to construe the specification; Sartas No 1 Pty Ltd at 485---6.</sentence>
 <sentence id="s53">
  
@@ -133,7 +133,7 @@
 <sentence id="s58">In Ranbaxy Australia Pty Ltd v Warner-Lambert Co LLC (No 2) [2006] FCA 1787 ; (2006) 71 IPR 46 at [62] ---[64] (pp 61---62), Young J distilled from a number of authorities a set of principles which his Honour held should ordinarily guide the construction of patents.</sentence>
 <sentence id="s59">The observations which his Honour made in that case are reminiscent of the statements made by the Full Court in Jupiters [2005] FCAFC 90 ; 222 ALR 155 , 65 IPR 86 , AIPC 92-098 and need not be set out in full here.</sentence>
 <sentence id="s60">However, I am content to adopt and apply what his Honour said, which, to some extent, helpfully adds to the statements of principle made by the Full Court in Jupiters [2005] FCAFC 90 ; 222 ALR 155 , 65 IPR 86 , AIPC 92-098.</sentence>
-<sentence id="s61">In Welch Perrin &amp; Co Pty Ltd v Worrel [1961] HCA 91 ; (1961) 106 CLR 588 , a Full Court of the High Court (Dixon CJ, Kitto and Windeyer JJ), said (at 609): 
+<sentence id="s61">In Welch Perrin &amp;amp; Co Pty Ltd v Worrel [1961] HCA 91 ; (1961) 106 CLR 588 , a Full Court of the High Court (Dixon CJ, Kitto and Windeyer JJ), said (at 609): 
  
  Most of the argument before us centred upon the construction of the specification and, as in every patent case, it is necessary to determine from it what exactly is the invention it describes and for which a monopoly is claimed, before proceeding to consider objections to the validity of particular claims: Electrical and Musical Industries Ltd. v. Lissen Ltd [(1938) 56 RPC 23 , at p 39].</sentence>
 <sentence id="s62">
@@ -768,26 +768,26 @@
 
  This test is applicable to the circumstance where the alleged anticipation resides in a prior apparatus that would, if it contained all of the necessary integers, fall within the scope of the claims.</sentence>
 <sentence id="s483">Therefore, this test would directly apply to the alleged anticipation constituted in the present case by the HECLA heater.</sentence>
-<sentence id="s484">In Bristol-Myers Squibb Co v FH Faulding &amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 , Black CJ and Lehane J, in a joint judgment, after reviewing several relevant authorities at [64]---[66] (pp 547---548), at [67] (pp 548---549) said: 
+<sentence id="s484">In Bristol-Myers Squibb Co v FH Faulding &amp;amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 , Black CJ and Lehane J, in a joint judgment, after reviewing several relevant authorities at [64]---[66] (pp 547---548), at [67] (pp 548---549) said: 
  
  What all those authorities contemplate, in our view, is that a prior publication, if it is to destroy novelty, must give a direction or make a recommendation or suggestion which will result, if the skilled reader follows it, in the claimed invention.</sentence>
 <sentence id="s485">A direction, recommendation or suggestion may often, of course, be implicit in what is described and commonly the only question may be whether the publication describes with sufficient clarity the claimed invention or, in the case of a combination, each integer of it.</sentence>
 <sentence id="s486">
  
 
- The United Kingdom Court of Appeal in General Tire &amp; Rubber Co v Firestone Tyre &amp; Rubber Co Ltd (1971) 1A IPR 121, [1972] RPC 457 at 485---486 held that, if the prior inventor's publication contains a clear description of, or clear instructions to do or make, something that would infringe the patentee's claim if carried out after the grant of the patentee's patent, the patentee's claim will have been shown to lack the necessary novelty.</sentence>
+ The United Kingdom Court of Appeal in General Tire &amp;amp; Rubber Co v Firestone Tyre &amp;amp; Rubber Co Ltd (1971) 1A IPR 121, [1972] RPC 457 at 485---486 held that, if the prior inventor's publication contains a clear description of, or clear instructions to do or make, something that would infringe the patentee's claim if carried out after the grant of the patentee's patent, the patentee's claim will have been shown to lack the necessary novelty.</sentence>
 <sentence id="s487">In that sense, it will have been anticipated.</sentence>
 <sentence id="s488">It is a question of whether or not the prior inventor's publication would render the later effort an infringement of the patentee's claim, on the assumption that the patentee's patent is valid.</sentence>
 <sentence id="s489">The Court of Appeal held ([1972] RPC at 486): 
  
  If, on the other hand, the prior publication contains a direction which is capable of being carried out in a manner which would infringe the patentee's claim, but would be at least as likely to be carried out in a way which would not do so, the patentee's claim will not have been anticipated, although it may fail on the ground of obviousness.</sentence>
-<sentence id="s490">To anticipate the patentee's claim the prior publication must contain clear and unmistakable directions to do what the patentee claims to have invented: Flour Oxidising Co Ltd v Carr &amp; Co Ltd ((1908) 25 RPC 428 at 457, line 34, approved in BTH Co Ltd v Metropolitan Vickers Electrical Co Ltd (1928) 45 RPC 1 at 24, line 1).</sentence>
+<sentence id="s490">To anticipate the patentee's claim the prior publication must contain clear and unmistakable directions to do what the patentee claims to have invented: Flour Oxidising Co Ltd v Carr &amp;amp; Co Ltd ((1908) 25 RPC 428 at 457, line 34, approved in BTH Co Ltd v Metropolitan Vickers Electrical Co Ltd (1928) 45 RPC 1 at 24, line 1).</sentence>
 <sentence id="s491">A signpost, however clear, upon the road to the patentee's invention will not suffice.</sentence>
 <sentence id="s492">The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.</sentence>
 <sentence id="s493">
  
 
- These statements were expressly approved by the Full Court in ICI Chemicals &amp; Polymers Ltd 106 FCR 214 at [51] (p 230).</sentence>
+ These statements were expressly approved by the Full Court in ICI Chemicals &amp;amp; Polymers Ltd 106 FCR 214 at [51] (p 230).</sentence>
 <sentence id="s494">In his text Patents for Inventions (5 th ed, Stevens, 1983) Blanco White said (at 4-102) (p 53): 
  
  The test for lack of novelty is essentially the same as the test for infringement; that is to say, a prior use will invalidate a claim ... if it was such that it would infringe that claim if carried out after the grant of the patent concerned; while a prior disclosure will invalidate if it contains a clear description of, or clear instructions to do or make, something that would infringe if carried out after grant.</sentence>
@@ -863,9 +863,9 @@ This formulation has been applied in Australia (see Alphapharm Pty Ltd v H Lundb
 <sentence id="s523">Even if the prior art relied upon by Garth Living and Hotpoint could be taken into account, there is no evidence that would justify a finding that the claimed invention was obvious in light of that prior art.</sentence>
 <sentence id="s524">The evidence tendered by Garth Living and Hotpoint falls well short of the test expounded in Aktiebolaget Hassle [2002] HCA 59 ; 212 CLR 411 at [53] ---[54] (pp 433---434) where Gleeson CJ, Gaudron, Gummow and Hayne JJ in their joint judgment, after addressing the question of whether or not the experiments were part of the asserted inventive step or simply of a routine character which would inevitably have been attempted as a matter of course, said (at [53]---[54] (pp 433---434)): That way of approaching the matter has an affinity with the reformulation of the "Cripps question" by Graham J in Olin Mathieson Chemical Corporation v Biorex Laboratories Ltd [[1970] RPC 157].</sentence>
 <sentence id="s525">This Court had been referred to Olin in the argument in Wellcome Foundation [(1981) [1981] HCA 12 ; 148 CLR 262 at 267.</sentence>
-<sentence id="s526">See also Washex Machinery Corporation v Roy Burton &amp; Co Pty Ltd (1974) 49 ALJR 12 at 16].</sentence>
+<sentence id="s526">See also Washex Machinery Corporation v Roy Burton &amp;amp; Co Pty Ltd (1974) 49 ALJR 12 at 16].</sentence>
 <sentence id="s527">Graham J had posed the question [ Olin Mathieson [1970] RPC 157 at 187-188.</sentence>
-<sentence id="s528">The approach taken in Olin appears now to be disfavoured by the English Court of Appeal: Pharmacia Corporation v Merck &amp; Co Inc [2002] RPC 775 at 819-820, but it still has support in the English profession: Cole, "Inventive Step: Meaning of the EPO Problem and Solution Approach, and Implications for the United Kingdom -- Part II" [1998] European Intellectual Property Review 267 , at p 270]: 
+<sentence id="s528">The approach taken in Olin appears now to be disfavoured by the English Court of Appeal: Pharmacia Corporation v Merck &amp;amp; Co Inc [2002] RPC 775 at 819-820, but it still has support in the English profession: Cole, "Inventive Step: Meaning of the EPO Problem and Solution Approach, and Implications for the United Kingdom -- Part II" [1998] European Intellectual Property Review 267 , at p 270]: 
  
  
  
@@ -888,7 +888,7 @@ This formulation has been applied in Australia (see Alphapharm Pty Ltd v H Lundb
  
  Lehane J did not treat "routine" in that way.</sentence>
 <sentence id="s532">He erred by giving it an operation more favourable to Alphapharm's case.</sentence>
-<sentence id="s533">What his Honour did was in line with the position which now apparently obtains in England, that "all of the courses of action which present themselves without the exercise of invention are obvious" [ Pharmacia Corporation v Merck &amp; Co Inc [2002] RPC 775 at 818].</sentence>
+<sentence id="s533">What his Honour did was in line with the position which now apparently obtains in England, that "all of the courses of action which present themselves without the exercise of invention are obvious" [ Pharmacia Corporation v Merck &amp;amp; Co Inc [2002] RPC 775 at 818].</sentence>
 <sentence id="s534">His Honour did not assess what was said by the expert witnesses concerning the procedures they would have followed by making findings whether they would have been led directly as a matter of course to pursue one avenue in the expectation that it might well produce the claimed compound.</sentence>
 <sentence id="s535">
 This ground of revocation has not been made out.</sentence>
@@ -939,7 +939,7 @@ Dated: 26 November 2009
  
  Counsel for Garth Living Pty Ltd, Cohen Nominees Pty Limited and Bunnings Group Limited: Ms J Rawlings 
  
- Solicitor for Garth Living Pty Ltd and Bunnings Group Limited: Eales &amp; Mackenzie Melbourne 
+ Solicitor for Garth Living Pty Ltd and Bunnings Group Limited: Eales &amp;amp; Mackenzie Melbourne 
  
  Solicitor for Cohen Nominees Pty Limited: Bradley Allen Lawyers 
  

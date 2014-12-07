@@ -3,13 +3,13 @@
 <name>Eric Preston Pty Ltd v Euroz Securities Limited [2009] FCA 240 (17 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/240.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">legal professional privilege</catchphrase>
-<catchphrase "id=c1">whether ss 118 or 119 of evidence act 1995 (cth) applicable</catchphrase>
-<catchphrase "id=c2">copy of privileged e-mail from client to solicitor forwarded under a separate e-mail to client's accountant</catchphrase>
-<catchphrase "id=c3">whether privilege under s 118 protects copy of privileged communication</catchphrase>
-<catchphrase "id=c4">whether privilege lost because re-communication of privileged communication to accountant was not in the course of making a confidential communication</catchphrase>
-<catchphrase "id=c5">s 122(5)(a)(i).</catchphrase>
-<catchphrase "id=c6">evidence</catchphrase>
+<catchphrase id="c0">legal professional privilege</catchphrase>
+<catchphrase id="c1">whether ss 118 or 119 of evidence act 1995 (cth) applicable</catchphrase>
+<catchphrase id="c2">copy of privileged e-mail from client to solicitor forwarded under a separate e-mail to client's accountant</catchphrase>
+<catchphrase id="c3">whether privilege under s 118 protects copy of privileged communication</catchphrase>
+<catchphrase id="c4">whether privilege lost because re-communication of privileged communication to accountant was not in the course of making a confidential communication</catchphrase>
+<catchphrase id="c5">s 122(5)(a)(i).</catchphrase>
+<catchphrase id="c6">evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -23,8 +23,8 @@
 <sentence id="s7">It would have been preferable if an objection to the production of the second e-mail on the ground of privilege had been taken on the return of the subpoena: Hardie Finance Corporation Pty Ltd v CCD Australia Pty Ltd (1995) 67 FCR 594.</sentence>
 <sentence id="s8">At the time that the second e-mail was sent proceedings had not been instituted although legal proceedings against Euroz were in contemplation by EP.</sentence>
 <sentence id="s9">There were in fact two e-mails relevant to this matter which were sent on 17 April 2008.</sentence>
-<sentence id="s10">The first e-mail was from Mr Drummond, and was sent on EP's behalf to Ms Carita Kazakoff, a solicitor with Slater &amp; Gordon Solicitors who were acting for EP.</sentence>
-<sentence id="s11">It was copied by e-mail to one M. Walter, also a solicitor with Slater &amp; Gordon and P G Willis a barrister then retained on behalf of EP.</sentence>
+<sentence id="s10">The first e-mail was from Mr Drummond, and was sent on EP's behalf to Ms Carita Kazakoff, a solicitor with Slater &amp;amp; Gordon Solicitors who were acting for EP.</sentence>
+<sentence id="s11">It was copied by e-mail to one M. Walter, also a solicitor with Slater &amp;amp; Gordon and P G Willis a barrister then retained on behalf of EP.</sentence>
 <sentence id="s12">The "Subject" of the first e-mail was expressed to be "Addition to witness statement".</sentence>
 <sentence id="s13">It is evident, having regard to EP's pleaded case, that the first e-mail is, in part, directly concerned with EP's then contemplated case.</sentence>
 <sentence id="s14">It describes Mr Drummond's business history in a summary way and makes very clear statements concerning his business practices, particularly in relation to his decision-making on behalf of the company in relation to its financial affairs.</sentence>
@@ -136,7 +136,7 @@
 <sentence id="s56">It may be seen that such an obligation need not be one which "arises under law" by virtue of s 117(1).</sentence>
 <sentence id="s57">As the Court said in Carnell v Mann at 259 the Parliament must have had in mind relationships broader than those of (for example) solicitor/client when it enacted the definitions of "confidential communication", and "confidential document" in s 117(1).</sentence>
 <sentence id="s58">The very content of the first e-mail which was copied in the second e-mail disclosed on its face, so far as Mr Drummond, objectively, might have considered, that it related to legal proceedings, actual or anticipated involving EP, Mr Bruce Drummond as one of its directors and inferentially Mr Graham Anderson as a potential witness or at least someone who might be in a position to assist in various ways with that litigation.</sentence>
-<sentence id="s59">Again, self-evidently, the first e-mail was addressed to at least one person at Slater &amp; Gordon, a well-known Australian legal firm.</sentence>
+<sentence id="s59">Again, self-evidently, the first e-mail was addressed to at least one person at Slater &amp;amp; Gordon, a well-known Australian legal firm.</sentence>
 <sentence id="s60">It included information concerning the private financial affairs of EP.</sentence>
 <sentence id="s61">Furthermore, the second e-mail in the section directed to Mr Anderson shows the subject as "FW: Addition to witness statement".</sentence>
 <sentence id="s62">Accordingly, it was being sent and must be taken to have been received in the context of, at least, anticipated litigation.</sentence>
@@ -162,11 +162,11 @@ Dated: 17 March 2009
  
  Counsel for the Applicant: Mr M P Bick QC with Mr D Farrands 
  
- Solicitor for the Applicant: Slater &amp; Gordon 
+ Solicitor for the Applicant: Slater &amp;amp; Gordon 
  
  Counsel for the Respondent: Mr G R Donaldson SC with Ms W F Buckley 
  
- Solicitor for the Respondent: Fairweather &amp; Lemonis 
+ Solicitor for the Respondent: Fairweather &amp;amp; Lemonis 
  Date of Hearing: 16 March 2009 
  
  Date of Judgment: 17 March 2009 

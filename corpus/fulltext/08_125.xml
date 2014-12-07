@@ -3,24 +3,24 @@
 <name>Green v Minister for Immigration and Citizenship [2008] FCA 125 (20 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/125.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">applicant's visa cancelled pursuant to s 501(2) of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c1">whether discretion to cancel exercised in compliance with minister's direction issued under s 499(1)</catchphrase>
-<catchphrase "id=c2">failure to consider relevant considerations</catchphrase>
-<catchphrase "id=c3">mitigating circumstances not properly considered.</catchphrase>
-<catchphrase "id=c4">procedural fairness</catchphrase>
-<catchphrase "id=c5">whether tribunal obliged to inform applicant of adverse credibility finding</catchphrase>
-<catchphrase "id=c6">whether tribunal obliged to call witnesses.</catchphrase>
-<catchphrase "id=c7">minister issued direction pursuant to s 499(1) of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c8">discretion to cancel visa pursuant to s 501(2) must be exercised in compliance with minister's direction</catchphrase>
-<catchphrase "id=c9">interpretation of minister's direction</catchphrase>
-<catchphrase "id=c10">"discretion" referred to in minister's direction is the discretion to cancel visa</catchphrase>
-<catchphrase "id=c11">"mitigating factors" relates to applicant's conduct considered in totality.</catchphrase>
-<catchphrase "id=c12">"discretion"</catchphrase>
-<catchphrase "id=c13">"mitigating factors".</catchphrase>
-<catchphrase "id=c14">administrative law</catchphrase>
-<catchphrase "id=c15">administrative law</catchphrase>
-<catchphrase "id=c16">migration law</catchphrase>
-<catchphrase "id=c17">words and phrases</catchphrase>
+<catchphrase id="c0">applicant's visa cancelled pursuant to s 501(2) of the migration act 1958 (cth)</catchphrase>
+<catchphrase id="c1">whether discretion to cancel exercised in compliance with minister's direction issued under s 499(1)</catchphrase>
+<catchphrase id="c2">failure to consider relevant considerations</catchphrase>
+<catchphrase id="c3">mitigating circumstances not properly considered.</catchphrase>
+<catchphrase id="c4">procedural fairness</catchphrase>
+<catchphrase id="c5">whether tribunal obliged to inform applicant of adverse credibility finding</catchphrase>
+<catchphrase id="c6">whether tribunal obliged to call witnesses.</catchphrase>
+<catchphrase id="c7">minister issued direction pursuant to s 499(1) of the migration act 1958 (cth)</catchphrase>
+<catchphrase id="c8">discretion to cancel visa pursuant to s 501(2) must be exercised in compliance with minister's direction</catchphrase>
+<catchphrase id="c9">interpretation of minister's direction</catchphrase>
+<catchphrase id="c10">"discretion" referred to in minister's direction is the discretion to cancel visa</catchphrase>
+<catchphrase id="c11">"mitigating factors" relates to applicant's conduct considered in totality.</catchphrase>
+<catchphrase id="c12">"discretion"</catchphrase>
+<catchphrase id="c13">"mitigating factors".</catchphrase>
+<catchphrase id="c14">administrative law</catchphrase>
+<catchphrase id="c15">administrative law</catchphrase>
+<catchphrase id="c16">migration law</catchphrase>
+<catchphrase id="c17">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -120,15 +120,15 @@
 <sentence id="s50">19 The Tribunal decided at [111] that "community protection and expectations outweigh the other considerations in this case" and consequently that the decision to cancel Mr Green's visa must be affirmed.</sentence>
 <sentence id="s51">This ultimate decision was based on the following findings, which, pursuant to the Direction, concerned whether cancellation of the visa would protect the Australian community, accord with the expectations of the Australian community, and satisfy other considerations:
  
-&#8226; Mr Green's "criminal conduct can only be categorised as very serious" at [86];
+&amp;#8226; Mr Green's "criminal conduct can only be categorised as very serious" at [86];
  
-&#8226; Mr Green's rehabilitation "still has a long way to go" and "[i]n the circumstances there must be a significant risk of recidivism" at [94];
+&amp;#8226; Mr Green's rehabilitation "still has a long way to go" and "[i]n the circumstances there must be a significant risk of recidivism" at [94];
  
-&#8226; setting aside the decision under review would not promote general deterrence of serious offences at [98];
+&amp;#8226; setting aside the decision under review would not promote general deterrence of serious offences at [98];
  
-&#8226; "the community would expect that the offender should be removed from Australia" at [103]; and
+&amp;#8226; "the community would expect that the offender should be removed from Australia" at [103]; and
  
-&#8226; Mr Green's attempts at rehabilitation do not "strongly weigh against affirming the decision under review" at [110].</sentence>
+&amp;#8226; Mr Green's attempts at rehabilitation do not "strongly weigh against affirming the decision under review" at [110].</sentence>
 <sentence id="s52">ISSUES ON APPEAL 
  
 20 In the present appeal, two issues arise.</sentence>
@@ -252,7 +252,7 @@ Dated: 20 February 2008
 
  Counsel for the Applicant: Ms S. Higgins 
  
- Solicitor for the Applicant: Ebsworth &amp; Ebsworth Lawyers 
+ Solicitor for the Applicant: Ebsworth &amp;amp; Ebsworth Lawyers 
  
  Counsel for the Respondent: Ms B. Nolan 
  

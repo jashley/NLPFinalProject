@@ -3,9 +3,9 @@
 <name>Sambo v State of Western Australia [2008] FCA 1575 (22 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1575.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">members of applicant in a native title determination claim did not cooperate with other members of the applicant</catchphrase>
-<catchphrase "id=c1">whether a member of an applicant can be removed as a party by reference to o 6 r 9 of the federal court rules</catchphrase>
-<catchphrase "id=c2">native title</catchphrase>
+<catchphrase id="c0">members of applicant in a native title determination claim did not cooperate with other members of the applicant</catchphrase>
+<catchphrase id="c1">whether a member of an applicant can be removed as a party by reference to o 6 r 9 of the federal court rules</catchphrase>
+<catchphrase id="c2">native title</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -268,7 +268,7 @@ Dated: 22 October 2008
  Mr S Daley 
  
  Solicitor for the Applicant Movers: 
-Shayne Daley &amp; Associates 
+Shayne Daley &amp;amp; Associates 
  
  Counsel for Ms S Wyatt and Mr V Cooper: 
 Mr PA Sheiner (Pro Bono) 

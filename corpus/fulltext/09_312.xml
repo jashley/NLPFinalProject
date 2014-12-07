@@ -3,15 +3,15 @@
 <name>Emirates v Australian Competition and Consumer Commission [2009] FCA 312 (2 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/312.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">investigative function</catchphrase>
-<catchphrase "id=c1">validity of s 155 notices</catchphrase>
-<catchphrase "id=c2">'matter' under investigation</catchphrase>
-<catchphrase "id=c3">relevance of information sought</catchphrase>
-<catchphrase "id=c4">burdensome</catchphrase>
-<catchphrase "id=c5">unreasonableness of decision to issue s 155 notice</catchphrase>
-<catchphrase "id=c6">market definition</catchphrase>
-<catchphrase "id=c7">market in australia</catchphrase>
-<catchphrase "id=c8">trade practices</catchphrase>
+<catchphrase id="c0">investigative function</catchphrase>
+<catchphrase id="c1">validity of s 155 notices</catchphrase>
+<catchphrase id="c2">'matter' under investigation</catchphrase>
+<catchphrase id="c3">relevance of information sought</catchphrase>
+<catchphrase id="c4">burdensome</catchphrase>
+<catchphrase id="c5">unreasonableness of decision to issue s 155 notice</catchphrase>
+<catchphrase id="c6">market definition</catchphrase>
+<catchphrase id="c7">market in australia</catchphrase>
+<catchphrase id="c8">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -26,7 +26,7 @@
 <sentence id="s7">While the notices were not identical in form and content, the differences in wording were not considered as being material on the primary argument of Emirates and Singapore Airlines relating to the validity of the notices and, for the purpose of this judgment, I will refer to them collectively as the Notices unless otherwise specified.</sentence>
 <sentence id="s8">As a prefatory matter, a few words must be directed to the question of the reach of the Act.</sentence>
 <sentence id="s9">Initially, it appeared that these proceedings were going to concern the extent to which the Act extended to extraterritorial conduct.</sentence>
-<sentence id="s10">It has long been accepted in the United States that a court may assert jurisdiction under the Sherman Act 15 USC &#167; 1 for anticompetitive conduct occurring wholly outside the territory of the United States, provided that the conduct has effects felt in the United States: see F Hoffmann-La Roche Ltd v Empagran S.A. [2004] USSC 2381 ; 542 US 155 (2004); Hartford Fire Insurance Co v California [1993] USSC 100 ; 509 US 764 (1993).</sentence>
+<sentence id="s10">It has long been accepted in the United States that a court may assert jurisdiction under the Sherman Act 15 USC &amp;#167; 1 for anticompetitive conduct occurring wholly outside the territory of the United States, provided that the conduct has effects felt in the United States: see F Hoffmann-La Roche Ltd v Empagran S.A. [2004] USSC 2381 ; 542 US 155 (2004); Hartford Fire Insurance Co v California [1993] USSC 100 ; 509 US 764 (1993).</sentence>
 <sentence id="s11">That s 45 of the Act should be read similarly, at least with respect to corporations carrying on business in Australia, was considered by Merkel J in Bray v F Hoffmann-La Roche Ltd [2002] FCA 243 ; (2002) 118 FCR 1 , at 15-16, and affirmed by the Full Court in Bray v F Hoffmann-La Roche Ltd (2003) 130 FCR 317.</sentence>
 <sentence id="s12">The Notices are said by the applicants to relate to the supply of all international air cargo services.</sentence>
 <sentence id="s13">Such services include wholly international flights and flights inbound to, and outbound from, Australia.</sentence>
@@ -295,7 +295,7 @@ Schedule 1 to the notice listed the information to be furnished by Emirates.</se
 <sentence id="s162">However, I have adopted a practical and common sense approach to construing the Notices, not being excessively critical where the sense of the Notices would be apparent to the applicants as the recipients of the Notices.</sentence>
 <sentence id="s163">A preliminary attack was made on the use of the concept of point of origin or destination of a service as a reference point able to be used in the Notices.</sentence>
 <sentence id="s164">It was contended that the Notices (even if confined to outbound services) did not sufficiently describe a matter involving a contravention of the Act, particularly in failing to describe the market in Australia.</sentence>
-<sentence id="s165">I accept that just because services cover the movement of goods in or out of Australia, does not necessarily indicate that there is a relevant market located in Australia in respect of those services: see Auskay International Marketing &amp; Trade Pty Ltd v Qantas Airways Ltd [2008] FCA 1458 at [19] and [21] per Tracey J.</sentence>
+<sentence id="s165">I accept that just because services cover the movement of goods in or out of Australia, does not necessarily indicate that there is a relevant market located in Australia in respect of those services: see Auskay International Marketing &amp;amp; Trade Pty Ltd v Qantas Airways Ltd [2008] FCA 1458 at [19] and [21] per Tracey J.</sentence>
 <sentence id="s166">However, as I mention later, the Notices when properly construed adequately describe matters capable of involving a contravention of the Act and by reference to a market in Australia.</sentence>
 <sentence id="s167">I make one further observation as to the Notices.</sentence>
 <sentence id="s168">The identified matters concern the alleged contravention of s 45 of the Act and concentrate on the supply of the international air cargo services.</sentence>
@@ -445,7 +445,7 @@ Singapore Airlines essentially made the same submission.</sentence>
 <sentence id="s265">With the advent of modern telecommunications any other approach may fail to give protection to, and enhance the welfare of, Australians who use and obtain services in Australia.</sentence>
 <sentence id="s266">After all, the focus of s 45 is on the supply of the services.</sentence>
 <sentence id="s267">The notion of a 'market in Australia' was recently referred to by Lindgren J in Australian Competition and Consumer Commission v Qantas Airways Limited [2008] FCA 1976 , where his Honour stated (at [33]-[34]): 
- Although the notion of a "market in Australia" in s 4E has been referred to in two cases ( Riverstone Computer Services Pty Ltd v IBM Global Financing Australia Ltd [2002] FCA 1608 at [21] per Hill J and Auskay International Manufacturing &amp; Trade Pty Ltd v Qantas Airways Ltd (2008) ATPR 42-256 at [19] per Tracey J), the concept has not been the subject of extensive judicial consideration.</sentence>
+ Although the notion of a "market in Australia" in s 4E has been referred to in two cases ( Riverstone Computer Services Pty Ltd v IBM Global Financing Australia Ltd [2002] FCA 1608 at [21] per Hill J and Auskay International Manufacturing &amp;amp; Trade Pty Ltd v Qantas Airways Ltd (2008) ATPR 42-256 at [19] per Tracey J), the concept has not been the subject of extensive judicial consideration.</sentence>
 <sentence id="s268">
 
  
@@ -474,7 +474,7 @@ Singapore Airlines essentially made the same submission.</sentence>
 <sentence id="s284">(b) This ground of review can only be made out if the decision-maker fails to take into account a consideration that they are bound to take into account in making the decision.</sentence>
 <sentence id="s285">(c) The factors a decision-maker is bound to take into account in making a decision are determined by construction of the statute conferring the power.</sentence>
 <sentence id="s286">Where the matters to be taken into account are not expressly stated in the statute, they must be determined by implication from the subject matter, scope and purpose of the Act: see Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40 ; (1986) 162 CLR 24 at 39-40 per Mason J.</sentence>
-<sentence id="s287">(d) A decision-maker may not have had proper regard to a relevant consideration if they merely make a formalistic reference to the consideration: see Azriel v NSW Land &amp; Housing Corporation [2006] NSWCA 372 at [49] per Basten JA (with whom Santow and Ipp JJA agreed at [1] and [3]).</sentence>
+<sentence id="s287">(d) A decision-maker may not have had proper regard to a relevant consideration if they merely make a formalistic reference to the consideration: see Azriel v NSW Land &amp;amp; Housing Corporation [2006] NSWCA 372 at [49] per Basten JA (with whom Santow and Ipp JJA agreed at [1] and [3]).</sentence>
 <sentence id="s288">(e) A decision-maker is required to give proper, genuine and realistic consideration to a relevant consideration: see Deloitte Touche Tohmatsu v Australian Securities Commission (1996) 136 ALR 453 at 468 (per Lindgren J); Bruce v Cole (1998) 45 NSWLR 163 at 185-6 per Spigelman CJ and the authorities cited therein.</sentence>
 <sentence id="s289">(f) The mere failure to refer expressly to a matter will not necessarily give rise to the inference that it was not taken into account: see Australian Conservation Foundation v Forestry Commission (1988) 19 FCR 127 at 132 (per Burchett J).</sentence>
 <sentence id="s290">However, it is open to the Court to infer that a matter was not taken into account where no reference is made to it: see, eg, Sullivan v Department of Transport (1978) 20 ALR 323 at 349 (per Deane J).</sentence>
@@ -628,7 +628,7 @@ Singapore Airlines essentially made the same submission.</sentence>
 <sentence id="s422">The only attack of the applicants is on the decision to issue the Notices and the Notices in their original form.</sentence>
 <sentence id="s423">No complaint is now made as to the extended time frame, there being no attack on the decisions varying the Notices.</sentence>
 <sentence id="s424">Whilst unnecessary for me to consider in view of my upholding the validity of the decisions to issue and the Notices, I would not make any of the substantive orders sought by the applicants as a matter of discretion if the applicants only succeeded on the burden issue.</sentence>
-<sentence id="s425">In my view, the Court does have a discretion to refuse relief in such circumstances, even to the extent the application is brought under s 163A of the Act: see, eg, Re Tooth &amp; Co Ltd [1978] FCA 9 ; (1978) 31 FLR 314.</sentence>
+<sentence id="s425">In my view, the Court does have a discretion to refuse relief in such circumstances, even to the extent the application is brought under s 163A of the Act: see, eg, Re Tooth &amp;amp; Co Ltd [1978] FCA 9 ; (1978) 31 FLR 314.</sentence>
 <sentence id="s426">As I have said, time for compliance has been extended.</sentence>
 <sentence id="s427">This time frame is not in dispute.</sentence>
 <sentence id="s428">Documents have been delivered by the applicants to the ACCC by reason of some or all of the Notices.</sentence>

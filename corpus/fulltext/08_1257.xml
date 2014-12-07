@@ -3,27 +3,27 @@
 <name>Bradken Resources Pty Ltd v Lynx Engineering Consultants Pty Ltd [2008] FCA 1257 (29 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1257.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patents</catchphrase>
-<catchphrase "id=c1">unjustified threats</catchphrase>
-<catchphrase "id=c2">ss 128 and 129 of the patents act 1990 (cth)</catchphrase>
-<catchphrase "id=c3">assuming the threat was made and that the defence under s 129(b) is not established, whether the court has a discretion to decline to grant relief sought by an applicant</catchphrase>
-<catchphrase "id=c4">meaning of the word "may" in the context of s 129</catchphrase>
-<catchphrase "id=c5">whether certain matters are relevant to the exercise of the discretion</catchphrase>
-<catchphrase "id=c6">whether breach of contract and confidence, or infringement of copyright or contravention of certain provisions of the trade practices act 1974 (cth) by the applicant in relation to the conduct to which the threats related is relevant to the exercise of the discretion to decline to grant relief under s 129</catchphrase>
-<catchphrase "id=c7">whether the applicant's having "dirty hands" is relevant to the exercise of the discretion</catchphrase>
-<catchphrase "id=c8">whether the discretion is like the discretion to decline to grant relief in the auxiliary jurisdiction of a court of equity</catchphrase>
-<catchphrase "id=c9">patents</catchphrase>
-<catchphrase "id=c10">unjustified threats</catchphrase>
-<catchphrase "id=c11">ss 128 and 129 of the patents act 1990 (cth)</catchphrase>
-<catchphrase "id=c12">the defence available under ss 57 and 129 (b) in an unjustified threats proceeding</catchphrase>
-<catchphrase "id=c13">whether, for the defence to be available, the conduct, which was the subject of the threats, must infringe the claims of the complete specification as published at the time of the threats and as published at the time at which the conduct will occur if that conduct has not yet occurred at the time the threat was made</catchphrase>
-<catchphrase "id=c14">whether the defence is only available after the grant of the patent which is the subject of the application referred to in s 57</catchphrase>
-<catchphrase "id=c15">summary judgment</catchphrase>
-<catchphrase "id=c16">s 31a of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c17">application to strike out certain allegations in a defence</catchphrase>
-<catchphrase "id=c18">intellectual property</catchphrase>
-<catchphrase "id=c19">intellectual property</catchphrase>
-<catchphrase "id=c20">practice and procedure</catchphrase>
+<catchphrase id="c0">patents</catchphrase>
+<catchphrase id="c1">unjustified threats</catchphrase>
+<catchphrase id="c2">ss 128 and 129 of the patents act 1990 (cth)</catchphrase>
+<catchphrase id="c3">assuming the threat was made and that the defence under s 129(b) is not established, whether the court has a discretion to decline to grant relief sought by an applicant</catchphrase>
+<catchphrase id="c4">meaning of the word "may" in the context of s 129</catchphrase>
+<catchphrase id="c5">whether certain matters are relevant to the exercise of the discretion</catchphrase>
+<catchphrase id="c6">whether breach of contract and confidence, or infringement of copyright or contravention of certain provisions of the trade practices act 1974 (cth) by the applicant in relation to the conduct to which the threats related is relevant to the exercise of the discretion to decline to grant relief under s 129</catchphrase>
+<catchphrase id="c7">whether the applicant's having "dirty hands" is relevant to the exercise of the discretion</catchphrase>
+<catchphrase id="c8">whether the discretion is like the discretion to decline to grant relief in the auxiliary jurisdiction of a court of equity</catchphrase>
+<catchphrase id="c9">patents</catchphrase>
+<catchphrase id="c10">unjustified threats</catchphrase>
+<catchphrase id="c11">ss 128 and 129 of the patents act 1990 (cth)</catchphrase>
+<catchphrase id="c12">the defence available under ss 57 and 129 (b) in an unjustified threats proceeding</catchphrase>
+<catchphrase id="c13">whether, for the defence to be available, the conduct, which was the subject of the threats, must infringe the claims of the complete specification as published at the time of the threats and as published at the time at which the conduct will occur if that conduct has not yet occurred at the time the threat was made</catchphrase>
+<catchphrase id="c14">whether the defence is only available after the grant of the patent which is the subject of the application referred to in s 57</catchphrase>
+<catchphrase id="c15">summary judgment</catchphrase>
+<catchphrase id="c16">s 31a of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c17">application to strike out certain allegations in a defence</catchphrase>
+<catchphrase id="c18">intellectual property</catchphrase>
+<catchphrase id="c19">intellectual property</catchphrase>
+<catchphrase id="c20">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -111,11 +111,11 @@
 <sentence id="s58">Bradken also claims damages pursuant to s 129 of the 1990 Act.</sentence>
 <sentence id="s59">Bradken makes the following relevant allegations:
  
-&#8226; At all material times, Bradken was engaged in negotiations with BHP for the supply to BHP of railway wagons for the bulk transport of materials.</sentence>
-<sentence id="s60">&#8226; At all material times, Lynx was also indirectly engaged in negotiations with BHP for the supply to BHP of railway wagons for the bulk transport of materials.</sentence>
-<sentence id="s61">&#8226; Lynx was aware that Bradken was engaged with BHP in such negotiations.</sentence>
-<sentence id="s62">&#8226; On 11 October 2007, Lynx caused the Threats Letter to be sent to BHP.</sentence>
-<sentence id="s63">&#8226; The Threats Letter conveyed that Lynx intends to bring proceedings against BHP in respect of any use or proposed use of railway wagons supplied to BHP by Bradken.</sentence>
+&amp;#8226; At all material times, Bradken was engaged in negotiations with BHP for the supply to BHP of railway wagons for the bulk transport of materials.</sentence>
+<sentence id="s60">&amp;#8226; At all material times, Lynx was also indirectly engaged in negotiations with BHP for the supply to BHP of railway wagons for the bulk transport of materials.</sentence>
+<sentence id="s61">&amp;#8226; Lynx was aware that Bradken was engaged with BHP in such negotiations.</sentence>
+<sentence id="s62">&amp;#8226; On 11 October 2007, Lynx caused the Threats Letter to be sent to BHP.</sentence>
+<sentence id="s63">&amp;#8226; The Threats Letter conveyed that Lynx intends to bring proceedings against BHP in respect of any use or proposed use of railway wagons supplied to BHP by Bradken.</sentence>
 <sentence id="s64">22 In the Threats Letter, Lynx's patent and trademark attorneys assert that Lynx is the owner of the Patent Application and a copy of the specification is enclosed with the Threats Letter.</sentence>
 <sentence id="s65">After referring to the history of the Patent Application and the Appeal Proceeding, the Threats Letter draws attention to s 117 and s 13 of the 1990 Act.</sentence>
 <sentence id="s66">Section 13 specifies the exclusive rights that are given to a patentee by a patent.</sentence>
@@ -147,14 +147,14 @@
 <sentence id="s77">Lynx also asserts in paragraph 17 that, by reason of the conduct complained of in the Confidential Information Proceeding, Bradken is not entitled to, and should be denied, the relief sought against Lynx in the Threats Proceeding.</sentence>
 <sentence id="s78">27 Lynx particularises the allegations in paragraph 17 as follows:
  
-&#8226; Bradken claims that the alleged threats by Lynx are unjustified because of the construction of the Threats Letter, which threatens infringement of the Patent Application.</sentence>
-<sentence id="s79">&#8226; Bradken used and procured and joined in the use of, the Lynx Confidential Information and did so knowingly, to manufacture or join in and procure the manufacture of Bradken Wagons and to market and sell or offer Bradken Wagons for sale.</sentence>
-<sentence id="s80">&#8226; By so doing, Bradken avoided independent design, development, marketing and manufacture of the Bradken wagons and achieved a head start in relation to the manufacture, offering for sale, marketing and sale of those wagons.</sentence>
-<sentence id="s81">&#8226; Bradken acted in concert with ANI, Bradken Limited and WorleyParsons.</sentence>
-<sentence id="s82">&#8226; A patent would have been granted but for Bradken's opposition to the Patent Application and the appeal in the Appeal Proceedings and Bradken's opposition to the Lynx Amendments.</sentence>
-<sentence id="s83">&#8226; Products designed, developed, marketed and manufactured by Bradken involving use of the Lynx Confidential Information in breach of contractual and equitable obligations of confidence are the products in respect of which it is alleged that Lynx has made unjustified threats.</sentence>
-<sentence id="s84">&#8226; Conduct of Bradken, of which complaint is made in the Confidential Information Proceedings, in using the Lynx Confidential Information in breach of contractual and equitable obligations of confidence is thus directly and immediately related to the declaratory, injunctive and other relief claimed by Bradken against Lynx in the Threats Proceeding.</sentence>
-<sentence id="s85">&#8226; So far as the conduct of Bradken, of which complaint is made in the Confidential Information Proceedings, is found and held to have been in breach of contract or to have contravened the provisions of the Trade Practices Act and to have constituted infringement of copyright, that wrongful conduct is, in the same manner as the wrongful use of confidential information referred to above, directly and immediately related to the declaratory, injunctive and other relief claimed by Bradken against Lynx in the Threats Proceeding.</sentence>
+&amp;#8226; Bradken claims that the alleged threats by Lynx are unjustified because of the construction of the Threats Letter, which threatens infringement of the Patent Application.</sentence>
+<sentence id="s79">&amp;#8226; Bradken used and procured and joined in the use of, the Lynx Confidential Information and did so knowingly, to manufacture or join in and procure the manufacture of Bradken Wagons and to market and sell or offer Bradken Wagons for sale.</sentence>
+<sentence id="s80">&amp;#8226; By so doing, Bradken avoided independent design, development, marketing and manufacture of the Bradken wagons and achieved a head start in relation to the manufacture, offering for sale, marketing and sale of those wagons.</sentence>
+<sentence id="s81">&amp;#8226; Bradken acted in concert with ANI, Bradken Limited and WorleyParsons.</sentence>
+<sentence id="s82">&amp;#8226; A patent would have been granted but for Bradken's opposition to the Patent Application and the appeal in the Appeal Proceedings and Bradken's opposition to the Lynx Amendments.</sentence>
+<sentence id="s83">&amp;#8226; Products designed, developed, marketed and manufactured by Bradken involving use of the Lynx Confidential Information in breach of contractual and equitable obligations of confidence are the products in respect of which it is alleged that Lynx has made unjustified threats.</sentence>
+<sentence id="s84">&amp;#8226; Conduct of Bradken, of which complaint is made in the Confidential Information Proceedings, in using the Lynx Confidential Information in breach of contractual and equitable obligations of confidence is thus directly and immediately related to the declaratory, injunctive and other relief claimed by Bradken against Lynx in the Threats Proceeding.</sentence>
+<sentence id="s85">&amp;#8226; So far as the conduct of Bradken, of which complaint is made in the Confidential Information Proceedings, is found and held to have been in breach of contract or to have contravened the provisions of the Trade Practices Act and to have constituted infringement of copyright, that wrongful conduct is, in the same manner as the wrongful use of confidential information referred to above, directly and immediately related to the declaratory, injunctive and other relief claimed by Bradken against Lynx in the Threats Proceeding.</sentence>
 <sentence id="s86">THE STRIKE OUT APPLICATION 
  
 28 Bradken's application to strike out paragraphs of the Defence is based on s 31A of the Federal Court of Australia Act 1976 (Cth).</sentence>

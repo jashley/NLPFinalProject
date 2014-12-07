@@ -3,29 +3,29 @@
 <name>Beconwood Securities Pty Ltd v Australia and New Zealand Banking Group Limited (includes corrigendum dated 14 May 2008) [2008] FCA 594 (2 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/594.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">securities lending agreement</catchphrase>
-<catchphrase "id=c1">contract to lend shares</catchphrase>
-<catchphrase "id=c2">ownership of shares</catchphrase>
-<catchphrase "id=c3">whether securities lending agreement constitutes secured loan or purchase-and-sale</catchphrase>
-<catchphrase "id=c4">whether reference may be had to economic effect of transaction in determining legal character</catchphrase>
-<catchphrase "id=c5">whether contract is to be construed with reference to its purpose, background, context, and market</catchphrase>
-<catchphrase "id=c6">whether same contract may be construed differently if entered into in different market or by different participants</catchphrase>
-<catchphrase "id=c7">implied term</catchphrase>
-<catchphrase "id=c8">whether it is reasonable and equitable to imply a term requiring shares acquired to be held and retained</catchphrase>
-<catchphrase "id=c9">whether administrator or receiver is analogous to liquidator</catchphrase>
-<catchphrase "id=c10">claim for equitable interest in shares transferred on documents purporting to give full title to broker</catchphrase>
-<catchphrase "id=c11">whether equity of redemption can exist after outright transfer of title</catchphrase>
-<catchphrase "id=c12">whether equitable charge over undefined shares may exist absent appropriation</catchphrase>
-<catchphrase "id=c13">charge</catchphrase>
-<catchphrase "id=c14">credit risk</catchphrase>
-<catchphrase "id=c15">margin</catchphrase>
-<catchphrase "id=c16">mortgage</catchphrase>
-<catchphrase "id=c17">repo</catchphrase>
-<catchphrase "id=c18">securities lending</catchphrase>
-<catchphrase "id=c19">contract</catchphrase>
-<catchphrase "id=c20">corporations</catchphrase>
-<catchphrase "id=c21">equity</catchphrase>
-<catchphrase "id=c22">words and phrases</catchphrase>
+<catchphrase id="c0">securities lending agreement</catchphrase>
+<catchphrase id="c1">contract to lend shares</catchphrase>
+<catchphrase id="c2">ownership of shares</catchphrase>
+<catchphrase id="c3">whether securities lending agreement constitutes secured loan or purchase-and-sale</catchphrase>
+<catchphrase id="c4">whether reference may be had to economic effect of transaction in determining legal character</catchphrase>
+<catchphrase id="c5">whether contract is to be construed with reference to its purpose, background, context, and market</catchphrase>
+<catchphrase id="c6">whether same contract may be construed differently if entered into in different market or by different participants</catchphrase>
+<catchphrase id="c7">implied term</catchphrase>
+<catchphrase id="c8">whether it is reasonable and equitable to imply a term requiring shares acquired to be held and retained</catchphrase>
+<catchphrase id="c9">whether administrator or receiver is analogous to liquidator</catchphrase>
+<catchphrase id="c10">claim for equitable interest in shares transferred on documents purporting to give full title to broker</catchphrase>
+<catchphrase id="c11">whether equity of redemption can exist after outright transfer of title</catchphrase>
+<catchphrase id="c12">whether equitable charge over undefined shares may exist absent appropriation</catchphrase>
+<catchphrase id="c13">charge</catchphrase>
+<catchphrase id="c14">credit risk</catchphrase>
+<catchphrase id="c15">margin</catchphrase>
+<catchphrase id="c16">mortgage</catchphrase>
+<catchphrase id="c17">repo</catchphrase>
+<catchphrase id="c18">securities lending</catchphrase>
+<catchphrase id="c19">contract</catchphrase>
+<catchphrase id="c20">corporations</catchphrase>
+<catchphrase id="c21">equity</catchphrase>
+<catchphrase id="c22">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -45,7 +45,7 @@
 <sentence id="s12">) Whether Beconwood's claimed equitable estate has priority over ANZ's legal estate will, if necessary, be decided on another day.</sentence>
 <sentence id="s13">Securities Lending
  By way of background, it is appropriate to say something about the business of securities lending.</sentence>
-<sentence id="s14">The description that follows is derived from a variety of sources, including: C Benjamin, Interests in Securities: A Proprietary Law Analysis of the International Securities Markets (2000); K Tyson-Quah (ed), Cross-Border Securities: Repo, Lending and Collateralisation (1997); F J Fabozzi (ed), Securities Lending &amp; Repurchase Agreements (1997); F J Fabozzi &amp; S V Mann (eds), Securities Finance: Securities Lending and Repurchase Agreements (2005); P Ali, The Law of Secured Finance: An International Survey of Security Interests over Personal Property (2002); M C Faulkner, "An Introduction to Securities Lending" (Spitalfields Advisors report, 3rd ed, 2006); M J Fleming &amp; K D Garbade, "The Specials Market for US Treasury Securities and the Federal Reserve's Securities Lending Program" (Federal Reserve Bank of New York draft working paper, 28 August 2003); Technical Committee of The International Organization of Securities Commissions, "Securities Lending Transactions: Market Development and Implications" (International Organization of Securities Commissions and Bank for International Settlements report, July 1999); G M D'Avolio, "Essays in Financial Economics" (PhD thesis, Harvard University, September 4 2003); affidavit of Natalie Floate, Chairman of the Australian Securities Lending Association (ASLA).</sentence>
+<sentence id="s14">The description that follows is derived from a variety of sources, including: C Benjamin, Interests in Securities: A Proprietary Law Analysis of the International Securities Markets (2000); K Tyson-Quah (ed), Cross-Border Securities: Repo, Lending and Collateralisation (1997); F J Fabozzi (ed), Securities Lending &amp;amp; Repurchase Agreements (1997); F J Fabozzi &amp;amp; S V Mann (eds), Securities Finance: Securities Lending and Repurchase Agreements (2005); P Ali, The Law of Secured Finance: An International Survey of Security Interests over Personal Property (2002); M C Faulkner, "An Introduction to Securities Lending" (Spitalfields Advisors report, 3rd ed, 2006); M J Fleming &amp;amp; K D Garbade, "The Specials Market for US Treasury Securities and the Federal Reserve's Securities Lending Program" (Federal Reserve Bank of New York draft working paper, 28 August 2003); Technical Committee of The International Organization of Securities Commissions, "Securities Lending Transactions: Market Development and Implications" (International Organization of Securities Commissions and Bank for International Settlements report, July 1999); G M D'Avolio, "Essays in Financial Economics" (PhD thesis, Harvard University, September 4 2003); affidavit of Natalie Floate, Chairman of the Australian Securities Lending Association (ASLA).</sentence>
 <sentence id="s15">Securities lending refers to the practice by which securities are transferred from one party (the lender) to another party (the borrower), with the borrower contractually obliged to redeliver to the lender at a later time securities which are equivalent in number and type.</sentence>
 <sentence id="s16">Securities lending is an important element of modern financial markets, playing a substantial role in promoting market liquidity and providing stability to securities settlement systems.</sentence>
 <sentence id="s17">Although the practice can be traced back to the 19th century, an active market for securities lending did not emerge until the 1960s.</sentence>
@@ -260,7 +260,7 @@ Much the same was said in Helby v Matthews [1895] AC 471 , 475 and Inland Revenu
 <sentence id="s205">The deed may be absolute in form but still a mortgage, and the absence of a proviso for redemption will not prevent its being a mortgage.</sentence>
 <sentence id="s206">
 
- Most of this passage was taken from Alderson v White [1858] EngR 189 ; (1858) 2 De G &amp; J 97 , 105 [1858] EngR 189 ; [44 ER 924 , 927-928], a case that was cited with approval by Windeyer J in Gurfinkel v Bentley Pty Ltd [1966] HCA 75 ; (1966) 116 CLR 98 , 113.</sentence>
+ Most of this passage was taken from Alderson v White [1858] EngR 189 ; (1858) 2 De G &amp;amp; J 97 , 105 [1858] EngR 189 ; [44 ER 924 , 927-928], a case that was cited with approval by Windeyer J in Gurfinkel v Bentley Pty Ltd [1966] HCA 75 ; (1966) 116 CLR 98 , 113.</sentence>
 <sentence id="s207">The question that arose in the latter case was whether a transaction by which the defendant became the proprietor of land previously owned by the plaintiff was entered into for the purpose of securing the payment of a debt lent by the defendant to the plaintiff --- that is, whether the land was held as security with the plaintiff having an equity of redemption.</sentence>
 <sentence id="s208">The alternative was that the plaintiff had sold the land to the defendant upon terms that he should have an option to purchase it upon certain conditions: Gurfinkel 116 CLR at 115-116.</sentence>
 <sentence id="s209">The court found that the transaction was, in fact and in law, what it purported to be according to the terms of the agreement between the parties.</sentence>
@@ -354,7 +354,7 @@ Much the same was said in Helby v Matthews [1895] AC 471 , 475 and Inland Revenu
  The Supreme Court also made clear what necessarily follows from that holding; namely, in "redelivering" stock to the lender, there is no obligation on the borrower to give back the original stock, or even any particular stock (at 456): 
  When the borrower returns the borrowed stock, he acquires it by purchase or by borrowing again and in the process acquires and transfers to the lender all the incidents of legal ownership in securities which neither possessed before.</sentence>
 <sentence id="s293">
- Lower courts have reaffirmed and applied these principles in a variety of contexts: Granite Partners LP v Bear, Stearns &amp; Co Inc (SDNY 1998) 17 FSupp2d 275 ; Re County of Orange (CD Cal 1998) 31 FSupp2d 768 ; SEC v Drysdale Security Corp (2d Cir [1986] USCA2 172 ; 1986) 785 F2d 38 ; In re Bevill, Bresler &amp; Schulman Asset Management Corp (DNJ 1986) 67 BR 557 , aff'd sub nom Bevill, Bresler &amp; Schulman Asset Management Corp v Spencer Savings &amp; Loan Association (3d Cir [1989] USCA3 791 ; 1989) 878 F2d 742.</sentence>
+ Lower courts have reaffirmed and applied these principles in a variety of contexts: Granite Partners LP v Bear, Stearns &amp;amp; Co Inc (SDNY 1998) 17 FSupp2d 275 ; Re County of Orange (CD Cal 1998) 31 FSupp2d 768 ; SEC v Drysdale Security Corp (2d Cir [1986] USCA2 172 ; 1986) 785 F2d 38 ; In re Bevill, Bresler &amp;amp; Schulman Asset Management Corp (DNJ 1986) 67 BR 557 , aff'd sub nom Bevill, Bresler &amp;amp; Schulman Asset Management Corp v Spencer Savings &amp;amp; Loan Association (3d Cir [1989] USCA3 791 ; 1989) 878 F2d 742.</sentence>
 <sentence id="s294">If there is one constant theme across the cases, it is that agreements made using industry-standard documentation should be honoured according to the practices and expectations of the securities industry; to do otherwise would be to risk impairing the efficient functioning of national and international capital markets: Granite Partners 17 FSupp2d at 302-303; Re County of Orange 31 FSupp2d at 778; Bevill 67 BR at 597-598.</sentence>
 <sentence id="s295">To refuse to give effect to securities lending agreements in this context would be to revisit upon the market all of the difficulties involved with rehypothecation and the illiquidity of encumbered securities, in respect of which see R Elias, "Legal Aspects of Swaps and Collateral" (2001) 3(6) Journal of International Financial Markets 232, 239-240.</sentence>
 <sentence id="s296">With respect to the legal rationale, as distinct from the foregoing policy rationale, given for reaching this result, the US courts have, in large measure, relied on the same principles of construction that I have applied.</sentence>
@@ -374,14 +374,14 @@ Much the same was said in Helby v Matthews [1895] AC 471 , 475 and Inland Revenu
 <sentence id="s309">
 
  There is one area in which it may appear at first glance that the US authorities diverge.</sentence>
-<sentence id="s310">While it is accepted in the US that, as between the parties to the transactions, securities lending agreements are to be honoured as purchase-and-sales rather than loans, the courts have also stated that such agreements may be characterised differently in other contexts: see Nebraska Department of Revenue v Loewenstein [1994] USSC 56 ; (1994) 513 US 123 (treating a repo as a collateralised loan under a certain provision of the tax code); Resolution Trust Corp v Aetna Casualty &amp; Surety Corp of Illinois (7 th Cir [1994] USCA7 614 ; 1994) 25 F3d 570 (treating a repo as a collateralised loan for purposes of a loan-loss exclusion in an insurance agreement).</sentence>
+<sentence id="s310">While it is accepted in the US that, as between the parties to the transactions, securities lending agreements are to be honoured as purchase-and-sales rather than loans, the courts have also stated that such agreements may be characterised differently in other contexts: see Nebraska Department of Revenue v Loewenstein [1994] USSC 56 ; (1994) 513 US 123 (treating a repo as a collateralised loan under a certain provision of the tax code); Resolution Trust Corp v Aetna Casualty &amp;amp; Surety Corp of Illinois (7 th Cir [1994] USCA7 614 ; 1994) 25 F3d 570 (treating a repo as a collateralised loan for purposes of a loan-loss exclusion in an insurance agreement).</sentence>
 <sentence id="s311">Without descending too far into the details of these cases, the important point for present purposes is to clarify that they do not represent a contrary line of authority; rather, they simply stand for the proposition that although the court should, on general freedom of contract grounds, honour the structure of a transaction adopted by the parties as between those parties , that says nothing about how those agreements should be viewed with respect to the operation of legislative acts or third party obligations external to the securities lending contract and unrelated to the question of ownership.</sentence>
 <sentence id="s312">The Supreme Court in Loewenstein put the point this way (513 US at 133-34): 
- We do not believe it matters for purposes of &#167; 3124(a) [the provision of the tax legislation at issue] whether the repo is characterized as a sale and subsequent repurchase [or as a loan].</sentence>
+ We do not believe it matters for purposes of &amp;#167; 3124(a) [the provision of the tax legislation at issue] whether the repo is characterized as a sale and subsequent repurchase [or as a loan].</sentence>
 <sentence id="s313">A sale-repurchase characterization presumably would make the [securities borrowers] the "owners" of the federal securities during the term of the repo.</sentence>
 <sentence id="s314">But the dispositive question is whether the [securities borrowers] earned interest on "obligations of the United States Government," not whether the [securities borrowers] "owned" such obligations.</sentence>
 <sentence id="s315">As [the securities lender] himself concedes, "[t]he concept of 'ownership' is simply not an issue under 31 U.S.C.</sentence>
-<sentence id="s316">&#167; 3124.</sentence>
+<sentence id="s316">&amp;#167; 3124.</sentence>
 <sentence id="s317">" 
 
  In other words, Loewenstein simply stands for the unobjectionable proposition that the operation of a legislative act with respect to a given commercial transaction is not necessarily determined by the structure given to that transaction in the contract of the parties.</sentence>
@@ -389,7 +389,7 @@ Much the same was said in Helby v Matthews [1895] AC 471 , 475 and Inland Revenu
  [The securities lender] does not specifically dispute [that in economic reality, the securities borrower receives interest on cash it has lent to the securities lender] but argues that repos are characterized as ordinary sales and repurchases for purposes of federal securities, bankruptcy, and banking law as well as commercial and local government law.</sentence>
 <sentence id="s319">We need not examine the accuracy of these assertions, for we are not called upon in this case to interpret any of those bodies of law.</sentence>
 <sentence id="s320">Our decision today is an interpretation only of 31 U.S.C.</sentence>
-<sentence id="s321">&#167; 3124(a)---not the Securities Exchange Act of 1934, the Bankruptcy Code, or any other body of law.</sentence>
+<sentence id="s321">&amp;#167; 3124(a)---not the Securities Exchange Act of 1934, the Bankruptcy Code, or any other body of law.</sentence>
 <sentence id="s322">
 
  The decision in Resolution Trust Corp [1994] USCA7 614 ; 25 F3d 570 rests on similar reasoning.</sentence>

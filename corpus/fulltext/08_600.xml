@@ -3,19 +3,19 @@
 <name>SZHVM v Minister for Immigration and Citizenship [2008] FCA 600 (7 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/600.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial review</catchphrase>
-<catchphrase "id=c1">protection visa</catchphrase>
-<catchphrase "id=c2">where appellant worked for migration agent as a nanny</catchphrase>
-<catchphrase "id=c3">where agent told appellant to work rather than go to tribunal hearing</catchphrase>
-<catchphrase "id=c4">where appellant did not understand english</catchphrase>
-<catchphrase "id=c5">whether invitation in english to attend hearing was "real and meaningful"</catchphrase>
-<catchphrase "id=c6">whether tribunal failed to undertake a reasonably open and regular administrative procedural step</catchphrase>
-<catchphrase "id=c7">where appellant subsequently gave false information to the federal magistrate</catchphrase>
-<catchphrase "id=c8">allegation of third party fraud on tribunal</catchphrase>
-<catchphrase "id=c9">leave sought to adduce further evidence explaining failure to attend hearing</catchphrase>
-<catchphrase "id=c10">fraud on the tribunal</catchphrase>
-<catchphrase "id=c11">migration</catchphrase>
-<catchphrase "id=c12">words and phrases</catchphrase>
+<catchphrase id="c0">judicial review</catchphrase>
+<catchphrase id="c1">protection visa</catchphrase>
+<catchphrase id="c2">where appellant worked for migration agent as a nanny</catchphrase>
+<catchphrase id="c3">where agent told appellant to work rather than go to tribunal hearing</catchphrase>
+<catchphrase id="c4">where appellant did not understand english</catchphrase>
+<catchphrase id="c5">whether invitation in english to attend hearing was "real and meaningful"</catchphrase>
+<catchphrase id="c6">whether tribunal failed to undertake a reasonably open and regular administrative procedural step</catchphrase>
+<catchphrase id="c7">where appellant subsequently gave false information to the federal magistrate</catchphrase>
+<catchphrase id="c8">allegation of third party fraud on tribunal</catchphrase>
+<catchphrase id="c9">leave sought to adduce further evidence explaining failure to attend hearing</catchphrase>
+<catchphrase id="c10">fraud on the tribunal</catchphrase>
+<catchphrase id="c11">migration</catchphrase>
+<catchphrase id="c12">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -36,14 +36,14 @@
 <sentence id="s10">She feared that she would suffer serious harm if she returned to Indonesia and that the authorities would not protect her.</sentence>
 <sentence id="s11">4 The appellant's application for a protection visa indicated that:
  
-&#8226; The appellant spoke, read and wrote Indonesian and spoke Hokkian but did not otherwise speak, read or write English; 
+&amp;#8226; The appellant spoke, read and wrote Indonesian and spoke Hokkian but did not otherwise speak, read or write English; 
  
-&#8226; The appellant required an interpreter in the Indonesian language;
+&amp;#8226; The appellant required an interpreter in the Indonesian language;
  
-&#8226; The application was prepared with the assistance of Erwin Marzukie, a registered migration agent, who was the appellant's migration agent.</sentence>
+&amp;#8226; The application was prepared with the assistance of Erwin Marzukie, a registered migration agent, who was the appellant's migration agent.</sentence>
 <sentence id="s12">Mr Marzukie agreed to receive all written communications in respect of that application; and
  
-&#8226; The appellant's residential address was nominated as 45/2-8 Brisbane Street, Surry Hills.</sentence>
+&amp;#8226; The appellant's residential address was nominated as 45/2-8 Brisbane Street, Surry Hills.</sentence>
 <sentence id="s13">The application indicated that she had been residing at that address since November 2004.</sentence>
 <sentence id="s14">The appellant's postal address was nominated as Suite 201, Level 2, 78 Liverpool Street, Sydney.</sentence>
 <sentence id="s15">This was Mr Marzukie's postal address as identified in the application itself.</sentence>
@@ -1106,7 +1106,7 @@
 <sentence id="s447">Further, the appellant herself was complicit and knowingly involved in the decision to mislead the Tribunal as to her place of residence.</sentence>
 <sentence id="s448">47 SZFDE does not stand for the proposition that a failure by an applicant to attend the Tribunal hearing due to the fault or conduct of a third person bears the result that the Tribunal decision to proceed under s 426A of the Act is always vitiated by error.</sentence>
 <sentence id="s449">48 This is a case where the appellant did not attend the Tribunal hearing due to a combination of factors --- her own lack of diligence, receipt of some misinformation or bad advice from a third party, and choosing after some persuasion not to attend.</sentence>
-<sentence id="s450">None of these matters amounts to fraud because there is no relevant 'fraudulent' conduct vis-&agrave;-vis the appellant.</sentence>
+<sentence id="s450">None of these matters amounts to fraud because there is no relevant 'fraudulent' conduct vis-&amp;agrave;-vis the appellant.</sentence>
 <sentence id="s451">The real reason for the appellant not attending is not contained in the various matters particularised by the appellant in the Further Amended Notice of Appeal, but was the appellant's own decision not to attend.</sentence>
 <sentence id="s452">The appellant consciously consented to the Tribunal disposing of her case without her appearance, and in the circumstances the legislative scheme and processes of the Tribunal were not in any way disturbed.</sentence>
 <sentence id="s453">49 In Minister for Immigration and Multicultural Affairs v SZFDE and Anor (2006) 236 ALR 42 , French J said at [129]-[130]:
@@ -1148,7 +1148,7 @@ SZFDE's negative response to the hearing invitation was procured by the dishones
 <sentence id="s477">The Full Court made the following comments at [32]:
  
  We have already indicated that we do not consider that a finding that the agent was unregistered was open on the evidence.</sentence>
-<sentence id="s478">Even assuming it was, and assuming, moreover, that the respondent was thereby misled, we do not consider that all of the agent's acts or omissions vis-&agrave;-vis the respondent are thereby to be characterised as dishonest.</sentence>
+<sentence id="s478">Even assuming it was, and assuming, moreover, that the respondent was thereby misled, we do not consider that all of the agent's acts or omissions vis-&amp;agrave;-vis the respondent are thereby to be characterised as dishonest.</sentence>
 <sentence id="s479">Nor do we consider that any particular such act or omission which directly affects the Tribunal's discharge of its imperative statutory functions in a manner which is adverse to a person seeking Tribunal review can in turn be characterised as a "fraud on the Tribunal".</sentence>
 <sentence id="s480">
  
@@ -1161,12 +1161,12 @@ SZFDE's negative response to the hearing invitation was procured by the dishones
 <sentence id="s484">SZFDE is testament to this.</sentence>
 <sentence id="s485">But SZFDE requires that the agent in question is fraudulent in a way that affects the Tribunal's Pt 7 decision-making process.</sentence>
 <sentence id="s486">An omission to notify the date of a hearing to a visa applicant may have adverse consequences for that applicant if, as here, the Tribunal proceeds to make a decision under s 426A in the applicant's absence.</sentence>
-<sentence id="s487">But before that omission can properly be said to have occasioned a fraud on the Tribunal, it must itself be able properly to be characterised as a fraudulent omission vis-&agrave;-vis the visa applicant: SZFDE , at [51].</sentence>
+<sentence id="s487">But before that omission can properly be said to have occasioned a fraud on the Tribunal, it must itself be able properly to be characterised as a fraudulent omission vis-&amp;agrave;-vis the visa applicant: SZFDE , at [51].</sentence>
 <sentence id="s488">The simple fact of a failure to inform or bare negligence or inadvertence will not necessarily be sufficient to give rise to fraud on the Tribunal.</sentence>
 <sentence id="s489">As we have indicated, particularly having regard to the level of satisfaction required by Briginshaw v Briginshaw [1938] HCA 34 ; (1938) 60 CLR 336 at 363 and 368 in cases where fraud is alleged, we do not consider that it was open to his Honour to infer fraud.</sentence>
 <sentence id="s490">
  
-54 Whilst the appeal before me is not simply a case of a failure to inform or mere inadvertence, nor is it to be characterised as a case of fraud vis-&agrave;-vis the appellant, nor even then a fraud on the Tribunal.</sentence>
+54 Whilst the appeal before me is not simply a case of a failure to inform or mere inadvertence, nor is it to be characterised as a case of fraud vis-&amp;agrave;-vis the appellant, nor even then a fraud on the Tribunal.</sentence>
 <sentence id="s491">I appreciate, as Finkelstein J in SZIVK [2008] FCA 334 (at [33]) reminds us, that there are many ways in which fraud may be manifested.</sentence>
 <sentence id="s492">However, this is not a case where one can infer that the agent, in making the statements to the appellant that resulted in her not attending, acted other than honestly; Mr Marzukie was just concerned about his own interests and put them above those of the appellant.</sentence>
 <sentence id="s493">55 Accordingly, the appellant's first ground of appeal could not succeed even accepting the further evidence of the appellant.</sentence>

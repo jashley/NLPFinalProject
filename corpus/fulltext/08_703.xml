@@ -3,13 +3,13 @@
 <name>Shaheed v Tax Agents' Board of New South Wales [2008] FCA 703 (23 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/703.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">meaning of "fit and proper person to prepare tax returns"</catchphrase>
-<catchphrase "id=c2">whether tribunal misconstrued meaning of "fit and proper"</catchphrase>
-<catchphrase "id=c3">whether tribunal failed to have regard to the test in briginshaw v briginshaw [1938] hca 34 ; (1938) 60 clr 336</catchphrase>
-<catchphrase "id=c4">whether the tribunal took into account irrelevant considerations</catchphrase>
-<catchphrase "id=c5">whether decision of tribunal otherwise unreasonable.</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
+<catchphrase id="c0">appeal from administrative appeals tribunal</catchphrase>
+<catchphrase id="c1">meaning of "fit and proper person to prepare tax returns"</catchphrase>
+<catchphrase id="c2">whether tribunal misconstrued meaning of "fit and proper"</catchphrase>
+<catchphrase id="c3">whether tribunal failed to have regard to the test in briginshaw v briginshaw [1938] hca 34 ; (1938) 60 clr 336</catchphrase>
+<catchphrase id="c4">whether the tribunal took into account irrelevant considerations</catchphrase>
+<catchphrase id="c5">whether decision of tribunal otherwise unreasonable.</catchphrase>
+<catchphrase id="c6">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -562,7 +562,7 @@ Dated: 23 May 2008
 
  Counsel for the Applicant: Mr P Bickford 
  
- Solicitor for the Applicant: Powrie &amp; Co 
+ Solicitor for the Applicant: Powrie &amp;amp; Co 
  
  Counsel for the Respondent: Mr B Skinner 
  

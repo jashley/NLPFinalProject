@@ -3,12 +3,12 @@
 <name>Kocic v Commissioner of Taxation [2008] FCA 1576 (24 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1576.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for declaration that assessments are not proper assessments and invalid on grounds that the commissioner failed to turn his mind to certain factual matters and had regard to information that he should not have considered</catchphrase>
-<catchphrase "id=c1">the validity and due making of an assessment</catchphrase>
-<catchphrase "id=c2">ss 175 and 177 of the income tax assessment act 1936 (cth)</catchphrase>
-<catchphrase "id=c3">motion for summary judgment under s 31a of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c4">no allegation commissioner participated in any alleged illegal activity or was aware of any alleged illegal activity</catchphrase>
-<catchphrase "id=c5">income tax</catchphrase>
+<catchphrase id="c0">application for declaration that assessments are not proper assessments and invalid on grounds that the commissioner failed to turn his mind to certain factual matters and had regard to information that he should not have considered</catchphrase>
+<catchphrase id="c1">the validity and due making of an assessment</catchphrase>
+<catchphrase id="c2">ss 175 and 177 of the income tax assessment act 1936 (cth)</catchphrase>
+<catchphrase id="c3">motion for summary judgment under s 31a of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c4">no allegation commissioner participated in any alleged illegal activity or was aware of any alleged illegal activity</catchphrase>
+<catchphrase id="c5">income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -223,7 +223,7 @@ Dated: 24 October 2008
 
  Counsel for the Applicants: Mr D McGovern SC with Mr I Young 
  
- Solicitor for the Applicants: Robert Richards &amp; Associates 
+ Solicitor for the Applicants: Robert Richards &amp;amp; Associates 
  
  Counsel for the Respondent: Mr N Perram SC with Mr J Sheller 
  

@@ -3,10 +3,10 @@
 <name>Energizer Australia Pty Ltd v Remington Products Australia Pty Ltd (No 4) [2008] FCA 846 (5 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/846.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">contempt charge against a corporation</catchphrase>
-<catchphrase "id=c1">direction that the corporation file its evidence in advance of the hearing</catchphrase>
-<catchphrase "id=c2">whether direction should be set aside</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase id="c0">contempt charge against a corporation</catchphrase>
+<catchphrase id="c1">direction that the corporation file its evidence in advance of the hearing</catchphrase>
+<catchphrase id="c2">whether direction should be set aside</catchphrase>
+<catchphrase id="c3">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -142,13 +142,13 @@ Their Honours held, on the basis of this reasoning, that the Court had power to 
 18 Initially, I was attracted to the submission that ACCC v Amcor lends support to the respondent's contention that it ought not to be directed to put on its affidavit evidence prior to the hearing of the contempt charge.</sentence>
 <sentence id="s66">However, on reflection, it is clear that the decision in ACCC v Amcor was based on considerations that do not apply in the present case:
  
-&#8226; the issue in ACCC v Amcor concerned the position of individual respondents, not corporate respondents;
+&amp;#8226; the issue in ACCC v Amcor concerned the position of individual respondents, not corporate respondents;
  
-&#8226; there was no dispute in ACCC v Amcor that the corporate respondents were not entitled to invoke the privilege against self-incrimination and that they should be directed to put on their affidavit evidence in advance of the hearing;
+&amp;#8226; there was no dispute in ACCC v Amcor that the corporate respondents were not entitled to invoke the privilege against self-incrimination and that they should be directed to put on their affidavit evidence in advance of the hearing;
  
-&#8226; by contrast, the individual respondents were entitled to rely on the privilege against self-incrimination, including the privilege against being required to make discovery of real evidence of an incriminating character; and 
+&amp;#8226; by contrast, the individual respondents were entitled to rely on the privilege against self-incrimination, including the privilege against being required to make discovery of real evidence of an incriminating character; and 
  
-&#8226; a finding was made in ACCC v Amcor that the filing of statements by the individual respondents was likely to bolster the case against them.</sentence>
+&amp;#8226; a finding was made in ACCC v Amcor that the filing of statements by the individual respondents was likely to bolster the case against them.</sentence>
 <sentence id="s67">19 In the present case, the respondent, unlike the individual respondents in ACCC v Amcor , is not entitled to invoke the privilege against self-incrimination in any of its manifestations.</sentence>
 <sentence id="s68">Like the corporate respondents in ACCC v Amcor , the respondent in the present case can be compelled to provide discovery of documents relevant to the issues in the proceedings.</sentence>
 <sentence id="s69">It is to be borne in mind that one reason for not extending the privilege to corporations is because:

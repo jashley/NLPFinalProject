@@ -3,19 +3,19 @@
 <name>SZHEW v Minister for Immigration and Citizenship [2009] FCA 783 (24 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/783.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">alleged inadequacy of interpretation of hearing before the tribunal</catchphrase>
-<catchphrase "id=c1">whether interpretation gave rise to a breach of s 425 migration act 1958 (cth) and procedural unfairness</catchphrase>
-<catchphrase "id=c2">circumstances of the case</catchphrase>
-<catchphrase "id=c3">whether federal magistrate's treatment of expert evidence on standard of interpretation was in error</catchphrase>
-<catchphrase "id=c4">whether federal magistrate's findings with respect to appellant's credibility in error</catchphrase>
-<catchphrase "id=c5">whether judgment in first respondent's favour following appellant's failure to appear gave rise to a res judicata</catchphrase>
-<catchphrase "id=c6">whether judgment determining whether application should be re-instated gave rise to a res judicata</catchphrase>
-<catchphrase "id=c7">principles to be applied in determining whether a res judicata arises</catchphrase>
-<catchphrase "id=c8">whether final determination of the merits of the case so as to give rise to a res judicata</catchphrase>
-<catchphrase "id=c9">whether prior proceedings gave rise to anshun estoppel</catchphrase>
-<catchphrase "id=c10">whether further application an abuse of process</catchphrase>
-<catchphrase "id=c11">migration</catchphrase>
-<catchphrase "id=c12">estoppel</catchphrase>
+<catchphrase id="c0">alleged inadequacy of interpretation of hearing before the tribunal</catchphrase>
+<catchphrase id="c1">whether interpretation gave rise to a breach of s 425 migration act 1958 (cth) and procedural unfairness</catchphrase>
+<catchphrase id="c2">circumstances of the case</catchphrase>
+<catchphrase id="c3">whether federal magistrate's treatment of expert evidence on standard of interpretation was in error</catchphrase>
+<catchphrase id="c4">whether federal magistrate's findings with respect to appellant's credibility in error</catchphrase>
+<catchphrase id="c5">whether judgment in first respondent's favour following appellant's failure to appear gave rise to a res judicata</catchphrase>
+<catchphrase id="c6">whether judgment determining whether application should be re-instated gave rise to a res judicata</catchphrase>
+<catchphrase id="c7">principles to be applied in determining whether a res judicata arises</catchphrase>
+<catchphrase id="c8">whether final determination of the merits of the case so as to give rise to a res judicata</catchphrase>
+<catchphrase id="c9">whether prior proceedings gave rise to anshun estoppel</catchphrase>
+<catchphrase id="c10">whether further application an abuse of process</catchphrase>
+<catchphrase id="c11">migration</catchphrase>
+<catchphrase id="c12">estoppel</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -23,7 +23,7 @@
  This is an appeal against the dismissal of an application for review of a decision of the Refugee Review Tribunal ( the Tribunal ) by the Federal Magistrates Court ( SZHEW (No 3) v Minister for Immigration [2008] FMCA 1714 ( SZHEW No 3 )).</sentence>
 <sentence id="s1">Grounds 2 to 4 of the appellant's notice of appeal relate to the Federal Magistrate's conclusion that the appeal was precluded by reason of the doctrine of res judicata (arising from the decision in SZHEW v Minister for Immigration and Citizenship (No 2) [2006] FMCA 1750 ( SZHEW No 2 )) and/or an Anshun estoppel (referring to Port of Melbourne Authority v Anshun Pty Ltd [1981] HCA 45 ; (1981) 147 CLR 589).</sentence>
 <sentence id="s2">Grounds 5 to 10 relate to the Federal Magistrate's dismissal of the appellant's claims of a denial of a fair hearing before the Tribunal by reason of inadequate interpretation.</sentence>
-<sentence id="s3">The first respondent ( the Minister ) filed a notice of contention seeking that the Court affirm the Federal Magistrate's decision on the grounds that: - (i) the decision in SZHEW v Minister for Immigration &amp; Anor [2006] FMCA 1483 ( SZHEW No 1 ) gave rise to a res judicata, and (ii) the proceeding was an abuse of process.</sentence>
+<sentence id="s3">The first respondent ( the Minister ) filed a notice of contention seeking that the Court affirm the Federal Magistrate's decision on the grounds that: - (i) the decision in SZHEW v Minister for Immigration &amp;amp; Anor [2006] FMCA 1483 ( SZHEW No 1 ) gave rise to a res judicata, and (ii) the proceeding was an abuse of process.</sentence>
 <sentence id="s4">For the reasons given below, I have concluded that the proceeding is not precluded by the doctrines of res judicata or Anshun estoppel and does not constitute an abuse of process.</sentence>
 <sentence id="s5">Nevertheless, I have also concluded that the appeal must be dismissed as the appellant has not established any error by the Federal Magistrate about the alleged inadequate interpretation.</sentence>
 <sentence id="s6">BACKGROUND 
@@ -113,7 +113,7 @@
 <sentence id="s87">Further, the order resulting from the former is either dismissal of the application to set aside the original order for dismissal or the setting aside of that order leaving the original application on foot.</sentence>
 <sentence id="s88">The order resulting from the latter is the dismissal or upholding of the original application.</sentence>
 <sentence id="s89">These matters may indicate that the two decisions do not involve consideration of the merits of the same question which is an essential component of a res judicata; but they are not decisive.</sentence>
-<sentence id="s90">The doctrine of res judicata is said to apply to any matter "which it was necessary to decide, and which was actually decided, as the groundwork of the decision itself, though not then directly the point at issue" (Spencer Bower at [184] citing R v Hartington, Middle Quarter Inhabitants [1855] EngR 264 ; (1855) 4 E &amp; B 780 at 794-797; see also Applicant A184 of 2003 at [101] citing Rogers v Legal Services Commission of South Australia (1995) 64 SASR 572).</sentence>
+<sentence id="s90">The doctrine of res judicata is said to apply to any matter "which it was necessary to decide, and which was actually decided, as the groundwork of the decision itself, though not then directly the point at issue" (Spencer Bower at [184] citing R v Hartington, Middle Quarter Inhabitants [1855] EngR 264 ; (1855) 4 E &amp;amp; B 780 at 794-797; see also Applicant A184 of 2003 at [101] citing Rogers v Legal Services Commission of South Australia (1995) 64 SASR 572).</sentence>
 <sentence id="s91">Spencer Bower (also at [184]) identifies this criterion of necessity as involving a "judicial determination of some question of law or issue of fact, in the sense that the decision could not have been legitimately or rationally pronounced by the tribunal without determining the question or issue in a particular way..., such determination, even though not declared on the face of the decision, constitutes an integral part of it: but beyond these limits, there can be no such thing as a res judicata by implication".</sentence>
 <sentence id="s92">Did the decision in SZHEW No 2 involve a judicial determination of the requisite character with respect not only to the appellant's application to set aside the order of 25 September 2006 dismissing the application for judicial review of the Tribunal's decision, but also the application for judicial review itself?</sentence>
 <sentence id="s93">An assessment of the prospects of success of the judicial review application is a necessary step in the determination of an application to set aside an order for dismissal for a failure to appear.</sentence>

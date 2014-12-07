@@ -3,15 +3,15 @@
 <name>Deputy Commissioner of Taxation v Cumins [No 5] [2008] FCA 794 (30 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/794.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">petition</catchphrase>
-<catchphrase "id=c1">opposed on grounds that bankruptcy notice invalid as amount stated to be due was overstated</catchphrase>
-<catchphrase "id=c2">whether notice under s 41(5) of the bankruptcy act 1966 (cth) on its proper construction required to be given to petitioning creditor</catchphrase>
-<catchphrase "id=c3">if so whether notice under s 41(5) was given</catchphrase>
-<catchphrase "id=c4">whether, in circumstances where notice under s 41(5) not given, the provisions of s 306 of the act have application</catchphrase>
-<catchphrase "id=c5">whether proof of the fact that the debt relied upon was still owing</catchphrase>
-<catchphrase "id=c6">s 52(1)(c)</catchphrase>
-<catchphrase "id=c7">consideration of discretion under s 52(2)(b): "other sufficient cause".</catchphrase>
-<catchphrase "id=c8">bankruptcy</catchphrase>
+<catchphrase id="c0">petition</catchphrase>
+<catchphrase id="c1">opposed on grounds that bankruptcy notice invalid as amount stated to be due was overstated</catchphrase>
+<catchphrase id="c2">whether notice under s 41(5) of the bankruptcy act 1966 (cth) on its proper construction required to be given to petitioning creditor</catchphrase>
+<catchphrase id="c3">if so whether notice under s 41(5) was given</catchphrase>
+<catchphrase id="c4">whether, in circumstances where notice under s 41(5) not given, the provisions of s 306 of the act have application</catchphrase>
+<catchphrase id="c5">whether proof of the fact that the debt relied upon was still owing</catchphrase>
+<catchphrase id="c6">s 52(1)(c)</catchphrase>
+<catchphrase id="c7">consideration of discretion under s 52(2)(b): "other sufficient cause".</catchphrase>
+<catchphrase id="c8">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -50,7 +50,7 @@
 <sentence id="s9">7 On 3 August 2001 the respondent commenced review proceedings in the AAT in respect of each of the applicant's decisions to disallow the respondent's objections to the assessments issued on 23 October 2000.</sentence>
 <sentence id="s10">In February 2005 the respondent withdrew the proceedings.</sentence>
 <sentence id="s11">Pursuant to s 42(A)1B of the Administrative Appeals Tribunal Act 1975 (Cth) the affect of the withdrawal was that the AAT proceedings were considered to have been dismissed.</sentence>
-<sentence id="s12">8 In Australian Securities &amp; Investments Commission v Infomercial Management Group Pty Ltd [2002] VSC 262 at [58] the Supreme Court of Victoria held that certain Infomercial schemes were a fraud on the investors, if not on the Australian Taxation Office.</sentence>
+<sentence id="s12">8 In Australian Securities &amp;amp; Investments Commission v Infomercial Management Group Pty Ltd [2002] VSC 262 at [58] the Supreme Court of Victoria held that certain Infomercial schemes were a fraud on the investors, if not on the Australian Taxation Office.</sentence>
 <sentence id="s13">These schemes, so claims the respondent, were the ones in which he had invested.</sentence>
 <sentence id="s14">9 Importantly, other than in relation to a very small sum comprised in the 1998 assessment, none of the November 2000 assessments concerned the respondent's investments in the Infomercial Schemes.</sentence>
 <sentence id="s15">The assessment for 1998 for $2,619,580.49 was subject to objections by the respondent.</sentence>
@@ -82,9 +82,9 @@
 <sentence id="s31">13 The amount of $33,456 at item 5 of the Schedule comprises:
  
  
- &#8226; $9,516 on 30 August 2005 as a result of a notice of assessment issued to Mr Cumins for the year ended 30 June 2004;
- &#8226; $7,140 on 30 August 2005 as a result of a notice of assessment issued to Mr Cumins for the year ended 30 June 2003; and 
- &#8226; $16,800 by way of 16 garnishee payments of $1050 from the respondent's employer.</sentence>
+ &amp;#8226; $9,516 on 30 August 2005 as a result of a notice of assessment issued to Mr Cumins for the year ended 30 June 2004;
+ &amp;#8226; $7,140 on 30 August 2005 as a result of a notice of assessment issued to Mr Cumins for the year ended 30 June 2003; and 
+ &amp;#8226; $16,800 by way of 16 garnishee payments of $1050 from the respondent's employer.</sentence>
 <sentence id="s32">
  
 
@@ -336,7 +336,7 @@ The Court continued:
 <sentence id="s225">A bankruptcy notice is not liable to be set aside by reason only of an overstatement unless the debtor gives notice to the creditor under s 41(5).</sentence>
 <sentence id="s226">I have found that such notice was required but not given.</sentence>
 <sentence id="s227">Accordingly, in my opinion, s 306 does not arise for consideration.</sentence>
-<sentence id="s228">I agree with what Sackville J said in obiter in Re Murdoch; Ex parte Australia &amp; New Zealand Banking Group Ltd [1994] FCA 737 at p 10 that where no notice under s 41(5) was given then the bankruptcy notice would not be invalid even if the overstatement of the amount due is capable of misleading the debtor.</sentence>
+<sentence id="s228">I agree with what Sackville J said in obiter in Re Murdoch; Ex parte Australia &amp;amp; New Zealand Banking Group Ltd [1994] FCA 737 at p 10 that where no notice under s 41(5) was given then the bankruptcy notice would not be invalid even if the overstatement of the amount due is capable of misleading the debtor.</sentence>
 <sentence id="s229">His Honour's remarks sat in the context of his consideration of s 306 of the Act in respect to an overstatement in a bankruptcy notice but where no notice under s 41(5) had been given.</sentence>
 <sentence id="s230">The parties had proceeded on the assumption that s 306 had application in those circumstances.</sentence>
 <sentence id="s231">His Honour doubted the correctness of the assumption but the case was decided on the basis of it.</sentence>

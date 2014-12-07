@@ -3,13 +3,13 @@
 <name>Australian Securities and Investments Commission v Mining Projects Group Limited (No 3) [2008] FCA 952 (24 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/952.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for costs of interlocutory applications to be made payable forthwith</catchphrase>
-<catchphrase "id=c1">federal court rules o 62 r 3</catchphrase>
-<catchphrase "id=c2">defendants made late filings of affidavit material causing vacation of trial date</catchphrase>
-<catchphrase "id=c3">costs thrown away</catchphrase>
-<catchphrase "id=c4">final judgment not "far away"</catchphrase>
-<catchphrase "id=c5">not appropriate that costs be payable forthwith.</catchphrase>
-<catchphrase "id=c6">costs</catchphrase>
+<catchphrase id="c0">application for costs of interlocutory applications to be made payable forthwith</catchphrase>
+<catchphrase id="c1">federal court rules o 62 r 3</catchphrase>
+<catchphrase id="c2">defendants made late filings of affidavit material causing vacation of trial date</catchphrase>
+<catchphrase id="c3">costs thrown away</catchphrase>
+<catchphrase id="c4">final judgment not "far away"</catchphrase>
+<catchphrase id="c5">not appropriate that costs be payable forthwith.</catchphrase>
+<catchphrase id="c6">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -97,7 +97,7 @@
 <sentence id="s72">No submission has been made to that effect in this case.</sentence>
 <sentence id="s73">6.</sentence>
 <sentence id="s74">A corporate defendant cannot refuse to comply with a direction for the filing of evidence on the basis that its evidence may incriminate other natural person defendants or expose them to a penalty: Chief Executive Officer of Customs v Camile Trading Pty Ltd [2004] NSWSC 1256 ; (2004) 58 ATR 163 at 170.</sentence>
-<sentence id="s75">However, a corporate defendant will not breach such a direction if it fails to file a statement or an affidavit from a witness where that witness claims privilege: ACCC v J McPhee &amp; Son (Australia) Pty Ltd (1997) 77 FCR 217 at 220 and ACCC v Eurong Beach Resort Ltd [2005] FCA 1134 at [10] , [12] and [13].</sentence>
+<sentence id="s75">However, a corporate defendant will not breach such a direction if it fails to file a statement or an affidavit from a witness where that witness claims privilege: ACCC v J McPhee &amp;amp; Son (Australia) Pty Ltd (1997) 77 FCR 217 at 220 and ACCC v Eurong Beach Resort Ltd [2005] FCA 1134 at [10] , [12] and [13].</sentence>
 <sentence id="s76">That is to say, compliance is not required " if the only source of the information is the director defendants and they are entitled to remain silent ": ASIC No.</sentence>
 <sentence id="s77">1 at [5] (emphasis added).</sentence>
 <sentence id="s78">If the corporate defendant has other sources of information available from which it can comply with the direction, then it must do so.</sentence>
@@ -165,7 +165,7 @@
 <sentence id="s139">In the circumstances, MPG should pay ASIC's costs thrown away by reason of the trial date being vacated, including the costs of the directions hearings on 12 and 19 June 2008.</sentence>
 <sentence id="s140">24 ASIC also sought an order that the costs be paid forthwith: O 62 r3(3) of the Federal Court Rules .</sentence>
 <sentence id="s141">In support of its application, ASIC referred to the fact that additional costs had been incurred in making arrangements for Mr Blackburn to give his evidence from Peru.</sentence>
-<sentence id="s142">The principles which govern the exercise of the discretion under O 62 r 3 were set out by Branson J in Life Airbag Company of Australia Pty Ltd v Life Airbag Company (New Zealand) Ltd (22 May 1998, unreported) and Allstate Life Insurance Co v Australia &amp; New Zealand Banking Group Limited (No.14) (Lindgren J, 18 August 1995, unreported) as cited in McKellar v Container Terminal Management Services Ltd [1999] FCA 1639 at [13] ---[20].</sentence>
+<sentence id="s142">The principles which govern the exercise of the discretion under O 62 r 3 were set out by Branson J in Life Airbag Company of Australia Pty Ltd v Life Airbag Company (New Zealand) Ltd (22 May 1998, unreported) and Allstate Life Insurance Co v Australia &amp;amp; New Zealand Banking Group Limited (No.14) (Lindgren J, 18 August 1995, unreported) as cited in McKellar v Container Terminal Management Services Ltd [1999] FCA 1639 at [13] ---[20].</sentence>
 <sentence id="s143">The effect of those cases is to suggest that courts will depart from the general rule and order payment forthwith principally where final judgment is "far away" and thus the eventuality of payment is remote.</sentence>
 <sentence id="s144">Consistent with those authorities, it is inappropriate in this case to order payment forthwith of the costs thrown away.</sentence>
 <sentence id="s145">The trial is now set for September, and final resolution of the proceeding is therefore not too far away.</sentence>
@@ -182,7 +182,7 @@ Dated: 24 June 2008
  
  Counsel for the Defendants: Mr R Richter QC and Mr H Carmichael 
  
- Solicitor for the Defendants: Oakley Thompson &amp; Co 
+ Solicitor for the Defendants: Oakley Thompson &amp;amp; Co 
 
  Date of Hearing: 12 June 2008, 19 June 2008 
  

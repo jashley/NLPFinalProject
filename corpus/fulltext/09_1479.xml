@@ -3,17 +3,17 @@
 <name>Australian Olive Holdings Pty Limited v Huntley Management Limited, in the matter of Huntley Management Limited [2009] FCA 1479 (25 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1479.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">managed investment schemes</catchphrase>
-<catchphrase "id=c1">olive grove projects</catchphrase>
-<catchphrase "id=c2">former responsible entity (re) (aol) entered into a consolidated water supply agreement (cwsa) with owner of land containing a lagoon (aohl) to supply water to enable aol to perform its obligations of irrigating individual groves of which members of the projects were licensees</catchphrase>
-<catchphrase "id=c3">aol removed as re and replaced by huntley in respect of some of the projects</catchphrase>
-<catchphrase "id=c4">whether, by reason of ss 601fs and 601ft of corporations act 2001 (cth) (the act), huntley became liable to aohl in respect of the particular projects for which it had been appointed as re in place of aol</catchphrase>
-<catchphrase "id=c5">construction of cwsa</catchphrase>
-<catchphrase "id=c6">construction of ss 601fs and 601ft of the act</catchphrase>
-<catchphrase "id=c7">whether aol had enjoyed a right of indemnity in respect of the liability to aohl for purposes of s 601fs(2)(d) of the act</catchphrase>
-<catchphrase "id=c8">whether liability of huntley as successor re to aohl was excluded by s 601ft(2) of the act</catchphrase>
-<catchphrase "id=c9">whether cwsa was an "entire" agreement that did not permit a pro rata liability in respect of some projects or some groves of olive trees.</catchphrase>
-<catchphrase "id=c10">corporations</catchphrase>
+<catchphrase id="c0">managed investment schemes</catchphrase>
+<catchphrase id="c1">olive grove projects</catchphrase>
+<catchphrase id="c2">former responsible entity (re) (aol) entered into a consolidated water supply agreement (cwsa) with owner of land containing a lagoon (aohl) to supply water to enable aol to perform its obligations of irrigating individual groves of which members of the projects were licensees</catchphrase>
+<catchphrase id="c3">aol removed as re and replaced by huntley in respect of some of the projects</catchphrase>
+<catchphrase id="c4">whether, by reason of ss 601fs and 601ft of corporations act 2001 (cth) (the act), huntley became liable to aohl in respect of the particular projects for which it had been appointed as re in place of aol</catchphrase>
+<catchphrase id="c5">construction of cwsa</catchphrase>
+<catchphrase id="c6">construction of ss 601fs and 601ft of the act</catchphrase>
+<catchphrase id="c7">whether aol had enjoyed a right of indemnity in respect of the liability to aohl for purposes of s 601fs(2)(d) of the act</catchphrase>
+<catchphrase id="c8">whether liability of huntley as successor re to aohl was excluded by s 601ft(2) of the act</catchphrase>
+<catchphrase id="c9">whether cwsa was an "entire" agreement that did not permit a pro rata liability in respect of some projects or some groves of olive trees.</catchphrase>
+<catchphrase id="c10">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -347,7 +347,7 @@ Clause 7.1(c) provided that if any of the situations described in the opening wo
 <sentence id="s109">AOL undertook to maintain and repair the Pumping Equipment and the Reticulation Equipment.</sentence>
 <sentence id="s110">AOHL was given a right to inspect the equipment and, if necessary, to service, maintain and repair it at AOL's expense.</sentence>
 <sentence id="s111">Clause 16.04 of the Lease provided that if the CWSA should be terminated or AOL be relieved of its obligation to pay the annual base fee thereunder, the Lease was automatically terminated.</sentence>
-<sentence id="s112">The picture that emerges from the documents is that AOL was able, by reason of being the lessee of Lot 11 and having its Reticulation Equipment and Pumping Equipment on Lot 11 (see cl 4.1(h) of the CWSA), itself to take the water from the Lagoon that AOHL had undertaken to supply to it, and that upon the removal or replacement of AOL as RE, a new r&eacute;gime as between AOHL and COGL was to come into operation, without any reference to a new RE or its role.</sentence>
+<sentence id="s112">The picture that emerges from the documents is that AOL was able, by reason of being the lessee of Lot 11 and having its Reticulation Equipment and Pumping Equipment on Lot 11 (see cl 4.1(h) of the CWSA), itself to take the water from the Lagoon that AOHL had undertaken to supply to it, and that upon the removal or replacement of AOL as RE, a new r&amp;eacute;gime as between AOHL and COGL was to come into operation, without any reference to a new RE or its role.</sentence>
 <sentence id="s113">Clause 10 of the CWSA made the law of Queensland the proper law of the contract.</sentence>
 <sentence id="s114">Clause 12 of the CWSA provided for severance in case any provision of the CWSA should be found to be prohibited by law.</sentence>
 <sentence id="s115">The Prospectuses for the MISs
@@ -503,9 +503,9 @@ Clause 7.1(c) provided that if any of the situations described in the opening wo
 <sentence id="s195">It is interesting that the CWSA purported to impose obligations on a successor in the case of the "Land Owner" and the "Water Owner" by reason of the definitions of those expressions to include, respectively, the permitted successors or assigns which owned the land on which the Projects were established excluding Lot 11, and the registered proprietor of Lot 11 for the time being.</sentence>
 <sentence id="s196">In contrast, the "Manager" is defined neither in the dictionary in Schedule 1 to the CWSA, nor in the dictionary to the Constitution that is imported into the CSWA by cl 1.1.</sentence>
 <sentence id="s197">The "Manager" is simply denoted as AOL, without any reference to a successor RE, although the definition of RE in the Constitution makes reference to the RE for the time being and the possibility of a replacement RE.</sentence>
-<sentence id="s198">Huntley relies on cl 7.1(b)(ii) and (iii) which establish a r&eacute;gime that is to come into effect when, relevantly, AOL is removed or retires as RE.</sentence>
-<sentence id="s199">That r&eacute;gime must be entered into immediately by AOHL and COGL.</sentence>
-<sentence id="s200">Paragraph (c) is, according to Huntley's submission, consistent with that r&eacute;gime: it provides for AOL to sell the Pumping Equipment and the Reticulation Equipment to COGL.</sentence>
+<sentence id="s198">Huntley relies on cl 7.1(b)(ii) and (iii) which establish a r&amp;eacute;gime that is to come into effect when, relevantly, AOL is removed or retires as RE.</sentence>
+<sentence id="s199">That r&amp;eacute;gime must be entered into immediately by AOHL and COGL.</sentence>
+<sentence id="s200">Paragraph (c) is, according to Huntley's submission, consistent with that r&amp;eacute;gime: it provides for AOL to sell the Pumping Equipment and the Reticulation Equipment to COGL.</sentence>
 <sentence id="s201">AOHL submits that cll 7.1(a)(iii), (b), (c) and (d) apply only where there is no replacement of the RE who is removed or retires, whereas Huntley points out that the CWSA expresses no such limitation.</sentence>
 <sentence id="s202">In any event, so Huntley submits, that situation could not, as a practical matter, ever arise because of the provisions of ss 601FL(3) and 601FN of the Act.</sentence>
 <sentence id="s203">I have come to the view that Huntley's submissions should be accepted.</sentence>
@@ -773,7 +773,7 @@ Dated: 11 December 2009
  
  Counsel for the Plaintiff: Mr J C Giles and Mr J S McLeod 
  
- Solicitor for the Plaintiff: Harris &amp; Harris 
+ Solicitor for the Plaintiff: Harris &amp;amp; Harris 
  
  Counsel for the Defendant: Mr S R Donaldson SC and Mr B L Jones 
  

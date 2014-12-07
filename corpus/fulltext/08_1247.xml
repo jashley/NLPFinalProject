@@ -3,10 +3,10 @@
 <name>Fitzgerald, In the Matter of Primebroker Securities Limited (Administrators Appointed) (Receivers and Managers Appointed) [2008] FCA 1247 (7 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1247.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">administration</catchphrase>
-<catchphrase "id=c1">application to extend convening period for second meeting of creditors</catchphrase>
-<catchphrase "id=c2">whether circumstances justify extension</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase id="c0">administration</catchphrase>
+<catchphrase id="c1">application to extend convening period for second meeting of creditors</catchphrase>
+<catchphrase id="c2">whether circumstances justify extension</catchphrase>
+<catchphrase id="c3">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -56,7 +56,7 @@ Dated: 18 August 2008
 
  Appearing for the Plaintiffs: D Andrews 
  
- Solicitor for the Plaintiffs: Slater &amp; Gordon 
+ Solicitor for the Plaintiffs: Slater &amp;amp; Gordon 
  
  Appearing for Kirk/Longley (Receivers): R McClymont 
  

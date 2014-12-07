@@ -3,25 +3,25 @@
 <name>Telstra Corporation Limited v Australian Competition and Consumer Commission (includes corrigendum dated 27 July 2009) [2009] FCA 757 (17 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/757.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">telecommunications industry</catchphrase>
-<catchphrase "id=c1">14 arbitrations between telstra corporation limited (telstra) and access seekers over terms and conditions of access to declared services</catchphrase>
-<catchphrase "id=c2">div 8 of pt xic of trade practices act 1974 (cth) (act)</catchphrase>
-<catchphrase "id=c3">challenge by telstra to the final determinations made by australian competition and consumer commission (accc) in the 14 arbitrations on judicial review grounds that were common to various combinations of the arbitrations</catchphrase>
-<catchphrase "id=c4">(a) whether accc misconstrued s 152cr(1)(d) of act by adopting pooling and allocation method in dealing with specific costs</catchphrase>
-<catchphrase "id=c5">(b) whether accc's failure to take into account model terms that it had determined under s 152aqb(2) of act involved procedural ultra vires and failure to take into account a relevant consideration</catchphrase>
-<catchphrase "id=c6">(c) whether it was beyond the power conferred on accc by s 152cp of act to make a determination that included a charge for call diversion when call diversion was provided as part of a new connection</catchphrase>
-<catchphrase "id=c7">whether call diversion when provided in those circumstances was a matter "relating to" access to the declared service within s 152cp(2) of act</catchphrase>
-<catchphrase "id=c8">(d) whether accc erred in law by inconsistently using capital asset pricing model (capm) in order to estimate cost to telstra of equity capital while rejecting telstra's contention that there should be an uplift in the element to be included for weighted average cost of capital (wacc) to allow for welfare asymmetry connected with overestimating or underestimating the wacc</catchphrase>
-<catchphrase "id=c9">whether use of capm involved acceptance of its underlying assumptions</catchphrase>
-<catchphrase "id=c10">whether inconsistency established</catchphrase>
-<catchphrase "id=c11">whether inconsistency in economic methodology an error of law</catchphrase>
-<catchphrase "id=c12">(e) whether, by not including in the monthly charge to be paid by access seekers an element for line costs, accc erred in law and failed to observe s 152db(1)(b) of act</catchphrase>
-<catchphrase "id=c13">construction of s 152db(1)(b) of act</catchphrase>
-<catchphrase "id=c14">(f) whether later pricing principles for declared service impliedly revoked earlier ones</catchphrase>
-<catchphrase "id=c15">whether accc erred by taking later ones into account</catchphrase>
-<catchphrase "id=c16">whether later ones invalid by reason of having been made when earlier ones still in force and not expressly revoked</catchphrase>
-<catchphrase "id=c17">whether later ones validly backdated into period when earlier ones had been on foot.</catchphrase>
-<catchphrase "id=c18">administrative law</catchphrase>
+<catchphrase id="c0">telecommunications industry</catchphrase>
+<catchphrase id="c1">14 arbitrations between telstra corporation limited (telstra) and access seekers over terms and conditions of access to declared services</catchphrase>
+<catchphrase id="c2">div 8 of pt xic of trade practices act 1974 (cth) (act)</catchphrase>
+<catchphrase id="c3">challenge by telstra to the final determinations made by australian competition and consumer commission (accc) in the 14 arbitrations on judicial review grounds that were common to various combinations of the arbitrations</catchphrase>
+<catchphrase id="c4">(a) whether accc misconstrued s 152cr(1)(d) of act by adopting pooling and allocation method in dealing with specific costs</catchphrase>
+<catchphrase id="c5">(b) whether accc's failure to take into account model terms that it had determined under s 152aqb(2) of act involved procedural ultra vires and failure to take into account a relevant consideration</catchphrase>
+<catchphrase id="c6">(c) whether it was beyond the power conferred on accc by s 152cp of act to make a determination that included a charge for call diversion when call diversion was provided as part of a new connection</catchphrase>
+<catchphrase id="c7">whether call diversion when provided in those circumstances was a matter "relating to" access to the declared service within s 152cp(2) of act</catchphrase>
+<catchphrase id="c8">(d) whether accc erred in law by inconsistently using capital asset pricing model (capm) in order to estimate cost to telstra of equity capital while rejecting telstra's contention that there should be an uplift in the element to be included for weighted average cost of capital (wacc) to allow for welfare asymmetry connected with overestimating or underestimating the wacc</catchphrase>
+<catchphrase id="c9">whether use of capm involved acceptance of its underlying assumptions</catchphrase>
+<catchphrase id="c10">whether inconsistency established</catchphrase>
+<catchphrase id="c11">whether inconsistency in economic methodology an error of law</catchphrase>
+<catchphrase id="c12">(e) whether, by not including in the monthly charge to be paid by access seekers an element for line costs, accc erred in law and failed to observe s 152db(1)(b) of act</catchphrase>
+<catchphrase id="c13">construction of s 152db(1)(b) of act</catchphrase>
+<catchphrase id="c14">(f) whether later pricing principles for declared service impliedly revoked earlier ones</catchphrase>
+<catchphrase id="c15">whether accc erred by taking later ones into account</catchphrase>
+<catchphrase id="c16">whether later ones invalid by reason of having been made when earlier ones still in force and not expressly revoked</catchphrase>
+<catchphrase id="c17">whether later ones validly backdated into period when earlier ones had been on foot.</catchphrase>
+<catchphrase id="c18">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,7 +30,7 @@
  1 These reasons for judgment relate to 14 proceedings that were heard together.</sentence>
 <sentence id="s1">The evidence in each was evidence in the others, subject to all just exceptions on grounds of relevance.</sentence>
 <sentence id="s2">2 The fourteen proceedings concern Part XIC (ss 152AA - 152EQ ) of the Trade Practices Act 1974 (Cth) (the Act) headed "Telecommunications access regime".</sentence>
-<sentence id="s3">That Part provides for a regulated access r&eacute;gime specific to telecommunications services.</sentence>
+<sentence id="s3">That Part provides for a regulated access r&amp;eacute;gime specific to telecommunications services.</sentence>
 <sentence id="s4">3 The proceedings relate to access to two services that are "declared services" under s 152AL of the Act: the Line Sharing Service (also known as the High Frequency Unconditioned Local Loop Service) (LSS) and the Unconditioned Local Loop Service (ULLS).</sentence>
 <sentence id="s5">The applicant in each proceeding (Telstra) owns the lines over which the LSS and the ULLS are provided.</sentence>
 <sentence id="s6">4 There was an access dispute between Telstra and the second respondent in each proceeding.</sentence>
@@ -209,7 +209,7 @@ irrelevant consideration
 <sentence id="s49">They are provided to an access seeker such as any of the second respondents (access seekers) which provides them to a retail customer (end-user) over an Unconditioned Local Loop (ULL).</sentence>
 <sentence id="s50">The CAN is the generic expression that applies to all of the ULLs; the ULLs, taken together, constitute the CAN.</sentence>
 <sentence id="s51">The LSS and ULLS are provided by Telstra to the access seeker, not to the end-user.</sentence>
-<sentence id="s52">However, once the access seeker has access to the LSS or the ULLS, it becomes a "service provider" vis-&agrave;-vis the end-user, that is to say, it provides to the end-user the service that the LSS or the ULLS, as the case may be, permits it to provide.</sentence>
+<sentence id="s52">However, once the access seeker has access to the LSS or the ULLS, it becomes a "service provider" vis-&amp;agrave;-vis the end-user, that is to say, it provides to the end-user the service that the LSS or the ULLS, as the case may be, permits it to provide.</sentence>
 <sentence id="s53">20 In its declaration of the LSS as a declared service, ACCC also identified the LSS as the "High Frequency Unconditioned Local Loop Service".</sentence>
 <sentence id="s54">The formal definition of the LSS is as follows: 
  
@@ -521,12 +521,12 @@ Telstra therefore relied on the same argument in relation to both the LSS and UL
 <sentence id="s218">All of the ULLS FDs were made after 21 November 2007.</sentence>
 <sentence id="s219">85 The 2007 ULLS Pricing Principles were contained in Schedule 1 to the determination and were as follows:
  
- &#8226; a TSLRIC+ Pricing principles [sic] should be applied to the ULLS.</sentence>
+ &amp;#8226; a TSLRIC+ Pricing principles [sic] should be applied to the ULLS.</sentence>
 <sentence id="s220">
 
  a specific cost component should be included in the ULLS monthly price, calculated by combining 'ULLS specific costs' with 'LSS specific costs' and Telstra's internal equivalent costs for ADSL, and allocating those costs across the number of active ULLS, LSS and ADSL lines.</sentence>
 <sentence id="s221">
- &#8226; the ULLS charges should be geographically de-averaged.</sentence>
+ &amp;#8226; the ULLS charges should be geographically de-averaged.</sentence>
 <sentence id="s222">
 
  connection charges should be set with reference to the amounts charged by third party contractors to Telstra for jumpering work in exchanges, indirect costs and back-of-house costs.</sentence>
@@ -815,7 +815,7 @@ This pricing principle is the Pooling and Allocation Method.</sentence>
 <sentence id="s366">
 
  
- 137 The notion of a "declared service" is central to the telecommunications access r&eacute;gime under Part XIC of the Act.</sentence>
+ 137 The notion of a "declared service" is central to the telecommunications access r&amp;eacute;gime under Part XIC of the Act.</sentence>
 <sentence id="s367">If a carrier or carriage service provider supplies declared services, relevantly the ULLS, whether to itself or to another person, the carrier or carriage service provider (relevantly, Telstra) is an "access provider", declared services are "active declared services" (s 152AR(2)), and the "standard access obligations" (SAOs) set out in s 152AR arise.</sentence>
 <sentence id="s368">138 One of the SAOs is to the effect that the access provider must, if requested to do so by a service provider, supply an active declared service to the service provider in order that the service provider can provide carriage services and/or content services: s 152AR(3)(a).</sentence>
 <sentence id="s369">Another SAO is the obligation on the part of the access provider to take all reasonable steps to ensure that the technical and operational quality of the active declared service supplied to the service provider is equivalent to that which the access provider provides to itself: s 152AR(3)(b).</sentence>
@@ -844,7 +844,7 @@ This pricing principle is the Pooling and Allocation Method.</sentence>
 <sentence id="s386">It is something supplied after that provisioning is complete and after the access seeker has full access to the ULLS.</sentence>
 <sentence id="s387">(b) Call diversion is not "a matter relating to access" (s 152CP(2)).</sentence>
 <sentence id="s388">It is a service separate from the ULLS, yet, unlike the ULLS, it is not a declared service.</sentence>
-<sentence id="s389">Call diversion does not facilitate access to the ULLS but supports the porting of a telephone number which is governed by a separate legislative r&eacute;gime.</sentence>
+<sentence id="s389">Call diversion does not facilitate access to the ULLS but supports the porting of a telephone number which is governed by a separate legislative r&amp;eacute;gime.</sentence>
 <sentence id="s390">There is some overlap between (a) and (b).</sentence>
 <sentence id="s391">147 The starting point is the definition of the ULLS.</sentence>
 <sentence id="s392">It was set out at [21] above, but will, for convenience, be repeated.</sentence>
@@ -874,7 +874,7 @@ Appendix 1 defines "boundary of a telecommunications network", "communications w
  call diversion is used in a variety of circumstances, including but not limited to, assisting the porting of a telephone number to a Local loop which is already being supplied to an access seeker by way of the ULLS; examples of cases where call diversion is used as a service completely divorced from any supply of the ULLS include where call diversion is used by Telstra's end-user customers who wish to divert their calls to another telephone number when they are going on an extended holiday or otherwise temporarily relocating.</sentence>
 <sentence id="s406">Telstra also supplies call diversion on a wholesale basis to other carriers and carriage service providers in circumstances which indisputably have nothing to do with a request for the supply of the ULLS; call diversion is also used to facilitate the porting of a telephone number to a Local loop which is already being supplied to an access seeker by way of the ULLS under the "Category D porting process" described in the "LNP Code".</sentence>
 <sentence id="s407">"Porting" allows an end-user to change telecommunications suppliers but still retain the same telephone number, even though the new telecommunications service provider will provide the end-user with services using, at least in part, that service provider's own network infrastructure.</sentence>
-<sentence id="s408">In essence, Local Number Portability (LNP) is a r&eacute;gime by which a local telephone number can be reassigned to a new telephone line or service; call diversion is not necessary for the supply of the ULLS.</sentence>
+<sentence id="s408">In essence, Local Number Portability (LNP) is a r&amp;eacute;gime by which a local telephone number can be reassigned to a new telephone line or service; call diversion is not necessary for the supply of the ULLS.</sentence>
 <sentence id="s409">In all cases, the ULLS is already being supplied to an access seeker before call diversion is supplied.</sentence>
 <sentence id="s410">Call diversion is unrelated to the steps taken to supply the ULLS to an access seeker.</sentence>
 <sentence id="s411">The only reason call diversion is provided is to facilitate LNP; as set out in more detail below, one of the order types by which an access seeker can request the supply of the ULLS, includes provision for an additional request for the separate supply of call diversion in order to facilitate the porting of a telephone number (under the Category D porting process).</sentence>
@@ -1341,7 +1341,7 @@ CAPM is a model that has explaining power but it does not follow that by using C
 <sentence id="s702">The assumptions underlying the CAPM
  
  262 In the report annexed to his first affidavit, filed in the Adam LSS proceeding, Professor Gray noted that the CAPM is mathematically derived under a number of formal assumptions which are set out in most standard finance textbooks.</sentence>
-<sentence id="s703">Citing C Jones, Investments: Analysis and Management (John Wiley &amp; Sons Inc, 2002) at 531, Professor Gray listed the assumptions as follows:
+<sentence id="s703">Citing C Jones, Investments: Analysis and Management (John Wiley &amp;amp; Sons Inc, 2002) at 531, Professor Gray listed the assumptions as follows:
  All investors have identical probability distributions for future rates of return; they have identical (or homogeneous) expectations with respect to the three inputs of the portfolio model (expected returns, the variance of returns and the correlation matrix).</sentence>
 <sentence id="s704">Therefore, given a set of security prices and a risk-free rate, all investors use the same information to generate an efficient frontier;
  All investors have the same one-period time horizon;
@@ -1704,7 +1704,7 @@ Primus, on the other hand, did have WLR customers, and the following statement a
  
  310 In response to ACCC's request to consider the scenarios where monthly LSS charges increase, and monthly WLR charges associated with LSS lines decrease, by $2.00 in Band 1, $7.10 in Band 2 and $15.50 in Band 3, TPG stated (p 15):
  
- ... since TPG does not acquire WLR, based on the material in the Consultation Paper, there appears to be a real risk that any such proposal would prejudice TPG vis-&agrave;-vis other access seekers who do acquire WLR.</sentence>
+ ... since TPG does not acquire WLR, based on the material in the Consultation Paper, there appears to be a real risk that any such proposal would prejudice TPG vis-&amp;agrave;-vis other access seekers who do acquire WLR.</sentence>
 <sentence id="s895">
 
  Telstra's reply submissions to ACCC
@@ -1969,18 +1969,18 @@ The limitations provided for in s 5(3) of the ADJR Act therefore have no applica
 <sentence id="s1047">365 I have previously traced the course of submissions that led to the making of the Adam LSS FD and will not repeat that summary.</sentence>
 <sentence id="s1048">366 It suffices to note that in their primary submissions of 20 September 2007, AAAP stated that:
  
- &#8226; they had made their investment and business decisions on the basis of the currently applying approach to LSS prices which had been in place since 2002 (non-inclusion of a contribution to line costs);
+ &amp;#8226; they had made their investment and business decisions on the basis of the currently applying approach to LSS prices which had been in place since 2002 (non-inclusion of a contribution to line costs);
  
- &#8226; in supplying LSS based services to end-users, they had generally chosen to de-emphasise basic access in preference to broadband and VoIP voice solutions;
+ &amp;#8226; in supplying LSS based services to end-users, they had generally chosen to de-emphasise basic access in preference to broadband and VoIP voice solutions;
  
- &#8226; a rebalancing which involved an increase in the LSS price equal to the amount deducted from the WLR price would therefore be "net negative" to them;
+ &amp;#8226; a rebalancing which involved an increase in the LSS price equal to the amount deducted from the WLR price would therefore be "net negative" to them;
  
- &#8226; if a transition path was not adopted for the introduction of any rebalancing between WLR and LSS pricing, they and other access seekers would face severe financial hardship;
+ &amp;#8226; if a transition path was not adopted for the introduction of any rebalancing between WLR and LSS pricing, they and other access seekers would face severe financial hardship;
  
- &#8226; under their existing business structure, it would be extremely difficult for them and companies placed as they were to compete with Telstra as well as other access seekers who had a higher ratio of WLR to LSS customers, leading to an inevitable reduction in competition in the market for DSL services;
+ &amp;#8226; under their existing business structure, it would be extremely difficult for them and companies placed as they were to compete with Telstra as well as other access seekers who had a higher ratio of WLR to LSS customers, leading to an inevitable reduction in competition in the market for DSL services;
  
- &#8226; if a transitional period was allowed, it would be logical for access seekers to move from the LSS to the ULLS, that is to say, to become full service providers rather than specialist broadband service providers.</sentence>
-<sentence id="s1049">&#8226; access seekers would not be able to restructure their LSS business operations towards the provision of services using the ULLS within the period of the FD.</sentence>
+ &amp;#8226; if a transitional period was allowed, it would be logical for access seekers to move from the LSS to the ULLS, that is to say, to become full service providers rather than specialist broadband service providers.</sentence>
+<sentence id="s1049">&amp;#8226; access seekers would not be able to restructure their LSS business operations towards the provision of services using the ULLS within the period of the FD.</sentence>
 <sentence id="s1050">367 Adam, Agile, Amcom, Network and TPG did not sell telephony services and any rebalancing would not benefit them in the sense that they would suffer the inclusion of the line cost element in the charge for the LSS without being in a position to offset a reduction in the cost of WLR.</sentence>
 <sentence id="s1051">The AAAP submissions stated that this meant that "their current business models, based on providing broadband internet via the LSS, may become unviable".</sentence>
 <sentence id="s1052">Primus's position was that very few of its LSS customers would agree to obtain voice services from it with the result that those customers would become uneconomic to retain.</sentence>
@@ -2220,7 +2220,7 @@ I see no reason why my comments in the first sentence of [166] of the Earlier Re
  $37.10 per connection (1 Jan 2008 until 30 Jun 2008) 
  $38.70 per disconnection (1 Jul 2008 until 31 July 2009) 
  However a disconnection charge will not be payable where:
-&#8226; the disconnection is made pursuant to the Telstra LSS churn process, or &#8226; the access seeker is participating in the Telstra LSS churn process and Telstra (Bigpond) is not participating in the LSS churn process 
+&amp;#8226; the disconnection is made pursuant to the Telstra LSS churn process, or &amp;#8226; the access seeker is participating in the Telstra LSS churn process and Telstra (Bigpond) is not participating in the LSS churn process 
  
 The remaining four boxes in Part 2 of Schedule 1 deal with classes of LSS Managed Network Migration (MNM).</sentence>
 <sentence id="s1183">415 ACCC's reasons underlying the 2007 Pricing Principles are found in Ch 3 of the LSS Declaration Review.</sentence>
@@ -2564,7 +2564,7 @@ Indicative Prices Pricing principles and indicative prices for the ULLS determin
 <sentence id="s1409">DSL services are provided over the high frequency spectrum of a ULL.</sentence>
 <sentence id="s1410">DSLAM Digital Subscriber Line Access Multiplexer D-ULLS (or DULLS) Diversion ULLS.</sentence>
 <sentence id="s1411">A species of call diversion that is required in the context of ULLS ordering and provisioning.</sentence>
-<sentence id="s1412">Earlier Reasons The reasons of the Court in Telstra Corporation Ltd v Australian Competition &amp; Consumer Commission [2008] FCA 1436 ; (2008) 171 FCR 174 End-user A retail customer of a service provider.</sentence>
+<sentence id="s1412">Earlier Reasons The reasons of the Court in Telstra Corporation Ltd v Australian Competition &amp;amp; Consumer Commission [2008] FCA 1436 ; (2008) 171 FCR 174 End-user A retail customer of a service provider.</sentence>
 <sentence id="s1413">FD Final Determination.</sentence>
 <sentence id="s1414">It is the various FDs in the 14 arbitrations under Div 8 of Pt XIC of the Act that are the subject of Telstra's challenge in the 14 proceedings.</sentence>
 <sentence id="s1415">FD Statement of Reasons A statement of ACCC's reasons supportive of, and accompanying, an FD.</sentence>

@@ -3,20 +3,20 @@
 <name>Bailey v Veda Advantage Information Services and Solutions Limited (No 2) [2008] FCA 730 (22 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/730.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">class actions</catchphrase>
-<catchphrase "id=c1">nine related proceedings under pt iva of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c2">each applicant and represented group member claiming to have been refused credit by credit provider in reliance on misleading credit report issued by respondent credit reporting agency in course of its credit reporting business</catchphrase>
-<catchphrase "id=c3">claims based on alleged contravention of s 52 of trade practices act 1974 (cth) (tp act) and negligence under the general law</catchphrase>
-<catchphrase "id=c4">whether s 65a of tp act defeated claim based on alleged contravention of s 52</catchphrase>
-<catchphrase "id=c5">whether proper pleading of a case of "negligent system" in nature of an "honour system" dependent on subscribers entering correct data into respondent's databank. held : (1) s 65a defeated claim founded on alleged contravention of s 52; (2) pleading pleaded a duty of care not to cause economic loss owed to the world at large and was deficient.</catchphrase>
-<catchphrase "id=c6">class actions</catchphrase>
-<catchphrase "id=c7">nine related proceedings under pt iva of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c8">each applicant and represented group member claiming to have been refused credit by credit provider in reliance on misleading credit report issued by respondent credit reporting agency in course of its credit reporting business</catchphrase>
-<catchphrase "id=c9">claims based on alleged contravention of s 52 of trade practices act 1974 (cth) (tp act) and negligence under the general law</catchphrase>
-<catchphrase "id=c10">whether s 65a of tp act defeated claim based on alleged contravention of s 52</catchphrase>
-<catchphrase "id=c11">whether proper pleading of a case of "negligent system" in nature of an "honour system" dependent on subscribers entering correct data into respondent's databank. held : (1) s 65a defeated claim founded on alleged contravention of s 52; (2) pleading pleaded a duty of care not to cause economic loss owed to the world at large and was deficient.</catchphrase>
-<catchphrase "id=c12">practice and procedure</catchphrase>
-<catchphrase "id=c13">trade practices</catchphrase>
+<catchphrase id="c0">class actions</catchphrase>
+<catchphrase id="c1">nine related proceedings under pt iva of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c2">each applicant and represented group member claiming to have been refused credit by credit provider in reliance on misleading credit report issued by respondent credit reporting agency in course of its credit reporting business</catchphrase>
+<catchphrase id="c3">claims based on alleged contravention of s 52 of trade practices act 1974 (cth) (tp act) and negligence under the general law</catchphrase>
+<catchphrase id="c4">whether s 65a of tp act defeated claim based on alleged contravention of s 52</catchphrase>
+<catchphrase id="c5">whether proper pleading of a case of "negligent system" in nature of an "honour system" dependent on subscribers entering correct data into respondent's databank. held : (1) s 65a defeated claim founded on alleged contravention of s 52; (2) pleading pleaded a duty of care not to cause economic loss owed to the world at large and was deficient.</catchphrase>
+<catchphrase id="c6">class actions</catchphrase>
+<catchphrase id="c7">nine related proceedings under pt iva of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c8">each applicant and represented group member claiming to have been refused credit by credit provider in reliance on misleading credit report issued by respondent credit reporting agency in course of its credit reporting business</catchphrase>
+<catchphrase id="c9">claims based on alleged contravention of s 52 of trade practices act 1974 (cth) (tp act) and negligence under the general law</catchphrase>
+<catchphrase id="c10">whether s 65a of tp act defeated claim based on alleged contravention of s 52</catchphrase>
+<catchphrase id="c11">whether proper pleading of a case of "negligent system" in nature of an "honour system" dependent on subscribers entering correct data into respondent's databank. held : (1) s 65a defeated claim founded on alleged contravention of s 52; (2) pleading pleaded a duty of care not to cause economic loss owed to the world at large and was deficient.</catchphrase>
+<catchphrase id="c12">practice and procedure</catchphrase>
+<catchphrase id="c13">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -78,11 +78,11 @@ I will often refer to "the applicants" in the plural, even though the two notice
 
 8 The making of the orders on 20 February 2008 was the culmination of:
  
-&#8226; Orders of 7 November 2007 striking out the applicants' amended application and amended statement of claim;
+&amp;#8226; Orders of 7 November 2007 striking out the applicants' amended application and amended statement of claim;
  
-&#8226; A case management conference held on 18 December 2007 and the making of an order on that day that the applicants file any further amended application and any further amended statement of claim by 15 February 2008;
+&amp;#8226; A case management conference held on 18 December 2007 and the making of an order on that day that the applicants file any further amended application and any further amended statement of claim by 15 February 2008;
  
-&#8226; A directions hearing on 20 February 2008 at which the applicants sought an extension of time in which to file any further amended application and any further amended statement of claim.</sentence>
+&amp;#8226; A directions hearing on 20 February 2008 at which the applicants sought an extension of time in which to file any further amended application and any further amended statement of claim.</sentence>
 <sentence id="s39">9 Pursuant to order 4 of 20 February 2008, on 25 February 2008, Veda filed a notice of motion in the Bailey proceeding seeking leave to enter orders 1 and 2 of 20 February 2008.</sentence>
 <sentence id="s40">The supporting affidavit showed that the nine proceedings have been listed in the Court on 13 separate occasions since they were commenced on 12 March 2007.</sentence>
 <sentence id="s41">10 Shortly afterwards, on 5 March 2008, Ms Knochell filed a notice of motion pursuant to order 5 of 20 February 2008 seeking an order setting aside orders 1 and 2 of that date.</sentence>
@@ -326,7 +326,7 @@ the Court may at any stage of the proceeding order that the whole or any part of
  
  
  
- (ii) Whether the respondent breached its duty of reasonable skill and care to the applicant and each other group member respectively by the respondent's conduct of an inherently negligent common system of credit reporting, as pleaded and particularised at pars 1-12 &amp; 26 of the FASOC.</sentence>
+ (ii) Whether the respondent breached its duty of reasonable skill and care to the applicant and each other group member respectively by the respondent's conduct of an inherently negligent common system of credit reporting, as pleaded and particularised at pars 1-12 &amp;amp; 26 of the FASOC.</sentence>
 <sentence id="s162">
  
  
@@ -359,11 +359,11 @@ Dated: 22 May 2008
 
  Counsel for the Applicants: Mr PW Bates 
  
- Solicitors for the Applicants: Gerard Malouf &amp; Partners 
+ Solicitors for the Applicants: Gerard Malouf &amp;amp; Partners 
  
  Counsel for the Respondent: Mr A Leopold SC and Mr M White 
  
- Solicitors for the Respondent: Ebsworth &amp; Ebsworth 
+ Solicitors for the Respondent: Ebsworth &amp;amp; Ebsworth 
  
  Date of Hearing: 10 March, 17 March 2008, 
  
@@ -546,7 +546,7 @@ Who brings in his own right and in a representative capacity on behalf of Group 
  
  
  
- Privacy Act 1988 (Cth), s 18K(1)(a) &amp; s 6.</sentence>
+ Privacy Act 1988 (Cth), s 18K(1)(a) &amp;amp; s 6.</sentence>
 <sentence id="s235">
  
  
@@ -572,9 +572,9 @@ Who brings in his own right and in a representative capacity on behalf of Group 
  
  
  
- Privacy Act 1988 (Cth), s 18(G)(a) &amp; s 6 ;
+ Privacy Act 1988 (Cth), s 18(G)(a) &amp;amp; s 6 ;
  Privacy Act 1988 (Cth), s 18R ;
- Privacy Act 1988 (Cth), s 14 &amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp; Principle 8;
+ Privacy Act 1988 (Cth), s 14 &amp;amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp;amp; Principle 8;
  Privacy Act 1988 (Cth), s 16(2) ;
  Credit Reporting Code of Conduct issued pursuant to s 18 of the Privacy Act 1988 (Cth) 
  
@@ -585,9 +585,9 @@ Who brings in his own right and in a representative capacity on behalf of Group 
  
  
  
- Privacy Act 1988 (Cth), ss 18J(1) &amp; s 6 ;
+ Privacy Act 1988 (Cth), ss 18J(1) &amp;amp; s 6 ;
  Privacy Act 1988 (Cth), s 18R ;
- Privacy Act 1988 (Cth), s 14 &amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp; Principle 8;
+ Privacy Act 1988 (Cth), s 14 &amp;amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp;amp; Principle 8;
  Privacy Act 1988 (Cth), s 16(2) ;
  Credit Reporting Code of Conduct issued pursuant to s 18 of the Privacy Act 1988 (Cth) 
  
@@ -597,7 +597,7 @@ Who brings in his own right and in a representative capacity on behalf of Group 
  
  13.</sentence>
 <sentence id="s247">It is estimated that approximately one per cent of those credit reports supplied by the respondent during the relevant period in New South Wales which had included information, data, allegation or representation of payment default were incorrect in such assertion.</sentence>
-<sentence id="s248">Claims under sections 52 &amp; 53 Trade Practices Act 1974 (Cth) 
+<sentence id="s248">Claims under sections 52 &amp;amp; 53 Trade Practices Act 1974 (Cth) 
  
  14.</sentence>
 <sentence id="s249">In the premises as aforesaid, the respondent, in trade and commerce, engaged in the conduct of supplying respective credit reports to the respondent's members which included information, data and allegations which made representations in or to the effect, in each such credit report, that the applicant and each other group member respectively from time to time during the relevant period was properly described as having or had a "Payment Default" (i.e., the respondent's assertion, as defined at para 2(d) above).</sentence>
@@ -639,7 +639,7 @@ Who brings in his own right and in a representative capacity on behalf of Group 
  
 (iv) a " Payment Default" are each Payment Defaults which remains listed on a credit report for five years.</sentence>
 <sentence id="s258">16.</sentence>
-<sentence id="s259">Each of the respondent's respective assertions (as defined in paragraphs 2(d) &amp; 15 above) in relation to the applicant and each of the other respective group members was false and/or misleading.</sentence>
+<sentence id="s259">Each of the respondent's respective assertions (as defined in paragraphs 2(d) &amp;amp; 15 above) in relation to the applicant and each of the other respective group members was false and/or misleading.</sentence>
 <sentence id="s260">17.</sentence>
 <sentence id="s261">Further or in the alternative, the respondent, in trade or commerce, supplied credit reports to its members during the relevant period relating to the applicant and each of the other group members, in connection with:
  
@@ -648,7 +648,7 @@ Who brings in his own right and in a representative capacity on behalf of Group 
  (b) the promotion by the respondent of the supply or use of additional membership goods and/or membership services of a kind supplied by the respondent, 
  
 
-pursuant to ss65A(1)(a)(i) , 65A (1)(a)(iii), s 65 (1)(a)(v) &amp; 65A (3) of the Trade Practices Act 1974 (Cth).</sentence>
+pursuant to ss65A(1)(a)(i) , 65A (1)(a)(iii), s 65 (1)(a)(v) &amp;amp; 65A (3) of the Trade Practices Act 1974 (Cth).</sentence>
 <sentence id="s262">18.</sentence>
 <sentence id="s263">In the premises as aforesaid, the respondent by supplying each of the credit reports to its respective membership subscribers as aforesaid, which included the representations pleaded in paras 2(d) and 15 above, engaged in conduct in trade or commerce that was misleading or deceptive or likely to mislead or deceive in breach of s.52 of the Trade Practices Act, 1974 (Cth).</sentence>
 <sentence id="s264">19.</sentence>
@@ -674,7 +674,7 @@ in breach of s 53 of the Trade Practices Act 1974 (Cth).</sentence>
 
  21.</sentence>
 <sentence id="s270">Acting in reliance upon the respondent's conduct in supplying the credit reports and making the representations in each of the credit reports referred to in paras.</sentence>
-<sentence id="s271">2(d) &amp; 15 above, the subscribers either refused to provide the applicant and each of the other respective group members with credit, or alternatively offered credit to the applicant and to each other respective group member at an increased cost and/or at less favourable terms than would have been otherwise offered by the respective subscriber to the applicant or to the respective group member, and/or lost the chance to obtain credit on more favourable terms and conditions.</sentence>
+<sentence id="s271">2(d) &amp;amp; 15 above, the subscribers either refused to provide the applicant and each of the other respective group members with credit, or alternatively offered credit to the applicant and to each other respective group member at an increased cost and/or at less favourable terms than would have been otherwise offered by the respective subscriber to the applicant or to the respective group member, and/or lost the chance to obtain credit on more favourable terms and conditions.</sentence>
 <sentence id="s272">Applicant's particulars 
  
  
@@ -707,11 +707,11 @@ in breach of s 53 of the Trade Practices Act 1974 (Cth).</sentence>
  
 (a) Common law principles;
  
-(b) Privacy Act 1988 (Cth), s 18(G)(a) &amp; s 6 ;
+(b) Privacy Act 1988 (Cth), s 18(G)(a) &amp;amp; s 6 ;
  
 (c) Privacy Act 1988 (Cth), s 18R ;
  
-(d) Privacy Act 1988 (Cth), s 14 &amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp; Principle 8;
+(d) Privacy Act 1988 (Cth), s 14 &amp;amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp;amp; Principle 8;
  
 (e) Privacy Act 1988 (Cth), s 16(2) ;
  
@@ -730,11 +730,11 @@ in breach of s 53 of the Trade Practices Act 1974 (Cth).</sentence>
  
 (a) Common law principles;
  
-(b) Privacy Act 1988 (Cth), ss 18J(1) &amp; s 6 ;
+(b) Privacy Act 1988 (Cth), ss 18J(1) &amp;amp; s 6 ;
  
 (c) Privacy Act 1988 (Cth), s 18R ;
  
-(d) Privacy Act 1988 (Cth), s 14 &amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp; Principle 8;
+(d) Privacy Act 1988 (Cth), s 14 &amp;amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp;amp; Principle 8;
  
 (e) Privacy Act 1988 (Cth), s 16(2) ;
  
@@ -768,7 +768,7 @@ in breach of s 53 of the Trade Practices Act 1974 (Cth).</sentence>
  
 (ii) That the inclusion of the information of and concerning the applicant recorded and stored in the respondent's credit information files, and supplied by the respondent in its credit reports to subscribers of the respondent relating to the applicant, was in accordance with the requirements of the Privacy Act 1988 as pleaded and particularised above.</sentence>
 <sentence id="s290">(b) The respondent did not take any steps, or any reasonable steps, to ensure that personal information contained in its credit information file for the applicant and each other group member with regard to the respondent's assertion (as defined above) was accurate, up to date, complete and not misleading in breach of section 18G of the Privacy Act 1988 (Cth).</sentence>
-<sentence id="s291">(c) The respondent's practice of supplying credit reports about the applicant and each group member to the Respondent's subscribers with regard to the respondent's assertion (as defined above) breached information privacy principles Rule 5 &amp; Rule 8 , applicable to the respondent pursuant to Privacy Act 1988 (Cth) ss 14 , 15 (2) &amp; 16 .</sentence>
+<sentence id="s291">(c) The respondent's practice of supplying credit reports about the applicant and each group member to the Respondent's subscribers with regard to the respondent's assertion (as defined above) breached information privacy principles Rule 5 &amp;amp; Rule 8 , applicable to the respondent pursuant to Privacy Act 1988 (Cth) ss 14 , 15 (2) &amp;amp; 16 .</sentence>
 <sentence id="s292">(d) The respondent should have implemented a pre-acceptance checklist to be completed by each subscriber before such subscriber was permitted to add an alleged default listing to the respondent's data base; such a checklist should have required the subscriber to indicate each of the required steps had been taken and on what date sufficient to indicate that the Privacy Act and the Internet User Guide requirements had been met in relation to the applicant's and each other group member's respective defaults.</sentence>
 <sentence id="s293">(e) The respondent did not have any, or any adequate, measures in place to ensure that any and every person (principal, servant or agent) who was authorised or permitted to add, update or amend information relating to the applicant's and each other group member's credit worthiness in the respondent's databases, (including any negative default type information), had been adequately trained in and was competent to apply the correct criteria that had to be satisfied before any such negative default information could properly be included in the respondent's databases for future inclusion in the respondent's respective credit reports relating to the applicant and each other group member.</sentence>
 <sentence id="s294">26.</sentence>

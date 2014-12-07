@@ -3,12 +3,12 @@
 <name>Kimberly-Clark Worldwide, Inc v Goulimis [2008] FCA 1415 (16 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1415.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trade marks</catchphrase>
-<catchphrase "id=c1">whether services and goods closely related</catchphrase>
-<catchphrase "id=c2">deceptive similarity</catchphrase>
-<catchphrase "id=c3">reputation</catchphrase>
-<catchphrase "id=c4">intention to use trade mark.</catchphrase>
-<catchphrase "id=c5">intellectual property</catchphrase>
+<catchphrase id="c0">trade marks</catchphrase>
+<catchphrase id="c1">whether services and goods closely related</catchphrase>
+<catchphrase id="c2">deceptive similarity</catchphrase>
+<catchphrase id="c3">reputation</catchphrase>
+<catchphrase id="c4">intention to use trade mark.</catchphrase>
+<catchphrase id="c5">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -105,7 +105,7 @@ A trade mark is a sign used, or intended to be used, to distinguish goods or ser
 <sentence id="s32">Similarities of impression, sound and meaning all play their part.</sentence>
 <sentence id="s33">Buyers are not credited with either high perception or habitual caution but nor are they attributed either exceptional carelessness or stupidity.</sentence>
 <sentence id="s34">Allowance must be made for imperfect recollection, careless pronunciation and speech.</sentence>
-<sentence id="s35">Ultimately, this issue of fact "depends on a combination of visual impression and judicial estimation of the effect likely to be produced in the course of the ordinary conduct of affairs" ( Australian Woollen Mills Ltd v FS Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 658-9 and Crazy Ron's Communications Pty Ltd v Mobileworld Communications Pty Ltd (2004) 209 ALR 1 ; [2004] FCAFC 196 at [73] --- [79]).</sentence>
+<sentence id="s35">Ultimately, this issue of fact "depends on a combination of visual impression and judicial estimation of the effect likely to be produced in the course of the ordinary conduct of affairs" ( Australian Woollen Mills Ltd v FS Walton &amp;amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 658-9 and Crazy Ron's Communications Pty Ltd v Mobileworld Communications Pty Ltd (2004) 209 ALR 1 ; [2004] FCAFC 196 at [73] --- [79]).</sentence>
 <sentence id="s36">(2) Matters which can be regarded as an "essential feature" of a mark are relevant.</sentence>
 <sentence id="s37">Identifying such a feature depends on the judgment of the Court on the basis of the evidence ( Crazy Ron's Communications (2004) 209 ALR 1 ; [2004] FCAFC 196 at [79] --- [90] and the cases cited therein).</sentence>
 <sentence id="s38">(3) The question of deceptive similarity is to be assessed in the "surrounding circumstances" including the "circumstances in which the marks will be used, the circumstances in which the goods or services will be bought and sold and the character of the probable acquirers of the goods and services".</sentence>
@@ -118,7 +118,7 @@ A trade mark is a sign used, or intended to be used, to distinguish goods or ser
 <sentence id="s45">10 As to intention to use:
  
 (1) The required intention is "a real and definite intention to use the mark publicly in Australia as a trade mark, although not necessarily immediately or within any limited time" ( Ritz Hotel Ltd v Charles of the Ritz Ltd (1988) 15 NSWLR 158 at 203E --- F).</sentence>
-<sentence id="s46">The required intention has been described as "a resolve or settled purpose" to use the mark ( In Re Ducker's Trade Mark [1929] 1 Ch 113 at 121) as distinct from "a mere general intention of extending ... [a] business at some future time to anything...desirable" ( In Re the Registered Trade-Marks of John Batt &amp; Co [1898] 2 Ch 432 at 439 --- 440).</sentence>
+<sentence id="s46">The required intention has been described as "a resolve or settled purpose" to use the mark ( In Re Ducker's Trade Mark [1929] 1 Ch 113 at 121) as distinct from "a mere general intention of extending ... [a] business at some future time to anything...desirable" ( In Re the Registered Trade-Marks of John Batt &amp;amp; Co [1898] 2 Ch 432 at 439 --- 440).</sentence>
 <sentence id="s47">(2) The ground of lack of intention is difficult to establish because it depends on proof of the state of mind of the person seeking registration and the act of applying is itself evidence of the requisite intention.</sentence>
 <sentence id="s48">However, if an opponent makes a prima facie case of lack of intention to use the trade mark, failure to rebut that evidence may be relevant to establishing this ground ( Health World Ltd v Shin-Sun Australia Pty Ltd (2008) 75 IPR 478 ; [2008] FCA 100 at [160] --- [174]).</sentence>
 <sentence id="s49">EVIDENCE AND FACTS 
@@ -133,7 +133,7 @@ A trade mark is a sign used, or intended to be used, to distinguish goods or ser
 <sentence id="s56">The evidence before the Registrar did not include material on which the opponent relied in the appeal.</sentence>
 <sentence id="s57">This must be taken into account when applying to the present case the principle that "weight will be given to the registrar's opinion as that of a skilled and experienced person" ( Jafferjee v Scarlett [1937] HCA 36 ; (1937) 57 CLR 115 at 126).</sentence>
 <sentence id="s58">13 The opponent is the owner of the following trade marks, each with a priority date earlier than that of the respondent's application:
- Reg No &amp; Priority Date Mark Class 307608
+ Reg No &amp;amp; Priority Date Mark Class 307608
 (27/05/77) HUGGIES Class 25 --- Clothing, including disposable diapers, all for infants 463304
 (13/04/87) HUGGIES Class 16 --- Disposable diapers, bibs and baby wipes, all being predominantly of paper and/or cellulose 550615
 (18/02/91) HUGGIES PULL-UPS Class 25 --- Clothing for young children, inclusive of, but not limited to, disposable underpants used for training young children in the proper use of the toilet 616732
@@ -243,7 +243,7 @@ Class 16 --- Disposable washcloths, disposable wash mitts, and disposable changi
 <sentence id="s145">But for the plural form in the opponent's marks the essential feature of the respondent's mark "HUGGIE" MUMMY is the same.</sentence>
 <sentence id="s146">The singular form in the respondent's mark is a weak point of distinction when the nature of the services and goods in question is considered.</sentence>
 <sentence id="s147">43 The opponent supported its submissions on this issue by market research showing the notoriety of the opponent's marks (each of which includes the word HUGGIES) in respect of baby-toddler personal care items.</sentence>
-<sentence id="s148">The relevance of reputation to deceptive similarity has been described as relating only to the assessment of the "nature of a consumer's imperfect recollection of a mark" but no more ( Crazy Ron's Communications (2004) 209 ALR 1 ; [2004] FCAFC 196 at [90] citing CA Henschke &amp; Co v Rosemount Estates Pty Ltd (2000) 52 IPR 42 ; [2000] FCA 1539 at [52] ).</sentence>
+<sentence id="s148">The relevance of reputation to deceptive similarity has been described as relating only to the assessment of the "nature of a consumer's imperfect recollection of a mark" but no more ( Crazy Ron's Communications (2004) 209 ALR 1 ; [2004] FCAFC 196 at [90] citing CA Henschke &amp;amp; Co v Rosemount Estates Pty Ltd (2000) 52 IPR 42 ; [2000] FCA 1539 at [52] ).</sentence>
 <sentence id="s149">The dominant reputation of the HUGGIES marks in the market for baby-toddler products (particularly personal care products) supports the conclusion that the opponent has made out the ground of deceptive similarity under s 44(2).</sentence>
 <sentence id="s150">44 I am aware that there is no evidence of actual confusion.</sentence>
 <sentence id="s151">This is of limited weight because on the facts of this case there is no evidence of the respondent's use of the trade mark in question.</sentence>
@@ -287,7 +287,7 @@ Dated: 16 September 2008
 
  Counsel for the Applicant: Ms CL Cochrane 
  
- Solicitor for the Applicant: Spruson &amp; Ferguson Lawyers 
+ Solicitor for the Applicant: Spruson &amp;amp; Ferguson Lawyers 
  
  The Respondent did not appear 
  

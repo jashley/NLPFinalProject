@@ -3,23 +3,23 @@
 <name>White v Designated Manager of IP Australia (No. 2) [2008] FCA 816 (3 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/816.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">employment qualifications for a registered patent attorney under reg 20.3(3) of the patent regulations 1991 (cth) and s 198(4) of the patents act 1990 (cth)</catchphrase>
-<catchphrase "id=c1">whether employment as a sole practitioner advising clients on patent matters constitutes "employment in a company practising in patent matters on behalf of the company" under reg 20.3(3)(a)(ii)</catchphrase>
-<catchphrase "id=c2">whether a firm is a company for purposes of reg 20.3(3)(a)(ii)</catchphrase>
-<catchphrase "id=c3">whether a sole practitioner may be considered a technical assistant to himself under reg 20.3(3)(a)(i)</catchphrase>
-<catchphrase "id=c4">relevance of legislative purpose, context, and history when statutory text is unambiguous and plain meaning does not lead to an unreasonable result</catchphrase>
-<catchphrase "id=c5">functus officio</catchphrase>
-<catchphrase "id=c6">whether decision-maker may substitute new decision if earlier decision is erroneous as a matter of law</catchphrase>
-<catchphrase "id=c7">natural justice</catchphrase>
-<catchphrase "id=c8">whether applicant was entitled to comment on adverse opinion materials where the materials were not "credible, relevant or significant" in that they could be dismissed from further consideration</catchphrase>
-<catchphrase "id=c9">apprehended bias</catchphrase>
-<catchphrase "id=c10">whether administrative decision-maker may express tentative opinion prior to making final decision</catchphrase>
-<catchphrase "id=c11">circumstances in which a ground not raised below may be raised on application for review</catchphrase>
-<catchphrase "id=c12">"patent attorney," "registered patent attorney," "technical assistant"</catchphrase>
-<catchphrase "id=c13">patents</catchphrase>
-<catchphrase "id=c14">statutory interpretation</catchphrase>
-<catchphrase "id=c15">judicial review</catchphrase>
-<catchphrase "id=c16">words and phrases</catchphrase>
+<catchphrase id="c0">employment qualifications for a registered patent attorney under reg 20.3(3) of the patent regulations 1991 (cth) and s 198(4) of the patents act 1990 (cth)</catchphrase>
+<catchphrase id="c1">whether employment as a sole practitioner advising clients on patent matters constitutes "employment in a company practising in patent matters on behalf of the company" under reg 20.3(3)(a)(ii)</catchphrase>
+<catchphrase id="c2">whether a firm is a company for purposes of reg 20.3(3)(a)(ii)</catchphrase>
+<catchphrase id="c3">whether a sole practitioner may be considered a technical assistant to himself under reg 20.3(3)(a)(i)</catchphrase>
+<catchphrase id="c4">relevance of legislative purpose, context, and history when statutory text is unambiguous and plain meaning does not lead to an unreasonable result</catchphrase>
+<catchphrase id="c5">functus officio</catchphrase>
+<catchphrase id="c6">whether decision-maker may substitute new decision if earlier decision is erroneous as a matter of law</catchphrase>
+<catchphrase id="c7">natural justice</catchphrase>
+<catchphrase id="c8">whether applicant was entitled to comment on adverse opinion materials where the materials were not "credible, relevant or significant" in that they could be dismissed from further consideration</catchphrase>
+<catchphrase id="c9">apprehended bias</catchphrase>
+<catchphrase id="c10">whether administrative decision-maker may express tentative opinion prior to making final decision</catchphrase>
+<catchphrase id="c11">circumstances in which a ground not raised below may be raised on application for review</catchphrase>
+<catchphrase id="c12">"patent attorney," "registered patent attorney," "technical assistant"</catchphrase>
+<catchphrase id="c13">patents</catchphrase>
+<catchphrase id="c14">statutory interpretation</catchphrase>
+<catchphrase id="c15">judicial review</catchphrase>
+<catchphrase id="c16">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -253,7 +253,7 @@ See also SZKTI v Minister for Immigration and Citizenship [2008] FCAFC 83 at [44
 <sentence id="s89">I do not accept that references in reg 20.3(3)(a)(ii) to "company" should be read in that manner.</sentence>
 <sentence id="s90">A law firm, other than an incorporated legal practice, is not a company within the meaning of the Corporations Act ": see ss 9 and 119 (stating that a company means a company registered under the Corporations Act and comes into existence as a body corporate on the day of registration); Legal Profession Act 2004 (Vic) ss 2.7.2 and 2.7.4 (stating that an incorporated legal practice is a company within the meaning of the Corporations Act ).</sentence>
 <sentence id="s91">The Applicant accepted that his firm is not registered under the Corporations Act .</sentence>
-<sentence id="s92">Moreover, even assuming that the definition found in the Corporations Act should not be interpolated into reg 20.3(3)(a)(ii), the ordinary common law understanding of company would not assist the Applicant either: Macleod v Queen [2003] HCA 24 ; (2003) 214 CLR 230 at [28] (stating that the essential meaning of "company" since the time of Salomon's Case , has been as a body with a separate legal identity); see also Sons of Gwalia Ltd v Margaretic [2007] HCA 1 ; (2007) 81 ALJR 525 at [3] - [4] (observing the historical distinction, dating back to Salomon's Case , between firms (partnerships) and companies (corporations)); Salomon v Salomon &amp; Co Ltd [1897] AC 22.</sentence>
+<sentence id="s92">Moreover, even assuming that the definition found in the Corporations Act should not be interpolated into reg 20.3(3)(a)(ii), the ordinary common law understanding of company would not assist the Applicant either: Macleod v Queen [2003] HCA 24 ; (2003) 214 CLR 230 at [28] (stating that the essential meaning of "company" since the time of Salomon's Case , has been as a body with a separate legal identity); see also Sons of Gwalia Ltd v Margaretic [2007] HCA 1 ; (2007) 81 ALJR 525 at [3] - [4] (observing the historical distinction, dating back to Salomon's Case , between firms (partnerships) and companies (corporations)); Salomon v Salomon &amp;amp; Co Ltd [1897] AC 22.</sentence>
 <sentence id="s93">Again, the Applicant presented no evidence that White SW Computer Law is a distinct legal entity as opposed to an unincorporated sole proprietorship.</sentence>
 <sentence id="s94">23 To the extent that the Respondent considered that employment in a firm could be considered employment in a company for the purposes of the regulation, it follows that he took an irrelevant consideration into account.</sentence>
 <sentence id="s95">However, that error may be put to one side because, on any view, it was an error which favoured the Applicant.</sentence>
@@ -476,7 +476,7 @@ See also SZKTI v Minister for Immigration and Citizenship [2008] FCAFC 83 at [44
  
  3. the redrafting of Section 201(7) of the [1990 Patents Act] to put beyond doubt the right of any person to engage in the provision of patent services for gain, except for the drafting of patent specifications and claims, the prosecution of patent applications, and the preparation of advice on patent validity and infringement.</sentence>
 <sentence id="s182">The two former activities should remain the exclusive right of registered patent attorneys.</sentence>
-<sentence id="s183">The latter should remain the exclusive right of registered patent attorneys and lawyers (see Recommendations 3 &amp; 4).</sentence>
+<sentence id="s183">The latter should remain the exclusive right of registered patent attorneys and lawyers (see Recommendations 3 &amp;amp; 4).</sentence>
 <sentence id="s184">
  
  
@@ -579,7 +579,7 @@ The Report continued to acknowledge that an inventor maintained the right to pro
 <sentence id="s270">52 The Applicant placed considerable emphasis on the absence of the word "registered" in reg 20.3(3)(a)(i).</sentence>
 <sentence id="s271">As the Respondent submitted, the omission is "curious".</sentence>
 <sentence id="s272">However, the omission does not assist the Applicant for at least two reasons.</sentence>
-<sentence id="s273">First, as Heerey J noted in Eli Lilly &amp; Company v Pfizer Ireland Pharmaceuticals (No 2) [2004] FCA 850 ; (2004) 137 FCR 573 at [8] , "registered patent attorneys" in s 200(2) of the 1990 Patents Act means registered in Australia.</sentence>
+<sentence id="s273">First, as Heerey J noted in Eli Lilly &amp;amp; Company v Pfizer Ireland Pharmaceuticals (No 2) [2004] FCA 850 ; (2004) 137 FCR 573 at [8] , "registered patent attorneys" in s 200(2) of the 1990 Patents Act means registered in Australia.</sentence>
 <sentence id="s274">If that is correct (and it was not suggested that his Honour was wrong), the practical effect of the omission may be no more than a recognition that applicants who have worked overseas as a technical assistant for a patent attorney who is not registered under the 1990 Patents Act , may still satisfy the employment requirement of reg 20.3(3)(a)(i).</sentence>
 <sentence id="s275">Secondly, even if it were accepted that reg 20.3(3)(a)(i) is not referring to a registered patent attorney (a submission I do not accept), the Applicant would have to demonstrate that he has been employed as a technical assistant in the practice of a patent attorney, practicing as a patent attorney within the meaning of s 201 of the 1990 Patents Act .</sentence>
 <sentence id="s276">As a matter of ordinary English syntax, one cannot be employed as an assistant to oneself; thus the Applicant cannot satisfy the criterion of having been employed as a technical assistant in a patent attorney's practice.</sentence>

@@ -3,12 +3,12 @@
 <name>Soh v Commonwealth of Australia [2008] FCA 1524 (14 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1524.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from a decision of a single judge</catchphrase>
-<catchphrase "id=c1">application for security for costs</catchphrase>
-<catchphrase "id=c2">appellant impecunious and ordinarily resident outside the jurisdiction</catchphrase>
-<catchphrase "id=c3">whether order for security for costs will stifle a reasonable arguable claim</catchphrase>
-<catchphrase "id=c4">quantum of security ordered</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">appeal from a decision of a single judge</catchphrase>
+<catchphrase id="c1">application for security for costs</catchphrase>
+<catchphrase id="c2">appellant impecunious and ordinarily resident outside the jurisdiction</catchphrase>
+<catchphrase id="c3">whether order for security for costs will stifle a reasonable arguable claim</catchphrase>
+<catchphrase id="c4">quantum of security ordered</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -43,11 +43,11 @@
 
 These propositions were said to give rise to the following causes of action: 
  
-&#8226; false imprisonment; 
+&amp;#8226; false imprisonment; 
  
-&#8226; misfeasance by a public officer (Mr Furlong); and
+&amp;#8226; misfeasance by a public officer (Mr Furlong); and
  
-&#8226; the tort of "unconstitutional detention".</sentence>
+&amp;#8226; the tort of "unconstitutional detention".</sentence>
 <sentence id="s19">The relief sought in the final further amended statement of claim (filed 30 November 2007) was damages, a declaration that the applicant's detention in Silverwater Prison and Long Bay Gaol between 16 June 1999 and 1 March 2000 was unlawful and a further declaration that the applicant was not liable to pay costs of his incarceration for the same period.</sentence>
 <sentence id="s20">4 The primary judge dismissed the applicant's application for relief.</sentence>
 <sentence id="s21">In relation to the allegation of misfeasance by a public officer, the primary judge found that there was no evidence that Mr Furlong actually intended to cause the applicant harm.</sentence>
@@ -169,7 +169,7 @@ vi Whether there are any particular discretionary matters peculiar to the circum
 <sentence id="s72">
  
 12 Also relevant is the fact that the applicant is outside the jurisdiction of the Court.</sentence>
-<sentence id="s73">The significance of this factor was discussed by McHugh J in P S Chellaram &amp; Co v China Ocean Shipping Co [1991] HCA 36 ; (1991) 102 ALR 321.</sentence>
+<sentence id="s73">The significance of this factor was discussed by McHugh J in P S Chellaram &amp;amp; Co v China Ocean Shipping Co [1991] HCA 36 ; (1991) 102 ALR 321.</sentence>
 <sentence id="s74">His Honour observed (at 323) that the fact that a party bringing proceedings is resident out of the jurisdiction and has no assets within the jurisdiction has been seen as a circumstance of great weight in determining whether an order for security for costs should be made.</sentence>
 <sentence id="s75">13 There is no dispute that the applicant in the proceedings is both impecunious and is ordinary resident outside the jurisdiction.</sentence>
 <sentence id="s76">14 As a general rule, in an application for security for costs, the Court should not be required to investigate in detail the likelihood or otherwise of success in the action or appeal.</sentence>

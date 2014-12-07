@@ -3,14 +3,14 @@
 <name>Stacey Brothers Plumbing Pty Ltd v Waterco Limited [2009] FCA 438 (5 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/438.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">respondent representative order sought against a franchisee as representative of other franchisees in respect of alleged patent infringements</catchphrase>
-<catchphrase "id=c1">application made to amend pleadings to expand the group to include persons who were not franchisees</catchphrase>
-<catchphrase "id=c2">whether proceeding should continue as a representative proceeding under o 6 r 13 of the federal court rules</catchphrase>
-<catchphrase "id=c3">whether "same interest" and "numerous persons" criteria satisfied to enliven jurisdiction</catchphrase>
-<catchphrase "id=c4">lack of commonality of interest in the putative group and the representative</catchphrase>
-<catchphrase "id=c5">proceeding not to continue as representative proceeding</catchphrase>
-<catchphrase "id=c6">o 6 r 13 of the rules does not allow amendment to expand group of represented persons</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
+<catchphrase id="c0">respondent representative order sought against a franchisee as representative of other franchisees in respect of alleged patent infringements</catchphrase>
+<catchphrase id="c1">application made to amend pleadings to expand the group to include persons who were not franchisees</catchphrase>
+<catchphrase id="c2">whether proceeding should continue as a representative proceeding under o 6 r 13 of the federal court rules</catchphrase>
+<catchphrase id="c3">whether "same interest" and "numerous persons" criteria satisfied to enliven jurisdiction</catchphrase>
+<catchphrase id="c4">lack of commonality of interest in the putative group and the representative</catchphrase>
+<catchphrase id="c5">proceeding not to continue as representative proceeding</catchphrase>
+<catchphrase id="c6">o 6 r 13 of the rules does not allow amendment to expand group of represented persons</catchphrase>
+<catchphrase id="c7">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -139,7 +139,7 @@
 <sentence id="s79">Possible defences might also depend on the particular facts relating to the business of a person in the group: see, e.g., ss 119 or 123 .</sentence>
 <sentence id="s80">Persons within the group might challenge the validity of the patent on different grounds.</sentence>
 <sentence id="s81">The quantification of damages might also depend on the particular conduct of the group member: cf s 122(1A).</sentence>
-<sentence id="s82">The position of Strathfieldsaye Pump &amp; Pool Shop (referred to in Mr Dy's affidavit of 11 February 2009 and Mr Sloan's affidavit of 18 February 2009) illustrated that there were likely to be relevant differences between group members.</sentence>
+<sentence id="s82">The position of Strathfieldsaye Pump &amp;amp; Pool Shop (referred to in Mr Dy's affidavit of 11 February 2009 and Mr Sloan's affidavit of 18 February 2009) illustrated that there were likely to be relevant differences between group members.</sentence>
 <sentence id="s83">Further, Swimart Balwyn's liability for the Display System depended on circumstances peculiar to it.</sentence>
 <sentence id="s84">The pleading did not depend only on the display of the Poster, as Stacey Brothers alleged at the hearing of the motions.</sentence>
 <sentence id="s85">The relief sought emphasised the broader character of its claims.</sentence>
@@ -230,7 +230,7 @@ Therefore, before O 6 r 13(1) can be invoked, there must be "numerous persons" h
 <sentence id="s161">As foreshadowed, I accept that there are significant differences between plaintiff (or applicant) representative actions and defendant (or respondent) representative actions: see also BT (Australasia) Pty Ltd v New South Wales [1997] FCA 1553 per Sackville J.</sentence>
 <sentence id="s162">As Sackville J noted, members of a represented group may have much to gain when represented by a plaintiff and everything to lose when represented by a defendant.</sentence>
 <sentence id="s163">The development of the law relating to defendant representative proceedings reflects the fact that they have typically been used in the past against members of unions and unincorporated associations: see, e.g., Taff Vale Railway Co v Amalgamated Society of Railway Servants [1901] UKHL 1 ; [1901] AC 426 at 438-439 per Lord Macnaghten, 443 per Lord Lindley; London Association for Protection of Trade v Greenlands Ltd [1916] 2 AC 15 at 30 per Lord Atkinson, 39 per Lord Parker; and John v Rees [1970] 1 Ch 345 at 371 per Megarry J.</sentence>
-<sentence id="s164">Amos Removals &amp; Storage Pty Ltd v Small [1981] 2 NSWLR 525 is illustrative of this history.</sentence>
+<sentence id="s164">Amos Removals &amp;amp; Storage Pty Ltd v Small [1981] 2 NSWLR 525 is illustrative of this history.</sentence>
 <sentence id="s165">The plaintiffs, who were members of the New South Wales Road Transport Association, sued 19 members of the Committee of Management of the Shipping Section of the Federated Clerks Union of Australia (NSW Branch) as representing the Section, or at least those members of the Section that attended a meeting at which certain resolutions were passed.</sentence>
 <sentence id="s166">The plaintiffs relied on the representative procedure of the NSW Supreme Court, which, as we have seen, was then equivalent to O 6 r 13.</sentence>
 <sentence id="s167">In giving reasons for judgment in the case, Hunt J identified three requirements for a defendant representative procedure: first, that the persons to be represented formed an identifiable group or class; secondly, that the person selected as a representative must be in management of the group or class and have control of its funds; and thirdly, that those selected to be represented must have a common interest or a community of interest with all other members: see Amos Removals [1981] 2 NSWLR 525 at 529-530.</sentence>
@@ -263,7 +263,7 @@ Therefore, before O 6 r 13(1) can be invoked, there must be "numerous persons" h
  Similarly, in Roche v Sherrington [1982] 2 All ER 426 , a proceeding to set aside gifts on the grounds of undue influence against defendants representing the present members of Opus Dei, an organisation within the Roman Catholic Church, failed for lack of common interest amongst the represented defendants.</sentence>
 <sentence id="s193">Slade J held that the representative proceeding rule was not available against the defendants because members of the group were likely to have separate defences.</sentence>
 <sentence id="s194">His Honour said that "where separate defences may be opened to some members of the class in question, there can be no common interest within the rule": see [1982] 2 All ER at 434.</sentence>
-<sentence id="s195">Further, if membership of a defendant group is liable to fluctuate, then this may indicate a want of sufficient particularity and a lack of commonality: see Hardie &amp; Lane Ltd v Chiltern [1928] 1 KB 663 and Minister for Industrial Development of Queensland v Taubenfeld [2003] 2 Qd R 655.</sentence>
+<sentence id="s195">Further, if membership of a defendant group is liable to fluctuate, then this may indicate a want of sufficient particularity and a lack of commonality: see Hardie &amp;amp; Lane Ltd v Chiltern [1928] 1 KB 663 and Minister for Industrial Development of Queensland v Taubenfeld [2003] 2 Qd R 655.</sentence>
 <sentence id="s196">In Taubenfeld at 659, Mackenzie J pointed to "the difficulty in establishing the necessary identity of interest of all persons against whom the [representative] order was sought and of eliminating the possibility of different defences" on account of the fluctuating nature of membership of the group.</sentence>
 <sentence id="s197">Having discussed some of the authorities, I turn to this proceeding.</sentence>
 <sentence id="s198">The jurisdictional question presented by O 6 r 13(1) requires me to decide whether there was a commonality of interest amongst Swimart Balwyn and the members of the putative group at the time the proceeding commenced.</sentence>

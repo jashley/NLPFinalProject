@@ -3,20 +3,20 @@
 <name>Brady King Pty Ltd v The Commissioner of Taxation of the Commonwealth of Australia (No 2) [2008] FCA 1918 (18 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1918.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">meaning of "have regard to"</catchphrase>
-<catchphrase "id=c1">nature of compliance required</catchphrase>
-<catchphrase "id=c2">failure to comply leading to invalidity</catchphrase>
-<catchphrase "id=c3">gst</catchphrase>
-<catchphrase "id=c4">application of s 75-10(3) margin scheme</catchphrase>
-<catchphrase "id=c5">gst ruling gstr 2000/21</catchphrase>
-<catchphrase "id=c6">valuation by professional valuer</catchphrase>
-<catchphrase "id=c7">valuation method</catchphrase>
-<catchphrase "id=c8">hypothetical development method of valuation</catchphrase>
-<catchphrase "id=c9">acceptable method of valuation</catchphrase>
-<catchphrase "id=c10">required information excluded from valuation</catchphrase>
-<catchphrase "id=c11">not a valuation under the scheme</catchphrase>
-<catchphrase "id=c12">statutory interpretation</catchphrase>
-<catchphrase "id=c13">taxation</catchphrase>
+<catchphrase id="c0">meaning of "have regard to"</catchphrase>
+<catchphrase id="c1">nature of compliance required</catchphrase>
+<catchphrase id="c2">failure to comply leading to invalidity</catchphrase>
+<catchphrase id="c3">gst</catchphrase>
+<catchphrase id="c4">application of s 75-10(3) margin scheme</catchphrase>
+<catchphrase id="c5">gst ruling gstr 2000/21</catchphrase>
+<catchphrase id="c6">valuation by professional valuer</catchphrase>
+<catchphrase id="c7">valuation method</catchphrase>
+<catchphrase id="c8">hypothetical development method of valuation</catchphrase>
+<catchphrase id="c9">acceptable method of valuation</catchphrase>
+<catchphrase id="c10">required information excluded from valuation</catchphrase>
+<catchphrase id="c11">not a valuation under the scheme</catchphrase>
+<catchphrase id="c12">statutory interpretation</catchphrase>
+<catchphrase id="c13">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -84,7 +84,7 @@ the margin for the supply is the amount by which the *consideration for the supp
 <sentence id="s33">The chosen statutory scheme was to delegate that task to a 'professional valuer', in this case Mr Nicodimou.</sentence>
 <sentence id="s34">That delegated task was completed by Mr Nicodimou, who as a professional valuer undertook the task required of him by the Determination.</sentence>
 <sentence id="s35">14 It was submitted by the taxpayer that a valuation under s 75- 10 (3) is (or is akin to) an expert determination that is only open to challenge on a narrow set of grounds.</sentence>
-<sentence id="s36">Reliance was placed upon comments of McHugh J, then a member of the New South Wales Court of Appeal, in Legal &amp; General Life of Australia Ltd v Hudson Pty Ltd (1985) 1 NSWLR 314, where his Honour said that (at 335-36): 
+<sentence id="s36">Reliance was placed upon comments of McHugh J, then a member of the New South Wales Court of Appeal, in Legal &amp;amp; General Life of Australia Ltd v Hudson Pty Ltd (1985) 1 NSWLR 314, where his Honour said that (at 335-36): 
  While mistake or error on the part of the valuer is not by itself sufficient to invalidate the decision or the certificate of valuation, nevertheless, the mistake may be of a kind which shows that the valuation is not in accordance with the contract.</sentence>
 <sentence id="s37">A mistake concerning the identity of the premises to be valued could seldom, if ever, comply with the terms of the agreement between the parties.</sentence>
 <sentence id="s38">But a valuation which is the result of the mistaken application of the principles of valuation may still be made in accordance with the terms of the agreement.</sentence>
@@ -96,7 +96,7 @@ the margin for the supply is the amount by which the *consideration for the supp
 <sentence id="s44">15 It was then submitted that although this decision concerned a valuation made under a contract, by adopting a valuation made in accordance with requirements specified by the Commissioner, s 75- 10 (3) establishes a means for determining value that is comparable to a contractual provision.</sentence>
 <sentence id="s45">The section does not provide any mechanism for such a valuation to be challenged.</sentence>
 <sentence id="s46">It was therefore of similar effect to a contractual term requiring the parties to abide by a valuation obtained in accordance with the contract.</sentence>
-<sentence id="s47">It was submitted that the Court should therefore adopt the principles set out in Legal &amp; General Life of Australia Ltd 1 NSWLR 314 when determining what the Commissioner must establish in order to overturn Mr Nicodimou's valuation.</sentence>
+<sentence id="s47">It was submitted that the Court should therefore adopt the principles set out in Legal &amp;amp; General Life of Australia Ltd 1 NSWLR 314 when determining what the Commissioner must establish in order to overturn Mr Nicodimou's valuation.</sentence>
 <sentence id="s48">16 The taxpayer alternatively submitted that the valuation should be reviewed in accordance with the ordinary principles of administrative law.</sentence>
 <sentence id="s49">A relevant matter to take into account is only a matter that the valuer is 'bound' to take into account.</sentence>
 <sentence id="s50">The taxpayer submitted that the only relevant matters were specifically set out in what is described as Method 1 of the Determination.</sentence>
@@ -197,7 +197,7 @@ the margin for the supply is the amount by which the *consideration for the supp
 <sentence id="s117">35 Mr Nicodimou applied Method 1 as follows:
  Valuation of completed property(1) 
  $54,141,275 LESS: Cost to complete(2) $18,843,000 
- 25% Profit &amp; Risk(3) $10,532,255 
+ 25% Profit &amp;amp; Risk(3) $10,532,255 
  Interest $1,912,693 Valuation of Incomplete Property as at 1 July 2000 
  $22,929,000 
 
@@ -228,13 +228,13 @@ the margin for the supply is the amount by which the *consideration for the supp
 <sentence id="s136">44 Mr Nicodimou's evidence was that the profit margin should be the amount the hypothetical developer would get back 'in his hand' at the conclusion of the transaction.</sentence>
 <sentence id="s137">However, Mr Nicodimou also gave evidence that:
  
-&#8226; he had not accounted for the GST the hypothetical developer would have to pay on the sales;
+&amp;#8226; he had not accounted for the GST the hypothetical developer would have to pay on the sales;
  
-&#8226; the GST payable would reduce the developer's profit margin below 25%;
+&amp;#8226; the GST payable would reduce the developer's profit margin below 25%;
  
-&#8226; GST needs to be subtracted in order to establish the profit margin; and 
+&amp;#8226; GST needs to be subtracted in order to establish the profit margin; and 
  
-&#8226; had he been valuing the property for another purpose he would have accounted for GST.</sentence>
+&amp;#8226; had he been valuing the property for another purpose he would have accounted for GST.</sentence>
 <sentence id="s138">45 Mr Brown's evidence was that GST must be allowed for in the profit margin.</sentence>
 <sentence id="s139">He gave evidence that he had done so in other valuations for the GST margin scheme including multi-storey residential developments.</sentence>
 <sentence id="s140">Mr Brown also gave evidence that GST was accounted for in valuations carried out for other purposes.</sentence>
@@ -264,9 +264,9 @@ the margin for the supply is the amount by which the *consideration for the supp
 <sentence id="s162">52 Mr Nicodimou explained that valuers work on the assumption that the entirety of the developer's outgoings in acquiring the property and funding the works on it are funded by debt.</sentence>
 <sentence id="s163">53 Mr Nicodimou calculated a total figure of $1,912,693 for interest, and broke the interest cost down into two heads:
  
-&#8226; interest for funds the hypothetical developer would have to borrow to pay for the construction costs: $926,027; and
+&amp;#8226; interest for funds the hypothetical developer would have to borrow to pay for the construction costs: $926,027; and
  
-&#8226; interest for funds the hypothetical developer would have to borrow to acquire the property: $986,667.</sentence>
+&amp;#8226; interest for funds the hypothetical developer would have to borrow to acquire the property: $986,667.</sentence>
 <sentence id="s164">54 Mr Nicodimou used the taxpayer's construction budget as an estimate of the cost a hypothetical developer would have to pay to complete the project, which the Commissioner accepted as an appropriate estimate.</sentence>
 <sentence id="s165">55 Mr Nicodimou calculated the second head of interest based not on the cost the hypothetical developer would have paid on 1 July 2000 to acquire the property (circa $23,000,000) but on the lesser figure of $9,250,000 being the cost the taxpayer incurred to acquire the property in May 2000.</sentence>
 <sentence id="s166">56 However, Mr Nicodimou accepted that the hypothetical developer would have had to pay the value of the property as at 1 July 2000 in order to acquire it, the property being valued at approximately $23,000,000 and the hypothetical purchaser would have had to pay interest on the basis of a $23,000,000 outgoing.</sentence>

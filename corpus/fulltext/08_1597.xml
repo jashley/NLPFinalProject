@@ -3,14 +3,14 @@
 <name>Rambaldi; in the matter of Philip Charles Weeden, a bankrupt v Weeden [2008] FCA 1597 (27 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1597.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">transfer of small minority shareholding in closely-held private company to majority shareholder</catchphrase>
-<catchphrase "id=c1">transfer for nominal sum on day prior to minority shareholder filing for bankruptcy</catchphrase>
-<catchphrase "id=c2">market value of shares</catchphrase>
-<catchphrase "id=c3">articles of association include pre-emptive rights and directors' right of refusal to transfer</catchphrase>
-<catchphrase "id=c4">no dividends paid for substantial period and none to be paid in future</catchphrase>
-<catchphrase "id=c5">valuation of minority shareholdings in proprietary companies</catchphrase>
-<catchphrase "id=c6">bankruptcy</catchphrase>
-<catchphrase "id=c7">corporations</catchphrase>
+<catchphrase id="c0">transfer of small minority shareholding in closely-held private company to majority shareholder</catchphrase>
+<catchphrase id="c1">transfer for nominal sum on day prior to minority shareholder filing for bankruptcy</catchphrase>
+<catchphrase id="c2">market value of shares</catchphrase>
+<catchphrase id="c3">articles of association include pre-emptive rights and directors' right of refusal to transfer</catchphrase>
+<catchphrase id="c4">no dividends paid for substantial period and none to be paid in future</catchphrase>
+<catchphrase id="c5">valuation of minority shareholdings in proprietary companies</catchphrase>
+<catchphrase id="c6">bankruptcy</catchphrase>
+<catchphrase id="c7">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -79,11 +79,11 @@ at the time of the transfer of such share by the first respondent to the second 
 15 With one minor exception, the Weeden Companies' assets consist of loans to Related Entities.</sentence>
 <sentence id="s39">The assets of those entities include:
  
-&#8226; External investments, including shares in listed companies and holdings in land and property investments;
+&amp;#8226; External investments, including shares in listed companies and holdings in land and property investments;
  
-&#8226; Amounts receivable from others of the Weeden Companies and Related Entities;
+&amp;#8226; Amounts receivable from others of the Weeden Companies and Related Entities;
  
-&#8226; Amounts receivable from some Associated Entities.</sentence>
+&amp;#8226; Amounts receivable from some Associated Entities.</sentence>
 <sentence id="s40">16 The Weeden Companies do not carry on any active business.</sentence>
 <sentence id="s41">They are beneficiaries of trusts of which Related Entities are trustees.</sentence>
 <sentence id="s42">Some of the amounts payable to the Weeden Companies are subject to formal agreements prepared in accordance with Div 7A of the Income Tax Assessment Act 1936 (Cth).</sentence>
@@ -226,35 +226,35 @@ So whether or not such sales happen often, the fact remains that they can, and d
 <sentence id="s152">From a practical point of view, the possibility of obtaining redress in the courts against a wrongful exercise of a power given by the articles is not a substitute for articles under which the power is not conferred.</sentence>
 <sentence id="s153">45 This issue is extensively discussed by Young J in Mike Gaffikin Marine Pty Ltd v Princes Street Marina Pty Ltd (1995) 122 FLR 294 at 303 et seq.</sentence>
 <sentence id="s154">His Honour quoted the view of the leading authority on share valuation in Australia, Mr Wayne Lonergan, in his work The Valuation of Businesses, Shares and Other Equity .</sentence>
-<sentence id="s155">The corresponding passage in the current edition (4 th ed, Allen &amp; Unwin, 2003) at 143:
+<sentence id="s155">The corresponding passage in the current edition (4 th ed, Allen &amp;amp; Unwin, 2003) at 143:
  Few valuers today would share the views of Williams J, and in the light of the significant changes in the world's capital markets and in view of the comments of Gibbs J in Gregory's Case...</sentence>
 <sentence id="s156">I believe a modern court would, in the absence of a statutory direction to the contrary, generally discount the value of shares to take account of restrictive clauses.</sentence>
 <sentence id="s157">While accepting that he would have followed Abrahams were it not for what Gibbs J said in Gregory , Young J (122 FLR 304) made the following points, first in relation to proprietary company shares generally:
  
-&#8226; A reasonable purchaser would be influenced by restrictive provisions and there should be some discount;
+&amp;#8226; A reasonable purchaser would be influenced by restrictive provisions and there should be some discount;
  
-&#8226; Directors have fiduciary duties which can be policed;
+&amp;#8226; Directors have fiduciary duties which can be policed;
  
-&#8226; Litigation to enforce compliance with directors' obligations will be expensive;
+&amp;#8226; Litigation to enforce compliance with directors' obligations will be expensive;
  
-&#8226; But it will also be expensive for the directors, so compromise "somewhere along the line" is likely;
+&amp;#8226; But it will also be expensive for the directors, so compromise "somewhere along the line" is likely;
  
-&#8226; Each case must be looked at in its own circumstances;
+&amp;#8226; Each case must be looked at in its own circumstances;
  
-&#8226; But a large discount merely because of the presence of restrictive clauses would not be appropriate.</sentence>
+&amp;#8226; But a large discount merely because of the presence of restrictive clauses would not be appropriate.</sentence>
 <sentence id="s158">In relation to minority holdings:
  
-&#8226; The above remarks also apply to an extent;
+&amp;#8226; The above remarks also apply to an extent;
  
-&#8226; If the holding is of a size less than that required to block a special resolution the holder is "at the mercy of the majority";
+&amp;#8226; If the holding is of a size less than that required to block a special resolution the holder is "at the mercy of the majority";
  
-&#8226; But the courts are still able to contain the wrongdoing of the majority;
+&amp;#8226; But the courts are still able to contain the wrongdoing of the majority;
  
-&#8226; "To a great extent" directors will be able to make determinations as to retention of moneys, dividend policy and the direction of the company;
+&amp;#8226; "To a great extent" directors will be able to make determinations as to retention of moneys, dividend policy and the direction of the company;
  
-&#8226; But there is an "area outside the line where the courts will exercise control";
+&amp;#8226; But there is an "area outside the line where the courts will exercise control";
  
-&#8226; Where the valuation is on an assets backing basis, the smaller the value of the shares (without discount), the greater the discount that should be applied for the cost and risk of litigation.</sentence>
+&amp;#8226; Where the valuation is on an assets backing basis, the smaller the value of the shares (without discount), the greater the discount that should be applied for the cost and risk of litigation.</sentence>
 <sentence id="s159">46 An important element in the present case is the special value the shares would have to the majority shareholder --- nominally Mrs Weeden but, it is reasonable to infer, a holder under the practical control and direction of Mr Weeden.</sentence>
 <sentence id="s160">This factor is mentioned in the passage from Abrahams cited in [43] above.</sentence>
 <sentence id="s161">Nothing in Gregory casts doubt on it.</sentence>
@@ -330,11 +330,11 @@ Dated: 27 October 2008
 
  Counsel for the Applicants: JWS Peters SC and P Fary 
  
- Solicitors for the Applicants: Schetzer Brott &amp; Appel 
+ Solicitors for the Applicants: Schetzer Brott &amp;amp; Appel 
  
  Counsel for the Respondents: CG Rome-Sievers 
  
- Solicitors for the Respondents: Tisher Liner &amp; Co 
+ Solicitors for the Respondents: Tisher Liner &amp;amp; Co 
 
  Date of Hearing: 3, 6 October 2008 
  

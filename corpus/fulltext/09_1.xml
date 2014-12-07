@@ -3,11 +3,11 @@
 <name>National Mutual Life Association of Australasia Limited and Challenger Life No.2 Limited (includes corrigendum dated 30 January 2009) [2009] FCA 1 (9 January 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">life insurance</catchphrase>
-<catchphrase "id=c1">scheme for transfer of part of life insurance business</catchphrase>
-<catchphrase "id=c2">application to court for confirmation of scheme</catchphrase>
-<catchphrase "id=c3">compliance with life insurance act 1995 (cth) and life insurance regulations 1995 (cth)</catchphrase>
-<catchphrase "id=c4">insurance</catchphrase>
+<catchphrase id="c0">life insurance</catchphrase>
+<catchphrase id="c1">scheme for transfer of part of life insurance business</catchphrase>
+<catchphrase id="c2">application to court for confirmation of scheme</catchphrase>
+<catchphrase id="c3">compliance with life insurance act 1995 (cth) and life insurance regulations 1995 (cth)</catchphrase>
+<catchphrase id="c4">insurance</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -39,7 +39,7 @@
 <sentence id="s22">Mr Thornton is a Fellow of the Institute of Actuaries (UK) and an accredited member of the Institute of Actuaries of Australia.</sentence>
 <sentence id="s23">Mr Bofinger is a Fellow of the Institute of Actuaries of Australia.</sentence>
 <sentence id="s24">The report states that the opinions expressed in it are the opinions of both Mr Thornton and Mr Bofinger except that Mr Thornton takes responsibility for the commentary on NMLA's history, practice and future intentions and Mr Bofinger takes responsibility for the commentary on Challenger's history, practice and future intentions.</sentence>
-<sentence id="s25">An Independent Actuarial Report (First Independent Report) prepared by Mr Clive Aaron of Towers, Perrin, Forster &amp; Crosby Inc and dated 26 September 2008 was commissioned by both applicants.</sentence>
+<sentence id="s25">An Independent Actuarial Report (First Independent Report) prepared by Mr Clive Aaron of Towers, Perrin, Forster &amp;amp; Crosby Inc and dated 26 September 2008 was commissioned by both applicants.</sentence>
 <sentence id="s26">Mr Aaron is a Fellow of the Institute of Actuaries of Australia and a Fellow of the Institute of Actuaries (London).</sentence>
 <sentence id="s27">The First Joint Report and the First Independent Report, along with updates to both reports, are discussed below at [24] et seq.</sentence>
 <sentence id="s28">Subject to one exception the NMLA policies were to be transferred to Challenger without amendment.</sentence>
@@ -75,7 +75,7 @@
  (c) any other matter the Court considers relevant.</sentence>
 <sentence id="s47">
  The Court's discretion is very wide but, as Edmonds J pointed out, "it is not unfettered, and must be exercised on the evidence and having regard to the objects of the Act, principally, the protection of the interests of policyholders and prospective policyholders"; In the Application of Commonwealth Insurance Holdings Ltd and The Colonial Mutual Life Assurance Society Ltd [2007] FCA 1012 at [12] .</sentence>
-<sentence id="s48">At [13] his Honour identified two aspects to the protection of the interests of policyholders: First, there are the procedural aspects in which the Court is concerned to see that the process undertaken has been properly executed in accordance with the requirements of the Act and the Life Insurance Regulations 1995 (Cth) ('the Regulations'); and Second, there is a substantive aspect in which the Court is concerned to see that the Scheme will not be prejudicial to the interests of policyholders and that policyholders are properly safeguarded, i.e., there is not likely to be any material detriment to policyholders affected by the Scheme (see NuLife Insurance Ltd v Norwich Union Life Australia Ltd [2005] FCA 1635 at [24] per Emmett J; MLC Lifetime Company Ltd &amp; Anor (No.</sentence>
+<sentence id="s48">At [13] his Honour identified two aspects to the protection of the interests of policyholders: First, there are the procedural aspects in which the Court is concerned to see that the process undertaken has been properly executed in accordance with the requirements of the Act and the Life Insurance Regulations 1995 (Cth) ('the Regulations'); and Second, there is a substantive aspect in which the Court is concerned to see that the Scheme will not be prejudicial to the interests of policyholders and that policyholders are properly safeguarded, i.e., there is not likely to be any material detriment to policyholders affected by the Scheme (see NuLife Insurance Ltd v Norwich Union Life Australia Ltd [2005] FCA 1635 at [24] per Emmett J; MLC Lifetime Company Ltd &amp;amp; Anor (No.</sentence>
 <sentence id="s49">2) [2006] FCA 1367 at [5] per Bennett J; Colonial Portfolio at [25] per Matthews J) Procedural steps
  On 8 October 2008, Jacobson J allowed an application to dispense, in part, with the need for compliance with s 191(2)(c).</sentence>
 <sentence id="s50">The dispensation related to policyholders for whom the parties had no record of a current mailing address and to the need to provide an approved summary of the Scheme to those who became policy owners less than 15 days prior to the hearing of the application and up to the completion date as defined in the Scheme.</sentence>
@@ -218,7 +218,7 @@ Dated: 9 January 2009
  
  Counsel for Intervenor (Mr J Kemp): M McHugh 
  
- Solicitors for Intervenor (Mr J Kemp): Kemp &amp; Co, Solicitors 
+ Solicitors for Intervenor (Mr J Kemp): Kemp &amp;amp; Co, Solicitors 
  Date of Hearing: 21 and 24 November 2008 
  
  Date of Judgment: 9 January 2009 

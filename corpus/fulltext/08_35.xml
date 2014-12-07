@@ -3,13 +3,13 @@
 <name>Fitzpatrick v Keelty [2008] FCA 35 (31 January 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/35.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of motions for summary dismissal where applicant in proceedings became a bankrupt after proceedings commenced</catchphrase>
-<catchphrase "id=c1">where applicant became a bankrupt after proceedings commenced</catchphrase>
-<catchphrase "id=c2">where proceedings raise numerous causes of action, including claims under administrative decisions (judicial review) act 1977 (cth), relating to termination of the applicant's employment with the australian federal police</catchphrase>
-<catchphrase "id=c3">where trustee deemed to have abandoned proceedings</catchphrase>
-<catchphrase "id=c4">whether applicant can continue proceedings in own name under s 60(4) of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
-<catchphrase "id=c6">bankruptcy</catchphrase>
+<catchphrase id="c0">consideration of motions for summary dismissal where applicant in proceedings became a bankrupt after proceedings commenced</catchphrase>
+<catchphrase id="c1">where applicant became a bankrupt after proceedings commenced</catchphrase>
+<catchphrase id="c2">where proceedings raise numerous causes of action, including claims under administrative decisions (judicial review) act 1977 (cth), relating to termination of the applicant's employment with the australian federal police</catchphrase>
+<catchphrase id="c3">where trustee deemed to have abandoned proceedings</catchphrase>
+<catchphrase id="c4">whether applicant can continue proceedings in own name under s 60(4) of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
+<catchphrase id="c6">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -105,11 +105,11 @@
 
 22 Also among the many "decisions" the applicant identifies as such are the following:
  
-&#8226; The decision of 9 December 2005 to termination the applicant's employment, made by the second respondent (see s 28 of the Australian Federal Police Act 1979 (Cth) ("AFP Act")); 
+&amp;#8226; The decision of 9 December 2005 to termination the applicant's employment, made by the second respondent (see s 28 of the Australian Federal Police Act 1979 (Cth) ("AFP Act")); 
  
-&#8226; The serious misconduct declaration made on 9 December 2005 by the third respondent (see s 40K of the AFP Act );
+&amp;#8226; The serious misconduct declaration made on 9 December 2005 by the third respondent (see s 40K of the AFP Act );
  
-&#8226; The decision to issue a firearms prohibition order ("prohibition order") on 16 January 2006 by Detective Superintendent Budworth who is not a party to these proceedings.</sentence>
+&amp;#8226; The decision to issue a firearms prohibition order ("prohibition order") on 16 January 2006 by Detective Superintendent Budworth who is not a party to these proceedings.</sentence>
 <sentence id="s82">That order was made pursuant to s 111 of the Firearms Act 1996 (ACT) and prohibits the applicant from possessing or using a firearm.</sentence>
 <sentence id="s83">23 The significance of the above three "decisions" is that the respondents concede, at least broadly, that they are amenable to review (although in the case of the prohibition order, not under the ADJR Act ).</sentence>
 <sentence id="s84">24 The applicant has resisted confining his case for judicial review to the three "decisions" referred to earlier.</sentence>
@@ -118,64 +118,64 @@
 <sentence id="s87">25 Examples of the numerous other "decisions" which the applicant seeks to challenge include the decision by the second respondent to allow the applicant to continue as a serving member of the AFP whilst having a serious "criminal office" substantiated against him, and the "administrative decision" of the second respondent in failing to take proper or sufficient action in response to the eight written reports lodged by the applicant.</sentence>
 <sentence id="s88">The respondents' written submissions provide the following summary of the central matters in relation to which judicial review is sought:
  
-&#8226; An investigation by the fifth respondent, James Anderson, of Professional Standards Investigation, into the two allegations made against the applicant;
+&amp;#8226; An investigation by the fifth respondent, James Anderson, of Professional Standards Investigation, into the two allegations made against the applicant;
  
-&#8226; A review of that report by the sixth respondent, Allan Spencer, recommending both allegations by substantiated;
+&amp;#8226; A review of that report by the sixth respondent, Allan Spencer, recommending both allegations by substantiated;
  
-&#8226; A review by the fourth respondent, Allan Scott, Manager of Professional Standards, dated 8 March 2005.</sentence>
+&amp;#8226; A review by the fourth respondent, Allan Scott, Manager of Professional Standards, dated 8 March 2005.</sentence>
 <sentence id="s89">In his report, Mr Scott substantiated the two allegations;
  
-&#8226; A letter by the delegate of the Commissioner, the second respondent, to the applicant, dated 18 November 2005, advising that he was considering terminating the applicant's employment;
+&amp;#8226; A letter by the delegate of the Commissioner, the second respondent, to the applicant, dated 18 November 2005, advising that he was considering terminating the applicant's employment;
  
-&#8226; A decision of 9 December 2005, pursuant to s 28 of the AFP Act and made by the second respondent, to terminate the applicant's employment;
+&amp;#8226; A decision of 9 December 2005, pursuant to s 28 of the AFP Act and made by the second respondent, to terminate the applicant's employment;
  
-&#8226; A decision pursuant to s 40K of the AFP Act made on 9 December 2005 by the third respondent, Deputy Commissioner John Lawler, to make a finding of serious misconduct against the applicant;
+&amp;#8226; A decision pursuant to s 40K of the AFP Act made on 9 December 2005 by the third respondent, Deputy Commissioner John Lawler, to make a finding of serious misconduct against the applicant;
  
-&#8226; A prohibition order pursuant to s 111 of the Firearms Act made on 16 January 2006 by Detective Superintendent Budworth;
+&amp;#8226; A prohibition order pursuant to s 111 of the Firearms Act made on 16 January 2006 by Detective Superintendent Budworth;
  
-&#8226; As part of the original investigation, a direction to the applicant that he attend a formal interview;
+&amp;#8226; As part of the original investigation, a direction to the applicant that he attend a formal interview;
  
-&#8226; As part of the review of the investigation, a direction to attend a formal interview;
+&amp;#8226; As part of the review of the investigation, a direction to attend a formal interview;
  
-&#8226; A decision not to pursue formal criminal charges against the applicant in relation to the finding of serious misconduct;
+&amp;#8226; A decision not to pursue formal criminal charges against the applicant in relation to the finding of serious misconduct;
  
-&#8226; A decision to allow the applicant to remain in full employment notwithstanding that the two allegations had been substantiated; and
+&amp;#8226; A decision to allow the applicant to remain in full employment notwithstanding that the two allegations had been substantiated; and
  
-&#8226; As part of the original investigation, the manner in which information was obtained by the respondents.</sentence>
+&amp;#8226; As part of the original investigation, the manner in which information was obtained by the respondents.</sentence>
 <sentence id="s90">26 To the above list may be added the handling of the reports lodged by the applicant (or failure to take proper action in relation to those reports).</sentence>
 <sentence id="s91">The applicant appears to regard this as an important aspect of his case.</sentence>
 <sentence id="s92">27 In additional to seeking judicial review, the applicant raises numerous other potential causes of action in both the applications for an order of review and the statements of claim.</sentence>
 <sentence id="s93">In their written submissions, the respondents summarise these various claims and allegations made by the applicant as follows:
  
-&#8226; Unfair dismissal under the WRA;
+&amp;#8226; Unfair dismissal under the WRA;
  
-&#8226; Termination of employment for the purpose of preventing report of possible corrupt conduct;
+&amp;#8226; Termination of employment for the purpose of preventing report of possible corrupt conduct;
  
-&#8226; Discrimination and victimisation;
+&amp;#8226; Discrimination and victimisation;
  
-&#8226; Breach of privacy of himself and his family;
+&amp;#8226; Breach of privacy of himself and his family;
  
-&#8226; Malicious or negligent defamation, including defamatory statements made within the reports;
+&amp;#8226; Malicious or negligent defamation, including defamatory statements made within the reports;
  
-&#8226; Denial of natural justice;
+&amp;#8226; Denial of natural justice;
  
-&#8226; Unlawfully taking possession of personal property;
+&amp;#8226; Unlawfully taking possession of personal property;
  
-&#8226; Documenting false and defamatory information concerning the applicant;
+&amp;#8226; Documenting false and defamatory information concerning the applicant;
  
-&#8226; Bias, prejudice and misleading and deceptive conduct as breaches of the Human Rights Act ;
+&amp;#8226; Bias, prejudice and misleading and deceptive conduct as breaches of the Human Rights Act ;
  
-&#8226; Deprivation of liberty;
+&amp;#8226; Deprivation of liberty;
  
-&#8226; Psychological injury arising from the termination and serious misconduct decisions;
+&amp;#8226; Psychological injury arising from the termination and serious misconduct decisions;
  
-&#8226; Disclosure of confidential personal information about himself and his family;
+&amp;#8226; Disclosure of confidential personal information about himself and his family;
  
-&#8226; Negligence in failing to conduct a proper investigation;
+&amp;#8226; Negligence in failing to conduct a proper investigation;
  
-&#8226; Intimidation;
+&amp;#8226; Intimidation;
  
-&#8226; Abuse of public office.</sentence>
+&amp;#8226; Abuse of public office.</sentence>
 <sentence id="s94">28 To the above list may be added a complaint made by the applicant which appears in various pleadings concerning certain statements allegedly made by a solicitor for the respondents, who is not a party to these proceedings, on an occasion when the matter was in the Supreme Court.</sentence>
 <sentence id="s95">29 The orders which the applicant seeks in the applications for an order of review are numerous.</sentence>
 <sentence id="s96">They include reinstatement, setting aside the termination and serious misconduct decisions, an order for the return of property seized from the applicant, and damages.</sentence>
@@ -239,13 +239,13 @@
 <sentence id="s129">The respondents also submit that to the extent that it could be said that the applicant has identified causes of action which individually fall within s 60(4)(a) , those causes of action have not been properly pleaded and should be struck out or dismissed.</sentence>
 <sentence id="s130">The respondents identified the latter causes of action as potentially being:
  
-&#8226; Causes of action for damages and other remedies for injuries allegedly done to the applicant and members of his family;
+&amp;#8226; Causes of action for damages and other remedies for injuries allegedly done to the applicant and members of his family;
  
-&#8226; Unlawful detention and deprivation of liberty;
+&amp;#8226; Unlawful detention and deprivation of liberty;
  
-&#8226; Unlawful interference with and possession of personal property; and
+&amp;#8226; Unlawful interference with and possession of personal property; and
  
-&#8226; Damages for injury to credit, character and reputation (defamation).</sentence>
+&amp;#8226; Damages for injury to credit, character and reputation (defamation).</sentence>
 <sentence id="s131">Meaning of an action in respect of "any personal injury or wrong" (s 60(4)(a)) 
  
 39 Subsection 60(5) provides that "action" means any civil proceedings whether at law or in equity.</sentence>

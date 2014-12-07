@@ -3,15 +3,15 @@
 <name>Smith v Australian Electoral Commission [2008] FCA 953 (27 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/953.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">senate election</catchphrase>
-<catchphrase "id=c1">petition filed under s 355 of commonwealth electoral act 1918 (cth) claiming political party obtained registration from respondent by fraud or misrepresentation</catchphrase>
-<catchphrase "id=c2">whether petition complies with requirements of the act</catchphrase>
-<catchphrase "id=c3">section 358 provides that no proceedings shall be had on the petition unless requirements of s 355 are complied with</catchphrase>
-<catchphrase "id=c4">petition does not contain necessary facts as required under s 355(a)</catchphrase>
-<catchphrase "id=c5">facts must raise matters by which the election is likely to be affected</catchphrase>
-<catchphrase "id=c6">section 355(e) requires petition to be filed within forty days</catchphrase>
-<catchphrase "id=c7">amendment to petition not available as forty day period has expired</catchphrase>
-<catchphrase "id=c8">parliamentary elections</catchphrase>
+<catchphrase id="c0">senate election</catchphrase>
+<catchphrase id="c1">petition filed under s 355 of commonwealth electoral act 1918 (cth) claiming political party obtained registration from respondent by fraud or misrepresentation</catchphrase>
+<catchphrase id="c2">whether petition complies with requirements of the act</catchphrase>
+<catchphrase id="c3">section 358 provides that no proceedings shall be had on the petition unless requirements of s 355 are complied with</catchphrase>
+<catchphrase id="c4">petition does not contain necessary facts as required under s 355(a)</catchphrase>
+<catchphrase id="c5">facts must raise matters by which the election is likely to be affected</catchphrase>
+<catchphrase id="c6">section 355(e) requires petition to be filed within forty days</catchphrase>
+<catchphrase id="c7">amendment to petition not available as forty day period has expired</catchphrase>
+<catchphrase id="c8">parliamentary elections</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -60,22 +60,22 @@
  
 7 The Commission contends that:
  
-&#8226; s 355(a) requires that the petition contain a set of facts that will arguably lead to invalidation of the election and that it does not do so;
+&amp;#8226; s 355(a) requires that the petition contain a set of facts that will arguably lead to invalidation of the election and that it does not do so;
  
-&#8226; where the basis for declaring the election void under s 362 is illegal practice, the petition must establish, to the satisfaction of the Court, that the result of the election was likely to be affected (s 362(3));
+&amp;#8226; where the basis for declaring the election void under s 362 is illegal practice, the petition must establish, to the satisfaction of the Court, that the result of the election was likely to be affected (s 362(3));
  
-&#8226; no facts alleged in the petition give any indication of the actual or potential outcome of the illegal practice;
+&amp;#8226; no facts alleged in the petition give any indication of the actual or potential outcome of the illegal practice;
  
-&#8226; there are no facts or assertions that the result of the election was likely to be affected; and
+&amp;#8226; there are no facts or assertions that the result of the election was likely to be affected; and
  
-&#8226; therefore the petition fails to comply with s 355(a) of the Act and must be dismissed.</sentence>
+&amp;#8226; therefore the petition fails to comply with s 355(a) of the Act and must be dismissed.</sentence>
 <sentence id="s19">8 Examples of facts said by Mr Kennett, counsel for the Commission, to be necessary, that are not alleged in the petition included:
  
-&#8226; the need to state the number of votes received by the Fishing and Lifestyle Party;
+&amp;#8226; the need to state the number of votes received by the Fishing and Lifestyle Party;
  
-&#8226; the proportion of the overall vote and how those votes were distributed; and
+&amp;#8226; the proportion of the overall vote and how those votes were distributed; and
  
-&#8226; whether the share of the vote by the Fishing and Lifestyle Party was sufficiently large to affect the outcome, if those votes had been given either directly or by the distribution of preferences to another person or persons.</sentence>
+&amp;#8226; whether the share of the vote by the Fishing and Lifestyle Party was sufficiently large to affect the outcome, if those votes had been given either directly or by the distribution of preferences to another person or persons.</sentence>
 <sentence id="s20">9 The Commission submits that, as pointed out by Gaudron J in Webster v Deahm [1993] HCA 38 ; (1993) 116 ALR 223 at 225, the very minimum assertion necessary to constitute a fact which will invalidate an election or return for the purposes of s 355(a) of the Act is one that raises a matter or matters by which the election was likely to be affected, such as an assertion ' that goes to or bears upon the casting or counting of votes '.</sentence>
 <sentence id="s21">10 The petition does include some alleged facts under the heading "The Senate Election Facts".</sentence>
 <sentence id="s22">Apart from setting out some general matters about "above and below the line" voting, the following facts are alleged, described as "particulars":

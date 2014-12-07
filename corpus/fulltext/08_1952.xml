@@ -3,12 +3,12 @@
 <name>Factory 5 Pty Ltd (In Liquidation) v State of Victoria [2008] FCA 1952 (19 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1952.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">privilege</catchphrase>
-<catchphrase "id=c1">client legal privilege</catchphrase>
-<catchphrase "id=c2">common interest privilege</catchphrase>
-<catchphrase "id=c3">time at which common interest assessed</catchphrase>
-<catchphrase "id=c4">whether joint venturers have common interest</catchphrase>
-<catchphrase "id=c5">evidence</catchphrase>
+<catchphrase id="c0">privilege</catchphrase>
+<catchphrase id="c1">client legal privilege</catchphrase>
+<catchphrase id="c2">common interest privilege</catchphrase>
+<catchphrase id="c3">time at which common interest assessed</catchphrase>
+<catchphrase id="c4">whether joint venturers have common interest</catchphrase>
+<catchphrase id="c5">evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -83,15 +83,15 @@
 <sentence id="s13">5 The material relied on by the applicant in support of the motion consisted of three affidavits sworn by Mr Glover and two by Mr Wily.</sentence>
 <sentence id="s14">In the first of Mr Glover's affidavits (21 May 2008) he says:
  
-&#8226; he is the sole director of Stage 5
+&amp;#8226; he is the sole director of Stage 5
  
-&#8226; he is also a director of the applicant, which is in liquidation
+&amp;#8226; he is also a director of the applicant, which is in liquidation
  
-&#8226; Stage 5 holds all the shares in the applicant
+&amp;#8226; Stage 5 holds all the shares in the applicant
  
-&#8226; he is in possession of the documents produced by Stage 5 in response to the subpoena, as a director of the applicant
+&amp;#8226; he is in possession of the documents produced by Stage 5 in response to the subpoena, as a director of the applicant
  
-&#8226; Stage 5 has an interest in maintaining privilege over the documents as it is the sole shareholder of the applicant "and therefore has an interest in the outcome of these proceedings".</sentence>
+&amp;#8226; Stage 5 has an interest in maintaining privilege over the documents as it is the sole shareholder of the applicant "and therefore has an interest in the outcome of these proceedings".</sentence>
 <sentence id="s15">Mr Glover then briefly lists the documents over which privilege is claimed (in an abbreviated form to that described at [3]).</sentence>
 <sentence id="s16">6 In his second affidavit (27 May 2008) Mr Glover lists more fully the privileged documents (see [3]).</sentence>
 <sentence id="s17">He also says:
@@ -114,11 +114,11 @@
 <sentence id="s24">He intended thereby to convey that he received copies of the documents "contemporaneously with their creation", that is to say, he received each of them on or about the dates they were created.</sentence>
 <sentence id="s25">Mr Glover also says:
  
-&#8226; documents 5.2, 5.3, 5.5 and 5.6 were addressed to him and received on or about the dates they bear
+&amp;#8226; documents 5.2, 5.3, 5.5 and 5.6 were addressed to him and received on or about the dates they bear
  
-&#8226; documents 5.1 and 5.4 were not addressed to him, but were provided to him by Simon Strapp, who was a director of the applicant at that time, on or about the dates they bear
+&amp;#8226; documents 5.1 and 5.4 were not addressed to him, but were provided to him by Simon Strapp, who was a director of the applicant at that time, on or about the dates they bear
  
-&#8226; he received document 5.7 on or about the date it bears, but cannot recall from whom he received it.</sentence>
+&amp;#8226; he received document 5.7 on or about the date it bears, but cannot recall from whom he received it.</sentence>
 <sentence id="s26">By way of further clarification of his earlier affidavits, Mr Glover says he received the documents "simultaneously in both of my capacities; that is, as a director of the applicant and a director of Stage 5".</sentence>
 <sentence id="s27">8 Mr Wily swore two affidavits.</sentence>
 <sentence id="s28">In the first (14 May 2008) he says that on 1 November 2005 he and Mr Hurst were appointed liquidators of the applicant.</sentence>
@@ -138,13 +138,13 @@
  
 (e) at a meeting of creditors on 24 March 2006, at which Paul Lindholm of IMF Limited (IMF) and Mr Hurst were present, it was resolved:
  
-&#8226; that the liquidators be authorised to enter into "a further funding arrangement to proceed with public examinations and any subsequent legal actions"
+&amp;#8226; that the liquidators be authorised to enter into "a further funding arrangement to proceed with public examinations and any subsequent legal actions"
  
-&#8226; that the liquidators be authorised to make periodic payments in respect of their remuneration accrued to date of $21,395.20
+&amp;#8226; that the liquidators be authorised to make periodic payments in respect of their remuneration accrued to date of $21,395.20
  
-&#8226; that the liquidators be authorised to make periodic payments in respect of their future remuneration, up to a maximum of $75,000
+&amp;#8226; that the liquidators be authorised to make periodic payments in respect of their future remuneration, up to a maximum of $75,000
  
-&#8226; that the liquidators' fees be uplifted at the rate of 25% in the event of successful recoveries by them;
+&amp;#8226; that the liquidators' fees be uplifted at the rate of 25% in the event of successful recoveries by them;
  
 (f) for the period 1 November 2005 to 30 April 2006 the applicant received from IMF $95,000 of litigation funding ($50,000 on 30 March 2006 and $45,000 on 13 April 2006) and made payments to its solicitors for legal fees (13 April 2006) of $94,510.56;
  
@@ -248,7 +248,7 @@ Dated: 19 December 2008
  
  Counsel for the Second and Third Respondents: A Herscope 
  
- Solicitors for the Second and Third Respondents: Moray &amp; Agnew 
+ Solicitors for the Second and Third Respondents: Moray &amp;amp; Agnew 
 
  Date of Hearing: 28 October 2008 
  

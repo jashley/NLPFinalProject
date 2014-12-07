@@ -3,15 +3,15 @@
 <name>Farnaby v Military Rehabilitation and Compensation Commission [2008] FCA 1911 (17 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1911.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c1">physical and sexual abuse during naval service</catchphrase>
-<catchphrase "id=c2">claim for compensation for post traumatic stress disorder</catchphrase>
-<catchphrase "id=c3">whether tribunal erred in failing to consider symptoms at time of lodgement of claim rather than time of hearing</catchphrase>
-<catchphrase "id=c4">whether tribunal failed to consider whether abuse was a cause, rather than the cause, of any mental injury suffered by the applicant</catchphrase>
-<catchphrase "id=c5">appeal from administrative appeals tribunal</catchphrase>
-<catchphrase "id=c6">whether appeal on a question of law</catchphrase>
-<catchphrase "id=c7">workers' compensation</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
+<catchphrase id="c0">appeal from administrative appeals tribunal</catchphrase>
+<catchphrase id="c1">physical and sexual abuse during naval service</catchphrase>
+<catchphrase id="c2">claim for compensation for post traumatic stress disorder</catchphrase>
+<catchphrase id="c3">whether tribunal erred in failing to consider symptoms at time of lodgement of claim rather than time of hearing</catchphrase>
+<catchphrase id="c4">whether tribunal failed to consider whether abuse was a cause, rather than the cause, of any mental injury suffered by the applicant</catchphrase>
+<catchphrase id="c5">appeal from administrative appeals tribunal</catchphrase>
+<catchphrase id="c6">whether appeal on a question of law</catchphrase>
+<catchphrase id="c7">workers' compensation</catchphrase>
+<catchphrase id="c8">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -31,9 +31,9 @@
 <sentence id="s12">However, it was not satisfied that he had suffered mental injury or that such symptoms as he had were caused by events at HMAS Leeuwin.</sentence>
 <sentence id="s13">6 Mr Read of counsel on behalf of Mr Farnaby submitted that the Tribunal erred in law:
  
-&#8226; in relation to the mental injury issue, by only considering Mr Farnaby's symptoms as at the time of the hearing in 2008 and not as at the time of his claim in 2002; and
+&amp;#8226; in relation to the mental injury issue, by only considering Mr Farnaby's symptoms as at the time of the hearing in 2008 and not as at the time of his claim in 2002; and
  
-&#8226; in relation to the causation issue, by finding that there was a cause unrelated to Mr Farnaby's employment in the Navy and going no further, as opposed to considering whether the employment was a cause.</sentence>
+&amp;#8226; in relation to the causation issue, by finding that there was a cause unrelated to Mr Farnaby's employment in the Navy and going no further, as opposed to considering whether the employment was a cause.</sentence>
 <sentence id="s14">7 If there was no error in the Tribunal's finding that Mr Farnaby did not suffer mental injury, then the causation issue would not arise.</sentence>
 <sentence id="s15">8 The foregoing is of course subject to the necessity to establish that the appeal is "on a question of law" within the meaning of s 44(1) of the Administrative Appeals Tribunal Act .</sentence>
 <sentence id="s16">EVIDENCE BEFORE THE TRIBUNAL 
@@ -276,14 +276,14 @@
 <sentence id="s195">56 As already mentioned, the causation issue does not arise once it is concluded that the Tribunal has properly found that Mr Farnaby did not suffer "mental injury" anyway.</sentence>
 <sentence id="s196">57 There is no doubt that in most areas of the law, where rights or liabilities depend on something having been caused by a particular event or circumstance, it is sufficient if the latter is a cause of the former, notwithstanding that there may be other, perhaps more important, causes.</sentence>
 <sentence id="s197">The case cited by Mr Read, Shorey v PT Limited [2003] HCA 27 ; (2003) 197 ALR 410 , a common law negligence case, is one example of this.</sentence>
-<sentence id="s198">Other examples are I &amp; L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited [2002] HCA 41 ; (2002) 210 CLR 109 (damages under the Trade Practices Act 1974 (Cth)) and Gould v Vaggelas [1985] HCA 85 ; (1985) 157 CLR 215 at 236 (fraudulent misrepresentation).</sentence>
+<sentence id="s198">Other examples are I &amp;amp; L Securities Pty Limited v HTW Valuers (Brisbane) Pty Limited [2002] HCA 41 ; (2002) 210 CLR 109 (damages under the Trade Practices Act 1974 (Cth)) and Gould v Vaggelas [1985] HCA 85 ; (1985) 157 CLR 215 at 236 (fraudulent misrepresentation).</sentence>
 <sentence id="s199">It may safely be assumed that the same rule would apply to compensation claims under the 1930 Act.</sentence>
 <sentence id="s200">58 However, read as a whole it is plain that the Tribunal's reasons exclude the HMAS Leeuwin events as having any causal effect on Mr Farnaby's condition.</sentence>
 <sentence id="s201">In the critical passage at [173], following on immediately from what is conceded to be a correct formulation of the issue, the Tribunal points out that:
  
-&#8226; Mr Farnaby's clinical symptoms commenced in the early 1980s (ie not 1968/1969);
+&amp;#8226; Mr Farnaby's clinical symptoms commenced in the early 1980s (ie not 1968/1969);
  
-&#8226; Those symptoms: 
+&amp;#8226; Those symptoms: 
  
  o "arose" as a consequence of his parents' deaths, which reopened issues arising from their departure to England in 1970; and
  
@@ -299,8 +299,8 @@
 <sentence id="s205">61 In his amended notice of appeal Mr Farnaby stated what were said to be the questions of law arising on the appeal in these terms (I have reversed the order in which the two alleged questions are stated so as to accord with the sequence in which the issues have been discussed above):
  
  
- &#8226; Whether the Tribunal was required to consider whether or not the Applicant suffered from symptoms outside the bounds of normal mental functioning and behaviour such as to constitute an injury ( Comcare v. Mooi (1996) 69 FCR 439) at the time of his claim to the Respondent for compensation [in January 2002] and since that time, rather than confining its consideration of that issue to the Applicant's continuing symptoms in 2008 (at [175]);
- &#8226; Whether the Tribunal has correctly directed itself as to the requirement to find a cause of the Applicant's symptoms, rather than searching, as it did, for the cause of those symptoms.</sentence>
+ &amp;#8226; Whether the Tribunal was required to consider whether or not the Applicant suffered from symptoms outside the bounds of normal mental functioning and behaviour such as to constitute an injury ( Comcare v. Mooi (1996) 69 FCR 439) at the time of his claim to the Respondent for compensation [in January 2002] and since that time, rather than confining its consideration of that issue to the Applicant's continuing symptoms in 2008 (at [175]);
+ &amp;#8226; Whether the Tribunal has correctly directed itself as to the requirement to find a cause of the Applicant's symptoms, rather than searching, as it did, for the cause of those symptoms.</sentence>
 <sentence id="s206">
  
  

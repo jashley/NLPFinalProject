@@ -3,10 +3,10 @@
 <name>Tucker, in the matter of Aero Inventory (UK) Limited v Aero Inventory (UK) Limited (No 2) [2009] FCA 1481 (10 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1481.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">cross-border insolvency act 2008 (cth)</catchphrase>
-<catchphrase "id=c1">uncitral model law on cross-border insolvency, articles 2, 16, 17, 20 and 21</catchphrase>
-<catchphrase "id=c2">orders that foreign main proceeding be recognised and entrusting the administration or realisation of debtor company's assets located in australia to foreign representatives</catchphrase>
-<catchphrase "id=c3">corporations</catchphrase>
+<catchphrase id="c0">cross-border insolvency act 2008 (cth)</catchphrase>
+<catchphrase id="c1">uncitral model law on cross-border insolvency, articles 2, 16, 17, 20 and 21</catchphrase>
+<catchphrase id="c2">orders that foreign main proceeding be recognised and entrusting the administration or realisation of debtor company's assets located in australia to foreign representatives</catchphrase>
+<catchphrase id="c3">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -77,7 +77,7 @@ This definition directs attention to the definition of "foreign proceeding" whic
 Paragraph 11 of Schedule B1 provides that the court may make an administration order only if satisfied that the company is or is likely to become unable to pay its debts and that the administration order is reasonably likely to achieve the purpose of the administration.</sentence>
 <sentence id="s36">A person may be appointed as administrator only if he is qualified to act as an insolvency practitioner in relation to the company (para 6).</sentence>
 <sentence id="s37">An administrator under Schedule B1 bears some similarity to an administration under Part 5.3A of the Corporations Act 2001 (Cth) (Corporations Act).</sentence>
-<sentence id="s38">However, what I have already said also shows that there also some differences between the two r&eacute;gimes.</sentence>
+<sentence id="s38">However, what I have already said also shows that there also some differences between the two r&amp;eacute;gimes.</sentence>
 <sentence id="s39">Schedule B1 contains provisions for a moratorium on the enforcement of creditors' remedies, the making of reports to creditors by the administrator, the convening of creditors' meetings, and the making of decisions by creditors at their meetings in relation to proposals made by the administrator.</sentence>
 <sentence id="s40">The UK proceeding affected creditors collectively and did not affect only the private rights and obligations of the immediate parties to it.</sentence>
 <sentence id="s41">The powers of an administrator under the Insolvency Act are set out in Schedule 1 to that Act and are repeated in Appendix A to the administration order made in the UK Proceeding.</sentence>

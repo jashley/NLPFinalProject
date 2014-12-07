@@ -3,13 +3,13 @@
 <name>Keynes v Rural Directions Pty Ltd (No 2) (includes Corrigendum dated 16 July 2009) [2009] FCA 567 (3 June 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/567.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">financial products</catchphrase>
-<catchphrase "id=c1">derivatives</catchphrase>
-<catchphrase "id=c2">applications for summary judgment on basis of whether forward contracts for supply of grain are financial products or derivatives</catchphrase>
-<catchphrase "id=c3">whether arrangement permits seller's obligations to be wholly settled by cash or set-off rather than delivery</catchphrase>
-<catchphrase "id=c4">whether usual market practice permits seller's obligations to be closed out by matching up of arrangement with another arrangement of same kind under which seller has offsetting obligations to buy</catchphrase>
-<catchphrase "id=c5">whether value of arrangement varies by reference to value of something else</catchphrase>
-<catchphrase "id=c6">corporations</catchphrase>
+<catchphrase id="c0">financial products</catchphrase>
+<catchphrase id="c1">derivatives</catchphrase>
+<catchphrase id="c2">applications for summary judgment on basis of whether forward contracts for supply of grain are financial products or derivatives</catchphrase>
+<catchphrase id="c3">whether arrangement permits seller's obligations to be wholly settled by cash or set-off rather than delivery</catchphrase>
+<catchphrase id="c4">whether usual market practice permits seller's obligations to be closed out by matching up of arrangement with another arrangement of same kind under which seller has offsetting obligations to buy</catchphrase>
+<catchphrase id="c5">whether value of arrangement varies by reference to value of something else</catchphrase>
+<catchphrase id="c6">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -275,7 +275,7 @@ Order 11 r 16 provides, relevantly:
 <sentence id="s178">The other cause of action pleaded by the plaintiffs in the ASOC against ABB Grain relates to the ABB Grain basis contract.</sentence>
 <sentence id="s179">ABB Grain applies for that pleading to be struck out on the ground that it has a tendency to cause prejudice, embarrassment or delay in the proceeding.</sentence>
 <sentence id="s180">Embarrassment in the context of O 11 r 16 includes a pleading "which is susceptible of various meanings, or contains inconsistent allegations or in which alternatives are confusingly intermixed or in which irrelevant allegations are made tending to increase expense.</sentence>
-<sentence id="s181">This list is not intended to be exhaustive": Bartlett v Swan Television &amp; Radio Broadcasters Pty Ltd [1995] FCA 1429 ; [1995] ATPR 41-434 at 40,889 per Carr J.</sentence>
+<sentence id="s181">This list is not intended to be exhaustive": Bartlett v Swan Television &amp;amp; Radio Broadcasters Pty Ltd [1995] FCA 1429 ; [1995] ATPR 41-434 at 40,889 per Carr J.</sentence>
 <sentence id="s182">For reasons I will give, the plaintiffs' pleading in the ASOC in relation to the ABB Grain basis contract is embarrassing and should be struck out.</sentence>
 <sentence id="s183">Again, for reasons I will give, the pleading in the proposed SASOC does not overcome the defects, and leave to amend in terms of that document will be refused.</sentence>
 <sentence id="s184">The plaintiffs may apply for leave to replead their cause of action in relation to the ABB Grain basis contract, but I will hear from the parties if such an application is made.</sentence>
@@ -680,7 +680,7 @@ Dated: 3 June 2009
  
  Counsel for the Plaintiffs: Mr B M O'Brien 
  
- Solicitor for the Plaintiffs: Proud &amp; Company 
+ Solicitor for the Plaintiffs: Proud &amp;amp; Company 
  
  The First Defendant did not appear 
  The Second Defendant did not appear 

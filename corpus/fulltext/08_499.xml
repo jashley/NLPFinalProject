@@ -3,19 +3,19 @@
 <name>SZKMS v Minister for Immigration and Citizenship [2008] FCA 499 (21 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/499.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">where new grounds sought to be raised on appeal not argued before the federal magistrate</catchphrase>
-<catchphrase "id=c1">where if a party was entitled to raise issues for the first time on appeal, the appeal court will become de facto the primary court</catchphrase>
-<catchphrase "id=c2">whether enough that a party is unrepresented or that the minister will not suffer any prejudice</catchphrase>
-<catchphrase "id=c3">whether in the interests of justice to allow grounds of appeal not advanced before the federal magistrates court</catchphrase>
-<catchphrase "id=c4">whether any of the proposed grounds had any merit</catchphrase>
-<catchphrase "id=c5">application to amend rejected.</catchphrase>
-<catchphrase "id=c6">where husband and wife appellants</catchphrase>
-<catchphrase "id=c7">whether tribunal failed to consider an integer of the appellant wife's claim</catchphrase>
-<catchphrase "id=c8">whether tribunal failed to comply with s 425</catchphrase>
-<catchphrase "id=c9">whether question of relocation should have been considered</catchphrase>
-<catchphrase "id=c10">appeals dismissed.</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
-<catchphrase "id=c12">migration</catchphrase>
+<catchphrase id="c0">where new grounds sought to be raised on appeal not argued before the federal magistrate</catchphrase>
+<catchphrase id="c1">where if a party was entitled to raise issues for the first time on appeal, the appeal court will become de facto the primary court</catchphrase>
+<catchphrase id="c2">whether enough that a party is unrepresented or that the minister will not suffer any prejudice</catchphrase>
+<catchphrase id="c3">whether in the interests of justice to allow grounds of appeal not advanced before the federal magistrates court</catchphrase>
+<catchphrase id="c4">whether any of the proposed grounds had any merit</catchphrase>
+<catchphrase id="c5">application to amend rejected.</catchphrase>
+<catchphrase id="c6">where husband and wife appellants</catchphrase>
+<catchphrase id="c7">whether tribunal failed to consider an integer of the appellant wife's claim</catchphrase>
+<catchphrase id="c8">whether tribunal failed to comply with s 425</catchphrase>
+<catchphrase id="c9">whether question of relocation should have been considered</catchphrase>
+<catchphrase id="c10">appeals dismissed.</catchphrase>
+<catchphrase id="c11">practice and procedure</catchphrase>
+<catchphrase id="c12">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -30,10 +30,10 @@
 <sentence id="s7">The appellant husband claimed a well-founded fear of persecution because of his political opinions.</sentence>
 <sentence id="s8">He claimed that as a member of the National Youth Front, being the student wing of the United National Party (UNP), he had worked for a Cabinet Minister, the Prime Minister, and a local politician.</sentence>
 <sentence id="s9">He claimed that throughout this period he received threats to stop working for the UNP, including being beaten and having a gun put in his mouth.</sentence>
-<sentence id="s10">On the night of local elections the appellant husband claimed that while he was at the politician's house, political opponents entered the appellant husband's home whilst his then fianc&eacute;e (SZKMT), mother and aunt were at home.</sentence>
-<sentence id="s11">They destroyed some items, asked where the appellant husband was and, when the appellant wife who was then his fianc&eacute;e refused to answer, they mistreated her and threatened to kill her.</sentence>
-<sentence id="s12">The appellant husband claimed that shortly thereafter he made a complaint to the police and he and his then fianc&eacute;e moved to his sister's house in Kandy.</sentence>
-<sentence id="s13">He claimed to have been beaten and have his life threatened by supporters of the People's Liberation Front (Janatha Vimukthi Peramuna (JVP)) when standing at a bus stop with his fianc&eacute;e in Kandy.</sentence>
+<sentence id="s10">On the night of local elections the appellant husband claimed that while he was at the politician's house, political opponents entered the appellant husband's home whilst his then fianc&amp;eacute;e (SZKMT), mother and aunt were at home.</sentence>
+<sentence id="s11">They destroyed some items, asked where the appellant husband was and, when the appellant wife who was then his fianc&amp;eacute;e refused to answer, they mistreated her and threatened to kill her.</sentence>
+<sentence id="s12">The appellant husband claimed that shortly thereafter he made a complaint to the police and he and his then fianc&amp;eacute;e moved to his sister's house in Kandy.</sentence>
+<sentence id="s13">He claimed to have been beaten and have his life threatened by supporters of the People's Liberation Front (Janatha Vimukthi Peramuna (JVP)) when standing at a bus stop with his fianc&amp;eacute;e in Kandy.</sentence>
 <sentence id="s14">When he returned to Columbo he was dragged into a car, had a gun pointed at him and warned that if he continued in politics he would "definitely" be killed.</sentence>
 <sentence id="s15">The appellant husband claimed that as a result of his fear he became sick and he and the appellant wife moved to her aunt's house in Ganemulla before leaving for Australia.</sentence>
 <sentence id="s16">He feared that if he returned to Sri Lanka he would be killed by his "political enemies".</sentence>
@@ -301,7 +301,7 @@ Dated: 21 April 2008
 
  Counsel for the Appellants: Dr J Azzi 
  
- Solicitor for the Appellants: Davidson James &amp; Associates 
+ Solicitor for the Appellants: Davidson James &amp;amp; Associates 
  
  Counsel for the First Respondent: Mr T Reilly 
  

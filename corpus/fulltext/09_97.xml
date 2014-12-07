@@ -3,12 +3,12 @@
 <name>MZXQS v Minister for Immigration and Citizenship [2009] FCA 97 (17 February 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/97.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">visa</catchphrase>
-<catchphrase "id=c1">protection visa</catchphrase>
-<catchphrase "id=c2">whether refugee review tribunal failed to consider all claims of appellants</catchphrase>
-<catchphrase "id=c3">whether claim based on persecution for imputed political opinion due to sister's political affiliations distinct from claim to membership of particular social group (family), or from claim based on imputed political opinion as tamil</catchphrase>
-<catchphrase "id=c4">whether tribunal failed to consider claim based on membership of particular social group, being failed asylum seekers returning to sri lanka</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase id="c0">visa</catchphrase>
+<catchphrase id="c1">protection visa</catchphrase>
+<catchphrase id="c2">whether refugee review tribunal failed to consider all claims of appellants</catchphrase>
+<catchphrase id="c3">whether claim based on persecution for imputed political opinion due to sister's political affiliations distinct from claim to membership of particular social group (family), or from claim based on imputed political opinion as tamil</catchphrase>
+<catchphrase id="c4">whether tribunal failed to consider claim based on membership of particular social group, being failed asylum seekers returning to sri lanka</catchphrase>
+<catchphrase id="c5">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -16,7 +16,7 @@
  These two cases, heard together by the consent of the parties, raise the question whether the Refugee Review Tribunal considered all of the grounds on which each of the appellants claims to be entitled to a protection visa.</sentence>
 <sentence id="s1">Each appeal is from a judgment of the Federal Magistrates Court of Australia.</sentence>
 <sentence id="s2">The two cases were heard together in that court.</sentence>
-<sentence id="s3">The reasons for judgment of the learned federal magistrate in both cases are published as MZXQS v MIAC &amp; Anor and MZXQT v MIAC &amp; Anor [2008] FMCA 372.</sentence>
+<sentence id="s3">The reasons for judgment of the learned federal magistrate in both cases are published as MZXQS v MIAC &amp;amp; Anor and MZXQT v MIAC &amp;amp; Anor [2008] FMCA 372.</sentence>
 <sentence id="s4">In each case, the federal magistrate dismissed the appellant's application for judicial review of a decision of the Refugee Review Tribunal ("the Tribunal").</sentence>
 <sentence id="s5">In each case, the Tribunal affirmed a decision of a delegate of the then Minister for Immigration and Multicultural and Indigenous Affairs (now the Minister for Immigration and Citizenship) (in both cases, "the Minister"), refusing to grant to the relevant appellant a protection visa.</sentence>
 <sentence id="s6">The appellants are citizens of Sri Lanka, of Tamil ethnic origin.</sentence>
@@ -226,13 +226,13 @@
 <sentence id="s121">They were claims based on imputed political opinion as a result of the appellants' sister's position, and claims based on the proposition that they would be members of a particular social group, being citizens returning to Sri Lanka after making unsuccessful claims to be refugees in other countries.</sentence>
 <sentence id="s122">It is well-established that the Tribunal is obliged to deal with each and every claim made by an applicant for review of a decision refusing to grant a protection visa.</sentence>
 <sentence id="s123">Failure to do so amounts to jurisdictional error.</sentence>
-<sentence id="s124">As Allsop J (with whom Spender J concurred) said in Htun v Minister for Immigration &amp; Multicultural Affairs [2001] FCA 1802 (2001) 194 ALR 244 at [42] : 
+<sentence id="s124">As Allsop J (with whom Spender J concurred) said in Htun v Minister for Immigration &amp;amp; Multicultural Affairs [2001] FCA 1802 (2001) 194 ALR 244 at [42] : 
  The requirement to review the decision under s 414 of the [ Migration ] Act requires the tribunal to consider the claims of the applicant.</sentence>
 <sentence id="s125">To make a decision without having considered all the claims is to fail to complete the exercise of the jurisdiction embarked on.</sentence>
 <sentence id="s126">
 
  
-See also Merkel J at [8] and SCAT v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCAFC 80 (2003) 76 ALD 625 at [26] and [30] per Madgwick and Conti JJ.</sentence>
+See also Merkel J at [8] and SCAT v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2003] FCAFC 80 (2003) 76 ALD 625 at [26] and [30] per Madgwick and Conti JJ.</sentence>
 <sentence id="s127">The federal magistrate was therefore in error in failing to find in favour of the appellants on each of the two grounds to which I have referred.</sentence>
 <sentence id="s128">His Honour should have found that there was jurisdictional error on the part of the Tribunal in relation to the decision in each of the appellant's cases.</sentence>
 <sentence id="s129">His Honour should have made the orders sought in the applications to the Federal Magistrates Court, or similar orders, having the effect of quashing the Tribunal's decision in each case and remitting each matter to the Tribunal to be heard and determined according to law.</sentence>
@@ -250,7 +250,7 @@ Dated: 16 February 2009
  
  Counsel for the Appellants: Mr J Gibson 
  
- Solicitor for the Appellants: Wimal &amp; Associates 
+ Solicitor for the Appellants: Wimal &amp;amp; Associates 
  
  Counsel for the Respondents: Mr W Mosley 
  

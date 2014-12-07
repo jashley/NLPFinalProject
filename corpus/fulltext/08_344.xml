@@ -3,11 +3,11 @@
 <name>Australian Competition and Consumer Commission v FChem (Aust) Limited [2008] FCA 344 (20 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/344.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">price fixing</catchphrase>
-<catchphrase "id=c1">consent orders</catchphrase>
-<catchphrase "id=c2">whether consent orders should be made</catchphrase>
-<catchphrase "id=c3">trade practices act 1974 (cth) ss 45(2)(a)(ii) , 76 (10(e).</catchphrase>
-<catchphrase "id=c4">trade practices</catchphrase>
+<catchphrase id="c0">price fixing</catchphrase>
+<catchphrase id="c1">consent orders</catchphrase>
+<catchphrase id="c2">whether consent orders should be made</catchphrase>
+<catchphrase id="c3">trade practices act 1974 (cth) ss 45(2)(a)(ii) , 76 (10(e).</catchphrase>
+<catchphrase id="c4">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -139,10 +139,10 @@ Burchett and Kiefel JJ referred to numerous authorities supporting such proposit
  
  When the Court approaches the task of assessing a penalty under s 76, or of determining whether an agreed penalty is appropriate, there are certain principles which must be kept steadily in mind.</sentence>
 <sentence id="s86">The section itself lays down that the penalty is to be "appropriate having regard to all relevant matters", and then indicates certain matters which the legislature regarded as relevant, being: 
- &#8226; the nature and extent of the act or omission.</sentence>
-<sentence id="s87">&#8226; the nature and extent... of any loss or damage suffered as a result of the act or omission.</sentence>
-<sentence id="s88">&#8226; the circumstances in which the act or omission took place.</sentence>
-<sentence id="s89">&#8226; whether the person [contravening] has previously been found by the Court in proceedings under [Part VI of the Act] to have engaged in any similar conduct.</sentence>
+ &amp;#8226; the nature and extent of the act or omission.</sentence>
+<sentence id="s87">&amp;#8226; the nature and extent... of any loss or damage suffered as a result of the act or omission.</sentence>
+<sentence id="s88">&amp;#8226; the circumstances in which the act or omission took place.</sentence>
+<sentence id="s89">&amp;#8226; whether the person [contravening] has previously been found by the Court in proceedings under [Part VI of the Act] to have engaged in any similar conduct.</sentence>
 <sentence id="s90">
 
 27 In Trade Practices Commission v TNT Australia Pty Ltd [1995] ATPR 41-375 Burchett J (at 40,165) said:
@@ -200,9 +200,9 @@ His Honour did not consider that either retribution or rehabilitation have 'any 
 <sentence id="s123">It should reflect the will of Parliament that the commercial standards laid down in the Act must be observed, but not be so high as to be oppressive.</sentence>
 <sentence id="s124">
 
-See also Toohey J in Trade Practices Commission v Mobil Oil Australia Ltd [1984] FCA 363 ; (1985) 4 FCR 296 at 297-298; Trade Practices Commission v Prestige Motors Pty Ltd &amp; Ors [1994] ATPR 41-359 at 42,699 per Leigh J; Pye Industries Sales Pty Ltd v Trade Practices Commission [1979] ATPR 40-124 at 18,326; Trade Practices Commission v Carlton United Breweries Ltd and Others [1990] FCA 248 ; (1990) 24 FCR 532 at 542 and Australian Competition and Consumer Commission v Leahy Petroleum (No 3) (2005) ATPR 42-052 at 42,648.</sentence>
-<sentence id="s125">32 A further consideration referred to by Burchett and Kiefel JJ in NW Frozen Foods [1996] FCA 1134 ; 71 FCR 285 at 295 is the objective of securing even-handedness: see also Trade Practices Commission v Axive Pty Ltd &amp; Ors [1994] ATPR 41-368 ; Trade Practices Commission v Annand and Thompson Pty.</sentence>
-<sentence id="s126">Ltd. [1987] ATPR 40-772 ; Australian Competition and Consumer Commission v Ampol Petroleum (Victoria) Pty Ltd &amp; Ors [1996] ATPR 41-469.</sentence>
+See also Toohey J in Trade Practices Commission v Mobil Oil Australia Ltd [1984] FCA 363 ; (1985) 4 FCR 296 at 297-298; Trade Practices Commission v Prestige Motors Pty Ltd &amp;amp; Ors [1994] ATPR 41-359 at 42,699 per Leigh J; Pye Industries Sales Pty Ltd v Trade Practices Commission [1979] ATPR 40-124 at 18,326; Trade Practices Commission v Carlton United Breweries Ltd and Others [1990] FCA 248 ; (1990) 24 FCR 532 at 542 and Australian Competition and Consumer Commission v Leahy Petroleum (No 3) (2005) ATPR 42-052 at 42,648.</sentence>
+<sentence id="s125">32 A further consideration referred to by Burchett and Kiefel JJ in NW Frozen Foods [1996] FCA 1134 ; 71 FCR 285 at 295 is the objective of securing even-handedness: see also Trade Practices Commission v Axive Pty Ltd &amp;amp; Ors [1994] ATPR 41-368 ; Trade Practices Commission v Annand and Thompson Pty.</sentence>
+<sentence id="s126">Ltd. [1987] ATPR 40-772 ; Australian Competition and Consumer Commission v Ampol Petroleum (Victoria) Pty Ltd &amp;amp; Ors [1996] ATPR 41-469.</sentence>
 <sentence id="s127">At 298 Burchett and Kiefel JJ also acknowledged that the opinion of the Commission was a relevant matter, but observed that the mere fact that the Commission may have specialist knowledge and information available to it which might lead to a recommended penalty should not have any bearing upon the function of the Court, as the Court bears the ultimate responsibility for the assessment of penalty.</sentence>
 <sentence id="s128">33 Parity in the imposition of penalties is desirable in respect of contraveners involved in the same proceedings: see Schneider Electric (Australia) Pty Ltd v Australian Competition and Consumer Commission [2003] FCAFC 2 ; (2003) 127 FCR 170 at [52] to [58].</sentence>
 <sentence id="s129">Parity of penalties against contraveners in other proceedings is also an important objective in assessing penalty: see Australian Competition and Consumer Commission v Universal Music Australia Pty Limited (No 2) (2002) ATPR 41-862.</sentence>

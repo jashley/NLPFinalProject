@@ -3,12 +3,12 @@
 <name>Your Water Your Say Inc v Minister for the Environment, Heritage and the Arts [2008] FCA 670 (16 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/670.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">proposed desalination plant</catchphrase>
-<catchphrase "id=c1">application for review of alleged decision that certain preliminary works did not require approval under the environment protection and biodiversity conservation act 1999 (cth)</catchphrase>
-<catchphrase "id=c2">whether there was a decision in regard to preliminary works excluded from referral to federal minister</catchphrase>
-<catchphrase "id=c3">whether the making of that alleged decision was beyond the power of the federal minister</catchphrase>
-<catchphrase "id=c4">whether failure to consider potential greenhouse gas emissions and impact on matters of national environmental significance</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
+<catchphrase id="c0">proposed desalination plant</catchphrase>
+<catchphrase id="c1">application for review of alleged decision that certain preliminary works did not require approval under the environment protection and biodiversity conservation act 1999 (cth)</catchphrase>
+<catchphrase id="c2">whether there was a decision in regard to preliminary works excluded from referral to federal minister</catchphrase>
+<catchphrase id="c3">whether the making of that alleged decision was beyond the power of the federal minister</catchphrase>
+<catchphrase id="c4">whether failure to consider potential greenhouse gas emissions and impact on matters of national environmental significance</catchphrase>
+<catchphrase id="c5">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -28,20 +28,20 @@
 <sentence id="s12">4 The Preliminary Works consist of:
  
  
- &#8226; Geotechnical drilling and sampling to determine site conditions, including onshore and offshore drilling and horizontal directional drilling from onshore entry points, as well as digging of test pits;
- &#8226; Installation of pipes into horizontal directional drill holes from onshore entry points;
- &#8226; Construction of offshore marine structures above the seabed for seawater intake and discharge;
- &#8226; Construction and temporary operation of seawater sampling units;
- &#8226; Installation and operation of one or more pre-treatment and/or desalination pilot plants of a maximum aggregate capacity of 6 megalitres per day;
- &#8226; Provision of power and water supply that is adequate for the construction and operation of the works... 
+ &amp;#8226; Geotechnical drilling and sampling to determine site conditions, including onshore and offshore drilling and horizontal directional drilling from onshore entry points, as well as digging of test pits;
+ &amp;#8226; Installation of pipes into horizontal directional drill holes from onshore entry points;
+ &amp;#8226; Construction of offshore marine structures above the seabed for seawater intake and discharge;
+ &amp;#8226; Construction and temporary operation of seawater sampling units;
+ &amp;#8226; Installation and operation of one or more pre-treatment and/or desalination pilot plants of a maximum aggregate capacity of 6 megalitres per day;
+ &amp;#8226; Provision of power and water supply that is adequate for the construction and operation of the works... 
  
  
 5 With the exception of the inlet and outlet pipes, which will be decommissioned in situ, the Preliminary Works are temporary in nature and will be removed and the site rehabilitated at the completion of the operation of the testing regime.</sentence>
 <sentence id="s13">6 On 4 February 2008 the delegate of the Federal Minister made a decision under s 75(1) that the referred Project was a controlled action and that the controlling provisions were: 
  
  
- &#8226; ss 16 and 17B: Wetlands of international importance; and 
- &#8226; ss 18 and 18A: Listed threatened species and communities.</sentence>
+ &amp;#8226; ss 16 and 17B: Wetlands of international importance; and 
+ &amp;#8226; ss 18 and 18A: Listed threatened species and communities.</sentence>
 <sentence id="s14">
  
 
@@ -53,14 +53,14 @@
  
 9 The applicant says:
  
-&#8226; There was a "decision" (which I shall refer to as "the alleged Preliminary Works decision") by the delegate to exclude the Preliminary Works;
+&amp;#8226; There was a "decision" (which I shall refer to as "the alleged Preliminary Works decision") by the delegate to exclude the Preliminary Works;
  
-&#8226; The alleged Preliminary Works decision was beyond the power of the Minister because the Preliminary Works were a "component" of, and could not, as a matter of law, be "carved out" of, the Project: Administrative Decisions (Judicial Review) Act 1977 (Cth) (AD(JR) Act) s 5(1)(d).</sentence>
+&amp;#8226; The alleged Preliminary Works decision was beyond the power of the Minister because the Preliminary Works were a "component" of, and could not, as a matter of law, be "carved out" of, the Project: Administrative Decisions (Judicial Review) Act 1977 (Cth) (AD(JR) Act) s 5(1)(d).</sentence>
 <sentence id="s19">This "carve out" amounted to "de facto development consent" for the Preliminary Works;
  
-&#8226; In making the s 75 Decision the delegate failed to take into account a relevant consideration, namely linkages between additional greenhouse gas emissions and potential adverse impacts on matters protected by the EPBC Act;
+&amp;#8226; In making the s 75 Decision the delegate failed to take into account a relevant consideration, namely linkages between additional greenhouse gas emissions and potential adverse impacts on matters protected by the EPBC Act;
  
-&#8226; The Preliminary Works will have or are likely to have a significant impact on matters of national environmental significance.</sentence>
+&amp;#8226; The Preliminary Works will have or are likely to have a significant impact on matters of national environmental significance.</sentence>
 <sentence id="s20">The State of Victoria should be restrained from carrying them out unless and until it obtains approval under Pt 9 of the EPBC Act.</sentence>
 <sentence id="s21">The Referral 
  
@@ -83,9 +83,9 @@
  
 11 Under the heading "Power Supply" the Referral stated: 
  Alternative methods of delivering an adequate Power Supply to the project are under investigation.</sentence>
-<sentence id="s33">Three broad sets of options are potentially available for the provision of an adequate and reliable power supply to the project: &#8226; establishing new 220 kV, 132 kV or 66 kV transmission lines from optional connection points to the north, east or west of the region.</sentence>
-<sentence id="s34">&#8226; establishing a new gas fired power station at or near the Desalination Plant or a remote location.</sentence>
-<sentence id="s35">&#8226; hybrid options combining wind power backed up by gas fired power station or transmission lines to ensure reliability of supply.</sentence>
+<sentence id="s33">Three broad sets of options are potentially available for the provision of an adequate and reliable power supply to the project: &amp;#8226; establishing new 220 kV, 132 kV or 66 kV transmission lines from optional connection points to the north, east or west of the region.</sentence>
+<sentence id="s34">&amp;#8226; establishing a new gas fired power station at or near the Desalination Plant or a remote location.</sentence>
+<sentence id="s35">&amp;#8226; hybrid options combining wind power backed up by gas fired power station or transmission lines to ensure reliability of supply.</sentence>
 <sentence id="s36">Potential sites and routes as well as technology options (eg different types of transmission poles, undergrounding cables) will be investigated and evaluated during the EES process, and the preferred and any feasible alternatives will be put forward in the exhibited EES.</sentence>
 <sentence id="s37">12 Under the heading "Excluded works and activities" the Referral stated:
  The following works and activities are excluded from the scope of this referral... 
@@ -171,7 +171,7 @@ Part 3 sets out the various matters of national environmental significance which
 <sentence id="s90">Injunction to restrain Preliminary Works 
  
 23 The applicant has not provided any relevant or admissible evidence to show that the Preliminary Works will cause environmental damage.</sentence>
-<sentence id="s91">24 The applicant sought to tender two reports by a company called Brett Lane &amp; Associates Pty Ltd dated December 2002 and February 2003.</sentence>
+<sentence id="s91">24 The applicant sought to tender two reports by a company called Brett Lane &amp;amp; Associates Pty Ltd dated December 2002 and February 2003.</sentence>
 <sentence id="s92">These were exhibited to an affidavit by Mr John Wright, the vice-president of the applicant.</sentence>
 <sentence id="s93">The author of the report did not swear an affidavit, indeed was not identified unless the assumption can be made that it was a Mr Brett Lane.</sentence>
 <sentence id="s94">The report was thus hearsay and not admissible: Evidence Act 1995 (Cth) s 59.</sentence>

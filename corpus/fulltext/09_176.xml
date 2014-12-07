@@ -3,12 +3,12 @@
 <name>Milbourn v Repatriation Commission [2009] FCA 176 (3 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/176.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">extent of administrative appeals tribunal's obligations to provide reasons and to state its findings on material questions of fact and the evidence or other material on which those findings were based</catchphrase>
-<catchphrase "id=c1">widow's pension</catchphrase>
-<catchphrase "id=c2">whether husband's death was 'war-caused'</catchphrase>
-<catchphrase "id=c3">tribunal not reasonably satisfied on the balance of probabilities that veteran's death was attributable to or arose out of a war-caused smoking habit</catchphrase>
-<catchphrase "id=c4">administrative law</catchphrase>
-<catchphrase "id=c5">defence and war</catchphrase>
+<catchphrase id="c0">extent of administrative appeals tribunal's obligations to provide reasons and to state its findings on material questions of fact and the evidence or other material on which those findings were based</catchphrase>
+<catchphrase id="c1">widow's pension</catchphrase>
+<catchphrase id="c2">whether husband's death was 'war-caused'</catchphrase>
+<catchphrase id="c3">tribunal not reasonably satisfied on the balance of probabilities that veteran's death was attributable to or arose out of a war-caused smoking habit</catchphrase>
+<catchphrase id="c4">administrative law</catchphrase>
+<catchphrase id="c5">defence and war</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -470,7 +470,7 @@ Dated: 3 March 2009
  
  Counsel for the Applicant: M G Vincent 
  
- Solicitor for the Applicant: Kemp &amp; Co Lawyers 
+ Solicitor for the Applicant: Kemp &amp;amp; Co Lawyers 
  
  Counsel for the Respondent: G T Johnson 
  

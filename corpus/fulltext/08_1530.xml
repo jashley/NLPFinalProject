@@ -3,11 +3,11 @@
 <name>Australian Communications and Media Authority v WE.NET.AU Pty Ltd [2008] FCA 1530 (15 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1530.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">breach of telecommunications act 1997 (cth) (the act)</catchphrase>
-<catchphrase "id=c1">civil penalty provisions</catchphrase>
-<catchphrase "id=c2">proposed orders jointly submitted to court including declarations, pecuniary penalties, injunctions and costs</catchphrase>
-<catchphrase "id=c3">relevant factors to take into consideration in assessing appropriateness of pecuniary penalties</catchphrase>
-<catchphrase "id=c4">telecommunications</catchphrase>
+<catchphrase id="c0">breach of telecommunications act 1997 (cth) (the act)</catchphrase>
+<catchphrase id="c1">civil penalty provisions</catchphrase>
+<catchphrase id="c2">proposed orders jointly submitted to court including declarations, pecuniary penalties, injunctions and costs</catchphrase>
+<catchphrase id="c3">relevant factors to take into consideration in assessing appropriateness of pecuniary penalties</catchphrase>
+<catchphrase id="c4">telecommunications</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,17 +27,17 @@
  
 3 Although the parties have not made a joint submission as to background facts, the conduct giving rise to the application can be summarised as follows:
  
-&#8226; In 2005, 2006 and 2007 the first respondent offered its internet access services on standard terms and conditions which purported to impose various charges on customers if customers referred disputes to the Telecommunications Industry Ombudsman (TIO).</sentence>
+&amp;#8226; In 2005, 2006 and 2007 the first respondent offered its internet access services on standard terms and conditions which purported to impose various charges on customers if customers referred disputes to the Telecommunications Industry Ombudsman (TIO).</sentence>
 <sentence id="s8">As a supplier of internet access services, the first respondent was a carriage service provider within the meaning of s 87(1) of the Act , and an eligible carriage service provider within the meaning of s 127 Telecommunications (Consumer Protection and Service Standards) Act 1999 (Cth) ("T(CPSS) Act ").</sentence>
 <sentence id="s9">As a result the first respondent was subject to the TIO Scheme (s 128 T(CPSS) Act ).</sentence>
 <sentence id="s10">It was a condition of the TIO Scheme that customers were not liable to pay any fee or charge (however described) to the provider of a carriage service in respect of a complaint made by a customer to the TIO about the carriage service (s 128(4) T(CPSS) Act ).</sentence>
-<sentence id="s11">&#8226; On 10 March 2006 the TIO issued a determination to the first respondent, pursuant to the TIO Scheme, requiring the first respondent to provide a refund of $35.00 to a customer within 14 days.</sentence>
+<sentence id="s11">&amp;#8226; On 10 March 2006 the TIO issued a determination to the first respondent, pursuant to the TIO Scheme, requiring the first respondent to provide a refund of $35.00 to a customer within 14 days.</sentence>
 <sentence id="s12">The first respondent did not comply with the determination until July 2007, thereby failing to comply with cl 6.1 of the TIO Constitution , s 132 T(CPSS) Act , and a service provider rule within the meaning of s 98 and Sch 2 of the Act .</sentence>
 <sentence id="s13">Accordingly the first respondent acted in contravention of s 101(1) of the Act .</sentence>
-<sentence id="s14">&#8226; On 26 November 2006, the TIO issued a determination to the first respondent pursuant to the TIO Scheme, requiring the first respondent to provide a refund of $34.95 to another customer within a specified timeframe.</sentence>
+<sentence id="s14">&amp;#8226; On 26 November 2006, the TIO issued a determination to the first respondent pursuant to the TIO Scheme, requiring the first respondent to provide a refund of $34.95 to another customer within a specified timeframe.</sentence>
 <sentence id="s15">The first respondent did not comply with the determination until July 2007, thereby failing to comply with cl 6.1 of the TIO Constitution , s 132 T(CPSS) Act , and a service provider rule within the meaning of s 98 and Sch 2 of the Act .</sentence>
 <sentence id="s16">Accordingly the first respondent acted in contravention of s 101(1) of the Act .</sentence>
-<sentence id="s17">&#8226; On 9 July 2007 the applicant issued a direction to the respondents pursuant to s 102(2) of the Act by which the first respondent was required to remedy its terms and conditions so as not to purport to impose any charge on customers in respect of complaints to the TIO, by no later than 5pm on 23 July 2007.</sentence>
+<sentence id="s17">&amp;#8226; On 9 July 2007 the applicant issued a direction to the respondents pursuant to s 102(2) of the Act by which the first respondent was required to remedy its terms and conditions so as not to purport to impose any charge on customers in respect of complaints to the TIO, by no later than 5pm on 23 July 2007.</sentence>
 <sentence id="s18">The respondents did not comply with the direction from 23 July 2007 to 1 January 2008.</sentence>
 <sentence id="s19">4 The applicant claimed that this conduct by the respondents was in contravention of s 101(1) and s 102 (4) of the Act , s 132 T(CPSS) Act , and s 52 TPA, although in resolution of the proceedings the applicant did not press the claim under the TPA.</sentence>
 <sentence id="s20">Section 101(1) is a civil penalty provision (s 101(3) of the Act ).</sentence>
@@ -260,13 +260,13 @@
 <sentence id="s79">This principle was explained by the Full Court in NW Frozen Foods Pty Ltd v Australian Competition and Consumer Commission [1996] FCA 1134 ; (1996) 71 FCR 285 at 290, 298, and confirmed by the Full Court in Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd (2004) FCAFC 72.</sentence>
 <sentence id="s80">In Mobil Oil the Full Court reiterated that:
  
-&#8226; judges can, in appropriate circumstances, make an order departing from an agreed penalty (for example Australian Competition and Consumer Commission v FFE Building Services [2003] FCA 1542) (at [70]);
+&amp;#8226; judges can, in appropriate circumstances, make an order departing from an agreed penalty (for example Australian Competition and Consumer Commission v FFE Building Services [2003] FCA 1542) (at [70]);
  
-&#8226; in applying the principles in NW Frozen Foods the Court is not acting as a "rubber stamp" --- the Court must form its own view about the appropriate range of penalties, on the basis of the agreed facts or evidence (at [71]);
+&amp;#8226; in applying the principles in NW Frozen Foods the Court is not acting as a "rubber stamp" --- the Court must form its own view about the appropriate range of penalties, on the basis of the agreed facts or evidence (at [71]);
  
-&#8226; the Court should be satisfied that it is being given accurate, reliable and complete information on critical questions (at [79]);
+&amp;#8226; the Court should be satisfied that it is being given accurate, reliable and complete information on critical questions (at [79]);
  
-&#8226; in making a joint submission, it is appropriate for parties to nominate a precise figure as a pecuniary penalty rather than limiting themselves to a range of pecuniary penalties (at [79]).</sentence>
+&amp;#8226; in making a joint submission, it is appropriate for parties to nominate a precise figure as a pecuniary penalty rather than limiting themselves to a range of pecuniary penalties (at [79]).</sentence>
 <sentence id="s81">9 In this case the respondents were not legally represented.</sentence>
 <sentence id="s82">The applicant has however made submissions on penalty and other orders.</sentence>
 <sentence id="s83">The submissions of the applicant in relation to these issues are well-researched and helpful, and I understand from the directions hearing at which the parties last appeared that, while the respondents were not a party to the applicant's submissions, they did not demur from them.</sentence>
@@ -276,45 +276,45 @@
  (a) the nature and extent of the contravention; and (b) the nature and extent of any loss or damage suffered as a result of the contravention; and (c) the circumstances in which the contravention took place; and (d) whether the person has previously been found by the Court in proceedings under this Act to have engaged in any similar conduct.</sentence>
 <sentence id="s85">11 The Act prescribes a cap on pecuniary penalties, namely:
  
-&#8226; in relation to a body corporate;
+&amp;#8226; in relation to a body corporate;
  
  o in the case of a contravention of subs 68(1) or (2) or 101(1) or (2) --- $10 million for each contravention;
  
  o in any other case --- $250,000 for each contravention (s 570(3));
  
-&#8226; in relation to a person other than a body corporate --- not more than $50,000 for each contravention (s 570 (4)).</sentence>
+&amp;#8226; in relation to a person other than a body corporate --- not more than $50,000 for each contravention (s 570 (4)).</sentence>
 <sentence id="s86">12 In addition to the factors prescribed by s 570(2), factors the Courts have taken into account in imposing pecuniary penalties include:
  
-&#8226; the deliberateness of the contravention and the period over which it extended;
+&amp;#8226; the deliberateness of the contravention and the period over which it extended;
  
-&#8226; whether the contravention arose out of the conduct of senior management or at a lower level;
+&amp;#8226; whether the contravention arose out of the conduct of senior management or at a lower level;
  
-&#8226; whether the company has a corporate culture conducive to compliance with the Act;
+&amp;#8226; whether the company has a corporate culture conducive to compliance with the Act;
  
-&#8226; whether the company has shown a disposition to co-operate with the authorities responsible for the enforcement of the Act in relation to the contravention;
+&amp;#8226; whether the company has shown a disposition to co-operate with the authorities responsible for the enforcement of the Act in relation to the contravention;
  
-&#8226; the financial position of the contravenor and the capacity to pay;
+&amp;#8226; the financial position of the contravenor and the capacity to pay;
  
-&#8226; the penalty imposed must be substantial enough that the relevant party realises the seriousness of its conduct and is not inclined to repeat it;
+&amp;#8226; the penalty imposed must be substantial enough that the relevant party realises the seriousness of its conduct and is not inclined to repeat it;
  
-&#8226; although the penalty should achieve the object of general deterrence, it must not be so high as to be oppressive.</sentence>
+&amp;#8226; although the penalty should achieve the object of general deterrence, it must not be so high as to be oppressive.</sentence>
 <sentence id="s87">( Australian Communications and Media Authority v Clarity1 Pty Ltd [2006] FCA 1399 ; (2006) 155 FCR 377 , NW Frozen Food [1996] FCA 1134 ; (1996) 71 FCR 285 , Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd (No 2) [2005] FCA 254 ; (2005) 215 ALR 281 , Australian Competition and Consumer Commission v Leahy Petroleum Pty Ltd (No 3) [2005] FCA 265 ; (2005) 215 ALR 301.</sentence>
 <sentence id="s88">) 
  Pecuniary Penalties --- application of principles 
  
 13 Considering the facts of this case in light of factors which should be taken into consideration, I make the following observations:
  
-&#8226; The conduct of the first respondent as described earlier in this judgment represents multiple breaches of the service provider rules under the Act, including improper imposition of fees, failures to comply with the TIO scheme, and failures to comply with specified directions of the applicant.</sentence>
+&amp;#8226; The conduct of the first respondent as described earlier in this judgment represents multiple breaches of the service provider rules under the Act, including improper imposition of fees, failures to comply with the TIO scheme, and failures to comply with specified directions of the applicant.</sentence>
 <sentence id="s89">It is not in dispute that the second respondent, in his role as sole director, shareholder and Chief Executive Officer of the first respondent, was knowingly concerned in or party to the conduct of the first respondent and aided, abetted, counselled or procured the contravening conduct of the first respondent.</sentence>
 <sentence id="s90">This conduct of both respondents represented deliberate contravention of the Act over several years.</sentence>
-<sentence id="s91">&#8226; The applicant makes no claim that any substantive loss or damage was suffered as a result of the relevant contraventions, or that monetary amounts to which the relevant conduct related were substantial.</sentence>
+<sentence id="s91">&amp;#8226; The applicant makes no claim that any substantive loss or damage was suffered as a result of the relevant contraventions, or that monetary amounts to which the relevant conduct related were substantial.</sentence>
 <sentence id="s92">However I consider that the matter is significant because of the four separate types of conduct pleaded, and that it is appropriate to order relief to ensure that the particular conduct does not recur.</sentence>
-<sentence id="s93">&#8226; It is not in dispute that the respondents have not previously been found by the Court in proceedings under the Act to have engaged in similar conduct.</sentence>
-<sentence id="s94">&#8226; The contravention of the legislation by the first respondent arose from conduct of the second respondent, who was clearly in a senior management role in the first respondent.</sentence>
-<sentence id="s95">&#8226; It is common ground that the first respondent does not presently operate as an internet service provider, with the result that the issue whether its corporate culture is conducive to compliance with the Act is of minimal relevance.</sentence>
+<sentence id="s93">&amp;#8226; It is not in dispute that the respondents have not previously been found by the Court in proceedings under the Act to have engaged in similar conduct.</sentence>
+<sentence id="s94">&amp;#8226; The contravention of the legislation by the first respondent arose from conduct of the second respondent, who was clearly in a senior management role in the first respondent.</sentence>
+<sentence id="s95">&amp;#8226; It is common ground that the first respondent does not presently operate as an internet service provider, with the result that the issue whether its corporate culture is conducive to compliance with the Act is of minimal relevance.</sentence>
 <sentence id="s96">Of more relevance in this context is the fact that the proposed injunctions are framed to apply should the first respondent resume operations as an internet service provider within a two year period.</sentence>
-<sentence id="s97">&#8226; Both respondents have co-operated with the applicant in seeking resolution of these proceedings.</sentence>
-<sentence id="s98">&#8226; Material before the Court indicates that the first respondent has no or very limited assets (Notice of Defence filed 22 July 2008 para 5, TS 24 June 2008 p 2 ll 40-41, TS 12 August 2008 p 2 ll 13-18) and that the second respondent is similarly financially disadvantaged (Notice of Defence filed 22 July 2008 para 4).</sentence>
+<sentence id="s97">&amp;#8226; Both respondents have co-operated with the applicant in seeking resolution of these proceedings.</sentence>
+<sentence id="s98">&amp;#8226; Material before the Court indicates that the first respondent has no or very limited assets (Notice of Defence filed 22 July 2008 para 5, TS 24 June 2008 p 2 ll 40-41, TS 12 August 2008 p 2 ll 13-18) and that the second respondent is similarly financially disadvantaged (Notice of Defence filed 22 July 2008 para 4).</sentence>
 <sentence id="s99">The applicant accepted in its written submissions that the respondents had limited financial capacity.</sentence>
 <sentence id="s100">In my view:
  

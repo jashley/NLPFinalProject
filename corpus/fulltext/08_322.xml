@@ -3,10 +3,10 @@
 <name>Winspear v Mackinnon [2008] FCA 322 (11 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/322.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">judicial discretion to award costs</catchphrase>
-<catchphrase "id=c1">whether costs should be awarded to the successful party on an indemnity basis</catchphrase>
-<catchphrase "id=c2">whether costs should be paid by first defendant only</catchphrase>
-<catchphrase "id=c3">costs</catchphrase>
+<catchphrase id="c0">judicial discretion to award costs</catchphrase>
+<catchphrase id="c1">whether costs should be awarded to the successful party on an indemnity basis</catchphrase>
+<catchphrase id="c2">whether costs should be paid by first defendant only</catchphrase>
+<catchphrase id="c3">costs</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -72,7 +72,7 @@ Dated: 11 March 2008
 
  Counsel for the Plaintiff: Mr D Wallace 
  
- Solicitor for the Plaintiff: Wallace, Wilkinson &amp; Webster 
+ Solicitor for the Plaintiff: Wallace, Wilkinson &amp;amp; Webster 
  
  Counsel for the Defendants: Mr R W Pearce 
  

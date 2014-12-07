@@ -3,13 +3,13 @@
 <name>Tan Kah Hock v AWAP SGT 26 Investment Ltd [2008] FCA 540 (23 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/540.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">security for costs</catchphrase>
-<catchphrase "id=c1">discretion of court if applicant ordinarily resident outside australia</catchphrase>
-<catchphrase "id=c2">no evidence of any assets within the jurisdiction</catchphrase>
-<catchphrase "id=c3">no evidence of assets in foreign jurisdiction where judgment may be registered in future</catchphrase>
-<catchphrase "id=c4">federal court of australia act 1976 (cth) s 56</catchphrase>
-<catchphrase "id=c5">federal court rules 1976 (cth) o 28 r 3.</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
+<catchphrase id="c0">security for costs</catchphrase>
+<catchphrase id="c1">discretion of court if applicant ordinarily resident outside australia</catchphrase>
+<catchphrase id="c2">no evidence of any assets within the jurisdiction</catchphrase>
+<catchphrase id="c3">no evidence of assets in foreign jurisdiction where judgment may be registered in future</catchphrase>
+<catchphrase id="c4">federal court of australia act 1976 (cth) s 56</catchphrase>
+<catchphrase id="c5">federal court rules 1976 (cth) o 28 r 3.</catchphrase>
+<catchphrase id="c6">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -19,7 +19,7 @@
 <sentence id="s1">It seeks security in the sum of nearly $129,000.</sentence>
 <sentence id="s2">2 The motion is supported by affidavits sworn by Rosaline Lee Cheng Tan on 27 February and 20 March 2008.</sentence>
 <sentence id="s3">3 An order for security for costs may be made under s 56 of the Federal Court of Australia Act 1976 (Cth) ("the Act ").</sentence>
-<sentence id="s4">The section confers a "broad power" upon the Court: James v Australia &amp; New Zealand Banking Group Ltd (No 1) (1985) 9 FCR 442 at 444 per Toohey J.</sentence>
+<sentence id="s4">The section confers a "broad power" upon the Court: James v Australia &amp;amp; New Zealand Banking Group Ltd (No 1) (1985) 9 FCR 442 at 444 per Toohey J.</sentence>
 <sentence id="s5">The discretion is unfettered.</sentence>
 <sentence id="s6">Rules of Court in relation to matters of practice and procedure cannot operate so as to limit the wide powers conferred by s 56 itself: Energy Drilling Inc v Petroz NL (1989) ATPR |P40-954.</sentence>
 <sentence id="s7">4 In particular, although Order 28 rule 3 of the Federal Court Rules 1976 (Cth) ("the Rules") refers to matters the Court may take into account when considering an application for an order for security for costs under s 56 of the Act , it is clear that the rule is not intended to be an exhaustive statement of the factors the Court may consider, nor does the rule limit the power of the Court under s 56 of the Act : Bell Wholesale Co Ltd v Gates Export Corp (No 2) (1984) 2 FCR 1 at 3.</sentence>
@@ -54,7 +54,7 @@ The Court shall not order an applicant to give security by reason only of paragr
 <sentence id="s17">
  
 
-7 In PS Chellaram &amp; Co Ltd v China Ocean Shipping Co [1991] HCA 36 ; (1991) 102 ALR 321 McHugh J stated at 323:
+7 In PS Chellaram &amp;amp; Co Ltd v China Ocean Shipping Co [1991] HCA 36 ; (1991) 102 ALR 321 McHugh J stated at 323:
  ...the fact that a party, bringing proceedings, is resident out of the jurisdiction and has no assets within the jurisdiction has been seen as a circumstance of great weight in determining whether an order for security for costs should be made.</sentence>
 <sentence id="s18">Indeed, for many years the practice has been to order such a party to provide security for costs unless that party can point to other circumstances which overcome the weight of the circumstance that that person is resident out of and has no assets within the jurisdiction.</sentence>
 <sentence id="s19">8 This "well-established" principle was cited by Besanko J in Cheng XI Shipyard v The Ship "Falcon Trident" [2006] FCA 759 at [9] .</sentence>

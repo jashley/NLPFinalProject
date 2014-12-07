@@ -3,27 +3,27 @@
 <name>Bienstein v Attorney General [2009] FCA 1501 (15 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1501.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">request for access to documents</catchphrase>
-<catchphrase "id=c1">failure to make decision within 30 days</catchphrase>
-<catchphrase "id=c2">deemed refusal to grant access</catchphrase>
-<catchphrase "id=c3">whether administrative appeals tribunal had power to order that a decision be made</catchphrase>
-<catchphrase "id=c4">administrative appeals tribunal</catchphrase>
-<catchphrase "id=c5">powers</catchphrase>
-<catchphrase "id=c6">deemed refusal to grant access to documents</catchphrase>
-<catchphrase "id=c7">whether tribunal had power to order that decision be made</catchphrase>
-<catchphrase "id=c8">administrative appeals tribunal</catchphrase>
-<catchphrase "id=c9">procedural fairness</catchphrase>
-<catchphrase "id=c10">bias</catchphrase>
-<catchphrase "id=c11">tribunal not making orders or giving procedural directions sought by applicant</catchphrase>
-<catchphrase "id=c12">whether reasonable apprehension of bias in protecting ministers from freedom of information requests</catchphrase>
-<catchphrase "id=c13">administrative appeals tribunal</catchphrase>
-<catchphrase "id=c14">appeal to court</catchphrase>
-<catchphrase "id=c15">questions of law</catchphrase>
-<catchphrase "id=c16">nature of questions of law on which appeal can be brought</catchphrase>
-<catchphrase "id=c17">freedom of information</catchphrase>
-<catchphrase "id=c18">administrative law</catchphrase>
-<catchphrase "id=c19">administrative law</catchphrase>
-<catchphrase "id=c20">administrative law</catchphrase>
+<catchphrase id="c0">request for access to documents</catchphrase>
+<catchphrase id="c1">failure to make decision within 30 days</catchphrase>
+<catchphrase id="c2">deemed refusal to grant access</catchphrase>
+<catchphrase id="c3">whether administrative appeals tribunal had power to order that a decision be made</catchphrase>
+<catchphrase id="c4">administrative appeals tribunal</catchphrase>
+<catchphrase id="c5">powers</catchphrase>
+<catchphrase id="c6">deemed refusal to grant access to documents</catchphrase>
+<catchphrase id="c7">whether tribunal had power to order that decision be made</catchphrase>
+<catchphrase id="c8">administrative appeals tribunal</catchphrase>
+<catchphrase id="c9">procedural fairness</catchphrase>
+<catchphrase id="c10">bias</catchphrase>
+<catchphrase id="c11">tribunal not making orders or giving procedural directions sought by applicant</catchphrase>
+<catchphrase id="c12">whether reasonable apprehension of bias in protecting ministers from freedom of information requests</catchphrase>
+<catchphrase id="c13">administrative appeals tribunal</catchphrase>
+<catchphrase id="c14">appeal to court</catchphrase>
+<catchphrase id="c15">questions of law</catchphrase>
+<catchphrase id="c16">nature of questions of law on which appeal can be brought</catchphrase>
+<catchphrase id="c17">freedom of information</catchphrase>
+<catchphrase id="c18">administrative law</catchphrase>
+<catchphrase id="c19">administrative law</catchphrase>
+<catchphrase id="c20">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -558,7 +558,7 @@ At the same time, the Tribunal gave written reasons for that decision.</sentence
 <sentence id="s89">The purpose of s 56(1) is clearly to provide to a person who has a right of review as a result of a deemed decision the same right as that given by s 55(1)(a) to a person who has a right of review as a result of an actual decision refusing to grant access to documents.</sentence>
 <sentence id="s90">In the case of a deemed refusal, it is not the failure to make a decision that the Tribunal reviews, but the refusal to grant access to documents that is deemed to have occurred.</sentence>
 <sentence id="s91">The closing words of s 56(1), "a decision refusing to grant access to the document", make this abundantly clear.</sentence>
-<sentence id="s92">If authority be needed to support the proposition, it is found in Cashman &amp; Partners v Secretary, Department of Human Services and Health [1995] FCA 1730 ; (1995) 61 FCR 301 at 306.</sentence>
+<sentence id="s92">If authority be needed to support the proposition, it is found in Cashman &amp;amp; Partners v Secretary, Department of Human Services and Health [1995] FCA 1730 ; (1995) 61 FCR 301 at 306.</sentence>
 <sentence id="s93">In that case, the recipient of a request for access to documents had not made a decision within the 30 day period.</sentence>
 <sentence id="s94">The person making the request applied to the Tribunal for review of the deemed refusal.</sentence>
 <sentence id="s95">The Tribunal directed the recipient of the request to make a decision.</sentence>
@@ -732,7 +732,7 @@ It is not entirely clear what her Honour meant by the proposition that the relev
  
  
  
- (e) the Department of the Prime Minister and Cabinet, where the FOI legislation is administered by the Privacy &amp; FOI policy Branch and the responsible Minister, being Cabinet Secretary, Senator Faulkner; 
+ (e) the Department of the Prime Minister and Cabinet, where the FOI legislation is administered by the Privacy &amp;amp; FOI policy Branch and the responsible Minister, being Cabinet Secretary, Senator Faulkner; 
  
  
 

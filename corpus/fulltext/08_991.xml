@@ -3,13 +3,13 @@
 <name>Bonnell v Deputy Commissioner of Taxation (No 5) [2008] FCA 991 (30 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/991.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">remission of additional tax payable by way of penalty under a provision of part vii of the income tax assessment act 1936 (cth)</catchphrase>
-<catchphrase "id=c1">whether an invalid exercise of discretion to remit within the hickman provisos could invalidate a notice of amended assessment of the amended taxable income of a taxpayer and of the tax payable thereon into which notice of assessment of additional tax has been incorporated under s 227(2) of the act</catchphrase>
-<catchphrase "id=c2">whether the commissioner's discretion to remit additional tax under s 227(3) of the act stands apart from the commissioner's obligation to make an assessment of the additional tax payable under s 227(1) of the act practice and procedure</catchphrase>
-<catchphrase "id=c3">summary dismissal</catchphrase>
-<catchphrase "id=c4">striking out of pleadings</catchphrase>
-<catchphrase "id=c5">inadequate particulars</catchphrase>
-<catchphrase "id=c6">taxation</catchphrase>
+<catchphrase id="c0">remission of additional tax payable by way of penalty under a provision of part vii of the income tax assessment act 1936 (cth)</catchphrase>
+<catchphrase id="c1">whether an invalid exercise of discretion to remit within the hickman provisos could invalidate a notice of amended assessment of the amended taxable income of a taxpayer and of the tax payable thereon into which notice of assessment of additional tax has been incorporated under s 227(2) of the act</catchphrase>
+<catchphrase id="c2">whether the commissioner's discretion to remit additional tax under s 227(3) of the act stands apart from the commissioner's obligation to make an assessment of the additional tax payable under s 227(1) of the act practice and procedure</catchphrase>
+<catchphrase id="c3">summary dismissal</catchphrase>
+<catchphrase id="c4">striking out of pleadings</catchphrase>
+<catchphrase id="c5">inadequate particulars</catchphrase>
+<catchphrase id="c6">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -265,7 +265,7 @@
  In relation to the Hickman provisos in the context of the Assessment Act Finn J said in Daihatsu Australia Pty Limited v Federal Commissioner of Taxation (2001) 47 ATR 156 at [29]-[38]: 
 '[29] As has recently been indicated by the full court of this court in Kordan Pty Ltd v FCT (2000) 44 ATR 131 , it is the clear intendment of ss 175 and 177 of the ITAA 1936 that taxpayers not be permitted to seek judicial review of the processes leading to, and the making of, assessments by the Commissioner of Taxation.</sentence>
 <sentence id="s96">Rather taxpayers are to be confined to the objection and appeal remedy now contained in Pt IVC of the TAA: see Kordan's case at [1].</sentence>
-<sentence id="s97">[30] Sections 175 and 177 are, though, subject to the rule of construction enunciated in R v Hickman; Ex parte Fox &amp; Clinton, in relation to privative clauses: DCT v Richard Walter [1995] HCA 23 ; (1995) 183 CLR 168 ; 29 ATR 644 ; 95 ATC 4067 ; see also, Sunrise Auto Ltd v FCT (1995) 61 FCR 446 ; 32 ATR 347 ; 95 ATC 4840 ; with the consequence that an assessment will lose the protection of ss 177(1) and 175, and its validity will be open to challenge, if it is not made in compliance with the Hickman principle: Briglia v FCT (2000) 44 ATR 166 at 168; ATC 4247 at 4249 and the cases referred to therein.</sentence>
+<sentence id="s97">[30] Sections 175 and 177 are, though, subject to the rule of construction enunciated in R v Hickman; Ex parte Fox &amp;amp; Clinton, in relation to privative clauses: DCT v Richard Walter [1995] HCA 23 ; (1995) 183 CLR 168 ; 29 ATR 644 ; 95 ATC 4067 ; see also, Sunrise Auto Ltd v FCT (1995) 61 FCR 446 ; 32 ATR 347 ; 95 ATC 4840 ; with the consequence that an assessment will lose the protection of ss 177(1) and 175, and its validity will be open to challenge, if it is not made in compliance with the Hickman principle: Briglia v FCT (2000) 44 ATR 166 at 168; ATC 4247 at 4249 and the cases referred to therein.</sentence>
 <sentence id="s98">[31] For present purposes it can be said that that principle will not be breached if in making the assessment in question (1) there was a bona fide attempt by the Commissioner to exercise the power of assessment; (2) that attempt related to the subject matter of the ITAA 1936; and (3) it was reasonably capable of reference to the Commissioner's power of assessment: but see Vanmeld Pty Ltd v Fairfield City Council (1999) 46 NSWLR 78 per Spigelman CJ where additional possible elements in the principle are considered.</sentence>
 <sentence id="s99">In the present case the assessments in question have been impugned principally in reliance on the first of these propositions (bona fide attempt) although it is alleged as well that the third of the propositions (reasonably capable of reference to the power of assessment) was not satisfied.</sentence>
 <sentence id="s100">[32] In Kordan's case, the full court observed that: 
@@ -330,10 +330,10 @@ Those documents reveal that an Assistant Commissioner, Small Business, Aggressiv
 <sentence id="s137">As part of the Office's consideration of the matter a telephone hook-up took place between a number of officers including the Assistant Commissioner, Small Business, Aggressive Tax Planning and the Senior Tax Counsel on 12 July 2004.</sentence>
 <sentence id="s138">Minutes of the telephone hook-up meeting included the following:
  'As a result of the deliberations of the attendees, it was determined that there is nothing material in Mr Bonnell's response that would change the ATO's technical position as stated in the Position Paper.</sentence>
-<sentence id="s139">That is to say, that on the evidence available: &#8226; The established facts support the position that Mr Bonnell was not an employee of Windoval P/L for the purpose of Section 82AAA.</sentence>
-<sentence id="s140">&#8226; the fund was not a fund established for the purposes of provision of superannuation benefits.</sentence>
-<sentence id="s141">&#8226; The contributions were not made for the purpose of providing superannuation benefits.</sentence>
-<sentence id="s142">&#8226; that Mr Bonnell had not "retired".</sentence>
+<sentence id="s139">That is to say, that on the evidence available: &amp;#8226; The established facts support the position that Mr Bonnell was not an employee of Windoval P/L for the purpose of Section 82AAA.</sentence>
+<sentence id="s140">&amp;#8226; the fund was not a fund established for the purposes of provision of superannuation benefits.</sentence>
+<sentence id="s141">&amp;#8226; The contributions were not made for the purpose of providing superannuation benefits.</sentence>
+<sentence id="s142">&amp;#8226; that Mr Bonnell had not "retired".</sentence>
 <sentence id="s143">Action Items 
  
  1.</sentence>
@@ -350,7 +350,7 @@ Those documents reveal that an Assistant Commissioner, Small Business, Aggressiv
 <sentence id="s147">' 
 
  
- The submission proceeded to include material under the headings 'Facts &amp; Evidence', 'Decision' and 'Reasons for Decision'.</sentence>
+ The submission proceeded to include material under the headings 'Facts &amp;amp; Evidence', 'Decision' and 'Reasons for Decision'.</sentence>
 <sentence id="s148">Under the heading 'Decision' the following appeared: 
 'Penalty tax under section 226K of the ITAA 1936 should be imposed at the rate of 25%.</sentence>
 <sentence id="s149">Also, section 170AA/GIC interest is to be charged.</sentence>
@@ -512,7 +512,7 @@ i. acted arbitrarily and or capriciously and or without any intelligible basis; 
  The media release identified as Nat 03/30 which bears the notation 'Last modified Friday, March 14, 2003' included in respect of controlling interest superannuation arrangements: 
  
  
- '&#8226; The Tax Office accepts that decision [the recent Federal Court case of Prebble v Commissioner of Taxation [2002] FCAFC 1434] and will waive penalties imposed in other controlling interest superannuation schemes provided a genuine contribution was made to a superannuation fund.</sentence>
+ '&amp;#8226; The Tax Office accepts that decision [the recent Federal Court case of Prebble v Commissioner of Taxation [2002] FCAFC 1434] and will waive penalties imposed in other controlling interest superannuation schemes provided a genuine contribution was made to a superannuation fund.</sentence>
 <sentence id="s228">' 
  
 

@@ -3,25 +3,25 @@
 <name>Australian Communications and Media Authority v Mobilegate Ltd A Company Incorporated in Hong Kong [2009] FCA 539 (22 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/539.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">alleged sending of unsolicited commercial electronic messages</catchphrase>
-<catchphrase "id=c1">jurisdiction of federal court to issue others and accept undertakings</catchphrase>
-<catchphrase "id=c2">(cth) spam act 2003 ss 16 , 32 , 33 , 36</catchphrase>
-<catchphrase "id=c3">(cth) trade practices act 1974 ss 52 , 80 , 80 (6)</catchphrase>
-<catchphrase "id=c4">undertakings offered to federal court of australia</catchphrase>
-<catchphrase "id=c5">whether acma obliged to provide the court with an undertaking as to damages</catchphrase>
-<catchphrase "id=c6">whether failure to provide court with an undertaking fatal to acma's claim for interlocutory relief</catchphrase>
-<catchphrase "id=c7">held absence of undertaking not fatal to claim</catchphrase>
-<catchphrase "id=c8">(cth) judiciary act 1903 s 64 , (cth) spam act ss 32 , 33 , 36</catchphrase>
-<catchphrase "id=c9">enforcement and remedies</catchphrase>
-<catchphrase "id=c10">declarations</catchphrase>
-<catchphrase "id=c11">injunctions</catchphrase>
-<catchphrase "id=c12">whether court has power under s 80 of trade practices act 1974 to grant interlocutory injunction prohibiting what would otherwise be lawful activity</catchphrase>
-<catchphrase "id=c13">nature of power to grant injunction "in such terms as the court determines to be appropriate"</catchphrase>
-<catchphrase "id=c14">need for nexus between proven contravention of pt v of the trade practices act and the prohibition embodied in the injunction</catchphrase>
-<catchphrase "id=c15">held respondents' undertaking meets the case for interlocutory injunctive relief sought by acma</catchphrase>
-<catchphrase "id=c16">communications law</catchphrase>
-<catchphrase "id=c17">trade practices</catchphrase>
-<catchphrase "id=c18">trade practices</catchphrase>
+<catchphrase id="c0">alleged sending of unsolicited commercial electronic messages</catchphrase>
+<catchphrase id="c1">jurisdiction of federal court to issue others and accept undertakings</catchphrase>
+<catchphrase id="c2">(cth) spam act 2003 ss 16 , 32 , 33 , 36</catchphrase>
+<catchphrase id="c3">(cth) trade practices act 1974 ss 52 , 80 , 80 (6)</catchphrase>
+<catchphrase id="c4">undertakings offered to federal court of australia</catchphrase>
+<catchphrase id="c5">whether acma obliged to provide the court with an undertaking as to damages</catchphrase>
+<catchphrase id="c6">whether failure to provide court with an undertaking fatal to acma's claim for interlocutory relief</catchphrase>
+<catchphrase id="c7">held absence of undertaking not fatal to claim</catchphrase>
+<catchphrase id="c8">(cth) judiciary act 1903 s 64 , (cth) spam act ss 32 , 33 , 36</catchphrase>
+<catchphrase id="c9">enforcement and remedies</catchphrase>
+<catchphrase id="c10">declarations</catchphrase>
+<catchphrase id="c11">injunctions</catchphrase>
+<catchphrase id="c12">whether court has power under s 80 of trade practices act 1974 to grant interlocutory injunction prohibiting what would otherwise be lawful activity</catchphrase>
+<catchphrase id="c13">nature of power to grant injunction "in such terms as the court determines to be appropriate"</catchphrase>
+<catchphrase id="c14">need for nexus between proven contravention of pt v of the trade practices act and the prohibition embodied in the injunction</catchphrase>
+<catchphrase id="c15">held respondents' undertaking meets the case for interlocutory injunctive relief sought by acma</catchphrase>
+<catchphrase id="c16">communications law</catchphrase>
+<catchphrase id="c17">trade practices</catchphrase>
+<catchphrase id="c18">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -220,11 +220,11 @@ By using the phrase "prima facie case", their Honours did not mean that the plai
 <sentence id="s68">This though is not a proceeding which might be assimilated with a suit between subject and subject.</sentence>
 <sentence id="s69">It is not ACMA's status as a Commonwealth public authority which prevents that assimilation but rather the particular function which it is discharging as a public authority.</sentence>
 <sentence id="s70">That function is to seek the enforcement of particular statutes in the public interest.</sentence>
-<sentence id="s71">Such sentiments are evident in the speech of Lord Cross in F Hoffman --- la roche &amp; Co AG &amp; Ors v Secretary of State for Trade and Industry [1975] AC 295 at 371: 
+<sentence id="s71">Such sentiments are evident in the speech of Lord Cross in F Hoffman --- la roche &amp;amp; Co AG &amp;amp; Ors v Secretary of State for Trade and Industry [1975] AC 295 at 371: 
  "... if the Crown is taking proceedings under a statutory provision ... the court in considering whether or not to make the grant of an interim injunction conditional of the giving of an undertaking in damages has to bear in mind the interest which the public --- and in particular any section of it which will benefit directly thereby --- has in seeing that the law in question is enforced.</sentence>
 <sentence id="s72">
 
-Authorities in this country which evidence a similar position are Australian Securities and Investments Commission v ACN 102 556 098 Pty Ltd (2003) 48 ACSR 350 at 352 and Director of Public Prosecutions (WA) v Mansfield &amp; Ors [2006] WASC 225 at [14] .</sentence>
+Authorities in this country which evidence a similar position are Australian Securities and Investments Commission v ACN 102 556 098 Pty Ltd (2003) 48 ACSR 350 at 352 and Director of Public Prosecutions (WA) v Mansfield &amp;amp; Ors [2006] WASC 225 at [14] .</sentence>
 <sentence id="s73">I do not therefore regard the absence of any undertaking as to damages by the ACMA as fatal to its claim for interlocutory injunctive relief insofar as that claim relies upon the TPA.</sentence>
 <sentence id="s74">That is not to say that the absence of an undertaking as to damages is irrelevant.</sentence>
 <sentence id="s75">It is a fact to take into account, particularly where, even at an interlocutory stage, the injunctive relief sought, would, if granted, preclude a respondent engaging in commercial activity beyond that which is the subject of particular complaint in the proceedings.</sentence>

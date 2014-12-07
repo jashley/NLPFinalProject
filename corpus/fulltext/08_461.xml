@@ -3,11 +3,11 @@
 <name>Kawasaki (Australia) Pty Ltd (ACN 000 748 621) v ARC Strang Pty Ltd (ACN 062 605 850) (Corrigendum dated 10 April 2008) [2008] FCA 461 (9 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/461.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">shareholders agreement contained pre-emption provisions regulating transfer of shares in company</catchphrase>
-<catchphrase "id=c1">whether transfer of shares in shareholding company fell within pre-emption provisions</catchphrase>
-<catchphrase "id=c2">no change of control provision in agreement</catchphrase>
-<catchphrase "id=c3">whether transfer of shares referred to transfer of beneficial interest in shares.</catchphrase>
-<catchphrase "id=c4">contracts</catchphrase>
+<catchphrase id="c0">shareholders agreement contained pre-emption provisions regulating transfer of shares in company</catchphrase>
+<catchphrase id="c1">whether transfer of shares in shareholding company fell within pre-emption provisions</catchphrase>
+<catchphrase id="c2">no change of control provision in agreement</catchphrase>
+<catchphrase id="c3">whether transfer of shares referred to transfer of beneficial interest in shares.</catchphrase>
+<catchphrase id="c4">contracts</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -335,35 +335,35 @@ Around this time there was concern within Kawasaki that full disclosure of ARC S
 <sentence id="s133">It was in the following terms: 
 "Approval sought 
  
- &#8226; Board approval is sought to acquire 100% of the shares in ARC Strang Pty Ltd ( ARC Strang ) for A$13.5m.</sentence>
+ &amp;#8226; Board approval is sought to acquire 100% of the shares in ARC Strang Pty Ltd ( ARC Strang ) for A$13.5m.</sentence>
 <sentence id="s134">(ARC Strang has a 17% direct shareholding PrixCar Services Pty Ltd ( PrixCar )).</sentence>
 <sentence id="s135">
  
  Recommendation 
  
- &#8226; It is recommended that Toll acquire the Strang Group' s 17% interests in PrixCar, held through its family entity ARC Strang Pty Ltd (the Strang Stake ).</sentence>
+ &amp;#8226; It is recommended that Toll acquire the Strang Group' s 17% interests in PrixCar, held through its family entity ARC Strang Pty Ltd (the Strang Stake ).</sentence>
 <sentence id="s136">
  
  
  
- &#8226; The acquisition is proposed to be effected by Toll acquiring all of the issued shares in ARC Strang for a proposed purchase price of $13.5m.</sentence>
+ &amp;#8226; The acquisition is proposed to be effected by Toll acquiring all of the issued shares in ARC Strang for a proposed purchase price of $13.5m.</sentence>
 <sentence id="s137">the share sale agreement must, among other things, provide Toll with tax and entity risk warranties and indemnities.</sentence>
 <sentence id="s138">
  
  
  
- &#8226; Taken together with Toll's existing 33% stake in PrixCar, upon completion of the proposed acquisition Toll would control exactly 50% of the issued shares in PrixCar.</sentence>
-<sentence id="s139">The remaining shares will be held as to 33% by K-Line and 17% by P&amp;O (DP World).</sentence>
+ &amp;#8226; Taken together with Toll's existing 33% stake in PrixCar, upon completion of the proposed acquisition Toll would control exactly 50% of the issued shares in PrixCar.</sentence>
+<sentence id="s139">The remaining shares will be held as to 33% by K-Line and 17% by P&amp;amp;O (DP World).</sentence>
 <sentence id="s140">
  
 ... Background 
  
- &#8226; ARC Strang holds 362,642 shares in PrixCar which taken together with Toll's existing shareholding of 725,283 shares equates to exactly 50% of PrixCar's total issued capital.</sentence>
+ &amp;#8226; ARC Strang holds 362,642 shares in PrixCar which taken together with Toll's existing shareholding of 725,283 shares equates to exactly 50% of PrixCar's total issued capital.</sentence>
 <sentence id="s141">
  
  
  
- &#8226; Consistent with our reading of the PrixCar shareholders agreement, the Strang Group considers that the sale is not caught by the pre-emptive rights provisions of the PrixCar shareholders agreement (as they do not apply downstream to the PrixCar shareholder).</sentence>
+ &amp;#8226; Consistent with our reading of the PrixCar shareholders agreement, the Strang Group considers that the sale is not caught by the pre-emptive rights provisions of the PrixCar shareholders agreement (as they do not apply downstream to the PrixCar shareholder).</sentence>
 <sentence id="s142">
  
 ..." 
@@ -407,7 +407,7 @@ Around this time there was concern within Kawasaki that full disclosure of ARC S
 <sentence id="s168">(c) Clause 5.1 of the Shareholders Agreement should be construed so that the words "desire to transfer any shares" included a desire to transfer the beneficial interest in any shares.</sentence>
 <sentence id="s169">
  The applicants submitted that the object of cl 5.1, when considered in the context of the Shareholders Agreement as a whole, was that any shareholder desirous of transferring the legal or equitable interest therein should inform the company and offer the other shareholders an opportunity to participate in the transfer on a pro rata basis.</sentence>
-<sentence id="s170">In support of this submission, the applicants relied on Lyle &amp; Scott Ltd v Scott's Trustees [1959] AC 763 , and in particular the passage at 785: 
+<sentence id="s170">In support of this submission, the applicants relied on Lyle &amp;amp; Scott Ltd v Scott's Trustees [1959] AC 763 , and in particular the passage at 785: 
 "If I may express my view of the article in the most general sense, I think the prohibitory part of the article is the sanction which prevents a shareholder from carrying through a transfer of shares without complying with the machinery of transfers set out in the second part of the article.</sentence>
 <sentence id="s171">And I think a shareholder who has transferred, or pretended to transfer, the beneficial interest in a share to a purchaser for value is merely endeavouring by subterfuge to escape from the peremptory provisions of the article.</sentence>
 <sentence id="s172">A share is of no value to anyone without the benefit it confers.</sentence>
@@ -460,7 +460,7 @@ However, that passage must be understood in the context of the findings of fact 
 <sentence id="s208">The applicants submitted that the parties should be taken to have desired no change in the effective ownership and control of PrixCar unless all members first had a pro rata opportunity to participate in that change of ownership or control.</sentence>
 <sentence id="s209">However, that desire in those terms was not translated into a specific provision in the Shareholders Agreement nor is it to be implied from the terms used in the Shareholders Agreement.</sentence>
 <sentence id="s210">The parties to the Shareholders Agreement turned their minds to the nature of the pre-emptive rights which they wanted to enshrine in the agreement but they did not include a change in control of a shareholder provision.</sentence>
-<sentence id="s211">The applicants placed particular emphasis upon observations in Lyle &amp; Scott Ltd v Scott's Trustees (supra).</sentence>
+<sentence id="s211">The applicants placed particular emphasis upon observations in Lyle &amp;amp; Scott Ltd v Scott's Trustees (supra).</sentence>
 <sentence id="s212">In that case the relevant article of association of the company contained pre-emptive provisions which were activated by a shareholder "who is desirous of transferring his ordinary shares".</sentence>
 <sentence id="s213">An offer was made to the shareholders in the company offering to purchase their shares for a specified amount.</sentence>
 <sentence id="s214">The consideration was payable on receipt of valid and effective transfers of the shares and a general proxy in favour of the purchaser's nominees.</sentence>
@@ -497,11 +497,11 @@ Lord Reid said at 777-778:
 <sentence id="s238">It may be accepted, as the applicants submitted, that the documentation and transactions entered into on 30 May 2007 delivered to Toll Holdings and its associate Toll (FHL) control of the interest in PrixCar held by ARC Strang as a matter of substance.</sentence>
 <sentence id="s239">But it does not follow from such a conclusion that cl 5.1 was triggered by what occurred on 30 May 2007.</sentence>
 <sentence id="s240">The applicants submitted that the provisions of cl 5.1 of the Shareholders Agreement would have no substance if the shareholder could transfer its beneficial interest in PrixCar to a third party as was done in this case.</sentence>
-<sentence id="s241">In this context, the applicants relied on the observation of Lord Keith in Lyle &amp; Scott Ltd v Scott's Trustees (supra) set out in par [46] above.</sentence>
+<sentence id="s241">In this context, the applicants relied on the observation of Lord Keith in Lyle &amp;amp; Scott Ltd v Scott's Trustees (supra) set out in par [46] above.</sentence>
 <sentence id="s242">That observation must be understood in the context of the facts as found, namely that there had been an agreement to sell the shares which were the subject of the pre-emptive provisions.</sentence>
 <sentence id="s243">Lord Keith was saying no more than if a shareholder sells its whole interest in a share, which includes its legal interest and its beneficial interest, the withholding of the delivery of an executed transfer of the share, in the circumstances which obtained in that case, does not mean that the shareholder is not desirous of transferring the share as contemplated by the relevant article.</sentence>
 <sentence id="s244">The applicability of Lord Keith's observation depends upon the extent to which the provisions of cl 5.1 of the Shareholder's Agreement have been triggered.</sentence>
-<sentence id="s245">In Lyle &amp; Scott Ltd v Scott's Trustees (supra) the relevant article was triggered because of the finding that the shareholders were "desirous of transferring" their shares in the company.</sentence>
+<sentence id="s245">In Lyle &amp;amp; Scott Ltd v Scott's Trustees (supra) the relevant article was triggered because of the finding that the shareholders were "desirous of transferring" their shares in the company.</sentence>
 <sentence id="s246">That is not a finding which I have made in the present case.</sentence>
 <sentence id="s247">I am satisfied that on its proper construction cl 5.1 of the Shareholders Agreement does not extend to, or cover, a transfer of shares in a company which includes within its assets shares in PrixCar.</sentence>
 <sentence id="s248">Clause 5.1 does not include within its terms, nor is it appropriate to imply into its terms, a change in control of shareholder provision.</sentence>
@@ -557,7 +557,7 @@ A transfer contemplated by subcl (a) can only be a transfer of the legal estate 
 <sentence id="s263">Clause 2 also demonstrates that the parties to the Shareholders Agreement assumed that each joint venturer held both the legal and the beneficial interest in its PrixCar shares.</sentence>
 <sentence id="s264">The only time a trust is specifically contemplated in cl 5 of the Shareholders Agreement is in cl 5.2(a) (par [ 4 ] above) where approval of the directors of PrixCar is sought to a transfer of shares to the trustee of a trust under which the shareholder is the sole beneficiary.</sentence>
 <sentence id="s265">My conclusion that in the context in which it appears in cl 5.1 of the Shareholders Agreement the expression "transfer" means a transfer of the legal interest or estate in shares from one person to another person and not a transfer of the equitable or beneficial interest in the shares is supported in a number of cases.</sentence>
-<sentence id="s266">Such a connotation or definition of the expression "transfer" is implicit in the reasoning in Safeguard Industrial Investments Ltd v National Westminster Bank [1981] 1 WLR 286; Scotto v Petch [2000] 2 BCLC 211, on appeal [2001] BCC 889; Lyle &amp; Scott Ltd v Scott's Trustees (supra); Coles Myer Limited v Commissioner of State Revenue [1998] 4 VR 728.</sentence>
+<sentence id="s266">Such a connotation or definition of the expression "transfer" is implicit in the reasoning in Safeguard Industrial Investments Ltd v National Westminster Bank [1981] 1 WLR 286; Scotto v Petch [2000] 2 BCLC 211, on appeal [2001] BCC 889; Lyle &amp;amp; Scott Ltd v Scott's Trustees (supra); Coles Myer Limited v Commissioner of State Revenue [1998] 4 VR 728.</sentence>
 <sentence id="s267">In Safeguard Industrial Investments Ltd v National Westminster Bank (supra) the Court was concerned to construe an article of association of a company which provided that: 
 "A member shall not be entitled to transfer an ordinary share except ... in accordance with the following provisions: (a) ... 
  
@@ -575,7 +575,7 @@ The Court held that "transfer" in this article meant a transfer of the legal int
 <sentence id="s273">..." 
 
 Vinelott J's reasoning was upheld by the Court of Appeal: Safeguard Industrial Investments Ltd v National Westminster Bank [1982] 1 WLR 589 at 598-599.</sentence>
-<sentence id="s274">It was also accepted by the Queensland Court of Appeal in Reef &amp; Rainforest Travel Pty Ltd v Commissioner of Stamp Duties [2002] Qd R 683 at 688.</sentence>
+<sentence id="s274">It was also accepted by the Queensland Court of Appeal in Reef &amp;amp; Rainforest Travel Pty Ltd v Commissioner of Stamp Duties [2002] Qd R 683 at 688.</sentence>
 <sentence id="s275">
  What occurred on 30 May 2007 by virtue of the provisions of the deed of assignment was not a "transfer" of any interest in the PrixCar shares held by PrixCar.</sentence>
 <sentence id="s276">Prior to the assignment, the legal and beneficial interest in the 362,642 PrixCar shares was held by ARC Strang, albeit subject to the terms of the trust deed by which The A.R.C.</sentence>
@@ -599,7 +599,7 @@ Rather, the effect of the assignment was to free the beneficial interest in the 
 <sentence id="s290">The relevant principle was recently re-stated by Hollingworth J in Lygon Nominees Pty Ltd v Commissioner of State Revenue (2005) 60 ATR 135 at [58]: 
 "Neither the right to due administration of the trust nor the fiduciary obligations owed by the trustee is capable of making the object of a power of appointment into a 'beneficial owner' of the subject matter of the trust.</sentence>
 <sentence id="s291">The right of an object to take legal proceedings to prevent a disposal of income or capital by the trustee to persons outside the designated object does not involve the assertion of a proprietary right by the object and does not require the conclusion that the object has a proprietary interest in particular assets within the fund or is a 'beneficial owner' of such assets".</sentence>
-<sentence id="s292">(See also R&amp;I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 at 79-80 per Owen J.</sentence>
+<sentence id="s292">(See also R&amp;amp;I Bank of Western Australia Ltd v Anchorage Investments Pty Ltd (1993) 10 WAR 59 at 79-80 per Owen J.</sentence>
 <sentence id="s293">)
 
  

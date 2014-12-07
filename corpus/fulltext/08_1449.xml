@@ -3,17 +3,17 @@
 <name>Australian Communications and Media Authority v Clarity1 Pty Ltd (ABN 60 106 529 604) [2008] FCA 1449 (25 September 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1449.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">estimate of costs made by registrar</catchphrase>
-<catchphrase "id=c1">no notice of objection to estimate filed</catchphrase>
-<catchphrase "id=c2">certificate of taxation issued</catchphrase>
-<catchphrase "id=c3">respondent claimed certificate not received</catchphrase>
-<catchphrase "id=c4">respondent seeks to set aside order of registrar</catchphrase>
-<catchphrase "id=c5">email service originally relied on for order but no email consent given under form 12</catchphrase>
-<catchphrase "id=c6">subsequent reliance on postage</catchphrase>
-<catchphrase "id=c7">deeming provisions</catchphrase>
-<catchphrase "id=c8">serious consequences</catchphrase>
-<catchphrase "id=c9">degree of certainty of evidence as to actual postage</catchphrase>
-<catchphrase "id=c10">practice and procedure</catchphrase>
+<catchphrase id="c0">estimate of costs made by registrar</catchphrase>
+<catchphrase id="c1">no notice of objection to estimate filed</catchphrase>
+<catchphrase id="c2">certificate of taxation issued</catchphrase>
+<catchphrase id="c3">respondent claimed certificate not received</catchphrase>
+<catchphrase id="c4">respondent seeks to set aside order of registrar</catchphrase>
+<catchphrase id="c5">email service originally relied on for order but no email consent given under form 12</catchphrase>
+<catchphrase id="c6">subsequent reliance on postage</catchphrase>
+<catchphrase id="c7">deeming provisions</catchphrase>
+<catchphrase id="c8">serious consequences</catchphrase>
+<catchphrase id="c9">degree of certainty of evidence as to actual postage</catchphrase>
+<catchphrase id="c10">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -447,7 +447,7 @@
 <sentence id="s202">48 In that regard, ACMA would submit that non-service of the Certificate would amount to no more than an irregularity.</sentence>
 <sentence id="s203">As such the irregularity of an order due to a failure to meet some precondition of the Rules does not, on the submission of ACMA, mean that the order should be set aside as of right.</sentence>
 <sentence id="s204">It requires discretion to be exercised pursuant to O 35 r 7(2)(a) FCR.</sentence>
-<sentence id="s205">49 ACMA submits that in the same way an irregular judgment will not necessarily be set aside: Dependable Database Data Pty Ltd v ABI-Australian Business Information Pty Ltd (In liq) &amp; Anor [1995] FCA 449 and ACN 076 676 438 Pty Ltd (In Liq) v A-Comms Teledata Pty Ltd [2000] WASC 214 at [18] .</sentence>
+<sentence id="s205">49 ACMA submits that in the same way an irregular judgment will not necessarily be set aside: Dependable Database Data Pty Ltd v ABI-Australian Business Information Pty Ltd (In liq) &amp;amp; Anor [1995] FCA 449 and ACN 076 676 438 Pty Ltd (In Liq) v A-Comms Teledata Pty Ltd [2000] WASC 214 at [18] .</sentence>
 <sentence id="s206">50 I would not be disposed to treat the non-service of the Certificate as a mere irregularity.</sentence>
 <sentence id="s207">Reliable communications between parties are essential to efficient litigation.</sentence>
 <sentence id="s208">There is a large sum involved from Mr Mansfield's perspective as well as his solvency.</sentence>
@@ -519,7 +519,7 @@ Dated: 25 September 2008
  
  Counsel for the Respondents: IF Tait 
  
- Solicitor for the Respondents: Tait &amp; Co 
+ Solicitor for the Respondents: Tait &amp;amp; Co 
 
  Date of Hearing: 26 August 2008 
  

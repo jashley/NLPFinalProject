@@ -3,12 +3,12 @@
 <name>Korean Air Lines Co Ltd v Australian Competition and Consumer Commission [2008] FCA 265 (7 March 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/265.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application to be excused from compliance with notice to produce</catchphrase>
-<catchphrase "id=c1">notice to produce had a legitimate forensic purpose</catchphrase>
-<catchphrase "id=c2">claim for legal professional privilege upheld in part</catchphrase>
-<catchphrase "id=c3">claim for public interest immunity upheld</catchphrase>
-<catchphrase "id=c4">waiver of legal professional privilege</catchphrase>
-<catchphrase "id=c5">procedure</catchphrase>
+<catchphrase id="c0">application to be excused from compliance with notice to produce</catchphrase>
+<catchphrase id="c1">notice to produce had a legitimate forensic purpose</catchphrase>
+<catchphrase id="c2">claim for legal professional privilege upheld in part</catchphrase>
+<catchphrase id="c3">claim for public interest immunity upheld</catchphrase>
+<catchphrase id="c4">waiver of legal professional privilege</catchphrase>
+<catchphrase id="c5">procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -29,23 +29,23 @@
 <sentence id="s11">7 The dispute is limited to [5] of the notice which seeks production of documents created by four very senior officers of the ACCC who have been involved in various aspects of the investigation.</sentence>
 <sentence id="s12">8 There is no formal court process before me in relation to the dispute but the substance of it is:
  
-&#8226; An application by the ACCC under O 33 r 12 to be excused from compliance with [5] of the notice.</sentence>
-<sentence id="s13">&#8226; An application by KAL under O 15 r 11 to produce, in un-redacted form, two documents which I will describe in more detail later.</sentence>
+&amp;#8226; An application by the ACCC under O 33 r 12 to be excused from compliance with [5] of the notice.</sentence>
+<sentence id="s13">&amp;#8226; An application by KAL under O 15 r 11 to produce, in un-redacted form, two documents which I will describe in more detail later.</sentence>
 <sentence id="s14">9 The s 155 notice was signed by the Chairman of the ACCC.</sentence>
 <sentence id="s15">However, it is central to KAL's attack upon the validity of the s 155 notice that, prior to the date on which it was issued, the ACCC, through various committees or relevant officers or employees, had already decided either formally or informally, that it would commence the penalty proceedings against KAL.</sentence>
 <sentence id="s16">I will set out the precise terms of this contention later.</sentence>
 <sentence id="s17">10 In order to explain the documents sought by KAL it will be necessary to refer to the ACCC's organisational structure in relation to its investigation of air cargo price fixing.</sentence>
 <sentence id="s18">It is sufficient to say, by way of introduction, that the investigation has been carried out by staff within the Enforcement and Compliance Division of the Commission but, in about October 2007, the organisational structure bifurcated into two teams:
  
-&#8226; the settlement team
+&amp;#8226; the settlement team
  
-&#8226; the investigation/operation team.</sentence>
+&amp;#8226; the investigation/operation team.</sentence>
 <sentence id="s19">11 The bifurcation came about because, commencing in or about August 2007, the ACCC considered the establishment of a settlement regime.</sentence>
 <sentence id="s20">A "settlement strategy" was developed over a period of some weeks by ACCC staff working on the Commission's investigation, in consultation with Mr Owbridge.</sentence>
 <sentence id="s21">12 The documents which KAL seeks under the Notice to Produce comprise documents created by the four named senior ACCC officers evidencing:
  
-&#8226; the possible commencement of proceedings by the ACCC against KAL, including documents relating to the ACCC's settlement strategy.</sentence>
-<sentence id="s22">&#8226; the reasons for recommending that the Chairman of the ACCC issue the s 155 notice.</sentence>
+&amp;#8226; the possible commencement of proceedings by the ACCC against KAL, including documents relating to the ACCC's settlement strategy.</sentence>
+<sentence id="s22">&amp;#8226; the reasons for recommending that the Chairman of the ACCC issue the s 155 notice.</sentence>
 <sentence id="s23">13 The ACCC contends that there is no legitimate forensic purpose to support the production of these documents.</sentence>
 <sentence id="s24">The essential reason for this is that the ACCC submits that the only relevant decision in relation to the attack upon the s 155 notice is the decision of the ACCC itself; decisions of officers or staff cannot be decisions of the ACCC to issue the notice.</sentence>
 <sentence id="s25">The ACCC relies upon a decision of a Full Court in Kotan Holdings Pty Limited v Trade Practices Commission (1991) 30 FCR 511.</sentence>
@@ -102,12 +102,12 @@
 <sentence id="s60">The strategy involves a settlement proposal as outlined in Attachment 1 (privileged advice from AGS), which describes: 
  
  
- &#8226; the form of the settlement proposed; 
- &#8226; strategic advantages to the Commission and respondents in settling; 
- &#8226; operational advantages in settling soon; 
- &#8226; potential risks in settling in the way proposed; 
- &#8226; strategic impacts of not settling; 
- &#8226; operational impacts of not settling.</sentence>
+ &amp;#8226; the form of the settlement proposed; 
+ &amp;#8226; strategic advantages to the Commission and respondents in settling; 
+ &amp;#8226; operational advantages in settling soon; 
+ &amp;#8226; potential risks in settling in the way proposed; 
+ &amp;#8226; strategic impacts of not settling; 
+ &amp;#8226; operational impacts of not settling.</sentence>
 <sentence id="s61">
  
  
@@ -138,9 +138,9 @@
  
  
  
- &#8226; the tonnages, 
- &#8226; total revenues, and 
- &#8226; revenues attributed to fuel surcharges 
+ &amp;#8226; the tonnages, 
+ &amp;#8226; total revenues, and 
+ &amp;#8226; revenues attributed to fuel surcharges 
  
  
  
@@ -317,11 +317,11 @@
 <sentence id="s115">54 The principles applicable to legal professional privilege as a rule of substantive law were comprehensively reviewed by McColl JA in Workcover Authority (NSW) v Law Society of New South Wales (2006) 65 NSWLR 502 at [72]ff.</sentence>
 <sentence id="s116">55 The following relevant propositions emerge from her Honour's review of English and Australian authority:
  
-&#8226; Once it is established that a legal practitioner was acting in the requisite capacity, a confidential communication will attract privilege even if it contains extraneous matter, as long as it was prepared for the dominant purpose of giving legal advice.</sentence>
-<sentence id="s117">&#8226; Legal advice is not confined to telling the client the law; it may include advice as to what should prudently and sensibly be done in the relevant legal context.</sentence>
-<sentence id="s118">&#8226; What matters is whether the lawyers are being asked qua lawyers to provide legal advice.</sentence>
-<sentence id="s119">&#8226; The presence of other matter may raise a question of the purpose for which the document was brought into existence but this will be a question of fact.</sentence>
-<sentence id="s120">&#8226; The privilege should not be undermined by an overly narrow or technical approach to the identification of the relevant advice.</sentence>
+&amp;#8226; Once it is established that a legal practitioner was acting in the requisite capacity, a confidential communication will attract privilege even if it contains extraneous matter, as long as it was prepared for the dominant purpose of giving legal advice.</sentence>
+<sentence id="s117">&amp;#8226; Legal advice is not confined to telling the client the law; it may include advice as to what should prudently and sensibly be done in the relevant legal context.</sentence>
+<sentence id="s118">&amp;#8226; What matters is whether the lawyers are being asked qua lawyers to provide legal advice.</sentence>
+<sentence id="s119">&amp;#8226; The presence of other matter may raise a question of the purpose for which the document was brought into existence but this will be a question of fact.</sentence>
+<sentence id="s120">&amp;#8226; The privilege should not be undermined by an overly narrow or technical approach to the identification of the relevant advice.</sentence>
 <sentence id="s121">56 Her Honour said at [94]:
  
  While...it might be accepted that legal professional privilege can attach to communications made on the operation and application of laws, proposed laws and their drafting, it is essential to ensure, particularly in the government context, that the purpose for which a document was brought into existence was one which related to legal advice as opposed to operational, administrative or policy matters.</sentence>

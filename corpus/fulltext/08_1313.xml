@@ -3,12 +3,12 @@
 <name>Harrison v Tsamasis [2008] FCA 1313 (14 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1313.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">failure of bankrupt to provide statement of affairs</catchphrase>
-<catchphrase "id=c1">trustee in bankruptcy had made repeated unsuccessful attempts to contact bankrupt</catchphrase>
-<catchphrase "id=c2">bankrupt's total lack of interest in her own bankruptcy</catchphrase>
-<catchphrase "id=c3">application pursuant to s 146 of bankruptcy act 1966 (cth) for order that distribution of dividends amongst creditors proceed as if the bankrupt had filed a statement of affairs</catchphrase>
-<catchphrase "id=c4">application granted</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
+<catchphrase id="c0">failure of bankrupt to provide statement of affairs</catchphrase>
+<catchphrase id="c1">trustee in bankruptcy had made repeated unsuccessful attempts to contact bankrupt</catchphrase>
+<catchphrase id="c2">bankrupt's total lack of interest in her own bankruptcy</catchphrase>
+<catchphrase id="c3">application pursuant to s 146 of bankruptcy act 1966 (cth) for order that distribution of dividends amongst creditors proceed as if the bankrupt had filed a statement of affairs</catchphrase>
+<catchphrase id="c4">application granted</catchphrase>
+<catchphrase id="c5">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -81,7 +81,7 @@ Dated: 25 August 2008
 
  Counsel for the Applicant: A Zahra 
  
- Solicitor for the Applicant: Gilbert M Johnstone &amp; Co 
+ Solicitor for the Applicant: Gilbert M Johnstone &amp;amp; Co 
  
  The Respondent did not enter an appearance.</sentence>
 <sentence id="s52">Date of Hearing: 14 August 2008 

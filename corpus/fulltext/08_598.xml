@@ -3,15 +3,15 @@
 <name>Hamersley Iron Pty Limited v The National Competition Council [2008] FCA 598 (5 May 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/598.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">access to services under pt iiia of the trade practices act 1974 (cth)</catchphrase>
-<catchphrase "id=c1">rail track service</catchphrase>
-<catchphrase "id=c2">whether application can be made under s 44f(1) to national competition council for recommendation that particular rail track service be declared following rejection of similar application</catchphrase>
-<catchphrase "id=c3">res judicata</catchphrase>
-<catchphrase "id=c4">abuse of process</catchphrase>
-<catchphrase "id=c5">estoppel</catchphrase>
-<catchphrase "id=c6">principles by which earlier court orders to be construed</catchphrase>
-<catchphrase "id=c7">what constitutes an undertaking to a court</catchphrase>
-<catchphrase "id=c8">trade practices</catchphrase>
+<catchphrase id="c0">access to services under pt iiia of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase id="c1">rail track service</catchphrase>
+<catchphrase id="c2">whether application can be made under s 44f(1) to national competition council for recommendation that particular rail track service be declared following rejection of similar application</catchphrase>
+<catchphrase id="c3">res judicata</catchphrase>
+<catchphrase id="c4">abuse of process</catchphrase>
+<catchphrase id="c5">estoppel</catchphrase>
+<catchphrase id="c6">principles by which earlier court orders to be construed</catchphrase>
+<catchphrase id="c7">what constitutes an undertaking to a court</catchphrase>
+<catchphrase id="c8">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -162,7 +162,7 @@
  
  
  
- &#8226; all aspects of the standard gauge rail line; including mainline, yard track, passing sidings, culverts, bridges and temporary diversion tracks; 
+ &amp;#8226; all aspects of the standard gauge rail line; including mainline, yard track, passing sidings, culverts, bridges and temporary diversion tracks; 
  
  
  
@@ -172,7 +172,7 @@
  
  
  
- &#8226; the rail line maintenance support road; 
+ &amp;#8226; the rail line maintenance support road; 
  
  
  
@@ -180,7 +180,7 @@
  
  
  
- &#8226; all signs and signalling on the rail line; 
+ &amp;#8226; all signs and signalling on the rail line; 
  
  
  
@@ -188,7 +188,7 @@
  
  
  
- &#8226; the [Hamersley] train control system including two-way radio used by [Hamersley] ; 
+ &amp;#8226; the [Hamersley] train control system including two-way radio used by [Hamersley] ; 
  
  
  
@@ -196,7 +196,7 @@
  
  
  
- &#8226; the in-track fault detection and monitoring systems, built into the railway; and 
+ &amp;#8226; the in-track fault detection and monitoring systems, built into the railway; and 
  
  
  
@@ -204,7 +204,7 @@
  
  
  
- &#8226; other facilities to provide the Rail Track Service safely.</sentence>
+ &amp;#8226; other facilities to provide the Rail Track Service safely.</sentence>
 <sentence id="s57">" 
  
  
@@ -464,11 +464,11 @@ which it described as the Hamersley Rail Network.</sentence>
 <sentence id="s173">It made clear that it intended to consider the TPI application, call for submissions regarding that application, and, by implication, in due course make a recommendation to the designated Minister as to whether the service should be declared.</sentence>
 <sentence id="s174">52 In essence, Hamersley puts forward three arguments as to why the NCC has no power to deal with the TPI application: 
  
-&#8226; the NCC is precluded by res judicata from doing so; 
+&amp;#8226; the NCC is precluded by res judicata from doing so; 
  
-&#8226; even if res judicata in its strict sense does not apply, a doctrine somewhat akin thereto is applicable; and 
+&amp;#8226; even if res judicata in its strict sense does not apply, a doctrine somewhat akin thereto is applicable; and 
  
-&#8226; to permit the NCC to embark upon its proposed course would be to condone a breach of an undertaking given to the Court by Mr Brett when Kenny J delivered her reasons for judgment.</sentence>
+&amp;#8226; to permit the NCC to embark upon its proposed course would be to condone a breach of an undertaking given to the Court by Mr Brett when Kenny J delivered her reasons for judgment.</sentence>
 <sentence id="s175">53 In its particulars, Hamersley initially relied upon issue estoppel as well.</sentence>
 <sentence id="s176">Indeed, its case seemed to focus upon issue estoppel rather than res judicata or any breach of undertaking.</sentence>
 <sentence id="s177">However, during the course of argument before me, Hamersley expressly abandoned any reliance upon issue estoppel.</sentence>
@@ -501,12 +501,12 @@ which it described as the Hamersley Rail Network.</sentence>
 <sentence id="s202">If it is a final decision by a court having jurisdiction as to the same question and between the same parties , it will be binding on them unless and until overturned on appeal.</sentence>
 <sentence id="s203">62 Spencer Bower states (at 17) that a party setting up res judicata by way of estoppel as a bar to the opponent's claim, or as the foundation of that party's own claim, is required to establish that: 
  
-&#8226; the decision was final and on the merits;
+&amp;#8226; the decision was final and on the merits;
  
-&#8226; it determined the same question as that raised in the later litigation; and 
+&amp;#8226; it determined the same question as that raised in the later litigation; and 
  
  
- &#8226; the parties to the later litigation were either parties to the earlier proceeding or their privies.</sentence>
+ &amp;#8226; the parties to the later litigation were either parties to the earlier proceeding or their privies.</sentence>
 <sentence id="s204">
  
 
@@ -554,8 +554,8 @@ which it described as the Hamersley Rail Network.</sentence>
 <sentence id="s232">72 Hamersley formulates the issue of construction concerning the orders of Kenny J as follows:
  
  
- &#8226; Whether, as Hamersley contends, the reference to "Rail Track Service" in the second declaration means "the bulk iron ore rail track transportation service provided by the Hamersley Rail Infrastructure Facility" with the consequence that the NCC has no power to make a recommendation regarding declaration of such a service; or 
- &#8226; Whether, as the NCC and TPI contend, the adoption in the second declaration of the defined term "Rail Track Service" from the Robe River application carries an implication that the second declaration merely states that the NCC lacks power to make a recommendation to declare such a service, pursuant to the Robe River declaration application.</sentence>
+ &amp;#8226; Whether, as Hamersley contends, the reference to "Rail Track Service" in the second declaration means "the bulk iron ore rail track transportation service provided by the Hamersley Rail Infrastructure Facility" with the consequence that the NCC has no power to make a recommendation regarding declaration of such a service; or 
+ &amp;#8226; Whether, as the NCC and TPI contend, the adoption in the second declaration of the defined term "Rail Track Service" from the Robe River application carries an implication that the second declaration merely states that the NCC lacks power to make a recommendation to declare such a service, pursuant to the Robe River declaration application.</sentence>
 <sentence id="s233">
  
 
@@ -614,7 +614,7 @@ which it described as the Hamersley Rail Network.</sentence>
 <sentence id="s280">
  
 87 I note that in Owston Nominees No 2 Pty Ltd v Branair Pty Ltd (2003) at 569, Allsop J concluded that, when construing court orders, regard may even be had to the evidence that was led before the judge who pronounced those orders.</sentence>
-<sentence id="s281">See also Blacktown Concrete Services Pty Ltd v Ultra Refurbishing &amp; Construction Pty Ltd (in liq) (1998) 43 NSWLR 484 and Australian Energy Ltd v Lennard Oil NL (No 2) at 232.</sentence>
+<sentence id="s281">See also Blacktown Concrete Services Pty Ltd v Ultra Refurbishing &amp;amp; Construction Pty Ltd (in liq) (1998) 43 NSWLR 484 and Australian Energy Ltd v Lennard Oil NL (No 2) at 232.</sentence>
 <sentence id="s282">88 The NCC and TPI argue that a fair reading of First Hamersley Iron makes it clear, as does the legislative regime in Pt IIIA of the TPA, that Kenny J was engaged in making a determination which was entirely dependent on the evidence led in that case as to the then current state of facts.</sentence>
 <sentence id="s283">They refer to [15]-[25] of her Honour's reasons for judgment.</sentence>
 <sentence id="s284">They submit that Kenny J was not asked, and did not purport, to make orders expressed to extend to all possible future times and circumstances.</sentence>
@@ -810,7 +810,7 @@ which it described as the Hamersley Rail Network.</sentence>
 <sentence id="s439">In many cases, the undertakings do not form part of any court order.</sentence>
 <sentence id="s440">Nonetheless, an undertaking has the same effect in law as an injunction.</sentence>
 <sentence id="s441">Breach of an undertaking is a contempt of court.</sentence>
-<sentence id="s442">Self-evidently, the principles that apply to interpreting court orders also apply to interpreting undertakings: S &amp; M Motor Repairs Pty Ltd v Caltex Oil (Australia) Pty Ltd (1988) 12 NSWLR 358.</sentence>
+<sentence id="s442">Self-evidently, the principles that apply to interpreting court orders also apply to interpreting undertakings: S &amp;amp; M Motor Repairs Pty Ltd v Caltex Oil (Australia) Pty Ltd (1988) 12 NSWLR 358.</sentence>
 <sentence id="s443">132 It is quite common when injunctive relief is sought against the Commonwealth for the court to inquire of its own motion whether an injunction is really necessary or whether an appropriate undertaking will be forthcoming.</sentence>
 <sentence id="s444">Typically, in such circumstances, undertakings are readily proffered.</sentence>
 <sentence id="s445">The need to grant injunctive relief is thereby avoided.</sentence>
@@ -833,7 +833,7 @@ which it described as the Hamersley Rail Network.</sentence>
 <sentence id="s456">It is not necessary for the word "undertake" to be used.</sentence>
 <sentence id="s457">Some undertakings are merely implied.</sentence>
 <sentence id="s458">See for example: Harman v Secretary of State for the Home Department [1983] 1 AC 280 at 304.</sentence>
-<sentence id="s459">As with an injunction, the terms of an undertaking must be strictly observed: Lade &amp; Co Pty Ltd v Black [2006] 2 Qd R 531 at [36].</sentence>
+<sentence id="s459">As with an injunction, the terms of an undertaking must be strictly observed: Lade &amp;amp; Co Pty Ltd v Black [2006] 2 Qd R 531 at [36].</sentence>
 <sentence id="s460">137 Hamersley submits that the Court should treat what Mr Brett said on behalf of the NCC as an undertaking to Kenny J reflecting the terms of the permanent injunction which her Honour had stated that she proposed to grant.</sentence>
 <sentence id="s461">In other words, the undertaking was equivalent to an injunction preventing the NCC from making a recommendation regarding declaration of the Hamersley rail track service to the designated Minister.</sentence>
 <sentence id="s462">The statements made by Mr Brett were given in lieu of such an injunction.</sentence>

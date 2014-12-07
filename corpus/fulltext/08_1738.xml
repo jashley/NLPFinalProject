@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <case>
-<name>Black &amp; Decker Inc v GMCA Pty Ltd (No 5) [2008] FCA 1738 (20 November 2008)</name>
+<name>Black &amp;amp; Decker Inc v GMCA Pty Ltd (No 5) [2008] FCA 1738 (20 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1738.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patent infringement</catchphrase>
-<catchphrase "id=c1">account of profits</catchphrase>
-<catchphrase "id=c2">profits made on one of two infringing products but losses on the other over several years</catchphrase>
-<catchphrase "id=c3">whether losses from one product to be deducted from profits from the other</catchphrase>
-<catchphrase "id=c4">whether losses in later years to be deducted from profits in earlier years</catchphrase>
-<catchphrase "id=c5">intellectual property</catchphrase>
+<catchphrase id="c0">patent infringement</catchphrase>
+<catchphrase id="c1">account of profits</catchphrase>
+<catchphrase id="c2">profits made on one of two infringing products but losses on the other over several years</catchphrase>
+<catchphrase id="c3">whether losses from one product to be deducted from profits from the other</catchphrase>
+<catchphrase id="c4">whether losses in later years to be deducted from profits in earlier years</catchphrase>
+<catchphrase id="c5">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
  
 1 From 2002 the respondent GMCA Pty Ltd sold in Australia a manual power saw.</sentence>
 <sentence id="s1">The initial model, referred to in these proceedings as T1, was superseded by a later model, T2.</sentence>
-<sentence id="s2">2 I found that the sale of T1 and T2 infringed Black &amp; Decker's standard and innovation patents in respect of power tools: Black &amp; Decker Inc v GMCA Pty Ltd (No 2) [2008] FCA 504.</sentence>
-<sentence id="s3">3 Black &amp; Decker having elected to take an account of profits, it emerges that sales of T1 were profitable but sales of T2 were not.</sentence>
+<sentence id="s2">2 I found that the sale of T1 and T2 infringed Black &amp;amp; Decker's standard and innovation patents in respect of power tools: Black &amp;amp; Decker Inc v GMCA Pty Ltd (No 2) [2008] FCA 504.</sentence>
+<sentence id="s3">3 Black &amp;amp; Decker having elected to take an account of profits, it emerges that sales of T1 were profitable but sales of T2 were not.</sentence>
 <sentence id="s4">Two issues arise.</sentence>
 <sentence id="s5">First, should GMCA be entitled to set off losses it made on sales of T2 against profits made on sales of T1?</sentence>
 <sentence id="s6">Secondly, should profits and losses be amalgamated over all the years in question?</sentence>
@@ -24,7 +24,7 @@
 <sentence id="s8">Mr Peter Hosking, a director of GMCA, swore an affidavit which provided, on a confidential basis, details of the computation of profits and losses.</sentence>
 <sentence id="s9">5 To arrive at a gross profit Mr Hosking deducted from the GST-exclusive gross sales figure the cost of goods sold and a rebate that GMCA gave to its customers.</sentence>
 <sentence id="s10">This rebate was negotiated specifically with individual customers.</sentence>
-<sentence id="s11">6 The net profit was calculated by deducting from the gross profit figure percentages for freight, "company overhead", warranty, R&amp;D, and (in respect of T2 only) amortisation.</sentence>
+<sentence id="s11">6 The net profit was calculated by deducting from the gross profit figure percentages for freight, "company overhead", warranty, R&amp;amp;D, and (in respect of T2 only) amortisation.</sentence>
 <sentence id="s12">A summary, with the confidential dollar figures excluded, is as follows:
  PERIOD OF INFRINGEMENT INFRINGING PRODUCT RESPONDENT'S PROFIT/LOSS Pre 30/06/2002 T1 Profit $ 01/07/2002 --- 30/06/2003 T1 Profit $ 01/07/2003 --- 30/06/2004 T1 Profit $ 01/07/2003 --- 30/06/2004 T2 Loss $ 01/07/2004 --- 30/06/2005 T2 Loss $ 01/07/2005 --- 30/06/2006 T2 Loss $ 01/07/2006 --- present T2 Loss $ Total 
  Profit $ 
@@ -63,8 +63,8 @@
 <sentence id="s40">It was not suggested that any such analysis was possible on the facts of this case.</sentence>
 <sentence id="s41">13 The present case is a straightforward one and consistent with the hypothetical example discussed by Laddie J. GMCA made a profit on some infringements but a loss on others.</sentence>
 <sentence id="s42">It should disgorge the profits it made.</sentence>
-<sentence id="s43">It would be ironic in the extreme if GMCA could take the benefit of its own infringing conduct in respect of T2 by setting off the losses made in such activity against the profits on the T1 infringements which it is required to disgorge to Black &amp; Decker.</sentence>
-<sentence id="s44">14 The point was specifically dealt with by Harvey CJ in Equity in Leplastrier &amp; Co Ltd v Armstrong-Holland Ltd (1926) 26 SR (NSW) 585 at 591-2.</sentence>
+<sentence id="s43">It would be ironic in the extreme if GMCA could take the benefit of its own infringing conduct in respect of T2 by setting off the losses made in such activity against the profits on the T1 infringements which it is required to disgorge to Black &amp;amp; Decker.</sentence>
+<sentence id="s44">14 The point was specifically dealt with by Harvey CJ in Equity in Leplastrier &amp;amp; Co Ltd v Armstrong-Holland Ltd (1926) 26 SR (NSW) 585 at 591-2.</sentence>
 <sentence id="s45">The case concerned infringement of a patent for concrete mixing machines.</sentence>
 <sentence id="s46">His Honour said:
  Every sale of a machine gives the plaintiff a separate right to recover profits made on the sale of that machine, and the plaintiff has a right to require that he shall have details of the sale and cost of every individual machine.</sentence>
@@ -73,15 +73,15 @@
 <sentence id="s49">What he has to account for is the profits on any machines on which he happens to have made a profit.</sentence>
 <sentence id="s50">In Leplastrier the losses the infringer sought to set off were made on sales of non-infringing products (see at 592).</sentence>
 <sentence id="s51">However, for the reasons already stated, the present case seems stronger against allowing any set off.</sentence>
-<sentence id="s52">15 While Leplastrier was the subject of some criticism by the majority of the High Court in Dart Industries Inc v The D&eacute;cor Corporation Pty Ltd [1993] HCA 54 ; (1993) 179 CLR 101 at 115, that was on a quite different point, namely the allowance of a proportion of overhead expenses.</sentence>
+<sentence id="s52">15 While Leplastrier was the subject of some criticism by the majority of the High Court in Dart Industries Inc v The D&amp;eacute;cor Corporation Pty Ltd [1993] HCA 54 ; (1993) 179 CLR 101 at 115, that was on a quite different point, namely the allowance of a proportion of overhead expenses.</sentence>
 <sentence id="s53">As has already been indicated, that is not an issue in the present case.</sentence>
-<sentence id="s54">A claim for a proportion of overhead expenses has been made by GMCA and accepted by Black &amp; Decker.</sentence>
+<sentence id="s54">A claim for a proportion of overhead expenses has been made by GMCA and accepted by Black &amp;amp; Decker.</sentence>
 <sentence id="s55">16 Likewise it is inconsistent with principle to amalgamate profits and losses across years.</sentence>
 <sentence id="s56">Anyway Mr Hosking's figures do not purport to be a profit and loss statement for the business as a whole.</sentence>
 <sentence id="s57">His affidavit is confined to gross and net profits and losses in each year made on infringing products.</sentence>
-<sentence id="s58">17 I accept Black &amp; Decker's submissions.</sentence>
+<sentence id="s58">17 I accept Black &amp;amp; Decker's submissions.</sentence>
 <sentence id="s59">The result is that on the agreed figures there will be judgment for $77,275.10.</sentence>
-<sentence id="s60">There will be an order that GMCA pay Black &amp; Decker's costs.</sentence>
+<sentence id="s60">There will be an order that GMCA pay Black &amp;amp; Decker's costs.</sentence>
 <sentence id="s61">I certify that the preceding seventeen (17) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Heerey.</sentence>
 <sentence id="s62">Associate:
 

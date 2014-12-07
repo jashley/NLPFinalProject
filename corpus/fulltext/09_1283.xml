@@ -3,22 +3,22 @@
 <name>Sportsbet Pty Limited v State of New South Wales (No 3) (includes Corrigendum dated 13 November 2009) [2009] FCA 1283 (13 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1283.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">public interest immunity</catchphrase>
-<catchphrase "id=c1">claim by state that documents associated with the drafting of legislation protected from disclosure by public interest immunity</catchphrase>
-<catchphrase "id=c2">class claim</catchphrase>
-<catchphrase "id=c3">whether public interest in ensuring candour outweighed by public interest in ensuring the administration of justice</catchphrase>
-<catchphrase "id=c4">legal professional privilege</catchphrase>
-<catchphrase "id=c5">documents concerning communications between a state and its lawyers</catchphrase>
-<catchphrase "id=c6">where documents contain draft legislation</catchphrase>
-<catchphrase "id=c7">whether documents created for the dominant purpose of obtaining legal advice</catchphrase>
-<catchphrase "id=c8">whether documents confidential</catchphrase>
-<catchphrase "id=c9">whether waiver</catchphrase>
-<catchphrase "id=c10">without prejudice (settlement) privilege claim</catchphrase>
-<catchphrase "id=c11">where subject-matter of the documents in question concern settlement negotiations in a dispute separate to the subject litigation</catchphrase>
-<catchphrase "id=c12">where proposed use of the documents not the proving of the truth of any admissions made but of proving that a certain commercial relationship existed between the negotiating parties</catchphrase>
-<catchphrase "id=c13">privilege</catchphrase>
-<catchphrase "id=c14">privilege</catchphrase>
-<catchphrase "id=c15">privilege</catchphrase>
+<catchphrase id="c0">public interest immunity</catchphrase>
+<catchphrase id="c1">claim by state that documents associated with the drafting of legislation protected from disclosure by public interest immunity</catchphrase>
+<catchphrase id="c2">class claim</catchphrase>
+<catchphrase id="c3">whether public interest in ensuring candour outweighed by public interest in ensuring the administration of justice</catchphrase>
+<catchphrase id="c4">legal professional privilege</catchphrase>
+<catchphrase id="c5">documents concerning communications between a state and its lawyers</catchphrase>
+<catchphrase id="c6">where documents contain draft legislation</catchphrase>
+<catchphrase id="c7">whether documents created for the dominant purpose of obtaining legal advice</catchphrase>
+<catchphrase id="c8">whether documents confidential</catchphrase>
+<catchphrase id="c9">whether waiver</catchphrase>
+<catchphrase id="c10">without prejudice (settlement) privilege claim</catchphrase>
+<catchphrase id="c11">where subject-matter of the documents in question concern settlement negotiations in a dispute separate to the subject litigation</catchphrase>
+<catchphrase id="c12">where proposed use of the documents not the proving of the truth of any admissions made but of proving that a certain commercial relationship existed between the negotiating parties</catchphrase>
+<catchphrase id="c13">privilege</catchphrase>
+<catchphrase id="c14">privilege</catchphrase>
+<catchphrase id="c15">privilege</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -614,12 +614,12 @@ Annexure B to Ms Mills' affidavit
 <sentence id="s443">Contrary to Sportsbet's submissions I see no material distinction between the facts of the present case and Australian Rugby Union Ltd v Hospitality Group Pty Ltd (1999) 165 ALR 253 ; [1999] FCA 1061 where Sackville J at [44] concluded:
  
  
- [44 ] In my view, the mere fact that otherwise privileged communications at the Meeting took place in the presence of persons who did not represent clients of FH&amp;P, does not justify a conclusion that the ARU had expressly or intentionally waived privilege in those communications.</sentence>
+ [44 ] In my view, the mere fact that otherwise privileged communications at the Meeting took place in the presence of persons who did not represent clients of FH&amp;amp;P, does not justify a conclusion that the ARU had expressly or intentionally waived privilege in those communications.</sentence>
 <sentence id="s444">The disclosure of the privileged communications was to a limited group, namely those attending the Meeting.</sentence>
 <sentence id="s445">While there is no evidence of an express undertaking by the non-clients present at the Meeting to preserve confidentiality, the circumstances suggest that the non-clients were under an implied obligation to respect the confidentiality of the communications at the Meeting.</sentence>
 <sentence id="s446">The Meeting took place with solicitors present.</sentence>
 <sentence id="s447">That of itself does not necessarily show that all communications were subject to legal professional privilege.</sentence>
-<sentence id="s448">But, as I have found, the purpose of the Meeting was to enable FH&amp;P to give legal advice to the ARU, and indeed such advice was given.</sentence>
+<sentence id="s448">But, as I have found, the purpose of the Meeting was to enable FH&amp;amp;P to give legal advice to the ARU, and indeed such advice was given.</sentence>
 <sentence id="s449">So far as the evidence goes, the representatives of the non-clients were in attendance in order to provide information required by the solicitors.</sentence>
 <sentence id="s450">
  
@@ -687,7 +687,7 @@ Annexure B to Ms Mills' affidavit
 <sentence id="s500">Cross on Evidence .</sentence>
 <sentence id="s501">7 th Aust ed.</sentence>
 <sentence id="s502">LexisNexis.</sentence>
-<sentence id="s503">Sydney at [25350] and [25375] and Unilever PLC v The Procter &amp; Gamble Co [2000] WLR 2436 at 2441-2442 and 2448-2449.</sentence>
+<sentence id="s503">Sydney at [25350] and [25375] and Unilever PLC v The Procter &amp;amp; Gamble Co [2000] WLR 2436 at 2441-2442 and 2448-2449.</sentence>
 <sentence id="s504">There is, however, no debate about the importance of the public policy underlying the privilege or the impracticality of attempting to separate admissions from other communications in the course of negotiations.</sentence>
 <sentence id="s505">The issue in this case is whether the privilege is engaged at all where the documents are sought to be used by a third party not for the purpose of proving the truth or otherwise of any of the communications (including any admissions) but to prove only that the communications were in fact made.</sentence>
 <sentence id="s506">In common with the submissions of Betfair in Betfair (No 7) , Sportsbet says the documents are relevant for that latter purpose because the fact that the communications were made is capable of establishing a fact or facts in issue in the proceeding (as I understand it, the existence of a commercial relationship between the respondents and the TAB interests such as to support the alleged discriminatory and protectionist purpose which founds Sportsbet's challenges to the validity of the amendments to the legislative scheme and the turnover conditions).</sentence>

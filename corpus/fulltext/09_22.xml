@@ -3,10 +3,10 @@
 <name>Ferdinands v Chief of Army [2009] FCA 22 (20 January 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/22.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal from decision of federal court judge</catchphrase>
-<catchphrase "id=c1">whether leave required</catchphrase>
-<catchphrase "id=c2">whether decision to refuse application for extension of time to apply to show cause was interlocutory or final</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase id="c0">application for leave to appeal from decision of federal court judge</catchphrase>
+<catchphrase id="c1">whether leave required</catchphrase>
+<catchphrase id="c2">whether decision to refuse application for extension of time to apply to show cause was interlocutory or final</catchphrase>
+<catchphrase id="c3">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -27,7 +27,7 @@
 <sentence id="s10">If the latter, no leave to appeal from his decision was necessary.</sentence>
 <sentence id="s11">If the former, s 24(1A) of the Federal Court of Australia Act 1976 (Cth) provided that no appeal lay from that decision without leave.</sentence>
 <sentence id="s12">Leave to appeal may be given by a single judge: s 25(2)(a).</sentence>
-<sentence id="s13">Under O 52 r 10 of the Federal Court Rules leave to appeal is given in accordance with principles discussed in D&eacute;cor Corp Pty Ltd &amp; Anor v Dart Industries Inc [1991] FCA 655 ; (1991) 33 FCR 397 , in particular having regard to two main considerations, namely, whether in all the circumstances the decision is attended with sufficient doubt to warrant its reconsideration by the Full Court, and whether substantial injustice would result if leave to appeal were refused supposing the decision to be wrong.</sentence>
+<sentence id="s13">Under O 52 r 10 of the Federal Court Rules leave to appeal is given in accordance with principles discussed in D&amp;eacute;cor Corp Pty Ltd &amp;amp; Anor v Dart Industries Inc [1991] FCA 655 ; (1991) 33 FCR 397 , in particular having regard to two main considerations, namely, whether in all the circumstances the decision is attended with sufficient doubt to warrant its reconsideration by the Full Court, and whether substantial injustice would result if leave to appeal were refused supposing the decision to be wrong.</sentence>
 <sentence id="s14">5 Counsel for the respondents drew attention to Paramasivam v Flynn [1998] FCA 1711 ; (1998) 90 FCR 489 ( Paramasivam ).</sentence>
 <sentence id="s15">That case involved an application for an extension of time to commence an action for damages in tort and for compensation for breach of fiduciary duty in relation to a series of sexual assaults upon that appellant against his guardian.</sentence>
 <sentence id="s16">The appeal from the dismissal of an application for an extension of time within which to have commenced those proceedings was dismissed, in essence because there was no real prospect of the claim succeeding.</sentence>

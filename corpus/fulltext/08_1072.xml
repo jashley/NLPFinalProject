@@ -3,12 +3,12 @@
 <name>Hamilton v Diprose [2008] FCA 1072 (21 July 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1072.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">agreement for payment of legal costs</catchphrase>
-<catchphrase "id=c1">application for directions under s 511 of the corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c2">claim by respondent that agreement should be set aside</catchphrase>
-<catchphrase "id=c3">power to enlarge proceeding to include determination of substantive rights</catchphrase>
-<catchphrase "id=c4">appropriate circumstances for exercise of such power</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase id="c0">agreement for payment of legal costs</catchphrase>
+<catchphrase id="c1">application for directions under s 511 of the corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c2">claim by respondent that agreement should be set aside</catchphrase>
+<catchphrase id="c3">power to enlarge proceeding to include determination of substantive rights</catchphrase>
+<catchphrase id="c4">appropriate circumstances for exercise of such power</catchphrase>
+<catchphrase id="c5">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -47,7 +47,7 @@ Dated: 24 July 2008
 
  Counsel for the Applicant: J A Buckley 
  
- Solicitor for the Applicant: Toomey Maning &amp; Co 
+ Solicitor for the Applicant: Toomey Maning &amp;amp; Co 
  
  Counsel for the Respondent: The respondent appeared in person 
 

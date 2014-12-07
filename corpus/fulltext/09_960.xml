@@ -3,12 +3,12 @@
 <name>Australian Competition and Consumer Commission v Allergy Pathway Pty Ltd [2009] FCA 960 (27 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/960.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">declaration</catchphrase>
-<catchphrase "id=c1">evidence</catchphrase>
-<catchphrase "id=c2">declaration not to be made on admissions or consent</catchphrase>
-<catchphrase "id=c3">misleading or deceptive conduct in relation to medical services</catchphrase>
-<catchphrase "id=c4">practice and procedure</catchphrase>
-<catchphrase "id=c5">trade practices</catchphrase>
+<catchphrase id="c0">declaration</catchphrase>
+<catchphrase id="c1">evidence</catchphrase>
+<catchphrase id="c2">declaration not to be made on admissions or consent</catchphrase>
+<catchphrase id="c3">misleading or deceptive conduct in relation to medical services</catchphrase>
+<catchphrase id="c4">practice and procedure</catchphrase>
+<catchphrase id="c5">trade practices</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -263,7 +263,7 @@ Scarman LJ put the matter somewhat differently.</sentence>
 <sentence id="s131">Notwithstanding that the rule is only one of practice, it has been said the court will only depart from the practice in a "rare case" and then only when it is necessary "to do justice between the parties": Animatrix Ltd v O'Kelly [2008] EWCA Civ 1415 at [54] .</sentence>
 <sentence id="s132">In recent times it has been suggested that the court may move away from the strictness of the rule.</sentence>
 <sentence id="s133">With the introduction in 1999 of the Civil Procedure Rules in the United Kingdom a statement of case and a response must be verified by a statement of truth (r 22.1) - ie a statement by the party putting forward the document that he believes the facts stated in the document are true.</sentence>
-<sentence id="s134">This led to a suggestion that "the reluctance of the court to grant declarations without full investigation of the facts is less strong now that the allegations have to be verified by a statement of truth than was formally the case": Lever Faberg &eacute; Ltd v Colgate-Palmolive Co [2005] EWHC 2655 (Pat) at [4] per Lewison J.</sentence>
+<sentence id="s134">This led to a suggestion that "the reluctance of the court to grant declarations without full investigation of the facts is less strong now that the allegations have to be verified by a statement of truth than was formally the case": Lever Faberg &amp;eacute; Ltd v Colgate-Palmolive Co [2005] EWHC 2655 (Pat) at [4] per Lewison J.</sentence>
 <sentence id="s135">See also Hayim v Couch [2009] EWHC 1040 (Ch).</sentence>
 <sentence id="s136">Cases in Australia follow the orthodox English approach.</sentence>
 <sentence id="s137">The leading Federal Court decision is BMI Ltd v Federated Clerks Union of Australia (1983) 51 ALR 401.</sentence>
@@ -383,7 +383,7 @@ Advanced Allergy Elimination uses gentle pressure to stimulate points along the 
 <sentence id="s213">" "Once the allergy is cleared and the symptoms alleviated, the benefits from the treatment are generally long term.</sentence>
 <sentence id="s214">" "The initial appointment is $115 which includes identifying your allergies and the treatment of one allergen family.</sentence>
 <sentence id="s215">We can treat one allergen family per treatment .</sentence>
-<sentence id="s216">" "Advanced Allergy Elimination is able to eliminate allergies and/or sensitivities, allowing patients to be exposed to substances without experiencing the allergic reactions they previously suffered" "Advanced Allergy Elimination (AAE) significantly improves, if not eliminates, most forms of allergies &amp; sensitivities with one treatment per allergen family .</sentence>
+<sentence id="s216">" "Advanced Allergy Elimination is able to eliminate allergies and/or sensitivities, allowing patients to be exposed to substances without experiencing the allergic reactions they previously suffered" "Advanced Allergy Elimination (AAE) significantly improves, if not eliminates, most forms of allergies &amp;amp; sensitivities with one treatment per allergen family .</sentence>
 <sentence id="s217">" "Once treated, patients can recommence contact with the substances that had previously caused the adverse reaction.</sentence>
 <sentence id="s218">" "Once treated, patients can start or recommence contact with the substances that had previously caused the adverse reaction.</sentence>
 <sentence id="s219">" "Treatment means you can usually recommence contact with the substance you were reacting to" "Most patients only need one treatment per allergen" "Your body associates the positive experience with the allergen and no longer sees it as something to react to" "Advanced Allergy Elimination (AAE) is an advanced technology that significantly improves, if not eliminates most forms of allergies and sensitivities with one treatment per allergen family.</sentence>

@@ -3,20 +3,20 @@
 <name>Thompson v IGT (Australia) Pty Limited [2008] FCA 994 (5 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/994.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">allegations by employee of discrimination arising out of employee's medical disability relating to back condition and employer's response thereto</catchphrase>
-<catchphrase "id=c1">whether direction of employer to employee to undergo medical examination constitutes a detriment within the meaning of s 15(2)(d) of the disability discrimination act 1992 (cth)</catchphrase>
-<catchphrase "id=c2">causation issue</catchphrase>
-<catchphrase "id=c3">circumstances to be considered in determining whether employer's direction to attend medical examination is made because of disability</catchphrase>
-<catchphrase "id=c4">comparator issue</catchphrase>
-<catchphrase "id=c5">whether the relevant comparator to use in determining whether differential treatment has been meted out to an employee</catchphrase>
-<catchphrase "id=c6">whether requirement to provide medical information to one's employer that might be relevant to the performance of one's work is a necessary or incident part of the employment relationship</catchphrase>
-<catchphrase "id=c7">whether a direction to provide such information by submitting to psychiatric assessment is lawful and reasonable where employee has a history of unexplained absences and there are inconsistencies in the information available in relation to the state of the employee's health</catchphrase>
-<catchphrase "id=c8">costs</catchphrase>
-<catchphrase "id=c9">whether a costs order should be made where an application for interlocutory relief is dismissed pursuant to the generally applicable principles governing the grant or refusal of such relief</catchphrase>
-<catchphrase "id=c10">whether a costs order should be made where an application for interlocutory relief succeeds</catchphrase>
-<catchphrase "id=c11">discrimination law</catchphrase>
-<catchphrase "id=c12">industrial relations</catchphrase>
-<catchphrase "id=c13">preliminary injunctions</catchphrase>
+<catchphrase id="c0">allegations by employee of discrimination arising out of employee's medical disability relating to back condition and employer's response thereto</catchphrase>
+<catchphrase id="c1">whether direction of employer to employee to undergo medical examination constitutes a detriment within the meaning of s 15(2)(d) of the disability discrimination act 1992 (cth)</catchphrase>
+<catchphrase id="c2">causation issue</catchphrase>
+<catchphrase id="c3">circumstances to be considered in determining whether employer's direction to attend medical examination is made because of disability</catchphrase>
+<catchphrase id="c4">comparator issue</catchphrase>
+<catchphrase id="c5">whether the relevant comparator to use in determining whether differential treatment has been meted out to an employee</catchphrase>
+<catchphrase id="c6">whether requirement to provide medical information to one's employer that might be relevant to the performance of one's work is a necessary or incident part of the employment relationship</catchphrase>
+<catchphrase id="c7">whether a direction to provide such information by submitting to psychiatric assessment is lawful and reasonable where employee has a history of unexplained absences and there are inconsistencies in the information available in relation to the state of the employee's health</catchphrase>
+<catchphrase id="c8">costs</catchphrase>
+<catchphrase id="c9">whether a costs order should be made where an application for interlocutory relief is dismissed pursuant to the generally applicable principles governing the grant or refusal of such relief</catchphrase>
+<catchphrase id="c10">whether a costs order should be made where an application for interlocutory relief succeeds</catchphrase>
+<catchphrase id="c11">discrimination law</catchphrase>
+<catchphrase id="c12">industrial relations</catchphrase>
+<catchphrase id="c13">preliminary injunctions</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -260,7 +260,7 @@ She said that:
 <sentence id="s82">She said that she would write to the applicant after the meeting to confirm the details requested.</sentence>
 <sentence id="s83">According to the file note, the applicant agreed at the meeting to work with the respondent to obtain and provide this information.</sentence>
 <sentence id="s84">14 On 25 September 2007, Ms Baldo wrote to the applicant in relation to the meeting and said, relevantly: 
- "Further to this conversation and those previously held with your line manager regarding your regular absenteeism and your Performance Review, IGT would like to attain clarity as to your current medical situation and its impact on your ability to undertake your role of Video Artist/Animator on a full-time basis within the Product Development &amp; Compliance department at our site in Mulgrave, Victoria.</sentence>
+ "Further to this conversation and those previously held with your line manager regarding your regular absenteeism and your Performance Review, IGT would like to attain clarity as to your current medical situation and its impact on your ability to undertake your role of Video Artist/Animator on a full-time basis within the Product Development &amp;amp; Compliance department at our site in Mulgrave, Victoria.</sentence>
 <sentence id="s85">...</sentence>
 <sentence id="s86">In order for IGT to assess your situation against its duties and responsibilities to you, IGT requires you to provide a detailed medical report from your primary physician or specialist by Friday 26 October 2007 which details the following: 1. your current medical condition/s; 
  
@@ -312,7 +312,7 @@ She said that:
 
  
 19 On 31 October 2007, the applicant sent an email to Mr Slattery saying that he would be attending a medical examination.</sentence>
-<sentence id="s106">On the same day, he had a meeting with Mr John Duffy, the General Manger (Product Development &amp; Compliance) of the respondent.</sentence>
+<sentence id="s106">On the same day, he had a meeting with Mr John Duffy, the General Manger (Product Development &amp;amp; Compliance) of the respondent.</sentence>
 <sentence id="s107">In the course of that meeting, according to a minute of the meeting prepared by the respondent, the applicant referred to medication he was taking.</sentence>
 <sentence id="s108">The file note discloses that he said:
  "...</sentence>
@@ -407,7 +407,7 @@ Dr Schutz wrote:
 <sentence id="s156">26 On 14 December 2007, Ms Baldo wrote to the applicant under the heading "Recent absences and fitness for work" and said:
  "We refer to your medical examination with Dr Schutz on 13 November 2007 and enclose a copy of his report dated 22 November 2007 ('Report').</sentence>
 <sentence id="s157">We note that the Report states that your recent extensive absences from work are attributable to receiving treatment for low back symptoms which presented in about mid 2006.</sentence>
-<sentence id="s158">In this regard, our records indicate that you have been absent from work during 2007 as follows: &#8226; Paid personal leave: 5 days &#8226; Unpaid leave: 39 days.</sentence>
+<sentence id="s158">In this regard, our records indicate that you have been absent from work during 2007 as follows: &amp;#8226; Paid personal leave: 5 days &amp;#8226; Unpaid leave: 39 days.</sentence>
 <sentence id="s159">We are pleased to note that Dr Schutz has indicated that your treatment has progressed well and that your condition is recovered satisfactorily.</sentence>
 <sentence id="s160">In particular, we note that Dr Schutz has stated that you are currently fit to perform the full range of your duties as a Computer Animator.</sentence>
 <sentence id="s161">...</sentence>
@@ -483,15 +483,15 @@ It does not appear that that clarification was given.</sentence>
 <sentence id="s210">40 Having regard to all the matters to which I have referred, I am satisfied that the respondent is entitled to be concerned about the reasons for the unexplained medical absences of the applicant and the inconsistencies in the information that it has received in relation to his health to which I have already referred.</sentence>
 <sentence id="s211">41 The applicant made the following submissions: 
  
-&#8226; he has been subjected to less favourable treatment because of his disability;
+&amp;#8226; he has been subjected to less favourable treatment because of his disability;
  
-&#8226; the requirement to attend the psychiatric examination is discriminatory;
+&amp;#8226; the requirement to attend the psychiatric examination is discriminatory;
  
-&#8226; the conduct engaged in by the respondent is on account of his disability;
+&amp;#8226; the conduct engaged in by the respondent is on account of his disability;
  
-&#8226; the request to see the psychiatrist is extraneous to his condition;
+&amp;#8226; the request to see the psychiatrist is extraneous to his condition;
  
-&#8226; he said at the meeting on 1 October 2007 that he needed blocks of time off for further treatment.</sentence>
+&amp;#8226; he said at the meeting on 1 October 2007 that he needed blocks of time off for further treatment.</sentence>
 <sentence id="s212">I observe in relation to this last submission that the applicant did not say that this was the reason for his absences on and after 5 December 2007, save for his absence on 18 March 2008.</sentence>
 <sentence id="s213">42 The applicant submitted further that the time he has taken off since 5 December 2007 is consistent with the reason being that it relates to his back injury.</sentence>
 <sentence id="s214">The difficulty with that submission is that the applicant has not said so, nor has he supplied medical certificates to that effect.</sentence>
@@ -501,9 +501,9 @@ It does not appear that that clarification was given.</sentence>
 <sentence id="s218">Certainly, having regard to the history to which I have referred, it is not an unreasonable request by the respondent.</sentence>
 <sentence id="s219">44 The respondent submitted that:
  
-&#8226; there was no serious question to be tried as to whether the direction to attend the medical examination constitutes disability discrimination; 
+&amp;#8226; there was no serious question to be tried as to whether the direction to attend the medical examination constitutes disability discrimination; 
  
-&#8226; the balance of convenience did not favour the grant of the interlocutory relief sought; 
+&amp;#8226; the balance of convenience did not favour the grant of the interlocutory relief sought; 
 The respondent submitted that there was no serious question to be tried because the direction to attend the medical examination did not constitute a "detriment" for the purposes of s 15(2)(d) of the Disability Discrimination Act and that in giving the direction the respondent did not treat the applicant less favourably, whether or because of his disability or at all.</sentence>
 <sentence id="s220">45 The respondent submitted further that there was no discrimination in relation to what it called the causation issue and the comparator issue.</sentence>
 <sentence id="s221">This terminology picks up what the High Court identified as two of the the three issues involved in determining whether there has been a contravention of the Disability Discrimination Act in Purvis v State of New South Wales (Department of Education and Training) [2003] HCA 62 ; (2003) 217 CLR 92 at 152, and in particular, [194].</sentence>

@@ -3,14 +3,14 @@
 <name>Provident Capital Limited v Kelso Builders Supplies Pty Limited (in Liquidation) (Receiver and Manager Appointed) [2008] FCA 868 (6 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/868.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for declaration that creditor had not surrendered its security</catchphrase>
-<catchphrase "id=c1">creditor completed proof of debt form without estimating value of security</catchphrase>
-<catchphrase "id=c2">creditor voted at meeting by show of hands or on the voices</catchphrase>
-<catchphrase "id=c3">no poll taken</catchphrase>
-<catchphrase "id=c4">no relevant conduct</catchphrase>
-<catchphrase "id=c5">no question of inadvertence</catchphrase>
-<catchphrase "id=c6">no surrender of security</catchphrase>
-<catchphrase "id=c7">insolvency</catchphrase>
+<catchphrase id="c0">application for declaration that creditor had not surrendered its security</catchphrase>
+<catchphrase id="c1">creditor completed proof of debt form without estimating value of security</catchphrase>
+<catchphrase id="c2">creditor voted at meeting by show of hands or on the voices</catchphrase>
+<catchphrase id="c3">no poll taken</catchphrase>
+<catchphrase id="c4">no relevant conduct</catchphrase>
+<catchphrase id="c5">no question of inadvertence</catchphrase>
+<catchphrase id="c6">no surrender of security</catchphrase>
+<catchphrase id="c7">insolvency</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -120,7 +120,7 @@
 <sentence id="s56">The letter concluded with a request for Mr Godfrey to confirm that he would not take any further steps in relation to his "purported appointment" as receiver of Kelso.</sentence>
 <sentence id="s57">Reg 5.6.24 
  
-19 In Health &amp; Life Care Ltd v SA Asset Management Corp [1995] SASC 5514 ; (1995) 18 ACSR 153 , the Full Court of the Supreme Court of South Australia dealt with the question of construction of reg 5.6.24 and the principles of election relating to the surrender of a security by a secured creditor.</sentence>
+19 In Health &amp;amp; Life Care Ltd v SA Asset Management Corp [1995] SASC 5514 ; (1995) 18 ACSR 153 , the Full Court of the Supreme Court of South Australia dealt with the question of construction of reg 5.6.24 and the principles of election relating to the surrender of a security by a secured creditor.</sentence>
 <sentence id="s58">Doyle CJ (with whom Duggan and Nyland JJ agreed) said at 158 that:
  
  ...reg 5.6.24(3) refers to a creditor who has voted in respect of his or her whole debt or claim...When a vote is taken on the voices or by a show of hands each creditor who votes does so simply in the capacity of a creditor.</sentence>
@@ -143,7 +143,7 @@
 <sentence id="s65">This is because the question of inadvertence would only need to be addressed if the creditor voted in respect of the whole debt or claim.</sentence>
 <sentence id="s66">Election 
  
-22 Doyle CJ in Health &amp; Life Care went on at 162 to explain the relationship between reg 5.6.24 and the provisions of s 554E of the Act.</sentence>
+22 Doyle CJ in Health &amp;amp; Life Care went on at 162 to explain the relationship between reg 5.6.24 and the provisions of s 554E of the Act.</sentence>
 <sentence id="s67">It is evident that even if the provisions of the regulations are not applicable, there may nonetheless amount to conduct on the part of a secured creditor which would constitute an election within the principles stated in Sargent v ASL .</sentence>
 <sentence id="s68">23 Such a situation arose in a decision of the Queensland Court of Appeal in Surfers Paradise Investments Pty Limited (in liq) v Davoren Nominees Pty Limited (2004) 1 QR 567.</sentence>
 <sentence id="s69">In that case the respondent was a secured creditor who lodged a proof of debt for the full amount of the debt, disclosing a mortgage, but attributing no value to it.</sentence>
@@ -184,7 +184,7 @@ Dated: 11 June 2008
 
  Counsel for the Applicant: J T Johnson with B K Nolan 
  
- Solicitor for the Applicant: Tiernan &amp; Associates Lawyers 
+ Solicitor for the Applicant: Tiernan &amp;amp; Associates Lawyers 
  
  Counsel for the Respondent: A Seward 
  

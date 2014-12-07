@@ -3,10 +3,10 @@
 <name>SZNCW v Minister for Immigration and Citizenship [2009] FCA 818 (4 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/818.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrate</catchphrase>
-<catchphrase "id=c1">no jurisdictional error</catchphrase>
-<catchphrase "id=c2">appeal dismissed</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase id="c0">appeal from federal magistrate</catchphrase>
+<catchphrase id="c1">no jurisdictional error</catchphrase>
+<catchphrase id="c2">appeal dismissed</catchphrase>
+<catchphrase id="c3">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -89,7 +89,7 @@ In light of the applicant's Student visa as cancelled on 28 July 2007, the Tribu
 <sentence id="s52">(para.110) 
  His Honour stated (at [18]) that the above reasoning of the Tribunal demonstrated that, in fact, the matters relied upon by the appellant formed no part of the basis for the Tribunal's decision except to the extent that it observed that the mere fact that the appellant had used a fraudulent passport did not necessarily support his claim.</sentence>
 <sentence id="s53">More generally, His Honour found (at [19]) that the Tribunal's decision record did not disclose material from which it could be concluded that a fair-minded lay observer properly informed as to the nature of the proceedings, the matters in issue and the conduct which is said to give rise to an apprehension of bias might reasonably apprehend that the Tribunal might not have brought an impartial and unprejudiced mind to the resolution of the question it was required to decide: Johnson v Johnson [2000] HCA 48 ; (2000) 201 CLR 488 and Re Refugee Review Tribunal; Ex parte H [2001] HCA 28 ; (2001) 179 ALR 425.</sentence>
-<sentence id="s54">Nor could it be concluded that the Tribunal approached the exercise of its jurisdiction with a state of mind so committed to a conclusion already formed as to be incapable of alteration, whatever evidence or arguments might have been presented: Minister for Immigration &amp; Multicultural Affairs v Jia [2001] HCA 17 ; (2001) 205 CLR 507.</sentence>
+<sentence id="s54">Nor could it be concluded that the Tribunal approached the exercise of its jurisdiction with a state of mind so committed to a conclusion already formed as to be incapable of alteration, whatever evidence or arguments might have been presented: Minister for Immigration &amp;amp; Multicultural Affairs v Jia [2001] HCA 17 ; (2001) 205 CLR 507.</sentence>
 <sentence id="s55">I can detect no error in this reasoning of the Federal Magistrate.</sentence>
 <sentence id="s56">Nor can any other evidence of actual or apprehended bias be found in the decision-record of the Tribunal.</sentence>
 <sentence id="s57">The Tribunal's observation was open to it as part of its role as the sole arbiter of the facts.</sentence>
@@ -107,7 +107,7 @@ In light of the applicant's Student visa as cancelled on 28 July 2007, the Tribu
 <sentence id="s68">In response to this allegation, the Federal Magistrate firstly noted (at [23]) that, contrary to the appellant's claim, the Tribunal did consider material contained in his reply to its s 424A notice, which were summarised by the Tribunal at [90] of its decision record.</sentence>
 <sentence id="s69">Further, the Tribunal discussed this aspect of his evidence in its decision and reasons (see [112]-[116]).</sentence>
 <sentence id="s70">His Honour also found that, in any event, whether or not the Tribunal relied on particular information at its disposal was a matter for it as part of the reasoning process associated with making its decision.</sentence>
-<sentence id="s71">In this case, the matter complained of by the appellant related to the Tribunal's analysis of the evidence and the inconsistencies in that evidence - these were not matters which met the definition of "information" for the purposes of s 424A ( SZBYR v Minister for Immigration &amp; Citizenship [2007] HCA 26 ; (2007) 235 ALR 609) , and thus the Tribunal was not required to make its letter of 11 November 2008 comply with the requirements of s 424A.</sentence>
+<sentence id="s71">In this case, the matter complained of by the appellant related to the Tribunal's analysis of the evidence and the inconsistencies in that evidence - these were not matters which met the definition of "information" for the purposes of s 424A ( SZBYR v Minister for Immigration &amp;amp; Citizenship [2007] HCA 26 ; (2007) 235 ALR 609) , and thus the Tribunal was not required to make its letter of 11 November 2008 comply with the requirements of s 424A.</sentence>
 <sentence id="s72">The particulars supporting the alleged breach of s 424A take issue with the fact that the appellant maintained to the Tribunal that he did not give evidence to the delegate that there were no churches in the city in question and he brought the church from another city to the city in question and that this evidence was the result of inadequate interpreter services.</sentence>
 <sentence id="s73">In substance, such matters relate to the Tribunal's analysis of the evidence before it and "information" for the purposes of s 424A of the Act, see SZBYR v Minister for Immigration and Citizenship [2007] HCA 26 ; 235 ALR 609 at [18] : 
  does not encompass the tribunal's subjective appraisals, through processes or determinations ... nor does it extend to identified gaps, defects or lack of details or specificity in evidence or to conclusions arrived at by the tribunal in weighing up the evidence by reference to those gaps, etc. 
@@ -142,10 +142,10 @@ In light of the applicant's Student visa as cancelled on 28 July 2007, the Tribu
 <sentence id="s98">To the extent that the grounds of appeal seek to re-agitate the same complaints raised before the Federal Magistrate, they cannot succeed because the findings of the Federal Magistrate demonstrate no error for the reasons outlined above.</sentence>
 <sentence id="s99">As already noted, the Tribunal essentially took an adverse view of the appellant's credibility based on a number of the inconsistencies and deficiencies in his evidence identified above.</sentence>
 <sentence id="s100">While the appellant has implicitly sought to challenge those findings by asserting that the Tribunal was affected by apprehended bias, breached s 424A and failed to consider his claims properly and fairly, the findings remain.</sentence>
-<sentence id="s101">The Tribunal's conclusion that the appellant was not credible is a classical finding of fact (see Re Minister for Immigration and &amp; Multicultural Affairs; Ex parte Durairajasingham [2000] HCA 1 ; (2000) 168 ALR 407).</sentence>
-<sentence id="s102">It is also recognised that in determining whether an applicant has a "well-founded" fear of persecution, a tribunal may need to resolve questions of credit, attribute weight to particular evidence and consider the inherent improbability of events (see Minister for Immigration &amp; Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at 281 --- 282).</sentence>
+<sentence id="s101">The Tribunal's conclusion that the appellant was not credible is a classical finding of fact (see Re Minister for Immigration and &amp;amp; Multicultural Affairs; Ex parte Durairajasingham [2000] HCA 1 ; (2000) 168 ALR 407).</sentence>
+<sentence id="s102">It is also recognised that in determining whether an applicant has a "well-founded" fear of persecution, a tribunal may need to resolve questions of credit, attribute weight to particular evidence and consider the inherent improbability of events (see Minister for Immigration &amp;amp; Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at 281 --- 282).</sentence>
 <sentence id="s103">The Tribunal was not obliged to ask any particular question of the appellant, and the weight to be given to his claims was a matter for the Tribunal to assess as part of its fact-finding function.</sentence>
-<sentence id="s104">It is not for this Court to conduct a review of the merits of the Tribunal's decision (see Minister for Immigration &amp; Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; 185 CLR 259 at 272) and there is no error of law, let alone a jurisdictional error, in the Tribunal making a wrong finding of fact (see Abebe v Commonwealth (1999) 197 CLR 510).</sentence>
+<sentence id="s104">It is not for this Court to conduct a review of the merits of the Tribunal's decision (see Minister for Immigration &amp;amp; Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; 185 CLR 259 at 272) and there is no error of law, let alone a jurisdictional error, in the Tribunal making a wrong finding of fact (see Abebe v Commonwealth (1999) 197 CLR 510).</sentence>
 <sentence id="s105">It is recognised that it is very difficult for an appellant whose basic credibility has been found wanting in tribunal proceedings to recover from that finding in subsequent reviews.</sentence>
 <sentence id="s106">However, it should be observed that in this case the Tribunal took special care to ensure the appellant had every opportunity to fully explain his position and his evidence.</sentence>
 <sentence id="s107">The Tribunal discussed with him at the hearing the doubts and concerns it had with his evidence and the credibility of his claims.</sentence>

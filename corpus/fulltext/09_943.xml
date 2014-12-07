@@ -3,17 +3,17 @@
 <name>Queanbeyan City Council v ACTEW Corporation Limited [2009] FCA 943 (24 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/943.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">duties of excise</catchphrase>
-<catchphrase "id=c1">whether the act invalidly imposed duties of excise on a statutory corporation</catchphrase>
-<catchphrase "id=c2">whether a fee imposed on infrastructure constitutes a duty of excise.</catchphrase>
-<catchphrase "id=c3">whether a charge to abstract water is a tax and, accordingly, a duty of excise</catchphrase>
-<catchphrase "id=c4">whether a charge imposed to conserve a natural public resource is a tax</catchphrase>
-<catchphrase "id=c5">whether a charge should have a discernible relationship with the value of what is being acquired.</catchphrase>
-<catchphrase "id=c6">control by government of scarce natural resources</catchphrase>
-<catchphrase "id=c7">whether a charge to abstract water is a mere device for tax collecting.</catchphrase>
-<catchphrase "id=c8">constitutional law</catchphrase>
-<catchphrase "id=c9">taxation</catchphrase>
-<catchphrase "id=c10">energy and resources</catchphrase>
+<catchphrase id="c0">duties of excise</catchphrase>
+<catchphrase id="c1">whether the act invalidly imposed duties of excise on a statutory corporation</catchphrase>
+<catchphrase id="c2">whether a fee imposed on infrastructure constitutes a duty of excise.</catchphrase>
+<catchphrase id="c3">whether a charge to abstract water is a tax and, accordingly, a duty of excise</catchphrase>
+<catchphrase id="c4">whether a charge imposed to conserve a natural public resource is a tax</catchphrase>
+<catchphrase id="c5">whether a charge should have a discernible relationship with the value of what is being acquired.</catchphrase>
+<catchphrase id="c6">control by government of scarce natural resources</catchphrase>
+<catchphrase id="c7">whether a charge to abstract water is a mere device for tax collecting.</catchphrase>
+<catchphrase id="c8">constitutional law</catchphrase>
+<catchphrase id="c9">taxation</catchphrase>
+<catchphrase id="c10">energy and resources</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -76,7 +76,7 @@
 <sentence id="s52">It included some basic pricing principles.</sentence>
 <sentence id="s53">Schedule 8 set out the agreed pricing principles.</sentence>
 <sentence id="s54">They included: 
- "&#8226; The charge should reflect cost of supply and be commercially based so as to ensure the price covers the economic cost of supply.</sentence>
+ "&amp;#8226; The charge should reflect cost of supply and be commercially based so as to ensure the price covers the economic cost of supply.</sentence>
 <sentence id="s55">... 
  As a starting basis for price negotiation, annual price changes to QCC will acknowledge any allowed price change in the ACT.</sentence>
 <sentence id="s56">"
@@ -182,7 +182,7 @@ and:
  "In calculating the charge, consideration must be given to: 
 
  
- &#8226; the extent that abstraction reduces the quality of water in the catchments 
+ &amp;#8226; the extent that abstraction reduces the quality of water in the catchments 
 
  actual costs of water quality maintenance and the maintenance and management of the catchment
  environmental management costs
@@ -488,8 +488,8 @@ and:
 <sentence id="s249">The first is that it should not be seen as providing an exhaustive definition of a tax.</sentence>
 <sentence id="s250">Thus, there is no reason in principle why a tax should not take a form other than the exaction of money or why the compulsory exaction of money under statutory powers could not be properly seen as taxation notwithstanding that it was by a non-public authority or for purposes which could not properly be described as public.</sentence>
 <sentence id="s251">The second is that, in Logan Downs Pty.</sentence>
-<sentence id="s252">Ltd. v. Queensland , Gibbs J. made explicit what was implicit in the reference by Latham C.J. to 'a payment for services rendered', namely, that the services be 'rendered to' &#8213; or (we would add) at the direction or request of &#8213; 'the person required' to make the payment.</sentence>
-<sentence id="s253">The third is that the negative attribute &#8213; 'not a payment for services rendered' &#8213; should be seen as intended to be but an example of various special types of exaction which may not be taxes even though the positive attributes mentioned by Latham C.J. are all present.</sentence>
+<sentence id="s252">Ltd. v. Queensland , Gibbs J. made explicit what was implicit in the reference by Latham C.J. to 'a payment for services rendered', namely, that the services be 'rendered to' &amp;#8213; or (we would add) at the direction or request of &amp;#8213; 'the person required' to make the payment.</sentence>
+<sentence id="s253">The third is that the negative attribute &amp;#8213; 'not a payment for services rendered' &amp;#8213; should be seen as intended to be but an example of various special types of exaction which may not be taxes even though the positive attributes mentioned by Latham C.J. are all present.</sentence>
 <sentence id="s254">Thus, a charge for the acquisition or use of property, a fee for a privilege and a fine or penalty imposed for criminal conduct or breach of statutory obligation are other examples of special types of exactions of money which are unlikely to be properly characterized as a tax notwithstanding that they exhibit those positive attributes.</sentence>
 <sentence id="s255">On the other hand, a compulsory and enforceable exaction of money by a public authority for public purposes will not necessarily be precluded from being properly seen as a tax merely because it is described as a 'fee for services'.</sentence>
 <sentence id="s256">If the person required to pay the exaction is given no choice about whether or not he acquires the services and the amount of the exaction has no discernible relationship with the value of what is acquired, the circumstances may be such that the exaction is, at least to the extent that it exceeds that value, properly to be seen as a tax .</sentence>
@@ -547,13 +547,13 @@ and:
 <sentence id="s295">Brennan J said (at 334): 
  "Finally, the defendants embrace an argument which depends not on proprietary rights in the seabed but upon the exercise of legislative power over the abalone fishery in State fishing waters.</sentence>
 <sentence id="s296">In my opinion, that argument should be upheld.</sentence>
-<sentence id="s297">Accordingly, it becomes unnecessary to consider Tasmania's proprietary rights in the seabed and the arguments that the amounts paid by the plaintiff to obtain a licence are royalties charged by the Crown in right of Tasmania as the owner of the seabed or are payments for a profit &agrave; prendre in or over the seabed so owned.</sentence>
+<sentence id="s297">Accordingly, it becomes unnecessary to consider Tasmania's proprietary rights in the seabed and the arguments that the amounts paid by the plaintiff to obtain a licence are royalties charged by the Crown in right of Tasmania as the owner of the seabed or are payments for a profit &amp;agrave; prendre in or over the seabed so owned.</sentence>
 <sentence id="s298">" 
 
  His Honour said, in connection with the argument upon which the case ultimately turned (at 335): 
- "When a natural resource is limited so that it is liable to damage, exhaustion or destruction by uncontrolled exploitation by the public, a statute which prohibits the public from exercising a common law right to exploit the resource and confers statutory rights on licensees to exploit the resource to a limited extent confers on those licensees a privilege analogous to a profit &agrave; prendre in or over the property of another.</sentence>
+ "When a natural resource is limited so that it is liable to damage, exhaustion or destruction by uncontrolled exploitation by the public, a statute which prohibits the public from exercising a common law right to exploit the resource and confers statutory rights on licensees to exploit the resource to a limited extent confers on those licensees a privilege analogous to a profit &amp;agrave; prendre in or over the property of another.</sentence>
 <sentence id="s299">A limited natural resource which is otherwise available for exploitation by the public can be said truly to be public property whether or not the Crown has the radical or freehold title to the resource.</sentence>
-<sentence id="s300">A fee paid to obtain such a privilege is analogous to the price of a profit &agrave; prendre; it is a charge for the acquisition of a right akin to property.</sentence>
+<sentence id="s300">A fee paid to obtain such a privilege is analogous to the price of a profit &amp;agrave; prendre; it is a charge for the acquisition of a right akin to property.</sentence>
 <sentence id="s301">Such a fee may be distinguished from a fee exacted for a licence merely to do some act which is otherwise prohibited (for example, a fee for a licence to sell liquor) where there is no resource to which a right of access is obtained by payment of the fee.</sentence>
 <sentence id="s302">" 
 
@@ -579,7 +579,7 @@ and:
 <sentence id="s314">Under that licensing system, the general public is deprived of the right of unfettered exploitation of the Tasmanian abalone fisheries.</sentence>
 <sentence id="s315">What was formerly in the public domain is converted into the exclusive but controlled preserve of those who hold licences.</sentence>
 <sentence id="s316">The right of commercial exploitation of a public resource for personal profit has become a privilege confined to those who hold commercial licences.</sentence>
-<sentence id="s317">This privilege can be compared to a profit &agrave; prendre.</sentence>
+<sentence id="s317">This privilege can be compared to a profit &amp;agrave; prendre.</sentence>
 <sentence id="s318">In truth, however, it is an entitlement of a new kind created as part of a system for preserving a limited public natural resource in a society which is coming to recognize that, in so far as such resources are concerned, to fail to protect may destroy and to preserve the right of everyone to take what he or she will may eventually deprive that right of all content.</sentence>
 <sentence id="s319">
 
@@ -730,7 +730,7 @@ and:
 <sentence id="s416">They do not depend upon the ownership of the bed of the stream, but of its banks: Lord v. Commissioners of Sydney; Lyon v Fishmongers Co., per Lord Selborne.</sentence>
 <sentence id="s417">They are thus called riparian rights.</sentence>
 <sentence id="s418">It is unnecessary to multiply references to cases in which these rules of the common law have been enunciated and followed in Australia.</sentence>
-<sentence id="s419">It is enough to refer to H. Jones &amp; Co. Pty.</sentence>
+<sentence id="s419">It is enough to refer to H. Jones &amp;amp; Co. Pty.</sentence>
 <sentence id="s420">Ltd. v. Kingborough Corporation , in this Court, and especially to the judgment of Fullagar J.</sentence>
 <sentence id="s421">
 
@@ -745,7 +745,7 @@ and:
 <sentence id="s425">It depends upon statute.</sentence>
 <sentence id="s426">The effect of statutes which interfere with, or modify the exercise of, riparian rights has been considered by the High Court on a number of occasions.</sentence>
 <sentence id="s427">The rights thereby granted have been variously described, including as proprietary rights and exclusive rights (see e.g.</sentence>
-<sentence id="s428">H Jones &amp; Co Pty Ltd v Kingborough Corporation [1950] HCA 11 ; (1950) 82 CLR 282 per Dixon J at 320, 328).</sentence>
+<sentence id="s428">H Jones &amp;amp; Co Pty Ltd v Kingborough Corporation [1950] HCA 11 ; (1950) 82 CLR 282 per Dixon J at 320, 328).</sentence>
 <sentence id="s429">In Thorpes Ltd v Grant Pastoral Co Pty Ltd [1955] HCA 10 ; (1955) 92 CLR 317 ( "Grant Pastoral Co" ) Fullagar J (with whom Dixon CJ, Webb and Kitto JJ agreed) referred to the object of statutory vesting of water rights as being (at 331): 
  "... to enable the Crown, in a country in which water is a comparatively scarce and important commodity, to exercise full dominion over the water of rivers and lakes and to undertake generally the conservation and distribution of water.</sentence>
 <sentence id="s430">For the attainment of that object it was not necessary to destroy anybody's rights, but it was necessary to give to the Crown, or to some statutory authority, overriding rights to which private rights must, if need arise, give way.</sentence>
@@ -971,7 +971,7 @@ and:
 <sentence id="s601">His Honour concluded that electrical impulses were not goods within the meaning of s 90 of the Constitution .</sentence>
 <sentence id="s602">It was upon that conclusion that his decision, that neither the charges under the Victorian Act or the New South Wales Act were duties of excise, really depended.</sentence>
 <sentence id="s603">The ACT also argued that the UNFT was akin to land tax and for that reason not a duty of excise.</sentence>
-<sentence id="s604">It relied on Mutual Pools &amp; Staff Pty Ltd v Federal Commissioner of Taxation [1992] HCA 4 ; (1992) 173 CLR 450 at 454, 468.</sentence>
+<sentence id="s604">It relied on Mutual Pools &amp;amp; Staff Pty Ltd v Federal Commissioner of Taxation [1992] HCA 4 ; (1992) 173 CLR 450 at 454, 468.</sentence>
 <sentence id="s605">That case dealt with an attempt to deem swimming pools constructed in situ to be goods so that they might be taxed under the same legislation as imposed a tax on manufactured goods.</sentence>
 <sentence id="s606">Section 55 of the Constitution required a law imposing a duty of excise not to deal with other forms of taxation.</sentence>
 <sentence id="s607">The tax on swimming pools constructed in situ was found to be a tax on land and not a tax on goods.</sentence>
@@ -1196,7 +1196,7 @@ Dated: 24 August 2009
  
  Counsel for the Applicant: Mr P Hanks QC with Dr P Keyzer and Mr J K Kirk 
  
- Solicitor for the Applicant: Williams Love &amp; Nicol 
+ Solicitor for the Applicant: Williams Love &amp;amp; Nicol 
  
  Counsel for the First Respondent: Mr A Robertson SC with Mr C Lenehan 
  
@@ -1205,7 +1205,7 @@ Dated: 24 August 2009
  Counsel for the Second Respondent: Dr J Griffiths SC with Ms K Richardson and Ms C Spruce 
  
  Solicitor for the Second Respondent: ACT Government Solicitor 
- Date of Hearing: 3-6 February, 6 &amp; 7 April 2009 
+ Date of Hearing: 3-6 February, 6 &amp;amp; 7 April 2009 
  
  Date of Judgment: 24 August 2009 
  

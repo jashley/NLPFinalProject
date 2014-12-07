@@ -3,9 +3,9 @@
 <name>SZGIC v Minister for Immigration and Citizenship [2009] FCA 517 (20 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/517.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an appeal by an unsuccessful applicant for review of a decision of the refugee review tribunal affirming the decision of the minister's delegate to refuse the appellant a protection visa under the provisions of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c1">consideration of whether the tribunal failed to properly exercise its statutory jurisdiction of review having regard to contended errors of analysis and reasoning in the treatment of corroborative evidence</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase id="c0">consideration of an appeal by an unsuccessful applicant for review of a decision of the refugee review tribunal affirming the decision of the minister's delegate to refuse the appellant a protection visa under the provisions of the migration act 1958 (cth)</catchphrase>
+<catchphrase id="c1">consideration of whether the tribunal failed to properly exercise its statutory jurisdiction of review having regard to contended errors of analysis and reasoning in the treatment of corroborative evidence</catchphrase>
+<catchphrase id="c2">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -17,7 +17,7 @@
 <sentence id="s5">They were that the second Tribunal had not been reconstituted according to law having regard to the relevant provisions of the Migration Act ; that the Tribunal failed to discharge its statutory review function in that it failed to consider whether the appellant's so called "residual motive" in seeking protection gave rise to a well-founded fear of persecution; and, that the Tribunal was affected by apprehended bias.</sentence>
 <sentence id="s6">The appellant was unsuccessful on all three grounds.</sentence>
 <sentence id="s7">The appellant filed a Notice of Appeal before this Court on 11 July 2008 which raised three grounds of appeal.</sentence>
-<sentence id="s8">On the hearing of the appeal, the appellant represented by Mr Newman of Newman &amp; Associates, sought to abandon the prosecution of any of those grounds and sought leave to amend the Notice of Appeal to rely upon one new ground of appeal.</sentence>
+<sentence id="s8">On the hearing of the appeal, the appellant represented by Mr Newman of Newman &amp;amp; Associates, sought to abandon the prosecution of any of those grounds and sought leave to amend the Notice of Appeal to rely upon one new ground of appeal.</sentence>
 <sentence id="s9">The appellant now contends that the primary judge erred by failing to find jurisdictional error on the part of the Tribunal as it disregarded: 
  ... much of the appellant's corroborative evidence without ascribing reasons or, alternatively, misapplying the ruling in SZANI v MIMIA [2004] FCA 1298 , Tamberlin J.</sentence>
 <sentence id="s10">
@@ -224,7 +224,7 @@ Dated: 20 May 2009
  
  Counsel for the Appellant: Appellant represented by her solicitor 
  
- Solicitor for the Appellant: Mr N Newman, Solicitor, Newman &amp; Associates 
+ Solicitor for the Appellant: Mr N Newman, Solicitor, Newman &amp;amp; Associates 
  
  Counsel for the First Respondent: Mr G Kennett 
  

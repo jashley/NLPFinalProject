@@ -3,12 +3,12 @@
 <name>Gryst v Dromana Estate Limited (ACN 090 000 276), in the matter of Dromana Estate Limited [2008] FCA 1148 (6 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1148.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">ch 5 pt 5.4 of the corporations act 2001 (cth)</catchphrase>
-<catchphrase "id=c1">s 459p application to wind up in insolvency</catchphrase>
-<catchphrase "id=c2">operation of s 459c(2)(a) presumption of insolvency</catchphrase>
-<catchphrase "id=c3">whether statutory demand 'stale'</catchphrase>
-<catchphrase "id=c4">application summarily dismissed</catchphrase>
-<catchphrase "id=c5">corporations</catchphrase>
+<catchphrase id="c0">ch 5 pt 5.4 of the corporations act 2001 (cth)</catchphrase>
+<catchphrase id="c1">s 459p application to wind up in insolvency</catchphrase>
+<catchphrase id="c2">operation of s 459c(2)(a) presumption of insolvency</catchphrase>
+<catchphrase id="c3">whether statutory demand 'stale'</catchphrase>
+<catchphrase id="c4">application summarily dismissed</catchphrase>
+<catchphrase id="c5">corporations</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -81,7 +81,7 @@
  
  (a) an affidavit supporting the application is filed with the Court; and (b) a copy of the application, and a copy of the supporting affidavit, are served on the person who served the demand on the company.</sentence>
 <sentence id="s31">10 The two noteworthy aspects of these provisions for present purposes are, first, that the s 459F(2) period for compliance with a statutory demand turns in the first instance on whether or not a company has applied "in accordance with section 459G" to set aside the demand and, secondly, it will only have so applied in accordance with that section if it complies with the dual requirements of filing and service specified in s 459G(3)(a) and (b) within 21 days of the service of the demand.</sentence>
-<sentence id="s32">11 It is now well settled that, if a s 459G application and affidavit are not filed and served within the time so specified, the Court has no power to extend the period for the making of such an application: see Aussie Vic Plant Hire at [3]; David Grant &amp; Co Pty Limited (rec apptd) v Westpac Banking Corporation (1995) 184 CLR 265.</sentence>
+<sentence id="s32">11 It is now well settled that, if a s 459G application and affidavit are not filed and served within the time so specified, the Court has no power to extend the period for the making of such an application: see Aussie Vic Plant Hire at [3]; David Grant &amp;amp; Co Pty Limited (rec apptd) v Westpac Banking Corporation (1995) 184 CLR 265.</sentence>
 <sentence id="s33">In the present matter, the statutory demand was served on Dromana on 29 November 2007.</sentence>
 <sentence id="s34">The application to set it aside was filed in the Supreme Court of Victoria on 20 December 2007.</sentence>
 <sentence id="s35">It was not served on Mr Gryst until 21 December 2007.</sentence>

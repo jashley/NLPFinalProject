@@ -3,12 +3,12 @@
 <name>Bovis Lend Lease Pty Ltd v Construction Forestry Mining and Energy Union [2009] FCA 194 (4 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/194.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">court order</catchphrase>
-<catchphrase "id=c1">whether orders sufficiently clear to found proceedings for contempt</catchphrase>
-<catchphrase "id=c2">whether statement of charge adequate to found proceedings for contempt</catchphrase>
-<catchphrase "id=c3">whether the australian building construction commissioner should be heard as an intervener</catchphrase>
-<catchphrase "id=c4">contempt</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">court order</catchphrase>
+<catchphrase id="c1">whether orders sufficiently clear to found proceedings for contempt</catchphrase>
+<catchphrase id="c2">whether statement of charge adequate to found proceedings for contempt</catchphrase>
+<catchphrase id="c3">whether the australian building construction commissioner should be heard as an intervener</catchphrase>
+<catchphrase id="c4">contempt</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -601,9 +601,9 @@ Dated: 4 March 2009
  
  Solicitor for the Applicant: HWL Ebsworth Lawyers 
  
- Counsel for the Respondent: Mr M Bromberg SC &amp; Mr C Dowling 
+ Counsel for the Respondent: Mr M Bromberg SC &amp;amp; Mr C Dowling 
  
- Solicitor for the Respondent: Slater &amp; Gordon 
+ Solicitor for the Respondent: Slater &amp;amp; Gordon 
  
  Amicus curiae 
 (ABC Commissioner):: Mr N J D Green QC 

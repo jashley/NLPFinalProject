@@ -3,12 +3,12 @@
 <name>Rambaldi, In the Matter of Houston (Bankrupt) [2008] FCA 1519 (8 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1519.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for a direction under s 134(4) of the bankruptcy act 1966 (cth)</catchphrase>
-<catchphrase "id=c1">the bankrupt being one of the beneficiaries under a will before recent discharge from bankruptcy</catchphrase>
-<catchphrase "id=c2">whether bankrupt's trustees may join in co-beneficiaries in receiving in specie distribution of shares under the will</catchphrase>
-<catchphrase "id=c3">not unfair or unconscionable in the sense of ex parte james; in re condon (1874) lr 9 ch app 609</catchphrase>
-<catchphrase "id=c4">direction granted</catchphrase>
-<catchphrase "id=c5">bankruptcy</catchphrase>
+<catchphrase id="c0">application for a direction under s 134(4) of the bankruptcy act 1966 (cth)</catchphrase>
+<catchphrase id="c1">the bankrupt being one of the beneficiaries under a will before recent discharge from bankruptcy</catchphrase>
+<catchphrase id="c2">whether bankrupt's trustees may join in co-beneficiaries in receiving in specie distribution of shares under the will</catchphrase>
+<catchphrase id="c3">not unfair or unconscionable in the sense of ex parte james; in re condon (1874) lr 9 ch app 609</catchphrase>
+<catchphrase id="c4">direction granted</catchphrase>
+<catchphrase id="c5">bankruptcy</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -24,11 +24,11 @@
  
 3 The facts upon which the present application is made may be briefly summarised as follows:
  
-&#8226; On 11 August 2005, Mr Rambaldi and Andrew Reginald Yeo ("the trustees") were appointed as joint and several trustees of the bankrupt estate of the bankrupt following a sequestration order which was made against him on that day on the petition of Macquarie Bank Limited.</sentence>
-<sentence id="s7">&#8226; On about 6 October 2005, the bankrupt filed his statement of affairs.</sentence>
-<sentence id="s8">&#8226; On 13 August 2007, the deceased died leaving the will.</sentence>
-<sentence id="s9">&#8226; Under the will, the deceased appointed Perpetual, the bankrupt and his brother Ian Nairn Houston, as trustees of the will.</sentence>
-<sentence id="s10">&#8226; The deceased left his residuary estate to five parties, one of whom is the bankrupt.</sentence>
+&amp;#8226; On 11 August 2005, Mr Rambaldi and Andrew Reginald Yeo ("the trustees") were appointed as joint and several trustees of the bankrupt estate of the bankrupt following a sequestration order which was made against him on that day on the petition of Macquarie Bank Limited.</sentence>
+<sentence id="s7">&amp;#8226; On about 6 October 2005, the bankrupt filed his statement of affairs.</sentence>
+<sentence id="s8">&amp;#8226; On 13 August 2007, the deceased died leaving the will.</sentence>
+<sentence id="s9">&amp;#8226; Under the will, the deceased appointed Perpetual, the bankrupt and his brother Ian Nairn Houston, as trustees of the will.</sentence>
+<sentence id="s10">&amp;#8226; The deceased left his residuary estate to five parties, one of whom is the bankrupt.</sentence>
 <sentence id="s11">Relevantly, the will provides that:
  
  
@@ -45,11 +45,11 @@
  
  
 
-&#8226; The deceased's mother pre-deceased him.</sentence>
-<sentence id="s14">&#8226; By virtue of s 58(1)(b) of the Bankruptcy Act , the bankrupt's interest in the deceased's estate is an interest which vests in the trustees as after acquired property.</sentence>
-<sentence id="s15">&#8226; On 28 November 2007, Perpetual obtained probate of the deceased's will.</sentence>
-<sentence id="s16">&#8226; The Inventory of Assets and Liabilities lodged by Perpetual in support of its application for probate discloses assets valued in excess of $15 million including approximately $10 million in shareholding ("the Shares").</sentence>
-<sentence id="s17">&#8226; The bankrupt was recently discharged from his bankruptcy.</sentence>
+&amp;#8226; The deceased's mother pre-deceased him.</sentence>
+<sentence id="s14">&amp;#8226; By virtue of s 58(1)(b) of the Bankruptcy Act , the bankrupt's interest in the deceased's estate is an interest which vests in the trustees as after acquired property.</sentence>
+<sentence id="s15">&amp;#8226; On 28 November 2007, Perpetual obtained probate of the deceased's will.</sentence>
+<sentence id="s16">&amp;#8226; The Inventory of Assets and Liabilities lodged by Perpetual in support of its application for probate discloses assets valued in excess of $15 million including approximately $10 million in shareholding ("the Shares").</sentence>
+<sentence id="s17">&amp;#8226; The bankrupt was recently discharged from his bankruptcy.</sentence>
 <sentence id="s18">THE PRESENT APPLICATION 
  
 4 This application concerns a direction as to the manner and form in which the bankrupt's interest as to the Shares in the deceased estate ought to be distributed to the trustees.</sentence>

@@ -3,13 +3,13 @@
 <name>SZLNW v Minister for Immigration and Citizenship [2008] FCA 910 (17 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/910.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">refugee review tribunal</catchphrase>
-<catchphrase "id=c1">judicial review</catchphrase>
-<catchphrase "id=c2">procedural fairness</catchphrase>
-<catchphrase "id=c3">failure of tribunal to request specific details from the applicant</catchphrase>
-<catchphrase "id=c4">tribunal reaching decision based upon applicant not providing specific details</catchphrase>
-<catchphrase "id=c5">whether failure constituted breach of s 425 of the migration act 1958 (cth)</catchphrase>
-<catchphrase "id=c6">migration</catchphrase>
+<catchphrase id="c0">refugee review tribunal</catchphrase>
+<catchphrase id="c1">judicial review</catchphrase>
+<catchphrase id="c2">procedural fairness</catchphrase>
+<catchphrase id="c3">failure of tribunal to request specific details from the applicant</catchphrase>
+<catchphrase id="c4">tribunal reaching decision based upon applicant not providing specific details</catchphrase>
+<catchphrase id="c5">whether failure constituted breach of s 425 of the migration act 1958 (cth)</catchphrase>
+<catchphrase id="c6">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -172,7 +172,7 @@ The Federal Magistrate excerpted the above passage and concluded that the Tribun
 <sentence id="s88">The adviser did not identify in the letter any persons whom the appellant feared might cause him harm.</sentence>
 <sentence id="s89">35 Smith FM said at [40]-[41]:
  
- In my opinion, it should have been apparent to him [the appellant] and his advisers when doing so, that the Tribunal might draw inferences from the absence of any identification of particular persons who were feared, or of incidents or circumstances which suggested that there were particular persons who had an interest in pursuing him after 20 years (compare Bennett J in SZJUB v Minister for Immigration &amp; Citizenship [2007] FCA 1486 at [21] and SZHBX v Minister for Immigration &amp; Citizenship [2007] FCA 1169 at [14] ).</sentence>
+ In my opinion, it should have been apparent to him [the appellant] and his advisers when doing so, that the Tribunal might draw inferences from the absence of any identification of particular persons who were feared, or of incidents or circumstances which suggested that there were particular persons who had an interest in pursuing him after 20 years (compare Bennett J in SZJUB v Minister for Immigration &amp;amp; Citizenship [2007] FCA 1486 at [21] and SZHBX v Minister for Immigration &amp;amp; Citizenship [2007] FCA 1169 at [14] ).</sentence>
 <sentence id="s90">In my opinion, the obligations on the Tribunal under s.425 to warn an applicant as to the issues in the review did not, in the present case, require it to alert the applicant to the possibility that it might draw an inference from his evidence that he could not name or identify the persons whom he claimed to fear.</sentence>
 <sentence id="s91">
 

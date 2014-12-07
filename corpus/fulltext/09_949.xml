@@ -3,18 +3,18 @@
 <name>Medrad Inc v Alpine Medical Pty Ltd [2009] FCA 949 (25 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/949.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">syringes for use with medical injector systems</catchphrase>
-<catchphrase "id=c1">alleged infringement of patent</catchphrase>
-<catchphrase "id=c2">application for interlocutory injunction</catchphrase>
-<catchphrase "id=c3">alleged invalidity of patent on ground of obviousness</catchphrase>
-<catchphrase "id=c4">construction of claims</catchphrase>
-<catchphrase "id=c5">whether serious question to be tried</catchphrase>
-<catchphrase "id=c6">balance of convenience</catchphrase>
-<catchphrase "id=c7">interlocutory relief granted</catchphrase>
-<catchphrase "id=c8">application for leave to further amend statement of claim and application</catchphrase>
-<catchphrase "id=c9">leave granted</catchphrase>
-<catchphrase "id=c10">patents</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
+<catchphrase id="c0">syringes for use with medical injector systems</catchphrase>
+<catchphrase id="c1">alleged infringement of patent</catchphrase>
+<catchphrase id="c2">application for interlocutory injunction</catchphrase>
+<catchphrase id="c3">alleged invalidity of patent on ground of obviousness</catchphrase>
+<catchphrase id="c4">construction of claims</catchphrase>
+<catchphrase id="c5">whether serious question to be tried</catchphrase>
+<catchphrase id="c6">balance of convenience</catchphrase>
+<catchphrase id="c7">interlocutory relief granted</catchphrase>
+<catchphrase id="c8">application for leave to further amend statement of claim and application</catchphrase>
+<catchphrase id="c9">leave granted</catchphrase>
+<catchphrase id="c10">patents</catchphrase>
+<catchphrase id="c11">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -76,11 +76,11 @@
 <sentence id="s31">The algorithms are designed to take into account the technical features of the relevant contrast injector syringe that are specific to that injector system.</sentence>
 <sentence id="s32">Mr Reynolds stated that "the syringe is an integrated component of the entire system, the characteristics of which are important to the accurate and safe operation of the system".</sentence>
 <sentence id="s33">He also stated that "[i]t is for this reason that a contrast injector system uses only the syringes that are specifically designed for that particular injector system".</sentence>
-<sentence id="s34">According to Mr Reynolds, the two main contrast injection systems supplied by Imaxeon were the Imaxeon&#8482; VISIMAX&reg; CT contrast injector system and the Medrad&#8482; STELLANT&#8482; CT contrast injector system.</sentence>
+<sentence id="s34">According to Mr Reynolds, the two main contrast injection systems supplied by Imaxeon were the Imaxeon&amp;#8482; VISIMAX&amp;reg; CT contrast injector system and the Medrad&amp;#8482; STELLANT&amp;#8482; CT contrast injector system.</sentence>
 <sentence id="s35">Imaxeon and Medrad only sell single use disposable syringes for their own systems.</sentence>
-<sentence id="s36">Imaxeon presently prices its STELLANT&#8482; syringes on average at $9 per syringe and its KLIKFIT syringes, at $6 each.</sentence>
-<sentence id="s37">The VISIMAX&reg; injector system is designed to use syringes sold by Imaxeon under the "KLIKFIT" trade mark.</sentence>
-<sentence id="s38">The STELLANT&#8482; injector system is designed to use syringes sold by Imaxeon and Medrad under the STELLANT&#8482; mark.</sentence>
+<sentence id="s36">Imaxeon presently prices its STELLANT&amp;#8482; syringes on average at $9 per syringe and its KLIKFIT syringes, at $6 each.</sentence>
+<sentence id="s37">The VISIMAX&amp;reg; injector system is designed to use syringes sold by Imaxeon under the "KLIKFIT" trade mark.</sentence>
+<sentence id="s38">The STELLANT&amp;#8482; injector system is designed to use syringes sold by Imaxeon and Medrad under the STELLANT&amp;#8482; mark.</sentence>
 <sentence id="s39">Both types of syringe include a transparent cylinder with a hub and seal combination that fits inside the base of the cylinder.</sentence>
 <sentence id="s40">The syringe, including the hub and seal combination, fits onto a piston of the injector system.</sentence>
 <sentence id="s41">Mr Reynolds stated that, typically, the injector system is supplied to the hospital or clinic and consumables, including syringes and tubings, are purchased as needed on the basis of an agreed unit price.</sentence>
@@ -92,7 +92,7 @@
 <sentence id="s47">Imaxeon holds around 80% of the market for injector systems and related consumables, including the syringes, in the CT segment of the Australian disposable contrast dye syringe market.</sentence>
 <sentence id="s48">The respondent is not amongst its main competitors in this market.</sentence>
 <sentence id="s49">Imaxeon's competitors are typically other manufacturers of competing injector systems that require specific single use syringes manufactured specifically for their own systems.</sentence>
-<sentence id="s50">Mr Reynolds stated that, on or about 18 May 2009, Timothy Hands advised him that he had become aware that the respondent was promoting syringes for use with the STELLANT&#8482; injector system.</sentence>
+<sentence id="s50">Mr Reynolds stated that, on or about 18 May 2009, Timothy Hands advised him that he had become aware that the respondent was promoting syringes for use with the STELLANT&amp;#8482; injector system.</sentence>
 <sentence id="s51">Mr Reynolds later looked at the respondent's website, noting, amongst other things, that one of the products on the website was entitled "Visimax CT 150ml".</sentence>
 <sentence id="s52">The website included a statement about the compatibility of the respondent's syringes with Imaxeon's syringes, stating that "[t]hese are like for like replacement for popular syringe types".</sentence>
 <sentence id="s53">Mr Reynolds produced a computer print-out from the respondent's website apparently obtained on 27 May 2009 that evidenced these matters.</sentence>
@@ -240,7 +240,7 @@ The applicants submitted that damages would be an inadequate remedy and that the
 <sentence id="s145">In Interpharma , Jessup J stated (79 IPR at 267 [17]) that "[i]n a patent case, the fact of registration constitutes prima facie evidence of validity", noting that it is for the respondent to show that want of validity is a triable question.</sentence>
 <sentence id="s146">His Honour continued that, in his view, if the respondent went no further than showing a triable case on validity, "then, assuming always that the applicant has shown a triable issue on infringement, absent questions of validity, the conclusion would remain that the latter had a triable question".</sentence>
 <sentence id="s147">This approach is consistent with that of Sundberg J in Sigma Pharmaceuticals (Australia) Pty Ltd v Wyeth [2009] FCA 595 , where his Honour granted an interlocutory injunction in an alleged case of patent infringement, notwithstanding that he was satisfied that there was a prima facie case that the invention would have been obvious to a person skilled in the relevant art in light of the common general knowledge as it existed in Australia before the priority date.</sentence>
-<sentence id="s148">See also Wake Forest University Health Sciences v Smith &amp; Nephew Pty Ltd [2009] FCA 630 at [36] and [55], where Ryan J held that there was a serious question to be tried on the issue of novelty, but granted an interlocutory injunction on the basis that the applicants had established a serious question to be tried on infringement.</sentence>
+<sentence id="s148">See also Wake Forest University Health Sciences v Smith &amp;amp; Nephew Pty Ltd [2009] FCA 630 at [36] and [55], where Ryan J held that there was a serious question to be tried on the issue of novelty, but granted an interlocutory injunction on the basis that the applicants had established a serious question to be tried on infringement.</sentence>
 <sentence id="s149">
  (b) Serious question to be tried on infringement 
  Each of claims 1, 9, 51 and 52 of the patent in suit requires each of the following essential integers, namely a hub having: 
@@ -258,7 +258,7 @@ The applicants submitted that damages would be an inadequate remedy and that the
 <sentence id="s157">
  References to the item numbers in brackets correspond to the features shown by the numbered arrows in the photographs that constituted VCT-1 to Mr Tse's affidavit.</sentence>
 <sentence id="s158">Photos 5, 6, 7 and 8 are reproduced in Appendix A.</sentence>
-<sentence id="s159">Mr Tse added "[t]he plunger has engaging protrusions (116) for engaging a part of the groove (112) of a syringe" and that without this feature the Stellant substitutes would not be compatible with a STELLANT&#8482; medical injector system.</sentence>
+<sentence id="s159">Mr Tse added "[t]he plunger has engaging protrusions (116) for engaging a part of the groove (112) of a syringe" and that without this feature the Stellant substitutes would not be compatible with a STELLANT&amp;#8482; medical injector system.</sentence>
 <sentence id="s160">In argument, the applicants submitted that (108) was a ridge and that, when one drops down the side of that ridge, from (108) to the flat portion (112), one is dropping into a groove in the sense of a depression or recess.</sentence>
 <sentence id="s161">The pins on the plunger drop into the groove so understood.</sentence>
 <sentence id="s162">Alternatively, the applicants submitted that, having regard to Mr Pappas' affidavit, the engaging portion comprised a ridge, within claim 4 and claim 12.</sentence>
@@ -297,7 +297,7 @@ The applicants submitted that damages would be an inadequate remedy and that the
 <sentence id="s190">The respondent noted that the plunger was cylindrical with a thruster conical tip whilst the inner hub of the Stellant substitute syringe was complex in shape (because of its interior ribs) and flaring outwards.</sentence>
 <sentence id="s191">The respondent argued that the applicants' case disregarded the conical tip at the end of the syringe and the complexity brought about by the ribs and the flaring.</sentence>
 <sentence id="s192">In this respect too, the applicants relied on the opinion of Mr Tse.</sentence>
-<sentence id="s193">In his first affidavit, Mr Tse gave the opinion that "[t]he inner surface (which includes the area shown by item 110) of the hub (100) is complementary in shape to an outer surface (118) of the plunger of a STELLANT&#8482; medical injector system, which has a substantially round cross-section".</sentence>
+<sentence id="s193">In his first affidavit, Mr Tse gave the opinion that "[t]he inner surface (which includes the area shown by item 110) of the hub (100) is complementary in shape to an outer surface (118) of the plunger of a STELLANT&amp;#8482; medical injector system, which has a substantially round cross-section".</sentence>
 <sentence id="s194">Mr Tse added that the Stellant substitute syringes and each of the applicants' Stellant syringes "have this feature and work in the same way".</sentence>
 <sentence id="s195">That is, the hub was designed to fit over the plunger by adopting a shape conformable to the plunger.</sentence>
 <sentence id="s196">In his affidavit, Mr Pappas expressed the contrary view.</sentence>
@@ -410,7 +410,7 @@ The applicants submitted that damages would be an inadequate remedy and that the
 <sentence id="s282">The respondent observed that, in elaborating on the harm likely to befall their business, the applicants had engaged in a degree of speculation.</sentence>
 <sentence id="s283">I accept that evidence about the nature of the competition in the medical injector systems and associated consumables market and the effect of new entrants might well be complex.</sentence>
 <sentence id="s284">Obtaining complete evidence of this kind would be expensive and probably unjustified for this application.</sentence>
-<sentence id="s285">It is undisputed that the applicants occupy a large proportion of the present market, and derive a large proportion of their revenue from the sales of consumables for the contrast injector systems, particularly KLIKFIT syringes and STELLANT&#8482; syringes for the VISIMAX&reg; CT and the STELLANT&#8482; CT contrast injector systems respectively.</sentence>
+<sentence id="s285">It is undisputed that the applicants occupy a large proportion of the present market, and derive a large proportion of their revenue from the sales of consumables for the contrast injector systems, particularly KLIKFIT syringes and STELLANT&amp;#8482; syringes for the VISIMAX&amp;reg; CT and the STELLANT&amp;#8482; CT contrast injector systems respectively.</sentence>
 <sentence id="s286">Although the respondent disputed the propositions advanced by Mr Reynolds, ultimately, the respondent fails to take its case beyond the level of mere disagreement.</sentence>
 <sentence id="s287">The evidence of Ms Evans was very limited in that it concerned her experience in a different and not necessarily comparable business.</sentence>
 <sentence id="s288">None of the respondent's evidence seriously undermined the assessment made by Mr Reynolds as Imaxeon's managing director and a person with apparently considerable experience in the relevant market.</sentence>

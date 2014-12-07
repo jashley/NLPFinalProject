@@ -3,10 +3,10 @@
 <name>Rogers v Asset Loan Co Pty Ltd [2008] FCA 1304 (21 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1304.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for leave to appeal against interlocutory judgment</catchphrase>
-<catchphrase "id=c1">where no reasonable prospect of success for the proposed appeal</catchphrase>
-<catchphrase "id=c2">application dismissed</catchphrase>
-<catchphrase "id=c3">practice and procedure</catchphrase>
+<catchphrase id="c0">application for leave to appeal against interlocutory judgment</catchphrase>
+<catchphrase id="c1">where no reasonable prospect of success for the proposed appeal</catchphrase>
+<catchphrase id="c2">application dismissed</catchphrase>
+<catchphrase id="c3">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -65,7 +65,7 @@
 <sentence id="s35">10 Since August 2004, Mr Rogers has been made bankrupt and Living Space Holdings has since been placed in liquidation.</sentence>
 <sentence id="s36">11 In a more immediate sense, the application has its origin in the success enjoyed by the Respondents in an interlocutory application concerning the substantive proceeding that became the subject of the judgment in respect of which leave to appeal is sought.</sentence>
 <sentence id="s37">12 The substantive proceeding was commenced by Mrs Rogers by an application filed on 14 June 2007.</sentence>
-<sentence id="s38">It is described as a "Claim for relief under the ASIC Act Unconscionable Conduct, Undue Harassment &amp; Coercion &amp; Deceptive &amp; Misleading Conduct contrary to s 12DA(1) and s 12DJ".</sentence>
+<sentence id="s38">It is described as a "Claim for relief under the ASIC Act Unconscionable Conduct, Undue Harassment &amp;amp; Coercion &amp;amp; Deceptive &amp;amp; Misleading Conduct contrary to s 12DA(1) and s 12DJ".</sentence>
 <sentence id="s39">The following relief is sought by Mrs Rogers:
  "A.</sentence>
 <sentence id="s40">Details of Claim On the grounds stated in the accompanying affidavits or statement of claim, the applicant claims.</sentence>
@@ -151,14 +151,14 @@
 <sentence id="s73">The affidavit of Gregory Eric Rogers filed herein on 14 June 2007 be taken off the file.</sentence>
 <sentence id="s74">4.</sentence>
 <sentence id="s75">The Applicant pays the Respondents' costs of and incidental to the proceedings to be taxed, if not otherwise agreed.</sentence>
-<sentence id="s76">15 The guiding principles which attend whether to grant leave to appeal are well settled: see D&eacute;cor Corporation Pty Ltd v Dart Industries Inc [1991] FCA 655 ; (1993) 33 FCR 397 (Full Court).</sentence>
+<sentence id="s76">15 The guiding principles which attend whether to grant leave to appeal are well settled: see D&amp;eacute;cor Corporation Pty Ltd v Dart Industries Inc [1991] FCA 655 ; (1993) 33 FCR 397 (Full Court).</sentence>
 <sentence id="s77">Having regard to what was said in that case, considerations to which the Court should ordinarily advert in deciding a leave to appeal application may be summarised as follows:
  
 (a) the prospects of success of the proposed appeal, i.e.</sentence>
 <sentence id="s78">whether, in all the circumstances, the decision is attended with sufficient doubt to warrant its being reconsidered by a Full Court; and
  
 (b) whether substantial injustice would result were leave to appeal refused, supposing the decision to be wrong.</sentence>
-<sentence id="s79">16 The Full Court's judgment in D&eacute;cor Corporation also serves as a reminder that these considerations are not exhaustive and in no way preclude regard to special considerations which might, in a particular case, tend either for or against a grant of leave to appeal.</sentence>
+<sentence id="s79">16 The Full Court's judgment in D&amp;eacute;cor Corporation also serves as a reminder that these considerations are not exhaustive and in no way preclude regard to special considerations which might, in a particular case, tend either for or against a grant of leave to appeal.</sentence>
 <sentence id="s80">17 Further, the very fact that Parliament has chosen in s 24 of the Federal Court of Australia Act to excise interlocutory judgments and orders from being the subject of an appeal as of right is itself eloquent.</sentence>
 <sentence id="s81">The making of a judicial value judgment in relation to whether an appeal ought to be permitted was plainly envisaged as a way of preventing indiscriminate appeals in respect of judgments and orders falling within the excised class.</sentence>
 <sentence id="s82">In that regard, both prior authority and instinct commend that there is a distinction to be drawn when considering an application for leave to appeal between an interlocutory judgment or order which determined a mere matter of practice and procedure and one which, at least in a practical sense, can be seen to have affected a substantive right, even if strictly not in a way that would render the judgment or order "final".</sentence>
@@ -184,7 +184,7 @@
 <sentence id="s95">08.12.04 Proceeding QUD224/2004 heard by Justice Spender, who declined to make interim orders in terms of those sought by Mr Rogers.</sentence>
 <sentence id="s96">His Honour made directions for the future conduct of the proceeding and set it down for hearing for 4 days commencing 23 May 2005.</sentence>
 <sentence id="s97">20.12.04 Mr Rogers commences proceeding QUD275/2004 by way of an appeal against Justice Spender's decision on 8 December 2004 to refuse to grant the interlocutory relief sought in QUD224/2004.</sentence>
-<sentence id="s98">23.02.05 Mr Rogers declared bankrupt on the petition of Dale &amp; Myers Timber Trade Centre Pty Ltd. 01.03.05 The solicitors for the Respondents to QUD224/2004 request Mr Rogers' trustee in bankruptcy to make an election pursuant to s 60 Bankruptcy Act 1966 (Cth).</sentence>
+<sentence id="s98">23.02.05 Mr Rogers declared bankrupt on the petition of Dale &amp;amp; Myers Timber Trade Centre Pty Ltd. 01.03.05 The solicitors for the Respondents to QUD224/2004 request Mr Rogers' trustee in bankruptcy to make an election pursuant to s 60 Bankruptcy Act 1966 (Cth).</sentence>
 <sentence id="s99">08.09.05 Mrs Rogers consents to judgment against her in favour of ALCPL in proceeding 1600/2005 in the New South Wales Supreme Court.</sentence>
 <sentence id="s100">By these proceedings the Second Respondent sought possession a property at 2 Wommin Lake Crescent, Fingal Head.</sentence>
 <sentence id="s101">06.10.05 Matter QUD224/2004 was struck out by Justice Spender on the basis that the action was deemed abandoned pursuant to s 60 Bankruptcy Act 1966 (Cth).</sentence>
@@ -193,17 +193,17 @@
 <sentence id="s104">05.12.05 Mr Rogers applied to reinstate QUD224/2004.</sentence>
 <sentence id="s105">Justice Spender declined to reinstate the proceedings.</sentence>
 <sentence id="s106">07.04.06 Mr Rogers commenced proceedings QUD130/2006, relying on virtually identical facts, matters and circumstances as those previously alleged by Mrs Rogers and him in previous matters in the Federal Court.</sentence>
-<sentence id="s107">20.04.06 Justice Greenwood dismissed the application for interlocutory relief and reserved costs in proceeding QUD130/2006: Rogers v Asset Loan Co Pty Ltd &amp; Ors [2006] FCA 434.</sentence>
+<sentence id="s107">20.04.06 Justice Greenwood dismissed the application for interlocutory relief and reserved costs in proceeding QUD130/2006: Rogers v Asset Loan Co Pty Ltd &amp;amp; Ors [2006] FCA 434.</sentence>
 <sentence id="s108">12.10.06 The Respondents in proceeding QUD525/2005 apply for the proceeding to be dismissed or permanently stayed.</sentence>
 <sentence id="s109">Justice Spender reserved his decision.</sentence>
-<sentence id="s110">07.12.06 Justice Collier dismissed the balance of proceeding QUD130/2006: Rogers v Asset Loan Co Pty Ltd &amp; Ors [2006] FCA 1708.</sentence>
+<sentence id="s110">07.12.06 Justice Collier dismissed the balance of proceeding QUD130/2006: Rogers v Asset Loan Co Pty Ltd &amp;amp; Ors [2006] FCA 1708.</sentence>
 <sentence id="s111">15.12.06 Mr Rogers commenced proceeding QUD504/2006 by way of an appeal against Justice Collier's decision in QUD130/2006.</sentence>
-<sentence id="s112">23.02.07 Matter QUD504/2006 dismissed by Justice Greenwood: Rogers v Asset Loan Co Pty Ltd &amp; Ors [2007] FCA 195.</sentence>
+<sentence id="s112">23.02.07 Matter QUD504/2006 dismissed by Justice Greenwood: Rogers v Asset Loan Co Pty Ltd &amp;amp; Ors [2007] FCA 195.</sentence>
 <sentence id="s113">14.06.07 Mrs Rogers commenced proceeding QUD173/2007 against the First to Seventh Respondents, seeking virtually the same relief claimed in proceeding QUD525/2005 (which as at the time remained reserved by Spender J) and relief on the same facts, matters and circumstances.</sentence>
 <sentence id="s114">30.08.07 Justice Spender dismissed proceeding QUD525/2005, with costs.</sentence>
-<sentence id="s115">Rogers v Asset Loan Co Pty Ltd &amp; Ors [2007] FCA 1371.</sentence>
+<sentence id="s115">Rogers v Asset Loan Co Pty Ltd &amp;amp; Ors [2007] FCA 1371.</sentence>
 <sentence id="s116">01.11.07 Justice Collier dismissed proceeding QUD173/2007, with costs.</sentence>
-<sentence id="s117">Rogers v Asset Loan Co Pty Ltd &amp; Ors [2007] FCA 1660.</sentence>
+<sentence id="s117">Rogers v Asset Loan Co Pty Ltd &amp;amp; Ors [2007] FCA 1660.</sentence>
 <sentence id="s118">08.11.07 Mrs Rogers commenced this proceeding (QUD375/2007) against the First to Seventh Respondents in which she seeks leave to appeal against the decision of Justice Collier in QUD173/2007.</sentence>
 <sentence id="s119">Impact of prior proceedings 
  
@@ -219,17 +219,17 @@
 <sentence id="s128">As so informed, her Honour approached the application on the basis that a reasonable prospect of success for the purposes of the section was one which was real, not fanciful or merely arguable.</sentence>
 <sentence id="s129">My approach would have been no different.</sentence>
 <sentence id="s130">24 Collier J conducted an analysis of the relief sought in the application, the claims made by Mrs Rogers in the present proceeding and that which she had sought and made in an earlier proceeding in this Court - proceeding QUD525/2005.</sentence>
-<sentence id="s131">In that earlier case, q v Rogers v Asset Loan Co Pty Ltd &amp; Ors [2007] FCA 1371 , at [9], Spender J had observed of Mrs Rogers' application:
+<sentence id="s131">In that earlier case, q v Rogers v Asset Loan Co Pty Ltd &amp;amp; Ors [2007] FCA 1371 , at [9], Spender J had observed of Mrs Rogers' application:
  "9 It is difficult to avoid the conclusion that these proceedings in the name of Lynne Maree Rogers have been instituted, and then resurrected, because earlier proceedings brought by the applicant's husband were the subject of orders of dismissal in the light of the bankruptcy of Gregory Rogers and the decision by his trustee in bankruptcy not to pursue those proceedings.</sentence>
 <sentence id="s132">" 
 25 His Honour dismissed Mrs Rogers' application with costs.</sentence>
 <sentence id="s133">In turn, it is difficult to avoid the conclusion that the present proceeding has been instituted by Mrs Rogers in an endeavour to resurrect claims which in substance had been dismissed by Spender J.</sentence>
-<sentence id="s134">26 In Rogers v Asset Loan Co Pty Ltd &amp; Ors [2007] FCA 1371 , at [36] to [48] Spender J summarily stated his conclusions in respect of proceeding QUD525/2005, having regard to earlier and other proceedings which had been filed in this Court and elsewhere by Mrs Rogers or, as the case may be, Mr Rogers.</sentence>
+<sentence id="s134">26 In Rogers v Asset Loan Co Pty Ltd &amp;amp; Ors [2007] FCA 1371 , at [36] to [48] Spender J summarily stated his conclusions in respect of proceeding QUD525/2005, having regard to earlier and other proceedings which had been filed in this Court and elsewhere by Mrs Rogers or, as the case may be, Mr Rogers.</sentence>
 <sentence id="s135">It is instructive to reproduce his Honour's summary:
  
  
  "36 I have analysed the extensive Statement of Claim in considerable detail.</sentence>
-<sentence id="s136">I have had regard to the reasons for judgment of Greenwood J in Rogers v Asset Loan Co Pty Ltd &amp; Ors [2006] FCA 434 and the reasons for judgment of Collier J in Rogers v Asset Loan Co Pty Ltd [2006] FCA 1708.</sentence>
+<sentence id="s136">I have had regard to the reasons for judgment of Greenwood J in Rogers v Asset Loan Co Pty Ltd &amp;amp; Ors [2006] FCA 434 and the reasons for judgment of Collier J in Rogers v Asset Loan Co Pty Ltd [2006] FCA 1708.</sentence>
 <sentence id="s137">
  
 

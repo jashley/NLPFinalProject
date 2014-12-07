@@ -3,12 +3,12 @@
 <name>SZMWA v Minister for Immigration and Citizenship (includes corrigendum dated 16 June 2009) [2009] FCA 563 (28 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/563.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from federal magistrate</catchphrase>
-<catchphrase "id=c1">credibility finding by refugee review tribunal</catchphrase>
-<catchphrase "id=c2">self represented litigant</catchphrase>
-<catchphrase "id=c3">no jurisdictional error</catchphrase>
-<catchphrase "id=c4">no appealable error</catchphrase>
-<catchphrase "id=c5">migration</catchphrase>
+<catchphrase id="c0">appeal from federal magistrate</catchphrase>
+<catchphrase id="c1">credibility finding by refugee review tribunal</catchphrase>
+<catchphrase id="c2">self represented litigant</catchphrase>
+<catchphrase id="c3">no jurisdictional error</catchphrase>
+<catchphrase id="c4">no appealable error</catchphrase>
+<catchphrase id="c5">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -104,13 +104,13 @@
  It is well established that a decision of the Refugee Review Tribunal is only available to be set aside upon judicial review if it involves "jurisdictional error".</sentence>
 <sentence id="s61">Absent that, a decision refusing an applicant a protection visa will be "privative clause decision" for the purpose of s 474 of the Migration Act 1958 (Cth) from which no appeal or relief on judicial review is available: Plaintiff S157/2002 v Commonwealth of Australia (2003) 211 CLR 476 at [76].</sentence>
 <sentence id="s62">Plaintiff S157/2002 held that an error by an administrative tribunal such as the Refugee Review Tribunal will only constitute jurisdictional error if the Tribunal: 
-&#9679; identifies a wrong issue;
+&amp;#9679; identifies a wrong issue;
  
-&#9679; asks the wrong question;
+&amp;#9679; asks the wrong question;
  
-&#9679; ignores relevant material; or
+&amp;#9679; ignores relevant material; or
  
-&#9679; relies on irrelevant material;
+&amp;#9679; relies on irrelevant material;
  
 in such a way that the Tribunal's exercise or purported exercise of power is thereby affected, resulting in a decision exceeding or failing to exercise the authority or powers given under the relevant statute.</sentence>
 <sentence id="s63">It is also accepted (see Plaintiff S157/2002 211 CLR 476 at [76]) that there may also be jurisdictional error if a tribunal fails to discharge "imperative duties" or to observe "inviolable limitations or restraints" upon which its exercise of administrative powers is conditioned.</sentence>
@@ -133,7 +133,7 @@ in such a way that the Tribunal's exercise or purported exercise of power is the
 <sentence id="s79">In Minister for Immigration and Multicultural and Indigenous Affairs v SGLB [2004] HCA 32 ; 78 ALJR 992 Gummow and Hayne JJ at [43], [44] considered that as the Refugee Review Tribunal was not under "a duty to inquire", but simply to provide a written statement setting out its decision on review, the reasons for the decision and the findings on any material questions of fact and referring to the evidence or other material on which those findings are based.</sentence>
 <sentence id="s80">However, Gleeson CJ at [16] and Callinan J at [126] appeared to countenance the possibility of circumstances where further inquiry may be necessary and appropriate in order to avoid unfairness.</sentence>
 <sentence id="s81">In Applicant VEAL of 2002 v Minister for Immigration and Multicultural and Indigenous Affairs [2005] HCA 72 ; (2005) 225 CLR 88 the High Court of Australia held that procedural fairness required the Refugee Review Tribunal to inform an applicant of the substance of an allegation made in a "dob in" letter held by the Tribunal before reaching a decision.</sentence>
-<sentence id="s82">The Court (Gleeson CJ, Gummow, Kirby, Hayne &amp; Heyden JJ) at [26] observed: 
+<sentence id="s82">The Court (Gleeson CJ, Gummow, Kirby, Hayne &amp;amp; Heyden JJ) at [26] observed: 
  The Tribunal was not an independent arbiter charged with deciding an issue joined between adversaries.</sentence>
 <sentence id="s83">The Tribunal was required to review a decision of the Executive made under the Act and for that purpose the Tribunal was bound to make its own inquiries and form its own views upon the claim which the appellant made.</sentence>
 <sentence id="s84">And the Tribunal had to decide whether the appellant was entitled to the visa he claimed.</sentence>

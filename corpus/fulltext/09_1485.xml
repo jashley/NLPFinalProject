@@ -3,15 +3,15 @@
 <name>Kennedy v Australian Fisheries Management Authority [2009] FCA 1485 (21 December 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1485.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeal from a decision of the australian fisheries management authority to grant certain statutory fishing rights</catchphrase>
-<catchphrase "id=c1">granting certain statutory fishing rights pursuant to s 26 of the western tuna billfish fishery management plan 2005</catchphrase>
-<catchphrase "id=c2">whether notice of appeal contained pure questions of law</catchphrase>
-<catchphrase "id=c3">whether the court may frame its own questions of law based on notice of appeal</catchphrase>
-<catchphrase "id=c4">whether reasons given by the statutory fishing rights allocation review panel (sfrarp) were adequate</catchphrase>
-<catchphrase "id=c5">whether the sfrarp complied with its statutory obligation to give reasons</catchphrase>
-<catchphrase "id=c6">whether a failure to give reasons for an administrative decision vitiates the making of that decision</catchphrase>
-<catchphrase "id=c7">whether a failure to give reasons for an administrative decision can constitute an error of law</catchphrase>
-<catchphrase "id=c8">administrative law</catchphrase>
+<catchphrase id="c0">appeal from a decision of the australian fisheries management authority to grant certain statutory fishing rights</catchphrase>
+<catchphrase id="c1">granting certain statutory fishing rights pursuant to s 26 of the western tuna billfish fishery management plan 2005</catchphrase>
+<catchphrase id="c2">whether notice of appeal contained pure questions of law</catchphrase>
+<catchphrase id="c3">whether the court may frame its own questions of law based on notice of appeal</catchphrase>
+<catchphrase id="c4">whether reasons given by the statutory fishing rights allocation review panel (sfrarp) were adequate</catchphrase>
+<catchphrase id="c5">whether the sfrarp complied with its statutory obligation to give reasons</catchphrase>
+<catchphrase id="c6">whether a failure to give reasons for an administrative decision vitiates the making of that decision</catchphrase>
+<catchphrase id="c7">whether a failure to give reasons for an administrative decision can constitute an error of law</catchphrase>
+<catchphrase id="c8">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -418,7 +418,7 @@ Mr Kennedy held an old longline permit.</sentence>
 <sentence id="s236">The inclusion of inactive permit-holders in the calculations would erode the value of the SFRs held by an eligible person who has suffered a serious misfortune.</sentence>
 <sentence id="s237">It was submitted that, having regard to the Act as a whole, its objectives, and the Management Plan as a whole, such a construction could not be supported.</sentence>
 <sentence id="s238">AFMA submitted that the construction of s 27 of the Management Plan must be undertaken by reference to the language used, read in the legislative context, including the objects which the Act was intended to achieve: see Cooper Brookes (Wollongong) Proprietary Limited v The Commissioner of Taxation of the Commonwealth of Australia [1981] HCA 26 ; (1981) 147 CLR 297 at 304-5 and s 15AA of the Acts Interpretation Act 1901 (Cth).</sentence>
-<sentence id="s239">The starting point must be the ordinary and grammatical meaning of the words of s 27 construed in the context in which they appear, including the Act and the Management Plan as a whole: see K. &amp; S. Lake City Freighters Proprietary Limited v Gordon &amp; Gotch Limited [1985] HCA 48 ; (1985) 157 CLR 309 at 315 (per Mason J); Mills v Meeking [1990] HCA 6 ; (1990) 169 CLR 214 at 235 and 242-243.</sentence>
+<sentence id="s239">The starting point must be the ordinary and grammatical meaning of the words of s 27 construed in the context in which they appear, including the Act and the Management Plan as a whole: see K. &amp;amp; S. Lake City Freighters Proprietary Limited v Gordon &amp;amp; Gotch Limited [1985] HCA 48 ; (1985) 157 CLR 309 at 315 (per Mason J); Mills v Meeking [1990] HCA 6 ; (1990) 169 CLR 214 at 235 and 242-243.</sentence>
 <sentence id="s240">AFMA contended that the plain language of s 27 requires the average of " all sequences of permits to be used".</sentence>
 <sentence id="s241">It submitted that the word "all" is to be given work to do and the language does not allow or permit a construction that means less than the total number of permits.</sentence>
 <sentence id="s242">The ordinary meaning of the word "all" is "the whole amount, quantity or extent of".</sentence>
@@ -522,7 +522,7 @@ Mr Kennedy held an old longline permit.</sentence>
 <sentence id="s337">In Dornan , the Full Court drew on authorities such as Pettitt v Dunkley [1971] 1 NSWLR 376 in which appellate courts had found that trial judges erred in law if they failed to provide reasons or sufficient reasons thereby depriving the appeal court of the capacity to determine whether a verdict had been reached in accordance with law.</sentence>
 <sentence id="s338">This approach did not enjoy universal acceptance.</sentence>
 <sentence id="s339">In Comcare v Lees (1997) 151 ALR 647 at 656-9, Finkelstein J reviewed the authorities which commenced with Dornan and concluded that, were he not bound by these decisions, he would not follow them.</sentence>
-<sentence id="s340">He drew attention to conflicting decisions, including that of Brennan J in Repatriation Commission v O'Brien [1985] HCA 10 ; (1985) 155 CLR 422 at 445-6 and the English Divisional Court in Mountview Court Properties Ltd v Devlin (1970) 21 P &amp; CR 689.</sentence>
+<sentence id="s340">He drew attention to conflicting decisions, including that of Brennan J in Repatriation Commission v O'Brien [1985] HCA 10 ; (1985) 155 CLR 422 at 445-6 and the English Divisional Court in Mountview Court Properties Ltd v Devlin (1970) 21 P &amp;amp; CR 689.</sentence>
 <sentence id="s341">He considered it to be inappropriate to draw on cases in which appellate courts found reasons to be inadequate because, in such cases, no remedies such as a statutory order in the nature of mandamus were available to require the relevant trial judges to rectify the deficiencies in their reasons.</sentence>
 <sentence id="s342">His Honour also noted that, in the appellate context, the appellable error was founded on common law doctrine rather than on the construction of a statutory obligation to provide reasons.</sentence>
 <sentence id="s343">One might add that there is no compelling reason for treating a decision as errant solely because no reasons or no adequate reasons have been advanced to support it, unless one was attracted to Lord Denning's notion that, if a decision-maker fails to give reasons for a decision, a reviewing court could infer that he did not have any good reasons: see Padfield v Minister of Agriculture, Fisheries and Food [1968] UKHL 1 ; [1968] AC 997 at 1007.</sentence>

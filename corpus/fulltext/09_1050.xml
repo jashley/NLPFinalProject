@@ -3,18 +3,18 @@
 <name>Rana v Musolino [2009] FCA 1050 (18 September 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1050.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">whether show cause proceedings in the high court vested in bankrupt applicant's trustee</catchphrase>
-<catchphrase "id=c1">applicant challenging trustee's decision to issue notice of discontinuance in high court</catchphrase>
-<catchphrase "id=c2">whether decision challenged in show cause proceeding related in part to a claim for damages for "personal injury or wrong"</catchphrase>
-<catchphrase "id=c3">personal claim integrally interconnected with substantive non-personal claims</catchphrase>
-<catchphrase "id=c4">unnecessary to consider apportionment</catchphrase>
-<catchphrase "id=c5">summary dismissal</catchphrase>
-<catchphrase "id=c6">federal court of australia act 1976 (cth) s 31a</catchphrase>
-<catchphrase "id=c7">federal court rules o 20 r 5</catchphrase>
-<catchphrase "id=c8">application having no reasonable prospects of success</catchphrase>
-<catchphrase "id=c9">high court seized of the matter</catchphrase>
-<catchphrase "id=c10">bankruptcy</catchphrase>
-<catchphrase "id=c11">practice and procedure</catchphrase>
+<catchphrase id="c0">whether show cause proceedings in the high court vested in bankrupt applicant's trustee</catchphrase>
+<catchphrase id="c1">applicant challenging trustee's decision to issue notice of discontinuance in high court</catchphrase>
+<catchphrase id="c2">whether decision challenged in show cause proceeding related in part to a claim for damages for "personal injury or wrong"</catchphrase>
+<catchphrase id="c3">personal claim integrally interconnected with substantive non-personal claims</catchphrase>
+<catchphrase id="c4">unnecessary to consider apportionment</catchphrase>
+<catchphrase id="c5">summary dismissal</catchphrase>
+<catchphrase id="c6">federal court of australia act 1976 (cth) s 31a</catchphrase>
+<catchphrase id="c7">federal court rules o 20 r 5</catchphrase>
+<catchphrase id="c8">application having no reasonable prospects of success</catchphrase>
+<catchphrase id="c9">high court seized of the matter</catchphrase>
+<catchphrase id="c10">bankruptcy</catchphrase>
+<catchphrase id="c11">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -370,7 +370,7 @@ Dated: 18 September 2009
  
  Counsel for the Applicant: The Applicant appeared in person.</sentence>
 <sentence id="s185">Counsel for the First Respondent: The First Respondent did not appear.</sentence>
-<sentence id="s186">Counsel for the Second Respondent: G Gretsas Solicitor for the Second Respondent: Gretsas &amp; Associates Counsel for the Third Respondent: The Third Respondent did not appear.</sentence>
+<sentence id="s186">Counsel for the Second Respondent: G Gretsas Solicitor for the Second Respondent: Gretsas &amp;amp; Associates Counsel for the Third Respondent: The Third Respondent did not appear.</sentence>
 <sentence id="s187">Date of Submissions: 20 and 25 May 2009 Date of Judgment: 18 September 2009 
  
 

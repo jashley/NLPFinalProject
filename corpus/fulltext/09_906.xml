@@ -3,9 +3,9 @@
 <name>Singh v Minister for Immigration and Citizenship [2009] FCA 906 (20 August 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/906.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">cancellation of subclass 457 (business (long stay)) visa</catchphrase>
-<catchphrase "id=c1">response to invitation under s 359a to provide comments within a specified time.</catchphrase>
-<catchphrase "id=c2">migration</catchphrase>
+<catchphrase id="c0">cancellation of subclass 457 (business (long stay)) visa</catchphrase>
+<catchphrase id="c1">response to invitation under s 359a to provide comments within a specified time.</catchphrase>
+<catchphrase id="c2">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -202,7 +202,7 @@ Dated: 20 August 2009
  
  Counsel for the Appellants: M Newman 
  
- Solicitor for the Appellants: Newman &amp; Associates 
+ Solicitor for the Appellants: Newman &amp;amp; Associates 
  
  Counsel for the First and Second Respondents: A Markus 
  

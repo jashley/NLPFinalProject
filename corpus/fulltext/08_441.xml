@@ -3,14 +3,14 @@
 <name>Princi v Commissioner of Taxation [2008] FCA 441 (4 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/441.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">notice of appeal</catchphrase>
-<catchphrase "id=c1">whether question identified in notice was a question of law</catchphrase>
-<catchphrase "id=c2">application for leave to amend</catchphrase>
-<catchphrase "id=c3">amendment would require significant departure from agreed basis of dispute in the administrative appeals tribunal</catchphrase>
-<catchphrase "id=c4">deductions</catchphrase>
-<catchphrase "id=c5">dominant purpose of scheme to obtain tax benefit</catchphrase>
-<catchphrase "id=c6">administrative law</catchphrase>
-<catchphrase "id=c7">income tax</catchphrase>
+<catchphrase id="c0">notice of appeal</catchphrase>
+<catchphrase id="c1">whether question identified in notice was a question of law</catchphrase>
+<catchphrase id="c2">application for leave to amend</catchphrase>
+<catchphrase id="c3">amendment would require significant departure from agreed basis of dispute in the administrative appeals tribunal</catchphrase>
+<catchphrase id="c4">deductions</catchphrase>
+<catchphrase id="c5">dominant purpose of scheme to obtain tax benefit</catchphrase>
+<catchphrase id="c6">administrative law</catchphrase>
+<catchphrase id="c7">income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -25,12 +25,12 @@
 <sentence id="s6">2 The applicants sought to distinguish their positions from that of Mr Sleight.</sentence>
 <sentence id="s7">They argued in effect before the Tribunal that the facts and conclusions reached in Sleight 136 FCR 211 would not be challenged but should not apply to them as:
  
-&#8226; in relation to all applicants, expert evidence as to the probable period of years before the investment would be returned to them (the payback period) was much shorter than computed in Sleight 136 FCR 211 in the Full Court.</sentence>
+&amp;#8226; in relation to all applicants, expert evidence as to the probable period of years before the investment would be returned to them (the payback period) was much shorter than computed in Sleight 136 FCR 211 in the Full Court.</sentence>
 <sentence id="s8">It followed, the applicants contended that the payback period was much more commercially attractive than that calculated in the Full Court; and 
  
-&#8226; in relation to Messrs Princi, Tolich and Dorn the evidence to be adduced by them as to their specific financial involvement and circumstances also gave rise to a different conclusion from that reached in Sleight 136 FCR 211 in the Full Court; and 
+&amp;#8226; in relation to Messrs Princi, Tolich and Dorn the evidence to be adduced by them as to their specific financial involvement and circumstances also gave rise to a different conclusion from that reached in Sleight 136 FCR 211 in the Full Court; and 
  
-&#8226; in relation to all applicants the Commissioner had not made a valid Pt IVA determination under the Income Tax Assessment Act 1936 (Cth) (the Act) in either of the 1995 and/or 1996 years as he failed to make a declaration prior to issuing an amendment assessment for those years.</sentence>
+&amp;#8226; in relation to all applicants the Commissioner had not made a valid Pt IVA determination under the Income Tax Assessment Act 1936 (Cth) (the Act) in either of the 1995 and/or 1996 years as he failed to make a declaration prior to issuing an amendment assessment for those years.</sentence>
 <sentence id="s9">Again all applicants argued that the declarations were invalid due to this timing irregularity.</sentence>
 <sentence id="s10">3 Senior Member Mr B. H. Pascoe in the Tribunal did not accept the argument as to the invalidity of the Commissioner's determination.</sentence>
 <sentence id="s11">Nor did he accept that any of the remaining evidentiary factors gave rise to conclusions which should differ in any respect from that reached by the Full Court in Sleight 136 FCR 211.</sentence>
@@ -193,16 +193,16 @@
 23 The prospectus was described in detail at [10]-[24].</sentence>
 <sentence id="s74">In summary, it:
  
-&#8226; Noted that the "investments" were considered "speculative" and advised that 'independent financial advice should be obtained'.</sentence>
+&amp;#8226; Noted that the "investments" were considered "speculative" and advised that 'independent financial advice should be obtained'.</sentence>
 <sentence id="s75">The issuer of the prospectus was Mobandilla Cotton Management Limited said to be agent for Northern Rivers Plantation Management Ltd (NRPM).</sentence>
 <sentence id="s76">The minimum subscription was 350,000 'A' class shares of $1 each fully paid.</sentence>
 <sentence id="s77">In addition to the right to occupy the two farms one attached to each parcel of shares (ie a minimum of two "farms"), the subscriber had the right, but not the obligation, to have NRPM manage the farms on the terms of a management agreement which was included in the articles of association of Northern Rivers Land Company Ltd (NRLC).</sentence>
-<sentence id="s78">&#8226; The land in question was, at the time the prospectus was lodged, the subject of a lease of 20 years from the then owner of the land to NRLC.</sentence>
+<sentence id="s78">&amp;#8226; The land in question was, at the time the prospectus was lodged, the subject of a lease of 20 years from the then owner of the land to NRLC.</sentence>
 <sentence id="s79">The lease contained an option for NRLC to acquire the freehold subject to the lease.</sentence>
 <sentence id="s80">That option was proposed to be exercised, once the minimum subscription was reached.</sentence>
-<sentence id="s81">&#8226; In consideration of the right to occupy that attached to the A class shares, NRPM was to receive from each holder of 1000 shares an annual administration fee, which in the first year was $1,000 for each 1000 A class shares issued to the holder.</sentence>
+<sentence id="s81">&amp;#8226; In consideration of the right to occupy that attached to the A class shares, NRPM was to receive from each holder of 1000 shares an annual administration fee, which in the first year was $1,000 for each 1000 A class shares issued to the holder.</sentence>
 <sentence id="s82">In years two and three the administration fee was to be $800 for the minimum two farms, and thereafter until 2015 the annual administration fee was to be 12.5% of the gross farm income.</sentence>
-<sentence id="s83">&#8226; None of the investors did other than enter into a management agreement.</sentence>
+<sentence id="s83">&amp;#8226; None of the investors did other than enter into a management agreement.</sentence>
 <sentence id="s84">That is not surprising, as it would seem to have been difficult, if not legally impossible, to attempt to farm the particular portions which were allocated to the investor under the agreements.</sentence>
 <sentence id="s85">24 His Honour continued:
  
@@ -699,7 +699,7 @@ At par 47:
 <sentence id="s374">I think they are entitled to do so.</sentence>
 <sentence id="s375">It does not follow that I agree with the applicants' argument.</sentence>
 <sentence id="s376">103 On the substantive point, (as distinct from whether it may be raised) it is clear that the Tribunal stands in the shoes of the decision maker for all purposes.</sentence>
-<sentence id="s377">It is able to undertake a review without restriction based upon the previous decision made by the decision maker --- Australian Securities &amp; Investments Commission v Donald [2003] FCAFC 318 ; (2003) 136 FCR 7 and Fletcher 19 FCR 442 at 452-454.</sentence>
+<sentence id="s377">It is able to undertake a review without restriction based upon the previous decision made by the decision maker --- Australian Securities &amp;amp; Investments Commission v Donald [2003] FCAFC 318 ; (2003) 136 FCR 7 and Fletcher 19 FCR 442 at 452-454.</sentence>
 <sentence id="s378">The issue of time limits does not arise in respect of the Tribunal's decisions because s 170(7) provides that the s 170 time limits do not prevent the amendment of an assessment by the Commissioner to give effect to a decision on appeal or review: see Stevenson v Commissioner of Taxation (1991) 29 FCR 282 at 299 and Fabry v Commissioner of Taxation [2003] FCA 1043 ; (2003) ATC 4885 at 4894.</sentence>
 <sentence id="s379">104 For those reasons, I consider that the argument based on grounds 4.7 and 4.8 must fail.</sentence>
 <sentence id="s380">CONCLUSION 
@@ -714,9 +714,9 @@ Dated: 4 April 2008
 
  Counsel for the Applicants: GR Donaldson SC with D Romano 
  
- Solicitor for the Applicants: Wilson &amp; Atkinson 
+ Solicitor for the Applicants: Wilson &amp;amp; Atkinson 
  
- Counsel for the Respondent: DB McGovern SC &amp; AJ O'Brien 
+ Counsel for the Respondent: DB McGovern SC &amp;amp; AJ O'Brien 
  
  Solicitor for the Respondent: Australian Government Solicitor 
  

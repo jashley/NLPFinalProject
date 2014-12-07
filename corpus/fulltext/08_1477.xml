@@ -3,14 +3,14 @@
 <name>3D Scaffolding Pty Ltd v Commissioner of Taxation [2008] FCA 1477 (3 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1477.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">appeals from decisions of the administrative appeals tribunal affirming objection decisions of the respondent in disallowing deductions under s 8-1 of the income tax assessment act 1997 (cth) for outgoings claimed to have been incurred in respect of the hire of scaffolding equipment and objection decisions of the respondent treating those outgoings as dividends in the hands of a shareholder under div 7a of the income tax assessment act 1936 (cth)</catchphrase>
-<catchphrase "id=c1">tribunal found that the alleged lessor did not exist</catchphrase>
-<catchphrase "id=c2">whether appeal on question of law pursuant to s 44 of the administrative appeals tribunal act 1975 (cth) or one of fact and law</catchphrase>
-<catchphrase "id=c3">whether breach of procedural fairness in failing to put specific allegations of fabrication in spreadsheet documents to the witness</catchphrase>
-<catchphrase "id=c4">whether the evidentiary rule in browne v dunn has application to proceedings before the tribunal</catchphrase>
-<catchphrase "id=c5">no breach of procedural fairness</catchphrase>
-<catchphrase "id=c6">application dismissed</catchphrase>
-<catchphrase "id=c7">income tax</catchphrase>
+<catchphrase id="c0">appeals from decisions of the administrative appeals tribunal affirming objection decisions of the respondent in disallowing deductions under s 8-1 of the income tax assessment act 1997 (cth) for outgoings claimed to have been incurred in respect of the hire of scaffolding equipment and objection decisions of the respondent treating those outgoings as dividends in the hands of a shareholder under div 7a of the income tax assessment act 1936 (cth)</catchphrase>
+<catchphrase id="c1">tribunal found that the alleged lessor did not exist</catchphrase>
+<catchphrase id="c2">whether appeal on question of law pursuant to s 44 of the administrative appeals tribunal act 1975 (cth) or one of fact and law</catchphrase>
+<catchphrase id="c3">whether breach of procedural fairness in failing to put specific allegations of fabrication in spreadsheet documents to the witness</catchphrase>
+<catchphrase id="c4">whether the evidentiary rule in browne v dunn has application to proceedings before the tribunal</catchphrase>
+<catchphrase id="c5">no breach of procedural fairness</catchphrase>
+<catchphrase id="c6">application dismissed</catchphrase>
+<catchphrase id="c7">income tax</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -192,7 +192,7 @@ The Tribunal then went on to refer to paras 56 to 101 of the Commissioner's subm
 (1) To the extent that assertions were made by the Commissioner against 3D, those accusations had to be squarely put to the relevant witnesses.</sentence>
 <sentence id="s72">(2) As certain accusations were not put to the witnesses for 3D, the Tribunal fell into serious error by taking those assertions into account in making its determination.</sentence>
 <sentence id="s73">Not only did the Tribunal take those assertions into account but made findings of fact, and findings on credit, based upon matters never put to witnesses (in particular Mrs Montgomery).</sentence>
-<sentence id="s74">(3) In this regard the Tribunal must apply notions of procedural fairness: Kioa v West [1985] HCA 81 ; (1985) 159 CLR 550 ; Jagelman v FCT 96 ATC 4055 , Fletcher &amp; Ors v FCT (1988) 19 FCR 442 , Commissioner of Taxation v Metaskills Pty Ltd [2003] FCA 766 ; (2003) 130 FCR 248.</sentence>
+<sentence id="s74">(3) In this regard the Tribunal must apply notions of procedural fairness: Kioa v West [1985] HCA 81 ; (1985) 159 CLR 550 ; Jagelman v FCT 96 ATC 4055 , Fletcher &amp;amp; Ors v FCT (1988) 19 FCR 442 , Commissioner of Taxation v Metaskills Pty Ltd [2003] FCA 766 ; (2003) 130 FCR 248.</sentence>
 <sentence id="s75">A breach of these principles constitutes an error of law: Australian Postal Commission v Hayes [1989] FCA 176 ; (1989) 23 FCR 320 at 326 per Wilcox J.</sentence>
 <sentence id="s76">The first part of s 39(1) of the AAT Act provides statutory recognition of these principles: Sullivan v Department of Transport (1978) 20 ALR 323.</sentence>
 <sentence id="s77">(4) The integrity of the Price Spreadsheets was of fundamental importance to the case sought to be put by 3D.</sentence>

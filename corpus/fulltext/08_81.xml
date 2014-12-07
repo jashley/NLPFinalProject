@@ -3,14 +3,14 @@
 <name>Brady King Pty Ltd v Commissioner of Taxation [2008] FCA 81 (18 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/81.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">contract of sale for freehold land entered into by applicant before 1 july 2000</catchphrase>
-<catchphrase "id=c1">settlement of the contract after 1 july 2000</catchphrase>
-<catchphrase "id=c2">subsequent development of land into stratum units</catchphrase>
-<catchphrase "id=c3">supply of units 'off the plan' after 1 july 2000</catchphrase>
-<catchphrase "id=c4">whether s 75-10(2) or s 75-10(3) is the relevant section of the margin scheme provisions of the a new tax system (goods and services tax) act 1999 (cth) to determine gst payable on the supply of units</catchphrase>
-<catchphrase "id=c5">meaning of words 'acquired' and 'held' in margin scheme provisions</catchphrase>
-<catchphrase "id=c6">whether 'freehold interest' includes an equitable interest</catchphrase>
-<catchphrase "id=c7">taxation</catchphrase>
+<catchphrase id="c0">contract of sale for freehold land entered into by applicant before 1 july 2000</catchphrase>
+<catchphrase id="c1">settlement of the contract after 1 july 2000</catchphrase>
+<catchphrase id="c2">subsequent development of land into stratum units</catchphrase>
+<catchphrase id="c3">supply of units 'off the plan' after 1 july 2000</catchphrase>
+<catchphrase id="c4">whether s 75-10(2) or s 75-10(3) is the relevant section of the margin scheme provisions of the a new tax system (goods and services tax) act 1999 (cth) to determine gst payable on the supply of units</catchphrase>
+<catchphrase id="c5">meaning of words 'acquired' and 'held' in margin scheme provisions</catchphrase>
+<catchphrase id="c6">whether 'freehold interest' includes an equitable interest</catchphrase>
+<catchphrase id="c7">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -19,11 +19,11 @@
 1 On 22 May 2000, Brady King Pty Ltd ('the applicant') entered into a contract ('the Purchase Contract') to purchase an office building located at 270 King Street, Melbourne ('the Property') for the price of $9,250,000.</sentence>
 <sentence id="s1">2 There were terms of the Purchase Contract as follows:
  
- &#8226; The applicant would pay a deposit of $100,000 on signing the Purchase Contract, a second deposit of $400,000 within 90 days of the signing and the balance of the purchase price of $8,750,000 on settlement of the sale.</sentence>
-<sentence id="s2">&#8226; Settlement would take place at the expiration of 120 days from the date the Purchase Contract was signed or earlier by agreement.</sentence>
-<sentence id="s3">&#8226; Possession of the Property would pass from the vendor to the applicant upon acceptance of title and payment of the full price of $9,250,000.</sentence>
-<sentence id="s4">&#8226; Upon paying the deposit, the applicant would be granted an exclusive licence entitling it to access the Property (save for the basement car park) for the purpose of carrying out certain specified Works ('the Works') and for the purpose of marketing.</sentence>
-<sentence id="s5">&#8226; The Property would be at the applicant's risk from the date of the sale.</sentence>
+ &amp;#8226; The applicant would pay a deposit of $100,000 on signing the Purchase Contract, a second deposit of $400,000 within 90 days of the signing and the balance of the purchase price of $8,750,000 on settlement of the sale.</sentence>
+<sentence id="s2">&amp;#8226; Settlement would take place at the expiration of 120 days from the date the Purchase Contract was signed or earlier by agreement.</sentence>
+<sentence id="s3">&amp;#8226; Possession of the Property would pass from the vendor to the applicant upon acceptance of title and payment of the full price of $9,250,000.</sentence>
+<sentence id="s4">&amp;#8226; Upon paying the deposit, the applicant would be granted an exclusive licence entitling it to access the Property (save for the basement car park) for the purpose of carrying out certain specified Works ('the Works') and for the purpose of marketing.</sentence>
+<sentence id="s5">&amp;#8226; The Property would be at the applicant's risk from the date of the sale.</sentence>
 <sentence id="s6">
 
 3 After signing the Purchase Contract and before 30 June 2000, the applicant entered the Property and commenced carrying out the Works.</sentence>
@@ -260,7 +260,7 @@ Dated: 15 February 2008
  
  Solicitor for the Respondent: Australian Government Solicitor 
  
- Date of Hearing: 5 &amp; 6 February 2008 
+ Date of Hearing: 5 &amp;amp; 6 February 2008 
  
  Date of Judgment: 18 February 2008 
 

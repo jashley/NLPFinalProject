@@ -3,15 +3,15 @@
 <name>John Holland Pty Ltd (ACN 004 282 268) v Construction, Forestry, Mining and Energy Union [2009] FCA 786 (24 July 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/786.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an application for declarations and related relief in connection with a greenfield workplace agreement made between an employer and the australian workers' union under the workplace relations act 1996 (cth)</catchphrase>
-<catchphrase "id=c1">consideration of whether the agreement covers work undertaken as part of an expansion of the abbot point coal terminal</catchphrase>
-<catchphrase "id=c2">consideration of whether permit holders under the act had a right of entry to premises under s 760 of the act</catchphrase>
-<catchphrase "id=c3">consideration of the elements of civil penalty provisions s 767(1) and 768 (1) of the act</catchphrase>
-<catchphrase "id=c4">consideration of the circumstances in which a permit holder may be taken to act intentionally for the purposes of s 767(1)</catchphrase>
-<catchphrase "id=c5">consideration of hindering and obstructing for the purposes of s 767(1)</catchphrase>
-<catchphrase "id=c6">consideration of whether "reasonable grounds" subsisted for a relevant belief for the purposes of s 768(1) of the act</catchphrase>
-<catchphrase "id=c7">industrial law</catchphrase>
-<catchphrase "id=c8">industrial law</catchphrase>
+<catchphrase id="c0">consideration of an application for declarations and related relief in connection with a greenfield workplace agreement made between an employer and the australian workers' union under the workplace relations act 1996 (cth)</catchphrase>
+<catchphrase id="c1">consideration of whether the agreement covers work undertaken as part of an expansion of the abbot point coal terminal</catchphrase>
+<catchphrase id="c2">consideration of whether permit holders under the act had a right of entry to premises under s 760 of the act</catchphrase>
+<catchphrase id="c3">consideration of the elements of civil penalty provisions s 767(1) and 768 (1) of the act</catchphrase>
+<catchphrase id="c4">consideration of the circumstances in which a permit holder may be taken to act intentionally for the purposes of s 767(1)</catchphrase>
+<catchphrase id="c5">consideration of hindering and obstructing for the purposes of s 767(1)</catchphrase>
+<catchphrase id="c6">consideration of whether "reasonable grounds" subsisted for a relevant belief for the purposes of s 768(1) of the act</catchphrase>
+<catchphrase id="c7">industrial law</catchphrase>
+<catchphrase id="c8">industrial law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -380,7 +380,7 @@
  
  Electrical works including: 
 
- C334 jetty conveyor complete with electrical/control systems hardware, junction boxes, cabling, testing and commissioning C335 shipping conveyor complete with electrical/control systems hardware, junction boxes, cabling, testing and commissioning Feed centre to shiploader Replacement of existing and the installation of new HV switchgear within the Wharf Substation HV cabling between the Main and Wharf Substations General lighting &amp; power to wharf &amp; jetty structures PA system extension Cathodic protection of marine structures
+ C334 jetty conveyor complete with electrical/control systems hardware, junction boxes, cabling, testing and commissioning C335 shipping conveyor complete with electrical/control systems hardware, junction boxes, cabling, testing and commissioning Feed centre to shiploader Replacement of existing and the installation of new HV switchgear within the Wharf Substation HV cabling between the Main and Wharf Substations General lighting &amp;amp; power to wharf &amp;amp; jetty structures PA system extension Cathodic protection of marine structures
  
  [emphasis other than emphasis in bold, added] 
 
@@ -488,10 +488,10 @@
  The scope of work shall include the supply and installation of the following items: 
 
  
- &#8226; Conveyor belting and splice kits
- &#8226; Storm hold down clamps
- &#8226; Idler sets (frame and rollers)
- &#8226; Pulleys complete with bearings and bearing housings 
+ &amp;#8226; Conveyor belting and splice kits
+ &amp;#8226; Storm hold down clamps
+ &amp;#8226; Idler sets (frame and rollers)
+ &amp;#8226; Pulleys complete with bearings and bearing housings 
  Installation only of conveyor drive units (primary and secondary) --- Principal supplied Drive maintenance access platforms Take-up equipment including pulley, suspended box, guide brackets, guide posts, fall arrest and access platforms Take-up lifting winch assembly Low speed brake callipers and hydraulic control units at take-up and tail Head chute including deflector plate Diverter chute to feed either C325 or C335 including mechanism, gate and actuator Transition chutework between diverter outlet and C325 spoon chute Transition chutework between diverter outlet and C335 spoon chute Feed spoon chute and skirting system at tail end including, skirt plates, skirt clamps, skirt rubbers, skirt covers, shear gate, access platform and ladder, dust sprays and enclosure, etc Contract terminal point is bolted flange at top of spoon chute.</sentence>
 <sentence id="s162">Chutework above this flange supplied by others Pulley support frames at primary drive, secondary drive, take-up and tail Belt scrapers and return belt ploughs Belt rip detectors and other specified protection devices Head end belt wash station including underpan, wash rollers, spray bars, nozzles and connecting pipework Tail end belt wash station including under underpan, wash rollers, spray bars, nozzles and connecting pipework Reticulation of services (air for scapers and water for dust suppression and belt wash) Guarding
  
@@ -778,10 +778,10 @@
 <sentence id="s326">Eighth , the scope of work described as X30 in Appendix 1 is not consistent with the scope of work described in Contract Q08-004.</sentence>
 <sentence id="s327">There is therefore something more to be done, that is, additional work not covered by the Agreement.</sentence>
 <sentence id="s328">The Unions say that the departure in the symmetrical relationship between the Invitation to Tender, the Agreement and the Contract can be seen by first recognising that the Invitation to Tender describes an aspect of the electrical work as: 
- &#8226; HV cabling between the Main and Wharf Substations
- &#8226; General lighting &amp; power to wharf &amp; jetty structures
- &#8226; PA system extension
- &#8226; Cathodic protection of marine structures 
+ &amp;#8226; HV cabling between the Main and Wharf Substations
+ &amp;#8226; General lighting &amp;amp; power to wharf &amp;amp; jetty structures
+ &amp;#8226; PA system extension
+ &amp;#8226; Cathodic protection of marine structures 
 
  
 and that work is not part of the scope of electrical work in Appendix 1 to the Agreement.</sentence>
@@ -813,7 +813,7 @@ and that work is not part of the scope of electrical work in Appendix 1 to the A
 <sentence id="s352">Nothing could be more adapted to the most applied and practical focus of the mind of the authors of such a document than the nature of the work to be done, the classifications that would apply to men and women doing particular work and the rates of pay and loadings applicable to such work.</sentence>
 <sentence id="s353">It follows therefore that the intention of the parties to the Agreement should be understood not only by reference to these essential considerations but also in the context of the work John Holland was seeking to win and attract for its employees by its tender in response to the Invitation to Tender and whether the scope of the Workplace Expansion Agreement has a relevant relationship with that work, in the context of the contract that was ultimately to be entered into for the performance of particular work.</sentence>
 <sentence id="s354">As to these principles see the adoption of the observations of Street J in George A.</sentence>
-<sentence id="s355">Bond &amp; Company Limited (in Liquidation) v McKenzie (1929) AR (NSW) 498 by French J in City of Wanneroo v Holmes (1989) 30 IR 362; Kucks v CSR Limited (1996) 66 IR 182 per Madgwick J at 184; Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union v Ardmona Foods Ltd (2006) 155 IR 211 per Ryan J; Ansett Australia Limited v Australian Licensed Aircraft Engineers' Association [2003] FCAFC 209 per Wilcox, Conti and Jacobson JJ at [8]; United Firefighters' Union of Australia v Metropolitan Fire and Emergency Services Board [2006] FCAFC 84 per Nicholson, Jacobson and Lander JJ at [51]; and Amcor Limited v Construction, Forestry, Mining &amp; Energy Union [2005] HCA 10; (2005) 214 ALR 56 [2005] HCA 10 ; , (2005) 222 CLR 241 per Kirby J at [96] and Callinan J at [129] to [131].</sentence>
+<sentence id="s355">Bond &amp;amp; Company Limited (in Liquidation) v McKenzie (1929) AR (NSW) 498 by French J in City of Wanneroo v Holmes (1989) 30 IR 362; Kucks v CSR Limited (1996) 66 IR 182 per Madgwick J at 184; Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union v Ardmona Foods Ltd (2006) 155 IR 211 per Ryan J; Ansett Australia Limited v Australian Licensed Aircraft Engineers' Association [2003] FCAFC 209 per Wilcox, Conti and Jacobson JJ at [8]; United Firefighters' Union of Australia v Metropolitan Fire and Emergency Services Board [2006] FCAFC 84 per Nicholson, Jacobson and Lander JJ at [51]; and Amcor Limited v Construction, Forestry, Mining &amp;amp; Energy Union [2005] HCA 10; (2005) 214 ALR 56 [2005] HCA 10 ; , (2005) 222 CLR 241 per Kirby J at [96] and Callinan J at [129] to [131].</sentence>
 <sentence id="s356">Clause 4.1 of the Agreement applies the Agreement at PCQ's Terminal X25 and X30 Expansion as outlined in Appendix A.</sentence>
 <sentence id="s357">Appendix 1, relevantly Appendix A, identifies, inclusively not exhaustively, work men and women are to do in undertaking the X25 Expansion.</sentence>
 <sentence id="s358">Appendix 1 also identifies, inclusively not exhaustively, work men and women are to do in undertaking the X30 Expansion.</sentence>
@@ -855,9 +855,9 @@ and that work is not part of the scope of electrical work in Appendix 1 to the A
 <sentence id="s392">The Unions concede that the only application of NAPSA on the X50 work site is its application to the work carried out by electrical subcontractors to John Holland and the employees of those subcontractors.</sentence>
 <sentence id="s393">The Unions say that electrical work has been carried out by subcontractors notwithstanding the evidence of Mr Ingham and Mr Stokoe.</sentence>
 <sentence id="s394">The evidence of that work is given by Mr Ong.</sentence>
-<sentence id="s395">Mr Ong gave evidence that he went on to the X50 work site to determine whether John Holland employees were carrying out electrical work and to speak to employees of an electrical contractor, Murray Instrument &amp; Electrical.</sentence>
+<sentence id="s395">Mr Ong gave evidence that he went on to the X50 work site to determine whether John Holland employees were carrying out electrical work and to speak to employees of an electrical contractor, Murray Instrument &amp;amp; Electrical.</sentence>
 <sentence id="s396">Mr Ong entered the X50 work site on 19 November 2008 and 13 February 2009.</sentence>
-<sentence id="s397">Mr Ong said in cross-examination that he saw evidence of electrical work carried out on the X50 site consisting of "pulling cables, temporary power and switchboards", and that work had been done by either Murray Instrument &amp; Electrical or John Holland employees.</sentence>
+<sentence id="s397">Mr Ong said in cross-examination that he saw evidence of electrical work carried out on the X50 site consisting of "pulling cables, temporary power and switchboards", and that work had been done by either Murray Instrument &amp;amp; Electrical or John Holland employees.</sentence>
 <sentence id="s398">In his affidavit of 9 April 2009, Mr Ong said that in the course of walking towards the smoko huts with other officials, he stopped to inspect some switchboards.</sentence>
 <sentence id="s399">Mr Ong gave this further evidence in this affidavit.</sentence>
 <sentence id="s400">At one point he was standing apart from the other organisers and Mr Ingham said to him, "What are your concerns?</sentence>
@@ -920,7 +920,7 @@ and that work is not part of the scope of electrical work in Appendix 1 to the A
  Mr Ong: That --- at that stage, yes, I could have asked.</sentence>
 <sentence id="s430">
 
- This exchange with Mr Ong seems to show not only that Mr Ong did not make enquiries of the employees as to whether electricians were on site but also that the point of distinction emphasised by John Holland about the electrical work was that any such work that Mr Ong thought had been carried out, was being done by Murray Instrument &amp; Electrical rather than John Holland employees.</sentence>
+ This exchange with Mr Ong seems to show not only that Mr Ong did not make enquiries of the employees as to whether electricians were on site but also that the point of distinction emphasised by John Holland about the electrical work was that any such work that Mr Ong thought had been carried out, was being done by Murray Instrument &amp;amp; Electrical rather than John Holland employees.</sentence>
 <sentence id="s431">That seems consistent with the evidence of Mr Ingham that no John Holland employees had been engaged in electrical work as reflected in the manning plans for 2009, on the X50 work site.</sentence>
 <sentence id="s432">Mr Ong's evidence does suggest that some electrical work such as the installation of temporary power and switchboards observed by him had been carried out by a contractor.</sentence>
 <sentence id="s433">The evidence does not establish that electrical work was being carried out at the date of Mr Ong's entry to the X50 work site by contractors to John Holland.</sentence>
@@ -1006,7 +1006,7 @@ and that work is not part of the scope of electrical work in Appendix 1 to the A
 <sentence id="s507">On 20 November 2008, the CFMEU sent by facsimile to John Holland a "Notice to Initiate a Bargaining Period (s 423)" by which CFMEU intended "to try to make a collective agreement" under the Act concerning John Holland's "operation located at Abbot Point X50 Project" governing the employment of "persons who are eligible to be members of the CFMEU".</sentence>
 <sentence id="s508">On 20 November 2008, the AMWU sent John Holland a facsimile of a notice in the same terms except that the collective agreement was to apply to employees "who are eligible to be members of the AMWU".</sentence>
 <sentence id="s509">On 21 November 2008, the CEPU sent John Holland a facsimile of a notice in the same terms except that the collective agreement was to apply to all employees "who are members or eligible to be members of the CEPU electrical division".</sentence>
-<sentence id="s510">On 24 November 2008, Mr Stephen Sasse, the Group General Manager Human Resources &amp; Organisational Strategy for John Holland, wrote to the CFMEU, AMWU and CEPU to set out the basis on which John Holland contended that the Unions and their officials had no right of entry to premises described as the Abbot Point Construction Project Site for occupational health and safety purposes pursuant to the Workplace Relations Act 1996 or the Qld Act.</sentence>
+<sentence id="s510">On 24 November 2008, Mr Stephen Sasse, the Group General Manager Human Resources &amp;amp; Organisational Strategy for John Holland, wrote to the CFMEU, AMWU and CEPU to set out the basis on which John Holland contended that the Unions and their officials had no right of entry to premises described as the Abbot Point Construction Project Site for occupational health and safety purposes pursuant to the Workplace Relations Act 1996 or the Qld Act.</sentence>
 <sentence id="s511">Mr Sasse contended in the letter that the officials had been told on at least four occasions to leave the premises and that their conduct was hindering or obstructing John Holland officers in the conduct of the building and construction works at the premises.</sentence>
 <sentence id="s512">On 26 November 2008, the State Secretary of the AMWU, Mr Andrew Dettmer, responded to Mr Sasse's letter in relation to Mr Bradley and Mr Lowth's entry on 19 November 2008.</sentence>
 <sentence id="s513">Mr Dettmer's letter, in part, reads: 
@@ -2306,7 +2306,7 @@ The officials, led by Mr Ong, walked past Mr Ingham and commenced walking toward
 <sentence id="s1042">There was simply no focused analysis by the Unions or their officials as to whether the objection made by John Holland might be correct.</sentence>
 <sentence id="s1043">The clear inference is that the Unions and their officials had already determined that the reference in the Agreement to X25 and X30 necessarily meant that the Agreement could not apply to work done on the X50 work site.</sentence>
 <sentence id="s1044">Whether a person has reasonable grounds to believe that entry is not authorised involves an objective assessment of whether facts were before that person sufficient to induce a reasonable person to believe that grounds existed for denying authority to enter.</sentence>
-<sentence id="s1045">That view is consistent with the approach to the notion of "reasonable grounds" in George v Rockett (1990) 93 ALR 483 and Rema Industries and Services Pty Ltd v Coad &amp; Ors (1992) 107 ALR 374.</sentence>
+<sentence id="s1045">That view is consistent with the approach to the notion of "reasonable grounds" in George v Rockett (1990) 93 ALR 483 and Rema Industries and Services Pty Ltd v Coad &amp;amp; Ors (1992) 107 ALR 374.</sentence>
 <sentence id="s1046">In determining whether reasonable grounds for a belief exist, there is a relationship between the objective facts that must engender such a belief and the role, standards and duties of the person confronting the relevant facts.</sentence>
 <sentence id="s1047">In this case, the officials are permit holders under the Act and Mr Dettmer is an experienced State Secretary of the AMWU.</sentence>
 <sentence id="s1048">In the face of an employer's objection to entry in the manner of 19 November 2008 and correspondence from the employer pressing that objection, a permit holder and the Unions as organisations, must necessarily give consideration to the merits of the employer's claims and form a view as to whether the claims are well placed or not.</sentence>

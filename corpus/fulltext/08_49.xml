@@ -3,11 +3,11 @@
 <name>The Polo/Lauren Company L.P. v Ziliani Holdings Pty Ltd [2008] FCA 49 (5 February 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/49.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">copyright</catchphrase>
-<catchphrase "id=c1">application for injunction to restrain importation and sale of clothing bearing embroidered polo player logo without licence of owner of copyright</catchphrase>
-<catchphrase "id=c2">logo lawfully embroidered in country of manufacture with licence of owner of copyright</catchphrase>
-<catchphrase "id=c3">whether importer entitled to engage in "parallel importing" of those goods into australia without licence of owner of copyright in australia</catchphrase>
-<catchphrase "id=c4">intellectual property</catchphrase>
+<catchphrase id="c0">copyright</catchphrase>
+<catchphrase id="c1">application for injunction to restrain importation and sale of clothing bearing embroidered polo player logo without licence of owner of copyright</catchphrase>
+<catchphrase id="c2">logo lawfully embroidered in country of manufacture with licence of owner of copyright</catchphrase>
+<catchphrase id="c3">whether importer entitled to engage in "parallel importing" of those goods into australia without licence of owner of copyright in australia</catchphrase>
+<catchphrase id="c4">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -51,11 +51,11 @@
 <sentence id="s29">11 Polo/Lauren seeks:
  
  
- &#8226; orders under s 115(2) of the Act restraining Ziliani, other than with Polo/Lauren's consent from selling, or by way of trade, importing, offering or exposing for sale, distributing or exhibiting in public or keeping for any of those purposes, clothing bearing a reproduction of the polo player logo;
- &#8226; damages for infringement of its copyright pursuant to s 115(2) together with additional damages pursuant to s 115(4);
- &#8226; alternatively, an account of profits pursuant to s 115(2) of the Act;
- &#8226; damages from Ziliani for conversion pursuant to s 116(1);
- &#8226; an order for delivery up of all clothing bearing the polo player logo.</sentence>
+ &amp;#8226; orders under s 115(2) of the Act restraining Ziliani, other than with Polo/Lauren's consent from selling, or by way of trade, importing, offering or exposing for sale, distributing or exhibiting in public or keeping for any of those purposes, clothing bearing a reproduction of the polo player logo;
+ &amp;#8226; damages for infringement of its copyright pursuant to s 115(2) together with additional damages pursuant to s 115(4);
+ &amp;#8226; alternatively, an account of profits pursuant to s 115(2) of the Act;
+ &amp;#8226; damages from Ziliani for conversion pursuant to s 116(1);
+ &amp;#8226; an order for delivery up of all clothing bearing the polo player logo.</sentence>
 <sentence id="s30">
  
 
@@ -500,7 +500,7 @@ The Macquarie Dictionary (online edition) defines 'label' as including:
 
 The online Macquarie Dictionary gives a similar meaning.</sentence>
 <sentence id="s275">51 I am satisfied that a natural and ordinary English meaning of the word 'label' includes a brand name, trade mark and the name by which a design or fashion house, and its product, such as 'Polo' and 'Ralph Lauren' and 'Polo Ralph Lauren', is generally known.</sentence>
-<sentence id="s276">52 The 1998 amendment of the Act to provide an exception in s 44C so that a label in which copyright subsisted would not be able to control the use of the goods to which the label was attached was prompted by the decision of Young J in the Supreme Court of New South Wales in R &amp; A Bailey &amp; Co Ltd v Boccaccio Pty Ltd (1986) 4 NSWLR 701; 77 ALR 177.</sentence>
+<sentence id="s276">52 The 1998 amendment of the Act to provide an exception in s 44C so that a label in which copyright subsisted would not be able to control the use of the goods to which the label was attached was prompted by the decision of Young J in the Supreme Court of New South Wales in R &amp;amp; A Bailey &amp;amp; Co Ltd v Boccaccio Pty Ltd (1986) 4 NSWLR 701; 77 ALR 177.</sentence>
 <sentence id="s277">There, a manufacturer produced a liqueur known as 'Baileys Original Irish Cream' in the Republic of Ireland and sold it to various distributors around the world.</sentence>
 <sentence id="s278">The Australian distributor did not sell the liqueur to the defendant, which had imported its supplies of the liqueur from Baileys' Dutch distributor.</sentence>
 <sentence id="s279">The manufacturer and Australian distributor sought to restrain the importer from further importations and sales in Australia.</sentence>
@@ -680,13 +680,13 @@ After reviewing a range of options, the explanatory memorandum commented upon th
  
  
  
- &#8226; clarify the meaning of the term "work of artistic craftsmanship"; 
+ &amp;#8226; clarify the meaning of the term "work of artistic craftsmanship"; 
  
  
  
  
  
- &#8226; amend the definition of "corresponding design" to deal with certain technical difficulties ...' 
+ &amp;#8226; amend the definition of "corresponding design" to deal with certain technical difficulties ...' 
  
 
 73 The revised explanatory memorandum also said that one purpose of the proposed amendment to the definition of 'corresponding design' was to remove the anomalous protection afforded to utilitarian three-dimensional articles such as pump parts.</sentence>
@@ -726,7 +726,7 @@ After reviewing a range of options, the explanatory memorandum commented upon th
 <sentence id="s402">' 
 
 80 Polo/Lauren argued that, in essence, the embroidery of the polo player logo was part of a pattern or ornamentation on the surface of the garments.</sentence>
-<sentence id="s403">It contended that the embroidery was not an essential feature or characteristic of the appearance of the garments amounting to a visual feature of shape or configuration in the sense explained in cases such as Cow ( PB) &amp; Co Ltd v Cannon Rubber Manufactures Ltd [1959] RPC 240 at 244 per Lloyd-Jacob J.</sentence>
+<sentence id="s403">It contended that the embroidery was not an essential feature or characteristic of the appearance of the garments amounting to a visual feature of shape or configuration in the sense explained in cases such as Cow ( PB) &amp;amp; Co Ltd v Cannon Rubber Manufactures Ltd [1959] RPC 240 at 244 per Lloyd-Jacob J.</sentence>
 <sentence id="s404">There, Lloyd-Jacob J said that a design of a hot-water bottle which had a ribbed appearance had to be '... considered on the footing that the particular ribbed appearance which it provides in articles to which it is applied is a characteristic feature of it'.</sentence>
 <sentence id="s405">In contrast, Polo/Lauren suggested that the subtlety of the embroidery as used on the various garments retained the essential two-dimensional character of the visual appearance of the polo player logo, so that it was to be regarded as a part of a pattern or ornamentation of the garment, and thus outside the definition of 'corresponding design'.</sentence>
 <sentence id="s406">CONSIDERATION OF THE S 77 DEFENCE 
@@ -763,7 +763,7 @@ Dated: 5 February 2008
  
  Counsel for the Respondents: R Cobden SC 
  
- Solicitor for the Respondents: Spanko Soulos &amp; Co 
+ Solicitor for the Respondents: Spanko Soulos &amp;amp; Co 
  
  Date of Hearing: 25, 26 July 2007 
  

@@ -3,61 +3,61 @@
 <name>University of Western Australia v Gray (No 20) (includes corrigendum dated 29 April 2008 and 22 April 2008) [2008] FCA 498 (17 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/498.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patents</catchphrase>
-<catchphrase "id=c1">inventions</catchphrase>
-<catchphrase "id=c2">inventions made by employees</catchphrase>
-<catchphrase "id=c3">academic staff of university</catchphrase>
-<catchphrase "id=c4">employed to research</catchphrase>
-<catchphrase "id=c5">whether duty to invent</catchphrase>
-<catchphrase "id=c6">whether implied term in contract conferring rights on university</catchphrase>
-<catchphrase "id=c7">no duty of non-disclosure</catchphrase>
-<catchphrase "id=c8">no duty to invent</catchphrase>
-<catchphrase "id=c9">significant requirement for external funding</catchphrase>
-<catchphrase "id=c10">no implied term</catchphrase>
-<catchphrase "id=c11">inventorship</catchphrase>
-<catchphrase "id=c12">discovery</catchphrase>
-<catchphrase "id=c13">inventive concept</catchphrase>
-<catchphrase "id=c14">identification of inventive concept</catchphrase>
-<catchphrase "id=c15">specification or claim by claim analysis</catchphrase>
-<catchphrase "id=c16">unjustified threats of infringement or similar proceedings</catchphrase>
-<catchphrase "id=c17">claim for constructive trust in patent rights</catchphrase>
-<catchphrase "id=c18">whether "similar proceedings"</catchphrase>
-<catchphrase "id=c19">not similar proceedings</catchphrase>
-<catchphrase "id=c20">no unjustified threats contract</catchphrase>
-<catchphrase "id=c21">employment</catchphrase>
-<catchphrase "id=c22">implied term</catchphrase>
-<catchphrase "id=c23">invention</catchphrase>
-<catchphrase "id=c24">academic staff</catchphrase>
-<catchphrase "id=c25">employment to teach and research</catchphrase>
-<catchphrase "id=c26">whether duty to invent</catchphrase>
-<catchphrase "id=c27">whether implied term vesting invention rights in university</catchphrase>
-<catchphrase "id=c28">no implied term delegated legislation</catchphrase>
-<catchphrase "id=c29">regulations</catchphrase>
-<catchphrase "id=c30">university</catchphrase>
-<catchphrase "id=c31">regulation making power</catchphrase>
-<catchphrase "id=c32">promulgation requirement as condition of operation</catchphrase>
-<catchphrase "id=c33">content of requirement</catchphrase>
-<catchphrase "id=c34">construction</catchphrase>
-<catchphrase "id=c35">whether regulations may validly acquire intellectual property rights from academic staff</catchphrase>
-<catchphrase "id=c36">presumption against alienation or interference with property rights</catchphrase>
-<catchphrase "id=c37">no valid authority to acquire or interfere with property rights by regulation</catchphrase>
-<catchphrase "id=c38">not related to control or management of university property trade practices</catchphrase>
-<catchphrase "id=c39">misleading or deceptive conduct</catchphrase>
-<catchphrase "id=c40">representations</catchphrase>
-<catchphrase "id=c41">future matters</catchphrase>
-<catchphrase "id=c42">application of s 51a</catchphrase>
-<catchphrase "id=c43">requirement to plead or demonstrate implied representations as to reasonable grounds corporations</catchphrase>
-<catchphrase "id=c44">directors</catchphrase>
-<catchphrase "id=c45">director's duties</catchphrase>
-<catchphrase "id=c46">failure to disclose material information to company in due diligence prior to float</catchphrase>
-<catchphrase "id=c47">information indicating risk of claim against intellectual property held by company</catchphrase>
-<catchphrase "id=c48">loss of opportunity to company to avoid claim by negotiation or otherwise tort</catchphrase>
-<catchphrase "id=c49">defamation</catchphrase>
-<catchphrase "id=c50">qualified privilege</catchphrase>
-<catchphrase "id=c51">malice</catchphrase>
-<catchphrase "id=c52">letter of demand</catchphrase>
-<catchphrase "id=c53">whether content and timing of letter of demand actuated by malice</catchphrase>
-<catchphrase "id=c54">intellectual property</catchphrase>
+<catchphrase id="c0">patents</catchphrase>
+<catchphrase id="c1">inventions</catchphrase>
+<catchphrase id="c2">inventions made by employees</catchphrase>
+<catchphrase id="c3">academic staff of university</catchphrase>
+<catchphrase id="c4">employed to research</catchphrase>
+<catchphrase id="c5">whether duty to invent</catchphrase>
+<catchphrase id="c6">whether implied term in contract conferring rights on university</catchphrase>
+<catchphrase id="c7">no duty of non-disclosure</catchphrase>
+<catchphrase id="c8">no duty to invent</catchphrase>
+<catchphrase id="c9">significant requirement for external funding</catchphrase>
+<catchphrase id="c10">no implied term</catchphrase>
+<catchphrase id="c11">inventorship</catchphrase>
+<catchphrase id="c12">discovery</catchphrase>
+<catchphrase id="c13">inventive concept</catchphrase>
+<catchphrase id="c14">identification of inventive concept</catchphrase>
+<catchphrase id="c15">specification or claim by claim analysis</catchphrase>
+<catchphrase id="c16">unjustified threats of infringement or similar proceedings</catchphrase>
+<catchphrase id="c17">claim for constructive trust in patent rights</catchphrase>
+<catchphrase id="c18">whether "similar proceedings"</catchphrase>
+<catchphrase id="c19">not similar proceedings</catchphrase>
+<catchphrase id="c20">no unjustified threats contract</catchphrase>
+<catchphrase id="c21">employment</catchphrase>
+<catchphrase id="c22">implied term</catchphrase>
+<catchphrase id="c23">invention</catchphrase>
+<catchphrase id="c24">academic staff</catchphrase>
+<catchphrase id="c25">employment to teach and research</catchphrase>
+<catchphrase id="c26">whether duty to invent</catchphrase>
+<catchphrase id="c27">whether implied term vesting invention rights in university</catchphrase>
+<catchphrase id="c28">no implied term delegated legislation</catchphrase>
+<catchphrase id="c29">regulations</catchphrase>
+<catchphrase id="c30">university</catchphrase>
+<catchphrase id="c31">regulation making power</catchphrase>
+<catchphrase id="c32">promulgation requirement as condition of operation</catchphrase>
+<catchphrase id="c33">content of requirement</catchphrase>
+<catchphrase id="c34">construction</catchphrase>
+<catchphrase id="c35">whether regulations may validly acquire intellectual property rights from academic staff</catchphrase>
+<catchphrase id="c36">presumption against alienation or interference with property rights</catchphrase>
+<catchphrase id="c37">no valid authority to acquire or interfere with property rights by regulation</catchphrase>
+<catchphrase id="c38">not related to control or management of university property trade practices</catchphrase>
+<catchphrase id="c39">misleading or deceptive conduct</catchphrase>
+<catchphrase id="c40">representations</catchphrase>
+<catchphrase id="c41">future matters</catchphrase>
+<catchphrase id="c42">application of s 51a</catchphrase>
+<catchphrase id="c43">requirement to plead or demonstrate implied representations as to reasonable grounds corporations</catchphrase>
+<catchphrase id="c44">directors</catchphrase>
+<catchphrase id="c45">director's duties</catchphrase>
+<catchphrase id="c46">failure to disclose material information to company in due diligence prior to float</catchphrase>
+<catchphrase id="c47">information indicating risk of claim against intellectual property held by company</catchphrase>
+<catchphrase id="c48">loss of opportunity to company to avoid claim by negotiation or otherwise tort</catchphrase>
+<catchphrase id="c49">defamation</catchphrase>
+<catchphrase id="c50">qualified privilege</catchphrase>
+<catchphrase id="c51">malice</catchphrase>
+<catchphrase id="c52">letter of demand</catchphrase>
+<catchphrase id="c53">whether content and timing of letter of demand actuated by malice</catchphrase>
+<catchphrase id="c54">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -614,7 +614,7 @@ And in regulation 4(13):
 <sentence id="s252">The Pro Vice-Chancellor (Research) is empowered by regulation 9 to do a variety of things for the purposes of the IP Regulations.</sentence>
 <sentence id="s253">These include consultation with the originator and the relevant executive deans of faculties, application for protection or registration of intellectual property, commercialisation of intellectual property owned by or licensed to UWA and assignment or licence to the originator of intellectual property owned or licensed to UWA under the IP Regulations.</sentence>
 <sentence id="s254">Regulation 10 provides for the apportionment of net revenue from the commercialisation of UWA's intellectual property.</sentence>
-<sentence id="s255">Under regulation 10(3) normally the distribution of cumulative net revenue for the entire life of the intellectual property would be according to the following schedule: Cumulative Net Revenue Originators Retained by the University &lt;$50,000 85% 15% Next $100,000 65% 35% Further amounts 50% 50% 
+<sentence id="s255">Under regulation 10(3) normally the distribution of cumulative net revenue for the entire life of the intellectual property would be according to the following schedule: Cumulative Net Revenue Originators Retained by the University &amp;lt;$50,000 85% 15% Next $100,000 65% 35% Further amounts 50% 50% 
  There is a provision for dispute resolution by the appointment of mediators or arbitrators under regulation 11 and a requirement under regulation 12 for UWA to take reasonable steps to ensure that the "policy" is communicated and explained to staff and students.</sentence>
 <sentence id="s256">The Intellectual Property Regulations --- the promulgation debate
  Dr Gray and Sirtex submitted that the IP Regulations could not have come into effect upon 22 July 1996 as provided in their Preamble.</sentence>
@@ -1123,7 +1123,7 @@ In that case a declaration of trust was made.</sentence>
 <sentence id="s491">
  
 
- The Court of Session in Scotland in Mellor v William Beardmore &amp; Co Ltd (1927) 44 RPC 175 also rejected the proposition that a contract of employment was enough to support the implication that any invention made by an employee in the course of employment was the property of the employer.</sentence>
+ The Court of Session in Scotland in Mellor v William Beardmore &amp;amp; Co Ltd (1927) 44 RPC 175 also rejected the proposition that a contract of employment was enough to support the implication that any invention made by an employee in the course of employment was the property of the employer.</sentence>
 <sentence id="s492">Lord Ormidale said (at 191): 
  
  As I understand the law of the matter, the mere existence of a contract of service in no way disqualifies a servant from taking out a patent in his own name and entirely for his own benefit --- and that notwithstanding that he has used his employers' time and materials to aid him in completing his invention --- unless he has become bound by some agreement, either express or implied, to communicate the benefits of his invention to those in whose employment he is.</sentence>
@@ -1272,7 +1272,7 @@ An order was made that the employee assign to the plaintiffs the patent when gra
  
 
  
-Jacob J also referred to the decision of the Court of Appeal in Stephenson Jordan &amp; Harrison Ltd v MacDonald &amp; Evans (1952) 69 RPC 10.</sentence>
+Jacob J also referred to the decision of the Court of Appeal in Stephenson Jordan &amp;amp; Harrison Ltd v MacDonald &amp;amp; Evans (1952) 69 RPC 10.</sentence>
 <sentence id="s585">When that case was decided the issue of ownership of copyright in a work as between employer and employee was based upon whether the work was made in the course of employment.</sentence>
 <sentence id="s586">A person engaged to give lectures who decided to reduce them to writing would, absent clear terms, have been entitled to the copyright.</sentence>
 <sentence id="s587">Jacob J thought the same applied to an inventor.</sentence>
@@ -1403,7 +1403,7 @@ And further (at 364):
 
  
  
- Blanco White TA Patents for Inventions and Protection of Industrial Designs (5 th ed, 1983, London: Stephens &amp; Sons) at [7-004].</sentence>
+ Blanco White TA Patents for Inventions and Protection of Industrial Designs (5 th ed, 1983, London: Stephens &amp;amp; Sons) at [7-004].</sentence>
 <sentence id="s671">
  
 
@@ -1570,7 +1570,7 @@ The authors acknowledged that their view was "essentially speculative" and based
 <sentence id="s791">In the present case UWA does not assert any limited right to the inventions but all the rights.</sentence>
 <sentence id="s792">No question of an implied "shop right" has been raised.</sentence>
 <sentence id="s793">The existence of such an implied term is even more problematical in circumstances such as the present where the researcher was expected to secure funding to a substantial degree from sources external to UWA.</sentence>
-<sentence id="s794">This was even though UWA, under standard arrangements, administered funding, from sources such as the NH &amp; MRC and CSIRO, when it was received.</sentence>
+<sentence id="s794">This was even though UWA, under standard arrangements, administered funding, from sources such as the NH &amp;amp; MRC and CSIRO, when it was received.</sentence>
 <sentence id="s795">A striking feature of this case was the significant amount of time and effort devoted by Dr Gray and those researching with him in applying for research grant grants to a myriad of funding and grant bodies and agencies.</sentence>
 <sentence id="s796">In relation to UWA, the principal officers of the university responsible for administering its intellectual property policies took somewhat differing views of its role in relation to inventions produced by academic staff.</sentence>
 <sentence id="s797">Professor Parfitt, who was Deputy Vice-Chancellor (Research) from 1 April 1987 to 31 December 1991 commented in a draft document which he produced in October 1988 that the whole of the professional time of an academic staff member was to be devoted to the performance of the duties of office of that staff member.</sentence>
@@ -1657,7 +1657,7 @@ The document seems to have led or contributed to the creation of a Technology Tr
 <sentence id="s859">I accept that as an accurate description of its purpose and function.</sentence>
 <sentence id="s860">David Hilditch was engaged by Uniscan between early 1984 and May 1985 to provide part time consultancy services.</sentence>
 <sentence id="s861">He had a science degree from Nottingham Trent University and a Master of Business Administration from UWA.</sentence>
-<sentence id="s862">He was engaged through David Hilditch &amp; Associates Pty Ltd as trustee for the Hilditch Family Trust.</sentence>
+<sentence id="s862">He was engaged through David Hilditch &amp;amp; Associates Pty Ltd as trustee for the Hilditch Family Trust.</sentence>
 <sentence id="s863">In May 1987 Uniscan offered him a position as a senior consultant on a project-by-project basis.</sentence>
 <sentence id="s864">At that time Uniscan's office was located at Love House in Nedlands.</sentence>
 <sentence id="s865">From May 1987 to November 1987 he was primarily engaged in Uniscan and CABR consulting projects preparing business plans and market reports for external industry clients.</sentence>
@@ -2312,7 +2312,7 @@ He said that UWA did not actively monitor disclosure under the Patents Regulatio
 <sentence id="s1374">He studied the natural history of cancer so he could better understand its basic physiology.</sentence>
 <sentence id="s1375">He wanted to develop an understanding of how bowel cancer metastasises to the liver.</sentence>
 <sentence id="s1376">Understanding the process might open opportunities for prevention.</sentence>
-<sentence id="s1377">He undertook an exhaustive review of the literature and published his findings in 1980: Gray, " Colorectal cancer: The Natural history of disseminated disease " (1980) Australia &amp; New Zealand Journal of Surgery 50; 643-646.</sentence>
+<sentence id="s1377">He undertook an exhaustive review of the literature and published his findings in 1980: Gray, " Colorectal cancer: The Natural history of disseminated disease " (1980) Australia &amp;amp; New Zealand Journal of Surgery 50; 643-646.</sentence>
 <sentence id="s1378">He also published a review of methods used to treat disseminated bowel cancer.</sentence>
 <sentence id="s1379">The idea of using microspheres to treat cancers dated back to the late 1960's.</sentence>
 <sentence id="s1380">Dr Gray linked it to the delivery of high doses of anti-cancer drugs directly into the liver to treat liver cancer.</sentence>
@@ -2653,10 +2653,10 @@ In setting out the progress to date the application claimed that a new technique
 <sentence id="s1690">
 There is no record that the grant application was successful.</sentence>
 <sentence id="s1691">The date of the application was 20 December 1982.</sentence>
-<sentence id="s1692">Similar applications at about the same time were made to the Buckland Foundation, the Rowden White Fund, the Utah Foundation, The Ian Potter Foundation, The H &amp; L Hecht Foundation, The Brockhoff Foundation and The Helen Schutt Trust.</sentence>
+<sentence id="s1692">Similar applications at about the same time were made to the Buckland Foundation, the Rowden White Fund, the Utah Foundation, The Ian Potter Foundation, The H &amp;amp; L Hecht Foundation, The Brockhoff Foundation and The Helen Schutt Trust.</sentence>
 <sentence id="s1693">The application to the Buckland Foundation had the same title as that to the Felton Bequest.</sentence>
 <sentence id="s1694">The applications to the other Funds, Foundations and Trust in 1982 all related to the use of vasoactive agents to enhance the anti-cancer effect of radioactive microspheres.</sentence>
-<sentence id="s1695">The application to the H &amp; L Hecht Foundation yielded a grant of $4,000.</sentence>
+<sentence id="s1695">The application to the H &amp;amp; L Hecht Foundation yielded a grant of $4,000.</sentence>
 <sentence id="s1696">An application to the ACCV in 1982 entitled "Intrahepatic administration of radioactive Yttrium-90 microspheres for the treatment of hepatic metastases" yielded a grant.</sentence>
 <sentence id="s1697">Its quantum is the subject of some conflicting evidence ranging from $23,000 to $33,300.</sentence>
 <sentence id="s1698">The quantum is not material for present purposes.</sentence>
@@ -3210,7 +3210,7 @@ Associated with that definition is the concept of the hysteresis curve or hyster
 <sentence id="s2120">Thus hysteresis loss is the energy dissipated as heat in a system as a result of hysteresis.</sentence>
 <sentence id="s2121">A typical hysteresis curve showing the degree of magnetisation of ferromagnetic material varying according to the strength of the external magnetic field appears below in Annexure 1 to these reasons.</sentence>
 <sentence id="s2122">Where the external magnetic field not only changes its strength but changes its direction the reversed external field will begin to reverse the direction of the magnetic field within the domains of the ferromagnetic material.</sentence>
-<sentence id="s2123">When the external magnetic field alternates between one direction and another 180&#186; in the opposite direction, the directions of the domains alternate.</sentence>
+<sentence id="s2123">When the external magnetic field alternates between one direction and another 180&amp;#186; in the opposite direction, the directions of the domains alternate.</sentence>
 <sentence id="s2124">The associated hysteresis phenomenon is referred to as alternating hysteresis.</sentence>
 <sentence id="s2125">Hysteresis may also occur where instead of simply reversing the polarity of the magnetic field the field is rotated.</sentence>
 <sentence id="s2126">Where a magnetic field is rotated around a piece of ferromagnetic material, the direction of the field inside the piece of material also rotates.</sentence>
@@ -3406,9 +3406,9 @@ He stated that the group had developed an economic and high yielding manufacturi
 <sentence id="s2285">In May he met with Dr Nicholas again.</sentence>
 <sentence id="s2286">Dr Nicholas understood from their conversation at that time that he was not making great progress in relation to the so-called Thermo-spheres and was concentrating on the potentially more exploitable project involving the delivery of the SIR-Spheres with Yttrium 90 .</sentence>
 <sentence id="s2287">Dr Nicholas and Dr Gray agreed that CABR would enquire about the patentability of the technologies that he was developing.</sentence>
-<sentence id="s2288">Dr Nicholas wrote a letter dated 22 May 1987 to Davies &amp; Collison Patent Attorneys seeking their advice about whether Dr Gray's projects might be amenable to patent protection.</sentence>
-<sentence id="s2289">On 9 July 1987 Dr Nicholas sent a facsimile to Davies &amp; Collison about Thermo-Spheres which does not appear to be in evidence, but which elicited a letter dated 13 July 1987 from Dr Stearne of that firm.</sentence>
-<sentence id="s2290">Dr Nicholas had instructed Davies &amp; Collison to prepare a provisional patent specification relating to the selective heating of tumour cells.</sentence>
+<sentence id="s2288">Dr Nicholas wrote a letter dated 22 May 1987 to Davies &amp;amp; Collison Patent Attorneys seeking their advice about whether Dr Gray's projects might be amenable to patent protection.</sentence>
+<sentence id="s2289">On 9 July 1987 Dr Nicholas sent a facsimile to Davies &amp;amp; Collison about Thermo-Spheres which does not appear to be in evidence, but which elicited a letter dated 13 July 1987 from Dr Stearne of that firm.</sentence>
+<sentence id="s2290">Dr Nicholas had instructed Davies &amp;amp; Collison to prepare a provisional patent specification relating to the selective heating of tumour cells.</sentence>
 <sentence id="s2291">The specification was to be directed to the incorporation of ferromagnetic particles into microspheres.</sentence>
 <sentence id="s2292">In his reply Dr Stearne sought information about a number of aspects of the proposed invention.</sentence>
 <sentence id="s2293">These included the mechanism of hysteresis heating, the type, sizes and configurations of the ferromagnetic particles, ranges of field strength and frequency for operating the magnetic coil and preferred sizes for the magnetic coil.</sentence>
@@ -3486,8 +3486,8 @@ He identified three particular aspects of Professor Gray's work on DOX-Spheres.<
 <sentence id="s2352">On 27 November 1987, Dr Pitman replied advising that there would be no funds available to support his research.</sentence>
 <sentence id="s2353">He left open the possibility of collaborative work in the future on a delivery problem.</sentence>
 <sentence id="s2354">Gray writes to CABR about Thermo-Spheres --- September 1987
- On 14 September 1987, Dr Gray wrote to Dr Nicholas with responses to the questions raised by Davies &amp; Collison in their letter of 13 July 1987.</sentence>
-<sentence id="s2355">He attached an overview of the Thermo-Spheres project in specific areas that he thought needed development and particular answers to the questions raised by Davies &amp; Collison.</sentence>
+ On 14 September 1987, Dr Gray wrote to Dr Nicholas with responses to the questions raised by Davies &amp;amp; Collison in their letter of 13 July 1987.</sentence>
+<sentence id="s2355">He attached an overview of the Thermo-Spheres project in specific areas that he thought needed development and particular answers to the questions raised by Davies &amp;amp; Collison.</sentence>
 <sentence id="s2356">He described specific areas to be developed which included the assessment of various ferromagnetic materials with the necessary properties.</sentence>
 <sentence id="s2357">These included: 
  .</sentence>
@@ -3503,7 +3503,7 @@ He identified three particular aspects of Professor Gray's work on DOX-Spheres.<
 <sentence id="s2361">suitable and optimal size and shape.</sentence>
 <sentence id="s2362">In addition it would be necessary to develop suitable microspheres to carry the particles, identify techniques for incorporation of ferromagnetic particles into the microspheres in a suitable and optimal configuration for hysteresis heating and to develop techniques for their delivery into cancerous tissues.</sentence>
 <sentence id="s2363">He referred also to the need to develop techniques for selective delivery by the use of radioactive agents and the development of an electrical/mechanical device capable of inducing suitable and optimal magnetic fields to cause hysteresis heating of the particles once lodged within cancerous tissues.</sentence>
-<sentence id="s2364">A copy of Dr Gray's replies was forwarded to Davies &amp; Collison.</sentence>
+<sentence id="s2364">A copy of Dr Gray's replies was forwarded to Davies &amp;amp; Collison.</sentence>
 <sentence id="s2365">They made reference, inter alia, to the magnetic field requirements thus: 
  
  Item 7 
@@ -3539,7 +3539,7 @@ He identified three particular aspects of Professor Gray's work on DOX-Spheres.<
 
  
 Significant elements of this response are the reference to rotating magnetic fields and the use of "air cored coils" to produce the fields.</sentence>
-<sentence id="s2374">Dr Nicholas received a letter, dated 30 October 1987, from Davies &amp; Collison and a draft provisional patent specification for the Thermo-Spheres.</sentence>
+<sentence id="s2374">Dr Nicholas received a letter, dated 30 October 1987, from Davies &amp;amp; Collison and a draft provisional patent specification for the Thermo-Spheres.</sentence>
 <sentence id="s2375">The specification was prepared on the basis of the detail supplied by Dr Gray.</sentence>
 <sentence id="s2376">Dr Stearne noted in his covering letter that the draft lacked supporting experimental data and might be considered somewhat speculative.</sentence>
 <sentence id="s2377">It would not provide an adequate basis for obtaining Convention priority in the USA.</sentence>
@@ -3690,10 +3690,10 @@ He recalled no further contact with TTACRD.</sentence>
 <sentence id="s2498">Approvals for the trial were obtained from the Human Ethics Committees of both hospitals and from UWA.</sentence>
 <sentence id="s2499">The trial was approved by the Therapeutic Goods Administration Section of the Department of Community Services and Health under the Clinical Trial Notification Scheme.</sentence>
 <sentence id="s2500">It was designed to compare the outcomes of treating patients with secondary liver cancer with anticancer drugs infused directly into the blood supply of the liver and the same drugs so infused together with a single administration of SIR-Spheres.</sentence>
-<sentence id="s2501">He and Dr van Hazel were awarded a three year grant by the NH &amp; MRC to conduct the trial.</sentence>
+<sentence id="s2501">He and Dr van Hazel were awarded a three year grant by the NH &amp;amp; MRC to conduct the trial.</sentence>
 <sentence id="s2502">The funds were administered by UWA.</sentence>
 <sentence id="s2503">The trial was also financially supported by the RPH Medical Research Foundation (the Foundation).</sentence>
-<sentence id="s2504">The NH &amp; MRC grant allowed the recruitment of staff to assist in the conduct of the trial but the cost of treating patients with SIR-Spheres was met from RPH and the cost of further treatment, tests and care of patients was borne by the public health system through Medicare, the private health insurance industry, RPH and QE II.</sentence>
+<sentence id="s2504">The NH &amp;amp; MRC grant allowed the recruitment of staff to assist in the conduct of the trial but the cost of treating patients with SIR-Spheres was met from RPH and the cost of further treatment, tests and care of patients was borne by the public health system through Medicare, the private health insurance industry, RPH and QE II.</sentence>
 <sentence id="s2505">Annual reports of the clinical trials were submitted to the Ethics Committees of the participating hospitals.</sentence>
 <sentence id="s2506">Dr Gray and his group continued to conduct SIR-Spheres experiments in the 1990s.</sentence>
 <sentence id="s2507">A number of papers were published relating to the use of SIR-Spheres in humans.</sentence>
@@ -3815,7 +3815,7 @@ He recalled no further contact with TTACRD.</sentence>
 <sentence id="s2618">
  Kelleher and Codde join research group --- 1987/1988 
  The research group was expanded by the recruitment of Dr Deborah Kelleher from the United Kingdom in early 1987.</sentence>
-<sentence id="s2619">She was initially funded by a UWA fellowship and, from January 1989, and NH &amp; MRC grant.</sentence>
+<sentence id="s2619">She was initially funded by a UWA fellowship and, from January 1989, and NH &amp;amp; MRC grant.</sentence>
 <sentence id="s2620">She worked with Dr Burton on a range of matters including the use of microwave hyperthermia, the use of vasoactive drugs to enhance microsphere targeting and the drug microsphere project.</sentence>
 <sentence id="s2621">Dr Burton described her as having good animal physiology skills and contributing significantly to the animal research program aligned with both the radioactive microspheres and some of the hyperthermia work that was underway.</sentence>
 <sentence id="s2622">At the end of her time she returned to Europe.</sentence>
@@ -3956,7 +3956,7 @@ There was a handwritten note on the draft "not final document".</sentence>
 <sentence id="s2737">A number of further exchanges occurred between Dr Gray and CSIRO in October 1988.</sentence>
 <sentence id="s2738">In a fax dated 27 October 1988 Dr Gray told Dr Barry Inglis at CSIRO that "the bottom line of the CSIRO is so unattractive to us that we would not want to be bound into any contract with which we were not reasonably happy".</sentence>
 <sentence id="s2739">He said he would continue to try and find private funds for the project.</sentence>
-<sentence id="s2740">Dr Inglis faxed back on 28 October 1988 that, in light of Dr Gray's comments, CSIRO would not proceed with an NH &amp; MRC application which they had discussed.</sentence>
+<sentence id="s2740">Dr Inglis faxed back on 28 October 1988 that, in light of Dr Gray's comments, CSIRO would not proceed with an NH &amp;amp; MRC application which they had discussed.</sentence>
 <sentence id="s2741">Gray lodges Thermo-Sphere Provisional Specification PJO371 --- 12 September 1988 
  On 12 September 1988 Dr Gray lodged with the Australian Patent Office, in his own name as applicant, a provisional specification for an invention entitled "Targeted Hysteresis Hyperthermia as a Method for Treating Cancer".</sentence>
 <sentence id="s2742">He attached two appendices which were lodged with the specification.</sentence>
@@ -4131,7 +4131,7 @@ It was put to him that UWA had abandoned the Patents Committee as a mechanism fo
 <sentence id="s2867">She commenced her appointment on 1 September 1989.</sentence>
 <sentence id="s2868">Between June and August 1991 she took unpaid maternity leave from which she returned to work in September 1991.</sentence>
 <sentence id="s2869">In February 1992 she was offered further employment by UWA from 1 January 1991 to 31 December 1992.</sentence>
-<sentence id="s2870">The offer, which was signed by Professor Lourens, was for the position of Research Officer (NH &amp; MRC) at the Department of Surgery at RPH.</sentence>
+<sentence id="s2870">The offer, which was signed by Professor Lourens, was for the position of Research Officer (NH &amp;amp; MRC) at the Department of Surgery at RPH.</sentence>
 <sentence id="s2871">It was retrospective.</sentence>
 <sentence id="s2872">It included a reference to Dr Chen having made arrangements to pay arrears to the Superannuation Scheme for Australian Universities (SSAU), backdated to 1 January 1991.</sentence>
 <sentence id="s2873">She accepted the offer on 19 February 1992.</sentence>
@@ -4189,12 +4189,12 @@ It was put to him that UWA had abandoned the Patents Committee as a mechanism fo
 <sentence id="s2924">From 8 January 1991 to 7 January 1992, Dr Jones' appointment as a Raine Research Fellow was superseded by his appointment as a Research Fellow of the University.</sentence>
 <sentence id="s2925">Funding for that appointment in 1991 came from the University rather than from the Raine bequest.</sentence>
 <sentence id="s2926">In any event, he continued as a member of the academic staff of the University.</sentence>
-<sentence id="s2927">From 6 January 1992 to 31 December 1992 his status changed again to Research Officer (NH &amp; MRC) reflecting another change in the source of his funding.</sentence>
+<sentence id="s2927">From 6 January 1992 to 31 December 1992 his status changed again to Research Officer (NH &amp;amp; MRC) reflecting another change in the source of his funding.</sentence>
 <sentence id="s2928">He continued in the Department of Surgery at RPH as a member of the academic staff at the University.</sentence>
 <sentence id="s2929">His appointment was renewed successively through to 19 August 1994.</sentence>
-<sentence id="s2930">The last reappointment came in the form of a letter dated 18 July 1996 from Professor Robson, the Deputy Vice-Chancellor, confirming his appointment as "Research Officer (NH &amp; MRC) from 1 July 1994 to 19 August 1994".</sentence>
+<sentence id="s2930">The last reappointment came in the form of a letter dated 18 July 1996 from Professor Robson, the Deputy Vice-Chancellor, confirming his appointment as "Research Officer (NH &amp;amp; MRC) from 1 July 1994 to 19 August 1994".</sentence>
 <sentence id="s2931">He accepted the offer.</sentence>
-<sentence id="s2932">In August 1994, shortly prior to the expiry of his NH &amp; MRC grant, Dr Jones applied for the position of Elizabeth Stalker McEwan Fellow in hyperthermia research at RPH.</sentence>
+<sentence id="s2932">In August 1994, shortly prior to the expiry of his NH &amp;amp; MRC grant, Dr Jones applied for the position of Elizabeth Stalker McEwan Fellow in hyperthermia research at RPH.</sentence>
 <sentence id="s2933">He did not succeed in that application which was made to Mr Doug King, Manager of the Medical Research Foundation at RPH.</sentence>
 <sentence id="s2934">During the seventeen month period from 19 August 1994 to 29 January 1996 he continued his research at RPH in particular in hyperthermia.</sentence>
 <sentence id="s2935">He had no appointment with UWA during that time.</sentence>
@@ -4336,11 +4336,11 @@ A grant of $8,994 was approved on 8 May 1991.</sentence>
 <sentence id="s3037">This application was connected with the DOX-Spheres project.</sentence>
 <sentence id="s3038">The aim of the project was to characterise and control the effects of magnetically induced changes to polymer carriers impregnated with magnetic particles on the release profiles of active agents.</sentence>
 <sentence id="s3039">It was sought to establish how these effects were influenced by the properties of active agents in polymers and the forms of entrapment of the active agent in polymer systems.</sentence>
-<sentence id="s3040">On 25 February 1992 a funding application was made to the NH &amp; MRC signed by Drs Jones and Gray and Professor Street.</sentence>
+<sentence id="s3040">On 25 February 1992 a funding application was made to the NH &amp;amp; MRC signed by Drs Jones and Gray and Professor Street.</sentence>
 <sentence id="s3041">Dr Jones put the application together.</sentence>
 <sentence id="s3042">He drafted information about magnetism and hyperthermia used in the application in consultation with Professor Street.</sentence>
 <sentence id="s3043">Other information in the application was obtained from Dr Gray.</sentence>
-<sentence id="s3044">On 30 November 1992 the NR &amp; MRC wrote advising that the application had not been successful.</sentence>
+<sentence id="s3044">On 30 November 1992 the NR &amp;amp; MRC wrote advising that the application had not been successful.</sentence>
 <sentence id="s3045">The title of the project was "Induced hyperthermia of tumours by ferromagnetic hysteresis heating".</sentence>
 <sentence id="s3046">In answer to a question on the application form, "Does this project include techniques and processed which could be developed commercially?</sentence>
 <sentence id="s3047">", he answered in the affirmative.</sentence>
@@ -4397,7 +4397,7 @@ A grant of $8,994 was approved on 8 May 1991.</sentence>
 <sentence id="s3098">The proposed research plan involved testing the system in vivo .</sentence>
 <sentence id="s3099">Experiments would evaluate optimum microsphere parameters and would include a short therapeutic study.</sentence>
 <sentence id="s3100">The funds requested were to cover the purchase of a 10kHz electromagnet and associated equipment and experimental animals.</sentence>
-<sentence id="s3101">A further unsuccessful application to the NH &amp; MRC was made on 5 March 1993, signed by Dr Jones, Dr Gray and Professor Street.</sentence>
+<sentence id="s3101">A further unsuccessful application to the NH &amp;amp; MRC was made on 5 March 1993, signed by Dr Jones, Dr Gray and Professor Street.</sentence>
 <sentence id="s3102">In the research plan section of the application under the heading "Selection and Optimisation of Ferromagnetic Materials" the following statement appeared: 
  
  Recent experiments have isolated a particular class of ferromagnetic materials that have the desired characteristics of low to medium coercivity (10-100kA/m) and relatively high saturation magnetisation.</sentence>
@@ -4411,7 +4411,7 @@ In his affidavit Dr Jones said the cobalt modified iron oxides comprised the key
 <sentence id="s3106">That specification referred to a particular member of that class, designated "S11".</sentence>
 <sentence id="s3107">That was a manufacturer's designation given to it by Bayer.</sentence>
 <sentence id="s3108">The grant application did not specifically refer to it.</sentence>
-<sentence id="s3109">Another unsuccessful application was made to the NH &amp; MRC by Dr Jones on 23 April 1993 in connection with the hyperthermia project.</sentence>
+<sentence id="s3109">Another unsuccessful application was made to the NH &amp;amp; MRC by Dr Jones on 23 April 1993 in connection with the hyperthermia project.</sentence>
 <sentence id="s3110">He was also involved in further applications for funding in connection with the DOX-Spheres project on 20 May 1993 (to CFWA) and the UWA Faculty of Medicine on 10 September 1993.</sentence>
 <sentence id="s3111">In September 1993 Dr Jones prepared a progress report for the Foundation and the Ethics Centre on the Microwave Hyperthermia Project for which funding of $5,284 had been provided.</sentence>
 <sentence id="s3112">Progress had been delayed by delays in the delivery of the electromagnet power supply.</sentence>
@@ -4963,7 +4963,7 @@ He said he had difficulty in supporting UWA's involvement with the project as it
 <sentence id="s3548">It is not necessary for present purposes to explore all the details of this conflict nor, for the most part, to make findings about it other than that it existed.</sentence>
 <sentence id="s3549">It spread out over a number of years.</sentence>
 <sentence id="s3550">It involved repeated complaints to Professor Gale including a letter of complaint to her from the Chairman of the Board of Directors of LCI, Mr Irvine, on 1 April 1992.</sentence>
-<sentence id="s3551">Solicitors acting for Dr Gray, Grant Milner &amp; Co, also became involved and corresponded with the Chancellor of UWA, Justice Kennedy, in 1993 and 1994 concerning the matter.</sentence>
+<sentence id="s3551">Solicitors acting for Dr Gray, Grant Milner &amp;amp; Co, also became involved and corresponded with the Chancellor of UWA, Justice Kennedy, in 1993 and 1994 concerning the matter.</sentence>
 <sentence id="s3552">The conflict about the establishment of the LCI had resonances in the initial opposition from within the Faculty of Medicine to the affiliation of the LCI with UWA.</sentence>
 <sentence id="s3553">The prolonged history of the affiliation process is dealt with later in these reasons.</sentence>
 <sentence id="s3554">Some aspects of the conflict incidental to that history are dealt with later in these reasons.</sentence>
@@ -5042,7 +5042,7 @@ He said he had difficulty in supporting UWA's involvement with the project as it
 <sentence id="s3621">According to Dr Gray, this meant that UWA reneged on Dr Chen's two year contract.</sentence>
 <sentence id="s3622">He said that he reminded the UWA administration of the obligations under the contract but was constantly referred back to Professor German who advised him that he needed to find the funds himself if he wanted to continue her employment.</sentence>
 <sentence id="s3623">In the end Dr Burton was forced to use funds that he had been granted for another project.</sentence>
-<sentence id="s3624">He agreed to employ her through one of his successful NH &amp; MRC grants which had been intended to employ another research scientist.</sentence>
+<sentence id="s3624">He agreed to employ her through one of his successful NH &amp;amp; MRC grants which had been intended to employ another research scientist.</sentence>
 <sentence id="s3625">It is instructive to compare with contemporary documents the breadth and tone of Dr Gray's complaint against Professor German.</sentence>
 <sentence id="s3626">That complaint was linked to his allegation that Professor German had foreshadowed removal of resources from him "during his infamous meeting with the Board of the Lions Cancer Institute many years earlier".</sentence>
 <sentence id="s3627">That meeting was in 1991.</sentence>
@@ -5100,8 +5100,8 @@ He stated his belief that the contract which was entered into to employ Dr Chen 
 <sentence id="s3663">These matters had been set out in a letter of 27 October 1988 which was sent to Dr Gray by Dr Keith Smith of Personnel Services.</sentence>
 <sentence id="s3664">Professor German told Dr Gray that research funds would have to be used to meet the balance of Dr Chen's salary.</sentence>
 <sentence id="s3665">He had sought advice from Mr Peter Johnson, the Assistant Registrar (Research) about the propriety of using them for that purpose.</sentence>
-<sentence id="s3666">Professor German also wrote to Professor House about the matter proposing the use of NH &amp; MRC research funds awarded to Dr Burton in which Dr Chen had been named as a co-investigator.</sentence>
-<sentence id="s3667">Professor House then contacted Dr Burton who obtained NH &amp; MRC agreement to use the money to pay Dr Chen's salary.</sentence>
+<sentence id="s3666">Professor German also wrote to Professor House about the matter proposing the use of NH &amp;amp; MRC research funds awarded to Dr Burton in which Dr Chen had been named as a co-investigator.</sentence>
+<sentence id="s3667">Professor House then contacted Dr Burton who obtained NH &amp;amp; MRC agreement to use the money to pay Dr Chen's salary.</sentence>
 <sentence id="s3668">Indeed, Dr Chen had been nominated as the recipient of the salary alluded to in the grant.</sentence>
 <sentence id="s3669">In the event, Dr Gray authorised the payment of her salary from the grant.</sentence>
 <sentence id="s3670">This was confirmed by Dr Burton.</sentence>
@@ -5491,7 +5491,7 @@ It listed postgraduate students who included Mr Simon Harrison, a research stude
 <sentence id="s3973">The application also reported that a group of people who were not Lions had formed a Cancer Research Institute with the aim of raising funds to support research activities.</sentence>
 <sentence id="s3974">The application stated that they had had considerable success and were supporting projects of the LCI.</sentence>
 <sentence id="s3975">Grants obtained by research staff of the LCI were set out in an appendix to the application.</sentence>
-<sentence id="s3976">They were said to total $1,062,823, listing as their sources the NH &amp; MRC, the Foundation, the Channel 7 Telethon Trust, other research grants and fellowships and scholarships.</sentence>
+<sentence id="s3976">They were said to total $1,062,823, listing as their sources the NH &amp;amp; MRC, the Foundation, the Channel 7 Telethon Trust, other research grants and fellowships and scholarships.</sentence>
 <sentence id="s3977">Professor German responded on 6 April 1994 advising that he would place the application before the Faculty Board after it had been vetted by the Deputy Vice-Chancellor, Professor Robson.</sentence>
 <sentence id="s3978">He could see no further reason for it being delayed.</sentence>
 <sentence id="s3979">On the same day Professor German sent a copy of the application to Professor Robson.</sentence>
@@ -5507,7 +5507,7 @@ It listed postgraduate students who included Mr Simon Harrison, a research stude
 Professor Robson passed the proposal to the UWA Registrar for checking for compliance with the affiliation guidelines.</sentence>
 <sentence id="s3984">It was examined in the Registrar's office and found to supply information required by the guidelines.</sentence>
 <sentence id="s3985">As the matter was a potentially sensitive issue the Registrar's office recommended that the proposal go to the Faculty Board before being considered by the Academic Board/Council.</sentence>
-<sentence id="s3986">At a meeting of the LCI board on 16 April 1994 it was noted that Professor German had written to LCI nominating Dr P Le Sou&euml;f to represent the Faculty of Medicine on the Medical and Scientific Advisory Committee of the LCI.</sentence>
+<sentence id="s3986">At a meeting of the LCI board on 16 April 1994 it was noted that Professor German had written to LCI nominating Dr P Le Sou&amp;euml;f to represent the Faculty of Medicine on the Medical and Scientific Advisory Committee of the LCI.</sentence>
 <sentence id="s3987">LCI/UWA affiliation approved --- July 1994
  On 21 June 1994 the Faculty of Medicine and Dentistry resolved to recommend to the Academic Council that the application for affiliation by the LCI be approved.</sentence>
 <sentence id="s3988">On 26 July 1994 the Senate of UWA resolved to approve the affiliation of UWA with LCI "subject to the drawing up and signing of an appropriate agreement between the Institute and the University".</sentence>
@@ -5594,8 +5594,8 @@ Dr Gray claimed that he was denied access to secretarial assistance within UWA a
 <sentence id="s4051">They also suggested he approach Mr Peter Jones, a former State Government Minister.</sentence>
 <sentence id="s4052">Dr Gray said it was late 1994, but the sequence of the documentary evidence suggests if is more likely to have been May or June 1994.</sentence>
 <sentence id="s4053">Dr Gray told Mr Karlson that he was looking for capital to commercialise three products which he had developed for the treatment of cancer.</sentence>
-<sentence id="s4054">Mr Karlson was a chartered accountant who had been managing partner of the Perth office of Ernst &amp; Whinney (the predecessor to Ernst &amp; Young) from about 1980 to 1989.</sentence>
-<sentence id="s4055">He had retired from Ernst &amp; Young on 30 June 1993 but remained active as a consultant because of ongoing insolvency engagements.</sentence>
+<sentence id="s4054">Mr Karlson was a chartered accountant who had been managing partner of the Perth office of Ernst &amp;amp; Whinney (the predecessor to Ernst &amp;amp; Young) from about 1980 to 1989.</sentence>
+<sentence id="s4055">He had retired from Ernst &amp;amp; Young on 30 June 1993 but remained active as a consultant because of ongoing insolvency engagements.</sentence>
 <sentence id="s4056">In 1993 up to the time of his affidavit in 2006, he had held a number of part time appointments including that of consultant for Tolhurst Corporate Limited, a broking/underwriting business based in Perth.</sentence>
 <sentence id="s4057">Dr Gray told Mr Karlson that JB Were had also recommended that he seek assistance from Mr Peter Jones, a former minister in the Western Australian Government whom he had met from time to time in the course of his business activities.</sentence>
 <sentence id="s4058">Mr Karlson said that Dr Gray told him he was a Professor in the Department of Surgery at UWA and involved in research for the development of the products to be commercialised.</sentence>
@@ -5752,7 +5752,7 @@ Dr Gray outlined the likely relationship with CRI, UWA and research workers.</se
 <sentence id="s4175">These involved the raising of seed capital and registration, determining the company type, obtaining an intellectual property valuation, patent protection and industry assistance, the conduct of medical trials and submission of the relevant products to the TGA and "FDA", presumably a reference to the Federal Drugs Administration of the United States.</sentence>
 <sentence id="s4176">The first priority was to raise seed capital and to produce documentation for that purpose and decide the company's structure.</sentence>
 <sentence id="s4177">They agreed that purchase of a shelf company would obviate many of the problems associated with a public float in the first instance.</sentence>
-<sentence id="s4178">Mr Karlson was to meet with Ernst &amp; Young to decide the appropriateness of purchasing a shelf company and determine the documentation required for raising seed capital.</sentence>
+<sentence id="s4178">Mr Karlson was to meet with Ernst &amp;amp; Young to decide the appropriateness of purchasing a shelf company and determine the documentation required for raising seed capital.</sentence>
 <sentence id="s4179">The amount of seed capital contemplated at that time was $1 million.</sentence>
 <sentence id="s4180">Various other contacts were to be made, which it is not necessary to outline here.</sentence>
 <sentence id="s4181">The third minuted meeting was held on 23 November 1994.</sentence>
@@ -5882,7 +5882,7 @@ Dr Chen said in cross-examination that she wanted a record of their conversation
 <sentence id="s4263">The names of beneficiaries and applied percentages would be indicated.</sentence>
 <sentence id="s4264">
 She asked for a quick response from Mrs Mirmikidis.</sentence>
-<sentence id="s4265">On 16 November 1994, Dr Chen went to see a patent attorney at Wray &amp; Associates and discussed the proposed letter.</sentence>
+<sentence id="s4265">On 16 November 1994, Dr Chen went to see a patent attorney at Wray &amp;amp; Associates and discussed the proposed letter.</sentence>
 <sentence id="s4266">Handwritten notes at the bottom of her copy of the letter record that the patent attorney told her that the letter could be signed and would not affect any of her rights.</sentence>
 <sentence id="s4267">An assignment of ownership had to be done by filling in a formal document, signed by both parties concerned.</sentence>
 <sentence id="s4268">The assignment would not need to be filed at the same time as the international application.</sentence>
@@ -5903,9 +5903,9 @@ The international patent application No PCT/AU94/00708 was filed on 17 November 
 <sentence id="s4277">Davies Collison Cave sent another letter to CRI on 9 December 1994 in relation to a formal PCT request form which had been forwarded under cover of their earlier letter of 22 November 1994 for execution on behalf of CRI and by each of the inventors.</sentence>
 <sentence id="s4278">A deadline of 1 February 1995 had been set for the lodgment of that document.</sentence>
 <sentence id="s4279">They asked Dr Gray to arrange for appropriate execution and return as soon as possible.</sentence>
-<sentence id="s4280">Dr Chen received written advice from John King of Wray &amp; Associates on or about 21 December 1994.</sentence>
+<sentence id="s4280">Dr Chen received written advice from John King of Wray &amp;amp; Associates on or about 21 December 1994.</sentence>
 <sentence id="s4281">Mr King set out his understanding that the bulk of the experimental work carried out in respect of the controlled release preparation invention had been conducted while Dr Chen was an employee of the University, either directly or indirectly through RPH.</sentence>
-<sentence id="s4282">He stated his understanding that throughout that time she was paid by the University through funds obtained under an NH &amp; MRC grant.</sentence>
+<sentence id="s4282">He stated his understanding that throughout that time she was paid by the University through funds obtained under an NH &amp;amp; MRC grant.</sentence>
 <sentence id="s4283">He referred to the fact that funds provided for the project by CRI were used in respect of toxicity studies and clinical trials but that the money was forthcoming after conception of the invention and the filing of the provisional specification.</sentence>
 <sentence id="s4284">He wrote: 
  
@@ -5915,7 +5915,7 @@ The international patent application No PCT/AU94/00708 was filed on 17 November 
 <sentence id="s4287">As such we suggest that you undertake discussions with the university to confirm the ownership of the present invention and any rights that you may have as an inventor.</sentence>
 <sentence id="s4288">
  
- Dr Chen wrote to Dr Gray on 30 December 1994 attaching the letter from Wray &amp; Associates.</sentence>
+ Dr Chen wrote to Dr Gray on 30 December 1994 attaching the letter from Wray &amp;amp; Associates.</sentence>
 <sentence id="s4289">She observed that the assignment was the "formal document assigning the ownership of intellectual property rights as well as the matter related to the share of the profit/value of the intellectual property".</sentence>
 <sentence id="s4290">She requested once again a written agreement from CRI before signing the assignment to guarantee that she would always be one of the beneficiaries and would receive the same percentage as applied to other staff currently working at CRI.</sentence>
 <sentence id="s4291">She characterised her request as "modest" and said she was the major contributor to the invention.</sentence>
@@ -5947,7 +5947,7 @@ The international patent application No PCT/AU94/00708 was filed on 17 November 
 <sentence id="s4314">Dr Neal wrote to Dr Williams on LCI letterhead on 30 November 1992 congratulating her upon her selection.</sentence>
 <sentence id="s4315">He noted that it was a new venture for LCI to assume the role of employer and so they were a little slow at working out the details.</sentence>
 <sentence id="s4316">The appointment was for three years with a commencing date of 7 January 1993.</sentence>
-<sentence id="s4317">The commencing salary was $45,613 in accordance with NH &amp; MRC salary levels.</sentence>
+<sentence id="s4317">The commencing salary was $45,613 in accordance with NH &amp;amp; MRC salary levels.</sentence>
 <sentence id="s4318">LCI had an agreement with RPH for handling the administration of salary conditions.</sentence>
 <sentence id="s4319">Under the heading "Intellectual Property" Dr Neal wrote: 
  
@@ -6030,16 +6030,16 @@ or words to that effect.</sentence>
 <sentence id="s4378">The shareholders were the three initial directors, together with Fairburn and Pine Ridge Holdings Pty Ltd. Mr Boyce was a partner in Mullers, Chartered Accountants.</sentence>
 <sentence id="s4379">Dr Gray was Managing Director of the new company.</sentence>
 <sentence id="s4380">Dr Gray said that Mr Karlson had asked Mr Boyce to become involved in the company.</sentence>
-<sentence id="s4381">They had been colleagues at Ernst &amp; Young.</sentence>
+<sentence id="s4381">They had been colleagues at Ernst &amp;amp; Young.</sentence>
 <sentence id="s4382">Dr Gray agreed in cross-examination by counsel for Sirtex that he never suggested to Mr Boyce that there was any legal constraint on Paragon Medical developing the new technologies.</sentence>
 <sentence id="s4383">Not long after the formation of the company, Dr Gray had some discussions with Mr Rod Unsworth of Delta West.</sentence>
 <sentence id="s4384">Delta West wrote to Paragon Medical on 20 May and Dr Gray replied on 5 June.</sentence>
 <sentence id="s4385">In his reply he said that Paragon Medical had acquired from CRI an Option to Purchase Intellectual Property relating to "controlled release matrix formulation for cytotoxic drugs" (described in Patent Application PCT/AU94/00708).</sentence>
 <sentence id="s4386">He enclosed with his letter a copy of a report to the Ethics Committee of RPH on the treatment of five patients with DOX-Spheres.</sentence>
 <sentence id="s4387">He indicated that he would shortly be producing a protocol for a larger phase 2 trial in Asia.</sentence>
-<sentence id="s4388">On 2 May 1995 Ernst &amp; Young provided a valuation of the SIR-Spheres and DOX-Spheres technology.</sentence>
+<sentence id="s4388">On 2 May 1995 Ernst &amp;amp; Young provided a valuation of the SIR-Spheres and DOX-Spheres technology.</sentence>
 <sentence id="s4389">The valuation was not received as evidence of the value of the technologies but rather as evidence of the fact that it had been made and of the figures of which Dr Gray was aware.</sentence>
-<sentence id="s4390">According to Ernst &amp; Young the valuation range for the SIR-Spheres was between $13,526,000 and $9,834,000.</sentence>
+<sentence id="s4390">According to Ernst &amp;amp; Young the valuation range for the SIR-Spheres was between $13,526,000 and $9,834,000.</sentence>
 <sentence id="s4391">That for the DOX-Spheres was between $4,883,000 and $3,726,000.</sentence>
 <sentence id="s4392">Reference was made to the targeted hyperthermia technology which was valued at nil because of the high discount rates applied, the costs to commercialisation and a number of years to commercialisation.</sentence>
 <sentence id="s4393">It was not otherwise referred to in the report.</sentence>
@@ -6164,7 +6164,7 @@ In cross-examination Dr Gray accepted that as at 27 March 1995 LCI had no intell
  Paragon Medical approaches Tolhurst - June 1995 
  Mr Karlson said that Paragon Medical wanted to raise $3 million by way of capital to allow for the completion of clinical trials and development of the products.</sentence>
 <sentence id="s4470">This was to be spent over a period of two years in order to prepare the company for a public float.</sentence>
-<sentence id="s4471">Part of the preparation for that capital raising was the valuation by Ernst &amp; Young which was provided on 2 May 1995.</sentence>
+<sentence id="s4471">Part of the preparation for that capital raising was the valuation by Ernst &amp;amp; Young which was provided on 2 May 1995.</sentence>
 <sentence id="s4472">Dr Gray was actively involved in its preparation.</sentence>
 <sentence id="s4473">Mr Karlson did not recall having any active involvement.</sentence>
 <sentence id="s4474">At this time Mr Karlson was employed as a consultant to Tolhurst.</sentence>
@@ -6179,9 +6179,9 @@ In cross-examination Dr Gray accepted that as at 27 March 1995 LCI had no intell
 <sentence id="s4483">In his memorandum Dr Gray also referred to meetings he had had with the Strategic Industry Research Foundation in Melbourne and Rothschilds Australia Ltd. Paragon Medical board meeting --- August/September 1995 
  The first meeting of the board of Paragon Medical after 17 May 1995 was on 10 August 1995.</sentence>
 <sentence id="s4484">One of the items of business was the raising of venture capital.</sentence>
-<sentence id="s4485">Dr Gray and Mr Karlson spoke of a meeting earlier that day with Bain &amp; Co who proposed a syndication package for intellectual property to be purchased by Paragon as it probably qualified for pre-1985 capital gains taxation exemption.</sentence>
+<sentence id="s4485">Dr Gray and Mr Karlson spoke of a meeting earlier that day with Bain &amp;amp; Co who proposed a syndication package for intellectual property to be purchased by Paragon as it probably qualified for pre-1985 capital gains taxation exemption.</sentence>
 <sentence id="s4486">Some discussion ensued about the mechanism for transferring intellectual property into Paragon Medical.</sentence>
-<sentence id="s4487">This was subject to further clarification from Bain &amp; Co., Tolhurst and Deloittes.</sentence>
+<sentence id="s4487">This was subject to further clarification from Bain &amp;amp; Co., Tolhurst and Deloittes.</sentence>
 <sentence id="s4488">It appears that at that stage a draft Information Memorandum had been prepared by Tolhurst.</sentence>
 <sentence id="s4489">It was discussed and broadly accepted in principle.</sentence>
 <sentence id="s4490">Mr Karlson was cross-examined about the last entry in the minutes.</sentence>
@@ -6597,7 +6597,7 @@ Mr Orr then wrote to Dr Gray on 20 October 1995 indicating that RPH had no objec
 <sentence id="s4703">Dr Gray tabled a submission to the Department of Commerce and Trade for a $50,000 grant under the Western Australian Innovation Support Scheme for Research and Development.</sentence>
 <sentence id="s4704">The application related only to the Hyperthermia Project.</sentence>
 <sentence id="s4705">At a meeting of the board of directors of Paragon Medical on 1 February 1996 Mr Karlson reported that Tolhurst had not been successful in raising venture capital and that other options were being canvassed.</sentence>
-<sentence id="s4706">Dr Gray said he would get in touch with JB Were &amp; Co to discuss its potential involvement in venture capital raising and in a public float.</sentence>
+<sentence id="s4706">Dr Gray said he would get in touch with JB Were &amp;amp; Co to discuss its potential involvement in venture capital raising and in a public float.</sentence>
 <sentence id="s4707">The next meeting took place on 14 February 1996.</sentence>
 <sentence id="s4708">At that meeting Dr Gray "outlined the time and costs for the three patents currently covering the intellectual property of Paragon".</sentence>
 <sentence id="s4709">The first substantial next cost would be in June when an amount of $50,000-$60,000 would be required to file the patent for the SIR Spheres.</sentence>
@@ -6897,7 +6897,7 @@ Under the heading "Estimated Costs" he estimated that the annual cost incurred b
 <sentence id="s4893">Dr Harrison hypothesised that fields could be generated suitable for use in a clinical human hyperthermia treatment without using core material.</sentence>
 <sentence id="s4894">He said that he told Dr Jones at some point prior to May 1996 that a human size hyperthermia apparatus could be built with only coils and no core material.</sentence>
 <sentence id="s4895">He said that Dr Jones encouraged him to undertake some computer modelling of his hypothesis.</sentence>
-<sentence id="s4896">He undertook computer modelling of the distribution of magnetic fields generated by a coil configuration comprising two interlinked coil magnets orientated at right angles to each other and excited by alternating currents with a phase shift of 90&#176; between them.</sentence>
+<sentence id="s4896">He undertook computer modelling of the distribution of magnetic fields generated by a coil configuration comprising two interlinked coil magnets orientated at right angles to each other and excited by alternating currents with a phase shift of 90&amp;#176; between them.</sentence>
 <sentence id="s4897">This had the effect of generating a rotating magnetic field in the centre of the coils within the sample or treatment space.</sentence>
 <sentence id="s4898">Dr Harrison presented these modelling results at a CACS seminar.</sentence>
 <sentence id="s4899">Dr Harrison also said in his evidence-in-chief that on 6 August 1996 Dr Jones emailed him seeking assistance in sourcing core material for the "BIG ONE" which he understood to refer to a human scale apparatus for hyperthermia treatment.</sentence>
@@ -6909,7 +6909,7 @@ Under the heading "Estimated Costs" he estimated that the annual cost incurred b
 <sentence id="s4905">They featured exclusively cored magnets.</sentence>
 <sentence id="s4906">Dr Harrison did not maintain in cross-examination that he had come up with the idea of using air-cored coils as a new concept.</sentence>
 <sentence id="s4907">He was merely representing in his evidence-in-chief the conversation he had had with Dr Jones in May 1996.</sentence>
-<sentence id="s4908">The use of air-cored coils had been referred to as an option some 19 years earlier when Dr Gray had sent to Dr Nichols, for transmission to Davies &amp; Collison, answers to questions they had raised about the Thermo-Spheres technology.</sentence>
+<sentence id="s4908">The use of air-cored coils had been referred to as an option some 19 years earlier when Dr Gray had sent to Dr Nichols, for transmission to Davies &amp;amp; Collison, answers to questions they had raised about the Thermo-Spheres technology.</sentence>
 <sentence id="s4909">Throughout 1996 Dr Harrison worked on his design for a device called a HiFroM which was an acronym for High Frequency Rotational Magnetometer to measure rotational hysteresis in soft materials at high frequencies.</sentence>
 <sentence id="s4910">The construction of the device was completed in about mid 1996.</sentence>
 <sentence id="s4911">When it had been constructed he and Dr Jones moved the HiFroM to Dr Jones' laboratory at CACS.</sentence>
@@ -7057,7 +7057,7 @@ He informed Dr Stokes that all of the facilities at the Department of Surgery th
 <sentence id="s5007">A memorandum to the directors attached correspondence from the Department of Trade and Commerce in connection with the WAISS grant.</sentence>
 <sentence id="s5008">It also referred to correspondence to Mr Gorn on 2 May about commission arrangements if he were able to introduce new equity investors to the company.</sentence>
 <sentence id="s5009">A similar document relating to the meeting of 29 May 1996 attached a letter from the Department of Trade and Commerce which enclosed the initial payment of $20,000 from the WAISS grant.</sentence>
-<sentence id="s5010">A letter dated 6 May 1996 from Bain &amp; Co also attached advice from Ausindustry indicating that it would be many months before the syndication application lodged in November 1995 could be considered.</sentence>
+<sentence id="s5010">A letter dated 6 May 1996 from Bain &amp;amp; Co also attached advice from Ausindustry indicating that it would be many months before the syndication application lodged in November 1995 could be considered.</sentence>
 <sentence id="s5011">Gorn's fund raising attempt --- 1996 
  Mr Gorn said that in 1996 he observed the amount of research work being undertaken at the laboratory and the relatively small amount of funds being raised by CRI.</sentence>
 <sentence id="s5012">The sums being raised did not appear to him to be sufficient to support the research.</sentence>
@@ -7716,7 +7716,7 @@ He could not recall saying that he was an inventor of the SIRT-1 technology.</se
 <sentence id="s5485">His less than rigorous approach in this respect was consistent with his less than hard line attitude to the enforcement of what he and others thought were UWA's intellectual property rights.</sentence>
 <sentence id="s5486">I would not go so far as to conclude, as submitted by Sirtex, that Professor Barber's letter reflected an informed consent by UWA to Dr Gray or CRI or anyone else exploiting what it believed to be its intellectual property rights in relation to the three technologies.</sentence>
 <sentence id="s5487">Panaccio retains Freehills --- January 1997
- Dr Panaccio retained Kon Mellos, a senior associate in Freehill Hollingdale &amp; Page (Freehills) in Melbourne, to act on behalf of Nomura/JAFCO in relation to the investment transaction.</sentence>
+ Dr Panaccio retained Kon Mellos, a senior associate in Freehill Hollingdale &amp;amp; Page (Freehills) in Melbourne, to act on behalf of Nomura/JAFCO in relation to the investment transaction.</sentence>
 <sentence id="s5488">He also retained James Cherry a patent attorney at Freehills in Melbourne whom Mellos had recommended.</sentence>
 <sentence id="s5489">Dr Panaccio referred every draft of every document relating to the investment transaction to the legal department of Nomura/JAFCO's Singapore office.</sentence>
 <sentence id="s5490">The standard practice of Nomura/JAFCO was to obtain the broadest possible warranties and representations in any investment.</sentence>
@@ -7749,12 +7749,12 @@ There was to be no legal due diligence save for basic patent appraisal.</sentenc
 <sentence id="s5511">Indeed Mr Cherry had very little recollection of any conversations conducted at that time.</sentence>
 <sentence id="s5512">He did not investigate or review the ownership of the intellectual property.</sentence>
 <sentence id="s5513">I accept that the instructions were limited as indicated in the evidence of Dr Panaccio, Mr Mellos and Mr Cherry.</sentence>
-<sentence id="s5514">Mr Mellos said that Dr Gray was represented by a Perth-based firm Blakiston &amp; Crabb.</sentence>
+<sentence id="s5514">Mr Mellos said that Dr Gray was represented by a Perth-based firm Blakiston &amp;amp; Crabb.</sentence>
 <sentence id="s5515">They reviewed and negotiated documentation for the transaction on behalf of Dr Gray.</sentence>
 <sentence id="s5516">They drafted a deed by which Dr Gray assigned the intellectual property rights to Paragon Medical based upon a document prepared by Freehills.</sentence>
 <sentence id="s5517">The transaction ultimately involved renaming the existing Paragon Medical Ltd as Australian Surgical Products Ltd and the creation of the new company under the name Paragon Medical Ltd.</sentence>
 <sentence id="s5518">The new company took an assignment of intellectual property rights of Dr Gray and CRI.</sentence>
-<sentence id="s5519">It subsequently changed its name to Sirtex Medical Ltd. CRI, which was also advised by Blakiston &amp; Crabb, was to hold shares in Sirtex as consideration for the assignment of its intellectual property assets.</sentence>
+<sentence id="s5519">It subsequently changed its name to Sirtex Medical Ltd. CRI, which was also advised by Blakiston &amp;amp; Crabb, was to hold shares in Sirtex as consideration for the assignment of its intellectual property assets.</sentence>
 <sentence id="s5520">Paragon board meets --- 22 January 1997
  The Paragon Medical Board met on 22 January 1997.</sentence>
 <sentence id="s5521">Dr Gray, Mr Karlson and Mr Peter Jones were present.</sentence>
@@ -7772,7 +7772,7 @@ There was to be no legal due diligence save for basic patent appraisal.</sentenc
 <sentence id="s5533">Dr Jones' proposed salary was $72,000 per annum and shareholding incentives.</sentence>
 <sentence id="s5534">The minutes reported Freehills' recommendation that a new company be established and the name Paragon Medical Ltd be transferred to it.</sentence>
 <sentence id="s5535">The board agreed that costs would be shared equally between Nomura/JAFCO and Paragon Medical for Freehills to form the new company, to prepare shareholder and investment agreements and to effect transfer of intellectual property into the company for a fee of $26,000.</sentence>
-<sentence id="s5536">Additional legal requirements including a leasing contract, employment contracts and a review of the Freehills' documents would be undertaken by Blakiston &amp; Crabb.</sentence>
+<sentence id="s5536">Additional legal requirements including a leasing contract, employment contracts and a review of the Freehills' documents would be undertaken by Blakiston &amp;amp; Crabb.</sentence>
 <sentence id="s5537">The current liabilities of Paragon Medical would be paid out by the new company.</sentence>
 <sentence id="s5538">
  Gorn's discussion paper --- January 1997 
@@ -7783,11 +7783,11 @@ There was to be no legal due diligence save for basic patent appraisal.</sentenc
 <sentence id="s5542">Mr Gorn tabled his discussion paper and Drs Gray and Stephen Jones left the meeting.</sentence>
 <sentence id="s5543">The board then agreed that independent legal and financial advice would be necessary to protect CRI's interests.</sentence>
 <sentence id="s5544">Mr Gorn and another member of the board, Mr Vibert, were given authority to continue negotiations with Paragon Medical and Nomura/JAFCO along lines set out in the discussion paper.</sentence>
-<sentence id="s5545">Dr Gray informed Mr Gorn that he had retained his own solicitors, Blakiston &amp; Crabb, to advise him with respect to the negotiations with Nomura/JAFCO.</sentence>
+<sentence id="s5545">Dr Gray informed Mr Gorn that he had retained his own solicitors, Blakiston &amp;amp; Crabb, to advise him with respect to the negotiations with Nomura/JAFCO.</sentence>
 <sentence id="s5546">He suggested that they could also advise CRI.</sentence>
 <sentence id="s5547">Dr Panaccio sent a fax to Dr Gray on 24 January attaching costings from Freehills for setting up the new company and completing the investment process.</sentence>
 <sentence id="s5548">Paragon Medical and Nomura/JAFCO were each to bear half of the costs.</sentence>
-<sentence id="s5549">Dr Panaccio suggested that Dr Gray negotiate a fixed fee with Blakiston &amp; Crabb to review the Freehills' documents and that they draft management agreements for himself and Stephen Jones and a lease agreement with CRI.</sentence>
+<sentence id="s5549">Dr Panaccio suggested that Dr Gray negotiate a fixed fee with Blakiston &amp;amp; Crabb to review the Freehills' documents and that they draft management agreements for himself and Stephen Jones and a lease agreement with CRI.</sentence>
 <sentence id="s5550">Those costs would be the responsibility of Paragon Medical.</sentence>
 <sentence id="s5551">Dr Gray said he would do this.</sentence>
 <sentence id="s5552">Paragon Medical's SIR-Spheres price increase --- January 1997
@@ -7819,7 +7819,7 @@ There was to be no legal due diligence save for basic patent appraisal.</sentenc
 <sentence id="s5570">Dr Harrison recalled meeting Dr Panaccio at the laboratory.</sentence>
 <sentence id="s5571">However, as was pointed out to Dr Harrison in cross-examination, Dr Jones had made no reference to Dr Panaccio in his email.</sentence>
 <sentence id="s5572">I think it unlikely that he would have suggested that Dr Panaccio was involved in the drafting of a Thermo-Sphere patent application or that Dr Panaccio was involved.</sentence>
-<sentence id="s5573">On 20 February 1997 Dr Jones sent Gary Cox of Wray &amp; Associates what he described as "my version of the patent document for the Targeted Hyperthermia Device".</sentence>
+<sentence id="s5573">On 20 February 1997 Dr Jones sent Gary Cox of Wray &amp;amp; Associates what he described as "my version of the patent document for the Targeted Hyperthermia Device".</sentence>
 <sentence id="s5574">The document was entitled 'Targeted Hysteresis Hyperthermia as a Method for Treating Cancer'.</sentence>
 <sentence id="s5575">It identified the Inventors as Drs Gray and Jones.</sentence>
 <sentence id="s5576">The field of the invention was to be taken from the provisional specification.</sentence>
@@ -7924,7 +7924,7 @@ He set out the comparative table to which reference has been made earlier in the
 <sentence id="s5615">Temperatures were measured in the necrotic core of the tumour, the growing edge of the tumour and nearby normal liver tissue.</sentence>
 <sentence id="s5616">Temperatures were monitored after the living rabbit was placed in the magnetic field apparatus.</sentence>
 <sentence id="s5617">Under the heading "Embellishments", reference was made to materials for autothermo-regulation.</sentence>
-<sentence id="s5618">This process involves magnetic materials which act in the manner of a thermostat to automatically regulate tissue temperature to be in the range 45&#176;C to 60&#176;C. Four physical mechanisms identified in the paper were: 
+<sentence id="s5618">This process involves magnetic materials which act in the manner of a thermostat to automatically regulate tissue temperature to be in the range 45&amp;#176;C to 60&amp;#176;C. Four physical mechanisms identified in the paper were: 
 1. materials with a stoicometrically adjustable Curie temperature in the correct range; 
 2. materials with a compensation temperature in the correct range; 
 3. materials with a martensitic transition in the correct range;
@@ -8069,7 +8069,7 @@ The effect of this change was that from 3 March 1997 Dr Gray was paid by RPH alt
 <sentence id="s5707">While the preceding events document overreaction by Dr Gray, they do not support any inference of malice which can be attributed to UWA in any way that is relevant to the letter of demand sent in October 2004.</sentence>
 <sentence id="s5708">
  Jones/Cox re MHE figures in Thermo-Spheres-1 --- April 1997 
- On 8 April 1997 Mr Cox of Wray &amp; Associates sent Dr Jones a fax attaching a draft of a patent claim for what was to become the Thermo-Spheres-1 PCT application.</sentence>
+ On 8 April 1997 Mr Cox of Wray &amp;amp; Associates sent Dr Jones a fax attaching a draft of a patent claim for what was to become the Thermo-Spheres-1 PCT application.</sentence>
 <sentence id="s5709">The proposed claim read: 
  
  The present invention resides in a microsphere carrying ferromagnetic material where the ferromagnetic material is selected such that it has a magnetic heating efficiency (MHE) greater than 3.8 x 10 -8 [Steve insert Units if possible].</sentence>
@@ -8461,7 +8461,7 @@ Some conversation followed between Dr Gray and Mr Lennon and on 15 August 1996 D
 <sentence id="s5867">He did not think it proper that he assign his rights to all intellectual property generated during his studentship to any one party.</sentence>
 <sentence id="s5868">He expressed concern about the confidentiality clause and its implications for his right to publish his work and communicate with supervisors and others.</sentence>
 <sentence id="s5869">Dr Gray saw the question of intellectual property protection for CRI as "quite a major issue during the term of Mr Simon Harrison's PhD studentship".</sentence>
-<sentence id="s5870">After his exchanges with Mr Lennon and Dr Harrison he sought advice from Blakiston &amp; Crabb.</sentence>
+<sentence id="s5870">After his exchanges with Mr Lennon and Dr Harrison he sought advice from Blakiston &amp;amp; Crabb.</sentence>
 <sentence id="s5871">They prepared a draft Deed of Confidentiality and Ownership.</sentence>
 <sentence id="s5872">They communicated with Mr Lennon in so doing.</sentence>
 <sentence id="s5873">The draft was sent to him at the UWA Legal Services Office on 30 July 1997.</sentence>
@@ -8610,7 +8610,7 @@ The letter was drafted by Ms Key.</sentence>
 <sentence id="s5970">The current UWA position on student intellectual property was said to have placed too many obstacles in the way of students wishing to be involved in contract research undertaken within CRI.</sentence>
 <sentence id="s5971">Professor Landau wrote to Dr Gray on 2 October 1998 informing him that Linda Key had written, following the recommendation of Professor Barber, that he provide a standard form of intellectual property agreement as earlier suggested.</sentence>
 <sentence id="s5972">She was seeking a draft standard form of agreement for review and finalisation for approval.</sentence>
-<sentence id="s5973">Dr Gray wrote back to Professor Landau on 8 October 1998 with some asperity, referring to the earlier agreement which had been prepared by Blakiston &amp; Crabb and which had been "vetted on a number of occasions by the legal department of the University in order to make sure that it met the University's requirements".</sentence>
+<sentence id="s5973">Dr Gray wrote back to Professor Landau on 8 October 1998 with some asperity, referring to the earlier agreement which had been prepared by Blakiston &amp;amp; Crabb and which had been "vetted on a number of occasions by the legal department of the University in order to make sure that it met the University's requirements".</sentence>
 <sentence id="s5974">He claimed there had been "an obvious delaying tactic on the part of the University".</sentence>
 <sentence id="s5975">Although Linda Key had assured him and other members of the research staff on an open phone call that there were "no problems", he subsequently found out from the CACS Advisory Board meeting that Professor Barber was not going to agree.</sentence>
 <sentence id="s5976">He said: 
@@ -8622,7 +8622,7 @@ The letter was drafted by Ms Key.</sentence>
 
  Professor Landau sent a copy of Dr Gray's letter to Ms Key and to Professor Barber on 19 October 1998.</sentence>
 <sentence id="s5979">He did not recall Professor Barber challenging the correctness of Dr Gray's letter.</sentence>
-<sentence id="s5980">In a Schedule of events which she prepared, Linda Key challenged the correctness of Dr Gray's assertion that the revised draft deed from Blakiston &amp; Crabb had met her concerns.</sentence>
+<sentence id="s5980">In a Schedule of events which she prepared, Linda Key challenged the correctness of Dr Gray's assertion that the revised draft deed from Blakiston &amp;amp; Crabb had met her concerns.</sentence>
 <sentence id="s5981">She said in her Schedule, that it had not and she had received instructions from Professor Barber that he did not believe the document was desirable in any form.</sentence>
 <sentence id="s5982">She said in her Schedule of Events that she had told Dr Gray of that on 30 October 1997.</sentence>
 <sentence id="s5983">The issue of student intellectual property was again briefly discussed at a meeting of the CACS Advisory Board on 11 February 1999.</sentence>
@@ -8924,7 +8924,7 @@ Professor Schreuder was not called to give evidence.</sentence>
 <sentence id="s6152">2.</sentence>
 <sentence id="s6153">Deloittes as the company's accountant.</sentence>
 <sentence id="s6154">3.</sentence>
-<sentence id="s6155">Davies Collison Cave and Wray &amp; Associates to advise on patents.</sentence>
+<sentence id="s6155">Davies Collison Cave and Wray &amp;amp; Associates to advise on patents.</sentence>
 <sentence id="s6156">4.</sentence>
 <sentence id="s6157">KPM as underwriters.</sentence>
 <sentence id="s6158">Dr Panaccio was directly involved in engaging Freehills and KPM.</sentence>
@@ -8956,8 +8956,8 @@ Professor Schreuder was not called to give evidence.</sentence>
 <sentence id="s6183">Freehills was to act as role of secretary and coordinator.</sentence>
 <sentence id="s6184">The committee noted that Freehills had been engaged to conduct a "legal due diligence" and assist with certain parts of the prospectus relating to legal matters.</sentence>
 <sentence id="s6185">It was to provide an opinion in relation to the due diligence process and to advise generally in relation to legal matters concerning the initial public offering.</sentence>
-<sentence id="s6186">Davies Collison Cave and Wray &amp; Associates had been engaged to provide reports on the company's patents for inclusion in the prospectus.</sentence>
-<sentence id="s6187">Their draft report and a final report from Wray &amp; Associates were already available.</sentence>
+<sentence id="s6186">Davies Collison Cave and Wray &amp;amp; Associates had been engaged to provide reports on the company's patents for inclusion in the prospectus.</sentence>
+<sentence id="s6187">Their draft report and a final report from Wray &amp;amp; Associates were already available.</sentence>
 <sentence id="s6188">Dr Gray undertook to circulate those reports to the committee.</sentence>
 <sentence id="s6189">Due diligence on general matters and all business and technological aspects outside the scope of the expert reports was allocated to Dr Gray.</sentence>
 <sentence id="s6190">Mr Mellos referred the committee to verification procedures set out in the planning memorandum.</sentence>
@@ -9054,7 +9054,7 @@ In his redraft of Dr Gray's letter to Dr Burton Mr Cherry added a statement that
 <sentence id="s6255">It was sent on the earlier date.</sentence>
 <sentence id="s6256">The second meeting of the Due Diligence Committee took place on 11 February 2000.</sentence>
 <sentence id="s6257">Participating were Drs Gray and Panaccio, Mr Kerridge, Messrs Mellos and Davey and Ms Sandeep Mann from Freehills and Mr Peter Messer from Deloittes.</sentence>
-<sentence id="s6258">Draft patent attorney reports from Davies Collison Cave and Wray &amp; Associates had been received.</sentence>
+<sentence id="s6258">Draft patent attorney reports from Davies Collison Cave and Wray &amp;amp; Associates had been received.</sentence>
 <sentence id="s6259">The report from Davies Collison Cave only covered the status of registration of certain patents and patent applications.</sentence>
 <sentence id="s6260">Mr Mellos indicated that a reconciliation would be necessary between the patents referred to in the reports and the products and processes used by the company.</sentence>
 <sentence id="s6261">The committee had to know which aspects of the business of the company were or were not protected by patents.</sentence>
@@ -9216,7 +9216,7 @@ He also noted that he had had no response to his communication to Dr Gray of 9 F
 
  A further meeting of the committee was held on 14 March 2000.</sentence>
 <sentence id="s6377">Freehills had not yet received the amended report from Davies Collison Cave.</sentence>
-<sentence id="s6378">A report had been received from Wray &amp; Associates.</sentence>
+<sentence id="s6378">A report had been received from Wray &amp;amp; Associates.</sentence>
 <sentence id="s6379">Both reports were to be amended as a consequence of the change of the company's name from Paragon Medical Limited to Sirtex Medical Limited.</sentence>
 <sentence id="s6380">In discussion of the proposed capital structure, Dr Gray confirmed that 100,000 new options allocated to CRI were intended for directors of CRI.</sentence>
 <sentence id="s6381">Five current CRI directors would be offered 20,000 options each.</sentence>
@@ -9371,7 +9371,7 @@ It submitted that these things should have put Dr Panaccio on notice of the pote
 <sentence id="s6486">After Dr Gray and his team left the only records remaining in CACS related to Dr Williams' work and that of her students, some departmental personnel files and a small amount of correspondence between Dr Gray and others in the Faculty of Medicine and Dentistry.</sentence>
 <sentence id="s6487">The Laboratory Manager, Jillean Winter, gave Dr Williams a number of schedules described as "Equipment Lists" which she reviewed before and after Dr Gray's team departed.</sentence>
 <sentence id="s6488">She endeavoured to reconcile equipment and consumables used by various people in CACS.</sentence>
-<sentence id="s6489">These had been obtained through a variety of funding sources over the years including RPH, Medical Research Foundation research grants, the Cancer Foundation, the NH &amp; MRC, the Clive and Vera Ramaciotti Foundation, Telethon, UWA and possibly others.</sentence>
+<sentence id="s6489">These had been obtained through a variety of funding sources over the years including RPH, Medical Research Foundation research grants, the Cancer Foundation, the NH &amp;amp; MRC, the Clive and Vera Ramaciotti Foundation, Telethon, UWA and possibly others.</sentence>
 <sentence id="s6490">Some had also been purchased with LCI and CRI derived funds.</sentence>
 <sentence id="s6491">Dr Williams wanted to make sure to the extent that any equipment and consumables were identified as going to CRI, the University would be reimbursed if it had paid for them.</sentence>
 <sentence id="s6492">On 9 June 2000 Dr Williams wrote to Mr Gorn the Chairperson of CRI stating that she had identified a number of instances in which purchases of equipment and consumables for CRI scientists undertaking contract research on behalf of Paragon Medical were inappropriately paid from CACS' UWA derived funds rather than the CRI account.</sentence>
@@ -9437,9 +9437,9 @@ It went on to state that Sirtex had been formed in 1997 to acquire and commercia
 <sentence id="s6534">The intellectual property position with respect to SIR-Spheres was described thus: 
  
  The concepts underpinning SIRT technology were developed and refined over more than ten years in a number of public research institutions.</sentence>
-<sentence id="s6535">Early data was publicly disclosed and therefore it is not possible to obtain patent protection for the first generation SIR-Spheres &reg; .</sentence>
-<sentence id="s6536">The Directors believe that the lack of patent protection on the first generation SIR-Spheres &reg; will not affect the Company's prospects of commercialising this therapy since the Company now has developed a second- generation of SIR-Spheres &reg; , with which it plans to replace the current SIR-Spheres &reg; in the marketplace.</sentence>
-<sentence id="s6537">Patent protection for the improved SIR-Spheres &reg; has been granted in Australia and the USA.</sentence>
+<sentence id="s6535">Early data was publicly disclosed and therefore it is not possible to obtain patent protection for the first generation SIR-Spheres &amp;reg; .</sentence>
+<sentence id="s6536">The Directors believe that the lack of patent protection on the first generation SIR-Spheres &amp;reg; will not affect the Company's prospects of commercialising this therapy since the Company now has developed a second- generation of SIR-Spheres &amp;reg; , with which it plans to replace the current SIR-Spheres &amp;reg; in the marketplace.</sentence>
+<sentence id="s6537">Patent protection for the improved SIR-Spheres &amp;reg; has been granted in Australia and the USA.</sentence>
 <sentence id="s6538">Similar patent applications are currently being assessed in four other relevant markets ... 
  
 
@@ -9492,8 +9492,8 @@ This section went on to refer to second generation SIR-Spheres.</sentence>
 <sentence id="s6568">Non-current assets designated "Intangibles" were valued at $3,125,857.</sentence>
 <sentence id="s6569">In a note to the accounts, these were said to represent intellectual property at cost less accumulated depreciation.</sentence>
 <sentence id="s6570">Section 9 was entitled "Reports on Patents".</sentence>
-<sentence id="s6571">A report from Wray &amp; Associates dated 17 July 2000 was included, together with a report from Davies Collison Cave of the same date.</sentence>
-<sentence id="s6572">The report from Wray &amp; Associates confirmed that Sirtex was the patent applicant in respect of a number of patent applications in a variety of countries described in Schedule A to the report.</sentence>
+<sentence id="s6571">A report from Wray &amp;amp; Associates dated 17 July 2000 was included, together with a report from Davies Collison Cave of the same date.</sentence>
+<sentence id="s6572">The report from Wray &amp;amp; Associates confirmed that Sirtex was the patent applicant in respect of a number of patent applications in a variety of countries described in Schedule A to the report.</sentence>
 <sentence id="s6573">It identified three streams of patent applications broadly defined as follows: 
 1.</sentence>
 <sentence id="s6574">"Targeted Hysteresis Hyperthermia as a Method for Treating Diseased Tissue";
@@ -9610,7 +9610,7 @@ She projected CACS' activities for the next five years.</sentence>
 <sentence id="s6655">In her discussion of what she called "microparticle technologies" she set out a figure detailing the involvement of various participants in the commercialisation process used to make new treatments available to patients.</sentence>
 <sentence id="s6656">She described Sirtex as the "commercialisation vehicle created to achieve this".</sentence>
 <sentence id="s6657">The figure set out under three headings the participants, the contributions of each and the benefit derived from each.</sentence>
-<sentence id="s6658">The participants she listed included UWA, CRI, LCI, Sirtex, Drs Gray, Stephen Jones and Chen, the NH &amp; MRC and the Cancer Foundation of WA.</sentence>
+<sentence id="s6658">The participants she listed included UWA, CRI, LCI, Sirtex, Drs Gray, Stephen Jones and Chen, the NH &amp;amp; MRC and the Cancer Foundation of WA.</sentence>
 <sentence id="s6659">All of those appeared under the sub-heading "Innovators".</sentence>
 <sentence id="s6660">Sirtex, ANSTO, Nomura/JAFCO appeared under the heading "Manufacturer/Distributor".</sentence>
 <sentence id="s6661">The paper elicited an acerbic email from Dr Gray to Dr Williams dated 8 December 2000 in which he said it contained many incorrect assumptions which had to be changed because they gave a false impression.</sentence>
@@ -9658,7 +9658,7 @@ She projected CACS' activities for the next five years.</sentence>
 <sentence id="s6699">Her own lawyers had called the complaint a 'criminal defamation' of her.</sentence>
 <sentence id="s6700">As a result there had been an "erosion of trust" between CACS and Sirtex.</sentence>
 <sentence id="s6701">She required a cheque made out to UWA to be cleared before handing over the equipment the subject of the agreement.</sentence>
-<sentence id="s6702">The next step in relation to the CRI equipment still held by CACS was a letter of demand dated 20 December 2001 sent by Dr Gray's solicitor, Grant Milner &amp; Associates on behalf of Dr Gray, "in his capacity as Chairman of the Cancer Research Institute Inc".</sentence>
+<sentence id="s6702">The next step in relation to the CRI equipment still held by CACS was a letter of demand dated 20 December 2001 sent by Dr Gray's solicitor, Grant Milner &amp;amp; Associates on behalf of Dr Gray, "in his capacity as Chairman of the Cancer Research Institute Inc".</sentence>
 <sentence id="s6703">The solicitors accused Dr Williams of refusing to return the three items to CRI and threatened legal action if they were not returned.</sentence>
 <sentence id="s6704">In the event a Local Court summons issued on 22 March 2002.</sentence>
 <sentence id="s6705">It named Dr Williams personally as the defendant.</sentence>
@@ -10228,7 +10228,7 @@ The term "filing" is defined as "equivalent to a regular national filing under t
  4.1.1 that it had been filed on 29 October 1997; 
  4.1.2 that Paragon Medical Limited was named as applicant; 
  4.1.3 that it was titled "improved targeted hysteresis hyperthermia as a method for treating diseased tissue"
- 4.1.4 that Wray &amp; Associates were the prosecuting patent attorneys; 
+ 4.1.4 that Wray &amp;amp; Associates were the prosecuting patent attorneys; 
  
 
  
@@ -10246,7 +10246,7 @@ The term "filing" is defined as "equivalent to a regular national filing under t
  4.2.1 that it had been filed on 3 Mach 1999; 
  4.2.2 that Paragon Medical Limited was named as applicant; 
  4.2.3 that it was titled "Magnetic material";
- 4.2.4 that Wray &amp; Associates were the prosecuting patent attorneys; 
+ 4.2.4 that Wray &amp;amp; Associates were the prosecuting patent attorneys; 
  
 
  
@@ -10380,7 +10380,7 @@ The term "filing" is defined as "equivalent to a regular national filing under t
  6.3.4 that Bruce Nathaniel Gray, Stephen Keith Jones and Raffaele Cammarano were named as inventors
  6.3.5 that it was titled "Heating of magnetic material by hysteresis effects"; 
  6.3.6 that Paragon Medical Limited was named as applicant; 
- 6.3.7 that Wray &amp; Associates were named as prosecuting patent attorneys.</sentence>
+ 6.3.7 that Wray &amp;amp; Associates were named as prosecuting patent attorneys.</sentence>
 <sentence id="s7014">
  
 
@@ -10445,7 +10445,7 @@ The term "filing" is defined as "equivalent to a regular national filing under t
  7.4.5 that international patent application no PCT/AU01/01370 had been filed on 25 October 2001 and was published by WIPO on 2 May 2002; 
  7.4.6 that international patent application no PCT/AU01/01370 entered the national phase in Australia as complete Australian application no 2002210278; 
  7.4.7 that these applications had been open for public inspection since 6 May 2002; 
- 7.4.8 that Wray &amp; Associates were the prosecuting patent attorneys; 
+ 7.4.8 that Wray &amp;amp; Associates were the prosecuting patent attorneys; 
  7.4.9 that information regarding this application had been migrated to a new database on 8 August 2002; 
  
 
@@ -10461,7 +10461,7 @@ The term "filing" is defined as "equivalent to a regular national filing under t
  7.5.3 that Bruce Nathaniel Gray was named as inventor; 
  7.5.4 that Sirtex Medical Limited was named as applicant; 
  7.5.5 that it had been open for public inspection since 6 May 2002, which had been advertised in the Patents Office Journal on 11 July 2002; 
- 7.5.6 that Wray &amp; Associates were the prosecuting patent attorneys; 
+ 7.5.6 that Wray &amp;amp; Associates were the prosecuting patent attorneys; 
  7.5.7 that it claimed priority from application PR0983 which had been filed on 25 October 2000.</sentence>
 <sentence id="s7015">
  
@@ -10532,14 +10532,14 @@ The term "filing" is defined as "equivalent to a regular national filing under t
 <sentence id="s7033">I accept the accuracy of the statements made in the historical analysis proffered by Sirtex, as verified by the evidence of Dr Boyer subject to the qualifications contained in his "cross-examination report".</sentence>
 <sentence id="s7034">
  Chen/UWA coordination on claims --- 2003/2004 
- On about 11 April 2003 Dr Chen telephoned Wray &amp; Associates.</sentence>
+ On about 11 April 2003 Dr Chen telephoned Wray &amp;amp; Associates.</sentence>
 <sentence id="s7035">She said her purpose in ringing was to find out what the current situation was because she "had a letter from Dr Gray, a so called kind of contract arrangement ...".</sentence>
-<sentence id="s7036">She wanted to ask Wray &amp; Associates whether they could give her any advice about it, whether she should pursue anything or just leave it.</sentence>
+<sentence id="s7036">She wanted to ask Wray &amp;amp; Associates whether they could give her any advice about it, whether she should pursue anything or just leave it.</sentence>
 <sentence id="s7037">She knew that Sirtex was listed.</sentence>
-<sentence id="s7038">She made a handwritten note of her conversation on the letter of advice she had received from Wray &amp; Associates on 21 December 1994.</sentence>
+<sentence id="s7038">She made a handwritten note of her conversation on the letter of advice she had received from Wray &amp;amp; Associates on 21 December 1994.</sentence>
 <sentence id="s7039">She also endorsed on it the figure "241 millions".</sentence>
 <sentence id="s7040">It appears, although she was not prepared to say so clearly in cross-examination, that this referred to the market capitalisation of Sirtex at about that time.</sentence>
-<sentence id="s7041">Mr Harwood from Wray &amp; Associates said he couldn't find her file and would have to check the archive and get back to her.</sentence>
+<sentence id="s7041">Mr Harwood from Wray &amp;amp; Associates said he couldn't find her file and would have to check the archive and get back to her.</sentence>
 <sentence id="s7042">He also informed her that he was acting for Dr Gray and could not give her independent advice.</sentence>
 <sentence id="s7043">At this stage Dr Chen had not engaged solicitors to act for her.</sentence>
 <sentence id="s7044">It appears, however, that in or about April 2003 she was approached by Mr Heitman at UWA.</sentence>
@@ -10702,14 +10702,14 @@ He referred back to a meeting held on 21 June 2004 attended by Mr Heitman, the U
 <sentence id="s7134">She claimed, inter alia, a declaration to the effect that she was the sole inventor of the invention which was the subject of the patent application and patents.</sentence>
 <sentence id="s7135">In the course of her cross-examination Dr Chen said she always held the belief that UWA had the right to claim ownership of the patent and that they should be the owner, but because the provisional patent was taken out in her name and that of Dr Gray they became the owner at that time.</sentence>
 <sentence id="s7136">She said she had always held the belief that UWA was entitled to own the patent.</sentence>
-<sentence id="s7137">This was the advice which she had received from Wray &amp; Associates back in 1994.</sentence>
+<sentence id="s7137">This was the advice which she had received from Wray &amp;amp; Associates back in 1994.</sentence>
 <sentence id="s7138">Plainly this was inconsistent with the claim raised in the Supreme Court proceedings.</sentence>
 <sentence id="s7139">In further cross-examination, Dr Chen said there had been no agreement with UWA as to who would bear the legal costs of her action against CRI.</sentence>
 <sentence id="s7140">She paid the costs associated with the proceedings herself.</sentence>
 <sentence id="s7141">
  UWA's letter of demand to Sirtex, 26 October 2004 
  On 26 October 2004 the University's solicitors, Jackson McDonald, sent a letter by registered mail addressed to "The Proper Officer, Sirtex Medical Ltd" at an address in New South Wales.</sentence>
-<sentence id="s7142">The letter bore the endorsement "Private &amp; Confidential".</sentence>
+<sentence id="s7142">The letter bore the endorsement "Private &amp;amp; Confidential".</sentence>
 <sentence id="s7143">It was headed "Ownership of Technology Developed by Employees of the University of Western Australia".</sentence>
 <sentence id="s7144">It is convenient to set out the full terms of the letter as it is the subject of the defamation cross-claim.</sentence>
 <sentence id="s7145">It was as follows: 
@@ -10762,7 +10762,7 @@ He referred back to a meeting held on 21 June 2004 attended by Mr Heitman, the U
 
  At all times during the Period of Employment Gray and the members of the Research Team were engaged in undertaking research activities relating to the treatment of cancer.</sentence>
 <sentence id="s7153">The research activities in which Gray and members of the Research Team were engaged, inter alia, related to the investigation and formulation of therapeutic devices for treatment of particular kinds of cancer.</sentence>
-<sentence id="s7154">The University provided Gray and members of the Research Team with significant assistance, including additional research staff and facilities as well as funding their research activities through the administration of NH &amp; MRC grants and other internal and external funding.</sentence>
+<sentence id="s7154">The University provided Gray and members of the Research Team with significant assistance, including additional research staff and facilities as well as funding their research activities through the administration of NH &amp;amp; MRC grants and other internal and external funding.</sentence>
 <sentence id="s7155">
  
  Unauthorised Applications for Patents during the Period of Employment 
@@ -10881,7 +10881,7 @@ He referred back to a meeting held on 21 June 2004 attended by Mr Heitman, the U
  We are instructed that Gray never sought or obtained permission from the University to undertake the above work which Gray now appears to have undertaken during the Period of Employment.</sentence>
 <sentence id="s7185">Gray took the first steps towards the listing of Sirtex during the Period of Employment.</sentence>
 <sentence id="s7186">Gray did not disclose to the University that Gray was involved in the listing of Sirtex at any time prior to the publication of the Prospectus.</sentence>
-<sentence id="s7187">Gray did not disclose to the University that Sirtex (then known as Paragon Medical Limited) had obtained $950,000 in R&amp;D funding from Ausindustry and an additional $3 million in funding from Jafco Nomura.</sentence>
+<sentence id="s7187">Gray did not disclose to the University that Sirtex (then known as Paragon Medical Limited) had obtained $950,000 in R&amp;amp;D funding from Ausindustry and an additional $3 million in funding from Jafco Nomura.</sentence>
 <sentence id="s7188">This assistance was obtained during the Period of Employment.</sentence>
 <sentence id="s7189">
  
@@ -10945,7 +10945,7 @@ He referred back to a meeting held on 21 June 2004 attended by Mr Heitman, the U
 <sentence id="s7212">For the reasons provided in this letter, the University alleges that the entirety of the intellectual property purportedly vested in Paragon (now Sirtex) was intellectual property belonging to the University.</sentence>
 <sentence id="s7213">In addition, Gray received a salary and other remuneration which is referable to the administrative activities which Gray performed for Sirtex during the Period of Employment and which Gray has apparently to continue to perform for that company since that time.</sentence>
 <sentence id="s7214">[sic]
- This position is consistent with a valuation obtained from Ernst &amp; Young in about 1996.</sentence>
+ This position is consistent with a valuation obtained from Ernst &amp;amp; Young in about 1996.</sentence>
 <sentence id="s7215">The University obtained details of this valuation in electronic form from University equipment during the course of its investigations.</sentence>
 <sentence id="s7216">We understand that Sirtex has not paid a dividend to shareholders.</sentence>
 <sentence id="s7217">In the circumstances, the University demands that Sirtex do the following: 
@@ -11564,7 +11564,7 @@ Sirtex also relies upon an indemnity which it says Dr Gray provided to it agains
 <sentence id="s7590">The absence of any duty to invent anything.</sentence>
 <sentence id="s7591">The freedom to publish the results of his research and any invention developed during that research notwithstanding that such publication might destroy the patentability of the invention.</sentence>
 <sentence id="s7592">The extent to which Dr Gray, as a researcher and those working with him, were expected to and did solicit funds for their research, including the development of inventions, from sources outside UWA.</sentence>
-<sentence id="s7593">The relevance of those considerations is not affected by the arrangements under which UWA would administer funding, eg in the case of CSIRO or NH &amp; MRC grants.</sentence>
+<sentence id="s7593">The relevance of those considerations is not affected by the arrangements under which UWA would administer funding, eg in the case of CSIRO or NH &amp;amp; MRC grants.</sentence>
 <sentence id="s7594">The necessity, consistent with research of the kind he was doing, to enter into collaborative arrangements with external organisations such as CSIRO.</sentence>
 <sentence id="s7595">
 The history of the research undertaken by Dr Gray and his colleagues discloses that the role of the researcher at UWA in the area in which Dr Gray and his colleagues were working required him and them to act to a significant degree as entrepreneurs in securing the resources which would enable them to carry out their work.</sentence>
@@ -11792,7 +11792,7 @@ Wilcox J took a similar approach.</sentence>
 <sentence id="s7779">
  
 
- In Bristol-Myers Squibb Co v FH Faulding &amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 the Full Court followed the obiter views of the majority in Anaesthetic Supplies Pty Ltd [1994] FCA 1065 ; 50 FCR 1.</sentence>
+ In Bristol-Myers Squibb Co v FH Faulding &amp;amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 the Full Court followed the obiter views of the majority in Anaesthetic Supplies Pty Ltd [1994] FCA 1065 ; 50 FCR 1.</sentence>
 <sentence id="s7780">The case concerned an invention for a method of administering an anti-cancer drug called Taxol.</sentence>
 <sentence id="s7781">Black CJ and Lehane J considered that they should adopt and apply the view of the majority in Anaesthetic Supplies Pty Ltd [1994] FCA 1065 ; 50 FCR 1 which had been reached after "a close and persuasive analysis of principle and authority" (at 529-530): 
  
@@ -12018,7 +12018,7 @@ The propositions set out in Burroughs Wellcome (1994) 40 F 3 1223 define "invent
 <sentence id="s7910">In considering the English authorities on this point it is necessary to do so having regard to their particular statutory setting.</sentence>
 <sentence id="s7911">However, the problem of identifying an invention for the purpose of determining entitlement raises the same conceptual question that is raised in the present proceedings.</sentence>
 <sentence id="s7912">Section 125 of the 1977 UK Act was an interpretation provision that provided that an invention is to be taken as that specified in a claim (as purposively interpreted) unless the context otherwise requires.</sentence>
-<sentence id="s7913">Thorley S, Terrell on the Law of Patents (16 th ed, London, Sweet &amp; Maxwell, 2006) at 3-87, points out that entitlement disputes can arise before any application for a patent has been made or on the basis of an application filed without claims.</sentence>
+<sentence id="s7913">Thorley S, Terrell on the Law of Patents (16 th ed, London, Sweet &amp;amp; Maxwell, 2006) at 3-87, points out that entitlement disputes can arise before any application for a patent has been made or on the basis of an application filed without claims.</sentence>
 <sentence id="s7914">The problem so identified is therefore similar to the problem in the present proceedings.</sentence>
 <sentence id="s7915">The application of the implied term and the Regulations does not depend upon the prior existence of claims in a patent or patent application.</sentence>
 <sentence id="s7916">The distinction between inventive concept and verification of an invention was drawn by Jacob J in Henry Bros (Magherafelt) Ltd v Ministry of Defence and the Northern Ireland Office [1997] RPC 693.</sentence>
@@ -12729,7 +12729,7 @@ The microsphere size selection has been dealt with in the context of the SIRT-1 
 <sentence id="s8394">
  Thermo-Spheres-1 --- Contentions and Conclusions 
  UWA admitted that the 1988 and 1994 provisional applications were materially identical to the 1996 provisional application so that the date upon which the invention disclosed in the 1988 provisional application was made should be treated as the date of the invention in the 1996 provisional application.</sentence>
-<sentence id="s8395">The PCT application embodied elements reflected in a letter of instruction from Dr Stephen Jones to Gary Cox of Wray &amp; Associates dated 20 February 1997.</sentence>
+<sentence id="s8395">The PCT application embodied elements reflected in a letter of instruction from Dr Stephen Jones to Gary Cox of Wray &amp;amp; Associates dated 20 February 1997.</sentence>
 <sentence id="s8396">This letter, which has been referred to earlier in these reasons, identified the inventors as Drs Gray and Jones.</sentence>
 <sentence id="s8397">A description of the invention set out in that letter has also been set out earlier in these reasons and, in particular, the development of the quantity devised by Dr Jones called the magnetic heating efficiency.</sentence>
 <sentence id="s8398">UWA submitted that because the instructions to the patent attorney named Dr Jones as inventor of the invention to be disclosed in the Thermo-Spheres-1 invention PCT application it followed that it must have been completed after he commenced working with Dr Gray in January 1990.</sentence>
@@ -12755,7 +12755,7 @@ The microsphere size selection has been dealt with in the context of the SIRT-1 
  3.4 combination of hysteresis heating with ionising radiation.</sentence>
 <sentence id="s8404">The various "solutions" to the problems identified were cross-referred to claims in the PCT application.</sentence>
 <sentence id="s8405">In relation to 1.1, UWA referred to the concept of magnetic heating efficiency (MHE) developed by Dr Jones and the reference in claim 7 of the PCT application to a range of substances suitable for use in the invention.</sentence>
-<sentence id="s8406">Reference was then made to Dr Jones' NH &amp; MRC application with Dr Gray and Professor Street on 20 February 1991 which referred to the study of barium ferrite.</sentence>
+<sentence id="s8406">Reference was then made to Dr Jones' NH &amp;amp; MRC application with Dr Gray and Professor Street on 20 February 1991 which referred to the study of barium ferrite.</sentence>
 <sentence id="s8407">It was submitted that one of the class of compounds specified in claim 7 of the PCT application had been identified.</sentence>
 <sentence id="s8408">Another application for grant funding dated 5 March 1993 was referred to in which reference was made to materials including acidular ion oxides, chromium dioxide and cobalt modified iron oxides having desired characteristics for hysteresis heating.</sentence>
 <sentence id="s8409">It was submitted that the identification of these materials satisfied at least the requirements of claims 8 and 10 and, on a fair reading, claim 9.</sentence>
@@ -12778,7 +12778,7 @@ The microsphere size selection has been dealt with in the context of the SIRT-1 
  
 
  
-Then there was a reference to a fax from Dr Jones to Mr Cox of Wray &amp; Associates on 14 March 1997 confirming that microspheres made from gamma-Fe 2 O 3 could produce upwards of 100W/g under the right conditions.</sentence>
+Then there was a reference to a fax from Dr Jones to Mr Cox of Wray &amp;amp; Associates on 14 March 1997 confirming that microspheres made from gamma-Fe 2 O 3 could produce upwards of 100W/g under the right conditions.</sentence>
 <sentence id="s8424">On this basis it was said that claim 18 was finally settled between July 1988 and February 1996.</sentence>
 <sentence id="s8425">The UWA submissions then went over into the general issues canvassed in relation to SIRT-1 of size, density, composition and delivery of the microspheres.</sentence>
 <sentence id="s8426">Dr Gray submitted that the concept of targeted hyperthermic hysteresis was a logical extension of his targeted microsphere technology.</sentence>
@@ -12813,7 +12813,7 @@ Then there was a reference to a fax from Dr Jones to Mr Cox of Wray &amp; Associ
 <sentence id="s8452">He proposed to design and construct a benchtop alternating magnet system that would enable proper testing of a range of magnetic powders.</sentence>
 <sentence id="s8453">It would be necessary to measure the heat generated from hysteresis effects as a function of field strength and frequency for particles of different composition, shape and size.</sentence>
 <sentence id="s8454">On 20 June 1990 Drs Gray and Jones successfully applied to the Clive and Vera Ramaciotto Foundation for funding for the purchase of a Malvern series laser diffraction particle size analyser.</sentence>
-<sentence id="s8455">Successive grant applications in relation to the hysteresis heating project were made on 31 January 1991 (to the Medical Research Foundation) and 20 February 1991 (to the NH &amp; MRC).</sentence>
+<sentence id="s8455">Successive grant applications in relation to the hysteresis heating project were made on 31 January 1991 (to the Medical Research Foundation) and 20 February 1991 (to the NH &amp;amp; MRC).</sentence>
 <sentence id="s8456">Unsuccessful funding applications were made in February 1992 and 11 August 1992 and on 5 March 1993.</sentence>
 <sentence id="s8457">A successful application was made to the Medical Research Foundation in February 1994 for funds to purchase an induction heating coil for in vivo experimentation.</sentence>
 <sentence id="s8458">Dr Gray's submissions referred to the article published by Jones, Gray, Burton, Codde and Street in 1992 referring to a combination of small ferromagnetic particles, high field strengths and low frequencies.</sentence>
@@ -12906,9 +12906,9 @@ Then there was a reference to a fax from Dr Jones to Mr Cox of Wray &amp; Associ
  
  The provisional application was filed on 3 March 1999 in the name of Paragon Medical, now Sirtex.</sentence>
 <sentence id="s8527">The international application number PCT/AU00/00151 was filed on 3 March 2000.</sentence>
-<sentence id="s8528">Dr Jones sent a preparation guide to Wray &amp; Associates for the preparation of the provisional specification for the invention.</sentence>
+<sentence id="s8528">Dr Jones sent a preparation guide to Wray &amp;amp; Associates for the preparation of the provisional specification for the invention.</sentence>
 <sentence id="s8529">This was relied upon by UWA as listing the inventive contribution of himself, Dr Gray and Dr Cammarano to the invention.</sentence>
-<sentence id="s8530">Their contributions were said to be substantially similar to those identified in the patent preparation guide which Dr Jones sent to Wray &amp; Associates for Thermo-Spheres-2.</sentence>
+<sentence id="s8530">Their contributions were said to be substantially similar to those identified in the patent preparation guide which Dr Jones sent to Wray &amp;amp; Associates for Thermo-Spheres-2.</sentence>
 <sentence id="s8531">UWA pointed to similarities between the three Thermo-Sphere applications.</sentence>
 <sentence id="s8532">It submitted that the timing of the dates upon which the inventions took place, identified by UWA in relation to each of those inventions are relevant to the timing of the Thermo-Spheres-3 invention.</sentence>
 <sentence id="s8533">It did not allege that either Dr Jones or Dr Cammarano invented the Thermo-Spheres inventions while employed by UWA.</sentence>
@@ -13134,7 +13134,7 @@ The CRI "Claimed Technologies" was a term used by Sirtex to refer to the three t
 <sentence id="s8641">
  
 
- The general principle underlying the action for groundless threats of infringement was stated in Cornish W and Llewellyn, Intellectual Property (6 th ed, London, Sweet &amp; Maxwell, 2007) (at 2.93 and 2.95): 
+ The general principle underlying the action for groundless threats of infringement was stated in Cornish W and Llewellyn, Intellectual Property (6 th ed, London, Sweet &amp;amp; Maxwell, 2007) (at 2.93 and 2.95): 
  
  If a potential claimant chooses to do what damage he can merely by threatening to sue, again those affected may find it difficult to force his hand.</sentence>
 <sentence id="s8642">Apart from instituting revocation or rectification proceedings ... a person who suffers by the threats may not be able to prevent them, save in exceptional cases.</sentence>
@@ -13282,7 +13282,7 @@ and had thereby suffered loss and damage.</sentence>
  
 
  Particularising paragraph 171A Sirtex referred to Dr Gray's non-disclosure of various matters including: 
-(a) an advice provided to Dr Yan Chen by Wray &amp; Associates dated 21 December 1994 and forwarded to Dr Chen by Dr Gray on 30 December 1994 which raised the question of UWA's ownership of the DOX-Spheres invention and by the same reasoning the SIRT-2 invention.</sentence>
+(a) an advice provided to Dr Yan Chen by Wray &amp;amp; Associates dated 21 December 1994 and forwarded to Dr Chen by Dr Gray on 30 December 1994 which raised the question of UWA's ownership of the DOX-Spheres invention and by the same reasoning the SIRT-2 invention.</sentence>
 <sentence id="s8739">(b) communications between him and UWA between 1997 and 2000 which included assertions by UWA of its claim to ownership of some or all of the acquired inventions.</sentence>
 <sentence id="s8740">The documents referred to included letters from Professor Barber to Dr Gray of 20 February 1997 and 5 March 1997, a letter from Professor Landau to Dr Gray of 5 March 1997 and the letter from Professor Robson to Dr Gray of 19 November 1997.</sentence>
 <sentence id="s8741">In addition, Sirtex relied upon the letters from Professor Schreuder to Dr Gray on 17 June 1999, 7 October 1999 and 9 November 1999 as well as Dr Gray's letters to Professor Schreuder dated 28 June 1999, 16 July 1999 and 17 November 1999.</sentence>
@@ -13375,7 +13375,7 @@ and had thereby suffered loss and damage.</sentence>
 <sentence id="s8753">No relevant prejudice was demonstrated on the part of Dr Gray.</sentence>
 <sentence id="s8754">There was no unfairness to him in the way that Sirtex put its case in closing submissions and he met it in his.</sentence>
 <sentence id="s8755">I will therefore deal with the cross-claim on the basis submitted by Sirtex.</sentence>
-<sentence id="s8756">I do not consider that Dr Gray was required, in the discharge of his duties to Sirtex, to specifically refer to the letter sent to Dr Chen in 1994 by Wray &amp; Associates.</sentence>
+<sentence id="s8756">I do not consider that Dr Gray was required, in the discharge of his duties to Sirtex, to specifically refer to the letter sent to Dr Chen in 1994 by Wray &amp;amp; Associates.</sentence>
 <sentence id="s8757">Nor do I consider that the 1997 exchange between himself and Professor Barber required disclosure.</sentence>
 <sentence id="s8758">Professor Barber flagged the possibility that he doubted that the identification of intellectual property ownership between CRI and UWA would in future be as clear cut as he considered it was when he sent his letter of 22 January 1997.</sentence>
 <sentence id="s8759">The focus of their exchange was otherwise on the possible conflict of interest that Dr Gray might have as a director of Paragon Medical and an employee of UWA.</sentence>

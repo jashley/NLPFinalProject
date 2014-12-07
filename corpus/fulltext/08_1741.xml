@@ -3,10 +3,10 @@
 <name>SZJEZ v Minister for Immigration and Citizenship [2008] FCA 1741 (20 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1741.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of an appeal from the federal magistrates court of australia on the ground that there was no evidence before the refugee review tribunal which entitled the tribunal to reach the findings of fact it reached</catchphrase>
-<catchphrase "id=c1">consideration of whether inferences might properly be drawn from facts found</catchphrase>
-<catchphrase "id=c2">consideration of the appellant's contention that the decision of the tribunal was irrational, unsound, unreasonable and not supported by any evidence probative of findings rejecting the credit-worthiness of the appellant</catchphrase>
-<catchphrase "id=c3">migration</catchphrase>
+<catchphrase id="c0">consideration of an appeal from the federal magistrates court of australia on the ground that there was no evidence before the refugee review tribunal which entitled the tribunal to reach the findings of fact it reached</catchphrase>
+<catchphrase id="c1">consideration of whether inferences might properly be drawn from facts found</catchphrase>
+<catchphrase id="c2">consideration of the appellant's contention that the decision of the tribunal was irrational, unsound, unreasonable and not supported by any evidence probative of findings rejecting the credit-worthiness of the appellant</catchphrase>
+<catchphrase id="c3">migration</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -78,7 +78,7 @@
 <sentence id="s50">However, for present purposes, I use each of these terms to describe a decision of the Tribunal based on findings unsupported by any evidence or based upon findings thought to be supported by inferences drawn from primary facts where those inferences are not open as a matter of law.</sentence>
 <sentence id="s51">Decisions made by the Tribunal in such circumstances are not made in the performance of the duty imposed on the Tribunal by the Act and thus involve jurisdictional error.</sentence>
 <sentence id="s52">Such decisions do not simply reflect insufficiency or inadequacy of evidence but rather an absence of any foundation in fact for the state of satisfaction or otherwise of the Minister or decision-maker.</sentence>
-<sentence id="s53">As to the role of independent country information, the Full Court of this Court per Gray, Tamberlin and Lander JJ in NAHI v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2004] FCAFC 10 , said this at [11]:
+<sentence id="s53">As to the role of independent country information, the Full Court of this Court per Gray, Tamberlin and Lander JJ in NAHI v Minister for Immigration &amp;amp; Multicultural &amp;amp; Indigenous Affairs [2004] FCAFC 10 , said this at [11]:
  
  
  [11] ...</sentence>

@@ -3,13 +3,13 @@
 <name>Waratah Coal Inc v Minister for the Environment Heritage and the Arts [2008] FCA 1870 (10 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1870.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for order for review and application under s 39b judiciary act 1903 (cth)</catchphrase>
-<catchphrase "id=c1">review of purported decision by minister under s 74b environmental protection and biodiversity conservation act 1999 (cth) (epbc act)</catchphrase>
-<catchphrase "id=c2">proper construction of s 74b epbc act</catchphrase>
-<catchphrase "id=c3">whether s 156(3) and s 518(1) apply to validate decision purportedly made pursuant to s 74b epbc act more than 20 business days after minister reviewed referral</catchphrase>
-<catchphrase "id=c4">purpose of ch 4 pt 7 div 1a epbc act</catchphrase>
-<catchphrase "id=c5">administrative law</catchphrase>
-<catchphrase "id=c6">statutory interpretation</catchphrase>
+<catchphrase id="c0">application for order for review and application under s 39b judiciary act 1903 (cth)</catchphrase>
+<catchphrase id="c1">review of purported decision by minister under s 74b environmental protection and biodiversity conservation act 1999 (cth) (epbc act)</catchphrase>
+<catchphrase id="c2">proper construction of s 74b epbc act</catchphrase>
+<catchphrase id="c3">whether s 156(3) and s 518(1) apply to validate decision purportedly made pursuant to s 74b epbc act more than 20 business days after minister reviewed referral</catchphrase>
+<catchphrase id="c4">purpose of ch 4 pt 7 div 1a epbc act</catchphrase>
+<catchphrase id="c5">administrative law</catchphrase>
+<catchphrase id="c6">statutory interpretation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -180,9 +180,9 @@
 <sentence id="s74">If Div 1A applies, the other provisions of Ch 4 do not apply and the person proposing to take the action can:
  
  
- &#8226; withdraw the referral and take no further action in relation to the proposed action; or
- &#8226; withdraw the referral and submit a new, modified referral; or
- &#8226; ask the Minister to reconsider the referral (s 74C(3)); or 
+ &amp;#8226; withdraw the referral and take no further action in relation to the proposed action; or
+ &amp;#8226; withdraw the referral and submit a new, modified referral; or
+ &amp;#8226; ask the Minister to reconsider the referral (s 74C(3)); or 
  
 
 2.</sentence>
@@ -321,7 +321,7 @@ b. section 518, which appears in Ch 7 (Miscellaneous) EPBC Act, and which provid
 <sentence id="s111">6.</sentence>
 <sentence id="s112">If s 156(3) and s 518(1) are capable of applying to a decision purportedly made by the Minister under s 74B more than 20 business days after the receipt of a referral, it should be concluded that s 74B(1) evinces an intention to exclude the prima facie operation of those provisions.</sentence>
 <sentence id="s113">7.</sentence>
-<sentence id="s114">The principles articulated in David Grant &amp; Co Pty Ltd v Westpac Banking Corporation Ltd (1995) 184 CLR 265 apply to this case.</sentence>
+<sentence id="s114">The principles articulated in David Grant &amp;amp; Co Pty Ltd v Westpac Banking Corporation Ltd (1995) 184 CLR 265 apply to this case.</sentence>
 <sentence id="s115">8.</sentence>
 <sentence id="s116">Section 74B and Ch 4 Pt 7 Div 1A EPBC Act were inserted as part of a new process designed to enable the Minister to make a "prompt refusal" for a proposed action that would be clearly unlikely to receive approval under the other provisions of Ch 4.</sentence>
 <sentence id="s117">To treat a decision made any time outside the 20 business days referred to in s 74B(1) as effective to invoke s 74B(2) would be to dispense entirely with the "prompt refusal" rationale of the provision.</sentence>
@@ -361,20 +361,20 @@ b. section 518, which appears in Ch 7 (Miscellaneous) EPBC Act, and which provid
  
 27 The applicant has submitted that:
  
-&#8226; section 74B is distinguishable from other provisions in Ch 4 of the EPBC Act which place time limits on decisions, because s 74B does not impose any obligation on the Minister; and
+&amp;#8226; section 74B is distinguishable from other provisions in Ch 4 of the EPBC Act which place time limits on decisions, because s 74B does not impose any obligation on the Minister; and
  
-&#8226; therefore, this distinction impacts upon the application of s 156(3) and s 518(1) to decisions made under s 74B.</sentence>
+&amp;#8226; therefore, this distinction impacts upon the application of s 156(3) and s 518(1) to decisions made under s 74B.</sentence>
 <sentence id="s143">28 I am not persuaded that s 156(3) and s 518(1) apply only to decisions in Ch 4 which the Minister has an obligation to make, as contended by the applicant.</sentence>
 <sentence id="s144">There is nothing in s 156(3) and s 518(1) which lends itself to such an interpretation.</sentence>
 <sentence id="s145">I agree with the Minister that:
  
-&#8226; the applicant accepted (in my view, correctly) that s 156(3) would apply to validate a decision of the Minister under, for example, s 75(1);
+&amp;#8226; the applicant accepted (in my view, correctly) that s 156(3) would apply to validate a decision of the Minister under, for example, s 75(1);
  
-&#8226; making a late decision under s 74B(1) involves no less a "failure to comply with a time limit set in this Chapter" as contemplated by s 156(3) than making a late decision under s 75(1);
+&amp;#8226; making a late decision under s 74B(1) involves no less a "failure to comply with a time limit set in this Chapter" as contemplated by s 156(3) than making a late decision under s 75(1);
  
-&#8226; the "failure" referred to in s 156(3) is not a failure to make a decision which the Minister is (or is not) obliged to make --- rather the "failure" is a failure to comply with a time limit;
+&amp;#8226; the "failure" referred to in s 156(3) is not a failure to make a decision which the Minister is (or is not) obliged to make --- rather the "failure" is a failure to comply with a time limit;
  
-&#8226; the applicant's argument concerning s 518(1) suffers from the same flaw, namely that s 518(1) is not directed to the "things" required to be taken, but rather to the time period during which the "thing" is to be done.</sentence>
+&amp;#8226; the applicant's argument concerning s 518(1) suffers from the same flaw, namely that s 518(1) is not directed to the "things" required to be taken, but rather to the time period during which the "thing" is to be done.</sentence>
 <sentence id="s146">29 I would add further that, in any event, neither s 156(3) nor s 518(1) are drafted in terms of "obligation" which could in any sense result in the disengagement of those sections from decisions under s 74B.</sentence>
 <sentence id="s147">(While s 518(2) may apply only to decisions which there is an obligation to make, that is not an issue I need to decide for the purposes of these proceedings.</sentence>
 <sentence id="s148">)
@@ -439,10 +439,10 @@ b. section 518, which appears in Ch 7 (Miscellaneous) EPBC Act, and which provid
 <sentence id="s180">41 Such language as "may only" in legislation is indicative of a need to comply with a set time limit, although not conclusive (see, for example, Bond v WorkCover Corporation of South Australia (2005) 93 SASR 315).</sentence>
 <sentence id="s181">However it is of some use to contrast the language in s 74B EPBC Act with that in s 459G Corporations Act , and similarly, for example, with:
  
-&#8226; the legislation considered in Forster v Jododex Australia Pty Ltd [1972] HCA 61 ; (1972) 127 CLR 421 which provided that an application to renew a mining licence was required to be made "during the currency of such license... and not later than one month before the expiry of such license".</sentence>
+&amp;#8226; the legislation considered in Forster v Jododex Australia Pty Ltd [1972] HCA 61 ; (1972) 127 CLR 421 which provided that an application to renew a mining licence was required to be made "during the currency of such license... and not later than one month before the expiry of such license".</sentence>
 <sentence id="s182">In that case the High Court interpreted the legislation to mean that a valid application had to comply strictly with prescribed time limits; and
  
-&#8226; the relevant section of the Liquor Ordinance 1929 (ACT) considered in Ayres v Chacos (1972) 19 FLR 468, which provided that "An applicant for the grant, removal or transfer of a licence...shall, not less than twenty-one days before making the application, give notice in writing to the Registrar and to an Inspector...".</sentence>
+&amp;#8226; the relevant section of the Liquor Ordinance 1929 (ACT) considered in Ayres v Chacos (1972) 19 FLR 468, which provided that "An applicant for the grant, removal or transfer of a licence...shall, not less than twenty-one days before making the application, give notice in writing to the Registrar and to an Inspector...".</sentence>
 <sentence id="s183">In the circumstances of that case Joske J held that the Licensing Court had no jurisdiction to deal with an application made on a period of notice less than the period of 21 clear days.</sentence>
 <sentence id="s184">42 Section 74B(1) states that Ch 4 Pt 7 Div 1A "applies to the referral of a proposal to take an action if, within 20 business days after the Minister receives the referral", the Minister makes the decision described in paras (a) and (b) of s 74B(1).</sentence>
 <sentence id="s185">In my view the language in s 74B as to compliance with the relevant time period is weaker than that in the examples to which I have referred above.</sentence>
@@ -459,7 +459,7 @@ b. section 518, which appears in Ch 7 (Miscellaneous) EPBC Act, and which provid
 <sentence id="s193">This item inserts new Division 1A of Part 7 of the Act.</sentence>
 <sentence id="s194">Division 1A establishes a new process that allows the Minister to make a prompt refusal for an action that would have unacceptable impacts on a matter protected by Part 3 of the Act.</sentence>
 <sentence id="s195">This avoids the expense and time involved in conducting the full assessment and approval process under Chapter 4 for actions that would be unlikely to receive approval under Part 9 of the Act.</sentence>
-<sentence id="s196">The scope and process for making a prompt refusal is established in three new sections of the Act &#172; 74B, 74C, and 74D.</sentence>
+<sentence id="s196">The scope and process for making a prompt refusal is established in three new sections of the Act &amp;#172; 74B, 74C, and 74D.</sentence>
 <sentence id="s197">79.</sentence>
 <sentence id="s198">If the Minister considers that an action would have unacceptable impacts on a matter protected under Part 3 of the Act on the basis of the information contained in a referral then the Minister may decide under s 74B that Division 1A applies to the action.</sentence>
 <sentence id="s199">The other provisions of Chapter 4 (referral assessment and approvals processes) then cease to apply to the action.</sentence>
@@ -479,24 +479,24 @@ b. section 518, which appears in Ch 7 (Miscellaneous) EPBC Act, and which provid
 <sentence id="s212">Thus, the 13 Hen.</sentence>
 <sentence id="s213">IV.</sentence>
 <sentence id="s214">(c.7), which required justices to try rioters "within a month" after the riot, was held not to limit the authority of the justices to that space of time, but only to render them liable to a penalty for neglect.</sentence>
-<sentence id="s215">(Maxwell Sir PB, The Interpretation of Statutes (8th ed by Sir GHB Jackson, Sweet &amp; Maxwell, London, 1937) at 326) (footnotes omitted) 
+<sentence id="s215">(Maxwell Sir PB, The Interpretation of Statutes (8th ed by Sir GHB Jackson, Sweet &amp;amp; Maxwell, London, 1937) at 326) (footnotes omitted) 
 47 I agree with the submission of the Minister that it follows from the applicant's interpretation of the legislation that, immediately upon the expiration of the 20 business days time limit in s 74B(1), even in circumstances where the Minister considers that the proposed action will have unacceptable environmental impacts, the Minister's power to invoke Div 1A could not be exercised, and the Minister must proceed to make decisions under ss 75, 87 and 88.</sentence>
 <sentence id="s216">I accept the Minister's submission that this interpretation is not supported by the terms of Ch 4 Pt 7.</sentence>
 <sentence id="s217">It is highly unlikely that the legislature would have intended that non-compliance with the time limit in s 74B would inevitably prevent the Minister from making a valid decision (cf Charles v Judicial and Legal Service Commission [2002] UKPC 34 at [12] ), particularly as, if the time limit under s 74B were absolute, the subsequent invalidation of any decision made under s 74B would result in substantial frustration of the ultimate purpose of s 74B.</sentence>
 <sentence id="s218">This is not a case where, for example:
  
-&#8226; the consequences of failure to comply strictly within the prescribed time limit outweigh the public interest in the Minister making a valid decision that the proposed action would have unacceptable environmental impacts and invoking Ch 4 Pt 7 Div 1A (cf comments of the House of Lords in R v Soneji [2005] 3 WLR 303); or
+&amp;#8226; the consequences of failure to comply strictly within the prescribed time limit outweigh the public interest in the Minister making a valid decision that the proposed action would have unacceptable environmental impacts and invoking Ch 4 Pt 7 Div 1A (cf comments of the House of Lords in R v Soneji [2005] 3 WLR 303); or
  
-&#8226; the object contemplated by the legislature could not be carried into effect unless the duty required by the statute were performed on or by a certain day (cf David Grant , Forster v Jododex Australia Pty Ltd [1972] HCA 61 ; (1972) 127 CLR 421 , Ayres v Chacos (1972) 19 FLR 468, Bowman v Blyth [1857] EngR 678 ; (1857) 7 E &amp; B 26, 119 ER 1165 , In re Petition of Douglass 46 NY 42 (1871) and cases discussed in Black HC, Handbook on the Construction and Interpretation of the Laws (The Lawbook Exchange Ltd, Clark, New Jersey, 2008) at 346).</sentence>
+&amp;#8226; the object contemplated by the legislature could not be carried into effect unless the duty required by the statute were performed on or by a certain day (cf David Grant , Forster v Jododex Australia Pty Ltd [1972] HCA 61 ; (1972) 127 CLR 421 , Ayres v Chacos (1972) 19 FLR 468, Bowman v Blyth [1857] EngR 678 ; (1857) 7 E &amp;amp; B 26, 119 ER 1165 , In re Petition of Douglass 46 NY 42 (1871) and cases discussed in Black HC, Handbook on the Construction and Interpretation of the Laws (The Lawbook Exchange Ltd, Clark, New Jersey, 2008) at 346).</sentence>
 <sentence id="s219">Consequences of making a decision after more than 20 business days 
  
 48 In any event, a key issue in considering the operation of s 74B in the context of the Chapter is that the obligations imposed on the Minister by s 75(1) and (5) are not expressed to be subject to s 74B --- indeed the time limit prescribed under, inter alia , s 75(5) is exactly the same , commencing from precisely the same point, as that in s 74B.</sentence>
 <sentence id="s220">I accept the Minister's submissions as to the operation of ss 74B and 75, namely that:
  
-&#8226; if the Minister considers that the proposed action will clearly have unacceptable environmental impacts, he can decide that Div 1A applies to the referral, with the result that all other provisions of Ch 4 which would otherwise have applied cease to apply to the referral, including s 75.</sentence>
+&amp;#8226; if the Minister considers that the proposed action will clearly have unacceptable environmental impacts, he can decide that Div 1A applies to the referral, with the result that all other provisions of Ch 4 which would otherwise have applied cease to apply to the referral, including s 75.</sentence>
 <sentence id="s221">The making of the decision under s 74B removes the obligation under s 75(1) which, until that point (whether within or outside the time period) was continuing; and
  
-&#8226; if the Minister does not consider the proposed action will have clearly unacceptable environmental impacts, he must make the decision required under s 75(1), whether or not the 20 business days time period has passed.</sentence>
+&amp;#8226; if the Minister does not consider the proposed action will have clearly unacceptable environmental impacts, he must make the decision required under s 75(1), whether or not the 20 business days time period has passed.</sentence>
 <sentence id="s222">49 Accordingly, it is clear that, contrary to the applicant's submissions, a construction of s 74B to give effect to decisions of the Minister made outside the 20 business days prescribed by the section does not place s 74B in conflict with other provisions of the EPBC Act.</sentence>
 <sentence id="s223">A construction of s 74B which enables an effective decision to be made outside the prescribed 20 business days does not make the regime contained in provisions such as ss 75, 87, 88 and 130 unworkable.</sentence>
 <sentence id="s224">CONCLUSION 

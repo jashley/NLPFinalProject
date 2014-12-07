@@ -3,13 +3,13 @@
 <name>Travel Compensation Fund v Griffiths and Co Pty Ltd [2008] FCA 1912 (17 December 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1912.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">discovery</catchphrase>
-<catchphrase "id=c1">preliminary discovery</catchphrase>
-<catchphrase "id=c2">whether there is reasonable cause to believe that applicant has or may have the right to obtain relief from respondents</catchphrase>
-<catchphrase "id=c3">purpose of preliminary discovery process</catchphrase>
-<catchphrase "id=c4">whether applicant can use discovered documents to institute a proceeding against a third party</catchphrase>
-<catchphrase "id=c5">o 15a r 6 of the federal court rules (cth)</catchphrase>
-<catchphrase "id=c6">practice and procedure</catchphrase>
+<catchphrase id="c0">discovery</catchphrase>
+<catchphrase id="c1">preliminary discovery</catchphrase>
+<catchphrase id="c2">whether there is reasonable cause to believe that applicant has or may have the right to obtain relief from respondents</catchphrase>
+<catchphrase id="c3">purpose of preliminary discovery process</catchphrase>
+<catchphrase id="c4">whether applicant can use discovered documents to institute a proceeding against a third party</catchphrase>
+<catchphrase id="c5">o 15a r 6 of the federal court rules (cth)</catchphrase>
+<catchphrase id="c6">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -138,7 +138,7 @@ Such statement constitutes a clear allegation that Orient's financial records di
 <sentence id="s82">In support of such claim the respondents refer to the TCF's instruction to its solicitors 'to consider any recovery action that may exist as a result of the collapse of Orient' as referred to in the affidavit filed in support of the application; and refer to the fact that the TCF has made it plain that the documents sought may assist in determining whether action may exist against 'any other parties' .</sentence>
 <sentence id="s83">35 Insofar as the respondents rely upon Glencore International AG v Selwyn Mines (recs and mgrs apptd) and Others [2005] FCA 801 ; (2005) 223 ALR 238 at [11] per Lindgren J, the Court observes that such decision is authority for the principle that the Court cannot make an order for discovery against a third party.</sentence>
 <sentence id="s84">The respondents' submission, however, does not relate to the extent of the Court's power to make an order for preliminary discovery, but rather relates to the TCF's intention to use the documents produced in consequence of such an order for the purpose of commencing a proceeding against a third party.</sentence>
-<sentence id="s85">Although Glencore at [11] does not support such a submission, the Court observes that it is settled law that any such use of discovered documents to commence a proceeding against a third party would constitute an abuse of the Court's procedures: see Home Office v Harman [1981] 2 WLR 310; Science Research Council v Nass&eacute; [1978] ICR 777 at 781; Alterskye v Scott [1948] 1 All ER 469.</sentence>
+<sentence id="s85">Although Glencore at [11] does not support such a submission, the Court observes that it is settled law that any such use of discovered documents to commence a proceeding against a third party would constitute an abuse of the Court's procedures: see Home Office v Harman [1981] 2 WLR 310; Science Research Council v Nass&amp;eacute; [1978] ICR 777 at 781; Alterskye v Scott [1948] 1 All ER 469.</sentence>
 <sentence id="s86">36 Accordingly, the TCF' s 12 November 2007 letter which indicates that the documents are being sought for the possible purpose of instituting proceedings against parties other than the respondents demonstrates a misconception of the preliminary discovery process.</sentence>
 <sentence id="s87">Such a use would constitute an impermissible use of documents discovered in consequence of an order made by this Court pursuant to O 15A r 6 of the Rules and could constitute a contempt of Court.</sentence>
 <sentence id="s88">37 However, the only relevant considerations for the Court in deciding whether to make an order for preliminary discovery are those contained in O 15A r 6 of the Rules.</sentence>
@@ -147,7 +147,7 @@ Such statement constitutes a clear allegation that Orient's financial records di
 <sentence id="s91">Withholding information 
  
 38 Relying upon the observations of Lindgren J in Glencore at [15], the respondents submit that the TCF has an obligation not to withhold information for the purpose of satisfying O 15A r 6(b) of the Rules.</sentence>
-<sentence id="s92">39 The respondents observe that the legal advisers of the TCF attended the offices of PPB Chartered Accountants &amp; Business Reconstruction Specialists ('PPB'), the liquidators of Orient, and inspected 18 boxes of documents of Orient's primary records.</sentence>
+<sentence id="s92">39 The respondents observe that the legal advisers of the TCF attended the offices of PPB Chartered Accountants &amp;amp; Business Reconstruction Specialists ('PPB'), the liquidators of Orient, and inspected 18 boxes of documents of Orient's primary records.</sentence>
 <sentence id="s93">The respondents submit that there is no evidence before the Court as to the nature of the documents reviewed or what, if anything, those documents disclosed of relevance to the respondents.</sentence>
 <sentence id="s94">The respondents also submit that Mr Humphreys has given no indication of the nature of his enquiries.</sentence>
 <sentence id="s95">Accordingly, it is submitted that the Court cannot be satisfied that the TCF has made 'all reasonable inquiries' under O 15A r 6(b) of the Rules nor be satisfied under such paragraph that the TCF does not have 'sufficient information to enable a decision to be made whether to commence proceeding' against either of the respondents.</sentence>
@@ -191,7 +191,7 @@ Dated: 17 December 2008
  
  Counsel for the Respondents: Mr Saunders 
  
- Solicitor for the Respondents: Moray &amp; Agnew Solicitors 
+ Solicitor for the Respondents: Moray &amp;amp; Agnew Solicitors 
  
  Date of Hearing: 16 September 2008 
  

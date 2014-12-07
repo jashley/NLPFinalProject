@@ -3,14 +3,14 @@
 <name>Macquarie Media Holdings Ltd v Australian Communications and Media Authority (Corrigendum dated 25 November 2008) [2008] FCA 1711 (14 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1711.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">broadcasting services</catchphrase>
-<catchphrase "id=c1">broadcasting services act 1992 (cth)</catchphrase>
-<catchphrase "id=c2">general limitation on control of commercial broadcasting licences</catchphrase>
-<catchphrase "id=c3">exception to general limitation for licences granted under s 38b</catchphrase>
-<catchphrase "id=c4">immunity under s 73a from provisions proscribing control of more than one licence</catchphrase>
-<catchphrase "id=c5">whether s 73a immunises "upstream" holders</catchphrase>
-<catchphrase "id=c6">whether the applicants are entitled to immunity</catchphrase>
-<catchphrase "id=c7">administrative law</catchphrase>
+<catchphrase id="c0">broadcasting services</catchphrase>
+<catchphrase id="c1">broadcasting services act 1992 (cth)</catchphrase>
+<catchphrase id="c2">general limitation on control of commercial broadcasting licences</catchphrase>
+<catchphrase id="c3">exception to general limitation for licences granted under s 38b</catchphrase>
+<catchphrase id="c4">immunity under s 73a from provisions proscribing control of more than one licence</catchphrase>
+<catchphrase id="c5">whether s 73a immunises "upstream" holders</catchphrase>
+<catchphrase id="c6">whether the applicants are entitled to immunity</catchphrase>
+<catchphrase id="c7">administrative law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -314,8 +314,8 @@ At the heart of the dispute between the parties in this matter is the effect of 
 <sentence id="s130">The Explanatory Memorandum to the Broadcasting Services Amendment (Digital Television and Datacasting) Bill 2000 (Cth) and Datacasting Charge (Imposition) Amendment Bill 2000 (Cth) noted that the Bill that became the 2000 Amending Act: (at 7):
  encourages the issue of an additional commercial television licence in 1 and 2 station markets by: 
  
- &#61863; providing a mechanism for the issue of a licence in 2 station markets (items 19, 23, 41, 44, and 54 of Schedule 1); and 
- &#61863; enabling a licensee allocated an additional licence to multichannel the existing and new services in SDTV digital mode on the one channel (item 86 of Schedule 1); 
+ &amp;#61863; providing a mechanism for the issue of a licence in 2 station markets (items 19, 23, 41, 44, and 54 of Schedule 1); and 
+ &amp;#61863; enabling a licensee allocated an additional licence to multichannel the existing and new services in SDTV digital mode on the one channel (item 86 of Schedule 1); 
  
 
 11 How this objective would be achieved in these markets was discussed in more detail in the Explanatory Memorandum in a section that identified the issue, identified options and then identified a preferred option.</sentence>
@@ -333,7 +333,7 @@ At the heart of the dispute between the parties in this matter is the effect of 
 <sentence id="s137">12 The preferred option was discussed in the following terms (at 61):
  B6 Conclusion and Recommended Option The proposed approach aims to allow for a timely introduction of new analog and digital services in these markets while maintaining the quality of existing services to consumers.</sentence>
 <sentence id="s138">In developing these proposals, account has been taken of the particular economics of underserved markets - widely dispersed populations requiring extensive transmission infrastructure coupled with small populations and, therefore, low advertising revenue bases.</sentence>
-<sentence id="s139">Restrictions on competition are supported for the following reasons: &#61863; The high costs of transmission infrastructure rollout for new services is not likely to be covered by any increase in advertising revenues; &#61863; The viability of new independent services is highly unlikely; &#61863; Current services are unlikely to be able to be sustained if there is an increase in competition at this stage (noting that some two service markets have had competition introduced only recently), especially in the conversion to digital; &#61863; Consumers are unlikely to support new services which do not present some local programming, or are of an inferior quality; &#61863; There is little interest by new broadcasters in providing services in these areas.</sentence>
+<sentence id="s139">Restrictions on competition are supported for the following reasons: &amp;#61863; The high costs of transmission infrastructure rollout for new services is not likely to be covered by any increase in advertising revenues; &amp;#61863; The viability of new independent services is highly unlikely; &amp;#61863; Current services are unlikely to be able to be sustained if there is an increase in competition at this stage (noting that some two service markets have had competition introduced only recently), especially in the conversion to digital; &amp;#61863; Consumers are unlikely to support new services which do not present some local programming, or are of an inferior quality; &amp;#61863; There is little interest by new broadcasters in providing services in these areas.</sentence>
 <sentence id="s140">The most effective way to introduce new services in these markets within a reasonable timeframe is to allow for incumbents to provide such services.</sentence>
 <sentence id="s141">New digital technology further enhances the ability for new, economically viable services to be introduced in these markets.</sentence>
 <sentence id="s142">The Government recognises that this will impact on the ability to receive HDTV and will review the situation in 2005.</sentence>
@@ -457,7 +457,7 @@ Allocation of additional licence to existing licensee
 <sentence id="s187">New subsection 73A(1) operates so that for EACH PERSON [capital letters added] (including a company) who is in a position to exercise control of a section 38B licence when it is allocated (this includes the holder), the section 38B licence is disregarded for the purposes of the control rules in Divisions 2 and 3 of Part 5 of the [the Act].</sentence>
 <sentence id="s188">However, the licence is disregarded in relation to that person only until that person is no longer in a position to exercise control of the licence.</sentence>
 <sentence id="s189">New subsection 73A(2) is a subsidiary rule to cater for people (including companies) in an intermediate control position.</sentence>
-<sentence id="s190">It applies where: &#61863; a person who is covered by new subsection (1) (ie a person who was in a position to exercise control of a section 38B licence when it was allocated and remains in such a position) is also in a position to exercise control of some other person (the intermediate person); and &#61863; the intermediate person is also in a position to exercise control of the licence.</sentence>
+<sentence id="s190">It applies where: &amp;#61863; a person who is covered by new subsection (1) (ie a person who was in a position to exercise control of a section 38B licence when it was allocated and remains in such a position) is also in a position to exercise control of some other person (the intermediate person); and &amp;#61863; the intermediate person is also in a position to exercise control of the licence.</sentence>
 <sentence id="s191">During the period that this intermediate person is in a position to exercise control of the licence, the licence is also disregarded in relation to that person for the purposes of the control rules in Divisions 2 and 3 of Part 5.</sentence>
 <sentence id="s192">New subsection 73A(2) effectively protects all persons who fall within a chain of control which begins with a person who controlled the licence when it was allocated.</sentence>
 <sentence id="s193">(Emphasis added) 

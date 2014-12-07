@@ -3,21 +3,21 @@
 <name>ITW AFC Pty Ltd v Loi and Tran Pty Ltd [2008] FCA 552 (23 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/552.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">validity</catchphrase>
-<catchphrase "id=c1">construction of claims</catchphrase>
-<catchphrase "id=c2">novelty</catchphrase>
-<catchphrase "id=c3">combination patent</catchphrase>
-<catchphrase "id=c4">inventive step</catchphrase>
-<catchphrase "id=c5">hindsight bias</catchphrase>
-<catchphrase "id=c6">commercial success</catchphrase>
-<catchphrase "id=c7">secondary considerations as proof of non-obviousnessness</catchphrase>
-<catchphrase "id=c8">infringement</catchphrase>
-<catchphrase "id=c9">functional advantage</catchphrase>
-<catchphrase "id=c10">purposive construction</catchphrase>
-<catchphrase "id=c11">improver questions</catchphrase>
-<catchphrase "id=c12">"drilling tip", "taper"</catchphrase>
-<catchphrase "id=c13">patents</catchphrase>
-<catchphrase "id=c14">words and phrases</catchphrase>
+<catchphrase id="c0">validity</catchphrase>
+<catchphrase id="c1">construction of claims</catchphrase>
+<catchphrase id="c2">novelty</catchphrase>
+<catchphrase id="c3">combination patent</catchphrase>
+<catchphrase id="c4">inventive step</catchphrase>
+<catchphrase id="c5">hindsight bias</catchphrase>
+<catchphrase id="c6">commercial success</catchphrase>
+<catchphrase id="c7">secondary considerations as proof of non-obviousnessness</catchphrase>
+<catchphrase id="c8">infringement</catchphrase>
+<catchphrase id="c9">functional advantage</catchphrase>
+<catchphrase id="c10">purposive construction</catchphrase>
+<catchphrase id="c11">improver questions</catchphrase>
+<catchphrase id="c12">"drilling tip", "taper"</catchphrase>
+<catchphrase id="c13">patents</catchphrase>
+<catchphrase id="c14">words and phrases</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -113,7 +113,7 @@
 <sentence id="s87">Moreover, ITW says that the idea of combining the best features of the ASD and Type 17 screws into one screw was an inventive step because, although perhaps seemingly obvious in hindsight, no one had managed it (or apparently even thought to try it) before, despite the fact that the metal-to-wood problem had been an issue in the building industry for some years.</sentence>
 <sentence id="s88">16 First of all, with respect to novelty, for a prior publication to destroy novelty: "[It] must give a direction or make a recommendation or suggestion which will result, if the skilled reader follows it, in the claimed invention.</sentence>
 <sentence id="s89">A direction, recommendation or suggestion may often, of course, be implicit in what is described and commonly the only question may be whether the publication describes with sufficient clarity the claimed invention or, in the case of a combination, each integer of it.</sentence>
-<sentence id="s90">": Bristol-Myers Squibb Co v FH Faulding &amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 , 548; see also Pfizer Overseas Pharmaceuticals v Eli Lilly &amp; Co [2005] FCAFC 224 ; (2005) 68 IPR 1 , 67.</sentence>
+<sentence id="s90">": Bristol-Myers Squibb Co v FH Faulding &amp;amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 , 548; see also Pfizer Overseas Pharmaceuticals v Eli Lilly &amp;amp; Co [2005] FCAFC 224 ; (2005) 68 IPR 1 , 67.</sentence>
 <sentence id="s91">17 The respondents did not identify any prior art which referred to a screw that contained all the features of the Zips screw.</sentence>
 <sentence id="s92">The best example of a piece of prior art the respondents could come up with was UK Patent GB957626 (the 626 patent).</sentence>
 <sentence id="s93">The invention the subject of that patent was a combination hole-drilling and thread forming screw fastener.</sentence>
@@ -315,8 +315,8 @@ This is the basis of the submission that the evidence of research undertaken pri
 <sentence id="s267">Even accepting that he did carry out some tests on the respondents' fasteners, I am not satisfied in any event that Dr Collinson's opinion as to the functional significance of a taper in the respondents' fasteners is supported by adequate testing or measurement, and thus I give it little weight.</sentence>
 <sentence id="s268">51 In short, I find that ITW failed to establish to the requisite standard that there is a taper in the respondents' screw--however defined, described, or measured--that performs any function at all, much less the same function as performed by the taper described in the patent in suit and embodied in the Zips screw, namely that of pulling the screw into the wood.</sentence>
 <sentence id="s269">52 Having found as a matter of fact that whatever microscopic taper may exist in the respondents' screws conveys no functional advantage, it remains to consider the legal significance of that finding.</sentence>
-<sentence id="s270">In Improver Corporation v Remington Consumer Products Ltd [1990] FSR 181 , 189 Lord Hoffman, elaborating on the purposive approach to patent construction outlined by Lord Diplock in Catnic Components Ltd v Hill &amp; Smith Ltd [1982] RPC 183 , 242 identified a set of three questions to serve as guidelines in determining whether a skilled addressee of a patent in suit would understand a subsequent product as infringing the claims of a patent.</sentence>
-<sentence id="s271">These questions are equally applicable under the Australian legislation: Sachtler GMBH &amp; Co KG v RE Miller Pty Ltd (2005) 65 IPR 605 , 613-614.</sentence>
+<sentence id="s270">In Improver Corporation v Remington Consumer Products Ltd [1990] FSR 181 , 189 Lord Hoffman, elaborating on the purposive approach to patent construction outlined by Lord Diplock in Catnic Components Ltd v Hill &amp;amp; Smith Ltd [1982] RPC 183 , 242 identified a set of three questions to serve as guidelines in determining whether a skilled addressee of a patent in suit would understand a subsequent product as infringing the claims of a patent.</sentence>
+<sentence id="s271">These questions are equally applicable under the Australian legislation: Sachtler GMBH &amp;amp; Co KG v RE Miller Pty Ltd (2005) 65 IPR 605 , 613-614.</sentence>
 <sentence id="s272">53 Most relevant for present purposes is the rule of thumb that a variant that has a material effect on the way an invention works will be deemed not to infringe: Improver Corporation [1990] FSR at 189.</sentence>
 <sentence id="s273">Because the microscopic taper of the respondents' screws serves no useful purpose and because the respondents' screws fasten metal to timber by a different mechanism, the respondents argue their screws are a materially different variant from the Zips screw described in claim 1 as possessing the essential feature of a tapered shank.</sentence>
 <sentence id="s274">54 I should emphasize that the rule of thumb described in Improver and relied on by the respondents is just that--a guideline to aid in implementing the purposive approach to patent construction rather than a legal test in itself.</sentence>

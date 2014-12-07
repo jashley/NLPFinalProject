@@ -3,11 +3,11 @@
 <name>Clark v Commissioner of Taxation [2009] FCA 1401 (30 November 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1401.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">consideration of whether the taxpayer has established on the balance of probabilities that the trustee of the trust estate acquired shares in rothwells limited in 1988</catchphrase>
-<catchphrase "id=c1">consideration of an event of disposal of the shares in the 1993 income year</catchphrase>
-<catchphrase "id=c2">consideration of whether the trust estate that made a capital gain in the 2001 income year was, as a question of continuity, the trust estate that suffered the capital loss in the 1993 income year</catchphrase>
-<catchphrase "id=c3">consideration of whether contended changes in the trust fund; the trustee's interest in the trust estate; and the interests of beneficiaries under the trust deed, brought about a break in continuity between the trust estate that made the capital gain in the 2001 income year and that which suffered the capital loss in the 1993 income year</catchphrase>
-<catchphrase "id=c4">taxation</catchphrase>
+<catchphrase id="c0">consideration of whether the taxpayer has established on the balance of probabilities that the trustee of the trust estate acquired shares in rothwells limited in 1988</catchphrase>
+<catchphrase id="c1">consideration of an event of disposal of the shares in the 1993 income year</catchphrase>
+<catchphrase id="c2">consideration of whether the trust estate that made a capital gain in the 2001 income year was, as a question of continuity, the trust estate that suffered the capital loss in the 1993 income year</catchphrase>
+<catchphrase id="c3">consideration of whether contended changes in the trust fund; the trustee's interest in the trust estate; and the interests of beneficiaries under the trust deed, brought about a break in continuity between the trust estate that made the capital gain in the 2001 income year and that which suffered the capital loss in the 1993 income year</catchphrase>
+<catchphrase id="c4">taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -449,7 +449,7 @@
 <sentence id="s330">The agreement recites that Mr Denoon has considerable skill, expertise and experience in the management, administration and marketing of development projects and by cl 2 of the agreement, CEPL acknowledged that it wished to take advantage of that skill and expertise by entering into the agreement for the acquisition of the services.</sentence>
 <sentence id="s331">Mr Clark's evidence
  In Mr Clark's principal affidavit filed 29 August 2008, he explains the sequence of transactions reflected in the documents described at [45] to [76] of these reasons.</sentence>
-<sentence id="s332">He says that upon CEPL's appointment as trustee of the CU Trust, a number of documents were delivered into its possession as trustee including the trust deed; unit register; all minutes of meetings of the trustees; unit certificates; a Deed of Assignment of Debt from John Denoon &amp; Associates Pty Ltd to Carringbush dated 25 May 1993; a Deed of Assignment of Debt from Carringbush Corporation to Carringbush as trustee of the CU Trust dated 26 May 1993; Notice of Resignation of Carringbush as Trustee dated 26 May 1993; Letter of Agreement between Carringbush and Carringbush Corporation for the sale of the Rothwells shares; and a Notice of Extraordinary General Meeting of the CU Trust unitholders dated 26 May 1993 to approve Carringbush's resignation as trustee and the appointment of CEPL.</sentence>
+<sentence id="s332">He says that upon CEPL's appointment as trustee of the CU Trust, a number of documents were delivered into its possession as trustee including the trust deed; unit register; all minutes of meetings of the trustees; unit certificates; a Deed of Assignment of Debt from John Denoon &amp;amp; Associates Pty Ltd to Carringbush dated 25 May 1993; a Deed of Assignment of Debt from Carringbush Corporation to Carringbush as trustee of the CU Trust dated 26 May 1993; Notice of Resignation of Carringbush as Trustee dated 26 May 1993; Letter of Agreement between Carringbush and Carringbush Corporation for the sale of the Rothwells shares; and a Notice of Extraordinary General Meeting of the CU Trust unitholders dated 26 May 1993 to approve Carringbush's resignation as trustee and the appointment of CEPL.</sentence>
 <sentence id="s333">The applicants contend that CEPL's assumption of possession of these trust administration documents is consistent with the continuing operation of the CU Trust under the governance of CEPL.</sentence>
 <sentence id="s334">As to that, Mr Clark says that in entering into the arrangements of 24 June 1993, he "had no intention of ending the [CU Trust] or creating any new trust.</sentence>
 <sentence id="s335">To the contrary my intention was that the [CU Trust] would continue in existence".</sentence>
@@ -821,7 +821,7 @@ Dated: 30 November 2009
  
  Counsel for the Applicants: Mr M Robertson 
  
- Solicitor for the Applicants: Ernst &amp; Young, Law 
+ Solicitor for the Applicants: Ernst &amp;amp; Young, Law 
  
  Counsel for the Respondent: Mr S Couper SC with Ms M Brennan 
  

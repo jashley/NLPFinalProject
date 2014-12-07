@@ -3,13 +3,13 @@
 <name>Romanin v The Commissioner of Taxation [2008] FCA 1532 (16 October 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1532.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">deductions</catchphrase>
-<catchphrase "id=c1">legal expenses incurred in proceedings instituted to recover income contractually due</catchphrase>
-<catchphrase "id=c2">whether outgoings allowable deductions under s 8-1 of the income tax assessment act 1997 (cth)</catchphrase>
-<catchphrase "id=c3">whether outgoings incurred in gaining or producing assessable income</catchphrase>
-<catchphrase "id=c4">whether outgoings capital in nature</catchphrase>
-<catchphrase "id=c5">application of penalty tax</catchphrase>
-<catchphrase "id=c6">income taxation</catchphrase>
+<catchphrase id="c0">deductions</catchphrase>
+<catchphrase id="c1">legal expenses incurred in proceedings instituted to recover income contractually due</catchphrase>
+<catchphrase id="c2">whether outgoings allowable deductions under s 8-1 of the income tax assessment act 1997 (cth)</catchphrase>
+<catchphrase id="c3">whether outgoings incurred in gaining or producing assessable income</catchphrase>
+<catchphrase id="c4">whether outgoings capital in nature</catchphrase>
+<catchphrase id="c5">application of penalty tax</catchphrase>
+<catchphrase id="c6">income taxation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -78,11 +78,11 @@
 <sentence id="s40">15 The Commission ordered the Co-op to pay to Mr Romanin the sum of $202,829.90.</sentence>
 <sentence id="s41">16 The subsequent orders made in accordance with the Commission's judgment show that amount was made up as follows:
  
-&#8226; 12 months remuneration in the sum of $287,460 less the earnings referred to, leaving a balance of $142,476.49;
+&amp;#8226; 12 months remuneration in the sum of $287,460 less the earnings referred to, leaving a balance of $142,476.49;
  
-&#8226; interest on that sum to 27 February 2004 totalling $60,353.41;
+&amp;#8226; interest on that sum to 27 February 2004 totalling $60,353.41;
  
-&#8226; an award of costs in his favour in connection with the proceedings in the Commission (excluding the costs awarded against Mr Romanin apparently arising from a motion to dismiss counsel).</sentence>
+&amp;#8226; an award of costs in his favour in connection with the proceedings in the Commission (excluding the costs awarded against Mr Romanin apparently arising from a motion to dismiss counsel).</sentence>
 <sentence id="s42">MR ROMANIN'S TAX RETURN 
  
 17 In February 2004, Mr Romanin was advised by his solicitors that the sum received from the Commission totalling $202,829.90 should be treated as an early termination payment.</sentence>
@@ -100,15 +100,15 @@
 <sentence id="s52">As a result he was out of pocket $73,565.14 comprising $43,000 for the Co-op's costs of the motion to dismiss counsel and $30,565.14 being the difference of party and party costs and indemnity costs for the period up to the motion to dismiss.</sentence>
 <sentence id="s53">20 The Co-op legal expenses claimed by Mr Romanin in his tax returns for the years ended 30 June 2000 through to 2004 consistent with the sums actually incurred were the following:
  
-&#8226; 30 June 2000 $6,824.45
+&amp;#8226; 30 June 2000 $6,824.45
  
-&#8226; 30 June 2001 $22,397.85
+&amp;#8226; 30 June 2001 $22,397.85
  
-&#8226; 30 June 2002 $29,044.88
+&amp;#8226; 30 June 2002 $29,044.88
  
-&#8226; 30 June 2003 $32,905.26
+&amp;#8226; 30 June 2003 $32,905.26
  
-&#8226; 30 June 2004 $192,392.70
+&amp;#8226; 30 June 2004 $192,392.70
  
 21 In 2006, the Commissioner conducted an audit of Mr Romanin and concluded that the claimed legal expenses were not allowable deductions.</sentence>
 <sentence id="s54">The Commissioner also contended that Mr Romanin lacked reasonable care under s 226G of the Income Tax Assessment Act 1936 (Cth) when claiming the outgoings and imposed additional tax by way of penalty in the amount of a 25% shortfall.</sentence>
@@ -224,7 +224,7 @@ under a provision listed in section 20-30.</sentence>
  For expenditure to form an allowable deduction as an outgoing incurred in gaining or producing the assessable income it must be incidental and relevant to that end.</sentence>
 <sentence id="s91">The words "incurred in [1949] HCA 15 ; (1949) 78 CLR 47 at 57 gaining or producing the assessable income" mean in the course of gaining or producing such income.</sentence>
 <sentence id="s92">Their operation has been explained in cases decided under the provisions of the previous enactments: see particularly Amalgamated Zinc (de Bavay's) Ltd. v. Federal Commissioner of Taxation , at pp.</sentence>
-<sentence id="s93">303-304, 307, 309, 310 and W. Nevill &amp; Co. Ltd. v. Federal Commissioner of Taxation.</sentence>
+<sentence id="s93">303-304, 307, 309, 310 and W. Nevill &amp;amp; Co. Ltd. v. Federal Commissioner of Taxation.</sentence>
 <sentence id="s94">(footnotes omitted) (emphasis added) 
  35 In Day 164 FCR 250 (at [91]), Edmonds J stated: 
  The test as articulated and confirmed in Payne --- that the deductibility of expenditure will turn on whether the expenditure is incurred in the course of gaining or producing the assessable income --- may be readily applied to disenfranchise expenditure incurred on travel and accommodation between two different sources of income: see Payne at [14].</sentence>
@@ -265,14 +265,14 @@ under a provision listed in section 20-30.</sentence>
 <sentence id="s123">25.</sentence>
 <sentence id="s124">The positive element is satisfied if the outgoing "has an effect in gaining or producing income" ( Amalgamated Zinc (De Bavay's) Ltd v Federal Commissioner of Taxation (1935) 54 CLR 295 at 303 per Latham CJ) and, in applying the test, "[a] very wide application should be given to the expression `incurred in gaining or producing the assessable income'" (at 309 per Dixon J).</sentence>
 <sentence id="s125">26.</sentence>
-<sentence id="s126">The character of an outgoing in terms of this test "can be determined only in relation to the object which the person making the expenditure has in view": W Nevill &amp; Company Ltd v Federal Commissioner of Taxation [1937] HCA 9 ; (1937) 56 CLR 290 at 301 per Latham CJ.</sentence>
+<sentence id="s126">The character of an outgoing in terms of this test "can be determined only in relation to the object which the person making the expenditure has in view": W Nevill &amp;amp; Company Ltd v Federal Commissioner of Taxation [1937] HCA 9 ; (1937) 56 CLR 290 at 301 per Latham CJ.</sentence>
 <sentence id="s127">In that case, the purpose was the conduct of a business on a profitable basis.</sentence>
 <sentence id="s128">27.</sentence>
 <sentence id="s129">In my judgment, the objective purpose of defending the first charges before the Disciplinary Appeal Committee, and the related judicial review and appeal proceedings in the Federal Court, was to protect the respondent from the consequences specified under s 62(6) of the Public Service Act , or to diminish their severity.</sentence>
 <sentence id="s130">28.</sentence>
 <sentence id="s131">The purpose was, therefore, to seek to protect the respondent's recurrent employment income from diminution or loss, or other adverse impact.</sentence>
 <sentence id="s132">29.</sentence>
-<sentence id="s133">In Herald &amp; Weekly Times Ltd v Federal Commissioner of Taxation (1932) 48 CLR 113 at 118, Gavin Duffy CJ and Dixon J said:
+<sentence id="s133">In Herald &amp;amp; Weekly Times Ltd v Federal Commissioner of Taxation (1932) 48 CLR 113 at 118, Gavin Duffy CJ and Dixon J said:
  
  The question whether money is expended in and for the production of assessable income cannot be determined by considering only the immediate reason for making a payment and ignoring the purpose with which the liability was incurred.</sentence>
 <sentence id="s134">30.</sentence>
@@ -365,7 +365,7 @@ Dated: 16 October 2008
 
  Counsel for the Applicant: D Romano with N Graskoski 
  
- Solicitor for the Applicant: Wilson &amp; Atkinson 
+ Solicitor for the Applicant: Wilson &amp;amp; Atkinson 
  
  Counsel for the Respondent: LB Price 
  

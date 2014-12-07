@@ -3,17 +3,17 @@
 <name>Sunnyfield Association v Cronk [2009] FCA 33 (28 January 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/33.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">patents</catchphrase>
-<catchphrase "id=c1">appeal from a determination of the commissioner of patents</catchphrase>
-<catchphrase "id=c2">what constitutes 'fair basing' for the purpose of determining priority dates</catchphrase>
-<catchphrase "id=c3">whether the claims are invalid for lack of novelty</catchphrase>
-<catchphrase "id=c4">interpretation of patent applications</catchphrase>
-<catchphrase "id=c5">the use that may be made of accompanying drawings when interpreting a patent</catchphrase>
-<catchphrase "id=c6">the meaning of 'substantially orthogonal'- whether the inclusion of a particular embodiment or preferred form of an invention in a patent acts as a limiting consideration to confine the specification, or whether alternative embodiments are available</catchphrase>
-<catchphrase "id=c7">divisional application prior to the grant of a patent</catchphrase>
-<catchphrase "id=c8">what amendments of a specification are allowable under the patent act 1900</catchphrase>
-<catchphrase "id=c9">whether sufficient disclosure has been provided</catchphrase>
-<catchphrase "id=c10">intellectual property</catchphrase>
+<catchphrase id="c0">patents</catchphrase>
+<catchphrase id="c1">appeal from a determination of the commissioner of patents</catchphrase>
+<catchphrase id="c2">what constitutes 'fair basing' for the purpose of determining priority dates</catchphrase>
+<catchphrase id="c3">whether the claims are invalid for lack of novelty</catchphrase>
+<catchphrase id="c4">interpretation of patent applications</catchphrase>
+<catchphrase id="c5">the use that may be made of accompanying drawings when interpreting a patent</catchphrase>
+<catchphrase id="c6">the meaning of 'substantially orthogonal'- whether the inclusion of a particular embodiment or preferred form of an invention in a patent acts as a limiting consideration to confine the specification, or whether alternative embodiments are available</catchphrase>
+<catchphrase id="c7">divisional application prior to the grant of a patent</catchphrase>
+<catchphrase id="c8">what amendments of a specification are allowable under the patent act 1900</catchphrase>
+<catchphrase id="c9">whether sufficient disclosure has been provided</catchphrase>
+<catchphrase id="c10">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -55,9 +55,9 @@
 <sentence id="s32">PRINCIPLES 
  The appeal is brought pursuant to s 60(4) of the Act and is a hearing de novo.</sentence>
 <sentence id="s33">Under s 105 the Court has power to direct the amendment of the patent application to afford an opportunity to the applicant to propose amendments to overcome any objections which may be found have been made out.</sentence>
-<sentence id="s34">As a hearing de novo the evidence to be considered is that adduced by the parties during the hearing and admitted by the Court, but it is appropriate that the Court give due attention to the views expressed by the Commissioner's delegate where the issues call for the exercise of technical knowledge and experience on the part of the delegate: see EI Dupont De Nemours &amp; Co v ICI Chemicals &amp; Polymers Ltd [2003] FCA 291 ; (2003) 128 FCR 392 at [28] .</sentence>
+<sentence id="s34">As a hearing de novo the evidence to be considered is that adduced by the parties during the hearing and admitted by the Court, but it is appropriate that the Court give due attention to the views expressed by the Commissioner's delegate where the issues call for the exercise of technical knowledge and experience on the part of the delegate: see EI Dupont De Nemours &amp;amp; Co v ICI Chemicals &amp;amp; Polymers Ltd [2003] FCA 291 ; (2003) 128 FCR 392 at [28] .</sentence>
 <sentence id="s35">The burden of proof rests with the opponent to satisfy the Court that the patent, if granted, would not be valid.</sentence>
-<sentence id="s36">The relevant construction principles in relation to patents are set out in D&eacute;cor Corporation Pty Ltd v Dart Industries Inc (1988) 13 IPR 385 at 391.</sentence>
+<sentence id="s36">The relevant construction principles in relation to patents are set out in D&amp;eacute;cor Corporation Pty Ltd v Dart Industries Inc (1988) 13 IPR 385 at 391.</sentence>
 <sentence id="s37">It is common ground that it is appropriate for drawings or diagrams, where they form part of a specification, to be taken into account in construing the specification and when considering the claims: see CCOM Pty Ltd v Jiejing Pty Ltd [1994] FCA 1168 ; (1994) 51 FCR 260 at 284.</sentence>
 <sentence id="s38">In that decision there is a detailed consideration of the principles relating to fair basing and the necessity for real and reasonably clear disclosure.</sentence>
 <sentence id="s39">Drawings are important in the present case because the specifications direct attention to the accompanying figures to assist with an understanding of the general disclosures made in the body of the document.</sentence>
@@ -76,7 +76,7 @@
  Their Honours in Lockwood also emphasised that the reference to a real and reasonably clear disclosure served the function of compelling attention to the construction of the specification as a whole putting aside particular parts which although in isolation might appear to point against the real disclosure are in truth only loose or stray remarks.</sentence>
 <sentence id="s50">The observations of Gummow J in Rehm point to a broader rather than a narrow approach in considering the question of real and reasonably clear disclosure.</sentence>
 <sentence id="s51">In CCOM the Full Federal Court warned against seeking to resolve the issue of fair basing by an overly meticulous verbal analysis as if the question was whether one statute operated in the same field as another and it confirmed, as well as established, that a claim may be fairly based on matter in a specification which is not a verbal description but can be disclosed by accompanying drawings as read by a skilled addressee.</sentence>
-<sentence id="s52">See also Anaesthetic Supplies Pty Ltd v Rescare Ltd (1994) 50 FCR 1 at 20; ICI Chemicals &amp; Polymers Ltd v Lubrizol Corp [1999] FCA 1417 at [35] - [36] and Gambro Pty Ltd v Fresenius Medial Care South East Asia Pty Ltd [1999] FCA 1848 ; (1999) 48 IPR 625 at [25] - [30] .</sentence>
+<sentence id="s52">See also Anaesthetic Supplies Pty Ltd v Rescare Ltd (1994) 50 FCR 1 at 20; ICI Chemicals &amp;amp; Polymers Ltd v Lubrizol Corp [1999] FCA 1417 at [35] - [36] and Gambro Pty Ltd v Fresenius Medial Care South East Asia Pty Ltd [1999] FCA 1848 ; (1999) 48 IPR 625 at [25] - [30] .</sentence>
 <sentence id="s53">I now turn to consider the appeals.</sentence>
 <sentence id="s54">DELEGATE'S FIRST DECISION --- PA 716550 AS AMENDED 
  The question raised is whether the claims of Amended PA 716550 are fairly based on the disclosure contained in PA 64800/94.</sentence>

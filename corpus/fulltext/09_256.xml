@@ -3,15 +3,15 @@
 <name>Deckers Outdoor Corporation Inc. v Farley (No 2) [2009] FCA 256 (24 March 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/256.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for summary judgment made under s 31a of the federal court of australia act 1976 (cth)</catchphrase>
-<catchphrase "id=c1">whether defences had no reasonable prospects of success</catchphrase>
-<catchphrase "id=c2">defences to allegation of trade mark infringement could not succeed</catchphrase>
-<catchphrase "id=c3">defences to allegations of copyright infringement, passing off, and contraventions of the fair trading act 1999 (vic) and the trade practices act 1974 (cth) raised questions of fact to be determined at trial</catchphrase>
-<catchphrase "id=c4">application successful in part.</catchphrase>
-<catchphrase "id=c5">whether marks appearing on the respondents' products were deceptively similar to the applicant's trade mark</catchphrase>
-<catchphrase "id=c6">whether cancellation of registered trade mark under s 88 of the trade marks act 1955 (cth) could operate retrospectively.</catchphrase>
-<catchphrase "id=c7">practice and procedure</catchphrase>
-<catchphrase "id=c8">intellectual property</catchphrase>
+<catchphrase id="c0">application for summary judgment made under s 31a of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase id="c1">whether defences had no reasonable prospects of success</catchphrase>
+<catchphrase id="c2">defences to allegation of trade mark infringement could not succeed</catchphrase>
+<catchphrase id="c3">defences to allegations of copyright infringement, passing off, and contraventions of the fair trading act 1999 (vic) and the trade practices act 1974 (cth) raised questions of fact to be determined at trial</catchphrase>
+<catchphrase id="c4">application successful in part.</catchphrase>
+<catchphrase id="c5">whether marks appearing on the respondents' products were deceptively similar to the applicant's trade mark</catchphrase>
+<catchphrase id="c6">whether cancellation of registered trade mark under s 88 of the trade marks act 1955 (cth) could operate retrospectively.</catchphrase>
+<catchphrase id="c7">practice and procedure</catchphrase>
+<catchphrase id="c8">intellectual property</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -161,7 +161,7 @@
 <sentence id="s133">During the 12 December 2007 search he observed that there were approximately 200 pairs of finished and partly constructed sheepskin footwear marked with the UGG logo, the word "australia" and the sun device on the premises.</sentence>
 <sentence id="s134">On the heels there was a cloth label on which the letters UGG appeared above the word "australia".</sentence>
 <sentence id="s135">On the soles the letters "UGG" appeared next to the sun logo.</sentence>
-<sentence id="s136">Adjacent to the letters "UGG" on both the heels and the soles appeared the symbol &reg;.</sentence>
+<sentence id="s136">Adjacent to the letters "UGG" on both the heels and the soles appeared the symbol &amp;reg;.</sentence>
 <sentence id="s137">This is the recognised symbol which the registered owner of a trade mark in Australia is entitled to place next to representations of its registered mark: cf s 151(5) of the Trade Marks Act .</sentence>
 <sentence id="s138">Mr Josef Vaysman admitted in cross-examination that he was in charge of the Moorabbin factory when Mr Watson attended.</sentence>
 <sentence id="s139">Mr Vaysman also admitted that UGG branded footwear was manufactured at the Moorabbin factory.</sentence>
@@ -185,11 +185,11 @@
 <sentence id="s157">They contend that the mark, absent the sun device, cannot be deceptively similar to the registered trade mark.</sentence>
 <sentence id="s158">Similarly it is said that the sun device, appearing separately, cannot be regarded as being deceptively similar to the registered mark.</sentence>
 <sentence id="s159">In order to determine whether the marks appearing on the boots manufactured by the Vaysmans and on the boxes, pamphlets and cards were deceptively similar to the registered trade mark it is necessary for the Court to have regard to all of the surrounding circumstances, including the circumstances in which the marks were used, the circumstances in which the goods were bought and sold and the characteristics of the persons who might be expected to be purchasers of the footwear: see Registrar of Trade Marks v Woolworths Ltd [1999] FCAFC 1020 ; (1999) 93 FCR 365 at 383.</sentence>
-<sentence id="s160">A visual comparison of word marks is necessary but not decisive: Wingate Marketing Pty Limited v Levi Strauss &amp; Co (1994) 49 FCR 89 at 104-5.</sentence>
+<sentence id="s160">A visual comparison of word marks is necessary but not decisive: Wingate Marketing Pty Limited v Levi Strauss &amp;amp; Co (1994) 49 FCR 89 at 104-5.</sentence>
 <sentence id="s161">In making the comparison the Court is concerned to form a judgment about whether there is a real risk that customers might be confused as to the provenance of the goods on the assumption that the customers may have only an "imperfect recollection" of the registered mark: see Pioneer Hi-Bred Corn Co v Hy-Line Chicks Pty Ltd [1979] RPC 410 at 423; Re Rysta Ltd's Application, (1943) 60 RPC 87 at 108.</sentence>
 <sentence id="s162">See generally: Shanahan's Australian Law of Trade Marks and Passing Off (4 th ed) at 253-265.</sentence>
 <sentence id="s163">Victoria Vaysman and Samba Enterprises Pty Ltd submit that, where an element or feature of a trade mark is "inherently non distinctive" or lacks "any capacity to distinguish", that feature, appearing alone, will not attract statutory protection.</sentence>
-<sentence id="s164">This is particularly the case, so it was contended, where the element is a word: see Sports Break Travel Pty Ltd v P &amp; O Holidays Ltd (2000) 50 IPR 51; [2000] FCA 924 at [23] .</sentence>
+<sentence id="s164">This is particularly the case, so it was contended, where the element is a word: see Sports Break Travel Pty Ltd v P &amp;amp; O Holidays Ltd (2000) 50 IPR 51; [2000] FCA 924 at [23] .</sentence>
 <sentence id="s165">These submissions may have had some attraction had the word "australia" appeared separately on the boots or elsewhere.</sentence>
 <sentence id="s166">It did not.</sentence>
 <sentence id="s167">Wherever it appeared it appeared in lower case under the capital letters "UGG" (with the middle G larger than either of the other two letters) and, on the boots, and the boxes closely adjacent to the sun device.</sentence>
@@ -210,7 +210,7 @@ This passage was quoted with approval by the Full Court in Crazy Ron's Communica
  Having regard to the whole of the circumstances (including a visual comparison of the registered trade mark with the devices appearing on the products manufactured and/or distributed by the Respondents), I am left in no doubt that there exists a real likelihood of confusion and deception as to the provenance of the boots.</sentence>
 <sentence id="s175">There is a remarkable visual similarity between the lettering and other parts of the registered trade mark and the marks used by the Respondents.</sentence>
 <sentence id="s176">The impression created and, in my view, intended to be created, is that the boots were manufactured by Deckers, the owner of the registered trade mark.</sentence>
-<sentence id="s177">This conclusion is further supported by the use of the symbol &reg; next to the letters UGG.</sentence>
+<sentence id="s177">This conclusion is further supported by the use of the symbol &amp;reg; next to the letters UGG.</sentence>
 <sentence id="s178">This is plainly an attempt to suggest that the boots had been manufactured by the owner of the registered trade mark.</sentence>
 <sentence id="s179">The six Respondents also claim that registered trade mark number 785466 has wrongly remained on the Register of Trade Marks at relevant times and that it should be cancelled for various reasons which appear in the Cross-Claim of Vladimir Vaysman, Hepbourne Pty Ltd and the Vaysmans.</sentence>
 <sentence id="s180">They rely on s 88 of the Trade Marks Act which relevantly provides: 
@@ -240,7 +240,7 @@ The Vaysmans, Victoria Vaysman and Samba Enterprises Pty Ltd contend that there 
 <sentence id="s188">There are good reasons why the cancellation of the registration of a trade mark should only operate prospectively.</sentence>
 <sentence id="s189">Were it otherwise the integrity of the Register would be compromised.</sentence>
 <sentence id="s190">Those who rely on it to determine whether or not a particular trade mark was registered and protected under the Trade Marks Act could not be certain that a particular registration might not subsequently be cancelled to their detriment.</sentence>
-<sentence id="s191">Such considerations influenced the decision of Flick J in E. &amp; J. Gallo Winery v Lion Nathan Pty Limited (No 2) (2008) 78 IPR 334 ; [2008] FCA 1005.</sentence>
+<sentence id="s191">Such considerations influenced the decision of Flick J in E. &amp;amp; J. Gallo Winery v Lion Nathan Pty Limited (No 2) (2008) 78 IPR 334 ; [2008] FCA 1005.</sentence>
 <sentence id="s192">In that case his Honour had determined to exercise the power conferred on the Court by s 101(2) of the Trade Marks Act to direct the Registrar to remove a trade mark from the register on the ground of non-use.</sentence>
 <sentence id="s193">The parties disagreed as to whether the order for removal should operate prospectively or should be made effective from an earlier date on which the 3 year non-use period had concluded.</sentence>
 <sentence id="s194">His Honour determined that the order should operate prospectively.</sentence>
@@ -303,7 +303,7 @@ The Vaysmans, Victoria Vaysman and Samba Enterprises Pty Ltd contend that there 
 <sentence id="s247">There are, however, other issues which, in my view, give rise to factual disputes which should be resolved at trial.</sentence>
 <sentence id="s248">Deckers correctly points out that it does not contend that the words UGG australia constitute a literary work.</sentence>
 <sentence id="s249">They do, however, submit that the sun device and the Ugg australia logo (which includes the sun device) have sufficient substance to constitute a work in which copyright can subsist for purposes of s 32 of the Copyright Act .</sentence>
-<sentence id="s250">They rely on the decision of Pincus J in Roland Corporation v Lorenzo &amp; Sons Pty Ltd [1991] FCA 617 ; (1991) 33 FCR 111.</sentence>
+<sentence id="s250">They rely on the decision of Pincus J in Roland Corporation v Lorenzo &amp;amp; Sons Pty Ltd [1991] FCA 617 ; (1991) 33 FCR 111.</sentence>
 <sentence id="s251">One of the issues in Roland Corporation was whether or not there could be copyright in two devices --- one which bore some resemblance to the letter "R" and one which bore some resemblance to a lower case letter 'b'.</sentence>
 <sentence id="s252">Pincus J rejected a submission by the Respondent that copyright could not subsist in the devices because they were "merely depictions of single letters.</sentence>
 <sentence id="s253">" In doing so his Honour drew a distinction between simple letters and careful representations of letters in the form of a device.</sentence>
@@ -432,7 +432,7 @@ see Vieright Pty Ltd v Myer Stores Ltd (1995) 31 IPR 361 at 369 and TGI Friday's
 <sentence id="s307">In some cases it will be appropriate to reason that a deliberate decision, by a person, to adopt the brand name or get-up used by a competitor, has been taken because the brand name or get-up is well and favourably known in the market place and that there is a public awareness that the competitor is the manufacturer of the goods in question.</sentence>
 <sentence id="s308">This, in turn, may support an inference that the use of the brand name or get-up is likely to mislead the public.</sentence>
 <sentence id="s309">In Australian Woollen Mills Ltd v F.S.</sentence>
-<sentence id="s310">Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 657 Dixon and McTiernan JJ said: 
+<sentence id="s310">Walton &amp;amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 657 Dixon and McTiernan JJ said: 
  "But the examination made of the respondent's motives and good faith seems to us to leave the question of infringement and passing off very much in the same position as it stood in without it.</sentence>
 <sentence id="s311">The rule that if a mark or get-up for goods is adopted for the purpose of appropriating part of the trade or reputation of a rival, it should be presumed to be fitted for the purpose and therefore likely to deceive or confuse, no doubt, is as just in principle as it is wholesome in tendency.</sentence>
 <sentence id="s312">In a question how possible or prospective buyers will be impressed by a given picture, word or appearance, the instinct and judgment of traders is not to be lightly rejected, and when a dishonest trader fashions an implement or weapon for the purpose of misleading potential customers he at least provides a reliable and expert opinion on the question whether what he has done is in fact likely to deceive.</sentence>

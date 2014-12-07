@@ -3,12 +3,12 @@
 <name>Tamawood Limited (ACN 010 954 499) v Habitare Developments Pty Ltd (ACN 122 935 497) (includes corrigendum dated 21 April 2009) [2009] FCA 364 (20 April 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/364.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">order 27a federal court rules</catchphrase>
-<catchphrase "id=c1">third party subpoena</catchphrase>
-<catchphrase "id=c2">notice of motion seeking subpoenas related to interlocutory application to join other parties as respondents to substantive proceedings</catchphrase>
-<catchphrase "id=c3">factors relevant to discretion whether to grant leave</catchphrase>
-<catchphrase "id=c4">whether fishing expedition</catchphrase>
-<catchphrase "id=c5">practice and procedure</catchphrase>
+<catchphrase id="c0">order 27a federal court rules</catchphrase>
+<catchphrase id="c1">third party subpoena</catchphrase>
+<catchphrase id="c2">notice of motion seeking subpoenas related to interlocutory application to join other parties as respondents to substantive proceedings</catchphrase>
+<catchphrase id="c3">factors relevant to discretion whether to grant leave</catchphrase>
+<catchphrase id="c4">whether fishing expedition</catchphrase>
+<catchphrase id="c5">practice and procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -48,7 +48,7 @@
 <sentence id="s26">The first affidavit of Mr Castrission was sworn 17 November 2008.</sentence>
 <sentence id="s27">The second affidavit of Mr Castrission, to which I have already referred, was sworn 25 November 2008.</sentence>
 <sentence id="s28">So far as relevant in these proceedings, annexed to Mr Castrission's first affidavit are the following documents: Annexure D, which is titled "Development Application Decision Notice" under the letterhead of Express Plans Approval Services Pty Ltd. Mr Castrission deposes that Annexure D is a document obtained by an employee of the applicant pursuant to searches made with the Brisbane City Council.</sentence>
-<sentence id="s29">The Development Application Decision Notice is in respect of "Lot 4 &amp; 5 on RP 78240 known also as (address) 211-219 Norris Road, Bracken Ridge".</sentence>
+<sentence id="s29">The Development Application Decision Notice is in respect of "Lot 4 &amp;amp; 5 on RP 78240 known also as (address) 211-219 Norris Road, Bracken Ridge".</sentence>
 <sentence id="s30">The "Owner" noted on the notice is " Habitare Pty Ltd ".</sentence>
 <sentence id="s31">Annexure E, which is an ASIC search of Habitare Pty Ltd.</sentence>
 <sentence id="s32">The search reveals Peter Frederick O'Mara (the third respondent) as the company's director and David Gavin Johnson (the fourth respondent) as the alternate director.</sentence>
@@ -73,10 +73,10 @@ It is...your client that must prove those details in order to support the allega
 <sentence id="s44">Annexed to Mr Castrission's second affidavit are the following documents: Annexure A, which is described in the affidavit as an "Engagement Form".</sentence>
 <sentence id="s45">Mr Castrission deposes this form relates to the development the subject of these proceedings, and that the form was obtained by a representative of the applicant from the Brisbane City Council pursuant to a freedom of information request.</sentence>
 <sentence id="s46">The Engagement Form records the relevant applicant/contact as Habitare Pty Ltd.</sentence>
-<sentence id="s47">I note from examining Annexure A that: it is under the letterhead of Certis Pty Ltd; it not only describes the applicant/contact as Habitare Pty Ltd, but nominates Habitare Pty Ltd as the addressee of any invoice; the "project details" are described as 40 townhouses at 40-46 Hamish St Calamvale, Lots 12 &amp; 13, RP 96255 , total value of building work $4.3m estimate.</sentence>
+<sentence id="s47">I note from examining Annexure A that: it is under the letterhead of Certis Pty Ltd; it not only describes the applicant/contact as Habitare Pty Ltd, but nominates Habitare Pty Ltd as the addressee of any invoice; the "project details" are described as 40 townhouses at 40-46 Hamish St Calamvale, Lots 12 &amp;amp; 13, RP 96255 , total value of building work $4.3m estimate.</sentence>
 <sentence id="s48">Annexure B, which Mr Castrission deposes are a number of various plans relating to the development the subject of these proceedings.</sentence>
 <sentence id="s49">Mr Castrission deposes further that some of these plans record that the first respondent is the client and other plans show "Habitare" as the client, and that these plans were obtained by a representative of the applicant from the Brisbane City Council pursuant to a freedom of information request.</sentence>
-<sentence id="s50">I note from examining Annexure B that: it consists of 17 pages; one page is headed "PROPOSED RESIDENTIAL DEVELOPMENT --- 47 UNITS 211 &amp; 219 NORRIS ROAD BRACKEN RIDGE (CIVIL WORKS CONTRACT) FOR Eight March Pty Ltd (Community Title)"; four pages, described respectively as "floor plan", "elevation", "slab plan" and "N2 framing plan", all related to Duplex B, Lots 4 &amp; 5, Norris Road Bracken Ridge, and in relation to which the client is named as the first respondent; two pages described respectively as "ground floor" and "elevation", both related to Duplex A, Lots 4 &amp; 5, Norris Road Bracken Ridge, and in relation to which the client is named as simply "Habitare"; two pages described respectively as "manager plans" and "manager elevation", both relating to Lots 4 &amp; 5, Norris Road Bracken Ridge, and in relation to which the client is named as simply "Habitare"; two pages described respectively as "elevation" and "floor plan", both relating to Lots 12 &amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; two pages described respectively as "elevation" and "floor plan", both relating to Duplex 2, Lots 12 &amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; one page described as "elevation" Duplex 3 Lots 12 &amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; one page described as "House 2" Lots 12 &amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; one page described as "Duplex 3 --- Plan" Lots 12 &amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; one page described as "Site Plan" Lots 12 &amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare".</sentence>
+<sentence id="s50">I note from examining Annexure B that: it consists of 17 pages; one page is headed "PROPOSED RESIDENTIAL DEVELOPMENT --- 47 UNITS 211 &amp;amp; 219 NORRIS ROAD BRACKEN RIDGE (CIVIL WORKS CONTRACT) FOR Eight March Pty Ltd (Community Title)"; four pages, described respectively as "floor plan", "elevation", "slab plan" and "N2 framing plan", all related to Duplex B, Lots 4 &amp;amp; 5, Norris Road Bracken Ridge, and in relation to which the client is named as the first respondent; two pages described respectively as "ground floor" and "elevation", both related to Duplex A, Lots 4 &amp;amp; 5, Norris Road Bracken Ridge, and in relation to which the client is named as simply "Habitare"; two pages described respectively as "manager plans" and "manager elevation", both relating to Lots 4 &amp;amp; 5, Norris Road Bracken Ridge, and in relation to which the client is named as simply "Habitare"; two pages described respectively as "elevation" and "floor plan", both relating to Lots 12 &amp;amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; two pages described respectively as "elevation" and "floor plan", both relating to Duplex 2, Lots 12 &amp;amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; one page described as "elevation" Duplex 3 Lots 12 &amp;amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; one page described as "House 2" Lots 12 &amp;amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; one page described as "Duplex 3 --- Plan" Lots 12 &amp;amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare"; one page described as "Site Plan" Lots 12 &amp;amp; 13, Hamish Street Calamvale, and in relation to which the client is named as simply "Habitare".</sentence>
 <sentence id="s51">Relevant principles
  Principles governing the grant of leave by the Court to issue subpoenas were considered in detail by Greenwood J in McIlwain v Ramsey Food Packaging Pty Ltd [2005] FCA 1233.</sentence>
 <sentence id="s52">In that case his Honour observed, so far as is relevant in these proceedings, that: It is also clear that although a mere "fishing" expedition can never justify the issue of subpoenas, it may be enough that it appears to be "on the cards" that the documents will materially assist the applicant: Alister v R (1984) 154 CLR 404 ; cf R v Saleam [1999] NSWCCA 86 at [11] .</sentence>
@@ -210,7 +210,7 @@ Dated: 20 April 2009
  
  Counsel for the Applicant: Mr R Alkadamani 
  
- Solicitor for the Applicant: Castrission &amp; Co 
+ Solicitor for the Applicant: Castrission &amp;amp; Co 
  
  Counsel for the First, Second, Third, Fourth and Fifth Respondents: Mr D Atkinson 
  

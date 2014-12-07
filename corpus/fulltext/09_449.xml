@@ -3,18 +3,18 @@
 <name>Brookfield Multiplex Limited v International Litigation Funding Partners Pte Ltd (No 2) [2009] FCA 449 (6 May 2009)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/449.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">legal professional privilege</catchphrase>
-<catchphrase "id=c1">applicable principles</catchphrase>
-<catchphrase "id=c2">retainer not necessary</catchphrase>
-<catchphrase "id=c3">unsolicited advice not privileged</catchphrase>
-<catchphrase "id=c4">implied request for advice sufficient to attract privilege</catchphrase>
-<catchphrase "id=c5">advice privilege</catchphrase>
-<catchphrase "id=c6">the scope of advice privilege</catchphrase>
-<catchphrase "id=c7">whether the dominate purpose test applies to direct communications between solicitor and client</catchphrase>
-<catchphrase "id=c8">litigation privilege</catchphrase>
-<catchphrase "id=c9">scope of litigation privilege</catchphrase>
-<catchphrase "id=c10">differences between advice privilege and litigation privilege</catchphrase>
-<catchphrase "id=c11">evidence</catchphrase>
+<catchphrase id="c0">legal professional privilege</catchphrase>
+<catchphrase id="c1">applicable principles</catchphrase>
+<catchphrase id="c2">retainer not necessary</catchphrase>
+<catchphrase id="c3">unsolicited advice not privileged</catchphrase>
+<catchphrase id="c4">implied request for advice sufficient to attract privilege</catchphrase>
+<catchphrase id="c5">advice privilege</catchphrase>
+<catchphrase id="c6">the scope of advice privilege</catchphrase>
+<catchphrase id="c7">whether the dominate purpose test applies to direct communications between solicitor and client</catchphrase>
+<catchphrase id="c8">litigation privilege</catchphrase>
+<catchphrase id="c9">scope of litigation privilege</catchphrase>
+<catchphrase id="c10">differences between advice privilege and litigation privilege</catchphrase>
+<catchphrase id="c11">evidence</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -25,11 +25,11 @@
 <sentence id="s4">Legal professional privilege has its origins in Elizabethan times: see Berd v Lovelace (1577) Cary 62; [21 ER 33].</sentence>
 <sentence id="s5">Strangely, certain aspects of the privilege are still to be settled.</sentence>
 <sentence id="s6">The current view is that there are two branches of legal professional privilege --- they are usually referred to as advice privilege and litigation privilege.</sentence>
-<sentence id="s7">Advice privilege is concerned with direct communications between a lawyer and his client, or their respective agents or employees: Greenough v Gaskell [1833] EngR 333 ; (1833) 1 My &amp; K 98; [39 ER 618] ; Anderson v Bank of British Columbia [1876] 2 Ch D 644 , 649.</sentence>
+<sentence id="s7">Advice privilege is concerned with direct communications between a lawyer and his client, or their respective agents or employees: Greenough v Gaskell [1833] EngR 333 ; (1833) 1 My &amp;amp; K 98; [39 ER 618] ; Anderson v Bank of British Columbia [1876] 2 Ch D 644 , 649.</sentence>
 <sentence id="s8">Initially the privilege was confined to communications in relation to existing or contemplated litigation: The Southwark and Vauxhall Water Company v Quick (1878) 3 QBD 315 ; Wheeler v Le Marchant (1881) 17 Ch D 675.</sentence>
 <sentence id="s9">That is no longer the case: Grant v Downs [1976] HCA 63 ; (1976) 135 CLR 674.</sentence>
 <sentence id="s10">The rationale for advice privilege is to promote "the public interest because it assists and enhances the administration of justice by facilitating the representation of clients by legal advisers": Grant v Downs at 685.</sentence>
-<sentence id="s11">To qualify, the usual criteria are that the communication must be: (a) confidential; (b) of a professional nature; and (c) made with the intention of obtaining or giving legal advice: 1 McCormick on Evidence (6 th ed, 2006) &#167; 88; Baker v Campbell [1983] HCA 39 ; (1983) 153 CLR 52 , 115-116.</sentence>
+<sentence id="s11">To qualify, the usual criteria are that the communication must be: (a) confidential; (b) of a professional nature; and (c) made with the intention of obtaining or giving legal advice: 1 McCormick on Evidence (6 th ed, 2006) &amp;#167; 88; Baker v Campbell [1983] HCA 39 ; (1983) 153 CLR 52 , 115-116.</sentence>
 <sentence id="s12">The third proposition should be amplified.</sentence>
 <sentence id="s13">The advice given or sought need not be confined to matters of legal principle.</sentence>
 <sentence id="s14">It may include advice as to what should or should not be done in a "relevant legal context": Balabel v Air India [1988] Ch 317 , 330 per Taylor LJ ("[L]egal advice is not confined to telling the client the law; it must include advice as to what should prudently and sensibly be done in the relevant legal context"); Three Rivers District Council v Governor and Company of the Bank of England (No 6) [2004] UKHL 48 ; [2005] 1 AC 610.</sentence>
@@ -121,10 +121,10 @@
 <sentence id="s100">The privilege exists so that a person may consult his legal adviser in the knowledge that confidentiality will prevail.</sentence>
 <sentence id="s101">" Whatever may be necessary to create the required "relationship of trust and confidence", it is clear that a retainer need not exist.</sentence>
 <sentence id="s102">In Minter v Priest [1930] AC 558 , 573 Viscount Dunedin said: "Now, if a man goes to a solicitor, as a solicitor, to consult and does consult him, though the end of the interview may lead to the conclusion that he does not engage him as his solicitor or expect that he should act as his solicitor, nevertheless the interview is held as a privileged occasion.</sentence>
-<sentence id="s103">" In Desc&ocirc;teaux v Mierzwinski [1982] 1 SCR 860 , Lamer J, in delivering the judgment of the Supreme Court of Canada, said (at 876): "[I]t is necessary, in my view, to distinguish between the moment when the retainer is established and the moment when the solicitor-client relationship arises.</sentence>
+<sentence id="s103">" In Desc&amp;ocirc;teaux v Mierzwinski [1982] 1 SCR 860 , Lamer J, in delivering the judgment of the Supreme Court of Canada, said (at 876): "[I]t is necessary, in my view, to distinguish between the moment when the retainer is established and the moment when the solicitor-client relationship arises.</sentence>
 <sentence id="s104">The latter arises as soon as the potential client has his first dealings with the lawyer's office in order to obtain legal advice.</sentence>
 <sentence id="s105">" He went on (at 880) to say: "[C]onversations with a solicitor's agents held for the purpose of retaining him would also be privileged, even though the solicitor was not then, or ever, retained.</sentence>
-<sentence id="s106">" This is consistent with early English authority: see Cormack v Heathcote (1820) 2 Brod &amp; B 4, 6 per Dallas CJ; [129 ER 857] (overruled in Cox and Railton on different grounds) ("[H]ere is a client who goes to give instructions touching to a deed, and the communication must be deemed confidential, as between the attorney and client, though the attorney happens to refuse the employment").</sentence>
+<sentence id="s106">" This is consistent with early English authority: see Cormack v Heathcote (1820) 2 Brod &amp;amp; B 4, 6 per Dallas CJ; [129 ER 857] (overruled in Cox and Railton on different grounds) ("[H]ere is a client who goes to give instructions touching to a deed, and the communication must be deemed confidential, as between the attorney and client, though the attorney happens to refuse the employment").</sentence>
 <sentence id="s107">What kind of communication between a lawyer and a 'client' with whom there is no retainer can be protected?</sentence>
 <sentence id="s108">If the communication is to the lawyer it will be privileged if it is confidential and provided to the lawyer in his professional capacity.</sentence>
 <sentence id="s109">A communication may be so characterised in a variety of circumstances, most usually if the person believes he is consulting a lawyer in that capacity and his manifest intention is to seek legal advice or legal services.</sentence>

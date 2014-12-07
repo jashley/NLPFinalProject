@@ -3,8 +3,8 @@
 <name>Korean Air Lines Co Ltd v Australian Competition and Consumer Commission (No 2) [2008] FCA 449 (4 April 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/449.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">no implied waiver of legal professional privilege</catchphrase>
-<catchphrase "id=c1">procedure</catchphrase>
+<catchphrase id="c0">no implied waiver of legal professional privilege</catchphrase>
+<catchphrase id="c1">procedure</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -32,8 +32,8 @@
 <sentence id="s17">I must therefore infer that the redacted portions of the documents go to those topics.</sentence>
 <sentence id="s18">12 Second, Mr Pearson's statements include assertions that:
  
-&#8226; Staff of the ACCC had not advanced the investigation sufficiently to warrant a recommendation that the matter be referred to the ACCC for a decision whether legal proceedings should be commenced.</sentence>
-<sentence id="s19">&#8226; He had not reached a decision to recommend that legal proceedings be commenced and that to do so he would need:
+&amp;#8226; Staff of the ACCC had not advanced the investigation sufficiently to warrant a recommendation that the matter be referred to the ACCC for a decision whether legal proceedings should be commenced.</sentence>
+<sentence id="s19">&amp;#8226; He had not reached a decision to recommend that legal proceedings be commenced and that to do so he would need:
  
  
  ... legal advice from external legal advisers ... that the Commission has reasonable grounds to institute proceedings.</sentence>

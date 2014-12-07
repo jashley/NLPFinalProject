@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <case>
-<name>Racing &amp; Wagering Western Australia v Software AG (Australia) Pty Ltd (ACN 090 139 503) [2008] FCA 1332 (29 August 2008)</name>
+<name>Racing &amp;amp; Wagering Western Australia v Software AG (Australia) Pty Ltd (ACN 090 139 503) [2008] FCA 1332 (29 August 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1332.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">software licence agreement</catchphrase>
-<catchphrase "id=c1">clause permitting copying the system in object code only for emergency restart purposes</catchphrase>
-<catchphrase "id=c2">disaster recovery site established by disk mirroring</catchphrase>
-<catchphrase "id=c3">whether authorised by emergency restart clause or a breach of the agreement</catchphrase>
-<catchphrase "id=c4">principles of construction</catchphrase>
-<catchphrase "id=c5">no breach</catchphrase>
-<catchphrase "id=c6">whether licensee permitted to make disk-mirroring backup copy of software under s 47c or s 47f of the copyright act 1968 (cth)</catchphrase>
-<catchphrase "id=c7">loss of opportunity to negotiate a price</catchphrase>
-<catchphrase "id=c8">whether applicant would have paid respondent for permission to establish disaster recovery site</catchphrase>
-<catchphrase "id=c9">assessment of damages</catchphrase>
-<catchphrase "id=c10">no evidence of actual profit compared with total or discounted price</catchphrase>
-<catchphrase "id=c11">adequacy of evidence</catchphrase>
-<catchphrase "id=c12">contract</catchphrase>
-<catchphrase "id=c13">copyright</catchphrase>
-<catchphrase "id=c14">damages</catchphrase>
+<catchphrase id="c0">software licence agreement</catchphrase>
+<catchphrase id="c1">clause permitting copying the system in object code only for emergency restart purposes</catchphrase>
+<catchphrase id="c2">disaster recovery site established by disk mirroring</catchphrase>
+<catchphrase id="c3">whether authorised by emergency restart clause or a breach of the agreement</catchphrase>
+<catchphrase id="c4">principles of construction</catchphrase>
+<catchphrase id="c5">no breach</catchphrase>
+<catchphrase id="c6">whether licensee permitted to make disk-mirroring backup copy of software under s 47c or s 47f of the copyright act 1968 (cth)</catchphrase>
+<catchphrase id="c7">loss of opportunity to negotiate a price</catchphrase>
+<catchphrase id="c8">whether applicant would have paid respondent for permission to establish disaster recovery site</catchphrase>
+<catchphrase id="c9">assessment of damages</catchphrase>
+<catchphrase id="c10">no evidence of actual profit compared with total or discounted price</catchphrase>
+<catchphrase id="c11">adequacy of evidence</catchphrase>
+<catchphrase id="c12">contract</catchphrase>
+<catchphrase id="c13">copyright</catchphrase>
+<catchphrase id="c14">damages</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -616,12 +616,12 @@
 (c) outsourcing was an additional 50% of the list price licence fee for the licensed SAG System(s); and
  
 (d) where the System(s) were to be used for 'warm standby' the customer would obtain a 50% discount of the licence and maintenance fees.</sentence>
-<sentence id="s444">124 Mr Beddoe said using the pricing rules described, the fee (in Euros) for LPAR extended usage right was 50% of the list price being an additional fee of &#8364;521,312 (the LPAR Fee).</sentence>
+<sentence id="s444">124 Mr Beddoe said using the pricing rules described, the fee (in Euros) for LPAR extended usage right was 50% of the list price being an additional fee of &amp;#8364;521,312 (the LPAR Fee).</sentence>
 <sentence id="s445">The LPAR Fee was then used as the base amount against which was to be calculated a fee for outsourcing applicable to the second installation.</sentence>
-<sentence id="s446">The fee for the outsourcing extended usage right was 50% of the LPAR Fee being a fee of &#8364;260,656.</sentence>
+<sentence id="s446">The fee for the outsourcing extended usage right was 50% of the LPAR Fee being a fee of &amp;#8364;260,656.</sentence>
 <sentence id="s447">He then used the total of the LPAR Fee and the outsourcing fee as the base amount or the list price licence fee on which he applied a fee for the warm disaster recovery because the warm disaster recovery was only applicable to the outsourced second installation not the designated installation.</sentence>
-<sentence id="s448">Accordingly, applying the pricing rules, the fee for the warm disaster recovery extended usage right was a 'discount' of 50% of the sum of the LPAR Fee and the outsourcing fee being a fee of &#8364;390,984 for the warm disaster recovery fee.</sentence>
-<sentence id="s449">125 In summary, the total list price licence fee for the extended use of the System(s) which would allow RWWA to have a warm disaster recovery standby operating on a second machine within an LPAR with the operation and maintenance of the System(s) maintained and operated by a third party was &#8364;1,172,952, that is, the sum of the LPAR Fee, the outsourcing fee and the warm disaster recovery fee.</sentence>
+<sentence id="s448">Accordingly, applying the pricing rules, the fee for the warm disaster recovery extended usage right was a 'discount' of 50% of the sum of the LPAR Fee and the outsourcing fee being a fee of &amp;#8364;390,984 for the warm disaster recovery fee.</sentence>
+<sentence id="s449">125 In summary, the total list price licence fee for the extended use of the System(s) which would allow RWWA to have a warm disaster recovery standby operating on a second machine within an LPAR with the operation and maintenance of the System(s) maintained and operated by a third party was &amp;#8364;1,172,952, that is, the sum of the LPAR Fee, the outsourcing fee and the warm disaster recovery fee.</sentence>
 <sentence id="s450">On the basis of 2005 exchange rates that equated to $2,099,585 Australian dollars.</sentence>
 <sentence id="s451">126 In addition to this amount, according to Mr Beddoe, there were maintenance fees payable by RWWA.</sentence>
 <sentence id="s452">He calculated the total list price for the maintenance service fee for the grant of the extended usage rights at $314,945 Australian dollars, being 15% of the total DR licence fee.</sentence>
@@ -778,7 +778,7 @@ re-amendment to the cross-claim.</sentence>
 <sentence id="s586">162 RWWA also called Mr Richard Adams of Deloitte Forensic, a senior engineer who has produced software in machine code, assembler and high level languages for systems operating in the mainframe environment.</sentence>
 <sentence id="s587">163 SAG called Mr Rodney McKemmish.</sentence>
 <sentence id="s588">He holds a Bachelor of Business degree from RMIT.</sentence>
-<sentence id="s589">Having worked with the Victoria and Queensland Police and KPMG Australia, he is now head of e.forensic.&lt;e.law&gt;Australia.</sentence>
+<sentence id="s589">Having worked with the Victoria and Queensland Police and KPMG Australia, he is now head of e.forensic.&amp;lt;e.law&amp;gt;Australia.</sentence>
 <sentence id="s590">He has had extensive experience in forensic computing and has lectured at universities on those topics.</sentence>
 <sentence id="s591">164 As a matter of convenience, I summarise the following technical material from part of the expert report of Mr McKemmish, the expert for SAG.</sentence>
 <sentence id="s592">I do not understand this technical material to be contentious.</sentence>
@@ -1291,7 +1291,7 @@ SAG's current price list for licence fees payable for additional licences under 
 <sentence id="s913">257 Counsel for SAG asserted that SAG was suing for a price.</sentence>
 <sentence id="s914">That is, the price which SAG says RWWA should have paid for the additional licence and the related service fees.</sentence>
 <sentence id="s915">Alternatively, a discounted sum in respect of that price.</sentence>
-<sentence id="s916">258 SAG supports its claim for a fee with reference to General Tyre &amp; Rubber Company v Firestone Tyre &amp; Rubber Company Ltd [1976] RPC 197 , Meters Ltd v Metropolitan Gas Meters Ltd (1911) 28 RPC 157 and Microsoft Corporation v TYN Electronics Pty Ltd (in liq) (2004) 63 IPR 137.</sentence>
+<sentence id="s916">258 SAG supports its claim for a fee with reference to General Tyre &amp;amp; Rubber Company v Firestone Tyre &amp;amp; Rubber Company Ltd [1976] RPC 197 , Meters Ltd v Metropolitan Gas Meters Ltd (1911) 28 RPC 157 and Microsoft Corporation v TYN Electronics Pty Ltd (in liq) (2004) 63 IPR 137.</sentence>
 <sentence id="s917">Each of those cases involves infringement of intellectual property rights.</sentence>
 <sentence id="s918">259 In General Tyre [1976] RPC 197 , Lord Wilberforce referred to the reward to a patentee for his invention being the entitlement to the exclusive rights to use the invention.</sentence>
 <sentence id="s919">260 In Meters Ltd 28 RPC 157 , the defendants sold gas meters which contained a small part that infringed a patent held by the plaintiff.</sentence>

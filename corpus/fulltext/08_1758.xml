@@ -3,25 +3,25 @@
 <name>Telstra Corporation Ltd v ACCC [2008] FCA 1758 (24 November 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1758.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">trade practices act 1974 (cth), part xic , telecommunications industry and access regime</catchphrase>
-<catchphrase "id=c1">dispute between telstra and optus regarding access to unconditioned local loop service (ulls) in multi-dwelling units (mdus)</catchphrase>
-<catchphrase "id=c2">resolution of access dispute by australian competition and consumer commission (accc)</catchphrase>
-<catchphrase "id=c3">final determination made by accc establishing regime for ordering and provisioning of ulls</catchphrase>
-<catchphrase "id=c4">whether final determination lawfully made</catchphrase>
-<catchphrase "id=c5">judicial review</catchphrase>
-<catchphrase "id=c6">grounds of review</catchphrase>
-<catchphrase "id=c7">appeal under administrative decisions (judicial review) (adjr) act 1977 (cth), s 5</catchphrase>
-<catchphrase "id=c8">whether final determination unlawfully made on grounds that, in making final determination, accc: (1) did not take into account telstra's direct costs of providing access to the ulls (s 152cr(1)(d)); or (2) did not properly have regard to industry code as model terms and conditions (152aqb(9)) or otherwise (s 152cr(2)); or (3) failed to specify with reasonable precision or certainty terms and conditions relating access (s 152cp(2)); or (4) was so unreasonable that no reasonable person could have so exercised the power ( wednesbury unreasonableness); or (5) exceeded its jurisdiction by incorrectly assuming a matter upon which the exercise of its jurisdiction depended (s 152cp(1))</catchphrase>
-<catchphrase "id=c9">trade practices act , part xic , div 8</catchphrase>
-<catchphrase "id=c10">extent to which accc's earlier determination adopted industry code standards regarding ordering and provisioning of ulls</catchphrase>
-<catchphrase "id=c11">mandatory terms of s 152aqb(1)(b) and (3) which stated respectively that accc "must make a written determination setting out model terms and conditions relating to access to each core service" and that accc "must take all reasonable steps to ensure that" such a determination is made within six months after commencement of section</catchphrase>
-<catchphrase "id=c12">whether accc had discretion to declare some but not all model terms and conditions relating to core service</catchphrase>
-<catchphrase "id=c13">clear words used by parliament requiring accc to make written determination to set out model terms and conditions relating to ulls and to take all reasonable steps to do so within six months</catchphrase>
-<catchphrase "id=c14">explanatory memorandum qualifying clear words in bill</catchphrase>
-<catchphrase "id=c15">trade and commerce</catchphrase>
-<catchphrase "id=c16">administrative law</catchphrase>
-<catchphrase "id=c17">trade and commerce</catchphrase>
-<catchphrase "id=c18">statutory interpretation</catchphrase>
+<catchphrase id="c0">trade practices act 1974 (cth), part xic , telecommunications industry and access regime</catchphrase>
+<catchphrase id="c1">dispute between telstra and optus regarding access to unconditioned local loop service (ulls) in multi-dwelling units (mdus)</catchphrase>
+<catchphrase id="c2">resolution of access dispute by australian competition and consumer commission (accc)</catchphrase>
+<catchphrase id="c3">final determination made by accc establishing regime for ordering and provisioning of ulls</catchphrase>
+<catchphrase id="c4">whether final determination lawfully made</catchphrase>
+<catchphrase id="c5">judicial review</catchphrase>
+<catchphrase id="c6">grounds of review</catchphrase>
+<catchphrase id="c7">appeal under administrative decisions (judicial review) (adjr) act 1977 (cth), s 5</catchphrase>
+<catchphrase id="c8">whether final determination unlawfully made on grounds that, in making final determination, accc: (1) did not take into account telstra's direct costs of providing access to the ulls (s 152cr(1)(d)); or (2) did not properly have regard to industry code as model terms and conditions (152aqb(9)) or otherwise (s 152cr(2)); or (3) failed to specify with reasonable precision or certainty terms and conditions relating access (s 152cp(2)); or (4) was so unreasonable that no reasonable person could have so exercised the power ( wednesbury unreasonableness); or (5) exceeded its jurisdiction by incorrectly assuming a matter upon which the exercise of its jurisdiction depended (s 152cp(1))</catchphrase>
+<catchphrase id="c9">trade practices act , part xic , div 8</catchphrase>
+<catchphrase id="c10">extent to which accc's earlier determination adopted industry code standards regarding ordering and provisioning of ulls</catchphrase>
+<catchphrase id="c11">mandatory terms of s 152aqb(1)(b) and (3) which stated respectively that accc "must make a written determination setting out model terms and conditions relating to access to each core service" and that accc "must take all reasonable steps to ensure that" such a determination is made within six months after commencement of section</catchphrase>
+<catchphrase id="c12">whether accc had discretion to declare some but not all model terms and conditions relating to core service</catchphrase>
+<catchphrase id="c13">clear words used by parliament requiring accc to make written determination to set out model terms and conditions relating to ulls and to take all reasonable steps to do so within six months</catchphrase>
+<catchphrase id="c14">explanatory memorandum qualifying clear words in bill</catchphrase>
+<catchphrase id="c15">trade and commerce</catchphrase>
+<catchphrase id="c16">administrative law</catchphrase>
+<catchphrase id="c17">trade and commerce</catchphrase>
+<catchphrase id="c18">statutory interpretation</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -98,17 +98,17 @@
 <sentence id="s54">Optus argued that it would only cost it, Optus, about $360,000 to implement the proposals.</sentence>
 <sentence id="s55">11 Telstra contended that in purporting to make its final determination, the Commission:
  
-&#8226; either took into account Optus' costs as the cost to Telstra or alternatively it did not take Telstra's costs into account as required by s 152CR(1)(d) of the Act (Ground 3);
+&amp;#8226; either took into account Optus' costs as the cost to Telstra or alternatively it did not take Telstra's costs into account as required by s 152CR(1)(d) of the Act (Ground 3);
  
-&#8226; failed to comply with s 152AQB(9) because it did not have regard to the provisions of Code 569 as model terms and conditions which the Commission had previously made under a determination in October 2003 (Ground 4);
+&amp;#8226; failed to comply with s 152AQB(9) because it did not have regard to the provisions of Code 569 as model terms and conditions which the Commission had previously made under a determination in October 2003 (Ground 4);
  
-&#8226; alternatively, by misconstruing and misunderstanding Code 569, either failed to take the actual provisions of the Code into account, or failed to have regard to them in accordance with s 152CR(2), and took into account an irrelevant consideration instead, namely its misconstruction or misunderstanding (Ground 5);
+&amp;#8226; alternatively, by misconstruing and misunderstanding Code 569, either failed to take the actual provisions of the Code into account, or failed to have regard to them in accordance with s 152CR(2), and took into account an irrelevant consideration instead, namely its misconstruction or misunderstanding (Ground 5);
  
-&#8226; failed to comply with s 152CP(2) because the final determination was uncertain in its operation (Ground 6);
+&amp;#8226; failed to comply with s 152CP(2) because the final determination was uncertain in its operation (Ground 6);
  
-&#8226; made an error of law and acted unreasonably (Ground 7);
+&amp;#8226; made an error of law and acted unreasonably (Ground 7);
  
-&#8226; exceeded its jurisdiction under s 152CP of the Act because the final determination did not deal with access to the declared service of the ULLS but rather wrongly assumed in pars 10(a) and (e) that a soft dial tone at the end-user's premises indicated that an existing ULLS connected those premises to a Telstra exchange, and then required Telstra to provide an ULLS on the basis of that false assumption (Ground 8).</sentence>
+&amp;#8226; exceeded its jurisdiction under s 152CP of the Act because the final determination did not deal with access to the declared service of the ULLS but rather wrongly assumed in pars 10(a) and (e) that a soft dial tone at the end-user's premises indicated that an existing ULLS connected those premises to a Telstra exchange, and then required Telstra to provide an ULLS on the basis of that false assumption (Ground 8).</sentence>
 <sentence id="s56">(Grounds 1 and 2 were not pressed.</sentence>
 <sentence id="s57">)
  2.</sentence>
@@ -122,11 +122,11 @@
 <sentence id="s62">This promotion of competition requires the decision-maker to have regard to the extent to which obstacles to end-users in gaining access to listed services can be removed (s 152AB(4)).</sentence>
 <sentence id="s63">When determining the extent to which the efficient use of infrastructure objective in s 152AB(2)(e) might be achieved, among other things, a decision-maker must have regard to:
  
-&#8226; whether it is or is likely to become technically feasible for the services to be supplied and charged for, having regard to the technology that is in use or available or likely to be become available (s 152AB(6)(a)(i)) ;
+&amp;#8226; whether it is or is likely to become technically feasible for the services to be supplied and charged for, having regard to the technology that is in use or available or likely to be become available (s 152AB(6)(a)(i)) ;
  
-&#8226; whether the costs that would be involved in supplying and charging for the services are reasonable or are likely to become reasonable (s 152AB(6)(a)(ii)) ;
+&amp;#8226; whether the costs that would be involved in supplying and charging for the services are reasonable or are likely to become reasonable (s 152AB(6)(a)(ii)) ;
  
-&#8226; and the legitimate commercial interests of the supplier or suppliers of the services, including the ability of the supplier or suppliers to exploit economies of scale or scope (s 152AB(6)(b)).</sentence>
+&amp;#8226; and the legitimate commercial interests of the supplier or suppliers of the services, including the ability of the supplier or suppliers to exploit economies of scale or scope (s 152AB(6)(b)).</sentence>
 <sentence id="s64">2.2 "Declared services" and "core services" 
  
 14 A central feature of Part XIC is the power of the Commission to make a declaration pursuant to s 152AL(3) that a particular kind of telecommunications service is a "declared service" for the purposes of the Act.</sentence>
@@ -321,7 +321,7 @@ In their ordinary meaning these words include cl 11 which deals with the placing
 41 This reflects a fundamental precept of constitutional law.</sentence>
 <sentence id="s156">When legislative power is used to create rights or impose liabilities and obligations, one consequence is that the freedom of those affected by the legislation is constrained or expanded by what the law provides.</sentence>
 <sentence id="s157">Where the law requires the executive branch of government, such as the Commission, to do something to give effect to the intention of the Parliament, the executive must obey the law, just like every other member of the community, be it a corporation or individual.</sentence>
-<sentence id="s158">This is because it is the duty of the executive branch of government to obey the law as laid down by the Parliament and the Courts, even if the executive does not agree with those decisions: The Commonwealth v New South Wales [1923] HCA 23 ; (1923) 32 CLR 200 at 214 per Isaacs, Rich and Starke JJ applying Eastern Trust Co v McKenzie, Mann &amp; Co [1915] AC 750 at 759; see also Tran v Minister for Immigration [2006] FCA 1229 ; (2006) 154 FCR 536 at 540 [9] per myself.</sentence>
+<sentence id="s158">This is because it is the duty of the executive branch of government to obey the law as laid down by the Parliament and the Courts, even if the executive does not agree with those decisions: The Commonwealth v New South Wales [1923] HCA 23 ; (1923) 32 CLR 200 at 214 per Isaacs, Rich and Starke JJ applying Eastern Trust Co v McKenzie, Mann &amp;amp; Co [1915] AC 750 at 759; see also Tran v Minister for Immigration [2006] FCA 1229 ; (2006) 154 FCR 536 at 540 [9] per myself.</sentence>
 <sentence id="s159">42 Those responsible for drafting legislation should not use explanatory memoranda to suggest the existence of some unexpressed restriction in the unambiguous terms of the bill before the Parliament.</sentence>
 <sentence id="s160">Such legislative drafting or elision is to be deprecated.</sentence>
 <sentence id="s161">It fundamentally undermines the right of persons to know what their freedoms and obligations are as provided by the law in the words enacted by the Parliament.</sentence>
@@ -355,7 +355,7 @@ In their ordinary meaning these words include cl 11 which deals with the placing
 49 There is, however, no error of law in a decision simply because the decision-maker made a wrong finding of fact: Enfield City Corporation v Development Assessment Commission [2000] HCA 5 ; (2000) 199 CLR 135 at 154 [44] per Gleeson CJ, Gummow, Kirby and Hayne JJ.</sentence>
 <sentence id="s186">In that case, the Court held that evidence was admissible in judicial review proceedings to assist in the determination of a jurisdictional fact, namely, whether a development fell within a statutory description "special industry": see Enfield 199 CLR at 147 [24], 155-156 [50].</sentence>
 <sentence id="s187">50 In Visa International Service Association v Reserve Bank of Australia [2003] FCA 977 ; (2003) 131 FCR 300 at 437-439 [659] - [666] , Tamberlin J admitted evidence of this kind in judicial review proceedings so that the Court was in the position to understand the particular meaning of words used in the specialised area concerned.</sentence>
-<sentence id="s188">He applied what Street J had earlier held in Ancher, Mortlock, Murray &amp; Woolley Pty Ltd v Hooker Homes Pty Ltd 2 [1971] NSWLR 278 at 286 that an argumentative process between experts enables the Court to proceed more readily and thus appreciate the relevant issue for decision.</sentence>
+<sentence id="s188">He applied what Street J had earlier held in Ancher, Mortlock, Murray &amp;amp; Woolley Pty Ltd v Hooker Homes Pty Ltd 2 [1971] NSWLR 278 at 286 that an argumentative process between experts enables the Court to proceed more readily and thus appreciate the relevant issue for decision.</sentence>
 <sentence id="s189">It can also illuminate the application of a specialised usage of words in the context.</sentence>
 <sentence id="s190">51 In my opinion, here, the evidence was admissible to explain the meaning and signification of terms used in the proceedings before and by the Commission and in these proceedings.</sentence>
 <sentence id="s191">In the end, the expert evidence from both sides was useful to elucidate and understand how concepts such as a soft dial tone, a communications wire, and other network paths operated.</sentence>
@@ -547,11 +547,11 @@ The Code defined an "ULLS Request" as a "specific request ... for Vacant or In U
 <sentence id="s294">Those formats were adopted and used in the computer systems of industry members including Telstra and Optus.</sentence>
 <sentence id="s295">Relevantly, there were detailed individual formats to acquire:
  
-&#8226; a Vacant ULLS ("acquire vacant communications wire (VULL)" in cl 13.2);
+&amp;#8226; a Vacant ULLS ("acquire vacant communications wire (VULL)" in cl 13.2);
  
-&#8226; an In-Use ULLS ("acquire in use communications wire (IULL)" in cl 13.4); and
+&amp;#8226; an In-Use ULLS ("acquire in use communications wire (IULL)" in cl 13.4); and
  
-&#8226; a transfer of an ULLS ("transfer in use communications wire (TULL)" in cl 13.5).</sentence>
+&amp;#8226; a transfer of an ULLS ("transfer in use communications wire (TULL)" in cl 13.5).</sentence>
 <sentence id="s296">78 Because an In-Use ULLS request is made to the existing customer's current service provider, in the case of Telstra, Telstra's computer system already associates the service (or full national) number and the ULLS identifier for the ULLS service it is providing.</sentence>
 <sentence id="s297">Thus, cl 13.4.1 of Guideline 587 does not require the gaining access seeker (here Optus) to provide the ULLS identifier to Telstra.</sentence>
 <sentence id="s298">Rather, cl 13.4.3 provides that in its IULL confirmation advice, Telstra must provide the access seeker with the ULLS identifier.</sentence>
@@ -739,7 +739,7 @@ The Code defined an "ULLS Request" as a "specific request ... for Vacant or In U
 <sentence id="s425">A person entrusted with a discretion must call his own attention to the matters which he is bound to consider: Peko-Wallsend 162 CLR at 39 per Mason J applying Associated Provincial Picture Houses Ltd v Wednesbury Corp [1948] 1 KB 223 at 228 per Lord Greene MR.
  
 106 A decision-maker must give proper, genuine and realistic consideration to the merits of the case: Khan v Minister for Immigration and Ethnic Affairs [1987] FCA 457 ; (1987) 14 ALD 291 at 292 per Gummow J; Zhang v Canterbury City Council (2001) 51 NSWLR 589 at 601 [62] where Spigelman CJ collected the authorities; Minister for Immigration and Multicultural Affairs v Yusuf [2001] HCA 30 ; (2001) 206 CLR 323 at 367 [138] per Kirby J; NAJT v Minister for Immigration and Multicultural and Indigenous Affairs [2005] FCAFC 134 ; (2005) 147 FCR 51 at 92-93 [212] per Madgwick J, 96 [229] per Conti J; SZEJF v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCA 724 at [39] , [60] where I applied this principle.</sentence>
-<sentence id="s426">In Tickner v Chapman (1995) 57 FCR 451 at 462C-D, Black CJ said that where a decision-maker was required to consider material, the process of consideration "... involves an active intellectual process" directed at the nominated subject-matter: see too per Burchett J at 476F-477E, per Kiefel J at 495F-G and Tobacco Institute of Australia v National Health &amp; Medical Research Council (1996) 71 FCR 265 at 277G per Finn J; Australian Retailers Association 148 FCR at 577 [526] per Weinberg J.</sentence>
+<sentence id="s426">In Tickner v Chapman (1995) 57 FCR 451 at 462C-D, Black CJ said that where a decision-maker was required to consider material, the process of consideration "... involves an active intellectual process" directed at the nominated subject-matter: see too per Burchett J at 476F-477E, per Kiefel J at 495F-G and Tobacco Institute of Australia v National Health &amp;amp; Medical Research Council (1996) 71 FCR 265 at 277G per Finn J; Australian Retailers Association 148 FCR at 577 [526] per Weinberg J.</sentence>
 <sentence id="s427">107 Where a decision-maker must consider matters prescribed by law, generally, he or she cannot jettison or ignore some of those factors or give them cursory consideration only in order to put them to one side: East Australian Pipeline Pty Ltd v Australian Competition and Consumer Commission [2007] HCA 44 ; (2007) 233 CLR 229 at 244 [52] per Gleeson CJ, Heydon and Crennan JJ.</sentence>
 <sentence id="s428">As Gummow and Hayne JJ, in concurring observed ( East Australian Pipeline 233 CLR at 256 [102]):
  "It was not enough for the ACCC to say in its final determination that it had considered those matters in the sense of having looked at but discarded them.</sentence>
@@ -816,9 +816,9 @@ The Code defined an "ULLS Request" as a "specific request ... for Vacant or In U
 127 Telstra argued that the Commission's approach to Code 569 was reviewable under s 5 of the ADJR Act .</sentence>
 <sentence id="s497">It contended that the Commission had:
  
-&#8226; failed to observe the procedures required by s 152AQB(9) (s 5(1)(b) of the ADJR Act );
+&amp;#8226; failed to observe the procedures required by s 152AQB(9) (s 5(1)(b) of the ADJR Act );
  
-&#8226; improperly exercised its power in making the final determination because it had failed to take into account a relevant consideration (s 5(1)(e) and (2)(b) of the ADJR Act ).</sentence>
+&amp;#8226; improperly exercised its power in making the final determination because it had failed to take into account a relevant consideration (s 5(1)(e) and (2)(b) of the ADJR Act ).</sentence>
 <sentence id="s498">128 In essence, Telstra contended that, because of the October 2003 determination, substantially all the provisions of Code 569 were model terms and conditions and that the Commission failed to have regard to them in accordance with s 152AQB(9).</sentence>
 <sentence id="s499">It argued that the Commission did not have regard to the whole of cl 11, in particular, as model terms and conditions made under the Act but rather merely had regard to it as an industry code.</sentence>
 <sentence id="s500">Optus argued that the Commission made no error in the way it applied and had regard to the provisions of Code 569 and that none of the important provisions in cl 11 relied on by Telstra was a model term or condition.</sentence>
@@ -894,13 +894,13 @@ The Code defined an "ULLS Request" as a "specific request ... for Vacant or In U
 <sentence id="s553">It contended that this was variously: an error of law ( ADJR Act , s 5(1)(f)); a failure to follow procedures required by law (s 5(1)(b)); a failure to take the Code into account as a relevant consideration or to give it "fundamental weight" and therefore an improper exercise of power (s 5(1)(e), s 5(2)(b)); or an abuse of power, and therefore an improper exercise of power (s 5(1)(e), s 5(2)(j)).</sentence>
 <sentence id="s554">Telstra contended that the final determination:
  
-&#8226; required it to follow the Transfer ULLS process in a context where Code 569, consequently, would require rejection of any Transfer ULLS request;
+&amp;#8226; required it to follow the Transfer ULLS process in a context where Code 569, consequently, would require rejection of any Transfer ULLS request;
  
-&#8226; required it incorrectly to treat a soft dial tone as an identification tone (cf: cl 12.2.1(c) of Code 569);
+&amp;#8226; required it incorrectly to treat a soft dial tone as an identification tone (cf: cl 12.2.1(c) of Code 569);
  
-&#8226; misconceived what a losing access seeker and the In-Use ULLS was;
+&amp;#8226; misconceived what a losing access seeker and the In-Use ULLS was;
  
-&#8226; required it to follow the Vacant ULLS process in circumstances where Code 569 did not apply to the process imposed.</sentence>
+&amp;#8226; required it to follow the Vacant ULLS process in circumstances where Code 569 did not apply to the process imposed.</sentence>
 <sentence id="s555">140 Optus contended that Telstra's argument gave a significance to Code 569 which it did not have.</sentence>
 <sentence id="s556">It said that the Commission had no legal obligation to have regard to any relevant part of Code 569 under s 152CR(1).</sentence>
 <sentence id="s557">Optus argued that the Commission could have regard to Code 569 under s 152CR(2) and that it did so unobjectionably in arriving at the final determination.</sentence>
@@ -1038,7 +1038,7 @@ However, the final determination did not mention either type of In-Use ULLS.</se
 <sentence id="s669">164 Optus argued that the proper construction of par 10(a) required an assumption that the requirements of cl 11.4 of Code 569 were satisfied once the conditions set out in par 10(a) were met.</sentence>
 <sentence id="s670">In other words Optus argued that the final determination required Telstra to treat the provision of the information specified in par 10(a) by itself, as an ULLS transfer request with the necessary consequence that Telstra would then process it as if it were valid under cl 11.5 of Code 569.</sentence>
 <sentence id="s671">It contended that the final determination should be construed in a practical manner which required "... Telstra to modify its existing procedures to exclude the kind of validation processes that are specific to transfers between access seekers".</sentence>
-<sentence id="s672">It referred to the practical approach in construction of instruments enunciated by Lord Reid in Gill v Donald Humberstone &amp; Co Ltd [1963] 1 WLR 929 at 933-934 and applied by Stone J in Australian Tea Tree Oil Research Institute v Industry Research and Development Board [2002] FCA 1127 ; (2002) 124 FCR 316 at 328-329 [37] - [38] ; see too per Stein and Giles JJA in Langton v Independent Commission against Corruption (2000) 49 NSWLR 164 at 167-168 [12]-[13].</sentence>
+<sentence id="s672">It referred to the practical approach in construction of instruments enunciated by Lord Reid in Gill v Donald Humberstone &amp;amp; Co Ltd [1963] 1 WLR 929 at 933-934 and applied by Stone J in Australian Tea Tree Oil Research Institute v Industry Research and Development Board [2002] FCA 1127 ; (2002) 124 FCR 316 at 328-329 [37] - [38] ; see too per Stein and Giles JJA in Langton v Independent Commission against Corruption (2000) 49 NSWLR 164 at 167-168 [12]-[13].</sentence>
 <sentence id="s673">Lord Reid had said that instruments which were addressed to practical people skilled in a particular trade or industry ought be construed in light of practical considerations rather than by a meticulous comparison of the language of their various provisions of the kind appropriate for the construction of a statute.</sentence>
 <sentence id="s674">165 Optus pointed to Telstra's submissions and Mr McAinsh's evidence to the Commission that Telstra would have "... to modify its provisioning system [sic] to remove the requirement for a ULL[S] identifier which the system is ordinarily configured to look for when assessing a ULLS Transfer Request".</sentence>
 <sentence id="s675">It also argued that even if there were an inconsistency between the final determination and Code 569, cl 16 of the Code and the statutory force of a determination under s 152CP, operate to make the final determination prevail.</sentence>

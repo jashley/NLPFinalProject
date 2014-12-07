@@ -3,32 +3,32 @@
 <name>Lansen v Minister for Environment and Heritage [2008] FCA 903 (13 June 2008)</name>
 <AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/903.html</AustLII>
 <catchphrases>
-<catchphrase "id=c0">application for approval of "controlled action" under the environmental protection and biodiversity conservation act 1999 (cth)</catchphrase>
-<catchphrase "id=c1">whether assessment of proposal was properly made under a bilateral agreement between commonwealth and northern territory when bilateral agreement came into force after decision of minister for environment and heritage that proposal was controlled action</catchphrase>
-<catchphrase "id=c2">whether assessment of proposal should have been made under pt 8 of epbc act</catchphrase>
-<catchphrase "id=c3">held: assessment of proposal properly made under bilateral agreement</catchphrase>
-<catchphrase "id=c4">assessment of proposal to redevelop mine which required approval of minister for environment and heritage under epbc act</catchphrase>
-<catchphrase "id=c5">proposal assessed under bilateral agreement between commonwealth and northern territory</catchphrase>
-<catchphrase "id=c6">assessment report to minister expressed concerns about environmental impacts of proposal upon freshwater sawfish and migratory bird species</catchphrase>
-<catchphrase "id=c7">whether report "assessment report" under epbc act</catchphrase>
-<catchphrase "id=c8">whether it did not contain sufficient information for minister to decide whether or not to approve proposal</catchphrase>
-<catchphrase "id=c9">where report adequately presented material in environmental impact statement, public comments, and proponent's response to public comments</catchphrase>
-<catchphrase "id=c10">whether minister sought further information from proponent</catchphrase>
-<catchphrase "id=c11">held: report was a valid assessment report for minister's consideration</catchphrase>
-<catchphrase "id=c12">decision of minister for environment and heritage to approve proposal constituted a controlled action under epbc act</catchphrase>
-<catchphrase "id=c13">minister failed to take into account conditions imposed by northern territory upon its approval to mine redevelopment comprising proposal</catchphrase>
-<catchphrase "id=c14">minister imposed conditions upon approval consistent with conditions imposed by northern territory in respect of potential environmental impacts</catchphrase>
-<catchphrase "id=c15">whether minister's decision invalid</catchphrase>
-<catchphrase "id=c16">held: minister's decision valid as consideration of northern territory conditions could not have made a material difference to minister's decision, and epbc act requiring minister to take into account conditions imposed by northern territory did not provide that the failure to do so necessarily led to invalidity of decision</catchphrase>
-<catchphrase "id=c17">processes for approval of proposal which was a controlled action under the epbc act</catchphrase>
-<catchphrase "id=c18">consideration of whether assessment of proposal under bilateral agreement correct, rather than under pt 8 of epbc act, where decision of minister that proposal was a controlled action was made before bilateral agreement came into force</catchphrase>
-<catchphrase "id=c19">consideration of necessary contents of an assessment report required under epbc act</catchphrase>
-<catchphrase "id=c20">consideration of whether failure of minister to take into account conditions imposed by northern territory upon its approval to mine redevelopment constituting proposal resulted in invalidity of minister's decision</catchphrase>
-<catchphrase "id=c21">consideration of principles of ecologically sustainable development and the precautionary principle and whether minister had regard to them</catchphrase>
-<catchphrase "id=c22">administrative law</catchphrase>
-<catchphrase "id=c23">administrative law</catchphrase>
-<catchphrase "id=c24">administrative law</catchphrase>
-<catchphrase "id=c25">environmental law</catchphrase>
+<catchphrase id="c0">application for approval of "controlled action" under the environmental protection and biodiversity conservation act 1999 (cth)</catchphrase>
+<catchphrase id="c1">whether assessment of proposal was properly made under a bilateral agreement between commonwealth and northern territory when bilateral agreement came into force after decision of minister for environment and heritage that proposal was controlled action</catchphrase>
+<catchphrase id="c2">whether assessment of proposal should have been made under pt 8 of epbc act</catchphrase>
+<catchphrase id="c3">held: assessment of proposal properly made under bilateral agreement</catchphrase>
+<catchphrase id="c4">assessment of proposal to redevelop mine which required approval of minister for environment and heritage under epbc act</catchphrase>
+<catchphrase id="c5">proposal assessed under bilateral agreement between commonwealth and northern territory</catchphrase>
+<catchphrase id="c6">assessment report to minister expressed concerns about environmental impacts of proposal upon freshwater sawfish and migratory bird species</catchphrase>
+<catchphrase id="c7">whether report "assessment report" under epbc act</catchphrase>
+<catchphrase id="c8">whether it did not contain sufficient information for minister to decide whether or not to approve proposal</catchphrase>
+<catchphrase id="c9">where report adequately presented material in environmental impact statement, public comments, and proponent's response to public comments</catchphrase>
+<catchphrase id="c10">whether minister sought further information from proponent</catchphrase>
+<catchphrase id="c11">held: report was a valid assessment report for minister's consideration</catchphrase>
+<catchphrase id="c12">decision of minister for environment and heritage to approve proposal constituted a controlled action under epbc act</catchphrase>
+<catchphrase id="c13">minister failed to take into account conditions imposed by northern territory upon its approval to mine redevelopment comprising proposal</catchphrase>
+<catchphrase id="c14">minister imposed conditions upon approval consistent with conditions imposed by northern territory in respect of potential environmental impacts</catchphrase>
+<catchphrase id="c15">whether minister's decision invalid</catchphrase>
+<catchphrase id="c16">held: minister's decision valid as consideration of northern territory conditions could not have made a material difference to minister's decision, and epbc act requiring minister to take into account conditions imposed by northern territory did not provide that the failure to do so necessarily led to invalidity of decision</catchphrase>
+<catchphrase id="c17">processes for approval of proposal which was a controlled action under the epbc act</catchphrase>
+<catchphrase id="c18">consideration of whether assessment of proposal under bilateral agreement correct, rather than under pt 8 of epbc act, where decision of minister that proposal was a controlled action was made before bilateral agreement came into force</catchphrase>
+<catchphrase id="c19">consideration of necessary contents of an assessment report required under epbc act</catchphrase>
+<catchphrase id="c20">consideration of whether failure of minister to take into account conditions imposed by northern territory upon its approval to mine redevelopment constituting proposal resulted in invalidity of minister's decision</catchphrase>
+<catchphrase id="c21">consideration of principles of ecologically sustainable development and the precautionary principle and whether minister had regard to them</catchphrase>
+<catchphrase id="c22">administrative law</catchphrase>
+<catchphrase id="c23">administrative law</catchphrase>
+<catchphrase id="c24">administrative law</catchphrase>
+<catchphrase id="c25">environmental law</catchphrase>
 </catchphrases>
 <sentences>
 <sentence id="s0">
@@ -572,15 +572,15 @@ Pursuant to that section, requests for comment were sent to the Commonwealth Min
 <sentence id="s304">86 Pursuant to s 133 of the Act, the Commonwealth Minister approved the proposal, subject to certain conditions, on 20 October 2006.</sentence>
 <sentence id="s305">87 The conditions imposed by the Commonwealth Minister of course limited the approval to the proposed action, and required:
  
-&#8226; the preparation and approval of a freshwater sawfish management and monitoring plan before the realigned channel is connected to the McArthur River (condition 2);
+&amp;#8226; the preparation and approval of a freshwater sawfish management and monitoring plan before the realigned channel is connected to the McArthur River (condition 2);
  
-&#8226; the approval of a monitoring program to assess the impact of metal pollution at Bing Bong Port on listed migratory birds within six months (condition 3);
+&amp;#8226; the approval of a monitoring program to assess the impact of metal pollution at Bing Bong Port on listed migratory birds within six months (condition 3);
  
-&#8226; annual reports after commencement of mine construction demonstrating compliance with the conditions of the approval (condition 4);
+&amp;#8226; annual reports after commencement of mine construction demonstrating compliance with the conditions of the approval (condition 4);
  
-&#8226; an independent audit of compliance with the conditions and the effectiveness of measures to mitigate impacts on listed threatened and migratory species within three years of the commencement of mine construction (condition 5); and
+&amp;#8226; an independent audit of compliance with the conditions and the effectiveness of measures to mitigate impacts on listed threatened and migratory species within three years of the commencement of mine construction (condition 5); and
  
-&#8226; the revision of plans approved under the conditions (conditions 6-7).</sentence>
+&amp;#8226; the revision of plans approved under the conditions (conditions 6-7).</sentence>
 <sentence id="s306">88 The details of condition 2 was as follows:
  
  2.</sentence>
@@ -777,11 +777,11 @@ In context, in my judgment, the intersection of the requirements for an assessme
  
  1.</sentence>
 <sentence id="s414">The potential impacts associated with the realignment of the McArthur River and Barney Creek.</sentence>
-<sentence id="s415">&#8226; The proponent has not provided adequate information to allow an informed decision on the nature of potential impacts associated with these diversions.</sentence>
+<sentence id="s415">&amp;#8226; The proponent has not provided adequate information to allow an informed decision on the nature of potential impacts associated with these diversions.</sentence>
 <sentence id="s416">An independent geomorphologist contracted by the EPA [Environment Protection Agency] identified key flaws in the modelling that was undertaken for the EIS.</sentence>
 <sentence id="s417">Consequently, the conclusions drawn from the modelling are likely to be compromised.</sentence>
 <sentence id="s418">...
- &#8226; The EIS failed to include hydrological information for Barney and Surprise Creeks.</sentence>
+ &amp;#8226; The EIS failed to include hydrological information for Barney and Surprise Creeks.</sentence>
 <sentence id="s419">This is a major oversight considering the potential in larger floods for Barney Creek to pose greater risk to the mine infrastructure, including the flood bund and OEF than the diverted McArthur River channel.</sentence>
 <sentence id="s420">
  
@@ -793,13 +793,13 @@ AR 51 went on to say:
  
  
  
- &#8226; The management, monitoring and contingency planning for the operations of the overburden emplacement facility;
- &#8226; The management, monitoring and contingency planning for the operations of the tailings storage facility;
- &#8226; Investigation of the potential for contaminant mobilisation to occur from non-acid forming material;
- &#8226; The management, monitoring and contingency planning for the flood protection bund;
- &#8226; A revegetation strategy for the River and Creek realignments demonstrating that an ecologically functional corridor could be achieved within the shortest timeframe possible;
- &#8226; The impact of drawdown on the ecology of the McArthur River; and
- &#8226; The potential impacts of the project on the Freshwater Sawfish.</sentence>
+ &amp;#8226; The management, monitoring and contingency planning for the operations of the overburden emplacement facility;
+ &amp;#8226; The management, monitoring and contingency planning for the operations of the tailings storage facility;
+ &amp;#8226; Investigation of the potential for contaminant mobilisation to occur from non-acid forming material;
+ &amp;#8226; The management, monitoring and contingency planning for the flood protection bund;
+ &amp;#8226; A revegetation strategy for the River and Creek realignments demonstrating that an ecologically functional corridor could be achieved within the shortest timeframe possible;
+ &amp;#8226; The impact of drawdown on the ecology of the McArthur River; and
+ &amp;#8226; The potential impacts of the project on the Freshwater Sawfish.</sentence>
 <sentence id="s422">
  
  
