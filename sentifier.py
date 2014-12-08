@@ -20,7 +20,7 @@ def writeSentences(filename):
         g.write(sent)
     f.close()
     g.close()
-    print("parsed "+filename)
+    #print("parsed "+filename)
     return los
     
     
