@@ -175,7 +175,7 @@ def countWords(corpus):
 				docCounts[word] += 1.0
 			else:
 				docCounts[word] = 1.0
-	return docCounts, totalCounts
+	return totalCounts, docCounts
 
 
 def scoreWordsInDoc(numDocs, totalCounts, docCounts, totalDoc):
@@ -188,15 +188,15 @@ def scoreWordsInDoc(numDocs, totalCounts, docCounts, totalDoc):
 		if word in docCounts:
 			totalVal = totalCounts[word]
 			docVal = docCounts[word]
-			if docVal/numDocs >= .6:
-				print word, "too many docs"
+			if docVal/numDocs >= .5:
+				print word, "too many docs", docVal/numDocs
 				scores[word] = 0.0
-			elif totalVal/docVal > freq:
-				print word, "too infrequent"
-				scores[word] = 0.0
-			#elif freq/numWords < .001:
-				#print word, "uncommon word"
+			#elif totalVal/docVal > freq:
+				#print word, "too infrequent", totalVal/docVal
 				#scores[word] = 0.0
+			elif freq/numWords < .001:
+				print word, "uncommon word"
+				scores[word] = 0.0
 			elif getAlphaRatio(word) < .75:
 				print word, "non-alpha"
 				scores[word] = 0.0
@@ -215,12 +215,22 @@ def getAlphaRatio(word):
 	#print "ALPHA", word, alpha/length
 	return alpha/length
 
+def cleanSentence(text):
 
+    sent = []
+    exclude = set(string.punctuation)
+    for word in text.split():
+        #may want to do better things
+        # with punctuation
+        s = ''.join(ch.lower() for ch in word if ch not in exclude)
+        sent += [s]
+    return " ".join(sent)
 
 
 if __name__ == '__main__':
 	inputFile = sys.argv[1]
 	document = st.writeSentences(inputFile)
+	raw_document = st.writeSentences(inputFile, cleaned = False)
 
 	randomScores = getRandomScores(document)
 
@@ -230,6 +240,7 @@ if __name__ == '__main__':
 		if ('.xml' in filename):
 			numDocs += 1.0
 			corpus += [st.writeSentences(filename)]
+	print "done loading and cleaning files"
 
 	totalCorpus, docCorpus = countWords(corpus)
 	totalDoc, x = countWords([document])
@@ -245,19 +256,20 @@ if __name__ == '__main__':
 
 	#print keywords_scores, tfidf_ranks
 
-	print "ORIGINAL DOCUMENT"
-	print
+	#print "ORIGINAL DOCUMENT"
+	#print
 	#printDoc(document)
-	print
-	print "RANDOM SUMMARY"
-	print
-	print getSummary(randomScores, document, 2)
-	print
+	#print
+	#print "RANDOM SUMMARY"
+	#print
+
+	#print getSummary(randomScores, raw_document, 2)
+	#print
 	print "KEYWORDS SUMMARY"
-	print
-	print getSummary(keywords_scores, document, 2)
-	print
-	print "TFIDF SUMMARY"
-	print
+	print keywords_scores
+	print getSummary(keywords_scores, raw_document, 2)
+	#print
+	#print "TFIDF SUMMARY"
+	#print
 	#print getSummary(tfidf_ranks, document, 2)
 
