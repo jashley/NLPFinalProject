@@ -1,0 +1,78 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="14">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICRO_GEN">apple-iphone-3gs-32gb-black-att.MICRO_GEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="2">apple-iphone-3gs-32gb-black-att.2.gold.html</M>
+<M ID="3">apple-iphone-3gs-32gb-black-att.3.gold.html</M>
+<M ID="4">apple-iphone-3gs-32gb-black-att.4.gold.html</M>
+<M ID="5">apple-iphone-3gs-32gb-black-att.5.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="15">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICRO_GEN">apple-iphone-3gs-32gb-black-att.MICRO_GEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">apple-iphone-3gs-32gb-black-att.1.gold.html</M>
+<M ID="3">apple-iphone-3gs-32gb-black-att.3.gold.html</M>
+<M ID="4">apple-iphone-3gs-32gb-black-att.4.gold.html</M>
+<M ID="5">apple-iphone-3gs-32gb-black-att.5.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="16">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICRO_GEN">apple-iphone-3gs-32gb-black-att.MICRO_GEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">apple-iphone-3gs-32gb-black-att.1.gold.html</M>
+<M ID="2">apple-iphone-3gs-32gb-black-att.2.gold.html</M>
+<M ID="4">apple-iphone-3gs-32gb-black-att.4.gold.html</M>
+<M ID="5">apple-iphone-3gs-32gb-black-att.5.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="17">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICRO_GEN">apple-iphone-3gs-32gb-black-att.MICRO_GEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">apple-iphone-3gs-32gb-black-att.1.gold.html</M>
+<M ID="2">apple-iphone-3gs-32gb-black-att.2.gold.html</M>
+<M ID="3">apple-iphone-3gs-32gb-black-att.3.gold.html</M>
+<M ID="5">apple-iphone-3gs-32gb-black-att.5.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="18">
+<PEER-ROOT>systems</PEER-ROOT>
+<MODEL-ROOT>models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="MICRO_GEN">apple-iphone-3gs-32gb-black-att.MICRO_GEN.system.html</P></PEERS>
+
+		<MODELS>
+
+<M ID="1">apple-iphone-3gs-32gb-black-att.1.gold.html</M>
+<M ID="2">apple-iphone-3gs-32gb-black-att.2.gold.html</M>
+<M ID="3">apple-iphone-3gs-32gb-black-att.3.gold.html</M>
+<M ID="4">apple-iphone-3gs-32gb-black-att.4.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>
