@@ -1,0 +1,3 @@
+on 26 april 2006, the defendant provided a quotation 'for the generation of new printed circuit board pcb layouts, to upgrade your two prototype pcbs (per samples provided) to surface mount' .
+the defendant advised that it used the current version of altium designer for all pcbs layouts and schematic generation; recommended a four layer pcb and proposed to convert the plaintiff's schematic files to the appropriate altium format in order to take advantage of the full design integrity testing offered by altium designer.
+48 also on 5 june 2006, the defendant provided the plaintiff with a quotation for the manufacture of a small prototype run of both the final drive v2 pcb and the final control v2 pcb.

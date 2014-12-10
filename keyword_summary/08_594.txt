@@ -1,0 +1,3 @@
+sipa established a quasi-governmental organisation known as the securities investor protection corporation (sipc).
+there are two kinds of repos: a general collateral repo and a special collateral repo.
+the sipc has power to liquidate insolvent broker-dealers under sipa (rather than under the bankruptcy code) and effectively insures certain investor claims for up to $500,000 per account: schroeder at 1040.

@@ -1,0 +1,3 @@
+if it does not include an rpcp, the "compensation part" of the lsp is 50 percent of the total lsp unreduced, but if it does include an rpcp, the compensation part is 50 percent of only the balance remaining after the deduction of the rpcp.
+under s 17(3)(a) , the compensation part of the lsp was $17,500.
+the provisions of div 3 are intended to apply in all cases where an lsp is received, whether or not it includes an rpcp.

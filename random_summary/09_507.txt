@@ -1,0 +1,3 @@
+memcor's submissions attempt to convert a patent for a device into one for a use.
+claims 15 and 16 are omnibus claims.
+there follows, between two commas, a description of the process for which the device is suitable ("for withdrawing permeate substantially continuously...").

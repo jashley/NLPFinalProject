@@ -1,0 +1,3 @@
+vacant ulls means a ulls that is not an in use ulls.
+vacant ulls defined by code 569 as "a ulls that is not an in use ulls".
+ulls identifier means a unique number allocated by the [access provider] to an individual ulls.

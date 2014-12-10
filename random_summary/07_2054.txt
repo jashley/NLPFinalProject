@@ -1,0 +1,3 @@
+type in www.dais.com.au/_script/admin_script/cdaitable.js and voila.
+according to mr suthers, he based the file upon equivalent code which he had written in a previous employment.
+he also became familiar with dais's file-naming conventions.

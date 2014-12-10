@@ -1,0 +1,3 @@
+damages are recoverable from erc only where ecc terminates the sia for specified reasons.
+in some of those circumstances erc is liable to pay ecc liquidated damages of $2 million.
+the second issue is that the scheme implementation agreement (sia) dated 13 september 2009 between erc and ecc provided for payment of a break fee by erc to ecc of $4 million, which was 1.9% of the equity value of erc.

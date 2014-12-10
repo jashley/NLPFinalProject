@@ -139,7 +139,7 @@ def scoreWordsInDoc(numDocs, totalCounts, docCounts, totalDoc):
 			totalVal = totalCounts[word]
 			docVal = docCounts[word]
 			if docVal/numDocs >= .5:
-				print word, "too many docs", docVal/numDocs
+				#print word, "too many docs", docVal/numDocs
 				scores[word] = 0.0
 			#elif totalVal/docVal > freq:
 				#print word, "too infrequent", totalVal/docVal
@@ -148,12 +148,12 @@ def scoreWordsInDoc(numDocs, totalCounts, docCounts, totalDoc):
 				#print word, "uncommon word"
 				#scores[word] = 0.0
 			elif getAlphaRatio(word) < .75:
-				print word, "non-alpha"
+				#print word, "non-alpha"
 				scores[word] = 0.0
 			else:
 				score = freq/docVal
 				scores[word] = score
-				print word, score
+				#print word, score
 	return scores
 
 def getAlphaRatio(word):
@@ -184,12 +184,7 @@ def normalizeScores(scores):
 
 
 if __name__ == '__main__':
-	inputFile = sys.argv[1]
-	document = st.writeSentences(inputFile)
-	raw_document = st.writeSentences(inputFile, cleaned = False)
 
-	random_scores = getRandomScores(document)
-	position_scores = positionalScores(document)
 
 	corpus = []
 	numDocs = 0.0
@@ -199,10 +194,44 @@ if __name__ == '__main__':
 			#corpus += [st.writeSentences(filename)]
 			corpus += [st.getCleanedSentences(filename)]
 	print "done loading and cleaning files"
-
 	totalCorpus, docCorpus = countWords(corpus)
-	totalDoc, x = countWords([document])
-	scoreWords = scoreWordsInDoc(numDocs, totalCorpus, docCorpus, totalDoc)
+	print "done counting corpus words"
+
+	#inputFile = sys.argv[1]
+	for inputFile in os.listdir('corpus/fulltext'):
+	
+		document = st.writeSentences(inputFile)
+		raw_document = st.writeSentences(inputFile, cleaned = False)
+
+		random_scores = getRandomScores(document)
+		position_scores = positionalScores(document)
+
+	
+		totalDoc, x = countWords([document])
+		scoreWords = scoreWordsInDoc(numDocs, totalCorpus, docCorpus, totalDoc)
+		keywords_scores = scoreByKeyWords(scoreWords, document)
+		combined_scores = [x + y for x, y in zip(keywords_scores, position_scores)]
+		#summary_filename = sys.argv[1][:-4]+".txt"
+		summary_filename = inputFile[:-4]+".txt"
+		
+		# write files
+		f = open('random_summary/'+summary_filename, 'w+')
+		summary = getSummary(random_scores, raw_document, 3)
+		f.write(summary)
+		f.close()
+		f = open('keyword_summary/'+summary_filename, 'w+')
+		summary = getSummary(keywords_scores, raw_document, 3)
+		f.write(summary)
+		f.close()
+		f = open('position_summary/'+summary_filename, 'w+')
+		summary = getSummary(position_scores, raw_document, 3)
+		f.write(summary)
+		f.close()
+		f = open('combined_summary/'+summary_filename, 'w+')
+		summary = getSummary(combined_scores, raw_document, 3)
+		f.write(summary)
+		f.close()
+		print "wrote " + summary_filename
 
 	#corp_tf_idf = trainTFID(corpus)
 	#example_tf_idf = trainTFID([document])
@@ -210,26 +239,9 @@ if __name__ == '__main__':
 	#print corp_tf_idf
 	#tfidf_ranks = tfidfRank(corp_tf_idf, document)
 	#keywords_scores = scoreByKeyWords(keywords, document)
-	keywords_scores = scoreByKeyWords(scoreWords, document)
+	
 
-	combined_scores = [x + y for x, y in zip(keywords_scores, position_scores)]
 
-	summary_filename =sys.argv[1][:-4]+".txt"
-	f = open('random_summary/'+summary_filename, 'w+')
-	summary = getSummary(random_scores, raw_document, 3)
-	f.write(summary)
-	f.close()
-	f = open('keyword_summary/'+summary_filename, 'w+')
-	summary = getSummary(keywords_scores, raw_document, 3)
-	f.write(summary)
-	f.close()
-	f = open('position_summary/'+summary_filename, 'w+')
-	summary = getSummary(position_scores, raw_document, 3)
-	f.write(summary)
-	f.close()
-	f = open('combined_summary/'+summary_filename, 'w+')
-	summary = getSummary(combined_scores, raw_document, 3)
-	f.write(summary)
-	f.close()
+
 
 

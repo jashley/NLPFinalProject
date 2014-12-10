@@ -1,0 +1,3 @@
+revised lss and ulls demand.
+the applicant (telstra) owns the lines over which the lss is provided.
+it was headed "lss index --- all docs" (lss index).

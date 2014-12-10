@@ -1,0 +1,3 @@
+the salvation army, or perhaps aas, does.
+this limited sanctioning of decompilation will not weaken the existing proscription of software piracy.
+given the impracticability of fixing errors in object code without making use of decompilation, the committee recommended in the draft report that reverse engineering including decompilation be permitted for the purpose of fixing errors in computer programs.

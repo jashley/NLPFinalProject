@@ -1,0 +1,3 @@
+18 the tid provides for a "symbion health break fee" and a "healthscope break fee".
+dspa completion takes place when symbion health transfers to healthscope all of the shares in sh holdings, and healthscope issues the consideration shares to symbion health.
+23 clause 13.9 contains the undertaking by symbion health to pay healthscope the symbion health break fee.
