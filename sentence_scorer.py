@@ -12,43 +12,11 @@ import xml.etree.ElementTree as ET
 import random
 import sys
 
-"""
-sent1 = "this is the first sentence of paragraph one ."
-sent2 = "this is the last sentence of paragraph one ."
-sent3 = "this is a highly important sentence with highly important facts ."
-sent4 = "nothing here a and is how the this I me no you it is was ."
-sent5 = "distinguishing words corpus panda document cat dog house ."
-example = [sent1, sent2, sent3, sent4, sent5]
-#example = [[sent1.split(), sent2.split()],[sent3.split()]]
-
-corpSent1 = "Look at this wonderful with corpus of words "
-corpSent2 = "Isn ' t it so of wonderful ?"
-corpSent3 = "Here is another of of corpus with common words a with of to a."
-corpSent4 = "This one has two paragraph with of to the of this a."
-corpus = [[[corpSent1.split(), corpSent2.split()]],
-	[[corpSent3.split()],[corpSent4.split()]]]
-"""
-
 def tfidfRank(d, toScore):
 	""" calculates the average tf-idf score of every sentence
 	in the example for the given corpus """
 
 	scores = []
-	"""
-	for paragraph in toScore:
-		parScores = []
-		for sentence in paragraph:
-			sentScore = 0.0
-			numHits = 0.0
-			for word in sentence:
-				if word in d:
-					sentScore += d[word]
-					numHits += 1.0
-			if sentScore > 0:
-				sentScore = sentScore/numHits
-			parScores.append(sentScore)
-		scores.append(parScores)
-	"""
 
 	for sentence in toScore:
 		sentScore = 0.0
@@ -71,16 +39,6 @@ def tfidfRank(d, toScore):
 def trainTFID(corpus):
 	"trains tf-idf model on corpus"
 	vect = TfidfVectorizer(min_df=0)
-
-	# turns corpus into desired form
-	"""
-	corp = []
-	for document in corpus:
-		for paragraph in document:
-			for sentence in paragraph:
-				corp.append(" ".join(sentence))
-
-	"""
 	corp = []
 	for doc in corpus:
 		dc = " ".join(doc)
@@ -132,8 +90,8 @@ def getSummary(scores, toSummarize, numSents):
 	for i in range(numSents):
 		arg = np.argmax(scores)
 		scores[arg] = -float("inf")
-		summary += [toSummarize[arg]]
-	return " ".join(summary)
+		summary += [st.cleanSentenceKeepPunctuation(toSummarize[arg])]
+	return "\n".join(summary)
 
 def printDoc(doc):
 	"""print out original document"""
@@ -186,9 +144,9 @@ def scoreWordsInDoc(numDocs, totalCounts, docCounts, totalDoc):
 			#elif totalVal/docVal > freq:
 				#print word, "too infrequent", totalVal/docVal
 				#scores[word] = 0.0
-			elif freq/numWords < .001:
-				print word, "uncommon word"
-				scores[word] = 0.0
+			#elif freq/numWords < .001:
+				#print word, "uncommon word"
+				#scores[word] = 0.0
 			elif getAlphaRatio(word) < .75:
 				print word, "non-alpha"
 				scores[word] = 0.0
@@ -209,16 +167,6 @@ def getAlphaRatio(word):
 	#print "ALPHA", word, alpha/length
 	return alpha/length
 
-def cleanSentence(text):
-    sent = []
-    exclude = set(string.punctuation)
-    for word in text.split():
-        #may want to do better things
-        # with punctuation
-        s = ''.join(ch.lower() for ch in word if ch not in exclude)
-        sent += [s]
-    return " ".join(sent)
-
 def positionalScores(toScore):
 	""" score sentences higher if they are close
 	to the beginning or end of the document"""
@@ -230,6 +178,7 @@ def positionalScores(toScore):
 	return normalizeScores(scores)
 
 def normalizeScores(scores):
+	""" normalize distribution of scores"""
 	total = sum(scores)
 	return [n/total for n in scores]
 
@@ -239,7 +188,7 @@ if __name__ == '__main__':
 	document = st.writeSentences(inputFile)
 	raw_document = st.writeSentences(inputFile, cleaned = False)
 
-	randomScores = getRandomScores(document)
+	random_scores = getRandomScores(document)
 	position_scores = positionalScores(document)
 
 	corpus = []
@@ -247,7 +196,8 @@ if __name__ == '__main__':
 	for filename in os.listdir('corpus/fulltext'):
 		if ('.xml' in filename):
 			numDocs += 1.0
-			corpus += [st.writeSentences(filename)]
+			#corpus += [st.writeSentences(filename)]
+			corpus += [st.getCleanedSentences(filename)]
 	print "done loading and cleaning files"
 
 	totalCorpus, docCorpus = countWords(corpus)
@@ -264,39 +214,22 @@ if __name__ == '__main__':
 
 	combined_scores = [x + y for x, y in zip(keywords_scores, position_scores)]
 
-	#print keywords_scores, tfidf_ranks
+	summary_filename =sys.argv[1][:-4]+".txt"
+	f = open('random_summary/'+summary_filename, 'w+')
+	summary = getSummary(random_scores, raw_document, 3)
+	f.write(summary)
+	f.close()
+	f = open('keyword_summary/'+summary_filename, 'w+')
+	summary = getSummary(keywords_scores, raw_document, 3)
+	f.write(summary)
+	f.close()
+	f = open('position_summary/'+summary_filename, 'w+')
+	summary = getSummary(position_scores, raw_document, 3)
+	f.write(summary)
+	f.close()
+	f = open('combined_summary/'+summary_filename, 'w+')
+	summary = getSummary(combined_scores, raw_document, 3)
+	f.write(summary)
+	f.close()
 
-	#print "ORIGINAL DOCUMENT"
-	#print
-	#printDoc(document)
-	#print
-	#print "RANDOM SUMMARY"
-	#print
-
-	#print getSummary(randomScores, raw_document, 2)
-	#print
-	#print "KEYWORDS SUMMARY"
-	#print keywords_scores
-	#print getSummary(keywords_scores, raw_document, 3)
-	f = open('keyword_summary/'+sys.argv[1], 'w+')
-	f.write(getSummary(keywords_scores, raw_document, 3))
-	f.close()
-	print
-	#print "POSITION SUMMARY"
-	#print position_scores
-	f = open('position_summary/'+sys.argv[1], 'w+')
-	f.write(getSummary(position_scores, raw_document, 3))
-	f.close()
-	#print getSummary(position_scores, raw_document, 3)
-	print
-	#print "COMBINED SUMMARY"
-	#print combined_scores
-	#print getSummary(combined_scores, raw_document, 3)
-	f = open('combined_summary/'+sys.argv[1], 'w+')
-	f.write(getSummary(combined_scores, raw_document, 3))
-	f.close()
-	#print
-	#print "TFIDF SUMMARY"
-	#print
-	#print getSummary(tfidf_ranks, document, 2)
 
