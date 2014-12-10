@@ -123,7 +123,7 @@ def scoreByKeyWords(keywords, toScore):
 		if sentScore > 0:
 			sentScore = sentScore/numHits
 		scores.append(sentScore)
-	return scores
+	return normalizeScores(scores)
 
 def getSummary(scores, toSummarize, numSents):
 	"""get summary based on highest scores"""
@@ -138,14 +138,6 @@ def getSummary(scores, toSummarize, numSents):
 def printDoc(doc):
 	"""print out original document"""
 	print " ".join(doc)
-
-def flattenList(l):
-	"""Flatten documents into single list"""
-	flat = []
-	for paragraph in l:
-		for sentence in paragraph:
-			flat.append(sentence)
-	return flat
 
 def getRandomScores(doc):
 	""" Random scoring for comparisons"""
@@ -207,6 +199,8 @@ def scoreWordsInDoc(numDocs, totalCounts, docCounts, totalDoc):
 	return scores
 
 def getAlphaRatio(word):
+	""" calculates the ratio of alpha to nonalpha scores
+	in the word """
 	length = len(word)
 	alpha = 0.0
 	for letter in word:
@@ -216,7 +210,6 @@ def getAlphaRatio(word):
 	return alpha/length
 
 def cleanSentence(text):
-
     sent = []
     exclude = set(string.punctuation)
     for word in text.split():
@@ -226,6 +219,20 @@ def cleanSentence(text):
         sent += [s]
     return " ".join(sent)
 
+def positionalScores(toScore):
+	""" score sentences higher if they are close
+	to the beginning or end of the document"""
+	midpoint = len(toScore)/2
+	scores = []
+	for i in range(len(toScore)):
+		score = float(abs(midpoint - i))**10
+		scores += [score]
+	return normalizeScores(scores)
+
+def normalizeScores(scores):
+	total = sum(scores)
+	return [n/total for n in scores]
+
 
 if __name__ == '__main__':
 	inputFile = sys.argv[1]
@@ -233,6 +240,7 @@ if __name__ == '__main__':
 	raw_document = st.writeSentences(inputFile, cleaned = False)
 
 	randomScores = getRandomScores(document)
+	position_scores = positionalScores(document)
 
 	corpus = []
 	numDocs = 0.0
@@ -254,6 +262,8 @@ if __name__ == '__main__':
 	#keywords_scores = scoreByKeyWords(keywords, document)
 	keywords_scores = scoreByKeyWords(scoreWords, document)
 
+	combined_scores = [x + y for x, y in zip(keywords_scores, position_scores)]
+
 	#print keywords_scores, tfidf_ranks
 
 	#print "ORIGINAL DOCUMENT"
@@ -265,9 +275,26 @@ if __name__ == '__main__':
 
 	#print getSummary(randomScores, raw_document, 2)
 	#print
-	print "KEYWORDS SUMMARY"
-	print keywords_scores
-	print getSummary(keywords_scores, raw_document, 2)
+	#print "KEYWORDS SUMMARY"
+	#print keywords_scores
+	#print getSummary(keywords_scores, raw_document, 3)
+	f = open('keyword_summary/'+sys.argv[1], 'w+')
+	f.write(getSummary(keywords_scores, raw_document, 3))
+	f.close()
+	print
+	#print "POSITION SUMMARY"
+	#print position_scores
+	f = open('position_summary/'+sys.argv[1], 'w+')
+	f.write(getSummary(position_scores, raw_document, 3))
+	f.close()
+	#print getSummary(position_scores, raw_document, 3)
+	print
+	#print "COMBINED SUMMARY"
+	#print combined_scores
+	#print getSummary(combined_scores, raw_document, 3)
+	f = open('combined_summary/'+sys.argv[1], 'w+')
+	f.write(getSummary(combined_scores, raw_document, 3))
+	f.close()
 	#print
 	#print "TFIDF SUMMARY"
 	#print
