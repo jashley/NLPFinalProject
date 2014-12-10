@@ -1,3 +1,0 @@
-mr mckinnon pointed out that, if the gap between the two points of contact (a and b on dr kneen's drawing) was too great, it would allow for lateral and torsional deflection.
-i did not however understand him to say that a gap of 1 mm would prevent that engagement.
-he identified one such method.

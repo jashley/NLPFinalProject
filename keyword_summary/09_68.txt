@@ -1,3 +1,0 @@
-in response, fcn says three things.
-tfn says that fcn has failed to do so.
-however, on the evidence, fcn is a going concern.

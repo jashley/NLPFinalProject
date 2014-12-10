@@ -1,3 +1,0 @@
-if the agent decides to have the gds electronically construct the fare the gds will automatically provide the agent with the best fare available.
-any fare surcharges applicable to a particular fare will also be included in the fare calculation box.
-relevant fare surcharges that appear in the fare calculation box are surcharges that apply to the particular fare.

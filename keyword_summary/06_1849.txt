@@ -1,3 +1,0 @@
-stork icm ats comiskey 10.
-stork icm ats kyle 9.
-stork icm ats england 11.

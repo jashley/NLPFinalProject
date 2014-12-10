@@ -1,3 +1,0 @@
-note: settlement and entry of orders is dealt with in order 36 of the federal court rules .
-the notice requirement can be waived by the court under s 100(1).
-moreover it is not admissible if the court considers that it would not, either by itself or having regard to other evidence, have significant probative value.

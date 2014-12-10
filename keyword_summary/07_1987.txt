@@ -1,3 +1,0 @@
-separate files are opened within ogc and marked accordingly.
-their evidence demonstrated that ogc operates as a separate functional unit with pwc.
-i refer below to the evidence touching on the independence of ogc.

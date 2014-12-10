@@ -1,3 +1,0 @@
-bsl will use the purchase data to calculate and claim rebates on behalf of bsl, bslf, related corporations and retailers.
-9.2 if for any reason the supplier owes any money to bsl, bslf or a related corporation, bsl, bslf or a related corporation may set off and deduct that money from any amounts payable by bsl, bslf or a related corporation to the supplier.
-6.2 subject to clauses 6.3 and 6.4, all rebates and fees (including discounts in relation to early payment of accounts, where applicable) will be deducted by bslf from payments owing to the supplier by bslf or bsl, unless otherwise agreed in writing between bsl, bslf and the supplier from time to time.

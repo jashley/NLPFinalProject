@@ -1,3 +1,0 @@
-in oral evidence, mr hunter was asked to explain why a plurality of springs with alternate windings could avoid stairstepping.
-the general effect is to provide a "soft" or "gradual" clutching operation.
-spring clutches are designed to translate rotational forces from one shaft to another coaxial shaft, smoothly.

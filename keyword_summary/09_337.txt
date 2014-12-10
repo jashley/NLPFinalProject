@@ -1,3 +1,0 @@
-it warns the debtor of the possibility of bankruptcy proceedings if the requirements of the notice are not complied with.
-similarly, if service of a bankruptcy notice was effected by email, unless the scanner used by the creditor to scan the image of the notice for it to be sent to the debtor was a colour scanner, the recipient of the notice would not know whether the document sent was an original or a photocopy.
-the creditor must apply to the official receiver for a bankruptcy notice: reg 4.01 of the bankruptcy regulations .

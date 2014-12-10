@@ -1,3 +1,0 @@
-service by teracomm.
-service provided by teracomm.
-the aggregator forwarded the letter to teracomm.

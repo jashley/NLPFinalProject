@@ -1,3 +1,0 @@
-vacant ulls defined by code 569 as "a ulls that is not an in use ulls".
-" ulls identifier defined by code 569 as "a unique number allocated by the [access provider] to an individual ulls".
-ulls request defined by code 569 as "a specific request from the [access seeker which will gain the customer] to the [access provider] for a vacant or in use ulls or ulls transfer request.

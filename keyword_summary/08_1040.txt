@@ -1,3 +1,0 @@
-' djukic : 'yes'.
-' djukic: 'yes.
-' djukic: 'yes.

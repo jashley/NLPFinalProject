@@ -1,3 +1,0 @@
-mr guest accepted that profile 1 was correct for the general 95db (non telstra) setting.
-the report was not made available to the general public.
-the results were 97% correct on monosyllabic words, using phonemic scoring, and 93% correct using whole word scoring.

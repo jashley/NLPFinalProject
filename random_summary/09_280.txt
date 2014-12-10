@@ -1,3 +1,0 @@
-for the purposes of this analysis, it is appropriate to focus a little more carefully on what "commission" means.
-that is, it is not distributed among the airlines on the ticket where there are multiple airlines.
-alternatively, a ticket may be issued by an airline for an itinerary involving travel on that airline as well as on one or more other airlines.

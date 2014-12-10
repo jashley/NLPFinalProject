@@ -1,3 +1,0 @@
-jarra seeks an additional nine fields of meta-data information.
-as noted earlier, the accc protocol anticipates the production of fourteen meta-data searchable fields.
-jarra seeks to have the protocol varied in this proceeding to require the meta-data fields to be increased to 23 fields.

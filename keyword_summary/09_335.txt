@@ -1,3 +1,0 @@
-" mr medich: "how much do you want?
-' medich: 'keep it for the time being.
-" mr medich: "i will arrange for a transfer.

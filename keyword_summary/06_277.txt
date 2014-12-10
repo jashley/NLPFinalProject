@@ -1,3 +1,0 @@
-this sets out calculations under four scenarios --- pooling with the aae pooling compromise deed implemented, no pooling with the aae pooling compromise deed implemented, pooling without the aae pooling compromise deed being implemented and no pooling without the aae pooling compromise deed being implemented.
-in the pooling scenario (with aae compromise) all the $27 million goes to the aae bank creditors and ordinary third party non-priority creditors receive no return.
-59 as explained above (par [55]), it seems that the correct comparison is between pooling with the aae pooling compromise deed implemented and no pooling without the aae pooling compromise deed being implemented.

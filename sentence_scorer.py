@@ -212,22 +212,22 @@ if __name__ == '__main__':
 		keywords_scores = scoreByKeyWords(scoreWords, document)
 		combined_scores = [x + y for x, y in zip(keywords_scores, position_scores)]
 		#summary_filename = sys.argv[1][:-4]+".txt"
-		summary_filename = inputFile[:-4]+".txt"
+		summary_filename = inputFile[:-4]
 		
 		# write files
-		f = open('random_summary/'+summary_filename, 'w+')
+		f = open('random_summary/'+summary_filename+".random.system", 'w+')
 		summary = getSummary(random_scores, raw_document, 3)
 		f.write(summary)
 		f.close()
-		f = open('keyword_summary/'+summary_filename, 'w+')
+		f = open('keyword_summary/'+summary_filename+".keyword.system", 'w+')
 		summary = getSummary(keywords_scores, raw_document, 3)
 		f.write(summary)
 		f.close()
-		f = open('position_summary/'+summary_filename, 'w+')
+		f = open('position_summary/'+summary_filename+".positional.system", 'w+')
 		summary = getSummary(position_scores, raw_document, 3)
 		f.write(summary)
 		f.close()
-		f = open('combined_summary/'+summary_filename, 'w+')
+		f = open('combined_summary/'+summary_filename+".combined.system", 'w+')
 		summary = getSummary(combined_scores, raw_document, 3)
 		f.write(summary)
 		f.close()
