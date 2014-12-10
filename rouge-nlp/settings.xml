@@ -1,0 +1,45 @@
+<ROUGE_EVAL version="1.5.5">
+<EVAL ID="1">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="">test1.system.html</P>
+<P ID="">test1.system1.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">test1.1.gold.html</M>
+<M ID="2">test1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="2">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="">test2.system.html</P>
+<P ID="">test2.system1.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">test2.2.gold.html</M>
+<M ID="2">test2.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="3">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="">test3.system.html</P>
+<P ID="">test3.system1.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">test3.1.gold.html</M>
+<M ID="2">test3.gold.html</M>
+</MODELS>
+	</EVAL>
+
+</ROUGE_EVAL>
