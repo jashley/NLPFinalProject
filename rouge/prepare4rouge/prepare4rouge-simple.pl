@@ -159,8 +159,8 @@ foreach my $file (@thegoldfiles)
 	if (scalar(@peers)>0) {
 	
 	print CONFIG "<EVAL ID=\"$evalID\">\n";
-	print CONFIG "<PEER-ROOT>$DIR_SYSTEM</PEER-ROOT>\n";
-	print CONFIG "<MODEL-ROOT>$DIR_GOLD</MODEL-ROOT>\n";
+	print CONFIG "<PEER-ROOT>$OUTPUT_HOME/systems</PEER-ROOT>\n";
+	print CONFIG "<MODEL-ROOT>$OUTPUT_HOME/models</MODEL-ROOT>\n";
 	print CONFIG "<INPUT-FORMAT TYPE=\"SEE\"></INPUT-FORMAT>\n<PEERS>";
 	my $id=1;
 	foreach my $peer (@peers) 

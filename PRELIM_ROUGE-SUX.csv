@@ -1,0 +1,5 @@
+runid,recall,precision,f-score
+combined_ROUGE-SU*,0.01047,0.04502,0.0066
+keyword_ROUGE-SU*,0.00192,0.03404,0.00236
+positional_ROUGE-SU*,0.01554,0.05164,0.01044
+random_ROUGE-SU*,0.00491,0.08174,0.00657

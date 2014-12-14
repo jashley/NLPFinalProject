@@ -4,13 +4,400 @@
 <MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
 <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
 <PEERS>
-<P ID="">test1.system.html</P>
-<P ID="">test1.system1.system.html</P></PEERS>
+<P ID="combined">06_1.combined.system.html</P>
+<P ID="keyword">06_1.keyword.system.html</P>
+<P ID="positional">06_1.positional.system.html</P>
+<P ID="random">06_1.random.system.html</P>
+<P ID="combined">06_100.combined.system.html</P>
+<P ID="keyword">06_100.keyword.system.html</P>
+<P ID="positional">06_100.positional.system.html</P>
+<P ID="random">06_100.random.system.html</P>
+<P ID="combined">06_1001.combined.system.html</P>
+<P ID="keyword">06_1001.keyword.system.html</P>
+<P ID="positional">06_1001.positional.system.html</P>
+<P ID="random">06_1001.random.system.html</P>
+<P ID="combined">06_1004.combined.system.html</P>
+<P ID="keyword">06_1004.keyword.system.html</P>
+<P ID="positional">06_1004.positional.system.html</P>
+<P ID="random">06_1004.random.system.html</P>
+<P ID="combined">06_1005.combined.system.html</P>
+<P ID="keyword">06_1005.keyword.system.html</P>
+<P ID="positional">06_1005.positional.system.html</P>
+<P ID="random">06_1005.random.system.html</P>
+<P ID="combined">06_1006.combined.system.html</P>
+<P ID="keyword">06_1006.keyword.system.html</P>
+<P ID="positional">06_1006.positional.system.html</P>
+<P ID="random">06_1006.random.system.html</P>
+<P ID="combined">06_1015.combined.system.html</P>
+<P ID="keyword">06_1015.keyword.system.html</P>
+<P ID="positional">06_1015.positional.system.html</P>
+<P ID="random">06_1015.random.system.html</P>
+<P ID="combined">06_1017.combined.system.html</P>
+<P ID="keyword">06_1017.keyword.system.html</P>
+<P ID="positional">06_1017.positional.system.html</P>
+<P ID="random">06_1017.random.system.html</P>
+<P ID="combined">06_1018.combined.system.html</P>
+<P ID="keyword">06_1018.keyword.system.html</P>
+<P ID="positional">06_1018.positional.system.html</P>
+<P ID="random">06_1018.random.system.html</P>
+<P ID="combined">06_102.combined.system.html</P>
+<P ID="keyword">06_102.keyword.system.html</P>
+<P ID="positional">06_102.positional.system.html</P>
+<P ID="random">06_102.random.system.html</P>
+<P ID="combined">06_1021.combined.system.html</P>
+<P ID="keyword">06_1021.keyword.system.html</P>
+<P ID="positional">06_1021.positional.system.html</P>
+<P ID="random">06_1021.random.system.html</P>
+<P ID="combined">06_1022.combined.system.html</P>
+<P ID="keyword">06_1022.keyword.system.html</P>
+<P ID="positional">06_1022.positional.system.html</P>
+<P ID="random">06_1022.random.system.html</P>
+<P ID="combined">06_1023.combined.system.html</P>
+<P ID="keyword">06_1023.keyword.system.html</P>
+<P ID="positional">06_1023.positional.system.html</P>
+<P ID="random">06_1023.random.system.html</P>
+<P ID="combined">06_1026.combined.system.html</P>
+<P ID="keyword">06_1026.keyword.system.html</P>
+<P ID="positional">06_1026.positional.system.html</P>
+<P ID="random">06_1026.random.system.html</P>
+<P ID="combined">06_1027.combined.system.html</P>
+<P ID="keyword">06_1027.keyword.system.html</P>
+<P ID="positional">06_1027.positional.system.html</P>
+<P ID="random">06_1027.random.system.html</P>
+<P ID="combined">06_1028.combined.system.html</P>
+<P ID="keyword">06_1028.keyword.system.html</P>
+<P ID="positional">06_1028.positional.system.html</P>
+<P ID="random">06_1028.random.system.html</P>
+<P ID="combined">06_1029.combined.system.html</P>
+<P ID="keyword">06_1029.keyword.system.html</P>
+<P ID="positional">06_1029.positional.system.html</P>
+<P ID="random">06_1029.random.system.html</P>
+<P ID="combined">06_1032.combined.system.html</P>
+<P ID="keyword">06_1032.keyword.system.html</P>
+<P ID="positional">06_1032.positional.system.html</P>
+<P ID="random">06_1032.random.system.html</P>
+<P ID="combined">06_1033.combined.system.html</P>
+<P ID="keyword">06_1033.keyword.system.html</P>
+<P ID="positional">06_1033.positional.system.html</P>
+<P ID="random">06_1033.random.system.html</P>
+<P ID="combined">06_1041.combined.system.html</P>
+<P ID="keyword">06_1041.keyword.system.html</P>
+<P ID="positional">06_1041.positional.system.html</P>
+<P ID="random">06_1041.random.system.html</P>
+<P ID="combined">06_1042.combined.system.html</P>
+<P ID="keyword">06_1042.keyword.system.html</P>
+<P ID="positional">06_1042.positional.system.html</P>
+<P ID="random">06_1042.random.system.html</P>
+<P ID="combined">06_1043.combined.system.html</P>
+<P ID="keyword">06_1043.keyword.system.html</P>
+<P ID="positional">06_1043.positional.system.html</P>
+<P ID="random">06_1043.random.system.html</P>
+<P ID="combined">06_1044.combined.system.html</P>
+<P ID="keyword">06_1044.keyword.system.html</P>
+<P ID="positional">06_1044.positional.system.html</P>
+<P ID="random">06_1044.random.system.html</P>
+<P ID="combined">06_1045.combined.system.html</P>
+<P ID="keyword">06_1045.keyword.system.html</P>
+<P ID="positional">06_1045.positional.system.html</P>
+<P ID="random">06_1045.random.system.html</P>
+<P ID="combined">06_1046.combined.system.html</P>
+<P ID="keyword">06_1046.keyword.system.html</P>
+<P ID="positional">06_1046.positional.system.html</P>
+<P ID="random">06_1046.random.system.html</P>
+<P ID="combined">06_1048.combined.system.html</P>
+<P ID="keyword">06_1048.keyword.system.html</P>
+<P ID="positional">06_1048.positional.system.html</P>
+<P ID="random">06_1048.random.system.html</P>
+<P ID="combined">06_1049.combined.system.html</P>
+<P ID="keyword">06_1049.keyword.system.html</P>
+<P ID="positional">06_1049.positional.system.html</P>
+<P ID="random">06_1049.random.system.html</P>
+<P ID="combined">06_105.combined.system.html</P>
+<P ID="keyword">06_105.keyword.system.html</P>
+<P ID="positional">06_105.positional.system.html</P>
+<P ID="random">06_105.random.system.html</P>
+<P ID="combined">06_1050.combined.system.html</P>
+<P ID="keyword">06_1050.keyword.system.html</P>
+<P ID="positional">06_1050.positional.system.html</P>
+<P ID="random">06_1050.random.system.html</P>
+<P ID="combined">06_1051.combined.system.html</P>
+<P ID="keyword">06_1051.keyword.system.html</P>
+<P ID="positional">06_1051.positional.system.html</P>
+<P ID="random">06_1051.random.system.html</P>
+<P ID="combined">06_1054.combined.system.html</P>
+<P ID="keyword">06_1054.keyword.system.html</P>
+<P ID="positional">06_1054.positional.system.html</P>
+<P ID="random">06_1054.random.system.html</P>
+<P ID="combined">06_1056.combined.system.html</P>
+<P ID="keyword">06_1056.keyword.system.html</P>
+<P ID="positional">06_1056.positional.system.html</P>
+<P ID="random">06_1056.random.system.html</P>
+<P ID="combined">06_106.combined.system.html</P>
+<P ID="keyword">06_106.keyword.system.html</P>
+<P ID="positional">06_106.positional.system.html</P>
+<P ID="random">06_106.random.system.html</P>
+<P ID="combined">06_1066.combined.system.html</P>
+<P ID="keyword">06_1066.keyword.system.html</P>
+<P ID="positional">06_1066.positional.system.html</P>
+<P ID="random">06_1066.random.system.html</P>
+<P ID="combined">06_1069.combined.system.html</P>
+<P ID="keyword">06_1069.keyword.system.html</P>
+<P ID="positional">06_1069.positional.system.html</P>
+<P ID="random">06_1069.random.system.html</P>
+<P ID="combined">06_107.combined.system.html</P>
+<P ID="keyword">06_107.keyword.system.html</P>
+<P ID="positional">06_107.positional.system.html</P>
+<P ID="random">06_107.random.system.html</P>
+<P ID="combined">06_1070.combined.system.html</P>
+<P ID="keyword">06_1070.keyword.system.html</P>
+<P ID="positional">06_1070.positional.system.html</P>
+<P ID="random">06_1070.random.system.html</P>
+<P ID="combined">06_1071.combined.system.html</P>
+<P ID="keyword">06_1071.keyword.system.html</P>
+<P ID="positional">06_1071.positional.system.html</P>
+<P ID="random">06_1071.random.system.html</P>
+<P ID="combined">06_1072.combined.system.html</P>
+<P ID="keyword">06_1072.keyword.system.html</P>
+<P ID="positional">06_1072.positional.system.html</P>
+<P ID="random">06_1072.random.system.html</P>
+<P ID="combined">06_1073.combined.system.html</P>
+<P ID="keyword">06_1073.keyword.system.html</P>
+<P ID="positional">06_1073.positional.system.html</P>
+<P ID="random">06_1073.random.system.html</P>
+<P ID="combined">06_1074.combined.system.html</P>
+<P ID="keyword">06_1074.keyword.system.html</P>
+<P ID="positional">06_1074.positional.system.html</P>
+<P ID="random">06_1074.random.system.html</P>
+<P ID="combined">06_1075.combined.system.html</P>
+<P ID="keyword">06_1075.keyword.system.html</P>
+<P ID="positional">06_1075.positional.system.html</P>
+<P ID="random">06_1075.random.system.html</P>
+<P ID="combined">06_1077.combined.system.html</P>
+<P ID="keyword">06_1077.keyword.system.html</P>
+<P ID="positional">06_1077.positional.system.html</P>
+<P ID="random">06_1077.random.system.html</P>
+<P ID="combined">06_1078.combined.system.html</P>
+<P ID="keyword">06_1078.keyword.system.html</P>
+<P ID="positional">06_1078.positional.system.html</P>
+<P ID="random">06_1078.random.system.html</P>
+<P ID="combined">06_1079.combined.system.html</P>
+<P ID="keyword">06_1079.keyword.system.html</P>
+<P ID="positional">06_1079.positional.system.html</P>
+<P ID="random">06_1079.random.system.html</P>
+<P ID="combined">06_1080.combined.system.html</P>
+<P ID="keyword">06_1080.keyword.system.html</P>
+<P ID="positional">06_1080.positional.system.html</P>
+<P ID="random">06_1080.random.system.html</P>
+<P ID="combined">06_1082.combined.system.html</P>
+<P ID="keyword">06_1082.keyword.system.html</P>
+<P ID="positional">06_1082.positional.system.html</P>
+<P ID="random">06_1082.random.system.html</P>
+<P ID="combined">06_1083.combined.system.html</P>
+<P ID="keyword">06_1083.keyword.system.html</P>
+<P ID="positional">06_1083.positional.system.html</P>
+<P ID="random">06_1083.random.system.html</P>
+<P ID="combined">06_1084.combined.system.html</P>
+<P ID="keyword">06_1084.keyword.system.html</P>
+<P ID="positional">06_1084.positional.system.html</P>
+<P ID="random">06_1084.random.system.html</P>
+<P ID="combined">06_1085.combined.system.html</P>
+<P ID="keyword">06_1085.keyword.system.html</P>
+<P ID="positional">06_1085.positional.system.html</P>
+<P ID="random">06_1085.random.system.html</P>
+<P ID="combined">06_1086.combined.system.html</P>
+<P ID="keyword">06_1086.keyword.system.html</P>
+<P ID="positional">06_1086.positional.system.html</P>
+<P ID="random">06_1086.random.system.html</P>
+<P ID="combined">06_1088.combined.system.html</P>
+<P ID="keyword">06_1088.keyword.system.html</P>
+<P ID="positional">06_1088.positional.system.html</P>
+<P ID="random">06_1088.random.system.html</P>
+<P ID="combined">06_1089.combined.system.html</P>
+<P ID="keyword">06_1089.keyword.system.html</P>
+<P ID="positional">06_1089.positional.system.html</P>
+<P ID="random">06_1089.random.system.html</P>
+<P ID="combined">06_109.combined.system.html</P>
+<P ID="keyword">06_109.keyword.system.html</P>
+<P ID="positional">06_109.positional.system.html</P>
+<P ID="random">06_109.random.system.html</P>
+<P ID="combined">06_1095.combined.system.html</P>
+<P ID="keyword">06_1095.keyword.system.html</P>
+<P ID="positional">06_1095.positional.system.html</P>
+<P ID="random">06_1095.random.system.html</P>
+<P ID="combined">06_1096.combined.system.html</P>
+<P ID="keyword">06_1096.keyword.system.html</P>
+<P ID="positional">06_1096.positional.system.html</P>
+<P ID="random">06_1096.random.system.html</P>
+<P ID="combined">06_1097.combined.system.html</P>
+<P ID="keyword">06_1097.keyword.system.html</P>
+<P ID="positional">06_1097.positional.system.html</P>
+<P ID="random">06_1097.random.system.html</P>
+<P ID="combined">06_1098.combined.system.html</P>
+<P ID="keyword">06_1098.keyword.system.html</P>
+<P ID="positional">06_1098.positional.system.html</P>
+<P ID="random">06_1098.random.system.html</P>
+<P ID="combined">06_11.combined.system.html</P>
+<P ID="keyword">06_11.keyword.system.html</P>
+<P ID="positional">06_11.positional.system.html</P>
+<P ID="random">06_11.random.system.html</P>
+<P ID="combined">06_110.combined.system.html</P>
+<P ID="keyword">06_110.keyword.system.html</P>
+<P ID="positional">06_110.positional.system.html</P>
+<P ID="random">06_110.random.system.html</P>
+<P ID="combined">06_1101.combined.system.html</P>
+<P ID="keyword">06_1101.keyword.system.html</P>
+<P ID="positional">06_1101.positional.system.html</P>
+<P ID="random">06_1101.random.system.html</P>
+<P ID="combined">06_1102.combined.system.html</P>
+<P ID="keyword">06_1102.keyword.system.html</P>
+<P ID="positional">06_1102.positional.system.html</P>
+<P ID="random">06_1102.random.system.html</P>
+<P ID="combined">06_1104.combined.system.html</P>
+<P ID="keyword">06_1104.keyword.system.html</P>
+<P ID="positional">06_1104.positional.system.html</P>
+<P ID="random">06_1104.random.system.html</P>
+<P ID="combined">06_1106.combined.system.html</P>
+<P ID="keyword">06_1106.keyword.system.html</P>
+<P ID="positional">06_1106.positional.system.html</P>
+<P ID="random">06_1106.random.system.html</P>
+<P ID="combined">06_1110.combined.system.html</P>
+<P ID="keyword">06_1110.keyword.system.html</P>
+<P ID="positional">06_1110.positional.system.html</P>
+<P ID="random">06_1110.random.system.html</P>
+<P ID="combined">06_1112.combined.system.html</P>
+<P ID="keyword">06_1112.keyword.system.html</P>
+<P ID="positional">06_1112.positional.system.html</P>
+<P ID="random">06_1112.random.system.html</P>
+<P ID="combined">06_1113.combined.system.html</P>
+<P ID="keyword">06_1113.keyword.system.html</P>
+<P ID="positional">06_1113.positional.system.html</P>
+<P ID="random">06_1113.random.system.html</P>
+<P ID="combined">06_1114.combined.system.html</P>
+<P ID="keyword">06_1114.keyword.system.html</P>
+<P ID="positional">06_1114.positional.system.html</P>
+<P ID="random">06_1114.random.system.html</P>
+<P ID="combined">06_1115.combined.system.html</P>
+<P ID="keyword">06_1115.keyword.system.html</P>
+<P ID="positional">06_1115.positional.system.html</P>
+<P ID="random">06_1115.random.system.html</P>
+<P ID="combined">06_112.combined.system.html</P>
+<P ID="keyword">06_112.keyword.system.html</P>
+<P ID="positional">06_112.positional.system.html</P>
+<P ID="random">06_112.random.system.html</P>
+<P ID="combined">06_114.combined.system.html</P>
+<P ID="keyword">06_114.keyword.system.html</P>
+<P ID="positional">06_114.positional.system.html</P>
+<P ID="random">06_114.random.system.html</P>
+<P ID="combined">06_118.combined.system.html</P>
+<P ID="keyword">06_118.keyword.system.html</P>
+<P ID="positional">06_118.positional.system.html</P>
+<P ID="random">06_118.random.system.html</P>
+<P ID="combined">06_12.combined.system.html</P>
+<P ID="keyword">06_12.keyword.system.html</P>
+<P ID="positional">06_12.positional.system.html</P>
+<P ID="random">06_12.random.system.html</P>
+<P ID="combined">06_121.combined.system.html</P>
+<P ID="keyword">06_121.keyword.system.html</P>
+<P ID="positional">06_121.positional.system.html</P>
+<P ID="random">06_121.random.system.html</P>
+<P ID="combined">06_122.combined.system.html</P>
+<P ID="keyword">06_122.keyword.system.html</P>
+<P ID="positional">06_122.positional.system.html</P>
+<P ID="random">06_122.random.system.html</P>
+<P ID="combined">06_124.combined.system.html</P>
+<P ID="keyword">06_124.keyword.system.html</P>
+<P ID="positional">06_124.positional.system.html</P>
+<P ID="random">06_124.random.system.html</P>
+<P ID="combined">06_125.combined.system.html</P>
+<P ID="keyword">06_125.keyword.system.html</P>
+<P ID="positional">06_125.positional.system.html</P>
+<P ID="random">06_125.random.system.html</P>
+<P ID="combined">06_126.combined.system.html</P>
+<P ID="keyword">06_126.keyword.system.html</P>
+<P ID="positional">06_126.positional.system.html</P>
+<P ID="random">06_126.random.system.html</P></PEERS>
 
 	<MODELS>
 
-<M ID="1">test1.1.gold.html</M>
-<M ID="2">test1.gold.html</M>
+<M ID="1">06_1.1.gold.html</M>
+<M ID="2">06_100.1.gold.html</M>
+<M ID="3">06_1001.1.gold.html</M>
+<M ID="4">06_1004.1.gold.html</M>
+<M ID="5">06_1005.1.gold.html</M>
+<M ID="6">06_1006.1.gold.html</M>
+<M ID="7">06_1015.1.gold.html</M>
+<M ID="8">06_1017.1.gold.html</M>
+<M ID="9">06_1018.1.gold.html</M>
+<M ID="10">06_102.1.gold.html</M>
+<M ID="11">06_1021.1.gold.html</M>
+<M ID="12">06_1022.1.gold.html</M>
+<M ID="13">06_1023.1.gold.html</M>
+<M ID="14">06_1026.1.gold.html</M>
+<M ID="15">06_1027.1.gold.html</M>
+<M ID="16">06_1028.1.gold.html</M>
+<M ID="17">06_1029.1.gold.html</M>
+<M ID="18">06_1032.1.gold.html</M>
+<M ID="19">06_1033.1.gold.html</M>
+<M ID="20">06_1041.1.gold.html</M>
+<M ID="21">06_1042.1.gold.html</M>
+<M ID="22">06_1043.1.gold.html</M>
+<M ID="23">06_1044.1.gold.html</M>
+<M ID="24">06_1045.1.gold.html</M>
+<M ID="25">06_1046.1.gold.html</M>
+<M ID="26">06_1048.1.gold.html</M>
+<M ID="27">06_1049.1.gold.html</M>
+<M ID="28">06_105.1.gold.html</M>
+<M ID="29">06_1050.1.gold.html</M>
+<M ID="30">06_1051.1.gold.html</M>
+<M ID="31">06_1054.1.gold.html</M>
+<M ID="32">06_1056.1.gold.html</M>
+<M ID="33">06_106.1.gold.html</M>
+<M ID="34">06_1066.1.gold.html</M>
+<M ID="35">06_1069.1.gold.html</M>
+<M ID="36">06_107.1.gold.html</M>
+<M ID="37">06_1070.1.gold.html</M>
+<M ID="38">06_1071.1.gold.html</M>
+<M ID="39">06_1072.1.gold.html</M>
+<M ID="40">06_1073.1.gold.html</M>
+<M ID="41">06_1074.1.gold.html</M>
+<M ID="42">06_1075.1.gold.html</M>
+<M ID="43">06_1077.1.gold.html</M>
+<M ID="44">06_1078.1.gold.html</M>
+<M ID="45">06_1079.1.gold.html</M>
+<M ID="46">06_1080.1.gold.html</M>
+<M ID="47">06_1082.1.gold.html</M>
+<M ID="48">06_1083.1.gold.html</M>
+<M ID="49">06_1084.1.gold.html</M>
+<M ID="50">06_1085.1.gold.html</M>
+<M ID="51">06_1086.1.gold.html</M>
+<M ID="52">06_1088.1.gold.html</M>
+<M ID="53">06_1089.1.gold.html</M>
+<M ID="54">06_109.1.gold.html</M>
+<M ID="55">06_1095.1.gold.html</M>
+<M ID="56">06_1096.1.gold.html</M>
+<M ID="57">06_1097.1.gold.html</M>
+<M ID="58">06_1098.1.gold.html</M>
+<M ID="59">06_11.1.gold.html</M>
+<M ID="60">06_110.1.gold.html</M>
+<M ID="61">06_1101.1.gold.html</M>
+<M ID="62">06_1102.1.gold.html</M>
+<M ID="63">06_1104.1.gold.html</M>
+<M ID="64">06_1106.1.gold.html</M>
+<M ID="65">06_1110.1.gold.html</M>
+<M ID="66">06_1112.1.gold.html</M>
+<M ID="67">06_1113.1.gold.html</M>
+<M ID="68">06_1114.1.gold.html</M>
+<M ID="69">06_1115.1.gold.html</M>
+<M ID="70">06_1116.1.gold.html</M>
+<M ID="71">06_112.1.gold.html</M>
+<M ID="72">06_114.1.gold.html</M>
+<M ID="73">06_118.1.gold.html</M>
+<M ID="74">06_12.1.gold.html</M>
+<M ID="75">06_121.1.gold.html</M>
+<M ID="76">06_122.1.gold.html</M>
+<M ID="77">06_124.1.gold.html</M>
+<M ID="78">06_125.1.gold.html</M>
+<M ID="79">06_126.1.gold.html</M>
 </MODELS>
 	</EVAL>
 <EVAL ID="2">
@@ -18,13 +405,34 @@
 <MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
 <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
 <PEERS>
-<P ID="">test2.system.html</P>
-<P ID="">test2.system1.system.html</P></PEERS>
+<P ID="combined">06_100.combined.system.html</P>
+<P ID="keyword">06_100.keyword.system.html</P>
+<P ID="positional">06_100.positional.system.html</P>
+<P ID="random">06_100.random.system.html</P>
+<P ID="combined">06_1001.combined.system.html</P>
+<P ID="keyword">06_1001.keyword.system.html</P>
+<P ID="positional">06_1001.positional.system.html</P>
+<P ID="random">06_1001.random.system.html</P>
+<P ID="combined">06_1004.combined.system.html</P>
+<P ID="keyword">06_1004.keyword.system.html</P>
+<P ID="positional">06_1004.positional.system.html</P>
+<P ID="random">06_1004.random.system.html</P>
+<P ID="combined">06_1005.combined.system.html</P>
+<P ID="keyword">06_1005.keyword.system.html</P>
+<P ID="positional">06_1005.positional.system.html</P>
+<P ID="random">06_1005.random.system.html</P>
+<P ID="combined">06_1006.combined.system.html</P>
+<P ID="keyword">06_1006.keyword.system.html</P>
+<P ID="positional">06_1006.positional.system.html</P>
+<P ID="random">06_1006.random.system.html</P></PEERS>
 
 	<MODELS>
 
-<M ID="1">test2.2.gold.html</M>
-<M ID="2">test2.gold.html</M>
+<M ID="1">06_100.1.gold.html</M>
+<M ID="2">06_1001.1.gold.html</M>
+<M ID="3">06_1004.1.gold.html</M>
+<M ID="4">06_1005.1.gold.html</M>
+<M ID="5">06_1006.1.gold.html</M>
 </MODELS>
 	</EVAL>
 <EVAL ID="3">
@@ -32,13 +440,1380 @@
 <MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
 <INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
 <PEERS>
-<P ID="">test3.system.html</P>
-<P ID="">test3.system1.system.html</P></PEERS>
+<P ID="combined">06_1001.combined.system.html</P>
+<P ID="keyword">06_1001.keyword.system.html</P>
+<P ID="positional">06_1001.positional.system.html</P>
+<P ID="random">06_1001.random.system.html</P></PEERS>
 
 	<MODELS>
 
-<M ID="1">test3.1.gold.html</M>
-<M ID="2">test3.gold.html</M>
+<M ID="1">06_1001.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="4">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1004.combined.system.html</P>
+<P ID="keyword">06_1004.keyword.system.html</P>
+<P ID="positional">06_1004.positional.system.html</P>
+<P ID="random">06_1004.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1004.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="5">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1005.combined.system.html</P>
+<P ID="keyword">06_1005.keyword.system.html</P>
+<P ID="positional">06_1005.positional.system.html</P>
+<P ID="random">06_1005.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1005.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="6">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1006.combined.system.html</P>
+<P ID="keyword">06_1006.keyword.system.html</P>
+<P ID="positional">06_1006.positional.system.html</P>
+<P ID="random">06_1006.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1006.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="7">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1015.combined.system.html</P>
+<P ID="keyword">06_1015.keyword.system.html</P>
+<P ID="positional">06_1015.positional.system.html</P>
+<P ID="random">06_1015.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1015.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="8">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1017.combined.system.html</P>
+<P ID="keyword">06_1017.keyword.system.html</P>
+<P ID="positional">06_1017.positional.system.html</P>
+<P ID="random">06_1017.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1017.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="9">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1018.combined.system.html</P>
+<P ID="keyword">06_1018.keyword.system.html</P>
+<P ID="positional">06_1018.positional.system.html</P>
+<P ID="random">06_1018.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1018.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="10">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_102.combined.system.html</P>
+<P ID="keyword">06_102.keyword.system.html</P>
+<P ID="positional">06_102.positional.system.html</P>
+<P ID="random">06_102.random.system.html</P>
+<P ID="combined">06_1021.combined.system.html</P>
+<P ID="keyword">06_1021.keyword.system.html</P>
+<P ID="positional">06_1021.positional.system.html</P>
+<P ID="random">06_1021.random.system.html</P>
+<P ID="combined">06_1022.combined.system.html</P>
+<P ID="keyword">06_1022.keyword.system.html</P>
+<P ID="positional">06_1022.positional.system.html</P>
+<P ID="random">06_1022.random.system.html</P>
+<P ID="combined">06_1023.combined.system.html</P>
+<P ID="keyword">06_1023.keyword.system.html</P>
+<P ID="positional">06_1023.positional.system.html</P>
+<P ID="random">06_1023.random.system.html</P>
+<P ID="combined">06_1026.combined.system.html</P>
+<P ID="keyword">06_1026.keyword.system.html</P>
+<P ID="positional">06_1026.positional.system.html</P>
+<P ID="random">06_1026.random.system.html</P>
+<P ID="combined">06_1027.combined.system.html</P>
+<P ID="keyword">06_1027.keyword.system.html</P>
+<P ID="positional">06_1027.positional.system.html</P>
+<P ID="random">06_1027.random.system.html</P>
+<P ID="combined">06_1028.combined.system.html</P>
+<P ID="keyword">06_1028.keyword.system.html</P>
+<P ID="positional">06_1028.positional.system.html</P>
+<P ID="random">06_1028.random.system.html</P>
+<P ID="combined">06_1029.combined.system.html</P>
+<P ID="keyword">06_1029.keyword.system.html</P>
+<P ID="positional">06_1029.positional.system.html</P>
+<P ID="random">06_1029.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_102.1.gold.html</M>
+<M ID="2">06_1021.1.gold.html</M>
+<M ID="3">06_1022.1.gold.html</M>
+<M ID="4">06_1023.1.gold.html</M>
+<M ID="5">06_1026.1.gold.html</M>
+<M ID="6">06_1027.1.gold.html</M>
+<M ID="7">06_1028.1.gold.html</M>
+<M ID="8">06_1029.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="11">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1021.combined.system.html</P>
+<P ID="keyword">06_1021.keyword.system.html</P>
+<P ID="positional">06_1021.positional.system.html</P>
+<P ID="random">06_1021.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1021.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="12">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1022.combined.system.html</P>
+<P ID="keyword">06_1022.keyword.system.html</P>
+<P ID="positional">06_1022.positional.system.html</P>
+<P ID="random">06_1022.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1022.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="13">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1023.combined.system.html</P>
+<P ID="keyword">06_1023.keyword.system.html</P>
+<P ID="positional">06_1023.positional.system.html</P>
+<P ID="random">06_1023.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1023.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="14">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1026.combined.system.html</P>
+<P ID="keyword">06_1026.keyword.system.html</P>
+<P ID="positional">06_1026.positional.system.html</P>
+<P ID="random">06_1026.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1026.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="15">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1027.combined.system.html</P>
+<P ID="keyword">06_1027.keyword.system.html</P>
+<P ID="positional">06_1027.positional.system.html</P>
+<P ID="random">06_1027.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1027.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="16">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1028.combined.system.html</P>
+<P ID="keyword">06_1028.keyword.system.html</P>
+<P ID="positional">06_1028.positional.system.html</P>
+<P ID="random">06_1028.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1028.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="17">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1029.combined.system.html</P>
+<P ID="keyword">06_1029.keyword.system.html</P>
+<P ID="positional">06_1029.positional.system.html</P>
+<P ID="random">06_1029.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1029.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="18">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1032.combined.system.html</P>
+<P ID="keyword">06_1032.keyword.system.html</P>
+<P ID="positional">06_1032.positional.system.html</P>
+<P ID="random">06_1032.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1032.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="19">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1033.combined.system.html</P>
+<P ID="keyword">06_1033.keyword.system.html</P>
+<P ID="positional">06_1033.positional.system.html</P>
+<P ID="random">06_1033.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1033.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="20">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1041.combined.system.html</P>
+<P ID="keyword">06_1041.keyword.system.html</P>
+<P ID="positional">06_1041.positional.system.html</P>
+<P ID="random">06_1041.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1041.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="21">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1042.combined.system.html</P>
+<P ID="keyword">06_1042.keyword.system.html</P>
+<P ID="positional">06_1042.positional.system.html</P>
+<P ID="random">06_1042.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1042.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="22">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1043.combined.system.html</P>
+<P ID="keyword">06_1043.keyword.system.html</P>
+<P ID="positional">06_1043.positional.system.html</P>
+<P ID="random">06_1043.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1043.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="23">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1044.combined.system.html</P>
+<P ID="keyword">06_1044.keyword.system.html</P>
+<P ID="positional">06_1044.positional.system.html</P>
+<P ID="random">06_1044.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1044.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="24">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1045.combined.system.html</P>
+<P ID="keyword">06_1045.keyword.system.html</P>
+<P ID="positional">06_1045.positional.system.html</P>
+<P ID="random">06_1045.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1045.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="25">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1046.combined.system.html</P>
+<P ID="keyword">06_1046.keyword.system.html</P>
+<P ID="positional">06_1046.positional.system.html</P>
+<P ID="random">06_1046.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1046.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="26">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1048.combined.system.html</P>
+<P ID="keyword">06_1048.keyword.system.html</P>
+<P ID="positional">06_1048.positional.system.html</P>
+<P ID="random">06_1048.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1048.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="27">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1049.combined.system.html</P>
+<P ID="keyword">06_1049.keyword.system.html</P>
+<P ID="positional">06_1049.positional.system.html</P>
+<P ID="random">06_1049.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1049.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="28">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_105.combined.system.html</P>
+<P ID="keyword">06_105.keyword.system.html</P>
+<P ID="positional">06_105.positional.system.html</P>
+<P ID="random">06_105.random.system.html</P>
+<P ID="combined">06_1050.combined.system.html</P>
+<P ID="keyword">06_1050.keyword.system.html</P>
+<P ID="positional">06_1050.positional.system.html</P>
+<P ID="random">06_1050.random.system.html</P>
+<P ID="combined">06_1051.combined.system.html</P>
+<P ID="keyword">06_1051.keyword.system.html</P>
+<P ID="positional">06_1051.positional.system.html</P>
+<P ID="random">06_1051.random.system.html</P>
+<P ID="combined">06_1054.combined.system.html</P>
+<P ID="keyword">06_1054.keyword.system.html</P>
+<P ID="positional">06_1054.positional.system.html</P>
+<P ID="random">06_1054.random.system.html</P>
+<P ID="combined">06_1056.combined.system.html</P>
+<P ID="keyword">06_1056.keyword.system.html</P>
+<P ID="positional">06_1056.positional.system.html</P>
+<P ID="random">06_1056.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_105.1.gold.html</M>
+<M ID="2">06_1050.1.gold.html</M>
+<M ID="3">06_1051.1.gold.html</M>
+<M ID="4">06_1054.1.gold.html</M>
+<M ID="5">06_1056.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="29">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1050.combined.system.html</P>
+<P ID="keyword">06_1050.keyword.system.html</P>
+<P ID="positional">06_1050.positional.system.html</P>
+<P ID="random">06_1050.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1050.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="30">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1051.combined.system.html</P>
+<P ID="keyword">06_1051.keyword.system.html</P>
+<P ID="positional">06_1051.positional.system.html</P>
+<P ID="random">06_1051.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1051.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="31">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1054.combined.system.html</P>
+<P ID="keyword">06_1054.keyword.system.html</P>
+<P ID="positional">06_1054.positional.system.html</P>
+<P ID="random">06_1054.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1054.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="32">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1056.combined.system.html</P>
+<P ID="keyword">06_1056.keyword.system.html</P>
+<P ID="positional">06_1056.positional.system.html</P>
+<P ID="random">06_1056.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1056.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="33">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_106.combined.system.html</P>
+<P ID="keyword">06_106.keyword.system.html</P>
+<P ID="positional">06_106.positional.system.html</P>
+<P ID="random">06_106.random.system.html</P>
+<P ID="combined">06_1066.combined.system.html</P>
+<P ID="keyword">06_1066.keyword.system.html</P>
+<P ID="positional">06_1066.positional.system.html</P>
+<P ID="random">06_1066.random.system.html</P>
+<P ID="combined">06_1069.combined.system.html</P>
+<P ID="keyword">06_1069.keyword.system.html</P>
+<P ID="positional">06_1069.positional.system.html</P>
+<P ID="random">06_1069.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_106.1.gold.html</M>
+<M ID="2">06_1066.1.gold.html</M>
+<M ID="3">06_1069.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="34">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1066.combined.system.html</P>
+<P ID="keyword">06_1066.keyword.system.html</P>
+<P ID="positional">06_1066.positional.system.html</P>
+<P ID="random">06_1066.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1066.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="35">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1069.combined.system.html</P>
+<P ID="keyword">06_1069.keyword.system.html</P>
+<P ID="positional">06_1069.positional.system.html</P>
+<P ID="random">06_1069.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1069.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="36">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_107.combined.system.html</P>
+<P ID="keyword">06_107.keyword.system.html</P>
+<P ID="positional">06_107.positional.system.html</P>
+<P ID="random">06_107.random.system.html</P>
+<P ID="combined">06_1070.combined.system.html</P>
+<P ID="keyword">06_1070.keyword.system.html</P>
+<P ID="positional">06_1070.positional.system.html</P>
+<P ID="random">06_1070.random.system.html</P>
+<P ID="combined">06_1071.combined.system.html</P>
+<P ID="keyword">06_1071.keyword.system.html</P>
+<P ID="positional">06_1071.positional.system.html</P>
+<P ID="random">06_1071.random.system.html</P>
+<P ID="combined">06_1072.combined.system.html</P>
+<P ID="keyword">06_1072.keyword.system.html</P>
+<P ID="positional">06_1072.positional.system.html</P>
+<P ID="random">06_1072.random.system.html</P>
+<P ID="combined">06_1073.combined.system.html</P>
+<P ID="keyword">06_1073.keyword.system.html</P>
+<P ID="positional">06_1073.positional.system.html</P>
+<P ID="random">06_1073.random.system.html</P>
+<P ID="combined">06_1074.combined.system.html</P>
+<P ID="keyword">06_1074.keyword.system.html</P>
+<P ID="positional">06_1074.positional.system.html</P>
+<P ID="random">06_1074.random.system.html</P>
+<P ID="combined">06_1075.combined.system.html</P>
+<P ID="keyword">06_1075.keyword.system.html</P>
+<P ID="positional">06_1075.positional.system.html</P>
+<P ID="random">06_1075.random.system.html</P>
+<P ID="combined">06_1077.combined.system.html</P>
+<P ID="keyword">06_1077.keyword.system.html</P>
+<P ID="positional">06_1077.positional.system.html</P>
+<P ID="random">06_1077.random.system.html</P>
+<P ID="combined">06_1078.combined.system.html</P>
+<P ID="keyword">06_1078.keyword.system.html</P>
+<P ID="positional">06_1078.positional.system.html</P>
+<P ID="random">06_1078.random.system.html</P>
+<P ID="combined">06_1079.combined.system.html</P>
+<P ID="keyword">06_1079.keyword.system.html</P>
+<P ID="positional">06_1079.positional.system.html</P>
+<P ID="random">06_1079.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_107.1.gold.html</M>
+<M ID="2">06_1070.1.gold.html</M>
+<M ID="3">06_1071.1.gold.html</M>
+<M ID="4">06_1072.1.gold.html</M>
+<M ID="5">06_1073.1.gold.html</M>
+<M ID="6">06_1074.1.gold.html</M>
+<M ID="7">06_1075.1.gold.html</M>
+<M ID="8">06_1077.1.gold.html</M>
+<M ID="9">06_1078.1.gold.html</M>
+<M ID="10">06_1079.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="37">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1070.combined.system.html</P>
+<P ID="keyword">06_1070.keyword.system.html</P>
+<P ID="positional">06_1070.positional.system.html</P>
+<P ID="random">06_1070.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1070.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="38">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1071.combined.system.html</P>
+<P ID="keyword">06_1071.keyword.system.html</P>
+<P ID="positional">06_1071.positional.system.html</P>
+<P ID="random">06_1071.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1071.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="39">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1072.combined.system.html</P>
+<P ID="keyword">06_1072.keyword.system.html</P>
+<P ID="positional">06_1072.positional.system.html</P>
+<P ID="random">06_1072.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1072.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="40">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1073.combined.system.html</P>
+<P ID="keyword">06_1073.keyword.system.html</P>
+<P ID="positional">06_1073.positional.system.html</P>
+<P ID="random">06_1073.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1073.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="41">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1074.combined.system.html</P>
+<P ID="keyword">06_1074.keyword.system.html</P>
+<P ID="positional">06_1074.positional.system.html</P>
+<P ID="random">06_1074.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1074.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="42">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1075.combined.system.html</P>
+<P ID="keyword">06_1075.keyword.system.html</P>
+<P ID="positional">06_1075.positional.system.html</P>
+<P ID="random">06_1075.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1075.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="43">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1077.combined.system.html</P>
+<P ID="keyword">06_1077.keyword.system.html</P>
+<P ID="positional">06_1077.positional.system.html</P>
+<P ID="random">06_1077.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1077.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="44">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1078.combined.system.html</P>
+<P ID="keyword">06_1078.keyword.system.html</P>
+<P ID="positional">06_1078.positional.system.html</P>
+<P ID="random">06_1078.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1078.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="45">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1079.combined.system.html</P>
+<P ID="keyword">06_1079.keyword.system.html</P>
+<P ID="positional">06_1079.positional.system.html</P>
+<P ID="random">06_1079.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1079.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="46">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1080.combined.system.html</P>
+<P ID="keyword">06_1080.keyword.system.html</P>
+<P ID="positional">06_1080.positional.system.html</P>
+<P ID="random">06_1080.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1080.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="47">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1082.combined.system.html</P>
+<P ID="keyword">06_1082.keyword.system.html</P>
+<P ID="positional">06_1082.positional.system.html</P>
+<P ID="random">06_1082.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1082.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="48">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1083.combined.system.html</P>
+<P ID="keyword">06_1083.keyword.system.html</P>
+<P ID="positional">06_1083.positional.system.html</P>
+<P ID="random">06_1083.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1083.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="49">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1084.combined.system.html</P>
+<P ID="keyword">06_1084.keyword.system.html</P>
+<P ID="positional">06_1084.positional.system.html</P>
+<P ID="random">06_1084.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1084.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="50">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1085.combined.system.html</P>
+<P ID="keyword">06_1085.keyword.system.html</P>
+<P ID="positional">06_1085.positional.system.html</P>
+<P ID="random">06_1085.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1085.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="51">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1086.combined.system.html</P>
+<P ID="keyword">06_1086.keyword.system.html</P>
+<P ID="positional">06_1086.positional.system.html</P>
+<P ID="random">06_1086.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1086.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="52">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1088.combined.system.html</P>
+<P ID="keyword">06_1088.keyword.system.html</P>
+<P ID="positional">06_1088.positional.system.html</P>
+<P ID="random">06_1088.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1088.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="53">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1089.combined.system.html</P>
+<P ID="keyword">06_1089.keyword.system.html</P>
+<P ID="positional">06_1089.positional.system.html</P>
+<P ID="random">06_1089.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1089.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="54">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_109.combined.system.html</P>
+<P ID="keyword">06_109.keyword.system.html</P>
+<P ID="positional">06_109.positional.system.html</P>
+<P ID="random">06_109.random.system.html</P>
+<P ID="combined">06_1095.combined.system.html</P>
+<P ID="keyword">06_1095.keyword.system.html</P>
+<P ID="positional">06_1095.positional.system.html</P>
+<P ID="random">06_1095.random.system.html</P>
+<P ID="combined">06_1096.combined.system.html</P>
+<P ID="keyword">06_1096.keyword.system.html</P>
+<P ID="positional">06_1096.positional.system.html</P>
+<P ID="random">06_1096.random.system.html</P>
+<P ID="combined">06_1097.combined.system.html</P>
+<P ID="keyword">06_1097.keyword.system.html</P>
+<P ID="positional">06_1097.positional.system.html</P>
+<P ID="random">06_1097.random.system.html</P>
+<P ID="combined">06_1098.combined.system.html</P>
+<P ID="keyword">06_1098.keyword.system.html</P>
+<P ID="positional">06_1098.positional.system.html</P>
+<P ID="random">06_1098.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_109.1.gold.html</M>
+<M ID="2">06_1095.1.gold.html</M>
+<M ID="3">06_1096.1.gold.html</M>
+<M ID="4">06_1097.1.gold.html</M>
+<M ID="5">06_1098.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="55">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1095.combined.system.html</P>
+<P ID="keyword">06_1095.keyword.system.html</P>
+<P ID="positional">06_1095.positional.system.html</P>
+<P ID="random">06_1095.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1095.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="56">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1096.combined.system.html</P>
+<P ID="keyword">06_1096.keyword.system.html</P>
+<P ID="positional">06_1096.positional.system.html</P>
+<P ID="random">06_1096.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1096.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="57">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1097.combined.system.html</P>
+<P ID="keyword">06_1097.keyword.system.html</P>
+<P ID="positional">06_1097.positional.system.html</P>
+<P ID="random">06_1097.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1097.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="58">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1098.combined.system.html</P>
+<P ID="keyword">06_1098.keyword.system.html</P>
+<P ID="positional">06_1098.positional.system.html</P>
+<P ID="random">06_1098.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1098.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="59">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_11.combined.system.html</P>
+<P ID="keyword">06_11.keyword.system.html</P>
+<P ID="positional">06_11.positional.system.html</P>
+<P ID="random">06_11.random.system.html</P>
+<P ID="combined">06_110.combined.system.html</P>
+<P ID="keyword">06_110.keyword.system.html</P>
+<P ID="positional">06_110.positional.system.html</P>
+<P ID="random">06_110.random.system.html</P>
+<P ID="combined">06_1101.combined.system.html</P>
+<P ID="keyword">06_1101.keyword.system.html</P>
+<P ID="positional">06_1101.positional.system.html</P>
+<P ID="random">06_1101.random.system.html</P>
+<P ID="combined">06_1102.combined.system.html</P>
+<P ID="keyword">06_1102.keyword.system.html</P>
+<P ID="positional">06_1102.positional.system.html</P>
+<P ID="random">06_1102.random.system.html</P>
+<P ID="combined">06_1104.combined.system.html</P>
+<P ID="keyword">06_1104.keyword.system.html</P>
+<P ID="positional">06_1104.positional.system.html</P>
+<P ID="random">06_1104.random.system.html</P>
+<P ID="combined">06_1106.combined.system.html</P>
+<P ID="keyword">06_1106.keyword.system.html</P>
+<P ID="positional">06_1106.positional.system.html</P>
+<P ID="random">06_1106.random.system.html</P>
+<P ID="combined">06_1110.combined.system.html</P>
+<P ID="keyword">06_1110.keyword.system.html</P>
+<P ID="positional">06_1110.positional.system.html</P>
+<P ID="random">06_1110.random.system.html</P>
+<P ID="combined">06_1112.combined.system.html</P>
+<P ID="keyword">06_1112.keyword.system.html</P>
+<P ID="positional">06_1112.positional.system.html</P>
+<P ID="random">06_1112.random.system.html</P>
+<P ID="combined">06_1113.combined.system.html</P>
+<P ID="keyword">06_1113.keyword.system.html</P>
+<P ID="positional">06_1113.positional.system.html</P>
+<P ID="random">06_1113.random.system.html</P>
+<P ID="combined">06_1114.combined.system.html</P>
+<P ID="keyword">06_1114.keyword.system.html</P>
+<P ID="positional">06_1114.positional.system.html</P>
+<P ID="random">06_1114.random.system.html</P>
+<P ID="combined">06_1115.combined.system.html</P>
+<P ID="keyword">06_1115.keyword.system.html</P>
+<P ID="positional">06_1115.positional.system.html</P>
+<P ID="random">06_1115.random.system.html</P>
+<P ID="combined">06_112.combined.system.html</P>
+<P ID="keyword">06_112.keyword.system.html</P>
+<P ID="positional">06_112.positional.system.html</P>
+<P ID="random">06_112.random.system.html</P>
+<P ID="combined">06_114.combined.system.html</P>
+<P ID="keyword">06_114.keyword.system.html</P>
+<P ID="positional">06_114.positional.system.html</P>
+<P ID="random">06_114.random.system.html</P>
+<P ID="combined">06_118.combined.system.html</P>
+<P ID="keyword">06_118.keyword.system.html</P>
+<P ID="positional">06_118.positional.system.html</P>
+<P ID="random">06_118.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_11.1.gold.html</M>
+<M ID="2">06_110.1.gold.html</M>
+<M ID="3">06_1101.1.gold.html</M>
+<M ID="4">06_1102.1.gold.html</M>
+<M ID="5">06_1104.1.gold.html</M>
+<M ID="6">06_1106.1.gold.html</M>
+<M ID="7">06_1110.1.gold.html</M>
+<M ID="8">06_1112.1.gold.html</M>
+<M ID="9">06_1113.1.gold.html</M>
+<M ID="10">06_1114.1.gold.html</M>
+<M ID="11">06_1115.1.gold.html</M>
+<M ID="12">06_1116.1.gold.html</M>
+<M ID="13">06_112.1.gold.html</M>
+<M ID="14">06_114.1.gold.html</M>
+<M ID="15">06_118.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="60">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_110.combined.system.html</P>
+<P ID="keyword">06_110.keyword.system.html</P>
+<P ID="positional">06_110.positional.system.html</P>
+<P ID="random">06_110.random.system.html</P>
+<P ID="combined">06_1101.combined.system.html</P>
+<P ID="keyword">06_1101.keyword.system.html</P>
+<P ID="positional">06_1101.positional.system.html</P>
+<P ID="random">06_1101.random.system.html</P>
+<P ID="combined">06_1102.combined.system.html</P>
+<P ID="keyword">06_1102.keyword.system.html</P>
+<P ID="positional">06_1102.positional.system.html</P>
+<P ID="random">06_1102.random.system.html</P>
+<P ID="combined">06_1104.combined.system.html</P>
+<P ID="keyword">06_1104.keyword.system.html</P>
+<P ID="positional">06_1104.positional.system.html</P>
+<P ID="random">06_1104.random.system.html</P>
+<P ID="combined">06_1106.combined.system.html</P>
+<P ID="keyword">06_1106.keyword.system.html</P>
+<P ID="positional">06_1106.positional.system.html</P>
+<P ID="random">06_1106.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_110.1.gold.html</M>
+<M ID="2">06_1101.1.gold.html</M>
+<M ID="3">06_1102.1.gold.html</M>
+<M ID="4">06_1104.1.gold.html</M>
+<M ID="5">06_1106.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="61">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1101.combined.system.html</P>
+<P ID="keyword">06_1101.keyword.system.html</P>
+<P ID="positional">06_1101.positional.system.html</P>
+<P ID="random">06_1101.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1101.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="62">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1102.combined.system.html</P>
+<P ID="keyword">06_1102.keyword.system.html</P>
+<P ID="positional">06_1102.positional.system.html</P>
+<P ID="random">06_1102.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1102.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="63">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1104.combined.system.html</P>
+<P ID="keyword">06_1104.keyword.system.html</P>
+<P ID="positional">06_1104.positional.system.html</P>
+<P ID="random">06_1104.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1104.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="64">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1106.combined.system.html</P>
+<P ID="keyword">06_1106.keyword.system.html</P>
+<P ID="positional">06_1106.positional.system.html</P>
+<P ID="random">06_1106.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1106.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="65">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1110.combined.system.html</P>
+<P ID="keyword">06_1110.keyword.system.html</P>
+<P ID="positional">06_1110.positional.system.html</P>
+<P ID="random">06_1110.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1110.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="66">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1112.combined.system.html</P>
+<P ID="keyword">06_1112.keyword.system.html</P>
+<P ID="positional">06_1112.positional.system.html</P>
+<P ID="random">06_1112.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1112.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="67">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1113.combined.system.html</P>
+<P ID="keyword">06_1113.keyword.system.html</P>
+<P ID="positional">06_1113.positional.system.html</P>
+<P ID="random">06_1113.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1113.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="68">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1114.combined.system.html</P>
+<P ID="keyword">06_1114.keyword.system.html</P>
+<P ID="positional">06_1114.positional.system.html</P>
+<P ID="random">06_1114.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1114.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="69">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_1115.combined.system.html</P>
+<P ID="keyword">06_1115.keyword.system.html</P>
+<P ID="positional">06_1115.positional.system.html</P>
+<P ID="random">06_1115.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_1115.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="71">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_112.combined.system.html</P>
+<P ID="keyword">06_112.keyword.system.html</P>
+<P ID="positional">06_112.positional.system.html</P>
+<P ID="random">06_112.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_112.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="72">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_114.combined.system.html</P>
+<P ID="keyword">06_114.keyword.system.html</P>
+<P ID="positional">06_114.positional.system.html</P>
+<P ID="random">06_114.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_114.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="73">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_118.combined.system.html</P>
+<P ID="keyword">06_118.keyword.system.html</P>
+<P ID="positional">06_118.positional.system.html</P>
+<P ID="random">06_118.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_118.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="74">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_12.combined.system.html</P>
+<P ID="keyword">06_12.keyword.system.html</P>
+<P ID="positional">06_12.positional.system.html</P>
+<P ID="random">06_12.random.system.html</P>
+<P ID="combined">06_121.combined.system.html</P>
+<P ID="keyword">06_121.keyword.system.html</P>
+<P ID="positional">06_121.positional.system.html</P>
+<P ID="random">06_121.random.system.html</P>
+<P ID="combined">06_122.combined.system.html</P>
+<P ID="keyword">06_122.keyword.system.html</P>
+<P ID="positional">06_122.positional.system.html</P>
+<P ID="random">06_122.random.system.html</P>
+<P ID="combined">06_124.combined.system.html</P>
+<P ID="keyword">06_124.keyword.system.html</P>
+<P ID="positional">06_124.positional.system.html</P>
+<P ID="random">06_124.random.system.html</P>
+<P ID="combined">06_125.combined.system.html</P>
+<P ID="keyword">06_125.keyword.system.html</P>
+<P ID="positional">06_125.positional.system.html</P>
+<P ID="random">06_125.random.system.html</P>
+<P ID="combined">06_126.combined.system.html</P>
+<P ID="keyword">06_126.keyword.system.html</P>
+<P ID="positional">06_126.positional.system.html</P>
+<P ID="random">06_126.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_12.1.gold.html</M>
+<M ID="2">06_121.1.gold.html</M>
+<M ID="3">06_122.1.gold.html</M>
+<M ID="4">06_124.1.gold.html</M>
+<M ID="5">06_125.1.gold.html</M>
+<M ID="6">06_126.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="75">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_121.combined.system.html</P>
+<P ID="keyword">06_121.keyword.system.html</P>
+<P ID="positional">06_121.positional.system.html</P>
+<P ID="random">06_121.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_121.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="76">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_122.combined.system.html</P>
+<P ID="keyword">06_122.keyword.system.html</P>
+<P ID="positional">06_122.positional.system.html</P>
+<P ID="random">06_122.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_122.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="77">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_124.combined.system.html</P>
+<P ID="keyword">06_124.keyword.system.html</P>
+<P ID="positional">06_124.positional.system.html</P>
+<P ID="random">06_124.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_124.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="78">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_125.combined.system.html</P>
+<P ID="keyword">06_125.keyword.system.html</P>
+<P ID="positional">06_125.positional.system.html</P>
+<P ID="random">06_125.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_125.1.gold.html</M>
+</MODELS>
+	</EVAL>
+<EVAL ID="79">
+<PEER-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/systems</PEER-ROOT>
+<MODEL-ROOT>/Users/johnathan_ashley/Documents/ClassStuff/CSClasses/CS159/FiNLProject/NLPFinalProject/rouge-nlp/models</MODEL-ROOT>
+<INPUT-FORMAT TYPE="SEE"></INPUT-FORMAT>
+<PEERS>
+<P ID="combined">06_126.combined.system.html</P>
+<P ID="keyword">06_126.keyword.system.html</P>
+<P ID="positional">06_126.positional.system.html</P>
+<P ID="random">06_126.random.system.html</P></PEERS>
+
+	<MODELS>
+
+<M ID="1">06_126.1.gold.html</M>
 </MODELS>
 	</EVAL>
 

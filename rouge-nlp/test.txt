@@ -1,4 +1,16 @@
 ---------------------------------------------
- ROUGE-SU* Average_R: 0.13333 (95%-conf.int. 0.00000 - 0.40000)
- ROUGE-SU* Average_P: 0.13333 (95%-conf.int. 0.00000 - 0.40000)
- ROUGE-SU* Average_F: 0.13333 (95%-conf.int. 0.00000 - 0.40000)
+combined ROUGE-SU* Average_R: 0.01047 (95%-conf.int. 0.00402 - 0.02131)
+combined ROUGE-SU* Average_P: 0.04502 (95%-conf.int. 0.03038 - 0.06236)
+combined ROUGE-SU* Average_F: 0.00660 (95%-conf.int. 0.00448 - 0.00899)
+---------------------------------------------
+keyword ROUGE-SU* Average_R: 0.00192 (95%-conf.int. 0.00104 - 0.00294)
+keyword ROUGE-SU* Average_P: 0.03404 (95%-conf.int. 0.02355 - 0.04582)
+keyword ROUGE-SU* Average_F: 0.00236 (95%-conf.int. 0.00152 - 0.00327)
+---------------------------------------------
+positional ROUGE-SU* Average_R: 0.01554 (95%-conf.int. 0.00697 - 0.02790)
+positional ROUGE-SU* Average_P: 0.05164 (95%-conf.int. 0.04039 - 0.06440)
+positional ROUGE-SU* Average_F: 0.01044 (95%-conf.int. 0.00747 - 0.01379)
+---------------------------------------------
+random ROUGE-SU* Average_R: 0.00491 (95%-conf.int. 0.00280 - 0.00730)
+random ROUGE-SU* Average_P: 0.08174 (95%-conf.int. 0.06395 - 0.10022)
+random ROUGE-SU* Average_F: 0.00657 (95%-conf.int. 0.00398 - 0.00966)
